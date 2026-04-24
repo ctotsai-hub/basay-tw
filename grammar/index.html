@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>文法基本 — basay.tw</title>
+<meta name="description" content="巴賽語（Basay）的音韻、正書法、代名詞、格位標記、焦點系統、否定情態與數詞的入門介紹。根據《凱達格蘭（巴賽語）語法概論》ver.1.5 及音響重建論文編製。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="brand">
+      <a href="../"><span class="brand-main">凱達格蘭 · 巴賽語</span></a>
+      <span class="brand-sub">Ketagalan · Basay — 從記憶到再生</span>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="../">首頁</a></li>
+        <li><a href="./" class="active">文法</a></li>
+        <li><a href="../education/">教育推進</a></li>
+        <li><a href="../research/">研究成果</a></li>
+        <li><a href="../dictionary/">辭典</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+
+  <h1>文法基本 Basay Grammar 101</h1>
+  <p class="section-intro">
+    本章依據《凱達格蘭（巴賽語）語法概論》ver.1.5 及
+    <a href="../research/2026-04-basay-acoustic/">音響重建論文</a>（2026.04）彙整巴賽語的核心結構。
+    六母音系統以共振峰實測資料為依據；代名詞、格位標記、焦點系統與情態詞彙則循文法書各章條目呈現。
+  </p>
+
+  <div class="placeholder-note">
+    詳細例句與理論說明請參閱文法概論原書。本頁為線上檢索用之簡要版本。
+  </div>
+
+  <!-- 音聲切換 -->
+  <div class="basay-voice-switcher-mount"></div>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>1. 音韻 Phonology</h2>
+
+  <h3>1.1 母音（六母音系統）</h3>
+  <p>
+    根據<a href="../research/2026-04-basay-acoustic/">〈從淺井惠倫檔案錄音重建巴賽語母音音響特性〉</a>（蔡永桂 2026），
+    特羅比灣方言（Trobiawan / Mutravai）的母音系統為 <strong>六母音</strong>：
+    <span class="basay-word">/i, e, a, o, u, ə/</span>。
+    共振峰數值取自 Praat 聲學分析（迭代 k-means v5 分類器），基於淺井惠倫約1936年田野錄音。
+  </p>
+
+  <table>
+    <thead>
+      <tr><th>IPA</th><th>正書法</th><th>F1 (Hz)</th><th>F2 (Hz)</th><th>F3 (Hz)</th><th>例字</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay">i</td><td class="basay">i</td><td>395</td><td>1448</td><td>2054</td><td class="basay">高前元音。發音接近日語「イ」，但實際音色略偏中央，是本方言的特色之一。</td></tr>
+      <tr><td class="basay">e</td><td class="basay">e</td><td>664</td><td>1517</td><td>2054</td><td class="basay">中高前元音。發音接近日語「エ」</td></tr>
+      <tr><td class="basay">a</td><td class="basay">a</td><td>956</td><td>1780</td><td>2125</td><td class="basay">低元音。口腔開度最大，發音接近日語「ア」</td></tr>
+      <tr><td class="basay">o</td><td class="basay">o</td><td>748</td><td>1228</td><td>1970</td><td class="basay">中高後元音。發音接近日語「オ」</td></tr>
+      <tr><td class="basay">u</td><td class="basay">u</td><td>530</td><td>1329</td><td>2016</td><td class="basay">高後元音。發音接近日語「ウ」</td></tr>
+      <tr><td class="basay">ə</td><td class="basay">o'</td><td>837</td><td>1535</td><td>2027</td><td>中央元音（Schwa）。放鬆、中性的元音。類似英語 "about" </td></tr>
+    </tbody>
+  </table>
+  <p class="note" style="font-size:0.9rem;color:var(--color-drift);">
+    ※ /i/ 的 F2 偏低（約 1448 Hz）為該方言之實測特徵，
+    在語音錄音與歌謠錄音中均可確認，非測量誤差。
+  </p>
+
+  <h3>1.2 輔音</h3>
+  <p>巴賽語音素表依發音部位與發音方式排列如下（IPA／正書法）：</p>
+  <table>
+    <thead>
+      <tr><th></th><th>雙唇</th><th>唇齒</th><th>齒齦</th><th>後齒齦</th><th>硬顎</th><th>軟顎</th><th>小舌</th><th>聲門</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>破裂音</td><td class="basay">p, b</td><td></td><td class="basay">t, d</td><td></td><td></td><td class="basay">k, g</td><td class="basay">q</td><td></td></tr>
+      <tr><td>鼻音</td><td class="basay">m</td><td></td><td class="basay">n</td><td></td><td></td><td class="basay">ŋ ⟨n'⟩</td><td></td><td></td></tr>
+      <tr><td>顫音</td><td></td><td></td><td class="basay">r</td><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td>摩擦音</td><td></td><td class="basay">v</td><td class="basay">s, z</td><td class="basay">ʃ ⟨s'⟩</td><td></td><td></td><td></td><td class="basay">h</td></tr>
+      <tr><td>側面摩擦音</td><td></td><td></td><td class="basay">ɮ ⟨z'⟩</td><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td>側面接近音</td><td></td><td></td><td class="basay">l</td><td></td><td class="basay">ɭ ⟨l'⟩</td><td></td><td></td><td></td></tr>
+    </tbody>
+  </table>
+
+  <h3>1.3 正書法之考量 Orthography</h3>
+  <p>
+    本書的正書法避免採用以兩個拉丁字母來表記單一音素的普遍慣例（例如不用 <code>ng</code> 對應 <code>ŋ</code>）。
+    巴賽語已無母語者，學習者只能依賴國際音標（IPA）為中介；
+    若正書法與 IPA 字型乖離過大，將嚴重妨礙學習與辨識。
+    因此本書以 <strong>接近 IPA 的字型</strong> 為原則，並以撇號 <code>'</code> 作為區別符號，
+    確保書寫系統與音標間的高度透明性。
+  </p>
+
+  <table>
+    <thead>
+      <tr><th>IPA</th><th>正書法</th><th>說明</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay">ŋ</td><td class="basay">n'</td><td>軟顎鼻音（非 <code>ng</code>）</td></tr>
+      <tr><td class="basay">ʃ</td><td class="basay">s'</td><td>後齦清擦音</td></tr>
+      <tr><td class="basay">ɭ</td><td class="basay">l'</td><td>硬顎側面接近音</td></tr>
+      <tr><td class="basay">ɮ</td><td class="basay">z'</td><td>捲舌邊音（巴賽語獨特音）</td></tr>
+      <tr><td class="basay">ə</td><td class="basay">o'</td><td>央母音（Schwa）</td></tr>
+    </tbody>
+  </table>
+  <p class="note" style="font-size:0.9rem;color:var(--color-drift);">
+    ※ 撇號 <code>'</code> 為音素修飾符號，與前方輔音構成一體的音素單位，不可視為獨立字元。
+  </p>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>2. 語序 Word Order</h2>
+  <p>
+    巴賽語為南島語系謂語中心型（predicate-initial）語言，基本語序為
+    <strong>謂語 – 主語 – 其他成分（VSO）</strong>。
+    句中必選一語意角色為「焦點（主角）」，並以主格標記 <code>ta</code> 或主格人稱代名詞標示；
+    其餘角色則以屬格、與格、斜格標記帶出。
+  </p>
+  <div class="phrase">
+    <div class="basay" data-basay="m-ali ta vutsusa">m-ali ta vutsusa.</div>
+    <div class="zh">漢人來了。（V-S 主事焦點）</div>
+    <div class="note">m-ali = ali「來」+ 主事焦點前綴 m-；ta vutsusa = 主格標記 + 普通名詞。</div>
+  </div>
+  <div class="phrase">
+    <div class="basay" data-basay="kasul'ija m-l'asl'aseq">kasul'-ija m-l'asl'aseq.</div>
+    <div class="zh">僕人打掃周圍環境。</div>
+    <div class="note">kasul'-ija = kasul'（僕人）+ 第三人稱主格短式 -ija；ija 本身即主格，故 ta 省略。</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>3. 代名詞 Pronouns</h2>
+  <p>
+    巴賽語人稱代名詞系統具備三個南島語典型維度：
+    <strong>人稱</strong>（第一・第二・第三）、
+    <strong>數</strong>（單數・複數）、
+    <strong>包含與排除</strong>（Inclusive vs. Exclusive，僅第一人稱複數）。
+    各格位多有 <strong>長式</strong>（獨立詞）與 <strong>短式</strong>（附著詞 / clitic）兩種形態。
+  </p>
+
+  <h3>3.1 人稱代名詞格位變化總表</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>格位</th>
+        <th>第一單數<br><small>（我）</small></th>
+        <th>第二單數<br><small>（你）</small></th>
+        <th>第一複包含<br><small>（咱們）</small></th>
+        <th>第一複排除<br><small>（我們）</small></th>
+        <th>第二複數<br><small>（你們）</small></th>
+        <th>第三單數<br><small>（他／她）</small></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>主格長式</td><td class="basay">yaku, kaku, tak</td><td class="basay">kisu, tis</td><td class="basay">kita</td><td class="basay">yami, tam</td><td class="basay">kimu, tim</td><td class="basay">tia</td></tr>
+      <tr><td>主格短式</td><td class="basay">ku, ik</td><td class="basay">su, is</td><td class="basay">ta, it</td><td class="basay">mi, am</td><td class="basay">mu, im</td><td class="basay">ija</td></tr>
+      <tr><td>屬格長式</td><td class="basay">naku</td><td class="basay">nisu</td><td class="basay">nita</td><td class="basay">nami</td><td class="basay">nimu</td><td class="basay">nia</td></tr>
+      <tr><td>屬格短式</td><td class="basay">aku</td><td class="basay">isu</td><td class="basay">ita</td><td class="basay">ami</td><td class="basay">imu</td><td class="basay">ia</td></tr>
+      <tr><td>與格</td><td class="basay">maku</td><td class="basay">misu</td><td class="basay">mita</td><td class="basay">mami</td><td class="basay">mimu</td><td>—</td></tr>
+      <tr><td>斜格</td><td class="basay">kuanan</td><td class="basay">(i)suanan</td><td class="basay">tianan</td><td class="basay">mianan</td><td class="basay">imuanan</td><td>—</td></tr>
+    </tbody>
+  </table>
+
+  <h3>3.2 四格位的功能</h3>
+  <ul>
+    <li><strong>主格（Nominative）</strong>：句子的「主角」（焦點）。通常與主事焦點連用。</li>
+    <li><strong>屬格（Genitive）</strong>：非主事焦點句中的行為者；同時表「~的」所有關係。</li>
+    <li><strong>與格（Dative）</strong>：動作之終點、對象、受益者（給~、為~）；或狀態句之經驗者。</li>
+    <li><strong>斜格（Oblique）</strong>：直接受事；或與該人稱相關之處所。斜格代名詞本身已帶斜格標記，前方不需加 <code>u</code>。</li>
+  </ul>
+
+  <h3>3.3 長式與短式的區別</h3>
+  <p>
+    <strong>短式</strong>為附著詞（clitic），不能獨立存在，必須附著於主事（動詞／形容詞）詞幹或普通名詞之後。
+    <strong>長式</strong>為獨立詞彙，可獨立存在，亦可移至句首以示強調。
+  </p>
+  <div class="phrase">
+    <div class="basay" data-basay="Lavi aw it na">Lavi aw(i)-it na.</div>
+    <div class="zh">咱們晚上去吧。（短式 -it 附著於 awi）</div>
+  </div>
+  <div class="phrase">
+    <div class="basay" data-basay="Lavi awi-na kita">Lavi awi-na kita.</div>
+    <div class="zh">咱們晚上去吧。（長式 kita，已然標記 na 前移至動詞後）</div>
+  </div>
+  <div class="phrase">
+    <div class="basay" data-basay="Kita awi-na lavi">Kita awi-na lavi.</div>
+    <div class="zh">咱們晚上去吧。（長式置於句首以強調行為者）</div>
+  </div>
+
+  <h3>3.4 包含式 vs. 排除式</h3>
+  <div class="phrase">
+    <div class="basay" data-basay="Taiwanese kita, Basay Kimi">Taiwanese kita, Basay Kimi.</div>
+    <div class="zh">咱們是台灣人，但我們是巴賽人。</div>
+    <div class="note">
+      前半用包含式 <code>kita</code>「咱們（含你）」；後半切換為排除式 <code>Kimi</code>「我們（不含你）」，
+      於共同身份之下劃分族群立場。
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>4. 格位標記 Case Markers</h2>
+  <p>
+    巴賽語使用一套精簡的格位標記系統來標示名詞身份。
+    <strong>不區分類別詞</strong>（普通名詞、專有名詞、人名一體適用），此為其文法一大特點。
+  </p>
+
+  <table>
+    <thead>
+      <tr><th>標記</th><th>格位</th><th>功能</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay">ta</td><td>主格 Nominative</td><td>標示句子的焦點（主角）。無論受事、行為者或受益者，被選為焦點者皆冠 <code>ta</code>。</td></tr>
+      <tr><td class="basay">u</td><td>斜格 Oblique</td><td>非焦點的核心參與者：非焦點行為者、受事者、受益者／目標、被使役者；亦引導謂語的補語。</td></tr>
+      <tr><td class="basay">i/s</td><td>情態接頭辭  Modality Prfix</td><td>情態演算子：i- : 狀態定格（「定格型」受事焦點）； s- :能動拒絶（「抵抗型」受事焦點）。</td></tr>
+      <tr><td class="basay">na</td><td>媒介格 Mediator</td><td><strong>外在工具</strong>（人為操作）與<strong>比較基準</strong>（像~一樣）。與時貌標記 -na 不同。</td></tr>
+      <tr><td class="basay">nu</td><td>手段／內容格</td><td><strong>內在構成</strong>或自然動力（不可控）；動作的實質內容。</td></tr>
+      <tr><td class="basay">a</td><td>繫詞 Ligature</td><td>連接修飾語與中心語（如形容詞修飾名詞）。關係極緊密時可省略為零標記並置。</td></tr>
+    </tbody>
+  </table>
+
+  <h3>4.1 na（外在工具）vs. nu（內在構成）</h3>
+  <table>
+    <thead>
+      <tr><th>特徵</th><th>na（媒介格）</th><th>nu（手段／內容格）</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>物理性質</td><td>工具 (Tool)</td><td>材料／動力 (Material / Force)</td></tr>
+      <tr><td>控制權</td><td>人為控制（可分離、可操作）</td><td>自然／環境（不可控、包覆性）</td></tr>
+      <tr><td>語義指向</td><td>使用 Use / With</td><td>憑藉 By / 構成 Of</td></tr>
+      <tr><td>典型例子</td><td>斧頭、刀、繩索</td><td>水、火、語言、供品、內容</td></tr>
+    </tbody>
+  </table>
+  <div class="phrase">
+    <div class="basay" data-basay="Pasika-ik mau na putau a kwazai">Pasika-ik mau na putau a kwazai.</div>
+    <div class="zh">讓我用這把斧頭試試看。（na：外在工具）</div>
+  </div>
+  <div class="phrase">
+    <div class="basay" data-basay="Azasa nu zanum-na">Azasa nu zanum-na.</div>
+    <div class="zh">隨水漂流。（nu：自然動力）</div>
+  </div>
+
+  <h3>4.2 斜格 i 的情態功能</h3>
+  <div class="phrase">
+    <div class="basay" data-basay="I-kuman-isu ta baute vatsaputsapo'z'">I-kuman-isu (ta baute) vatsaputsapo'z'.</div>
+    <div class="zh">你盯著（那魚）想吃，禁止靠近。</div>
+    <div class="note">i- 將「你想吃」（那魚）設為背景，導向相反指令（逆接功能）。</div>
+  </div>
+  <div class="phrase">
+    <div class="basay" data-basay="Pina i tia na zijan kuwarij-an-a ni qupa">Pina i tia na zijan kuwarij-an-a ni qupa.</div>
+    <div class="zh">Qupa 來到這裡的那一天起，到現在是多少天了？</div>
+    <div class="note">i 在時間軸上釘下一個定點（時空錨點功能）。</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>5. 動詞構式 Verbs</h2>
+
+  <h3>5.1 焦點系統 Focus System</h3>
+  <p>
+    焦點系統決定「聚光燈要打在誰身上」。每一句必選一語意角色為主角，
+    該主角的選擇會改變謂語詞綴與其他角色的標示方式。四大焦點類型：
+  </p>
+  <table class="compact-audio">
+    <thead>
+      <tr><th>焦點</th><th>謂語詞綴</th><th>主角</th><th>例</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>主事焦點 AF</td><td class="basay">m-, -um-</td><td>行為者（主格 ta）</td><td><span class="basay" data-basay="m-ali ta vutsusa">m-ali ta vutsusa.</span></td></tr>
+      <tr><td>受事焦點 PF</td><td class="basay">-an</td><td>受事者（主格 ta）</td><td><span class="basay" data-basay="kan-an-aku ta matan'">kan-an-aku ta matan'.</span></td></tr>
+      <tr><td>受益者焦點 BF</td><td class="basay">-an</td><td>受益者（主格 ta）</td><td><span class="basay" data-basay="vlay-an ta tina-ia u amuta u gold">vlay-an ta tina-ia u amuta u gold.</span></td></tr>
+      <tr><td>處所焦點 LF</td><td class="basay">-an</td><td>處所（主格 ta）</td><td><span class="basay" data-basay="Pzajan-ija kaipan-ija">Pzajan-ija kaipan-ija.</span></td></tr>
+    </tbody>
+  </table>
+  <p class="note" style="font-size:0.9rem;color:var(--color-drift);">
+    ※ 非主事焦點句的行為者退居配角，其代名詞必轉為 <strong>屬格</strong>，普通名詞前加斜格標記 <code>u</code>。
+  </p>
+
+  <h3>5.2 否定與情態 Negation &amp; Modality</h3>
+  <p>
+    巴賽語在表示否定、禁止、同意時，並非僅有一個詞，而是<strong>依急迫性、強制力與人際親疏</strong>選用不同的詞彙。
+    以下列出基本對立：
+  </p>
+
+  <h4>5.2.1 單純的否定</h4>
+  <table class="compact-audio">
+    <thead>
+      <tr><th>詞</th><th>語感</th><th>用法</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="basay" data-basay="mia">mia</span></td><td>客觀、中性</td><td>「沒有」、「不是」，純粹作為事實的否定使用。</td></tr>
+    </tbody>
+  </table>
+  <div class="phrase">
+    <div class="basay" data-basay="mia tisu kumuwa-i na tamaisu">mia tisu kumuwa-i na tamaisu.</div>
+    <div class="zh">你一點也不像你父親。</div>
+  </div>
+
+  <h4>5.2.2 禁止的層次（The Spectrum of Prohibition）</h4>
+  <table class="compact-audio">
+    <thead>
+      <tr><th>詞</th><th>性質</th><th>語感</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="basay" data-basay="asi">asi</span></td><td>命令性禁止</td><td>「住手！」「不准做！」最直接、最銳利，用於緊急狀況，上對下。</td></tr>
+      <tr><td><span class="basay" data-basay="aukau">aukau</span></td><td>強硬的禁止</td><td>「嚴禁」「絕對不行」。毫無商量餘地，純粹物理性阻擋。</td></tr>
+      <tr><td><span class="basay" data-basay="akuwan">akuwan</span> / <span class="basay" data-basay="aukauan">aukauan</span></td><td>狀態性禁止</td><td>「不可…」「維持現狀」。勸喻性、既定規則性，語氣較緩和。</td></tr>
+      <tr><td><span class="basay" data-basay="manai">manai</span></td><td>勸誘性禁止</td><td>「別這樣啦」「我們不要做…」。最富人情味，帶有連帶感。</td></tr>
+    </tbody>
+  </table>
+
+  <h4>5.2.3 同意與不同意</h4>
+  <table class="compact-audio">
+    <thead>
+      <tr><th>詞</th><th>性質</th><th>語感</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><span class="basay" data-basay="yatou">yatou</span></td><td>同意</td><td>「正是」「沒錯」。主動的認可，帶「事情就該如此」的定案感。</td></tr>
+      <tr><td><span class="basay" data-basay="barasse">barasse</span></td><td>強烈不同意</td><td>「絕非如此」。強烈的拒絕與反彈，將對方說法推回去。</td></tr>
+      <tr><td><span class="basay" data-basay="kuka">kuka</span></td><td>許可</td><td>「好的」「可以」「准許」。達成協議或合約的承認。</td></tr>
+    </tbody>
+  </table>
+
+  <h4>5.2.4 無奈與拒絕</h4>
+  <div class="phrase">
+    <div class="basay" data-basay="kuat isu yaku">kuat isu yaku.</div>
+    <div class="zh">我不管你了。／隨便你。</div>
+    <div class="note">kuat = 束手無策、僵局。直譯「我處於一種『因你而起束手無策』的狀態」，宣告切斷互動。</div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>6. 數詞 Numerals</h2>
+  <table class="compact-audio">
+    <thead>
+      <tr><th>數</th><th>巴賽語</th><th>備註</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td><span class="basay" data-basay="tsa">tsa</span></td><td></td></tr>
+      <tr><td>2</td><td><span class="basay" data-basay="lusa">lusa</span></td><td></td></tr>
+      <tr><td>3</td><td><span class="basay" data-basay="tsu">tsu</span></td><td></td></tr>
+      <tr><td>4</td><td><span class="basay" data-basay="so'pat">so'pat</span></td><td>南島語系共通根 *Sepat</td></tr>
+      <tr><td>5</td><td><span class="basay" data-basay="tsjima">tsjima</span></td><td></td></tr>
+      <tr><td>7</td><td><span class="basay" data-basay="pitu">pitu</span></td><td></td></tr>
+      <tr><td>8</td><td><span class="basay" data-basay="wasu">wasu</span></td><td></td></tr>
+      <tr><td>9</td><td><span class="basay" data-basay="siwa">siwa</span></td><td></td></tr>
+      <tr><td>10</td><td><span class="basay" data-basay="labatan">labatan</span></td><td></td></tr>
+      <tr><td>100</td><td><span class="basay" data-basay="tsa latsebo">tsa latsebo</span></td><td>一百</td></tr>
+    </tbody>
+  </table>
+  <p class="note" style="font-size:0.9rem;color:var(--color-drift);">
+    ※ 數詞可作為謂語使用（數量謂語構文）；十位以上採複合表達。
+  </p>
+
+  <hr>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════ -->
+  <h2>延伸閱讀 References</h2>
+  <ul>
+    <li>
+      蔡永桂（2026）．
+      <a href="../research/2026-04-basay-acoustic/">
+        〈從淺井惠倫檔案錄音重建巴賽語母音音響特性：以 Praat 共振峰測量與 eSpeak-NG 合成重現消滅語言語音〉
+      </a>．basay.tw 原創研究。
+    </li>
+    <li>蔡永桂（2026）．《凱達格蘭（巴賽語）語法概論》ver.1.5． <strong>(預定於2026年6月於Amazon Kindle商店出版)</strong></li>
+    <li>Li, Paul Jen-kuei &amp; Hsiu-min Huang &amp; Dorinda Tsai-hsiu Liu (2014). <em>Texts of the Trobiawan Dialect of Basay</em>. Tokyo University of Foreign Studies.</li>
+    <li>淺井惠倫（Asai Erin, ca. 1936）．特羅比灣方言田野錄音（手稿 / 留聲機錄音）．</li>
+    <li>Ogawa Naoyoshi（日治時期語料）．</li>
+    <li>Ferrell, Raleigh (1968). <em>Taiwanese Aboriginal Groups: Problems in Cultural and Linguistic Classification</em>.</li>
+  </ul>
+  <p>完整學術條目請見 <a href="../research/">研究成果</a><!--；日常應用請見 <a href="../education/phrasebook/">學習手冊</a>。--></p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="tagline">「文法不是規則，而是祖先說話的呼吸。」</div>
+  <div>© 2026 basay.tw ｜ <a href="../">返回首頁</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</div>
+</footer>
+
+<script src="../js/main.js"></script>
+<script src="../js/audio.js"></script>
+</body>
+</html>

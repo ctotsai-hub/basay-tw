@@ -1,0 +1,182 @@
+[
+  {
+    "id": "001",
+    "basay": "ranum",
+    "pos": "n.",
+    "zh": ["水"],
+    "ja": ["みず"],
+    "en": ["water"],
+    "source": "Ogawa; Ferrell 1968"
+  },
+  {
+    "id": "002",
+    "basay": "vatu",
+    "pos": "n.",
+    "zh": ["石頭"],
+    "ja": ["いし"],
+    "en": ["stone"],
+    "source": "Proto-Austronesian *batu; Basay 擬構"
+  },
+  {
+    "id": "003",
+    "basay": "vaeli",
+    "pos": "n.",
+    "zh": ["米", "稻米"],
+    "ja": ["米（こめ）"],
+    "en": ["rice (husked)"],
+    "source": "Ogawa 擬構 ⟨?⟩"
+  },
+  {
+    "id": "004",
+    "basay": "yaku",
+    "pos": "pron.",
+    "zh": ["我"],
+    "ja": ["わたし"],
+    "en": ["I, me"],
+    "source": "Ferrell 1968"
+  },
+  {
+    "id": "005",
+    "basay": "iso",
+    "pos": "pron.",
+    "zh": ["你"],
+    "ja": ["あなた"],
+    "en": ["you (sg.)"],
+    "source": "Ferrell 1968"
+  },
+  {
+    "id": "006",
+    "basay": "siya",
+    "pos": "pron.",
+    "zh": ["他", "她"],
+    "ja": ["かれ", "かのじょ"],
+    "en": ["he, she"],
+    "source": "Ferrell 1968"
+  },
+  {
+    "id": "007",
+    "basay": "sira",
+    "pos": "pron.",
+    "zh": ["他們"],
+    "ja": ["かれら"],
+    "en": ["they"],
+    "source": "Ferrell 1968 ⟨?⟩"
+  },
+  {
+    "id": "008",
+    "basay": "rusa",
+    "pos": "num.",
+    "zh": ["二", "兩個"],
+    "ja": ["に", "ふたつ"],
+    "en": ["two"],
+    "source": "PAN *dusa"
+  },
+  {
+    "id": "009",
+    "basay": "tuu",
+    "pos": "num.",
+    "zh": ["三"],
+    "ja": ["さん"],
+    "en": ["three"],
+    "source": "Ogawa ⟨?⟩"
+  },
+  {
+    "id": "010",
+    "basay": "sepat",
+    "pos": "num.",
+    "zh": ["四"],
+    "ja": ["よん"],
+    "en": ["four"],
+    "source": "PAN *sepat"
+  },
+  {
+    "id": "011",
+    "basay": "pataw",
+    "pos": "n.",
+    "zh": ["女巫", "祭司"],
+    "ja": ["巫女", "祭司"],
+    "en": ["female shaman, priestess"],
+    "source": "Ki-pataw（北投）地名語源"
+  },
+  {
+    "id": "012",
+    "basay": "ki-",
+    "pos": "pref.",
+    "zh": ["（地名前綴）某地之處"],
+    "ja": ["（地名の接頭辞）"],
+    "en": ["locative prefix (place of ...)"],
+    "source": "Ki-pataw, Ki-lanna 等地名"
+  },
+  {
+    "id": "013",
+    "basay": "vali",
+    "pos": "n.",
+    "zh": ["風", "（地名：八里）"],
+    "ja": ["風", "八里（地名）"],
+    "en": ["wind; Bali (place)"],
+    "source": "八里地名疑似來源 ⟨?⟩"
+  },
+  {
+    "id": "014",
+    "basay": "mataru",
+    "pos": "v.",
+    "zh": ["想要", "需要"],
+    "ja": ["欲しい", "要る"],
+    "en": ["to want, to need"],
+    "source": "擬構用例"
+  },
+  {
+    "id": "015",
+    "basay": "m-aukas",
+    "pos": "v.",
+    "zh": ["拿", "取得"],
+    "ja": ["取る", "持つ"],
+    "en": ["to take"],
+    "source": "主事焦點詞綴 m- + aukas ⟨?⟩"
+  },
+  {
+    "id": "016",
+    "basay": "kita'",
+    "pos": "v.",
+    "zh": ["看"],
+    "ja": ["見る"],
+    "en": ["to see"],
+    "source": "PAN *kita"
+  },
+  {
+    "id": "017",
+    "basay": "rarampan",
+    "pos": "n.",
+    "zh": ["道路", "路"],
+    "ja": ["道"],
+    "en": ["road, path"],
+    "source": "擬構 ⟨?⟩"
+  },
+  {
+    "id": "018",
+    "basay": "ini",
+    "pos": "neg.",
+    "zh": ["不", "沒有"],
+    "ja": ["〜ない"],
+    "en": ["not (negator)"],
+    "source": "Ferrell 1968"
+  },
+  {
+    "id": "019",
+    "basay": "pia",
+    "pos": "adj.",
+    "zh": ["好", "好的"],
+    "ja": ["よい"],
+    "en": ["good"],
+    "source": "常見南島根詞 *pia"
+  },
+  {
+    "id": "020",
+    "basay": "kalili'",
+    "pos": "intj.",
+    "zh": ["你好", "平安（問候語）"],
+    "ja": ["こんにちは"],
+    "en": ["hello, greetings"],
+    "source": "擬構問候語 ⟨?⟩"
+  }
+]

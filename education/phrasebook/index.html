@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>巴賽語學習手冊 — basay.tw｜教育推進</title>
+<meta name="description" content="凱達格蘭族巴賽語初學者入門會話集：發音、正書法、問候、基本句、名詞、動詞、數字、對話。支援 IPay（bsy）與台語適合（bsystd）雙聲線 TTS。">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+TC:wght@300;400;500&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1410;
+    --paper: #f5f0e8;
+    --paper-dark: #ede5d4;
+    --accent: #7a3b1e;
+    --accent-light: #c4622d;
+    --gold: #b8902a;
+    --gold-light: #e8c96a;
+    --muted: #8a7a6a;
+    --rule: #c8b89a;
+    --highlight: #fff3c4;
+    --shadow: rgba(26,20,16,0.12);
+    --ipay: #2a5a7a;
+    --ipay-light: #4a9abf;
+    --hokkien: #3a6b2a;
+    --hokkien-light: #6aaa4a;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Noto Sans TC', sans-serif;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at 20% 10%, rgba(184,144,42,0.08) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 90%, rgba(122,59,30,0.06) 0%, transparent 50%);
+  }
+
+  /* SITE BREADCRUMB STRIP (integration with basay.tw) */
+  .site-strip {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.55rem 1.1rem;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;
+    border-bottom: 1px solid rgba(184,144,42,0.25);
+  }
+  .site-strip a { color: var(--gold-light); text-decoration: none; }
+  .site-strip a:hover { color: #fff; text-decoration: underline; }
+  .site-strip .sep { color: rgba(245,240,232,0.4); }
+  .site-strip .current { color: rgba(245,240,232,0.85); }
+  .site-strip .brand-back { font-family: 'Noto Serif TC', serif; font-weight: 600; }
+
+  /* HEADER */
+  header.book-header {
+    background: var(--ink); color: var(--paper);
+    padding: 2rem 1.5rem 1.5rem; text-align: center;
+    position: relative; overflow: hidden;
+  }
+  header.book-header::before {
+    content:''; position:absolute; inset:0;
+    background: repeating-linear-gradient(45deg,transparent,transparent 20px,rgba(184,144,42,0.04) 20px,rgba(184,144,42,0.04) 21px);
+  }
+  .header-ornament {
+    font-family:'Crimson Pro',serif; font-style:italic;
+    color:var(--gold-light); font-size:0.82rem; letter-spacing:0.2em;
+    margin-bottom:0.5rem; opacity:0.8; position:relative;
+  }
+  header.book-header h1 {
+    font-family:'Noto Serif TC',serif;
+    font-size:clamp(1.4rem,4vw,2.1rem); font-weight:700;
+    letter-spacing:0.05em; line-height:1.3; position:relative;
+  }
+  header.book-header h1 span { color:var(--gold-light); }
+  .header-sub {
+    font-family:'Crimson Pro',serif; font-size:0.92rem;
+    color:rgba(245,240,232,0.6); margin-top:0.4rem;
+    letter-spacing:0.08em; position:relative;
+  }
+
+  /* VOICE SWITCHER */
+  .voice-switcher {
+    display:flex; align-items:center; justify-content:center;
+    gap:0.6rem; margin-top:1rem; position:relative; flex-wrap:wrap;
+  }
+  .voice-label { font-size:0.72rem; color:rgba(245,240,232,0.6); }
+  .voice-btn {
+    border:none; border-radius:20px; padding:0.35rem 0.9rem;
+    font-size:0.75rem; font-family:'Noto Sans TC',sans-serif;
+    cursor:pointer; transition:all 0.2s; font-weight:500;
+  }
+  .voice-btn.ipay {
+    background:rgba(42,90,122,0.3); color:#8fd4f0;
+    border:1px solid rgba(74,154,191,0.4);
+  }
+  .voice-btn.ipay.active {
+    background:var(--ipay); color:white;
+    border-color:var(--ipay-light); box-shadow:0 0 10px rgba(42,90,122,0.5);
+  }
+  .voice-btn.hokkien {
+    background:rgba(58,107,42,0.3); color:#9dd47a;
+    border:1px solid rgba(106,170,74,0.4);
+  }
+  .voice-btn.hokkien.active {
+    background:var(--hokkien); color:white;
+    border-color:var(--hokkien-light); box-shadow:0 0 10px rgba(58,107,42,0.5);
+  }
+  .voice-desc { font-size:0.68rem; color:rgba(245,240,232,0.45); width:100%; text-align:center; margin-top:0.2rem; }
+  #voice-status {
+    display:inline-block; font-size:0.68rem; padding:0.15rem 0.5rem;
+    border-radius:10px; background:rgba(255,255,255,0.08);
+    color:rgba(245,240,232,0.5); border:1px solid rgba(255,255,255,0.1);
+  }
+
+  /* NAV */
+  nav.book-nav {
+    background:var(--paper-dark); border-bottom:2px solid var(--rule);
+    padding:0 0.5rem; display:flex; overflow-x:auto;
+    scrollbar-width:none; position:sticky; top:0; z-index:100;
+    box-shadow:0 2px 8px var(--shadow);
+  }
+  nav.book-nav::-webkit-scrollbar { display:none; }
+  .nav-btn {
+    background:none; border:none; padding:0.7rem 0.85rem;
+    font-family:'Noto Sans TC',sans-serif; font-size:0.76rem;
+    color:var(--muted); cursor:pointer; white-space:nowrap;
+    border-bottom:3px solid transparent; transition:all 0.2s;
+    display:flex; flex-direction:column; align-items:center; gap:0.12rem;
+  }
+  .nav-btn .nav-icon { font-size:0.95rem; }
+  .nav-btn:hover { color:var(--accent); }
+  .nav-btn.active { color:var(--accent); border-bottom-color:var(--accent-light); font-weight:500; }
+
+  /* MAIN */
+  main.book-main { max-width:820px; margin:0 auto; padding:1.8rem 1.2rem 4rem; }
+  .section { display:none; }
+  .section.active { display:block; animation:fadeIn 0.3s ease; }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+  .section-title { font-family:'Noto Serif TC',serif; font-size:1.2rem; font-weight:700; color:var(--accent); margin-bottom:0.3rem; }
+  .section-desc { font-size:0.82rem; color:var(--muted); margin-bottom:1.3rem; padding-bottom:0.85rem; border-bottom:1px solid var(--rule); }
+
+  /* CARDS */
+  .phrase-grid { display:grid; gap:0.85rem; }
+  .phrase-card {
+    background:white; border:1px solid var(--rule); border-radius:6px;
+    padding:1rem 1.1rem; box-shadow:0 1px 4px var(--shadow);
+    transition:box-shadow 0.2s,transform 0.2s; position:relative; overflow:hidden;
+  }
+  .phrase-card::before {
+    content:''; position:absolute; left:0;top:0;bottom:0; width:4px;
+    background:var(--accent-light); border-radius:4px 0 0 4px;
+  }
+  .phrase-card:hover { box-shadow:0 4px 12px var(--shadow); transform:translateY(-1px); }
+  .phrase-basay { font-family:'Crimson Pro',serif; font-size:1.28rem; font-weight:600; color:var(--accent); margin-bottom:0.12rem; }
+  .phrase-ipa { font-size:0.75rem; color:var(--muted); font-family:'Crimson Pro',serif; font-style:italic; margin-bottom:0.4rem; }
+  .phrase-zh { font-size:0.95rem; color:var(--ink); font-weight:500; margin-bottom:0.1rem; }
+  .phrase-note { font-size:0.76rem; color:var(--muted); line-height:1.5; }
+  .tag { font-size:0.67rem; padding:0.1rem 0.42rem; border-radius:10px; background:var(--highlight); color:var(--gold); border:1px solid var(--gold-light); }
+
+  /* PLAY BUTTONS */
+  .card-actions { display:flex; gap:0.4rem; margin-top:0.7rem; align-items:center; flex-wrap:wrap; }
+  .btn-wrap { position:relative; }
+  .btn-play {
+    border:none; border-radius:4px; padding:0.26rem 0.6rem;
+    font-size:0.71rem; cursor:pointer;
+    display:flex; align-items:center; gap:0.22rem;
+    font-family:'Noto Sans TC',sans-serif; transition:all 0.18s; font-weight:500;
+  }
+  .btn-play.ipay-btn { background:var(--ipay); color:white; }
+  .btn-play.ipay-btn:hover { background:var(--ipay-light); }
+  .btn-play.hokkien-btn { background:var(--hokkien); color:white; }
+  .btn-play.hokkien-btn:hover { background:var(--hokkien-light); }
+  .btn-play.playing { animation:pulse 0.8s ease infinite alternate; }
+  @keyframes pulse { from{opacity:1} to{opacity:0.55} }
+  .btn-wrap .tip {
+    position:absolute; bottom:calc(100% + 5px); left:50%; transform:translateX(-50%);
+    background:var(--ink); color:var(--paper); font-size:0.63rem;
+    padding:0.18rem 0.42rem; border-radius:3px; white-space:nowrap;
+    pointer-events:none; opacity:0; transition:opacity 0.2s; z-index:20;
+  }
+  .btn-wrap:hover .tip { opacity:1; }
+
+  /* MORPH */
+  .morph-row { display:flex; flex-wrap:wrap; gap:0.22rem; margin-top:0.5rem; }
+  .morph-piece { background:var(--paper-dark); border:1px solid var(--rule); border-radius:4px; padding:0.16rem 0.38rem; font-size:0.69rem; }
+  .morph-piece span { font-size:0.6rem; color:var(--muted); display:block; text-align:center; }
+
+  /* TABLES */
+  .phon-table { width:100%; border-collapse:collapse; font-size:0.83rem; margin-bottom:1.3rem; }
+  .phon-table th { background:var(--ink); color:var(--paper); padding:0.43rem 0.7rem; text-align:left; font-family:'Noto Serif TC',serif; font-weight:600; }
+  .phon-table td { padding:0.48rem 0.7rem; border-bottom:1px solid var(--rule); vertical-align:top; }
+  .phon-table tr:nth-child(even) td { background:rgba(237,229,212,0.4); }
+  .phon-symbol { font-family:'Crimson Pro',serif; font-size:1.03rem; color:var(--accent); font-weight:600; }
+  .phon-ipa { font-family:'Crimson Pro',serif; font-style:italic; color:var(--muted); font-size:0.82rem; }
+
+  /* INFO BOX */
+  .info-box {
+    background:linear-gradient(135deg,rgba(122,59,30,0.06),rgba(184,144,42,0.06));
+    border:1px solid var(--rule); border-left:4px solid var(--gold);
+    border-radius:0 6px 6px 0; padding:0.85rem 1.05rem;
+    margin-bottom:1.2rem; font-size:0.82rem; line-height:1.75;
+  }
+  .info-box strong { color:var(--accent); }
+  .info-box code { background:var(--paper-dark); border:1px solid var(--rule); border-radius:3px; padding:0.03rem 0.28rem; font-size:0.78rem; color:var(--accent); }
+
+  /* VOWEL */
+  .vowel-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:0.6rem; margin-bottom:1.3rem; }
+  .vowel-card { background:white; border:1px solid var(--rule); border-radius:6px; padding:0.7rem; text-align:center; }
+  .vowel-symbol { font-family:'Crimson Pro',serif; font-size:1.85rem; color:var(--accent); font-weight:600; line-height:1; }
+  .vowel-formants { font-size:0.65rem; color:var(--muted); margin-top:0.22rem; line-height:1.6; }
+  .vowel-example { font-size:0.75rem; color:var(--ink); margin-top:0.22rem; font-family:'Crimson Pro',serif; font-style:italic; }
+
+  /* DIALOG */
+  .dialog-box { background:white; border:1px solid var(--rule); border-radius:8px; overflow:hidden; margin-bottom:1.2rem; box-shadow:0 2px 6px var(--shadow); }
+  .dialog-header { background:var(--ink); color:var(--paper); padding:0.52rem 1rem; font-family:'Noto Serif TC',serif; font-size:0.82rem; }
+  .dialog-turn { padding:0.75rem 1rem; border-bottom:1px solid var(--rule); display:grid; grid-template-columns:auto 1fr; gap:0.45rem 0.7rem; align-items:start; }
+  .dialog-turn:last-child { border-bottom:none; }
+  .dialog-speaker { font-size:0.68rem; color:white; background:var(--accent); padding:0.1rem 0.33rem; border-radius:3px; white-space:nowrap; margin-top:0.1rem; }
+  .dialog-speaker.b { background:var(--gold); color:var(--ink); }
+  .dialog-content .basay { font-family:'Crimson Pro',serif; font-size:1.08rem; color:var(--accent); font-weight:600; }
+  .dialog-content .zh { font-size:0.83rem; color:var(--muted); margin-top:0.07rem; }
+
+  /* ORTHOGRAPHY */
+  .orth-section { margin-bottom:1.8rem; }
+  .orth-section h3 {
+    font-family:'Noto Serif TC',serif; font-size:0.98rem; color:var(--accent);
+    margin-bottom:0.55rem; padding-bottom:0.38rem;
+    border-bottom:1px dashed var(--rule); display:flex; align-items:center; gap:0.35rem;
+  }
+  .orth-rule {
+    background:white; border:1px solid var(--rule); border-radius:6px;
+    padding:0.82rem 0.95rem; margin-bottom:0.65rem; font-size:0.82rem; line-height:1.72;
+  }
+  .orth-rule .rule-title { font-weight:600; color:var(--ink); margin-bottom:0.32rem; }
+  .orth-example-row { display:flex; flex-wrap:wrap; gap:0.45rem; margin-top:0.48rem; }
+  .orth-ex { background:var(--paper-dark); border:1px solid var(--rule); border-radius:4px; padding:0.28rem 0.6rem; font-size:0.78rem; }
+  .orth-ex .basay-form { font-family:'Crimson Pro',serif; color:var(--accent); font-size:0.93rem; font-weight:600; }
+  .orth-ex .gloss { font-size:0.66rem; color:var(--muted); display:block; }
+
+  .compare-box { display:grid; grid-template-columns:1fr 1fr; gap:0.7rem; margin-top:0.7rem; }
+  .compare-panel { border-radius:6px; padding:0.72rem; font-size:0.79rem; line-height:1.62; }
+  .compare-panel.ipay-panel { background:rgba(42,90,122,0.08); border:1px solid rgba(42,90,122,0.25); }
+  .compare-panel.hokkien-panel { background:rgba(58,107,42,0.08); border:1px solid rgba(58,107,42,0.25); }
+  .compare-panel .panel-title { font-weight:600; margin-bottom:0.38rem; display:flex; align-items:center; gap:0.28rem; }
+  .compare-panel.ipay-panel .panel-title { color:var(--ipay); }
+  .compare-panel.hokkien-panel .panel-title { color:var(--hokkien); }
+  .compare-panel ul { padding-left:1.05rem; }
+  .compare-panel li { margin-bottom:0.18rem; }
+
+  /* SEARCH */
+  .search-bar { display:flex; gap:0.5rem; margin-bottom:1.2rem; }
+  .search-input {
+    flex:1; padding:0.52rem 0.82rem; border:1px solid var(--rule); border-radius:6px;
+    font-family:'Noto Sans TC',sans-serif; font-size:0.83rem;
+    background:white; color:var(--ink); outline:none; transition:border-color 0.2s;
+  }
+  .search-input:focus { border-color:var(--accent-light); }
+  .search-input::placeholder { color:var(--muted); }
+
+  footer.book-footer {
+    text-align:center; padding:1.2rem; font-size:0.72rem; color:var(--muted);
+    border-top:1px solid var(--rule); font-family:'Crimson Pro',serif; font-style:italic;
+  }
+  footer.book-footer .back-link {
+    display:inline-block; margin-top:0.45rem; font-style:normal;
+    font-family:'Noto Sans TC',sans-serif; font-size:0.78rem;
+    color:var(--accent); text-decoration:none; border-bottom:1px dashed var(--accent-light);
+  }
+  footer.book-footer .back-link:hover { color:var(--accent-light); }
+
+  @media(max-width:600px){
+    header.book-header{padding:1.2rem 1rem 1rem;}
+    .vowel-grid{grid-template-columns:repeat(2,1fr);}
+    .compare-box{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+<!-- SITE BREADCRUMB STRIP -->
+<div class="site-strip">
+  <span class="brand-back"><a href="../../">凱達格蘭 · 巴賽語</a></span>
+  <span class="sep">／</span>
+  <a href="../">教育推進</a>
+  <span class="sep">／</span>
+  <span class="current">學習手冊</span>
+</div>
+
+<header class="book-header">
+  <div class="header-ornament">Basay Language · Ketagalan People · Northern Taiwan</div>
+  <h1>巴賽語學習手冊<br><span>凱達格蘭語初學者入門</span></h1>
+  <div class="header-sub">Introductory Phrasebook · 初學會話集</div>
+
+  <div class="voice-switcher">
+    <span class="voice-label">語音聲線：</span>
+    <button class="voice-btn ipay active" onclick="setVoice('ipay',this)">🔵 IPay（bsy）</button>
+    <button class="voice-btn hokkien" onclick="setVoice('hokkien',this)">🟢 台語適合（bsystd）</button>
+    <div class="voice-desc"><span id="voice-status">現在：IPay 歷史復元音韻 | 音源檔案準備中</span></div>
+  </div>
+</header>
+
+<nav class="book-nav">
+  <button class="nav-btn active" onclick="switchSection('pronunciation',this)"><span class="nav-icon">🗣</span>發音</button>
+  <button class="nav-btn" onclick="switchSection('orthography',this)"><span class="nav-icon">✍️</span>正書法</button>
+  <button class="nav-btn" onclick="switchSection('greetings',this)"><span class="nav-icon">👋</span>問候</button>
+  <button class="nav-btn" onclick="switchSection('basics',this)"><span class="nav-icon">💬</span>基本</button>
+  <button class="nav-btn" onclick="switchSection('nouns',this)"><span class="nav-icon">📦</span>名詞</button>
+  <button class="nav-btn" onclick="switchSection('verbs',this)"><span class="nav-icon">⚡</span>動詞</button>
+  <button class="nav-btn" onclick="switchSection('numbers',this)"><span class="nav-icon">🔢</span>數字</button>
+  <button class="nav-btn" onclick="switchSection('dialogs',this)"><span class="nav-icon">🎭</span>對話</button>
+</nav>
+
+<main class="book-main">
+
+<!-- PRONUNCIATION -->
+<section class="section active" id="section-pronunciation">
+  <div class="section-title">🗣 發音指南</div>
+  <div class="section-desc">巴賽語（Mutravai 方言）的音素系統與母音共振峰數據</div>
+  <div class="info-box">
+    <strong>母音系統的特殊性</strong><br>
+    巴賽語 Mutravai 方言共有六個母音：/i e a o u ə/。其中 /i/ 的 F2 異常偏低（約 1448 Hz），是該方言的真實特徵，在語音錄音與歌謠錄音中均可確認。以下共振峰數據來自 Asai Erin 1936 年田野調查錄音的聲學分析（iterative k-means v5 分類器）。
+  </div>
+  <div class="vowel-grid">
+    <div class="vowel-card"><div class="vowel-symbol">i</div><div class="vowel-formants">F1: 395 Hz<br>F2: 1448 Hz<br>F3: 2054 Hz</div><div class="vowel-example">siki「腳」</div></div>
+    <div class="vowel-card"><div class="vowel-symbol">e</div><div class="vowel-formants">F1: 664 Hz<br>F2: 1517 Hz<br>F3: 2054 Hz</div><div class="vowel-example">beka「問」</div></div>
+    <div class="vowel-card"><div class="vowel-symbol">a</div><div class="vowel-formants">F1: 956 Hz<br>F2: 1780 Hz<br>F3: 2125 Hz</div><div class="vowel-example">ama「父親」</div></div>
+    <div class="vowel-card"><div class="vowel-symbol">o</div><div class="vowel-formants">F1: 748 Hz<br>F2: 1228 Hz<br>F3: 1970 Hz</div><div class="vowel-example">toko「地方」</div></div>
+    <div class="vowel-card"><div class="vowel-symbol">u</div><div class="vowel-formants">F1: 530 Hz<br>F2: 1329 Hz<br>F3: 2016 Hz</div><div class="vowel-example">bunun「人」</div></div>
+    <div class="vowel-card"><div class="vowel-symbol">ə</div><div class="vowel-formants">F1: 837 Hz<br>F2: 1535 Hz<br>F3: 2027 Hz</div><div class="vowel-example">央母音（弱化）</div></div>
+  </div>
+  <table class="phon-table">
+    <thead><tr><th>拼寫</th><th>IPA</th><th>發音說明</th><th>例字</th></tr></thead>
+    <tbody>
+      <tr><td><span class="phon-symbol">p</span></td><td><span class="phon-ipa">[p]</span></td><td>雙唇塞音（不送氣）</td><td>pasi「水」</td></tr>
+      <tr><td><span class="phon-symbol">t</span></td><td><span class="phon-ipa">[t]</span></td><td>齒齦塞音（不送氣）</td><td>toko「地方」</td></tr>
+      <tr><td><span class="phon-symbol">k</span></td><td><span class="phon-ipa">[k]</span></td><td>軟顎塞音</td><td>kita「你」</td></tr>
+      <tr><td><span class="phon-symbol">q</span></td><td><span class="phon-ipa">[q]</span></td><td>小舌塞音（詞尾）</td><td>—</td></tr>
+      <tr><td><span class="phon-symbol">b</span></td><td><span class="phon-ipa">[b]</span></td><td>雙唇濁塞音</td><td>beka「問」</td></tr>
+      <tr><td><span class="phon-symbol">d</span></td><td><span class="phon-ipa">[d]</span></td><td>齒齦濁塞音</td><td>daya「山地」</td></tr>
+      <tr><td><span class="phon-symbol">s</span></td><td><span class="phon-ipa">[s]</span></td><td>齒齦擦音</td><td>siki「腳」</td></tr>
+      <tr><td><span class="phon-symbol">n'</span></td><td><span class="phon-ipa">[ŋ]</span></td><td>軟顎鼻音（撇號輔音）</td><td>n'arai「什麼」</td></tr>
+      <tr><td><span class="phon-symbol">s'</span></td><td><span class="phon-ipa">[ʃ]</span></td><td>硬顎擦音（撇號輔音）</td><td>s'iri「名字」</td></tr>
+      <tr><td><span class="phon-symbol">t'</span></td><td><span class="phon-ipa">[tʃ]</span></td><td>硬顎塞擦音（撇號輔音）</td><td>t'ima「海」</td></tr>
+      <tr><td><span class="phon-symbol">m</span></td><td><span class="phon-ipa">[m]</span></td><td>雙唇鼻音</td><td>makan「吃」</td></tr>
+      <tr><td><span class="phon-symbol">n</span></td><td><span class="phon-ipa">[n]</span></td><td>齒齦鼻音</td><td>nanu「這個」</td></tr>
+      <tr><td><span class="phon-symbol">l</span></td><td><span class="phon-ipa">[l]</span></td><td>側面流音</td><td>luma「家」</td></tr>
+      <tr><td><span class="phon-symbol">r</span></td><td><span class="phon-ipa">[r]</span></td><td>顫音／閃音</td><td>rima「手」</td></tr>
+      <tr><td><span class="phon-symbol">w</span></td><td><span class="phon-ipa">[w]</span></td><td>雙唇近音</td><td>wawa「孩子」</td></tr>
+      <tr><td><span class="phon-symbol">y</span></td><td><span class="phon-ipa">[j]</span></td><td>硬顎近音</td><td>yako「我」</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<!-- ORTHOGRAPHY -->
+<section class="section" id="section-orthography">
+  <div class="section-title">✍️ 正書法規則</div>
+  <div class="section-desc">巴賽語書寫系統的規則、TTS 前處理、兩聲線的差異</div>
+
+  <div class="orth-section">
+    <h3>① 撇號輔音（Apostrophe Consonants）</h3>
+    <div class="orth-rule">
+      <div class="rule-title">原則</div>
+      撇號（'）は基礎輔音字母に後置し、発音部位・方式が変化した音素を表す修飾符号。撇號は独立した文字ではなく、前の輔音と一体の音素単位を形成する。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">n'</div><span class="gloss">/ŋ/ 軟顎鼻音</span></div>
+        <div class="orth-ex"><div class="basay-form">s'</div><span class="gloss">/ʃ/ 硬顎擦音</span></div>
+        <div class="orth-ex"><div class="basay-form">t'</div><span class="gloss">/tʃ/ 塞擦音</span></div>
+        <div class="orth-ex"><div class="basay-form">r'</div><span class="gloss">/rʲ/ 硬顎化流音</span></div>
+      </div>
+    </div>
+    <div class="orth-rule">
+      <div class="rule-title">eSpeak-NG TTS 前處理（<code>replaceApostropheConsonants()</code>）</div>
+      eSpeak-NG エンジンは撇號をストレスマーカーとして誤解するため、音声合成エンジンへの送信前に以下の変換を行う。表示用正書法には影響しない。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">n' → nx</div><span class="gloss">TTS 内部表現</span></div>
+        <div class="orth-ex"><div class="basay-form">s' → sx</div><span class="gloss">TTS 内部表現</span></div>
+        <div class="orth-ex"><div class="basay-form">t' → tx</div><span class="gloss">TTS 内部表現</span></div>
+        <div class="orth-ex"><div class="basay-form">r' → rx</div><span class="gloss">TTS 内部表現</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="orth-section">
+    <h3>② 焦點詞綴（Focus Affixes）の書寫</h3>
+    <div class="orth-rule">
+      <div class="rule-title">插入詞綴 -um-（主事焦點 AV）</div>
+      <code>-um-</code> は詞根の第一母音の直前に挿入する。連字符なし。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">ali → umali</div><span class="gloss">來（AV）</span></div>
+        <div class="orth-ex"><div class="basay-form">lakaw → lumakaw</div><span class="gloss">走（AV）</span></div>
+        <div class="orth-ex"><div class="basay-form">kan → makan</div><span class="gloss">吃（ma-AV）</span></div>
+      </div>
+    </div>
+    <div class="orth-rule">
+      <div class="rule-title">後綴 -in（受事焦點 PV）・-an（處所焦點 LV）</div>
+      詞根の直後に連接。母音衝突が生じる場合も連字符なし。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">kan + -in → kanin</div><span class="gloss">被吃（PV）</span></div>
+        <div class="orth-ex"><div class="basay-form">inum + -an → inuman</div><span class="gloss">喝的場所（LV）</span></div>
+        <div class="orth-ex"><div class="basay-form">beka + -an → bekaan</div><span class="gloss">被問的事（LV）</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="orth-section">
+    <h3>③ 重疊形（Reduplication）</h3>
+    <div class="orth-rule">
+      <div class="rule-title">進行貌・強調の重疊</div>
+      詞根の第一音節（CV 或いは CVC）を複製して動詞の前に付加する。連字符なし。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">la-lakaw</div><span class="gloss">走走（進行）</span></div>
+        <div class="orth-ex"><div class="basay-form">lalaleona</div><span class="gloss">跑（進行 AV）</span></div>
+        <div class="orth-ex"><div class="basay-form">ka-kanta</div><span class="gloss">唱唱（強調）</span></div>
+      </div>
+      <div style="margin-top:0.5rem;font-size:0.78rem;color:var(--muted)">
+        ※ <em>lalaleona</em> は la-（重疊/進行）+ um-（AV）+ leona（詞根「跑」）の複合形。Asai Erin 1936年手稿より復元（*lalaleona として推定）。
+      </div>
+    </div>
+  </div>
+
+  <div class="orth-section">
+    <h3>④ 格標記（Case Markers）</h3>
+    <div class="orth-rule">
+      <table class="phon-table" style="margin-bottom:0">
+        <thead><tr><th>格</th><th>普通名詞</th><th>人名</th><th>機能</th></tr></thead>
+        <tbody>
+          <tr><td>主格（Nominative）</td><td><span class="phon-symbol">ka</span></td><td><span class="phon-symbol">si</span></td><td>動詞の焦点核（フォーカス主体）</td></tr>
+          <tr><td>屬格（Genitive）</td><td><span class="phon-symbol">na</span></td><td><span class="phon-symbol">ni</span></td><td>所有・動作主（非焦点）</td></tr>
+          <tr><td>斜格（Oblique）</td><td><span class="phon-symbol">i</span></td><td><span class="phon-symbol">ki</span></td><td>受事・場所・道具（非焦点）</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="orth-section">
+    <h3>⑤ 兩聲線的音韻差異</h3>
+    <div class="info-box">
+      <strong>bsy（IPay）と bsystd（台語適合）の違い</strong><br>
+      同一の正書法テキストを入力しても、二つの声線では異なる音響出力を生成する。bsy は Asai Erin 田野調査資料に基づく歴史的復元音韻を実装し、bsystd は現代の台湾語（閩南語）話者が習得しやすい音韻に Lobanov 正規化した標準声線。
+    </div>
+    <div class="compare-box">
+      <div class="compare-panel ipay-panel">
+        <div class="panel-title">🔵 bsy（IPay 聲線）</div>
+        <ul>
+          <li>/i/ の F2 が低い（~1448 Hz）— Mutravai 方言の実測音価</li>
+          <li>小舌音 /q/ を保持</li>
+          <li>母音の弱化（ə）が顕著</li>
+          <li>歴史的子音群の保持</li>
+          <li>学術・史料的用途向け</li>
+        </ul>
+      </div>
+      <div class="compare-panel hokkien-panel">
+        <div class="panel-title">🟢 bsystd（台語適合聲線）</div>
+        <ul>
+          <li>Lobanov 正規化による標準化母音</li>
+          <li>/q/ → /k/ への近似</li>
+          <li>台語話者の調音パターンに合わせた F1/F2</li>
+          <li>閩南語リズムに近いプロソディ</li>
+          <li>教育・普及用途向け</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="orth-section">
+    <h3>⑥ 大文字化・句讀點</h3>
+    <div class="orth-rule">
+      文頭・固有名詞（人名・地名）は大文字で始める。句点は使わずピリオド（.）、疑問文（?）、感嘆文（!）を使用。撇號（'）は輔音修飾のみに使用し、他の目的（アポストロフィー、省略符号）には使用しない。
+      <div class="orth-example-row">
+        <div class="orth-ex"><div class="basay-form">Ima ka saan?</div><span class="gloss">疑問文（文頭大文字）</span></div>
+        <div class="orth-ex"><div class="basay-form">si Tali</div><span class="gloss">人名格標記＋固有名詞</span></div>
+        <div class="orth-ex"><div class="basay-form">i Tamshui</div><span class="gloss">地名斜格（淡水）</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- GREETINGS -->
+<section class="section" id="section-greetings">
+  <div class="section-title">👋 招呼問候</div>
+  <div class="section-desc">日常招呼與基本問候用語</div>
+  <div class="phrase-grid" id="greetings-grid"></div>
+</section>
+
+<!-- BASICS -->
+<section class="section" id="section-basics">
+  <div class="section-title">💬 基本表達</div>
+  <div class="section-desc">疑問、回應、指示等基本句型</div>
+  <div class="phrase-grid" id="basics-grid"></div>
+</section>
+
+<!-- NOUNS -->
+<section class="section" id="section-nouns">
+  <div class="section-title">📦 常用名詞</div>
+  <div class="section-desc">身體、家族、自然等基礎詞彙</div>
+  <div class="search-bar">
+    <input class="search-input" type="text" placeholder="搜尋詞彙…" oninput="filterCards('nouns-grid',this.value)">
+  </div>
+  <div class="phrase-grid" id="nouns-grid"></div>
+</section>
+
+<!-- VERBS -->
+<section class="section" id="section-verbs">
+  <div class="section-title">⚡ 常用動詞</div>
+  <div class="section-desc">焦點系統（AV/PV/LV）動詞基礎形</div>
+  <div class="phrase-grid" id="verbs-grid"></div>
+</section>
+
+<!-- NUMBERS -->
+<section class="section" id="section-numbers">
+  <div class="section-title">🔢 數字</div>
+  <div class="section-desc">基數詞與序數詞</div>
+  <div class="phrase-grid" id="numbers-grid"></div>
+</section>
+
+<!-- DIALOGS -->
+<section class="section" id="section-dialogs">
+  <div class="section-title">🎭 情境對話</div>
+  <div class="section-desc">初學者情境對話範例（附逐句語法說明）</div>
+  <div id="dialogs-container"></div>
+</section>
+
+</main>
+
+<footer class="book-footer">
+  本教材依據《凱達格蘭（巴賽語）語法概論》ver.1.1（2026年1月）及 Asai Erin 1936年田野調查資料編製。<br>
+  TTS 聲線：bsy（IPay 歷史復元）/ bsystd（台語適合・Lobanov 正規化）— eSpeak-NG 引擎
+  <br>
+  <a class="back-link" href="../">← 返回 教育推進</a>
+  &nbsp;&nbsp;
+  <a class="back-link" href="../../">← 返回 basay.tw 首頁</a>
+</footer>
+
+<script>
+// ── VOICE STATE ──────────────────────────────────────────────────────────────
+let currentVoice = 'ipay';
+const VOICE_META = {
+  ipay:    { label:'IPay 歷史復元音韻（bsy）',       dir:'ipay',    cls:'ipay-btn',    tag:'🔵 IPay'  },
+  hokkien: { label:'台語適合音韻・Lobanov（bsystd）', dir:'hokkien', cls:'hokkien-btn', tag:'🟢 台語'  },
+};
+
+function setVoice(v, btn) {
+  currentVoice = v;
+  document.querySelectorAll('.voice-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('voice-status').textContent = '現在：' + VOICE_META[v].label + ' | 音源檔案準備中';
+}
+
+// ── DATA ─────────────────────────────────────────────────────────────────────
+const DATA = {
+  greetings:[
+    {basay:"Ima ka saan?",    ipa:"/ima ka saːn/", zh:"你好嗎？",       note:"ima=你，ka=主格標記，saan=如何。最常見問候語。",      tag:"問候"},
+    {basay:"Makia.",           ipa:"/makia/",       zh:"我很好。/沒事。", note:"對 ima ka saan 的標準回應。",                       tag:"回應"},
+    {basay:"Inu ka kita?",    ipa:"/inu ka kita/", zh:"你要去哪裡？",   note:"inu=哪裡，kita=你（單數）。見面時常用。",             tag:"問候"},
+    {basay:"Umali yako.",     ipa:"/umali jako/",  zh:"我來了。",       note:"umali=來（AV），yako=我（主格）。",                  tag:"招呼"},
+    {basay:"Manaway.",        ipa:"/manaway/",     zh:"謝謝。",         note:"感謝的固定用語。道別時亦可使用。",                   tag:"禮貌"},
+    {basay:"Saan ka?",        ipa:"/saːn ka/",     zh:"你叫什麼名字？",  note:"字面義「你是怎樣的？」，用於詢問姓名。",             tag:"自我介紹"},
+    {basay:"Yako si [名前].", ipa:"/jako si.../",  zh:"我叫（姓名）。", note:"si=人名格標記。",                                   tag:"自我介紹"},
+  ],
+  basics:[
+    {basay:"N'arai nanu?", ipa:"/ŋarai nanu/",  zh:"這是什麼？",   note:"n'arai=什麼（軟顎鼻音），nanu=這個（近稱）。", tag:"疑問"},
+    {basay:"Inu iya?",    ipa:"/inu ija/",      zh:"那是哪裡？",   note:"inu=哪裡，iya=那個（遠稱）。",               tag:"疑問"},
+    {basay:"Ima iya?",    ipa:"/ima ija/",      zh:"那是誰？",     note:"ima=誰。人稱疑問詞。",                       tag:"疑問"},
+    {basay:"Adi.",        ipa:"/adi/",          zh:"是的。",       note:"肯定回應詞。",                               tag:"回應"},
+    {basay:"Ari.",        ipa:"/ari/",          zh:"不是。",       note:"否定回應詞。",                               tag:"回應"},
+    {basay:"Itini.",      ipa:"/itini/",        zh:"在這裡。",     note:"地點指示詞（近稱）。",                       tag:"指示"},
+    {basay:"Itiya.",      ipa:"/itija/",        zh:"在那裡。",     note:"地點指示詞（遠稱）。",                       tag:"指示"},
+    {basay:"Umali ka.",   ipa:"/umali ka/",     zh:"過來！",       note:"命令形。umali=主事焦點動詞。",               tag:"命令"},
+    {basay:"Beka yako.",  ipa:"/beka jako/",    zh:"我問一下。",   note:"beka=問(AV)。",                              tag:"對話"},
+    {basay:"Mari ka beka.",ipa:"/mari ka beka/",zh:"請問一下。",   note:"mari=請（禮貌語氣詞）。",                    tag:"禮貌"},
+  ],
+  nouns:[
+    {basay:"luma",  ipa:"/luma/",  zh:"家",        note:"居所、房屋。",                  tag:"場所"},
+    {basay:"pasi",  ipa:"/pasi/",  zh:"水",        note:"基本生活用語。",                tag:"自然"},
+    {basay:"daya",  ipa:"/daja/",  zh:"山地・內陸", note:"相對於海岸的方向詞。",          tag:"自然"},
+    {basay:"toko",  ipa:"/toko/",  zh:"地方・場所", note:"",                             tag:"場所"},
+    {basay:"bunun", ipa:"/bunun/", zh:"人",        note:"泛指人類。",                    tag:"人稱"},
+    {basay:"ama",   ipa:"/ama/",   zh:"父親",      note:"親屬稱謂。",                    tag:"家族"},
+    {basay:"ina",   ipa:"/ina/",   zh:"母親",      note:"親屬稱謂。",                    tag:"家族"},
+    {basay:"wawa",  ipa:"/wawa/",  zh:"孩子",      note:"泛指小孩。",                    tag:"家族"},
+    {basay:"rima",  ipa:"/rima/",  zh:"手",        note:"亦為數字「五」的詞根。",         tag:"身體"},
+    {basay:"siki",  ipa:"/siki/",  zh:"腳",        note:"身體部位詞。",                  tag:"身體"},
+    {basay:"mata",  ipa:"/mata/",  zh:"眼睛",      note:"身體部位詞。",                  tag:"身體"},
+    {basay:"ngurus",ipa:"/ŋurus/", zh:"鼻子",      note:"ng = 軟顎鼻音。",               tag:"身體"},
+    {basay:"babaw", ipa:"/babaw/", zh:"上面・天空", note:"方向詞。",                      tag:"方向"},
+    {basay:"siray", ipa:"/siraj/", zh:"南方・海岸", note:"巴賽族傳統方位詞。",            tag:"方向"},
+    {basay:"t'ima", ipa:"/tʃima/", zh:"海",        note:"t' = 硬顎塞擦音（撇號輔音）。", tag:"自然"},
+  ],
+  verbs:[
+    {basay:"umali",    ipa:"/umali/",    zh:"來（AV）",       note:"um- 插入詞根 ali。",                                               tag:"AV",  morph:[{form:"um-",gloss:"AV"},{form:"ali",gloss:"來"}]},
+    {basay:"lumakaw",  ipa:"/lumakaw/",  zh:"走（AV）",       note:"um- 插入詞根 lakaw。",                                             tag:"AV",  morph:[{form:"um-",gloss:"AV"},{form:"lakaw",gloss:"走"}]},
+    {basay:"lalaleona",ipa:"/lalaleona/",zh:"跑（AV・進行）",  note:"la-（重疊/進行）+ um-（AV）+ leona（詞根）。Asai Erin 1936 手稿より復元。",tag:"AV",morph:[{form:"la-",gloss:"重疊/進行"},{form:"um-",gloss:"AV"},{form:"leona",gloss:"跑"}]},
+    {basay:"makan",    ipa:"/makan/",    zh:"吃（AV）",       note:"ma- 前綴のAV形。",                                                 tag:"AV",  morph:[{form:"ma-",gloss:"AV"},{form:"kan",gloss:"吃"}]},
+    {basay:"inum",     ipa:"/inum/",     zh:"喝（AV）",       note:"-um 後綴形（詞末位置）。",                                          tag:"AV",  morph:[{form:"-um",gloss:"AV"},{form:"in",gloss:"喝"}]},
+    {basay:"beka",     ipa:"/beka/",     zh:"問（AV）",       note:"基本形。",                                                          tag:"AV",  morph:[{form:"beka",gloss:"問（詞根）"}]},
+    {basay:"kanin",    ipa:"/kanin/",    zh:"被吃（PV）",     note:"-in 後綴 = 受事焦點。",                                             tag:"PV",  morph:[{form:"kan",gloss:"吃"},{form:"-in",gloss:"PV"}]},
+    {basay:"inuman",   ipa:"/inuman/",   zh:"喝的場所（LV）", note:"-an 後綴 = 處所焦點。",                                             tag:"LV",  morph:[{form:"inum",gloss:"喝"},{form:"-an",gloss:"LV"}]},
+  ],
+  numbers:[
+    {basay:"asa",   ipa:"/asa/",   zh:"一",  note:"",                       tag:"基數"},
+    {basay:"dusa",  ipa:"/dusa/",  zh:"二",  note:"",                       tag:"基數"},
+    {basay:"teru",  ipa:"/teru/",  zh:"三",  note:"",                       tag:"基數"},
+    {basay:"spat",  ipa:"/spat/",  zh:"四",  note:"",                       tag:"基數"},
+    {basay:"rima",  ipa:"/rima/",  zh:"五",  note:"同「手」。以手指計數。", tag:"基數"},
+    {basay:"unum",  ipa:"/unum/",  zh:"六",  note:"",                       tag:"基數"},
+    {basay:"pitu",  ipa:"/pitu/",  zh:"七",  note:"",                       tag:"基數"},
+    {basay:"waru",  ipa:"/waru/",  zh:"八",  note:"",                       tag:"基數"},
+    {basay:"siwa",  ipa:"/siwa/",  zh:"九",  note:"",                       tag:"基數"},
+    {basay:"puru",  ipa:"/puru/",  zh:"十",  note:"",                       tag:"基數"},
+    {basay:"ka-asa",ipa:"/kaasa/", zh:"第一", note:"ka- 前綴 = 序數。",     tag:"序數"},
+    {basay:"ka-dusa",ipa:"/kadusa/",zh:"第二",note:"ka- 前綴 = 序數。",     tag:"序數"},
+  ],
+};
+
+const DIALOGS=[
+  {title:"情境一：初次見面",context:"兩個人在村落路上相遇",
+   turns:[
+     {speaker:"甲",basay:"Ima ka saan?",zh:"你好嗎？"},
+     {speaker:"乙",basay:"Makia. Ima ka saan, ima?",zh:"我很好。你呢？"},
+     {speaker:"甲",basay:"Makia usay. Saan ka?",zh:"我也很好。你叫什麼名字？"},
+     {speaker:"乙",basay:"Yako si Tali. Ima ka saan?",zh:"我叫 Tali。你呢？"},
+     {speaker:"甲",basay:"Yako si Bawane. Manaway.",zh:"我叫 Bawane。謝謝。"},
+   ],
+   notes:"usay=也；si=人名格標記；Manaway=謝謝（道別時亦可使用）。"},
+  {title:"情境二：詢問地點",context:"詢問某處的位置",
+   turns:[
+     {speaker:"甲",basay:"Mari ka beka. Inu ka luma ni Tali?",zh:"請問一下。Tali 的家在哪裡？"},
+     {speaker:"乙",basay:"Itiya. Luma ni Tali itiya.",zh:"在那裡。Tali 的家在那裡。"},
+     {speaker:"甲",basay:"Manaway.",zh:"謝謝。"},
+   ],
+   notes:"ni=屬格標記（連接人名）；inu=哪裡；itiya=在那裡（遠稱）。"},
+  {title:"情境三：請求與回應",context:"請求給予某物",
+   turns:[
+     {speaker:"甲",basay:"Mari ka bayar i pasi.",zh:"請給我水。"},
+     {speaker:"乙",basay:"Adi, nanu.",zh:"好的，這個。"},
+     {speaker:"甲",basay:"Manaway yako.",zh:"我謝謝你。"},
+     {speaker:"乙",basay:"Makia.",zh:"沒事。（不客氣）"},
+   ],
+   notes:"bayar=給；i=受事格標記；pasi=水；nanu=這個（近稱）。"},
+];
+
+// ── RENDER ───────────────────────────────────────────────────────────────────
+function slug(s){ return s.replace(/[^a-zA-Z0-9]/g,'_').toLowerCase(); }
+
+function makeButtons(item){
+  const s = slug(item.basay);
+  return ['ipay','hokkien'].map(v => `
+    <div class="btn-wrap">
+      <button class="btn-play ${VOICE_META[v].cls}" onclick="playAudio('${s}','${v}',this)">
+        🔊 ${VOICE_META[v].tag}
+      </button>
+      <span class="tip">${VOICE_META[v].label} — 準備中</span>
+    </div>`).join('');
+}
+
+function renderCard(item){
+  const morph = item.morph ? `<div class="morph-row">${item.morph.map(m=>`<div class="morph-piece">${m.form}<span>${m.gloss}</span></div>`).join('')}</div>` : '';
+  return `<div class="phrase-card" data-basay="${item.basay}" data-zh="${item.zh}">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start">
+      <div class="phrase-basay">${item.basay}</div>
+      <span class="tag">${item.tag}</span>
+    </div>
+    <div class="phrase-ipa">${item.ipa}</div>
+    <div class="phrase-zh">${item.zh}</div>
+    ${item.note?`<div class="phrase-note">${item.note}</div>`:''}
+    ${morph}
+    <div class="card-actions">${makeButtons(item)}</div>
+  </div>`;
+}
+
+function renderGrid(id,items){
+  const el=document.getElementById(id);
+  if(el) el.innerHTML=items.map(renderCard).join('');
+}
+
+function renderDialogs(){
+  document.getElementById('dialogs-container').innerHTML=DIALOGS.map(d=>`
+    <div class="dialog-box">
+      <div class="dialog-header">🎭 ${d.title} <span style="font-size:0.72rem;opacity:0.6;margin-left:0.4rem">${d.context}</span></div>
+      ${d.turns.map((t,i)=>`
+        <div class="dialog-turn">
+          <div class="dialog-speaker ${i%2===1?'b':''}">${t.speaker}</div>
+          <div class="dialog-content">
+            <div class="basay">${t.basay}</div>
+            <div class="zh">${t.zh}</div>
+          </div>
+        </div>`).join('')}
+      <div style="padding:0.62rem 1rem;background:rgba(237,229,212,0.4);font-size:0.76rem;color:#8a7a6a;border-top:1px solid #c8b89a">📝 ${d.notes}</div>
+    </div>`).join('');
+}
+
+// ── AUDIO ────────────────────────────────────────────────────────────────────
+// File convention: audio/{ipay|hokkien}/{slug}.wav
+// Place WAV files generated by eSpeak-NG in these folders.
+function playAudio(s, voice, btn){
+  const url = `audio/${VOICE_META[voice].dir}/${s}.wav`;
+  const a = new Audio(url);
+  a.oncanplay = ()=>{ btn.classList.add('playing'); a.play(); };
+  a.onended   = ()=> btn.classList.remove('playing');
+  a.onerror   = ()=>{
+    btn.classList.remove('playing');
+    const tip = btn.closest('.btn-wrap')?.querySelector('.tip');
+    if(tip){ const o=tip.textContent; tip.textContent='音源尚未載入'; tip.style.opacity='1';
+      setTimeout(()=>{ tip.style.opacity=''; tip.textContent=o; },1800); }
+  };
+  a.load();
+}
+
+// ── FILTER ───────────────────────────────────────────────────────────────────
+function filterCards(id,q){
+  q=q.toLowerCase();
+  document.getElementById(id).querySelectorAll('.phrase-card').forEach(c=>{
+    c.style.display=(c.dataset.basay.toLowerCase().includes(q)||c.dataset.zh.includes(q))?'':'none';
+  });
+}
+
+// ── NAV ──────────────────────────────────────────────────────────────────────
+function switchSection(name,btn){
+  document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
+  document.getElementById('section-'+name).classList.add('active');
+  btn.classList.add('active');
+}
+
+// ── INIT ─────────────────────────────────────────────────────────────────────
+renderGrid('greetings-grid',DATA.greetings);
+renderGrid('basics-grid',DATA.basics);
+renderGrid('nouns-grid',DATA.nouns);
+renderGrid('verbs-grid',DATA.verbs);
+renderGrid('numbers-grid',DATA.numbers);
+renderDialogs();
+</script>
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>辭典檢索 — basay.tw</title>
+<meta name="description" content="巴賽語辭典檢索，支援 Basay 羅馬字、中文、日文、英文互查。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="brand">
+      <a href="../"><span class="brand-main">凱達格蘭 · 巴賽語</span></a>
+      <span class="brand-sub">Ketagalan · Basay — 從記憶到再生</span>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="../">首頁</a></li>
+        <li><a href="../grammar/">文法</a></li>
+        <li><a href="../education/">教育推進</a></li>
+        <li><a href="../research/">研究成果</a></li>
+        <li><a href="./" class="active">辭典</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+
+  <h1>辭典檢索 Dictionary</h1>
+  <p class="section-intro">
+    支援以 <strong>巴賽語（羅馬字）、繁體中文、日文、英文</strong> 四種語言互查。
+    本頁為快速檢索介面；<strong>完整詞條庫</strong>維護於 Notion，編輯即時同步。
+  </p>
+
+  <aside class="notion-cta">
+    <div class="notion-text">
+      <strong>📖 完整辭典（Notion 版）</strong>
+      <p>
+        全部詞條的主資料庫，支援更豐富的篩選（詞類、來源、例句等）。編輯者可直接在 Notion 新增 / 修訂詞條。
+      </p>
+    </div>
+    <a class="notion-btn"
+       href="https://basay.notion.site/234ef706551c8041af41fe6986178006?v=234ef706551c81739e90000ca14eabbd"
+       target="_blank" rel="noopener">前往 Notion 辭典</a>
+  </aside>
+
+
+
+
+
+  <h2>資料來源與貢獻</h2>
+  <p>
+    初期詞條主要整理自 Ogawa、Ferrell、李壬癸等先行研究，以及西班牙道明會留下的宗教翻譯材料。
+    <strong>詞條主資料庫維護於 Notion</strong><!--，研究者與編輯可直接在 Notion 上新增、審訂、標註來源；
+    <code>data/dictionary.json</code> 則為定期從 Notion 同步出來的快取，供本頁離線檢索使用。-->
+  </p>
+
+  <aside class="notion-cta">
+    <div class="notion-text">
+      <strong>✍️ 想貢獻詞條？</strong>
+      <p>歡迎在 Notion 辭典中新增條目；或透過 GitHub issue 提出勘誤。</p>
+    </div>
+    <a class="notion-btn"
+       href="https://basay.notion.site/234ef706551c8041af41fe6986178006?v=234ef706551c81739e90000ca14eabbd"
+       target="_blank" rel="noopener">開啟 Notion 辭典</a>
+  </aside>
+
+</main>
+
+<footer class="site-footer">
+  <div class="tagline">「一個詞找回來，就是一段記憶回家。」</div>
+  <div>© 2026 basay.tw ｜ <a href="../">返回首頁</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</div>
+</footer>
+
+<script src="../js/main.js"></script>
+<script src="../js/dictionary.js"></script>
+</body>
+</html>

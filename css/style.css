@@ -1,0 +1,672 @@
+/* ==========================================================
+   basay.tw — 凱達格蘭（巴賽語）〜從記憶到再生〜
+   視覺主題：淡水河口・八里海岸・大屯火山
+   ========================================================== */
+
+:root {
+  /* 色票 */
+  --color-deep:   #1a3a52;  /* 深海藍 */
+  --color-sand:   #f0e6d2;  /* 砂岸色 */
+  --color-algae:  #5a7a6b;  /* 海藻綠 */
+  --color-brick:  #c86d4a;  /* 火山磚紅 */
+  --color-drift:  #6b5d54;  /* 流木灰 */
+  --color-ink:    #2c2620;  /* 墨黑 */
+  --color-mist:   #fbf7ef;  /* 霧白 */
+  --color-line:   rgba(44, 38, 32, 0.12);
+
+  /* 字體 */
+  --font-serif: "Noto Serif TC", "Source Han Serif TC", "PingFang TC", "Songti TC", serif;
+  --font-sans:  "Inter", "Noto Sans TC", "PingFang TC", "Helvetica Neue", Arial, sans-serif;
+  --font-mono:  "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+
+  /* 尺寸 */
+  --max-w: 1080px;
+  --radius: 6px;
+  --shadow-sm: 0 1px 2px rgba(26, 58, 82, 0.08);
+  --shadow-md: 0 6px 24px rgba(26, 58, 82, 0.12);
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--color-mist);
+  color: var(--color-ink);
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  color: var(--color-deep);
+  line-height: 1.3;
+  margin: 2.2em 0 0.8em;
+  letter-spacing: 0.02em;
+}
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.6rem; border-bottom: 1px solid var(--color-line); padding-bottom: .3em; }
+h3 { font-size: 1.2rem; color: var(--color-algae); }
+
+p { margin: 0 0 1em; }
+
+a {
+  color: var(--color-brick);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--color-brick);
+  transition: color .15s, border-color .15s;
+}
+a:hover { color: var(--color-deep); border-bottom-color: var(--color-deep); }
+
+code, .basay-word {
+  font-family: var(--font-mono);
+  background: var(--color-sand);
+  padding: 0.05em 0.35em;
+  border-radius: 3px;
+  font-size: 0.92em;
+  color: var(--color-ink);
+}
+
+blockquote {
+  border-left: 3px solid var(--color-algae);
+  margin: 1.5em 0;
+  padding: .2em 1.2em;
+  color: var(--color-drift);
+  font-style: italic;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: var(--color-line);
+  margin: 2.5em 0;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  background: var(--color-deep);
+  color: var(--color-mist);
+  border-bottom: 3px solid var(--color-brick);
+}
+.site-header-inner {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 1.2rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.brand {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+.brand a {
+  color: var(--color-mist);
+  border: 0;
+  font-weight: 600;
+}
+.brand .brand-main {
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+}
+.brand .brand-sub {
+  font-size: 0.85rem;
+  color: var(--color-sand);
+  font-style: italic;
+  opacity: 0.85;
+  margin-top: 0.2em;
+}
+
+nav.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1.4rem;
+  font-family: var(--font-sans);
+  font-size: 0.98rem;
+}
+nav.site-nav a {
+  color: var(--color-mist);
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+nav.site-nav a:hover,
+nav.site-nav a.active {
+  color: var(--color-sand);
+  border-bottom-color: var(--color-brick);
+}
+
+/* ---------- Layout ---------- */
+main.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 5rem;
+}
+
+/* ---------- Hero ---------- */
+.hero {
+  background: linear-gradient(135deg, var(--color-deep) 0%, var(--color-algae) 100%);
+  color: var(--color-mist);
+  padding: 4.5rem 1.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero::after {
+  /* 波浪紋 */
+  content: "";
+  position: absolute;
+  inset: auto 0 0 0;
+  height: 30px;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 30' preserveAspectRatio='none'><path d='M0 15 Q 15 0 30 15 T 60 15 T 90 15 T 120 15 V 30 H 0 Z' fill='%23fbf7ef'/></svg>") repeat-x;
+  background-size: 120px 30px;
+}
+.hero h1 { color: var(--color-mist); font-size: 2.8rem; margin: 0 0 .4em; }
+.hero .sub { color: var(--color-sand); font-size: 1.1rem; font-style: italic; }
+.hero .basay-greet {
+  margin-top: 1.8em;
+  font-family: var(--font-mono);
+  font-size: 1.3rem;
+  letter-spacing: 0.15em;
+  color: var(--color-sand);
+}
+
+/* ---------- Cards Grid ---------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.4rem;
+  margin: 2rem 0;
+}
+.card {
+  background: #fff;
+  border: 1px solid var(--color-line);
+  border-top: 4px solid var(--color-brick);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.5rem;
+  box-shadow: var(--shadow-sm);
+  transition: transform .2s, box-shadow .2s;
+}
+.card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+.card h3 { margin-top: 0; color: var(--color-deep); }
+.card p { color: var(--color-drift); font-size: 0.96em; }
+.card a.more {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* ---------- Daily widget ---------- */
+.daily-widget {
+  background: var(--color-sand);
+  border-left: 5px solid var(--color-brick);
+  padding: 1.5rem 1.8rem;
+  border-radius: var(--radius);
+  margin: 2.5rem 0;
+}
+.daily-widget .date {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  color: var(--color-drift);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.daily-widget .word {
+  font-family: var(--font-mono);
+  font-size: 2rem;
+  color: var(--color-deep);
+  margin: 0.2em 0 0.1em;
+  letter-spacing: 0.05em;
+}
+.daily-widget .gloss { color: var(--color-ink); font-size: 1.05rem; }
+.daily-widget .usage { color: var(--color-drift); font-style: italic; margin-top: .6em; }
+
+/* ---------- Tables ---------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.98rem;
+}
+th, td {
+  padding: 0.7em 0.9em;
+  border-bottom: 1px solid var(--color-line);
+  text-align: left;
+  vertical-align: top;
+}
+th {
+  background: var(--color-sand);
+  color: var(--color-deep);
+  font-weight: 600;
+  font-family: var(--font-sans);
+  letter-spacing: 0.04em;
+}
+tr:hover td { background: rgba(240, 230, 210, 0.4); }
+td.basay { font-family: var(--font-mono); color: var(--color-deep); }
+
+/* ---------- Phrase block ---------- */
+.phrase {
+  background: #fff;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius);
+  padding: 1rem 1.3rem;
+  margin: 1rem 0;
+}
+.phrase .basay { font-family: var(--font-mono); font-size: 1.15rem; color: var(--color-deep); letter-spacing: 0.04em; }
+.phrase .zh { color: var(--color-ink); margin-top: .2em; }
+.phrase .note { color: var(--color-drift); font-size: 0.9em; font-style: italic; margin-top: .3em; }
+
+/* ---------- Dictionary ---------- */
+.dict-search {
+  background: var(--color-sand);
+  padding: 1.2rem 1.3rem;
+  border-radius: var(--radius);
+  display: flex;
+  flex-wrap: wrap;
+  gap: .8rem;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+.dict-search input,
+.dict-search select {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  padding: .55em .8em;
+  border: 1px solid var(--color-line);
+  background: #fff;
+  color: var(--color-ink);
+  border-radius: var(--radius);
+}
+.dict-search input[type="search"] { flex: 1; min-width: 220px; }
+.dict-search button {
+  font-family: var(--font-sans);
+  background: var(--color-deep);
+  color: var(--color-mist);
+  border: 0;
+  padding: .6em 1.4em;
+  border-radius: var(--radius);
+  cursor: pointer;
+  letter-spacing: 0.08em;
+}
+.dict-search button:hover { background: var(--color-brick); }
+
+.dict-results { margin-top: 1.5rem; }
+.dict-entry {
+  border-bottom: 1px dashed var(--color-line);
+  padding: 1rem 0;
+}
+.dict-entry:last-child { border-bottom: 0; }
+.dict-entry .headword {
+  font-family: var(--font-mono);
+  font-size: 1.3rem;
+  color: var(--color-deep);
+  letter-spacing: 0.05em;
+}
+.dict-entry .pos {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  background: var(--color-algae);
+  color: var(--color-mist);
+  padding: 0.1em 0.6em;
+  margin-left: 0.6em;
+  border-radius: 10px;
+  vertical-align: middle;
+  letter-spacing: 0.05em;
+}
+.dict-entry .senses { list-style: none; padding: 0; margin: .4em 0 0; }
+.dict-entry .senses li {
+  padding-left: 1.4em;
+  position: relative;
+  margin: .2em 0;
+}
+.dict-entry .senses li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--color-brick);
+}
+.dict-entry .source {
+  display: inline-block;
+  margin-top: .4em;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  color: var(--color-drift);
+}
+.dict-empty {
+  text-align: center;
+  color: var(--color-drift);
+  padding: 2rem;
+  font-style: italic;
+}
+
+/* ---------- Notion CTA ---------- */
+.notion-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  background: linear-gradient(135deg, #fff 0%, var(--color-sand) 100%);
+  border: 1px solid var(--color-line);
+  border-left: 5px solid var(--color-deep);
+  padding: 1.2rem 1.4rem;
+  border-radius: var(--radius);
+  margin: 1.8rem 0;
+  box-shadow: var(--shadow-sm);
+}
+.notion-cta .notion-text { flex: 1 1 260px; }
+.notion-cta .notion-text strong { color: var(--color-deep); font-size: 1.05rem; }
+.notion-cta .notion-text p {
+  margin: .3em 0 0;
+  color: var(--color-drift);
+  font-size: 0.95rem;
+}
+.notion-cta .notion-btn {
+  font-family: var(--font-sans);
+  background: var(--color-deep);
+  color: var(--color-mist);
+  border: 0;
+  padding: .7em 1.4em;
+  border-radius: var(--radius);
+  letter-spacing: 0.08em;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  border-bottom: 0;
+}
+.notion-cta .notion-btn:hover {
+  background: var(--color-brick);
+  color: var(--color-mist);
+}
+.notion-cta .notion-btn::after { content: " ↗"; }
+
+/* ---------- Research list ---------- */
+.paper {
+  background: #fff;
+  border-left: 4px solid var(--color-algae);
+  padding: 1rem 1.3rem;
+  margin: 1rem 0;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.paper h3 { margin: 0 0 .3em; font-size: 1.1rem; color: var(--color-deep); }
+.paper .authors { font-family: var(--font-sans); font-size: .92rem; color: var(--color-drift); }
+.paper .meta { font-family: var(--font-sans); font-size: .85rem; color: var(--color-drift); margin-top: .4em; }
+.paper .abstract { margin-top: .6em; font-size: 0.96rem; }
+.paper .cta-row { margin-top: .8em; display: flex; gap: .6rem; flex-wrap: wrap; }
+.paper .cta-row a {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  padding: .35em .9em;
+  border: 1px solid var(--color-deep);
+  border-radius: var(--radius);
+  color: var(--color-deep);
+  text-decoration: none;
+}
+.paper .cta-row a.primary { background: var(--color-deep); color: var(--color-mist); }
+.paper .cta-row a:hover { background: var(--color-brick); color: var(--color-mist); border-color: var(--color-brick); }
+
+/* ---------- Paper detail page ---------- */
+.paper-meta {
+  background: var(--color-sand);
+  padding: 1rem 1.3rem;
+  border-radius: var(--radius);
+  margin: 1.2rem 0 1.8rem;
+  font-family: var(--font-sans);
+  font-size: 0.93rem;
+  color: var(--color-drift);
+  line-height: 1.8;
+}
+.paper-meta strong { color: var(--color-deep); }
+.paper-meta .download-row { margin-top: .8em; }
+.paper-meta .download-btn {
+  display: inline-block;
+  background: var(--color-deep);
+  color: var(--color-mist);
+  padding: .5em 1.2em;
+  border-radius: var(--radius);
+  font-family: var(--font-sans);
+  letter-spacing: 0.04em;
+  border-bottom: 0;
+  margin-right: .5em;
+}
+.paper-meta .download-btn:hover { background: var(--color-brick); }
+
+.abstract-box {
+  background: #fff;
+  border-left: 4px solid var(--color-brick);
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+.abstract-box h2 { margin-top: 0; font-size: 1.15rem; border: 0; padding: 0; }
+.abstract-box p { margin-bottom: 0.6em; }
+.keywords {
+  margin-top: 0.8em;
+  font-size: 0.9rem;
+  color: var(--color-drift);
+  font-family: var(--font-sans);
+}
+.keywords strong { color: var(--color-deep); }
+
+.cite-block {
+  background: var(--color-mist);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+}
+.cite-block h3 { margin-top: 0; font-size: 1rem; color: var(--color-algae); }
+.cite-block pre {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  background: #fff;
+  padding: 0.7rem 0.9rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--color-line);
+  margin: 0;
+  color: var(--color-ink);
+}
+
+.breadcrumb {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  color: var(--color-drift);
+  margin-bottom: 0.5rem;
+}
+.breadcrumb a { color: var(--color-drift); border-bottom: 1px dotted var(--color-drift); }
+.breadcrumb a:hover { color: var(--color-brick); border-color: var(--color-brick); }
+
+/* ---------- Footer ---------- */
+footer.site-footer {
+  background: var(--color-deep);
+  color: var(--color-sand);
+  padding: 2.5rem 1.5rem 2rem;
+  margin-top: 4rem;
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  border-top: 3px solid var(--color-brick);
+}
+footer.site-footer a { color: var(--color-sand); border-bottom-color: rgba(240, 230, 210, 0.4); }
+footer.site-footer a:hover { color: var(--color-mist); }
+footer.site-footer .tagline {
+  font-family: var(--font-serif);
+  font-style: italic;
+  margin-bottom: .8em;
+  color: var(--color-mist);
+}
+
+/* ---------- Small screens ---------- */
+@media (max-width: 640px) {
+  .site-header-inner { flex-direction: column; align-items: flex-start; }
+  nav.site-nav ul { gap: 1rem; flex-wrap: wrap; }
+  .hero { padding: 3rem 1.2rem; }
+  .hero h1 { font-size: 2rem; }
+  h1 { font-size: 1.7rem; }
+}
+
+/* ---------- Utility ---------- */
+.section-intro { color: var(--color-drift); font-size: 1.05rem; max-width: 760px; }
+.tag { display: inline-block; background: var(--color-algae); color: var(--color-mist);
+       font-family: var(--font-sans); font-size: .78rem; padding: .15em .8em;
+       border-radius: 12px; margin-right: .4em; letter-spacing: 0.04em; }
+.placeholder-note {
+  background: rgba(200, 109, 74, 0.08);
+  border: 1px dashed var(--color-brick);
+  padding: 0.8em 1.1em;
+  border-radius: var(--radius);
+  color: var(--color-drift);
+  font-size: 0.92em;
+  margin: 1.2em 0;
+}
+
+/* ==========================================================
+   音聲コンポーネント（IPay / 台語 TTS 再生ボタン）
+   ========================================================== */
+
+/* ヴォイススイッチャー */
+.basay-voice-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  padding: 0.55em 0.9em;
+  margin: 1.2em 0 1.6em;
+  border: 1px solid var(--color-line);
+  background: rgba(26, 58, 82, 0.035);
+  border-radius: var(--radius);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+}
+.basay-voice-switcher .vs-label {
+  color: var(--color-deep);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+.basay-voice-switcher [data-voice] {
+  border: 1px solid var(--color-line);
+  background: var(--color-mist);
+  color: var(--color-ink);
+  padding: 0.25em 0.8em;
+  border-radius: 14px;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  transition: all 0.15s ease;
+}
+.basay-voice-switcher [data-voice]:hover {
+  border-color: var(--color-deep);
+}
+.basay-voice-switcher [data-voice][data-voice="ipay"].active {
+  background: #2a5a7a;
+  color: #fff;
+  border-color: #4a9abf;
+  box-shadow: 0 0 0 2px rgba(42, 90, 122, 0.18);
+}
+.basay-voice-switcher [data-voice][data-voice="hokkien"].active {
+  background: #3a6b2a;
+  color: #fff;
+  border-color: #6aaa4a;
+  box-shadow: 0 0 0 2px rgba(58, 107, 42, 0.18);
+}
+.basay-voice-switcher #basay-voice-status {
+  color: var(--color-drift);
+  font-size: 0.78rem;
+}
+.basay-voice-switcher .vs-desc {
+  color: var(--color-drift);
+  font-size: 0.74rem;
+  margin-left: auto;
+  opacity: 0.7;
+}
+
+/* 再生ボタン（Basay 文に隣接） */
+.basay-audio-btns {
+  display: inline-flex;
+  gap: 0.25em;
+  margin-left: 0.4em;
+  vertical-align: baseline;
+}
+.basay-play {
+  border: 1px solid transparent;
+  background: transparent;
+  color: inherit;
+  padding: 0.08em 0.5em;
+  border-radius: 10px;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.22em;
+  line-height: 1.4;
+  transition: all 0.15s ease;
+  user-select: none;
+}
+.basay-play .play-emoji { font-size: 0.82em; }
+.basay-play .play-label { letter-spacing: 0.03em; }
+.basay-play--ipay {
+  background: rgba(42, 90, 122, 0.1);
+  color: #1d4a66;
+  border-color: rgba(42, 90, 122, 0.2);
+}
+.basay-play--ipay:hover {
+  background: rgba(42, 90, 122, 0.2);
+  border-color: rgba(42, 90, 122, 0.45);
+}
+.basay-play--hokkien {
+  background: rgba(58, 107, 42, 0.1);
+  color: #2d5420;
+  border-color: rgba(58, 107, 42, 0.22);
+}
+.basay-play--hokkien:hover {
+  background: rgba(58, 107, 42, 0.2);
+  border-color: rgba(58, 107, 42, 0.45);
+}
+.basay-play.loading { opacity: 0.55; }
+.basay-play.playing {
+  animation: basay-play-pulse 0.9s ease-in-out infinite;
+}
+.basay-play.missing {
+  background: rgba(200, 109, 74, 0.15);
+  color: var(--color-brick);
+  border-color: var(--color-brick);
+}
+.basay-play.missing::after {
+  content: " 準備中";
+  font-size: 0.66rem;
+  margin-left: 0.2em;
+  opacity: 0.85;
+}
+@keyframes basay-play-pulse {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.07); }
+}
+
+/* Basay 文字にラインを引く（音源ありを示す） */
+.basay-has-audio {
+  background: linear-gradient(transparent 70%, rgba(42, 90, 122, 0.14) 70%);
+  padding: 0 0.12em;
+}
+
+/* テーブル内など、狭い場所でのコンパクト表示 */
+.compact-audio .basay-audio-btns { margin-left: 0.25em; gap: 0.15em; }
+.compact-audio .basay-play { padding: 0.02em 0.38em; font-size: 0.66rem; }
+.compact-audio .basay-play .play-label { display: none; }
+
+/* 小画面 */
+@media (max-width: 640px) {
+  .basay-voice-switcher { font-size: 0.78rem; }
+  .basay-voice-switcher .vs-desc { display: none; }
+  .basay-play .play-label { display: none; }
+}

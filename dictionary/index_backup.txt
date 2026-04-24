@@ -1,0 +1,31 @@
+  <h2>快速檢索</h2>
+  <p style="color:var(--color-drift); font-size:0.95rem;">
+    以下為基於 <code>data/dictionary.json</code> 的離線檢索（目前收錄 20 筆示範詞條）。
+    更完整的資料請至上方 Notion 辭典查詢。
+  </p>
+
+  <form id="dict-form" class="dict-search" role="search" autocomplete="off">
+    <input type="search" id="dict-query" placeholder="輸入關鍵字，例：ranum、水、みず、water" aria-label="檢索關鍵字">
+    <select id="dict-lang" aria-label="搜尋語言">
+      <option value="any">全部欄位</option>
+      <option value="basay">Basay 羅馬字</option>
+      <option value="zh">繁體中文</option>
+      <option value="ja">日文</option>
+      <option value="en">英文</option>
+    </select>
+    <button type="submit">搜尋</button>
+  </form>
+
+  <div id="dict-results" class="dict-results">
+    <p class="dict-empty">（載入辭典中……）</p>
+  </div>
+
+  <hr>
+
+  <h2>使用說明</h2>
+  <ul>
+    <li>搜尋為 <strong>部分字串比對</strong>（case-insensitive）。</li>
+    <li>選擇「全部欄位」會同時搜尋四個語言欄位。</li>
+    <li>標示 <code>⟨?⟩</code> 或置於 <code>⟨…⟩</code> 中的拼寫代表 <em>文獻擬構</em>，尚待審訂。</li>
+    <li>每筆詞條註記出處（source），便於學術引用。</li>
+  </ul>
