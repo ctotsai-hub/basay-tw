@@ -230,6 +230,66 @@ main.container {
 .daily-widget .gloss { color: var(--color-ink); font-size: 1.05rem; }
 .daily-widget .usage { color: var(--color-drift); font-style: italic; margin-top: .6em; }
 
+/* ---------- Daily Archive (Back Number) ---------- */
+.daily-archive {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.daily-archive-item {
+  background: var(--color-mist);
+  border: 1px solid var(--color-line);
+  border-left: 3px solid var(--color-algae);
+  border-radius: var(--radius);
+  padding: 0.9rem 1.1rem;
+  box-shadow: var(--shadow-sm);
+  transition: transform .12s ease, box-shadow .12s ease;
+}
+.daily-archive-item:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+.daily-archive-item .da-date {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  color: var(--color-drift);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.2em;
+}
+.daily-archive-item .da-word {
+  font-family: var(--font-mono);
+  font-size: 1.2rem;
+  color: var(--color-deep);
+  letter-spacing: 0.03em;
+  margin: 0.1em 0 0.3em;
+  display: inline-block;
+}
+.daily-archive-item .da-gloss {
+  font-size: 0.95rem;
+  color: var(--color-ink);
+  margin: 0.3em 0 0.15em;
+}
+.daily-archive-item .da-usage {
+  font-size: 0.88rem;
+  color: var(--color-drift);
+  font-style: italic;
+}
+.daily-archive-item .basay-audio-btns {
+  display: inline-flex;
+  gap: .35rem;
+  margin-left: .4rem;
+  vertical-align: middle;
+}
+.daily-archive .da-empty {
+  grid-column: 1 / -1;
+  color: var(--color-drift);
+  font-style: italic;
+  text-align: center;
+  padding: 1.5rem;
+}
+
 /* ---------- Tables ---------- */
 table {
   width: 100%;
