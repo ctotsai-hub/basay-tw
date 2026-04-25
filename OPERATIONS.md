@@ -64,20 +64,34 @@ WSL からは：
 
 ### Step 2. 音声を生成
 
+**推奨：daily 一括生成**
+
 ```bash
 cd "/mnt/c/Users/user/Downloads/basay-grammar/webpage/凱達格蘭（巴賽語） ～從記憶到再生～/scripts"
 
+# 何が作られるか確認（合成しない）
+python3 build_daily_audio.py --dry-run
+
+# 未生成のものだけ作る
+python3 build_daily_audio.py
+```
+
+`daily.json` 全エントリを走査し、`audio/ipay/{slug}.wav` と `audio/hokkien/{slug}.wav` が両方揃っていない分だけ合成します。明日以降に何日分まとめて追加しても、これ 1 発で OK。
+
+**個別に 1 件だけ生成したい時**
+
+```bash
 # 表記 1 つ渡せば slug も TTS も自動派生
 python3 gen_audio.py "新しい表記"
 
-# 派生だけ確認したい時
+# 派生だけ確認
 python3 gen_audio.py "新しい表記" --dry-run
 
-# 既存ファイルを上書きしたい時
+# 既存ファイルを上書き
 python3 gen_audio.py "新しい表記" --force
 ```
 
-`audio/ipay/{slug}.wav` と `audio/hokkien/{slug}.wav` の両方が生成され、`audio_manifest.tsv` も自動更新される。
+`audio_manifest.tsv` も自動更新される。
 
 ### Step 3. ローカルで確認
 

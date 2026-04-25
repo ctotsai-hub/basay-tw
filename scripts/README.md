@@ -23,13 +23,14 @@ phrasebook が参照しているのと同じパスで、文法・教育・首頁
 |---|---|
 | **`basay_text.py`** | **表記 → slug / TTS 派生のコアモジュール（推奨）** |
 | **`gen_audio.py`** | **basay_text を使った賢い音声生成ラッパー（推奨）** |
+| **`build_daily_audio.py`** | **`data/daily.json` の全エントリを一括生成（推奨）** |
 | `gen_audio.sh` | 1 語を IPay と 台語 の 2 音源で生成（旧来、slug を手で渡す） |
 | `gen_long.sh` | 長文用ラッパー。`prosody.py` で句読点自動挿入 → `gen_audio.sh` |
 | `prosody.py` | Basay 長文に `,` / `.` を自動挿入（eSpeak-NG TTS 用、旧仕様） |
 | `collect_basay.py` | HTML から `data-basay="..."` 属性を抽出して manifest を生成 |
 | `collect_basay.sh` | 上記 Python スクリプトの bash ラッパー |
-| `build_all_audio.sh` | manifest を読んで全件を一括生成 |
-| `audio_manifest.tsv` | 現時点の全 Basay 例文一覧（TEXT\tSLUG） |
+| `build_all_audio.sh` | HTML 由来 manifest を読んで全件一括生成（v1、HTML 例文用） |
+| `audio_manifest.tsv` | HTML 内の Basay 例文一覧（TEXT\tSLUG） |
 
 ## 推奨ワークフロー（v2 / 2026-04-25 以降）
 
@@ -64,6 +65,29 @@ python3 gen_audio.py "Pina i tia na zijan kuwarij-an-a ni qupa" --dry-run
 # 既存ファイルを上書き
 python3 gen_audio.py "tsu" --force
 ```
+
+### daily.json から一括生成
+
+`data/daily.json` に新しい日付エントリを足したあとに 1 回叩けば、
+未生成の音声だけが自動で合成されます。
+
+```bash
+# 未生成のみ生成（普通の使い方）
+python3 build_daily_audio.py
+
+# 何が作られるか確認だけ（合成しない）
+python3 build_daily_audio.py --dry-run
+
+# 全件強制再生成
+python3 build_daily_audio.py -f
+```
+
+各エントリについて：
+
+- `entry.word` が表記
+- `entry.slug` が空でなければそれを slug 上書きとして使用
+- `audio/ipay/{slug}.wav` と `audio/hokkien/{slug}.wav` が両方揃っていれば skip
+- どちらか欠けていれば `gen_audio.py` を呼んで合成
 
 ### 派生規則の確認・テスト
 
