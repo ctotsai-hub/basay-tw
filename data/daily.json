@@ -1,7 +1,7 @@
 {
   "default": {
     "word": "Makawas ita mau Basay",
-    "gloss": "speak-AV 1PL.INCL.NOM all Basay",
+    "gloss": "speak-AF 1PL.NOM all Basay",
     "usage": "希望大家一起說巴賽語。"
   },
   "2026-04-21": {
@@ -23,5 +23,11 @@
     "word": "Makawas ita mau Basay",
     "gloss": "speak-AF 1PL.NOM wish Basay",
     "usage": "希望大家一起說巴賽語。"
+    },
+  "2026-04-25": {
+    "word": "Luai balmo'n, san'ajau",
+  "slug": "",
+    "gloss": "exist dream beautiful ",
+    "usage": "有夢最美"
   }
 }
