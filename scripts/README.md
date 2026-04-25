@@ -21,17 +21,93 @@ phrasebook が参照しているのと同じパスで、文法・教育・首頁
 
 | ファイル | 役割 |
 |---|---|
-| `gen_audio.sh` | 1 語を IPay と 台語 の 2 音源で生成（単体使用可） |
+| **`basay_text.py`** | **表記 → slug / TTS 派生のコアモジュール（推奨）** |
+| **`gen_audio.py`** | **basay_text を使った賢い音声生成ラッパー（推奨）** |
+| `gen_audio.sh` | 1 語を IPay と 台語 の 2 音源で生成（旧来、slug を手で渡す） |
 | `gen_long.sh` | 長文用ラッパー。`prosody.py` で句読点自動挿入 → `gen_audio.sh` |
-| `prosody.py` | Basay 長文に `,` / `.` を自動挿入（eSpeak-NG TTS 用） |
+| `prosody.py` | Basay 長文に `,` / `.` を自動挿入（eSpeak-NG TTS 用、旧仕様） |
 | `collect_basay.py` | HTML から `data-basay="..."` 属性を抽出して manifest を生成 |
 | `collect_basay.sh` | 上記 Python スクリプトの bash ラッパー |
 | `build_all_audio.sh` | manifest を読んで全件を一括生成 |
 | `audio_manifest.tsv` | 現時点の全 Basay 例文一覧（TEXT\tSLUG） |
 
-## 使い方
+## 推奨ワークフロー（v2 / 2026-04-25 以降）
 
-### 1. 単体で 1 語生成
+「**表記**」を唯一のソースとして、slug と TTS 入力を `basay_text.py` が自動派生します。
+これにより以下の三者が常に整合：
+
+```
+表記 (display)  ─┬─→ slug      （音声ファイル名）
+                  └─→ tts text  （eSpeak 入力）
+```
+
+### 単体合成
+
+```bash
+# 表記 1 つを渡せば slug も TTS も自動派生
+python3 gen_audio.py "Makawas ita mau Basay"
+#   display: Makawas ita mau Basay
+#   slug:    makawas_ita_mau_basay
+#   tts:     Ma:kawas ita mau Basay
+#   → audio/ipay/makawas_ita_mau_basay.wav
+#   → audio/hokkien/makawas_ita_mau_basay.wav
+
+# slug を手動上書き（表記が特殊文字を含むが、シンプルな slug にしたい時）
+python3 gen_audio.py "kalili'" --slug kalili
+
+# TTS テキストを手動上書き（プロソディを手で完璧に整えたい時）
+python3 gen_audio.py "Lennaita" --tts "Le:nnaita,"
+
+# 派生だけ確認（合成しない）
+python3 gen_audio.py "Pina i tia na zijan kuwarij-an-a ni qupa" --dry-run
+
+# 既存ファイルを上書き
+python3 gen_audio.py "tsu" --force
+```
+
+### 派生規則の確認・テスト
+
+```bash
+# 派生結果を確認するだけ（合成しない）
+python3 basay_text.py "Makawas ita mau Basay"
+
+# 自己テスト
+python3 basay_text.py --test
+```
+
+### slug 変換規則（v2）
+
+1. 特殊文字置換：`ŋ`/`Ŋ`/`ʔ`/`'`/`’` → `x`、`ə` → `e`、`ɨ` → `i`
+2. 小文字化
+3. 英数字以外の連続 → `_`
+4. 先頭・末尾の `_` を除去
+5. `--slug` で手動上書き可
+
+### TTS 派生規則（v2）
+
+1. **①** 各ワードが子音始まりなら、最初の母音の直前に `:` を挿入。母音始まりは変更なし。
+   - 例：`paman` → `p:aman`、`kwazai` → `kw:azai`、`abu` → `abu`
+2. **②** `-` を `:` に置換（音節境界）
+3. **③** 語末が `-ku`, `-su`, `-an`, `-ay`, `-ai`, `-ik`, `-it`, `-is` のいずれかなら直後に `,`
+4. **④** スタンドアロンの `u`, `ta`, `a`, `nu` の直後に `,`
+5. 文末トークンには `,` を付けない
+6. `--tts` で手動上書き可
+
+例：
+
+| 表記 | slug | TTS |
+|---|---|---|
+| `Makawas ita mau Basay` | `makawas_ita_mau_basay` | `M:akawas ita m:au B:asay` |
+| `Mani tisu kaman u` | `mani_tisu_kaman_u` | `M:ani t:isu, k:aman, u` |
+| `Pasika-ik mau na putau a kwazai` | `pasika_ik_mau_na_putau_a_kwazai` | `P:asika:ik, m:au n:a p:utau a, kw:azai` |
+| `Azasa nu zanum-na` | `azasa_nu_zanum_na` | `Azasa n:u, z:anum:na` |
+| `kalili'` | `kalilix` | `k:alili'` |
+
+## 旧来の使い方（v1、互換のため残置）
+
+### gen_audio.sh — slug を手で渡す
+
+### gen_audio.sh — 単体で 1 語生成
 
 ```bash
 ./gen_audio.sh "tsu" tsu
