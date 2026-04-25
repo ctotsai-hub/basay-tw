@@ -82,6 +82,12 @@ async function loadDaily() {
       if (wordEl) {
         wordEl.textContent = entry.word || "";
         wordEl.dataset.basay = entry.word || "";
+        // entry.slug があれば data-slug にセット（旧音源との互換）
+        if (entry.slug) {
+          wordEl.dataset.slug = entry.slug;
+        } else {
+          delete wordEl.dataset.slug;
+        }
         var next = wordEl.nextElementSibling;
         if (next && next.classList && next.classList.contains("basay-audio-btns")) {
           next.remove();
@@ -110,9 +116,10 @@ async function loadDaily() {
         var word = escapeHtml(e.word);
         var gloss = escapeHtml(e.gloss);
         var usage = escapeHtml(e.usage);
+        var slugAttr = e.slug ? ' data-slug="' + escapeHtml(e.slug) + '"' : '';
         return '<article class="daily-archive-item">' +
           '<div class="da-date">' + k + '</div>' +
-          '<div class="da-word" data-basay="' + word + '">' + word + '</div>' +
+          '<div class="da-word" data-basay="' + word + '"' + slugAttr + '>' + word + '</div>' +
           '<div class="da-gloss">' + gloss + '</div>' +
           (usage ? '<div class="da-usage">' + usage + '</div>' : '') +
           '</article>';

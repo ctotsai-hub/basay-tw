@@ -1,14 +1,19 @@
 // ============================================================
 // basay.tw — 共有音聲播放組件
 // ------------------------------------------------------------
-// 用法：
+// 用法（自動）:
 //   <span class="basay-word" data-basay="kita' na Vali">kita' na Vali</span>
-//   <div class="basay-audio" data-basay="makia">...</div>
-// data-basay 属性があるすべての要素に IPay / 台語 ボタンが自動付与されます。
 //
-// 音聲檔案慣例（phrasebook と共有）：
+// 用法（slug を手動上書き、ファイル名と表記が違う場合）:
+//   <span class="basay-word"
+//         data-basay="kalili'"
+//         data-slug="kalili">kalili'</span>
+//
+// data-basay があるすべての要素に IPay / 台語 ボタンが自動付与されます。
+//
+// 音聲檔案慣例:
 //   /education/phrasebook/audio/{ipay|hokkien}/{slug}.wav
-//   slug = data-basay を小文字化し、英數字以外を _ に置換したもの
+//   slug は BasayText.slug() で派生（scripts/basay_text.py と同期）
 // ============================================================
 
 (function () {
@@ -31,8 +36,19 @@
   }
 
   // ─────── ユーティリティ ───────
-  function slug(s) {
-    return String(s || "").replace(/[^a-zA-Z0-9]+/g, "_").replace(/^_|_$/g, "").toLowerCase();
+  // BasayText.slug() がロード済みならそれを使用、そうでなければフォールバック
+  function slug(s, manual) {
+    if (window.BasayText && typeof window.BasayText.slug === "function") {
+      return window.BasayText.slug(s, manual);
+    }
+    if (manual) return String(manual).trim().toLowerCase().replace(/[^a-z0-9_]+/g, "_").replace(/^_+|_+$/g, "");
+    return String(s || "")
+      .replace(/[ŋŊʔ'\u2019]/g, "x")
+      .replace(/ə/g, "e")
+      .replace(/ɨ/g, "i")
+      .replace(/[^a-zA-Z0-9]+/g, "_")
+      .replace(/^_+|_+$/g, "")
+      .toLowerCase();
   }
 
   // ─────── 音聲状態 ───────
@@ -55,8 +71,8 @@
 
   // ─────── 再生 ───────
   let currentAudio = null;
-  function play(text, voice, btn) {
-    const s = slug(text);
+  function play(text, voice, btn, manualSlug) {
+    const s = slug(text, manualSlug);
     if (!s) return;
     const url = audioRoot() + "/" + VOICES[voice].dir + "/" + s + ".wav";
 
@@ -82,7 +98,7 @@
   }
 
   // ─────── ボタン生成 ───────
-  function makeButton(voice, text) {
+  function makeButton(voice, text, manualSlug) {
     const v = VOICES[voice];
     const btn = document.createElement("button");
     btn.type = "button";
@@ -92,7 +108,7 @@
     btn.title = v.label + " — 播放「" + text + "」";
     btn.addEventListener("click", (e) => {
       e.preventDefault();
-      play(text, voice, btn);
+      play(text, voice, btn, manualSlug);
     });
     return btn;
   }
@@ -101,10 +117,11 @@
     if (el.dataset.basayAudioBound === "1") return;
     const text = el.dataset.basay || el.textContent.trim();
     if (!text) return;
+    const manualSlug = el.dataset.slug || null;
     const wrap = document.createElement("span");
     wrap.className = "basay-audio-btns";
-    wrap.appendChild(makeButton("ipay", text));
-    wrap.appendChild(makeButton("hokkien", text));
+    wrap.appendChild(makeButton("ipay", text, manualSlug));
+    wrap.appendChild(makeButton("hokkien", text, manualSlug));
     // 挿入位置：要素の直後
     el.insertAdjacentElement("afterend", wrap);
     el.dataset.basayAudioBound = "1";
