@@ -62,7 +62,7 @@ ALL_SUFFIXES_SORTED = sorted(
     set(SUFFIX_GROUPS['A'] + SUFFIX_GROUPS['B'] + SUFFIX_GROUPS['C']),
     key=len, reverse=True
 )
-PARTICLES = frozenset({'u', 'ta', 'nu', 'i', 'a'})
+PARTICLES = frozenset({'u', 'ta', 'nu', 'i', 'a', 'na'})
 
 
 # digraph 正規化（eSpeak bsy で y が認識されないため、ay→ai 等へ写像）
