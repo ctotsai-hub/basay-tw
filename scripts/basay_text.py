@@ -1,67 +1,35 @@
 #!/usr/bin/env python3
 """
-basay_text.py — 表記から slug と TTS テキストを派生する。
+basay_text.py — 表記から slug と TTS テキストを派生する（v3 / 2026-04-27）
 
-============================================================
-設計思想
-============================================================
-「表記（display form）」を唯一のソースとして、
-  ・slug = 音声ファイル名（小文字・英数字・アンダースコアのみ）
-  ・tts  = eSpeak-NG の入力テキスト（プロソディマーカー付き）
-を機械的に派生させる。手動入力で上書き可能。
-
-============================================================
-仕様（2026-04-25 v1）
-============================================================
-
-[1] 表記 — 大文字、ハイフン、スペース、正書法すべて保持
-
-[2] slug — 自動変換（手動上書き可）
-    a. 特殊文字置換: ŋ→x, Ŋ→x, ʔ→x, '→x, ə→e, ɨ→i
-    b. 小文字化
-    c. 英数字以外の連続 → "_"
-    d. 先頭・末尾の "_" を除去
-
-[3] TTS テキスト — 自動変換（手動上書き可）
-    ① 各ワードが子音始まりなら、最初の母音の直前に ":" を挿入。
-       母音始まりのワードは変更なし。
-       例：paman → p:aman、abu → abu、kwazai → kw:azai
-    ② "-" を ":" に置換（音節境界マーカー）
-    ③ 語末が次のいずれかなら直後に "," を挿入：
-       -ku, -su, -an, -ay, -ai, -ik, -it, -is
-    ④ スタンドアロンの u, ta, a, nu の直後に "," を挿入
-    ※ 文末トークンには "," を付けない
-
-============================================================
-CLI 使用例
-============================================================
-    python3 basay_text.py "Makawas ita mau Basay"
-        → display: Makawas ita mau Basay
-        → slug:    makawas_ita_mau_basay
-        → tts:     Ma:kawas ita mau Basay
-
-    python3 basay_text.py --test
-        → 自己テスト実行
+仕様サマリ:
+  ・slug: ŋ/Ŋ/ʔ/'/' → x、ə → e、ɨ → i、英数字以外 → "_"、両端 strip
+  ・TTS:
+      ⑧ ' / ' / ʔ → x（直前文字に粘着）
+      ① 各ワード最初の子音単位の直後に :
+      ② 語中の連続子音（粘着 x の後ろは除く）の間に :
+      ④ - を : に置換
+      ⑤ 語末接尾辞: 直前の母音の前に :、文末以外は , を付加
+      ⑥ 語中接尾辞: 前後に :
+      ⑦ 助詞 u/ta/nu/i/a の後（文末除く）に ,
+      ⑨ 2 音節語は [[...,=]] 形式で出力
+  ・接尾辞 longest-match (内側へ反復):
+      A: -an -ay -ai -au -na
+      B: -ku -ik -su -is -ta -it -mi -am -mu -im -ija
+      C: -aku -isu -ita -ami -imu -ia -ja
 """
 import re
 import sys
-from typing import Optional
+from typing import List, Optional, Tuple
 
-
-# ─────────────────────── slug ───────────────────────
 SPECIAL_CHAR_MAP = {
-    'ŋ': 'x',     # 軟口蓋鼻音
-    'Ŋ': 'x',
-    'ʔ': 'x',     # 声門閉鎖
-    "'": 'x',     # アポストロフィ（声門閉鎖）
-    '\u2019': 'x', # 右シングルクォート（’）
-    'ə': 'e',     # シュワー
-    'ɨ': 'i',     # 高中央母音
+    'ŋ': 'x', 'Ŋ': 'x', 'ʔ': 'x',
+    "'": 'x', '’': 'x',
+    'ə': 'e', 'ɨ': 'i',
 }
 
 
-def slug(display: str, manual: Optional[str] = None) -> str:
-    """表記 → slug。manual を渡せば上書き。"""
+def slug(display, manual=None):
     if manual:
         return re.sub(r'[^a-z0-9_]+', '_', manual.strip().lower()).strip('_')
     s = display or ''
@@ -69,91 +37,306 @@ def slug(display: str, manual: Optional[str] = None) -> str:
         s = s.replace(src, dst)
     s = s.lower()
     s = re.sub(r'[^a-z0-9]+', '_', s)
-    s = s.strip('_')
-    return s
+    return s.strip('_')
 
 
-# ─────────────────────── TTS ───────────────────────
 VOWELS = set('aeiouəɨAEIOUƏ')
+DIGRAPHS = (
+    'tS', 'ts', 'TS', 'Ts',
+    'ng', 'NG', 'Ng', 'nG',
+    'ay', 'AY', 'Ay', 'aY',
+    'uy', 'UY', 'Uy', 'uY',
+    'oy', 'OY', 'Oy', 'oY',
+    'ey', 'EY', 'Ey', 'eY',
+    'au', 'AU', 'Au', 'aU',
+    'ai', 'AI', 'Ai', 'aI',
+)
+APOSTROPHES = ("'", '’', 'ʔ')
 
-# 語末接尾辞（rule ③）
-FINAL_SUFFIXES = ('ku', 'su', 'an', 'ay', 'ai', 'ik', 'it', 'is', 'ta')
-
-# スタンドアロン助詞（rule ④）
-PARTICLES = frozenset({'u', 'ta', 'a', 'nu'})
-
-# 字音とみなす文字（特殊文字含む）
-LETTER_CHARS = "A-Za-zəɨŋŊ'\u2019ʔ"
-_TRAIL_PUNCT_RE = re.compile(rf"[^{LETTER_CHARS}]+$")
-
-
-def _bare_lower(token: str) -> str:
-    """末尾の句読点・記号を除いた字音部を小文字化。"""
-    bare = _TRAIL_PUNCT_RE.sub('', token)
-    return bare.lower()
+SUFFIX_GROUPS = {
+    'A': ['an', 'ay', 'ai', 'au', 'na'],
+    'B': ['ku', 'ik', 'su', 'is', 'ta', 'it', 'mi', 'am', 'mu', 'im', 'ija'],
+    'C': ['aku', 'isu', 'ita', 'ami', 'imu', 'ia', 'ja'],
+}
+ALL_SUFFIXES_SORTED = sorted(
+    set(SUFFIX_GROUPS['A'] + SUFFIX_GROUPS['B'] + SUFFIX_GROUPS['C']),
+    key=len, reverse=True
+)
+PARTICLES = frozenset({'u', 'ta', 'nu', 'i', 'a'})
 
 
-def _wants_trailing_comma(token: str) -> bool:
-    """rule ③ + rule ④: このトークンの後に "," が必要か？"""
-    bare = _bare_lower(token)
-    if not bare:
-        return False
-    if bare in PARTICLES:                  # rule ④
-        return True
-    for suf in FINAL_SUFFIXES:             # rule ③
-        if bare.endswith(suf):
-            return True
+# digraph 正規化（eSpeak bsy で y が認識されないため、ay→ai 等へ写像）
+DIGRAPH_NORMALIZE = {
+    'ay': 'ai', 'AY': 'AI', 'Ay': 'Ai', 'aY': 'aI',
+    'uy': 'ui', 'UY': 'UI', 'Uy': 'Ui', 'uY': 'uI',
+    'oy': 'oi', 'OY': 'OI', 'Oy': 'Oi', 'oY': 'oI',
+    'ey': 'ei', 'EY': 'EI', 'Ey': 'Ei', 'eY': 'eI',
+}
+
+
+def _parse_units(word):
+    units = []
+    i, n = 0, len(word)
+    while i < n:
+        matched = None
+        for dg in DIGRAPHS:
+            if word.startswith(dg, i):
+                matched = dg
+                break
+        if matched:
+            units.append(DIGRAPH_NORMALIZE.get(matched, matched))
+            i += len(matched)
+            continue
+        ch = word[i]
+        if ch in APOSTROPHES:
+            if units and units[-1] != '-':
+                units[-1] = units[-1] + 'x'
+            else:
+                units.append('x')
+            i += 1
+            continue
+        units.append(ch)
+        i += 1
+    return units
+
+
+def _is_vowel_unit(u):
+    return bool(u) and u[0] in VOWELS
+
+
+def _alpha_lower(units):
+    return ''.join(u for u in units if u != '-').lower()
+
+
+def _count_syllables(units):
+    count = 0
+    in_group = False
+    for u in units:
+        if u == '-':
+            in_group = False
+            continue
+        if _is_vowel_unit(u):
+            if not in_group:
+                count += 1
+                in_group = True
+        else:
+            in_group = False
+    return count
+
+
+def _strip_one_end_suffix(alpha):
+    for suf in ALL_SUFFIXES_SORTED:
+        if len(alpha) > len(suf) and alpha.endswith(suf):
+            return alpha[:-len(suf)], suf
+    return None
+
+
+def _count_units_for_chars(units, n_chars):
+    total = 0
+    for i in range(len(units) - 1, -1, -1):
+        if units[i] == '-':
+            continue
+        total += len(units[i])
+        if total == n_chars:
+            return len(units) - i
+        if total > n_chars:
+            return None
+    return None if total != n_chars else len(units)
+
+
+def _segment_word(units):
+    suffix_chunks = []
+    remaining = units[:]
+    while True:
+        alpha = _alpha_lower(remaining)
+        result = _strip_one_end_suffix(alpha)
+        if result is None:
+            break
+        _, suf = result
+        cnt = _count_units_for_chars(remaining, len(suf))
+        if cnt is None or cnt == 0 or cnt >= len(remaining):
+            break
+        suffix_chunks.append(remaining[-cnt:])
+        remaining = remaining[:-cnt]
+    segments = [(remaining, 'stem')]
+    if suffix_chunks:
+        suffix_chunks.reverse()
+        for j, chunk in enumerate(suffix_chunks):
+            kind = 'end' if j == len(suffix_chunks) - 1 else 'mid'
+            segments.append((chunk, kind))
+    return segments
+
+
+def _last_unit(stem, up_to_idx):
+    for j in range(up_to_idx - 1, -1, -1):
+        if stem[j] != '-':
+            return stem[j]
+    return ''
+
+
+def _render_stem(stem):
+    if not stem:
+        return ''
+    out = []
+    found_first_vowel = False
+    for i, u in enumerate(stem):
+        if u == '-':
+            out.append(':')
+            found_first_vowel = True
+            continue
+        if _is_vowel_unit(u):
+            if not found_first_vowel and i > 0 and not (i == 1 and stem[0] == '-'):
+                out.append(':')
+            out.append(u)
+            found_first_vowel = True
+        else:
+            if found_first_vowel and out and out[-1] != ':':
+                prev = _last_unit(stem, i)
+                if not _is_vowel_unit(prev) and not prev.endswith('x'):
+                    out.append(':')
+            out.append(u)
+    return ''.join(out)
+
+
+def _suffix_starts_with_vowel(units):
+    for u in units:
+        if u == '-':
+            continue
+        return _is_vowel_unit(u)
     return False
 
 
-def _apply_consonant_colon(token: str) -> str:
-    """rule ①：子音始まりのトークンは、最初の母音の直前に ":" を挿入。
-    母音始まりのトークンは変更なし。
-    例：paman → p:aman, kwazai → kw:azai, abu → abu (不変)。"""
-    for i, ch in enumerate(token):
-        if ch in VOWELS:
-            if i == 0:
-                return token              # 母音始まり → 変更なし
-            if token[i - 1] == ':':
-                return token              # すでに ":" 直後 → 多重挿入防止
-            return token[:i] + ':' + token[i:]
-    return token                          # 母音なし → 変更なし
+def _render_suffix(suf):
+    if not suf:
+        return ''
+    if _suffix_starts_with_vowel(suf):
+        return ''.join(u for u in suf if u != '-')
+    out = []
+    inserted = False
+    for u in suf:
+        if u == '-':
+            continue
+        if not inserted and _is_vowel_unit(u):
+            out.append(':')
+            inserted = True
+        out.append(u)
+    return ''.join(out)
 
 
-def tts_text(display: str, manual: Optional[str] = None) -> str:
-    """表記 → eSpeak 入力テキスト。manual を渡せば上書き。"""
+def _process_segments(segments):
+    parts = []
+    for units, kind in segments:
+        if kind == 'stem':
+            parts.append(_render_stem(units))
+        elif kind == 'mid':
+            inner = _render_suffix(units)
+            if _suffix_starts_with_vowel(units):
+                parts.append(':' + inner + ':')
+            else:
+                parts.append(inner + ':')
+        elif kind == 'end':
+            inner = _render_suffix(units)
+            if _suffix_starts_with_vowel(units):
+                parts.append(':' + inner)
+            else:
+                parts.append(inner)
+    joined = ''.join(parts)
+    while '::' in joined:
+        joined = joined.replace('::', ':')
+    return joined
+
+
+def _format_2syl_brackets(units):
+    """rule ⑨：2 音節語は [[ phonemes,= ]] 形式（全て小文字）。
+    分離ルール:
+      ・先頭子音群 → 最初の母音: :
+      ・母音 → 子音: ,
+      ・連続子音間: :
+      ・子音 → 母音 / 母音 → 母音: ,
+    例：paman → [[p:a,m,a,n,=]]
+        palsu → [[p:a,l:s,u,=]]（語中 ls クラスタ）
+        ita   → [[i,t,a,=]]、abu → [[a,b,u,=]]"""
+    parts = []
+    found_first_vowel = False
+    prev_is_vowel = False
+    for u in units:
+        if u == '-':
+            continue
+        u_low = u.lower()
+        if _is_vowel_unit(u):
+            if not found_first_vowel:
+                if parts:
+                    parts.append(':' + u_low)  # 子音 → 最初の母音
+                else:
+                    parts.append(u_low)        # 母音始まり
+            else:
+                parts.append(',' + u_low)      # 母音 → 母音 or 子音 → 母音
+            found_first_vowel = True
+            prev_is_vowel = True
+        else:
+            if not parts:
+                parts.append(u_low)
+            elif prev_is_vowel:
+                parts.append(',' + u_low)      # 母音 → 子音
+            else:
+                parts.append(':' + u_low)      # 連続子音間
+            prev_is_vowel = False
+    return '[[' + ''.join(parts) + ',=]]'
+
+
+_TRAIL_PUNCT_RE = re.compile(r"[^A-Za-zəɨŋŊ'’ʔ\-]+$")
+_LEAD_PUNCT_RE = re.compile(r"^[^A-Za-zəɨŋŊ'’ʔ\-]+")
+
+
+def _process_token(token, is_final):
+    if not token:
+        return token
+    lead = ''
+    bare = token
+    m = _LEAD_PUNCT_RE.match(bare)
+    if m:
+        lead = m.group(0)
+        bare = bare[len(lead):]
+    trail = ''
+    m = _TRAIL_PUNCT_RE.search(bare)
+    if m:
+        trail = m.group(0)
+        bare = bare[:-len(trail)]
+    if not bare:
+        return token
+
+    units = _parse_units(bare)
+    segments = _segment_word(units)
+    if _count_syllables(units) == 2:
+        rendered = _format_2syl_brackets(units)
+    else:
+        rendered = _process_segments(segments)
+
+    bare_alpha_lower = _alpha_lower(units)
+    has_end_suffix = bool(segments and segments[-1][1] == 'end')
+    is_particle = bare_alpha_lower in PARTICLES
+    trail_has_comma = ',' in trail
+    if (has_end_suffix or is_particle) and not is_final and not trail_has_comma:
+        if not rendered.endswith(','):
+            rendered = rendered + ','
+    # TTS 全体を小文字化（eSpeak で大文字が音素名と衝突するため）
+    return (lead + rendered + trail).lower()
+
+
+def tts_text(display, manual=None):
     if manual is not None and manual != '':
         return manual
     if not display or not display.strip():
         return ''
-
     tokens = display.split()
     n = len(tokens)
     out = []
-
     for i, tok in enumerate(tokens):
-        # rule ③/④ の判定はハイフン置換前に実施
-        wants_comma = _wants_trailing_comma(tok)
-
-        # rule ② "-" → ":"
-        new_tok = tok.replace('-', ':')
-
-        # rule ① 全ワード共通：子音始まりなら最初の母音直前に ":"
-        new_tok = _apply_consonant_colon(new_tok)
-
-        # コンマ追加（文末トークンを除く）
-        if wants_comma and i < n - 1 and not new_tok.endswith(','):
-            new_tok = new_tok + ','
-
-        out.append(new_tok)
-
+        out.append(_process_token(tok, is_final=(i == n - 1)))
     return ' '.join(out)
 
 
-def derive(display: str,
-           slug_override: Optional[str] = None,
-           tts_override: Optional[str] = None) -> dict:
-    """display から slug, tts を派生（または手動上書き）。"""
+def derive(display, slug_override=None, tts_override=None):
     return {
         'display': display,
         'slug': slug(display, slug_override),
@@ -161,94 +344,63 @@ def derive(display: str,
     }
 
 
-# ─────────────────────── 自己テスト ───────────────────────
 TEST_CASES = [
-    # (display, expected_slug, expected_tts)
-
-    # 子音始まり + 母音始まりの混在
+    # 1 音節 / 3+ 音節：bracket 不使用、出力小文字
+    ("Makawas",   "makawas",   "m:akawas"),
+    ("mau",       "mau",       "m:au"),
+    ("tsu",       "tsu",       "ts:u"),
+    ("amaku",     "amaku",     "am:aku"),
+    ("kumanisu",  "kumanisu",  "k:um:an:isu"),
+    ("kalili'",   "kalilix",   "k:alilix"),
+    # 2 音節：bracket [[..,=]]（diphthong ay/au/ai 1 ユニット、連続子音は :）
+    ("ita",       "ita",       "[[i,t,a,=]]"),
+    ("Basay",     "basay",     "[[b:a,s,ai,=]]"),
+    ("lusa",      "lusa",      "[[l:u,s,a,=]]"),
+    ("zanum",     "zanum",     "[[z:a,n,u,m,=]]"),
+    ("batu",      "batu",      "[[b:a,t,u,=]]"),
+    ("abu",       "abu",       "[[a,b,u,=]]"),
+    ("paman",     "paman",     "[[p:a,m,a,n,=]]"),
+    ("kuman",     "kuman",     "[[k:u,m,a,n,=]]"),
+    ("paslin",    "paslin",    "[[p:a,s:l,i,n,=]]"),
+    ("palsu",     "palsu",     "[[p:a,l:s,u,=]]"),
+    ("n'apan",    "nxapan",    "[[nx:a,p,a,n,=]]"),
+    # 多語フレーズ
+    ("paman tisu",
+     "paman_tisu",
+     "[[p:a,m,a,n,=]], [[t:i,s,u,=]]"),
     ("Makawas ita mau Basay",
      "makawas_ita_mau_basay",
-     "M:akawas ita m:au B:asay"),
-
-    # 子音始まり、特殊文字含む
-    ("kalili'",
-     "kalilix",
-     "k:alili'"),
-
-    # 末尾接尾辞・助詞 + 全ワード子音始まり
-    ("Mani tisu kaman u",
-     "mani_tisu_kaman_u",
-     "M:ani t:isu, k:aman, u"),
-
-    # ハイフン入り + 母音始まり助詞
-    ("Pasika-ik mau na putau a kwazai",
-     "pasika_ik_mau_na_putau_a_kwazai",
-     "P:asika:ik, m:au n:a p:utau a, kw:azai"),
-
-    # 特殊文字 + 母音始まり助詞
-    ("matsaŋasse-na nanom a Tamsuy N'apan",
-     "matsaxasse_na_nanom_a_tamsuy_nxapan",
-     "m:atsaŋasse:na n:anom a, T:amsuy N':apan"),
-
-    # 母音始まり語（変更なし）+ 子音始まり助詞
-    ("Azasa nu zanum-na",
-     "azasa_nu_zanum_na",
-     "Azasa n:u, z:anum:na"),
-
-    # 母音始まり中央語
-    ("Lavi awi-it na",
-     "lavi_awi_it_na",
-     "L:avi awi:it, n:a"),
-
-    # 子音始まり + 母音始まり混在
-    ("kuat isu yaku",
-     "kuat_isu_yaku",
-     "k:uat isu, y:aku"),
-
-    # 母音始まり 1 語のみ
-    ("abu",
-     "abu",
-     "abu"),
-
-    # 子音始まり 1 語のみ
-    ("paman",
-     "paman",
-     "p:aman"),
+     "m:akawas [[i,t,a,=]], m:au, [[b:a,s,ai,=]]"),
 ]
 
 
 def run_tests():
-    print("basay_text.py self-test")
+    print("basay_text.py self-test (v3, [[ ]] accent)")
     print("=" * 64)
     fail = 0
     for display, exp_slug, exp_tts in TEST_CASES:
         d = derive(display)
         s_ok = d['slug'] == exp_slug
         t_ok = d['tts'] == exp_tts
-        mark = "✓" if (s_ok and t_ok) else "✗"
+        mark = "OK" if (s_ok and t_ok) else "NG"
         if not (s_ok and t_ok):
             fail += 1
-        print(f"[{mark}] IN:   {display!r}")
-        print(f"    slug: {d['slug']!r}" + ("" if s_ok else f"   (expected {exp_slug!r})"))
-        print(f"    tts:  {d['tts']!r}" + ("" if t_ok else f"   (expected {exp_tts!r})"))
-        print()
-    print(f"Result: {len(TEST_CASES) - fail}/{len(TEST_CASES)} passed")
+        print("[" + mark + "] " + repr(display))
+        if not s_ok:
+            print("    slug got " + repr(d['slug']) + " expected " + repr(exp_slug))
+        if not t_ok:
+            print("    tts  got " + repr(d['tts']) + " expected " + repr(exp_tts))
+    print("Result: " + str(len(TEST_CASES) - fail) + "/" + str(len(TEST_CASES)) + " passed")
     return 0 if fail == 0 else 1
-
-
-# ─────────────────────── CLI ───────────────────────
-def _print_usage():
-    print(__doc__, file=sys.stderr)
 
 
 def main():
     args = sys.argv[1:]
     if not args or args[0] in ('-h', '--help'):
-        _print_usage()
+        print(__doc__, file=sys.stderr)
         return 0
     if args[0] == '--test':
         return run_tests()
-
     slug_override = None
     tts_override = None
     rest = []
@@ -265,13 +417,11 @@ def main():
             continue
         rest.append(a)
         i += 1
-
     text = ' '.join(rest)
     d = derive(text, slug_override, tts_override)
-    # Plain output for piping: 3 lines
-    print(f"display\t{d['display']}")
-    print(f"slug\t{d['slug']}")
-    print(f"tts\t{d['tts']}")
+    print("display\t" + d['display'])
+    print("slug\t" + d['slug'])
+    print("tts\t" + d['tts'])
     return 0
 
 

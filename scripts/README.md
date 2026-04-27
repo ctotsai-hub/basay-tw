@@ -99,7 +99,7 @@ python3 basay_text.py "Makawas ita mau Basay"
 python3 basay_text.py --test
 ```
 
-### slug 変換規則（v2）
+### slug 変換規則（v3）
 
 1. 特殊文字置換：`ŋ`/`Ŋ`/`ʔ`/`'`/`’` → `x`、`ə` → `e`、`ɨ` → `i`
 2. 小文字化
@@ -107,25 +107,57 @@ python3 basay_text.py --test
 4. 先頭・末尾の `_` を除去
 5. `--slug` で手動上書き可
 
-### TTS 派生規則（v2）
+### TTS 派生規則（v3 / 2026-04-27）
 
-1. **①** 各ワードが子音始まりなら、最初の母音の直前に `:` を挿入。母音始まりは変更なし。
-   - 例：`paman` → `p:aman`、`kwazai` → `kw:azai`、`abu` → `abu`
-2. **②** `-` を `:` に置換（音節境界）
-3. **③** 語末が `-ku`, `-su`, `-an`, `-ay`, `-ai`, `-ik`, `-it`, `-is` のいずれかなら直後に `,`
-4. **④** スタンドアロンの `u`, `ta`, `a`, `nu` の直後に `,`
-5. 文末トークンには `,` を付けない
-6. `--tts` で手動上書き可
+**ユニット解析**：digraph `ts` / `tS` / `ng` は 1 音素として扱う。
+`'` / `’` / `ʔ` は直前ユニットに「粘着」として `x` 化される（例：`n'` → `nx` という 1 単位）。
 
-例：
+1. **⑧** 正書法 → 読み上げ文：`'` `’` `ʔ` → `x`（粘着）
+   - `kalili'` → `kalilix`、`n'apan` → `nxapan`
+2. **①** 各ワードの最初の子音単位の直後（最初の母音の直前）に `:`
+   - `paman` → `p:aman`、`abu` → `abu`（不変）、`tsu` → `ts:u`
+3. **②** 語中の連続子音の間に `:`（粘着 `x` の後ろは除外）
+   - `paslin` → `p:as:lin`、`nx` の後ろには入れない
+4. **④** `-` を `:` に置換（音節境界）
+5. **⑤** 語末接尾辞リスト：直前の母音の前に `:`、文末でなければ後ろに `,`
+6. **⑥** 語中接尾辞リスト：前後に `:`
+7. **⑦** 助詞 `u`, `ta`, `nu`, `i`, `a` の後に `,`（文末除く）
+8. **⑨** 2 音節語のみ末尾音節にアクセント `=`：最後の母音の直前に `=`、同位置の `:` は `=` で置換
+   - 1 音節・3 音節以上はアクセント無し
+   - eSpeak では `'` が別解釈されるため `=` を使用
+9. 文末トークンには `,` を付けない（既に `,` を含むトークンも追加しない）
+10. `--tts` で手動上書き可
+
+接尾辞リスト（longest-match で末尾から内側へ反復検出）：
+
+- A: `-an`, `-ay`, `-ai`, `-au`, `-na`
+- B: `-ku`, `-ik`, `-su`, `-is`, `-ta`, `-it`, `-mi`, `-am`, `-mu`, `-im`, `-ija`
+- C: `-aku`, `-isu`, `-ita`, `-ami`, `-imu`, `-ia`, `-ja`
+
+例（v3）：
 
 | 表記 | slug | TTS |
 |---|---|---|
-| `Makawas ita mau Basay` | `makawas_ita_mau_basay` | `M:akawas ita m:au B:asay` |
-| `Mani tisu kaman u` | `mani_tisu_kaman_u` | `M:ani t:isu, k:aman, u` |
-| `Pasika-ik mau na putau a kwazai` | `pasika_ik_mau_na_putau_a_kwazai` | `P:asika:ik, m:au n:a p:utau a, kw:azai` |
-| `Azasa nu zanum-na` | `azasa_nu_zanum_na` | `Azasa n:u, z:anum:na` |
-| `kalili'` | `kalilix` | `k:alili'` |
+| `Makawas ita mau Basay` | `makawas_ita_mau_basay` | `M:akawas it=a, m:au, B:as=ay` |
+| `paman` | `paman` | `p:am=an`（2 音節アクセント） |
+| `kumanisu` | `kumanisu` | `k:um:an:isu`（mid + end suffix） |
+| `kalili'` | `kalilix` | `k:alilix`（粘着 x） |
+| `n'apan` | `nxapan` | `nx:ap=an` |
+| `tsu` | `tsu` | `ts:u`（digraph） |
+
+### 旧 TTS との差分確認
+
+```bash
+# 全エントリの v2 vs v3 差分を表示
+python3 check_tts_diff.py --diff-only
+
+# 再生成候補の slug だけを抽出
+python3 check_tts_diff.py --slugs-only > to_regenerate.txt
+```
+
+差分があり、wav が既に存在する slug は「再生成候補」として一覧表示されます。
+中身を確認の上、必要なものだけ `gen_audio.py "..." --force` で再生成するか、
+全部再生成するなら `build_daily_audio.py -f` などで一括処理してください。
 
 ## 旧来の使い方（v1、互換のため残置）
 
