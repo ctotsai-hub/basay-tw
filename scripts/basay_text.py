@@ -54,7 +54,7 @@ DIGRAPHS = (
 APOSTROPHES = ("'", '’', 'ʔ')
 
 SUFFIX_GROUPS = {
-    'A': ['an', 'ay', 'ai', 'au', 'na'],
+    'A': ['an', 'ay', 'ai', 'au', 'na', 'i', 'a', ','],
     'B': ['ku', 'ik', 'su', 'is', 'ta', 'it', 'mi', 'am', 'mu', 'im', 'ija'],
     'C': ['aku', 'isu', 'ita', 'ami', 'imu', 'ia', 'ja'],
 }
