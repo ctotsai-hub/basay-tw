@@ -14,7 +14,7 @@ basay_text.py — 表記から slug と TTS テキストを派生する（v3 / 2
       ⑦ 助詞 u/ta/nu/i/a の後（文末除く）に ,
       ⑨ 2 音節語は [[...,=]] 形式で出力
   ・接尾辞 longest-match (内側へ反復):
-      A: -an -ay -ai -au -na
+      A: -an -ay -ai -au -na -a -i -,
       B: -ku -ik -su -is -ta -it -mi -am -mu -im -ija
       C: -aku -isu -ita -ami -imu -ia -ja
 """
@@ -29,10 +29,16 @@ SPECIAL_CHAR_MAP = {
 }
 
 
+_NG_AS_APOS_RE = re.compile(r'([nN])[gG]')
+
+
 def slug(display, manual=None):
     if manual:
         return re.sub(r'[^a-z0-9_]+', '_', manual.strip().lower()).strip('_')
     s = display or ''
+    # 本ユーザ orthography では `ng` は n' (preglottalized n) の入力バリ。
+    # n'azi / nxazi / ngazi が同じ slug `nxazi` になるよう統一しておく。
+    s = _NG_AS_APOS_RE.sub(lambda m: m.group(1) + 'x', s)
     for src, dst in SPECIAL_CHAR_MAP.items():
         s = s.replace(src, dst)
     s = s.lower()
@@ -43,7 +49,9 @@ def slug(display, manual=None):
 VOWELS = set('aeiouəɨAEIOUƏ')
 DIGRAPHS = (
     'tS', 'ts', 'TS', 'Ts',
-    'ng', 'NG', 'Ng', 'nG',
+    # 注意: ng/NG/Ng/nG は本ユーザの orthography では n' (preglottalized n) の
+    # 入力バリエーションとして使われるため、digraph として扱わず _parse_units
+    # の特殊処理 (cons + 'g'/'x'/apostrophe → 子音複製) に流す。
     'ay', 'AY', 'Ay', 'aY',
     'uy', 'UY', 'Uy', 'uY',
     'oy', 'OY', 'Oy', 'oY',
@@ -88,9 +96,29 @@ def _parse_units(word):
             i += len(matched)
             continue
         ch = word[i]
-        if ch in APOSTROPHES:
+        # apostrophe または直入力 'x'/'g' (slug/別綴り 形) は
+        # 「直前子音の複製」として処理する。これにより:
+        #   n'apan / nxapan / ngapan → ['n','n','a','p','a','n']
+        #     → [[n:n:a,p,a,n,=]]
+        # bsy で bracket 内 n+: + n+: + a... のパターンが geminate と等価に
+        # 機能する（PC 検証済み）。母音直後の apostrophe は従来通り 'x' 後置。
+        # 'x' は n/l/s/z の後 (slug 形)、'g' は n の後のみ (本ユーザ orthography)。
+        is_cons_apostrophe = (
+            (ch in APOSTROPHES) or
+            (ch.lower() == 'x' and units and units[-1] != '-'
+             and len(units[-1]) == 1 and units[-1].lower() in 'nlsz') or
+            (ch.lower() == 'g' and units and units[-1] != '-'
+             and len(units[-1]) == 1 and units[-1].lower() == 'n')
+        )
+        if is_cons_apostrophe:
             if units and units[-1] != '-':
-                units[-1] = units[-1] + 'x'
+                last = units[-1]
+                if _is_vowel_unit(last):
+                    # vowel + ' (kalili' 等) は従来通り 'x' 後置
+                    units[-1] = last + 'x'
+                else:
+                    # consonant + ' / consonant + 'x' は子音複製
+                    units.append(last)
             else:
                 units.append('x')
             i += 1
@@ -363,7 +391,9 @@ TEST_CASES = [
     ("kuman",     "kuman",     "[[k:u,m,a,n,=]]"),
     ("paslin",    "paslin",    "[[p:a,s:l,i,n,=]]"),
     ("palsu",     "palsu",     "[[p:a,l:s,u,=]]"),
-    ("n'apan",    "nxapan",    "[[nx:a,p,a,n,=]]"),
+    # n' / nx (slug 形) は子音複製で 2 つの n unit にする → bracket 内で n:n になる
+    # 例: [[n:n:a,p,a,n,=]] が geminate + final stress を両立させる
+    ("n'apan",    "nxapan",    "[[n:n:a,p,a,n,=]]"),
     # 多語フレーズ
     ("paman tisu",
      "paman_tisu",

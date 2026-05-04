@@ -62,10 +62,50 @@ def check_espeak():
         sys.exit(3)
 
 
+# ─── 音量正規化設定 ──────────────────────────────────────────
+# ffmpeg loudnorm:
+#   I    = -16 LUFS (target integrated loudness; podcast/voice 標準)
+#   TP   = -1.5 dBTP (true peak ceiling, クリッピング回避)
+#   LRA  = 11 LU (loudness range)
+#   linear=true で単発パスでも安定（短いクリップ向け）
+# 環境変数 BASAY_NO_NORMALIZE=1 で無効化可
+LOUDNORM_FILTER = "loudnorm=I=-16:TP=-1.5:LRA=11:linear=true"
+
+
+def normalize_audio(wav: Path):
+    """生成直後の wav を ffmpeg loudnorm で音量正規化する。
+    bsy voice は phoneme ごとに音圧バランスが揃っていないため、
+    辞書/フレーズブック用途では単語間の音量差が気になる。LUFS で
+    knock したものに揃えると聞き比べが安定する。"""
+    if os.environ.get("BASAY_NO_NORMALIZE") == "1":
+        return
+    if shutil.which("ffmpeg") is None:
+        print("  warn: ffmpeg が無いため正規化スキップ", file=sys.stderr)
+        return
+    tmp = wav.with_suffix(".norm.wav")
+    cmd = [
+        "ffmpeg", "-y", "-loglevel", "error",
+        "-i", str(wav),
+        "-af", LOUDNORM_FILTER,
+        str(tmp),
+    ]
+    try:
+        subprocess.run(cmd, check=True)
+        tmp.replace(wav)
+    except subprocess.CalledProcessError as e:
+        print(f"  warn: 正規化失敗 ({wav.name}): {e}", file=sys.stderr)
+        if tmp.exists():
+            try:
+                tmp.unlink()
+            except OSError:
+                pass
+
+
 def synth(text: str, voice: str, out_wav: Path):
     out_wav.parent.mkdir(parents=True, exist_ok=True)
     cmd = ["espeak-ng", "-v", voice, text, "-w", str(out_wav)]
     subprocess.run(cmd, check=True)
+    normalize_audio(out_wav)
 
 
 def update_manifest(display: str, slug: str):
