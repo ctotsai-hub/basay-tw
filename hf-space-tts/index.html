@@ -177,8 +177,9 @@
 
   .tag {
     display: inline-block;
-    background: var(--color-sand);
+    background: #efe8d8;
     color: var(--color-deep);
+    border: 1px solid #eadfca;
     font-family: var(--font-sans);
     font-size: .8rem;
     padding: .2em .8em;
@@ -241,7 +242,7 @@
 
   <section>
     <p>
-      本頁基於 <strong>eSpeak-NG</strong> 自製音聲定義（<code>bsy</code> / <code>bsystd</code>），可將
+      本頁基於 <strong>eSpeak-NG</strong> 自製音聲定義（<code>Ipay</code> / <code>Lobanov</code>），可將
       巴賽語表記轉為語音。目前提供兩種音色：
     </p>
     <p>
@@ -260,9 +261,8 @@
       <div>
         <label for="tts-voice">音色 Voice</label>
         <select id="tts-voice">
-          <option value="bsy+f1">IPay 女声 (bsy+f1)</option>
-          <option value="bsy+m1">IPay 男声 (bsy+m1)</option>
-          <option value="bsystd">台語適配 (bsystd)</option>
+          <option value="bsy+m1">IPay </option>
+          <option value="bsystd">台語適配 </option>
         </select>
       </div>
       <div style="flex: 0 0 auto;">
@@ -282,16 +282,7 @@
     既存の Gradio UI を埋め込むことができます。Static SDK にした場合は
     上の TTS フォームから API を直接叩くか、HF Inference API を使ってください。
   -->
-  <h2>既存合成介面（Gradio 埋込）</h2>
-  <p>
-    若需更多選項，可使用既有的 Gradio 介面：
-  </p>
-  <div class="embed-wrap">
-    <iframe src="https://inkuei-basaytts.hf.space/?__theme=light"
-            title="basay TTS gradio app"
-            allow="microphone; clipboard-read; clipboard-write"
-            loading="lazy"></iframe>
-  </div>
+
 
   <hr>
 
@@ -323,6 +314,7 @@
 </footer>
 
 <script>
+
 /**
  * 内蔵 TTS フォームのデモ実装
  * ─────────────────────────────────────────
@@ -332,6 +324,7 @@
  * 下記は最小デモ：ボタン押下で合成エンドポイントに POST する例。
  * 実際のエンドポイント URL に応じて TTS_ENDPOINT を書き換えてください。
  */
+
 (function () {
   "use strict";
 
