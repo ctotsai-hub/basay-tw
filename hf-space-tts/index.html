@@ -1,0 +1,393 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>巴賽語語音合成 — basay.tw</title>
+<meta name="description" content="凱達格蘭族巴賽語（Basay）的語音合成（IPay 歷史復原・台語適配）。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+  /* basay.tw 配色（インライン） */
+  :root {
+    --color-deep:   #1a3a52;
+    --color-sand:   #f0e6d2;
+    --color-algae:  #5a7a6b;
+    --color-brick:  #c86d4a;
+    --color-drift:  #6b5d54;
+    --color-ink:    #2c2620;
+    --color-mist:   #fbf7ef;
+    --color-line:   rgba(44, 38, 32, 0.12);
+    --font-serif: "Noto Serif TC", "Source Han Serif TC", "PingFang TC", "Songti TC", serif;
+    --font-sans:  "Inter", "Noto Sans TC", "PingFang TC", "Helvetica Neue", Arial, sans-serif;
+    --font-mono:  "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+    --max-w: 1080px;
+    --radius: 6px;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--color-mist);
+    color: var(--color-ink);
+    font-family: var(--font-serif);
+    font-size: 17px;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Typography */
+  h1, h2, h3 { font-family: var(--font-serif); color: var(--color-deep); line-height: 1.3; margin: 2em 0 .6em; letter-spacing: .02em; }
+  h1 { font-size: 2.2rem; }
+  h2 { font-size: 1.6rem; border-bottom: 1px solid var(--color-line); padding-bottom: .3em; }
+  h3 { font-size: 1.15rem; color: var(--color-algae); }
+  p { margin: 0 0 1em; }
+  a {
+    color: var(--color-brick);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--color-brick);
+    transition: color .15s, border-color .15s;
+  }
+  a:hover { color: var(--color-deep); border-bottom-color: var(--color-deep); }
+
+  /* Header */
+  .site-header { background: var(--color-deep); color: var(--color-mist); border-bottom: 3px solid var(--color-brick); }
+  .site-header-inner {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 1.2rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  .brand { display: flex; flex-direction: column; line-height: 1.2; }
+  .brand a { color: var(--color-mist); border: 0; font-weight: 600; }
+  .brand .brand-main { font-size: 1.35rem; letter-spacing: .08em; }
+  .brand .brand-sub { font-size: .85rem; opacity: .75; font-family: var(--font-sans); }
+  .site-nav ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 1.4rem; flex-wrap: wrap; }
+  .site-nav a {
+    color: var(--color-mist);
+    border: 0;
+    font-family: var(--font-sans);
+    font-size: .95rem;
+    padding: .35em 0;
+    border-bottom: 2px solid transparent;
+  }
+  .site-nav a.active,
+  .site-nav a:hover { border-bottom-color: var(--color-brick); color: var(--color-mist); }
+
+  /* Hero */
+  .hero {
+    background: linear-gradient(135deg, var(--color-sand) 0%, var(--color-mist) 100%);
+    text-align: center;
+    padding: 3rem 1.5rem 2.5rem;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .hero h1 { margin: 0 0 .5em; }
+  .hero .sub { color: var(--color-drift); font-size: 1.05rem; margin: 0; }
+
+  /* Container */
+  main.container {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem;
+  }
+
+  /* TTS Form Card */
+  .tts-card {
+    background: #fff;
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius);
+    padding: 1.6rem 1.8rem;
+    margin: 1.5rem 0;
+    box-shadow: 0 1px 2px rgba(26, 58, 82, .08);
+  }
+  .tts-card label {
+    display: block;
+    font-family: var(--font-sans);
+    font-size: .9rem;
+    color: var(--color-deep);
+    font-weight: 600;
+    margin: .8em 0 .3em;
+  }
+  .tts-card textarea,
+  .tts-card input[type="text"],
+  .tts-card select {
+    width: 100%;
+    font-family: var(--font-mono);
+    font-size: 1rem;
+    padding: .6em .8em;
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius);
+    background: var(--color-mist);
+    color: var(--color-ink);
+  }
+  .tts-card textarea { min-height: 4em; resize: vertical; }
+  .tts-card .row {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    margin-top: .6em;
+  }
+  .tts-card .row > div { flex: 1 1 200px; }
+  .tts-btn {
+    display: inline-block;
+    background: var(--color-brick);
+    color: var(--color-mist);
+    border: 0;
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: .95rem;
+    font-weight: 600;
+    padding: .6em 1.4em;
+    cursor: pointer;
+    transition: background .15s;
+  }
+  .tts-btn:hover { background: var(--color-deep); }
+  .tts-btn:disabled { background: var(--color-drift); cursor: wait; opacity: .7; }
+  .tts-result {
+    margin-top: 1.2em;
+    padding: 1em 1.2em;
+    background: var(--color-sand);
+    border-radius: var(--radius);
+    font-family: var(--font-mono);
+    font-size: .92rem;
+  }
+  .tts-result audio { display: block; width: 100%; margin-top: .6em; }
+
+  /* Embed */
+  .embed-wrap {
+    margin: 2rem 0;
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: #fff;
+  }
+  .embed-wrap iframe {
+    width: 100%;
+    min-height: 720px;
+    border: 0;
+    display: block;
+  }
+
+  .tag {
+    display: inline-block;
+    background: var(--color-sand);
+    color: var(--color-deep);
+    font-family: var(--font-sans);
+    font-size: .8rem;
+    padding: .2em .8em;
+    border-radius: 999px;
+    margin-right: .4em;
+  }
+
+  /* Footer */
+  .site-footer {
+    background: var(--color-deep);
+    color: var(--color-sand);
+    text-align: center;
+    padding: 2rem 1.5rem;
+    margin-top: 3rem;
+    font-family: var(--font-sans);
+    font-size: .9rem;
+  }
+  .site-footer a { color: var(--color-sand); border-bottom-color: var(--color-sand); }
+  .site-footer .tagline {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    margin-bottom: .5em;
+    color: var(--color-mist);
+  }
+
+  @media (max-width: 640px) {
+    .site-header-inner { flex-direction: column; align-items: flex-start; }
+    .site-nav ul { gap: 1rem; }
+    .hero h1 { font-size: 1.8rem; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="brand">
+      <a href="https://basay.tw/"><span class="brand-main">凱達格蘭 · 巴賽語</span></a>
+      <span class="brand-sub">Ketagalan · Basay — 從記憶到再生</span>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="https://basay.tw/">首頁</a></li>
+        <li><a href="https://basay.tw/grammar/">文法</a></li>
+        <li><a href="https://basay.tw/education/">教育推進</a></li>
+        <li><a href="https://basay.tw/research/">研究成果</a></li>
+        <li><a href="https://inkuei-basaytts.hf.space/" class="active">語音合成</a></li>
+        <li><a href="https://basay.tw/dictionary/">辭典</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>巴賽語語音合成</h1>
+  <p class="sub">Basay Speech Synthesis ⸺ IPay 歷史復原・台語適配 兩種音色</p>
+</section>
+
+<main class="container">
+
+  <section>
+    <p>
+      本頁基於 <strong>eSpeak-NG</strong> 自製音聲定義（<code>bsy</code> / <code>bsystd</code>），可將
+      巴賽語表記轉為語音。目前提供兩種音色：
+    </p>
+    <p>
+      <span class="tag">IPay 歷史復原</span>
+      <span class="tag">台語適配（Lobanov）</span>
+    </p>
+  </section>
+
+  <!-- ───────────────── 内蔵フォーム ───────────────── -->
+  <h2>輸入文字 ⸺ Synthesize</h2>
+  <div class="tts-card">
+    <label for="tts-text">巴賽語表記</label>
+    <textarea id="tts-text" placeholder="例：Makawas ita mau Basay">Makawas ita mau Basay</textarea>
+
+    <div class="row">
+      <div>
+        <label for="tts-voice">音色 Voice</label>
+        <select id="tts-voice">
+          <option value="bsy+f1">IPay 女声 (bsy+f1)</option>
+          <option value="bsy+m1">IPay 男声 (bsy+m1)</option>
+          <option value="bsystd">台語適配 (bsystd)</option>
+        </select>
+      </div>
+      <div style="flex: 0 0 auto;">
+        <button class="tts-btn" id="tts-btn" type="button">▶ 合成 Synthesize</button>
+      </div>
+    </div>
+
+    <div class="tts-result" id="tts-result" hidden>
+      <div id="tts-info"></div>
+      <audio id="tts-audio" controls></audio>
+    </div>
+  </div>
+
+  <!-- ───────────────── 既存 Gradio を埋込 ───────────────── -->
+  <!--
+    HF Space を Gradio バックエンドのまま使う場合は、下の embed-wrap 内 iframe で
+    既存の Gradio UI を埋め込むことができます。Static SDK にした場合は
+    上の TTS フォームから API を直接叩くか、HF Inference API を使ってください。
+  -->
+  <h2>既存合成介面（Gradio 埋込）</h2>
+  <p>
+    若需更多選項，可使用既有的 Gradio 介面：
+  </p>
+  <div class="embed-wrap">
+    <iframe src="https://inkuei-basaytts.hf.space/?__theme=light"
+            title="basay TTS gradio app"
+            allow="microphone; clipboard-read; clipboard-write"
+            loading="lazy"></iframe>
+  </div>
+
+  <hr>
+
+  <section>
+    <h2>關於本服務</h2>
+    <p>
+      本語音合成服務基於 <a href="https://github.com/espeak-ng/espeak-ng">eSpeak-NG</a> 自定義語音定義。
+      <code>bsy</code>（IPay 歷史復原）以 19 世紀末文獻記載的音值為依據；
+      <code>bsystd</code>（台語適配）則以現代台語音色為基礎，套用 Lobanov 正規化以接近 Basay 音域。
+    </p>
+    <p>
+      技術說明與規則文檔詳見 <a href="https://basay.tw/research/">研究成果</a>。
+    </p>
+    <p>
+      <a href="https://basay.tw/">← 回到 basay.tw 首頁</a>
+    </p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="tagline">Makawas ita mau Basay ⸺ 大家一起說巴賽語。</div>
+  <div>
+    © 2026 basay.tw ｜
+    <a href="https://basay.tw/about/">關於</a> ｜
+    <a href="https://github.com/ctotsai-hub/basay-tw">GitHub</a> ｜
+    內容採 CC BY-NC-SA 4.0 授權
+  </div>
+</footer>
+
+<script>
+/**
+ * 内蔵 TTS フォームのデモ実装
+ * ─────────────────────────────────────────
+ * HF Space を Gradio として使う場合、Gradio Client API で /predict を呼ぶ。
+ * Static SDK にする場合は HF Inference API か独自エンドポイントを叩く。
+ *
+ * 下記は最小デモ：ボタン押下で合成エンドポイントに POST する例。
+ * 実際のエンドポイント URL に応じて TTS_ENDPOINT を書き換えてください。
+ */
+(function () {
+  "use strict";
+
+  // ↓↓↓ 環境に合わせて差し替え ↓↓↓
+  const TTS_ENDPOINT = ""; // 空欄なら埋込 iframe を案内
+
+  const $text = document.getElementById("tts-text");
+  const $voice = document.getElementById("tts-voice");
+  const $btn = document.getElementById("tts-btn");
+  const $result = document.getElementById("tts-result");
+  const $info = document.getElementById("tts-info");
+  const $audio = document.getElementById("tts-audio");
+
+  $btn.addEventListener("click", async function () {
+    const text = ($text.value || "").trim();
+    if (!text) {
+      alert("巴賽語表記を入力してください。");
+      return;
+    }
+    const voice = $voice.value;
+
+    if (!TTS_ENDPOINT) {
+      // エンドポイント未設定 → ユーザーに iframe を案内
+      $info.textContent = "※ 直接合成 API は未設定です。下の Gradio 埋込から合成してください。";
+      $audio.removeAttribute("src");
+      $result.hidden = false;
+      const embed = document.querySelector(".embed-wrap");
+      if (embed) embed.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
+
+    $btn.disabled = true;
+    $btn.textContent = "合成中...";
+    $info.textContent = `voice=${voice}, text=${text}`;
+    $result.hidden = false;
+
+    try {
+      const res = await fetch(TTS_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text: text, voice: voice }),
+      });
+      if (!res.ok) throw new Error("API error: " + res.status);
+      const blob = await res.blob();
+      $audio.src = URL.createObjectURL(blob);
+      $audio.play();
+    } catch (err) {
+      $info.textContent = "Error: " + err.message;
+      console.error(err);
+    } finally {
+      $btn.disabled = false;
+      $btn.textContent = "▶ 合成 Synthesize";
+    }
+  });
+})();
+</script>
+
+</body>
+</html>
