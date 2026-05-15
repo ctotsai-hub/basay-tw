@@ -1,13 +1,36 @@
 {
   "posts": [
     {
+      "slug": "blog260515",
+      "title": "巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記",
+      "subtitle": "",
+      "date": "2026-05-15",
+      "reading_time": "約 8 分鐘",
+      "tags": [
+        "TTS",
+        "語音合成",
+        "巴賽語",
+        "espeak",
+        "南島語系",
+        "語言復振"
+      ],
+      "tags_special": [],
+      "dialect": "",
+      "excerpt": "Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。"
+    },
+    {
       "slug": "lalaleona",
       "title": "lalaleona「走」的復原——三種證據的交匯",
       "subtitle": "透過錄音音響、轉寫比較、語言向量理論的多角度驗證，確立「奔跑」一詞最可能的原形。",
       "date": "2026-04-15",
       "reading_time": "約 8 分鐘",
-      "tags": ["音韻研究", "詞源考察"],
-      "tags_special": ["哆囉美遠方言"],
+      "tags": [
+        "音韻研究",
+        "詞源考察"
+      ],
+      "tags_special": [
+        "哆囉美遠方言"
+      ],
       "dialect": "Trobiawan",
       "excerpt": "透過淺井惠倫錄音、東京外國語大學轉寫、李壬癸記錄三種證據的交匯，考察「奔跑」一詞最可能的原形。IPay音響數據顯示，lalaliwna 所預設的 /w/ 插入並不存在於哆囉美遠方言的現實發音。"
     }
