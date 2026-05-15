@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記 — 研究筆記 | basay.tw</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;600;900&family=Noto+Sans+TC:wght@300;400;500&family=Noto+Serif:ital,wght@0,400;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#f7f3ec; --bg2:#efe9df; --ink:#1a1610; --ink2:#3a3428; --ink3:#6a6055;
+  --accent:#2a6b5a; --accent2:#c0522a; --gold:#8a6a20;
+  --border:#d4c9b8; --card-bg:#fdfaf5; --tag-bg:#e8e0d0; --code-bg:#1a1610;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:'Noto Serif TC',serif; font-size:16px; line-height:1.9; }
+
+header { border-bottom:1px solid var(--border); background:var(--bg); position:sticky; top:0; z-index:100; }
+.nav-inner { max-width:1100px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:56px; }
+.site-logo { font-family:'Noto Serif TC',serif; font-weight:900; font-size:1rem; color:var(--ink); text-decoration:none; letter-spacing:0.05em; }
+.site-logo span { color:var(--accent); font-size:0.75em; display:block; font-weight:300; letter-spacing:0.15em; }
+nav a { font-family:'Noto Sans TC',sans-serif; font-size:0.82rem; color:var(--ink3); text-decoration:none; margin-left:22px; letter-spacing:0.05em; transition:color 0.2s; }
+nav a:hover, nav a.active { color:var(--accent); }
+
+.breadcrumb { max-width:1100px; margin:0 auto; padding:16px 24px 0; font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); display:flex; gap:6px; align-items:center; }
+.breadcrumb a { color:var(--ink3); text-decoration:none; }
+.breadcrumb a:hover { color:var(--accent); }
+.breadcrumb .sep { opacity:0.4; }
+
+.article-header { padding:8px 0 28px; margin-bottom:28px; border-bottom:1px solid var(--border); }
+.article-tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:16px; }
+.atag { font-family:'Noto Sans TC',sans-serif; font-size:0.68rem; letter-spacing:0.12em; padding:2px 10px; border-radius:1px; background:rgba(42,107,90,0.1); color:var(--accent); }
+.atag.red { background:rgba(192,82,42,0.1); color:var(--accent2); }
+.article-title { font-size:clamp(1.6rem,4vw,2.4rem); font-weight:900; line-height:1.25; letter-spacing:-0.01em; margin-bottom:1rem; }
+.article-subtitle { font-size:1rem; font-weight:300; color:var(--ink3); font-family:'Noto Sans TC',sans-serif; margin-bottom:1.5rem; line-height:1.7; }
+.article-meta { display:flex; align-items:center; gap:20px; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); flex-wrap:wrap; }
+.meta-date { font-weight:500; color:var(--ink2); }
+.meta-sep { opacity:0.3; }
+
+.content-wrap { max-width:1100px; margin:0 auto; padding:24px 24px 80px; display:grid; grid-template-columns:1fr 240px; gap:64px; align-items:start; }
+@media (max-width:768px) { .content-wrap { grid-template-columns:1fr; } .article-aside { display:none; } nav { display:none; } }
+.article-main { max-width:680px; }
+
+.article-body { max-width:680px; }
+.article-body h2 { font-size:1.3rem; font-weight:900; margin:2.5rem 0 1rem; padding-top:2rem; border-top:1px solid var(--border); letter-spacing:0.01em; }
+.article-body h2:first-child { margin-top:0; padding-top:0; border-top:none; }
+.article-body h3 { font-size:1.05rem; font-weight:600; margin:1.8rem 0 0.7rem; color:var(--ink2); }
+.article-body p { margin-bottom:1.3rem; font-size:1rem; line-height:2; }
+.article-body a { color:var(--accent); text-decoration:underline; text-underline-offset:3px; }
+.article-body strong { font-weight:600; color:var(--ink); }
+.article-body em { font-style:italic; font-family:'Noto Serif',serif; }
+.article-body ul, .article-body ol { margin:0 0 1.3rem 1.4rem; }
+.article-body li { margin-bottom:0.4rem; line-height:1.9; }
+.article-body img { max-width:100%; height:auto; margin:1.2rem 0; border:1px solid var(--border); border-radius:4px; }
+.basay { font-family:'Noto Serif',serif; font-style:italic; color:var(--accent); font-size:1.05em; }
+.article-body table { width:100%; border:1px solid var(--border); border-radius:4px; overflow:hidden; margin:1.5rem 0; font-family:'Noto Sans TC',sans-serif; font-size:0.85rem; border-collapse:collapse; }
+.article-body th { background:var(--bg2); padding:10px 16px; text-align:left; font-size:0.72rem; letter-spacing:0.1em; color:var(--ink3); border-bottom:1px solid var(--border); }
+.article-body td { padding:10px 16px; border-bottom:1px solid var(--border); }
+.article-body tbody tr:last-child td { border-bottom:none; }
+.article-body blockquote { border-left:3px solid var(--accent); margin:1.5rem 0; padding:12px 20px; background:rgba(42,107,90,0.04); border-radius:0 4px 4px 0; }
+.article-body blockquote p { font-family:'Noto Sans TC',sans-serif; font-size:0.9rem; color:var(--ink2); margin:0; line-height:1.8; }
+.article-body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--code-bg); color:#8fd4a0; padding:1px 6px; border-radius:2px; }
+.article-body pre { background:var(--code-bg); color:#e0e0e0; padding:16px 20px; border-radius:4px; overflow-x:auto; margin:1.3rem 0; font-family:'JetBrains Mono',monospace; font-size:0.82rem; line-height:1.7; }
+.article-body pre code { background:none; color:inherit; padding:0; }
+
+.article-footer { margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border); }
+.article-footer .license { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); line-height:1.8; }
+.share-label { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.2em; color:var(--ink3); margin-top:1.5rem; margin-bottom:8px; }
+.share-btns { display:flex; gap:8px; }
+.share-btn { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border:1px solid var(--border); border-radius:2px; background:none; color:var(--ink3); cursor:pointer; text-decoration:none; transition:all 0.15s; display:inline-block; }
+.share-btn:hover { border-color:var(--accent); color:var(--accent); }
+
+.article-aside { position:sticky; top:72px; }
+.post-info-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:18px 20px; margin-bottom:16px; font-family:'Noto Sans TC',sans-serif; }
+.post-info-label { font-size:0.68rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; padding-bottom:8px; border-bottom:1px solid var(--border); }
+.post-info-list { list-style:none; }
+.post-info-list li { font-size:0.8rem; color:var(--ink2); padding:7px 0; line-height:1.5; display:flex; gap:10px; align-items:baseline; }
+.post-info-list .pi-key { font-size:0.62rem; color:var(--ink3); letter-spacing:0.15em; min-width:52px; flex-shrink:0; }
+.post-info-list .pi-val { color:var(--ink2); }
+.post-info-list .pi-val.accent { color:var(--accent); font-style:italic; font-family:'Noto Serif',serif; }
+
+.toc-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:20px; margin-bottom:20px; }
+.toc-label { font-family:'Noto Sans TC',sans-serif; font-size:0.7rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; }
+.toc-list { list-style:none; }
+.toc-list li { border-top:1px solid var(--border); }
+.toc-list li:first-child { border-top:none; }
+.toc-list a { font-family:'Noto Sans TC',sans-serif; font-size:0.78rem; color:var(--ink3); text-decoration:none; display:block; padding:8px 0; line-height:1.5; transition:color 0.15s; }
+.toc-list a:hover, .toc-list a.active { color:var(--accent); }
+.toc-list .sub { padding-left:12px; font-size:0.72rem; }
+
+.aside-tts { background:rgba(42,107,90,0.06); border:1px solid rgba(42,107,90,0.2); border-radius:4px; padding:16px; text-align:center; }
+.aside-tts p { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); margin-bottom:10px; line-height:1.7; }
+.tts-link { display:inline-block; background:var(--accent); color:white; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border-radius:2px; text-decoration:none; transition:background 0.2s; }
+.tts-link:hover { background:#1e5244; }
+
+footer { border-top:1px solid var(--border); padding:32px 24px; text-align:center; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); }
+footer a { color:var(--ink3); text-decoration:none; }
+footer a:hover { color:var(--accent); }
+
+#reading-progress { position:fixed; top:55px; left:0; height:2px; background:var(--accent); width:0%; z-index:200; transition:width 0.1s; }
+</style>
+</head>
+<body>
+
+<div id="reading-progress"></div>
+
+<header>
+  <div class="nav-inner">
+    <a class="site-logo" href="../../">凱達格蘭・巴賽語<span>Ketagalan · Basay</span></a>
+    <nav>
+      <a href="../../">首頁</a>
+      <a href="../../grammar/">文法</a>
+      <a href="../../education/">教育推進</a>
+      <a href="../../research/">研究成果</a>
+      <a href="../" class="active">研究筆記</a>
+      <a href="https://inkuei-basaytts.hf.space/">語音合成</a>
+      <a href="../../dictionary/">辭典</a>
+    </nav>
+  </div>
+</header>
+
+<div class="breadcrumb">
+  <a href="../../">首頁</a><span class="sep">/</span>
+  <a href="../">研究筆記</a><span class="sep">/</span>
+  <span>巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記</span>
+</div>
+
+<div class="content-wrap">
+  <div class="article-main">
+
+    <div class="article-header">
+      <div class="article-tags">
+        <span class="atag">TTS</span><span class="atag">語音合成</span><span class="atag">巴賽語</span><span class="atag">espeak</span><span class="atag">南島語系</span><span class="atag">語言復振</span>
+        
+      </div>
+      <h1 class="article-title">巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記</h1>
+      
+      <div class="article-meta">
+        <span class="meta-date">2026年5月15日</span>
+        <span class="meta-sep">|</span>
+        <span>約 8 分鐘</span>
+        
+      </div>
+    </div>
+
+    <article class="article-body">
+<h2 id="tts">起點：商業 TTS 不支援南島語系</h2>
+<p>Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。</p>
+<hr />
+<h2 id="_1">開發歷程</h2>
+<h3 id="ffmpeg">❌ 第一次嘗試：FFmpeg 音素合成</h3>
+<p>以逐一拼接音素 wav 檔的方式進行合成——失敗。音節間的銜接過於生硬，無法產生自然語流。</p>
+<hr />
+<h3 id="espeak-profile">🔧 第二次嘗試：改造 eSpeak 現有語言 Profile</h3>
+<p>利用 eSpeak 既有的語言設定加以改造，雛形完成。然而發現兩個根本性問題：</p>
+<ol>
+<li><strong>發音規則受限</strong>：仍被原有語言的音韻邏輯所束縛。</li>
+<li><strong>母音明顯失真</strong>：合成音與歷史錄音中的母音音質差距顯著。</li>
+</ol>
+<hr />
+<h3 id="_2">🎯 突破口：解析歷史音檔，復元母音</h3>
+<p>解析珍貴的歷史錄音，成功重建巴賽語母音。將其置入 eSpeak 後，才深刻體會到一件事：</p>
+<blockquote>
+<p><strong>母音音檔的品質，決定了一個語言合成正確性的 80% 以上。</strong></p>
+</blockquote>
+<p>這是整個開發過程中最關鍵的發現。</p>
+<hr />
+<h3 id="_3">🔊 子音系統調整：依據南島語系一般知見</h3>
+<p>根據南島語系的語音學通則，重新調整子音發音規則。</p>
+<p><strong>里程碑達成：PC 本地版巴賽語語音合成器完成。</strong></p>
+<hr />
+<h3 id="_4">📱 安卓移植：接近完成，暫時擱置</h3>
+<p>嘗試將 PC 本地版移植為 Android 應用程式（App），目前已接近完成。但在手邊的 Motorola 入門機上音效不佳，無其他裝置可供測試，暫時保留，尚未於 Google Play Store 公開發布。</p>
+<hr />
+<h3 id="basaytw">🌐 basay.tw 網站上線</h3>
+<p>利用 <a href="https://github.com/">GitHub Pages</a> 架設 <a href="https://basay.tw">basay.tw</a>。網站上的每個例句皆可點選播放音檔，讓讀者直接聆聽巴賽語發音。</p>
+<hr />
+<h3 id="ttshuggingface">☁️ 雲端 TTS：HuggingFace 整合</h3>
+<p>將 PC 本地版巴賽語語音合成移植至 <a href="https://huggingface.co">HuggingFace</a>，建立網頁版：</p>
+<p>👉 <a href="https://inkuei-basaytts.hf.space">https://inkuei-basaytts.hf.space</a></p>
+<p>並與 basay.tw 整合——讀者現在可以直接輸入任意巴賽語文字，令其即時發音。</p>
+<blockquote>
+<p>這對語言學習非常有幫助。我現在每天都在用，單字記得比以前快，對文法的理解也更加融會貫通。</p>
+</blockquote>
+<hr />
+<h3 id="_5">📲 行動化更新：從手機即可更新「本日的巴賽語」</h3>
+<p>basay.tw 的「<strong>本日的巴賽語 Daily Basay</strong>」欄目，原本只能從 PC 端更新，十分不便。重新改造 <a href="https://inkuei-basaytts.hf.space">inkuei-basaytts.hf.space</a> 的架構後，現在已可直接從手機進行更新。</p>
+<hr />
+<h3 id="_6">📝 新增「研究筆記」部落格</h3>
+<p>basay.tw 增設「<strong>研究筆記</strong>」部落格，記錄巴賽語復原研究的點滴——</p>
+<ul>
+<li>音韻分析</li>
+<li>文法考察</li>
+<li>語音合成工程</li>
+<li>田野的聲音</li>
+</ul>
+<hr />
+<h2 id="_7">今日的巴賽語</h2>
+<p><strong>Kisaizi a kawase a Basay</strong>（巴賽語復振）</p>
+
+      <div class="article-footer">
+        <div class="license">
+          本文採 <strong>CC BY-NC-SA 4.0</strong> 授權。引用時請標明出處：<br>
+          basay.tw 研究筆記「巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記」（2026年5月15日）
+        </div>
+        <div class="share-label">SHARE</div>
+        <div class="share-btns">
+          <a class="share-btn" href="#">Facebook</a>
+          <a class="share-btn" href="#">X / Twitter</a>
+          <a class="share-btn" href="#">複製連結</a>
+        </div>
+      </div>
+
+    </article>
+
+  </div><!-- /article-main -->
+
+  <aside class="article-aside">
+    <div class="post-info-box">
+      <div class="post-info-label">ARTICLE INFO</div>
+      <ul class="post-info-list">
+        <li><span class="pi-key">DATE</span><span class="pi-val">2026年5月15日</span></li>
+        <li><span class="pi-key">READING</span><span class="pi-val">約 8 分鐘</span></li>
+        
+        <li><span class="pi-key">TAGS</span><span class="pi-val">TTS · 語音合成 · 巴賽語 · espeak · 南島語系 · 語言復振</span></li>
+      </ul>
+    </div>
+
+    
+    <div class="toc-box">
+      <div class="toc-label">目次</div>
+      <ul class="toc-list">
+        
+        <li><a href="#起點-商業-tts-不支援南島語系">起點：商業 TTS 不支援南島語系</a></li>
+        
+        <li><a href="#開發歷程">開發歷程</a></li>
+        
+        <li><a href="#第一次嘗試-ffmpeg-音素合成" class="sub">❌ 第一次嘗試：FFmpeg 音素合成</a></li>
+        
+        <li><a href="#第二次嘗試-改造-espeak-現有語言-profile" class="sub">🔧 第二次嘗試：改造 eSpeak 現有語言 Profile</a></li>
+        
+        <li><a href="#突破口-解析歷史音檔-復元母音" class="sub">🎯 突破口：解析歷史音檔，復元母音</a></li>
+        
+        <li><a href="#子音系統調整-依據南島語系一般知見" class="sub">🔊 子音系統調整：依據南島語系一般知見</a></li>
+        
+        <li><a href="#安卓移植-接近完成-暫時擱置" class="sub">📱 安卓移植：接近完成，暫時擱置</a></li>
+        
+        <li><a href="#basay-tw-網站上線" class="sub">🌐 basay.tw 網站上線</a></li>
+        
+        <li><a href="#雲端-tts-huggingface-整合" class="sub">☁️ 雲端 TTS：HuggingFace 整合</a></li>
+        
+        <li><a href="#行動化更新-從手機即可更新-本日的巴賽語" class="sub">📲 行動化更新：從手機即可更新「本日的巴賽語」</a></li>
+        
+        <li><a href="#新增-研究筆記-部落格" class="sub">📝 新增「研究筆記」部落格</a></li>
+        
+        <li><a href="#今日的巴賽語">今日的巴賽語</a></li>
+        
+      </ul>
+    </div>
+    
+
+    <div class="aside-tts">
+      <p>巴賽語 TTS で<br>試聴する</p>
+      <a class="tts-link" href="https://inkuei-basaytts.hf.space/" target="_blank" rel="noopener">▶ 語音合成</a>
+    </div>
+  </aside>
+
+</div>
+
+<footer>
+  <p>© 2026 basay.tw ｜ <a href="../../about/">關於</a> ｜ <a href="https://github.com/ctotsai-hub/basay-tw">GitHub</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</p>
+</footer>
+
+<script>
+window.addEventListener('scroll', () => {
+  const doc = document.documentElement;
+  const scrollTop = doc.scrollTop || document.body.scrollTop;
+  const scrollHeight = doc.scrollHeight - doc.clientHeight;
+  const pct = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+  document.getElementById('reading-progress').style.width = pct + '%';
+});
+</script>
+</body>
+</html>
