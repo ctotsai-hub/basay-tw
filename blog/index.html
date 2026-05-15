@@ -7,451 +7,83 @@
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;600;900&family=Noto+Sans+TC:wght@300;400;500&family=Noto+Serif:ital,wght@0,400;1,400&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg:        #f7f3ec;
-  --bg2:       #efe9df;
-  --ink:       #1a1610;
-  --ink2:      #3a3428;
-  --ink3:      #6a6055;
-  --accent:    #2a6b5a;
-  --accent2:   #c0522a;
-  --gold:      #8a6a20;
-  --border:    #d4c9b8;
-  --card-bg:   #fdfaf5;
-  --tag-bg:    #e8e0d0;
+  --bg:#f7f3ec; --bg2:#efe9df; --ink:#1a1610; --ink2:#3a3428; --ink3:#6a6055;
+  --accent:#2a6b5a; --accent2:#c0522a; --gold:#8a6a20;
+  --border:#d4c9b8; --card-bg:#fdfaf5; --tag-bg:#e8e0d0;
 }
-
 * { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:'Noto Serif TC',serif; font-size:16px; line-height:1.8; }
+header { border-bottom:1px solid var(--border); background:var(--bg); position:sticky; top:0; z-index:100; }
+.nav-inner { max-width:1100px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:56px; }
+.site-logo { font-family:'Noto Serif TC',serif; font-weight:900; font-size:1rem; color:var(--ink); text-decoration:none; letter-spacing:0.05em; }
+.site-logo span { color:var(--accent); font-size:0.75em; display:block; font-weight:300; letter-spacing:0.15em; }
+nav a { font-family:'Noto Sans TC',sans-serif; font-size:0.82rem; color:var(--ink3); text-decoration:none; margin-left:22px; letter-spacing:0.05em; transition:color 0.2s; }
+nav a:hover, nav a.active { color:var(--accent); }
 
-body {
-  background: var(--bg);
-  color: var(--ink);
-  font-family: 'Noto Serif TC', serif;
-  font-size: 16px;
-  line-height: 1.8;
-}
+.blog-hero { border-bottom:1px solid var(--border); padding:64px 24px 48px; max-width:1100px; margin:0 auto; display:grid; grid-template-columns:1fr auto; align-items:end; gap:2rem; }
+.hero-label { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.35em; color:var(--accent); margin-bottom:1rem; display:flex; align-items:center; gap:10px; }
+.hero-label::before { content:''; display:inline-block; width:28px; height:1px; background:var(--accent); }
+.blog-hero h1 { font-size:clamp(2rem,4vw,3rem); font-weight:900; line-height:1.2; letter-spacing:-0.01em; color:var(--ink); }
+.blog-hero p { margin-top:1rem; font-size:0.95rem; color:var(--ink3); font-family:'Noto Sans TC',sans-serif; font-weight:300; max-width:480px; }
+.hero-basay { text-align:right; font-family:'Noto Serif',serif; font-style:italic; font-size:1.1rem; color:var(--accent); line-height:2; opacity:0.7; }
 
-/* ── HEADER / NAV ── */
-header {
-  border-bottom: 1px solid var(--border);
-  background: var(--bg);
-  position: sticky;
-  top: 0;
-  z-index: 100;
-}
+.filters { max-width:1100px; margin:0 auto; padding:24px 24px 0; display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+.filter-label { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.15em; color:var(--ink3); margin-right:4px; }
+.tag-btn { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:4px 14px; border-radius:2px; border:1px solid var(--border); background:none; color:var(--ink3); cursor:pointer; letter-spacing:0.05em; transition:all 0.15s; }
+.tag-btn:hover, .tag-btn.active { background:var(--accent); border-color:var(--accent); color:white; }
 
-.nav-inner {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 24px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 56px;
-}
+.main-wrap { max-width:1100px; margin:0 auto; padding:40px 24px 80px; display:grid; grid-template-columns:1fr 280px; gap:60px; }
+@media (max-width:768px) { .main-wrap { grid-template-columns:1fr; gap:40px; } .sidebar { order:-1; } .blog-hero { grid-template-columns:1fr; } .hero-basay { text-align:left; } nav { display:none; } }
 
-.site-logo {
-  font-family: 'Noto Serif TC', serif;
-  font-weight: 900;
-  font-size: 1rem;
-  color: var(--ink);
-  text-decoration: none;
-  letter-spacing: 0.05em;
-}
-.site-logo span {
-  color: var(--accent);
-  font-size: 0.75em;
-  display: block;
-  font-weight: 300;
-  letter-spacing: 0.15em;
-}
-
-nav a {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.82rem;
-  color: var(--ink3);
-  text-decoration: none;
-  margin-left: 22px;
-  letter-spacing: 0.05em;
-  transition: color 0.2s;
-}
-nav a:hover, nav a.active { color: var(--accent); }
-
-/* ── HERO ── */
-.blog-hero {
-  border-bottom: 1px solid var(--border);
-  padding: 64px 24px 48px;
-  max-width: 1100px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: end;
-  gap: 2rem;
-}
-
-.hero-label {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.72rem;
-  letter-spacing: 0.35em;
-  color: var(--accent);
-  margin-bottom: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-}
-.hero-label::before {
-  content: '';
-  display: inline-block;
-  width: 28px;
-  height: 1px;
-  background: var(--accent);
-}
-
-.blog-hero h1 {
-  font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 900;
-  line-height: 1.2;
-  letter-spacing: -0.01em;
-  color: var(--ink);
-}
-
-.blog-hero p {
-  margin-top: 1rem;
-  font-size: 0.95rem;
-  color: var(--ink3);
-  font-family: 'Noto Sans TC', sans-serif;
-  font-weight: 300;
-  max-width: 480px;
-}
-
-.hero-basay {
-  text-align: right;
-  font-family: 'Noto Serif', serif;
-  font-style: italic;
-  font-size: 1.1rem;
-  color: var(--accent);
-  line-height: 2;
-  opacity: 0.7;
-}
-
-/* ── FILTERS ── */
-.filters {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 24px 24px 0;
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
-.filter-label {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.72rem;
-  letter-spacing: 0.15em;
-  color: var(--ink3);
-  margin-right: 4px;
-}
-
-.tag-btn {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.75rem;
-  padding: 4px 14px;
-  border-radius: 2px;
-  border: 1px solid var(--border);
-  background: none;
-  color: var(--ink3);
-  cursor: pointer;
-  letter-spacing: 0.05em;
-  transition: all 0.15s;
-}
-.tag-btn:hover, .tag-btn.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
-}
-
-/* ── MAIN LAYOUT ── */
-.main-wrap {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 40px 24px 80px;
-  display: grid;
-  grid-template-columns: 1fr 280px;
-  gap: 60px;
-}
-
-@media (max-width: 768px) {
-  .main-wrap { grid-template-columns: 1fr; gap: 40px; }
-  .sidebar { order: -1; }
-  .blog-hero { grid-template-columns: 1fr; }
-  .hero-basay { text-align: left; }
-  nav { display: none; }
-}
-
-/* ── ARTICLE CARDS ── */
-.article-list { display: flex; flex-direction: column; gap: 0; }
-
-.article-card {
-  border-top: 1px solid var(--border);
-  padding: 36px 0;
-  display: grid;
-  grid-template-columns: 80px 1fr;
-  gap: 0 28px;
-  cursor: pointer;
-  transition: background 0.15s;
-  text-decoration: none;
-  color: inherit;
-}
-.article-card:last-child { border-bottom: 1px solid var(--border); }
-.article-card:hover .card-title { color: var(--accent); }
-
-.card-date-col {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.72rem;
-  color: var(--ink3);
-  letter-spacing: 0.05em;
-  padding-top: 4px;
-  line-height: 1.6;
-}
-.card-date-col .day {
-  font-size: 1.6rem;
-  font-weight: 500;
-  color: var(--ink2);
-  display: block;
-  font-family: 'Noto Serif', serif;
-  line-height: 1;
-  margin-bottom: 4px;
-}
-
+.article-list { display:flex; flex-direction:column; gap:0; }
+.article-card { border-top:1px solid var(--border); padding:36px 0; display:grid; grid-template-columns:80px 1fr; gap:0 28px; cursor:pointer; transition:background 0.15s; text-decoration:none; color:inherit; }
+.article-card:last-child { border-bottom:1px solid var(--border); }
+.article-card:hover .card-title { color:var(--accent); }
+.card-date-col { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); letter-spacing:0.05em; padding-top:4px; line-height:1.6; }
+.card-date-col .day { font-size:1.6rem; font-weight:500; color:var(--ink2); display:block; font-family:'Noto Serif',serif; line-height:1; margin-bottom:4px; }
 .card-body {}
+.card-tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:10px; }
+.card-tag { font-family:'Noto Sans TC',sans-serif; font-size:0.68rem; letter-spacing:0.1em; padding:2px 10px; border-radius:1px; background:var(--tag-bg); color:var(--ink3); }
+.card-tag.accent { background:rgba(42,107,90,0.12); color:var(--accent); }
+.card-title { font-size:1.2rem; font-weight:600; line-height:1.4; margin-bottom:10px; transition:color 0.15s; letter-spacing:0.01em; }
+.card-excerpt { font-family:'Noto Sans TC',sans-serif; font-size:0.85rem; color:var(--ink3); line-height:1.8; font-weight:300; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+.card-meta { margin-top:14px; display:flex; align-items:center; gap:16px; }
+.card-readtime { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); }
+.card-arrow { font-size:0.8rem; color:var(--accent); margin-left:auto; opacity:0; transition:opacity 0.15s, transform 0.15s; }
+.article-card:hover .card-arrow { opacity:1; transform:translateX(4px); }
 
-.card-tags {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  margin-bottom: 10px;
-}
-.card-tag {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.68rem;
-  letter-spacing: 0.1em;
-  padding: 2px 10px;
-  border-radius: 1px;
-  background: var(--tag-bg);
-  color: var(--ink3);
-}
-.card-tag.accent { background: rgba(42,107,90,0.12); color: var(--accent); }
+.article-card.featured { grid-template-columns:1fr; background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:32px; margin-bottom:8px; }
+.article-card.featured .card-title { font-size:1.5rem; font-weight:900; }
+.article-card.featured .card-excerpt { -webkit-line-clamp:3; }
+.article-card.featured .card-date-col { display:flex; align-items:center; gap:8px; margin-bottom:12px; padding-top:0; }
+.article-card.featured .card-date-col .day { font-size:1rem; display:inline; }
+.featured-badge { font-family:'Noto Sans TC',sans-serif; font-size:0.65rem; letter-spacing:0.2em; color:var(--accent2); border:1px solid var(--accent2); padding:1px 8px; border-radius:1px; }
 
-.card-title {
-  font-size: 1.2rem;
-  font-weight: 600;
-  line-height: 1.4;
-  margin-bottom: 10px;
-  transition: color 0.15s;
-  letter-spacing: 0.01em;
-}
-
-.card-excerpt {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.85rem;
-  color: var(--ink3);
-  line-height: 1.8;
-  font-weight: 300;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.card-meta {
-  margin-top: 14px;
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-.card-readtime {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.72rem;
-  color: var(--ink3);
-}
-.card-arrow {
-  font-size: 0.8rem;
-  color: var(--accent);
-  margin-left: auto;
-  opacity: 0;
-  transition: opacity 0.15s, transform 0.15s;
-}
-.article-card:hover .card-arrow { opacity: 1; transform: translateX(4px); }
-
-/* ── FEATURED CARD (first article) ── */
-.article-card.featured {
-  grid-template-columns: 1fr;
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  padding: 32px;
-  margin-bottom: 8px;
-}
-.article-card.featured .card-title { font-size: 1.5rem; font-weight: 900; }
-.article-card.featured .card-excerpt { -webkit-line-clamp: 3; }
-.article-card.featured .card-date-col {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 12px;
-  padding-top: 0;
-}
-.article-card.featured .card-date-col .day { font-size: 1rem; display: inline; }
-.featured-badge {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.65rem;
-  letter-spacing: 0.2em;
-  color: var(--accent2);
-  border: 1px solid var(--accent2);
-  padding: 1px 8px;
-  border-radius: 1px;
-}
-
-/* ── SIDEBAR ── */
 .sidebar {}
+.sidebar-section { margin-bottom:40px; }
+.sidebar-title { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.25em; color:var(--ink3); border-bottom:1px solid var(--border); padding-bottom:10px; margin-bottom:18px; }
+.about-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:20px; }
+.about-box p { font-family:'Noto Sans TC',sans-serif; font-size:0.8rem; color:var(--ink3); line-height:1.8; font-weight:300; }
+.about-box .basay-quote { margin-top:12px; font-family:'Noto Serif',serif; font-style:italic; font-size:0.85rem; color:var(--accent); border-left:2px solid var(--accent); padding-left:10px; }
+.tags-cloud { display:flex; flex-wrap:wrap; gap:6px; }
+.recent-list { list-style:none; }
+.recent-list li { border-bottom:1px solid var(--border); padding:10px 0; }
+.recent-list li:last-child { border-bottom:none; }
+.recent-list a { font-family:'Noto Sans TC',sans-serif; font-size:0.8rem; color:var(--ink2); text-decoration:none; display:block; line-height:1.5; transition:color 0.15s; }
+.recent-list a:hover { color:var(--accent); }
+.recent-list .r-date { font-size:0.68rem; color:var(--ink3); margin-top:2px; display:block; }
+.tts-box { background:rgba(42,107,90,0.06); border:1px solid rgba(42,107,90,0.25); border-radius:4px; padding:18px; text-align:center; }
+.tts-box p { font-family:'Noto Sans TC',sans-serif; font-size:0.78rem; color:var(--ink3); margin-bottom:10px; line-height:1.7; }
+.tts-link { display:inline-block; background:var(--accent); color:white; font-family:'Noto Sans TC',sans-serif; font-size:0.78rem; padding:7px 20px; border-radius:2px; text-decoration:none; letter-spacing:0.08em; transition:background 0.2s; }
+.tts-link:hover { background:#1e5244; }
 
-.sidebar-section {
-  margin-bottom: 40px;
-}
-
-.sidebar-title {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.72rem;
-  letter-spacing: 0.25em;
-  color: var(--ink3);
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 10px;
-  margin-bottom: 18px;
-}
-
-/* About box */
-.about-box {
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  padding: 20px;
-}
-.about-box p {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.8rem;
-  color: var(--ink3);
-  line-height: 1.8;
-  font-weight: 300;
-}
-.about-box .basay-quote {
-  margin-top: 12px;
-  font-family: 'Noto Serif', serif;
-  font-style: italic;
-  font-size: 0.85rem;
-  color: var(--accent);
-  border-left: 2px solid var(--accent);
-  padding-left: 10px;
-}
-
-/* Tags cloud */
-.tags-cloud {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-/* Recent list */
-.recent-list { list-style: none; }
-.recent-list li {
-  border-bottom: 1px solid var(--border);
-  padding: 10px 0;
-}
-.recent-list li:last-child { border-bottom: none; }
-.recent-list a {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.8rem;
-  color: var(--ink2);
-  text-decoration: none;
-  display: block;
-  line-height: 1.5;
-  transition: color 0.15s;
-}
-.recent-list a:hover { color: var(--accent); }
-.recent-list .r-date {
-  font-size: 0.68rem;
-  color: var(--ink3);
-  margin-top: 2px;
-  display: block;
-}
-
-/* TTS link box */
-.tts-box {
-  background: rgba(42,107,90,0.06);
-  border: 1px solid rgba(42,107,90,0.25);
-  border-radius: 4px;
-  padding: 18px;
-  text-align: center;
-}
-.tts-box p {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.78rem;
-  color: var(--ink3);
-  margin-bottom: 10px;
-  line-height: 1.7;
-}
-.tts-link {
-  display: inline-block;
-  background: var(--accent);
-  color: white;
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.78rem;
-  padding: 7px 20px;
-  border-radius: 2px;
-  text-decoration: none;
-  letter-spacing: 0.08em;
-  transition: background 0.2s;
-}
-.tts-link:hover { background: #1e5244; }
-
-/* ── PAGINATION ── */
-.pagination {
-  margin-top: 16px;
-  display: flex;
-  gap: 4px;
-}
-.page-btn {
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.8rem;
-  padding: 6px 14px;
-  border: 1px solid var(--border);
-  background: none;
-  color: var(--ink3);
-  cursor: pointer;
-  border-radius: 2px;
-  transition: all 0.15s;
-}
-.page-btn:hover, .page-btn.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
-}
-
-/* ── FOOTER ── */
-footer {
-  border-top: 1px solid var(--border);
-  padding: 32px 24px;
-  text-align: center;
-  font-family: 'Noto Sans TC', sans-serif;
-  font-size: 0.75rem;
-  color: var(--ink3);
-}
-footer a { color: var(--ink3); text-decoration: none; }
-footer a:hover { color: var(--accent); }
+footer { border-top:1px solid var(--border); padding:32px 24px; text-align:center; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); }
+footer a { color:var(--ink3); text-decoration:none; }
+footer a:hover { color:var(--accent); }
 </style>
 </head>
 <body>
 
-<!-- HEADER -->
 <header>
   <div class="nav-inner">
     <a class="site-logo" href="../">凱達格蘭・巴賽語<span>Ketagalan · Basay</span></a>
@@ -467,7 +99,6 @@ footer a:hover { color: var(--accent); }
   </div>
 </header>
 
-<!-- HERO -->
 <div class="blog-hero">
   <div>
     <div class="hero-label">RESEARCH NOTES</div>
@@ -480,47 +111,57 @@ footer a:hover { color: var(--accent); }
   </div>
 </div>
 
-<!-- FILTERS -->
 <div class="filters">
   <span class="filter-label">分類：</span>
   <button class="tag-btn active">全部</button>
-  <button class="tag-btn">音韻研究</button>
-  <button class="tag-btn">語音合成</button>
-  <button class="tag-btn">文法分析</button>
-  <button class="tag-btn">詞源考察</button>
-  <button class="tag-btn">田野記錄</button>
-  <button class="tag-btn">工程筆記</button>
+  <button class="tag-btn">TTS</button><button class="tag-btn">語音合成</button><button class="tag-btn">巴賽語</button><button class="tag-btn">espeak</button><button class="tag-btn">南島語系</button><button class="tag-btn">語言復振</button><button class="tag-btn">音韻研究</button><button class="tag-btn">詞源考察</button><button class="tag-btn">哆囉美遠方言</button>
 </div>
 
-<!-- MAIN -->
 <div class="main-wrap">
   <main>
     <div class="article-list">
-
-      <!-- FEATURED -->
-      <a class="article-card featured" href="./lalaleona/">
-        <div class="card-date-col">
-          <span class="day">2026.04</span>
-          <span class="featured-badge">最新</span>
-        </div>
-        <div class="card-tags">
-          <span class="card-tag accent">音韻研究</span>
-          <span class="card-tag accent">詞源考察</span>
-        </div>
-        <div class="card-title">lalaleona「走」的復原——三種證據的交匯</div>
-        <div class="card-excerpt">
-          透過淺井惠倫錄音、東京外國語大學轉寫、李壬癸記錄三種證據的交匯，考察「奔跑」一詞最可能的原形。IPay音響數據顯示，lalaliwna 所預設的 /w/ 插入並不存在於哆囉美遠方言的現實發音。
-        </div>
-        <div class="card-meta">
-          <span class="card-readtime">約 8 分鐘</span>
-          <span class="card-arrow">→ 閱讀全文</span>
-        </div>
-      </a>
-
-    </div><!-- /article-list -->
+      
+        
+        <a class="article-card featured" href="./blog260515/">
+          <div class="card-date-col">
+            <span class="day">2026.05</span>
+            <span class="featured-badge">最新</span>
+          </div>
+          <div class="card-tags">
+            <span class="card-tag accent">TTS</span><span class="card-tag accent">語音合成</span><span class="card-tag accent">巴賽語</span><span class="card-tag accent">espeak</span><span class="card-tag accent">南島語系</span><span class="card-tag accent">語言復振</span>
+          </div>
+          <div class="card-title">巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記</div>
+          <div class="card-excerpt">Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。</div>
+          <div class="card-meta">
+            <span class="card-readtime">約 8 分鐘</span>
+            <span class="card-arrow">→ 閱讀全文</span>
+          </div>
+        </a>
+        
+      
+        
+        <a class="article-card" href="./lalaleona/">
+          <div class="card-date-col">
+            <span class="day">15</span>
+            2026<br>APR
+          </div>
+          <div class="card-body">
+            <div class="card-tags">
+              <span class="card-tag">音韻研究</span><span class="card-tag">詞源考察</span>
+            </div>
+            <div class="card-title">lalaleona「走」的復原——三種證據的交匯</div>
+            <div class="card-excerpt">透過淺井惠倫錄音、東京外國語大學轉寫、李壬癸記錄三種證據的交匯，考察「奔跑」一詞最可能的原形。IPay音響數據顯示，lalaliwna 所預設的 /w/ 插入並不存在於哆囉美遠方言的現實發音。</div>
+            <div class="card-meta">
+              <span class="card-readtime">約 8 分鐘</span>
+              <span class="card-arrow">→ 閱讀全文</span>
+            </div>
+          </div>
+        </a>
+        
+      
+    </div>
   </main>
 
-  <!-- SIDEBAR -->
   <aside class="sidebar">
 
     <div class="sidebar-section">
@@ -534,22 +175,18 @@ footer a:hover { color: var(--accent); }
     <div class="sidebar-section">
       <div class="sidebar-title">TAGS</div>
       <div class="tags-cloud">
-        <button class="tag-btn">音韻研究</button>
-        <button class="tag-btn">語音合成</button>
-        <button class="tag-btn">文法分析</button>
-        <button class="tag-btn">詞源考察</button>
-        <button class="tag-btn">田野記錄</button>
-        <button class="tag-btn">工程筆記</button>
-        <button class="tag-btn">IPay</button>
-        <button class="tag-btn">eSpeak-NG</button>
-        <button class="tag-btn">向量理論</button>
+        <button class="tag-btn">TTS</button><button class="tag-btn">語音合成</button><button class="tag-btn">巴賽語</button><button class="tag-btn">espeak</button><button class="tag-btn">南島語系</button><button class="tag-btn">語言復振</button><button class="tag-btn">音韻研究</button><button class="tag-btn">詞源考察</button><button class="tag-btn">哆囉美遠方言</button>
       </div>
     </div>
 
     <div class="sidebar-section">
       <div class="sidebar-title">RECENT POSTS</div>
       <ul class="recent-list">
-        <li><a href="./lalaleona/">lalaleona「走」的復原<span class="r-date">2026.04</span></a></li>
+        
+        <li><a href="./blog260515/">巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記<span class="r-date">2026.05</span></a></li>
+        
+        <li><a href="./lalaleona/">lalaleona「走」的復原——三種證據的交匯<span class="r-date">2026.04</span></a></li>
+        
       </ul>
     </div>
 
@@ -562,14 +199,13 @@ footer a:hover { color: var(--accent); }
     </div>
 
   </aside>
-</div><!-- /main-wrap -->
+</div>
 
 <footer>
   <p>© 2026 basay.tw ｜ <a href="../about/">關於</a> ｜ <a href="https://github.com/ctotsai-hub/basay-tw">GitHub</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</p>
 </footer>
 
 <script>
-// Tag filter buttons
 document.querySelectorAll('.tag-btn').forEach(btn => {
   btn.addEventListener('click', function() {
     this.closest('.filters, .tags-cloud')
