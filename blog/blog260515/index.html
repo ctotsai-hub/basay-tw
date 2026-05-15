@@ -203,10 +203,10 @@ footer a:hover { color:var(--accent); }
           basay.tw 研究筆記「巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記」（2026年5月15日）
         </div>
         <div class="share-label">SHARE</div>
-        <div class="share-btns">
-          <a class="share-btn" href="#">Facebook</a>
-          <a class="share-btn" href="#">X / Twitter</a>
-          <a class="share-btn" href="#">複製連結</a>
+        <div class="share-btns" id="share-btns">
+          <a class="share-btn" id="share-fb" target="_blank" rel="noopener">Facebook</a>
+          <a class="share-btn" id="share-x" target="_blank" rel="noopener">X / Twitter</a>
+          <button class="share-btn" id="share-copy" type="button">複製連結</button>
         </div>
       </div>
 
@@ -278,6 +278,39 @@ window.addEventListener('scroll', () => {
   const pct = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
   document.getElementById('reading-progress').style.width = pct + '%';
 });
+
+// Share buttons
+(function () {
+  var url = window.location.href;
+  var title = document.title;
+  var fb = document.getElementById('share-fb');
+  var x  = document.getElementById('share-x');
+  var cp = document.getElementById('share-copy');
+  if (fb) fb.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url);
+  if (x)  x.href  = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+  if (cp) {
+    cp.addEventListener('click', async function () {
+      var done = function () {
+        var orig = cp.textContent;
+        cp.textContent = '✓ 已複製';
+        setTimeout(function () { cp.textContent = orig; }, 1800);
+      };
+      try {
+        await navigator.clipboard.writeText(url);
+        done();
+      } catch (e) {
+        var ta = document.createElement('textarea');
+        ta.value = url;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); done(); } catch (_) {}
+        document.body.removeChild(ta);
+      }
+    });
+  }
+})();
 </script>
 </body>
 </html>
