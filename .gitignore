@@ -12,3 +12,6 @@ __pycache__/
 
 # 生成物ではなく素材として一緒に push するなら下を消してください
 # scripts/__pycache__/
+
+# HF Space sources (managed separately)
+hf-space-daily-updater/
