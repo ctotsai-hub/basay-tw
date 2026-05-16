@@ -53,7 +53,11 @@ async function loadDaily() {
     return;
   }
 
-  const today = new Date().toISOString().slice(0, 10);
+  // 台湾時間（UTC+8）で「今日」を算出する。
+  // HF Space 側（daily_updater.py の _today_iso）が UTC+8 で日付キーを作っているため、
+  // フロントもこれに合わせないと未明〜午前8時（UTC）の間 1 日ズレる。
+  // 仕組み: UTC ミリ秒に +8h を足し、toISOString() で文字列化（toISOString は常に UTC 形式）。
+  const today = new Date(Date.now() + 8 * 3600 * 1000).toISOString().slice(0, 10);
 
   const dateKeys = Object.keys(data)
     .filter(function (k) { return /^\d{4}-\d{2}-\d{2}$/.test(k); })
