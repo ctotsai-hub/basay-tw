@@ -1,0 +1,286 @@
+[
+  {
+    "id": "2316",
+    "basay": "waki",
+    "category": "09",
+    "zh": [
+      "角"
+    ],
+    "en": [
+      "horn"
+    ],
+    "source": "M",
+    "original": "waki (M)"
+  },
+  {
+    "id": "1108",
+    "basay": "wale-wale",
+    "category": "10",
+    "zh": [
+      "海外"
+    ],
+    "ja": [
+      "海外"
+    ],
+    "en": [
+      "overseas"
+    ],
+    "source": "B",
+    "original": "wale-wale"
+  },
+  {
+    "id": "2317",
+    "basay": "wanak",
+    "category": "04",
+    "zh": [
+      "孩子"
+    ],
+    "en": [
+      "child"
+    ],
+    "source": "T",
+    "original": "wanak, wanake, wanaq (S)"
+  },
+  {
+    "id": "2318",
+    "basay": "wanake",
+    "category": "04",
+    "zh": [
+      "孩子"
+    ],
+    "en": [
+      "child"
+    ],
+    "source": "T",
+    "original": "wanak, wanake, wanaq (S)"
+  },
+  {
+    "id": "2319",
+    "basay": "wanaq",
+    "category": "04",
+    "zh": [
+      "孩子"
+    ],
+    "en": [
+      "child"
+    ],
+    "source": "S",
+    "original": "wanak, wanake, wanaq (S)"
+  },
+  {
+    "id": "2320",
+    "basay": "wanay ⑸",
+    "category": "29",
+    "zh": [
+      "好吧,吉利,只要"
+    ],
+    "en": [
+      "alright, good, only"
+    ],
+    "source": "T",
+    "original": "wanay ⑸"
+  },
+  {
+    "id": "2321",
+    "basay": "wanja",
+    "category": "34",
+    "zh": [
+      "完成"
+    ],
+    "en": [
+      "finish"
+    ],
+    "source": "T",
+    "original": "wanja"
+  },
+  {
+    "id": "1109",
+    "basay": "wano'n'",
+    "category": "10",
+    "zh": [
+      "糖"
+    ],
+    "ja": [
+      "砂糖,甘味"
+    ],
+    "en": [
+      "sugar"
+    ],
+    "source": "B",
+    "original": "wanəŋ"
+  },
+  {
+    "id": "1110",
+    "basay": "wanun'",
+    "category": "10",
+    "zh": [
+      "糖"
+    ],
+    "ja": [
+      "砂糖"
+    ],
+    "en": [
+      "sugar"
+    ],
+    "source": "B",
+    "original": "wanuŋ"
+  },
+  {
+    "id": "2322",
+    "basay": "wanun'",
+    "category": "27",
+    "zh": [
+      "糖"
+    ],
+    "en": [
+      "sugar"
+    ],
+    "source": "M",
+    "original": "wanuŋ (M)"
+  },
+  {
+    "id": "1111",
+    "basay": "wasu",
+    "category": "01",
+    "zh": [
+      "八"
+    ],
+    "ja": [
+      "8"
+    ],
+    "en": [
+      "eight"
+    ],
+    "source": "B",
+    "original": "wasu"
+  },
+  {
+    "id": "2323",
+    "basay": "watsikam",
+    "category": "35",
+    "zh": [
+      "不久"
+    ],
+    "en": [
+      "before long"
+    ],
+    "source": "T",
+    "original": "watsikam"
+  },
+  {
+    "id": "2324",
+    "basay": "watsu",
+    "category": "07",
+    "zh": [
+      "狗"
+    ],
+    "en": [
+      "dog"
+    ],
+    "source": "M",
+    "original": "watsu (M)"
+  },
+  {
+    "id": "2326",
+    "basay": "watsuaina",
+    "category": "24",
+    "zh": [
+      "完成，結束"
+    ],
+    "en": [
+      "finish, end"
+    ],
+    "source": "M",
+    "original": "watsuaina (M), watsuay"
+  },
+  {
+    "id": "2325",
+    "basay": "watsuay",
+    "category": "27",
+    "zh": [
+      "好吃"
+    ],
+    "en": [
+      "delicious"
+    ],
+    "source": "T",
+    "original": "watsuay"
+  },
+  {
+    "id": "2327",
+    "basay": "watsuay",
+    "category": "24",
+    "zh": [
+      "完成，結束"
+    ],
+    "en": [
+      "finish, end"
+    ],
+    "source": "T",
+    "original": "watsuaina (M), watsuay"
+  },
+  {
+    "id": "1112",
+    "basay": "wawai",
+    "category": "07",
+    "zh": [
+      "昆蟲"
+    ],
+    "ja": [
+      "虫,アミ(vao)"
+    ],
+    "en": [
+      "insects"
+    ],
+    "source": "B",
+    "original": "wawai"
+  },
+  {
+    "id": "1113",
+    "basay": "wawai",
+    "category": "08",
+    "zh": [
+      "藤"
+    ],
+    "ja": [
+      "藤, アミ(hoai)"
+    ],
+    "en": [
+      "rattan"
+    ],
+    "source": "B",
+    "original": "wawai"
+  },
+  {
+    "id": "1114",
+    "basay": "wawai pasibsib",
+    "category": "07",
+    "zh": [
+      "螢火蟲"
+    ],
+    "ja": [
+      "蛍"
+    ],
+    "en": [
+      "firefly"
+    ],
+    "source": "B",
+    "original": "wawai pasibsib"
+  },
+  {
+    "id": "1115",
+    "basay": "wawai satska",
+    "category": "07",
+    "zh": [
+      "蠕蟲"
+    ],
+    "ja": [
+      "毛虫.アミ(tsuka)"
+    ],
+    "en": [
+      "worm"
+    ],
+    "source": "B",
+    "original": "wawai satska"
+  }
+]

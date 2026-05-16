@@ -1,0 +1,5354 @@
+[
+  {
+    "id": "0923",
+    "basay": "t-um-atan'a",
+    "category": "23",
+    "zh": [
+      "輕蔑的笑聲"
+    ],
+    "ja": [
+      "アザケリ笑ウ"
+    ],
+    "en": [
+      "scornful laugh"
+    ],
+    "source": "B",
+    "original": "t-um-ataŋa"
+  },
+  {
+    "id": "0924",
+    "basay": "tabaku",
+    "category": "08",
+    "zh": [
+      "菸草"
+    ],
+    "ja": [
+      "タバコ"
+    ],
+    "en": [
+      "tobacco"
+    ],
+    "source": "B",
+    "original": "tabaku"
+  },
+  {
+    "id": "0926",
+    "basay": "tabu",
+    "category": "08",
+    "zh": [
+      "砍樹"
+    ],
+    "ja": [
+      "切ル (木ヲ)"
+    ],
+    "en": [
+      "cut trees"
+    ],
+    "source": "B",
+    "original": "tabu"
+  },
+  {
+    "id": "0925",
+    "basay": "tabǝl'",
+    "category": "25",
+    "zh": [
+      "傾倒",
+      "拋棄"
+    ],
+    "ja": [
+      "捨テル"
+    ],
+    "en": [
+      "dump. cast away"
+    ],
+    "source": "B",
+    "original": "tabǝl'"
+  },
+  {
+    "id": "0927",
+    "basay": "tae | tomae",
+    "category": "32",
+    "zh": [
+      "糞便"
+    ],
+    "ja": [
+      "大便"
+    ],
+    "en": [
+      "faeces"
+    ],
+    "source": "B",
+    "original": "tae, tomae"
+  },
+  {
+    "id": "1471",
+    "basay": "tael",
+    "category": "15",
+    "zh": [
+      "農舍"
+    ],
+    "en": [
+      "cottage, hut"
+    ],
+    "source": "T",
+    "original": "matael (M), tael"
+  },
+  {
+    "id": "0928",
+    "basay": "taitai",
+    "category": "10",
+    "zh": [
+      "土"
+    ],
+    "ja": [
+      "泥(<糞様)"
+    ],
+    "en": [
+      "mud"
+    ],
+    "source": "B",
+    "original": "taitai (?)"
+  },
+  {
+    "id": "2024",
+    "basay": "tak pay",
+    "category": "02",
+    "zh": [
+      "我將要"
+    ],
+    "en": [
+      "I will"
+    ],
+    "source": "T",
+    "original": "tak pay"
+  },
+  {
+    "id": "0929",
+    "basay": "takan",
+    "category": "09",
+    "zh": [
+      "長椅"
+    ],
+    "ja": [
+      "ベンチ"
+    ],
+    "en": [
+      "bench"
+    ],
+    "source": "B",
+    "original": "takan"
+  },
+  {
+    "id": "0930",
+    "basay": "taktak",
+    "category": "25",
+    "zh": [
+      "切",
+      "砍",
+      "切碎"
+    ],
+    "ja": [
+      "キザム"
+    ],
+    "en": [
+      "cut. chop. chaff"
+    ],
+    "source": "B",
+    "original": "taktak"
+  },
+  {
+    "id": "2025",
+    "basay": "taktak",
+    "category": "34",
+    "zh": [
+      "粗糠，榖殼"
+    ],
+    "en": [
+      "chaff"
+    ],
+    "source": "M",
+    "original": "taktak (M)"
+  },
+  {
+    "id": "0932",
+    "basay": "takup > tsumakup",
+    "category": "25",
+    "zh": [
+      "覆蓋",
+      "蓋上蓋子"
+    ],
+    "ja": [
+      "蓋ヲスル, アミ. (tahav) フタ"
+    ],
+    "en": [
+      "cover (to). put the lid on"
+    ],
+    "source": "B",
+    "original": "takup > tsumakup"
+  },
+  {
+    "id": "0931",
+    "basay": "takup> panukup",
+    "category": "25",
+    "zh": [
+      "覆蓋",
+      "蓋上蓋子"
+    ],
+    "ja": [
+      "蓋ヲスル"
+    ],
+    "en": [
+      "cover (to). put the lid on"
+    ],
+    "source": "B",
+    "original": "takup> panukup"
+  },
+  {
+    "id": "2031",
+    "basay": "tal'aan",
+    "category": "06",
+    "zh": [
+      "用手接"
+    ],
+    "en": [
+      "receive"
+    ],
+    "source": "M",
+    "original": "taɭaan (M)"
+  },
+  {
+    "id": "2032",
+    "basay": "tal'ese",
+    "category": "07",
+    "zh": [
+      "魚籠"
+    ],
+    "en": [
+      "fish basket"
+    ],
+    "source": "M",
+    "original": "taɭese (M)"
+  },
+  {
+    "id": "0933",
+    "basay": "talahitakke",
+    "category": "05",
+    "zh": [
+      "奎恩"
+    ],
+    "ja": [
+      "アバズレ女"
+    ],
+    "en": [
+      "quean"
+    ],
+    "source": "B",
+    "original": "talahitakke"
+  },
+  {
+    "id": "0934",
+    "basay": "talainatte",
+    "category": "05",
+    "zh": [
+      "醫生"
+    ],
+    "ja": [
+      "医師"
+    ],
+    "en": [
+      "doctor"
+    ],
+    "source": "B",
+    "original": "talainatte"
+  },
+  {
+    "id": "2026",
+    "basay": "talainatte",
+    "category": "05",
+    "zh": [
+      "醫生"
+    ],
+    "en": [
+      "doctor"
+    ],
+    "source": "M",
+    "original": "talainatte (M)"
+  },
+  {
+    "id": "0935",
+    "basay": "talaktak",
+    "category": "25",
+    "zh": [
+      "切",
+      "砍",
+      "切碎"
+    ],
+    "ja": [
+      "キザム"
+    ],
+    "en": [
+      "cut. chop. chaff"
+    ],
+    "source": "B",
+    "original": "talaktak"
+  },
+  {
+    "id": "2027",
+    "basay": "tale",
+    "category": "08",
+    "zh": [
+      "芋頭，馬鈐薯"
+    ],
+    "en": [
+      "taro, potato"
+    ],
+    "source": "M",
+    "original": "tale (M)"
+  },
+  {
+    "id": "2029",
+    "basay": "talinunuan",
+    "category": "14",
+    "zh": [
+      "中央"
+    ],
+    "en": [
+      "center"
+    ],
+    "source": "M",
+    "original": "talinunuan (M)"
+  },
+  {
+    "id": "0939",
+    "basay": "talisusu",
+    "category": "11",
+    "zh": [
+      "被雨淋濕"
+    ],
+    "ja": [
+      "雨ニヌレル"
+    ],
+    "en": [
+      "wet (to get wet because of rain)"
+    ],
+    "source": "B",
+    "original": "talisusu"
+  },
+  {
+    "id": "0940",
+    "basay": "talisusu",
+    "category": "06",
+    "zh": [
+      "眼淚"
+    ],
+    "ja": [
+      "涙(目がタダレシトキニ出ル)"
+    ],
+    "en": [
+      "tears"
+    ],
+    "source": "B",
+    "original": "talisusu"
+  },
+  {
+    "id": "0941",
+    "basay": "talisusu",
+    "category": "25",
+    "zh": [
+      "倒"
+    ],
+    "ja": [
+      "注グ"
+    ],
+    "en": [
+      "pour (to)"
+    ],
+    "source": "B",
+    "original": "talisusu"
+  },
+  {
+    "id": "0942",
+    "basay": "talo",
+    "category": "25",
+    "zh": [
+      "隱藏"
+    ],
+    "ja": [
+      "カクス"
+    ],
+    "en": [
+      "hide"
+    ],
+    "source": "B",
+    "original": "talo"
+  },
+  {
+    "id": "2030",
+    "basay": "talo",
+    "category": "25",
+    "zh": [
+      "躲藏"
+    ],
+    "en": [
+      "hide"
+    ],
+    "source": "M",
+    "original": "talo(M)"
+  },
+  {
+    "id": "0936",
+    "basay": "talo'm",
+    "category": "21",
+    "zh": [
+      "鹹"
+    ],
+    "ja": [
+      "塩カラキ"
+    ],
+    "en": [
+      "salty"
+    ],
+    "source": "B",
+    "original": "taləm"
+  },
+  {
+    "id": "0937",
+    "basay": "talo'm",
+    "category": "11",
+    "zh": [
+      "鹽水"
+    ],
+    "ja": [
+      "塩水"
+    ],
+    "en": [
+      "salt water"
+    ],
+    "source": "B",
+    "original": "taləm"
+  },
+  {
+    "id": "2028",
+    "basay": "talo'm",
+    "category": "11",
+    "zh": [
+      "鹹，鹽水"
+    ],
+    "en": [
+      "salty, salt water"
+    ],
+    "source": "M",
+    "original": "taləm (M)"
+  },
+  {
+    "id": "0938",
+    "basay": "talo'm a baute",
+    "category": "07",
+    "zh": [
+      "鹹魚"
+    ],
+    "ja": [
+      "塩魚"
+    ],
+    "en": [
+      "salted fish"
+    ],
+    "source": "B",
+    "original": "taləm a baute"
+  },
+  {
+    "id": "0943",
+    "basay": "talukitin",
+    "category": "09",
+    "zh": [
+      "鞦韆"
+    ],
+    "ja": [
+      "ブランコ",
+      "ブラサガル"
+    ],
+    "en": [
+      "swing, trapeze"
+    ],
+    "source": "B",
+    "original": "talukitin"
+  },
+  {
+    "id": "2037",
+    "basay": "tam pay",
+    "category": "02",
+    "zh": [
+      "我們將"
+    ],
+    "en": [
+      "we will"
+    ],
+    "source": "T",
+    "original": "tam pay"
+  },
+  {
+    "id": "0944",
+    "basay": "tama",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "ja": [
+      "父"
+    ],
+    "en": [
+      "father"
+    ],
+    "source": "B",
+    "original": "tama"
+  },
+  {
+    "id": "2034",
+    "basay": "tama",
+    "category": "04",
+    "zh": [
+      "父親，叔父"
+    ],
+    "en": [
+      "father (reference),uncle"
+    ],
+    "source": "T",
+    "original": "tama"
+  },
+  {
+    "id": "0945",
+    "basay": "tama suani",
+    "category": "04",
+    "zh": [
+      "叔叔"
+    ],
+    "ja": [
+      "叔父"
+    ],
+    "en": [
+      "uncle"
+    ],
+    "source": "B",
+    "original": "tama suani"
+  },
+  {
+    "id": "2035",
+    "basay": "tamaan",
+    "category": "34",
+    "zh": [
+      "痊癒"
+    ],
+    "en": [
+      "recover completely"
+    ],
+    "source": "T",
+    "original": "tamaan"
+  },
+  {
+    "id": "2036",
+    "basay": "tamipapitsaan",
+    "category": "09",
+    "zh": [
+      "帶槍"
+    ],
+    "en": [
+      "take a gun"
+    ],
+    "source": "T",
+    "original": "tamipapitsaan"
+  },
+  {
+    "id": "0946",
+    "basay": "tamun",
+    "category": "27",
+    "zh": [
+      "配菜"
+    ],
+    "ja": [
+      "副食物"
+    ],
+    "en": [
+      "side-dish"
+    ],
+    "source": "B",
+    "original": "tamun"
+  },
+  {
+    "id": "2038",
+    "basay": "tamun",
+    "category": "09",
+    "zh": [
+      "配菜"
+    ],
+    "en": [
+      "side dish"
+    ],
+    "source": "T",
+    "original": "tamun"
+  },
+  {
+    "id": "0947",
+    "basay": "tamun'au",
+    "category": "09",
+    "zh": [
+      "棺材"
+    ],
+    "ja": [
+      "棺"
+    ],
+    "en": [
+      "coffin"
+    ],
+    "source": "B",
+    "original": "tamuŋau"
+  },
+  {
+    "id": "0948",
+    "basay": "tamus",
+    "category": "06",
+    "zh": [
+      "手指"
+    ],
+    "ja": [
+      "指"
+    ],
+    "en": [
+      "finger"
+    ],
+    "source": "B",
+    "original": "tamus"
+  },
+  {
+    "id": "2039",
+    "basay": "tamus",
+    "category": "06",
+    "zh": [
+      "手指頭"
+    ],
+    "en": [
+      "fìnger"
+    ],
+    "source": "M",
+    "original": "tamus (M)"
+  },
+  {
+    "id": "0950",
+    "basay": "tan'a",
+    "category": "25",
+    "zh": [
+      "打開"
+    ],
+    "ja": [
+      "開ケル 開く"
+    ],
+    "en": [
+      "open"
+    ],
+    "source": "B",
+    "original": "taŋa"
+  },
+  {
+    "id": "0951",
+    "basay": "tan'a",
+    "category": "25",
+    "zh": [
+      "打開"
+    ],
+    "ja": [
+      "開ク"
+    ],
+    "en": [
+      "open"
+    ],
+    "source": "B",
+    "original": "taŋa"
+  },
+  {
+    "id": "0952",
+    "basay": "tan'a",
+    "category": "09",
+    "zh": [
+      "鎖打開"
+    ],
+    "ja": [
+      "鍵をかける"
+    ],
+    "en": [
+      "lock (to) < open"
+    ],
+    "source": "B",
+    "original": "taŋa"
+  },
+  {
+    "id": "2041",
+    "basay": "tan'a",
+    "category": "34",
+    "zh": [
+      "屍體"
+    ],
+    "en": [
+      "corpse"
+    ],
+    "source": "S",
+    "original": "taŋa (S)"
+  },
+  {
+    "id": "2042",
+    "basay": "tan'a. tn'ai",
+    "category": "15",
+    "zh": [
+      "挖開"
+    ],
+    "en": [
+      "dig up"
+    ],
+    "source": "T",
+    "original": "taŋa. tŋai"
+  },
+  {
+    "id": "0953",
+    "basay": "tan'atan'a",
+    "category": "23",
+    "zh": [
+      "笑"
+    ],
+    "ja": [
+      "笑フ"
+    ],
+    "en": [
+      "laugh"
+    ],
+    "source": "B",
+    "original": "taŋataŋa"
+  },
+  {
+    "id": "2043",
+    "basay": "tan'tan'a",
+    "category": "23",
+    "zh": [
+      "笑，開玩笑"
+    ],
+    "en": [
+      "laughing, joke (to)"
+    ],
+    "source": "T",
+    "original": "taŋtaŋa"
+  },
+  {
+    "id": "0949",
+    "basay": "tanan'-na",
+    "category": "25",
+    "zh": [
+      "離開"
+    ],
+    "ja": [
+      "出発シタ"
+    ],
+    "en": [
+      "departed"
+    ],
+    "source": "B",
+    "original": "tanaŋ-na"
+  },
+  {
+    "id": "2068",
+    "basay": "tanas",
+    "category": "07",
+    "zh": [
+      "蜥蜴，昆蟲"
+    ],
+    "en": [
+      "lizard, insects"
+    ],
+    "source": "M",
+    "original": "tanas (M)"
+  },
+  {
+    "id": "0954",
+    "basay": "tanha",
+    "category": "29",
+    "zh": [
+      "沒有慾望"
+    ],
+    "ja": [
+      "不欲"
+    ],
+    "en": [
+      "no desire"
+    ],
+    "source": "B",
+    "original": "tanha"
+  },
+  {
+    "id": "2040",
+    "basay": "tano'm | tanman | tatano'm",
+    "category": "17",
+    "zh": [
+      "埋，墓"
+    ],
+    "en": [
+      "bury, cemetery, tomb"
+    ],
+    "source": "T",
+    "original": "tanəm, tanman, tatanəm"
+  },
+  {
+    "id": "0959",
+    "basay": "tapjen'",
+    "category": "25",
+    "zh": [
+      "修補開縫"
+    ],
+    "ja": [
+      "ホコロビヲ直ス"
+    ],
+    "en": [
+      "mend open seam"
+    ],
+    "source": "B",
+    "original": "tapjeŋ"
+  },
+  {
+    "id": "0955",
+    "basay": "tapo'l'",
+    "category": "10",
+    "zh": [
+      "沙"
+    ],
+    "ja": [
+      "砂"
+    ],
+    "en": [
+      "sand"
+    ],
+    "source": "B",
+    "original": "tapəl'"
+  },
+  {
+    "id": "0956",
+    "basay": "tapo'lᵒ | tapo't",
+    "category": "10",
+    "zh": [
+      "土壤",
+      "礫石"
+    ],
+    "ja": [
+      "土",
+      "砂"
+    ],
+    "en": [
+      "soill, gravel"
+    ],
+    "source": "B",
+    "original": "tapəlᵒ, tapət"
+  },
+  {
+    "id": "0957",
+    "basay": "tapo's",
+    "category": "28",
+    "zh": [
+      "吐"
+    ],
+    "ja": [
+      "唾 verb"
+    ],
+    "en": [
+      "spit (to)"
+    ],
+    "source": "B",
+    "original": "tapəs"
+  },
+  {
+    "id": "2045",
+    "basay": "tapo's",
+    "category": "28",
+    "zh": [
+      "吐唾液，唾液"
+    ],
+    "en": [
+      "spit (to), spit"
+    ],
+    "source": "M",
+    "original": "tapəs (M)"
+  },
+  {
+    "id": "0958",
+    "basay": "tapo'se",
+    "category": "25",
+    "zh": [
+      "部分出"
+    ],
+    "ja": [
+      "振り分ケル"
+    ],
+    "en": [
+      "portion out (to)"
+    ],
+    "source": "B",
+    "original": "tapəse"
+  },
+  {
+    "id": "0960",
+    "basay": "taputse | tapo's | tappo'sse",
+    "category": "28",
+    "zh": [
+      "吐"
+    ],
+    "ja": [
+      "唾"
+    ],
+    "en": [
+      "spit"
+    ],
+    "source": "B",
+    "original": "taputse, tapəs,tappəsse"
+  },
+  {
+    "id": "2046",
+    "basay": "taqan",
+    "category": "08",
+    "zh": [
+      "枝，所以"
+    ],
+    "en": [
+      "branch, therefore"
+    ],
+    "source": "T",
+    "original": "taqan"
+  },
+  {
+    "id": "2047",
+    "basay": "taqo'l",
+    "category": "10",
+    "zh": [
+      "山，頂"
+    ],
+    "en": [
+      "mouniain, top"
+    ],
+    "source": "T",
+    "original": "taqəl"
+  },
+  {
+    "id": "2048",
+    "basay": "taqo'l",
+    "category": "18",
+    "zh": [
+      "絲"
+    ],
+    "en": [
+      "yarn"
+    ],
+    "source": "M",
+    "original": "taqəl (M)"
+  },
+  {
+    "id": "2049",
+    "basay": "tarakok",
+    "category": "07",
+    "zh": [
+      "雞"
+    ],
+    "en": [
+      "chicken"
+    ],
+    "source": "S",
+    "original": "tarakok (S)"
+  },
+  {
+    "id": "0961",
+    "basay": "taram",
+    "category": "25",
+    "zh": [
+      "回答"
+    ],
+    "ja": [
+      "苔"
+    ],
+    "en": [
+      "answer"
+    ],
+    "source": "B",
+    "original": "taram"
+  },
+  {
+    "id": "0962",
+    "basay": "tarisi",
+    "category": "07",
+    "zh": [
+      "魚籃"
+    ],
+    "ja": [
+      "ピク"
+    ],
+    "en": [
+      "fish basket"
+    ],
+    "source": "B",
+    "original": "tarisi"
+  },
+  {
+    "id": "0963",
+    "basay": "tarukitin",
+    "category": "18",
+    "zh": [
+      "裝飾髮夾"
+    ],
+    "ja": [
+      "カンザシ",
+      "< 垂レル"
+    ],
+    "en": [
+      "ornamental hairpin"
+    ],
+    "source": "B",
+    "original": "tarukitin"
+  },
+  {
+    "id": "1751",
+    "basay": "taruq",
+    "category": "08",
+    "zh": [
+      "插秧"
+    ],
+    "en": [
+      "transplant rice"
+    ],
+    "source": "T",
+    "original": "patazuq (S), taruq, taruqa, tazuk"
+  },
+  {
+    "id": "1752",
+    "basay": "taruqa",
+    "category": "08",
+    "zh": [
+      "插秧"
+    ],
+    "en": [
+      "transplant rice"
+    ],
+    "source": "T",
+    "original": "patazuq (S), taruq, taruqa, tazuk"
+  },
+  {
+    "id": "0964",
+    "basay": "tasau | pina tasau isu",
+    "category": "03",
+    "zh": [
+      "年齡，你幾歲了？"
+    ],
+    "ja": [
+      "歳"
+    ],
+    "en": [
+      "age, <How old are you?>"
+    ],
+    "source": "B",
+    "original": "tasau, <pina tasau isu>"
+  },
+  {
+    "id": "0965",
+    "basay": "tasau | tatasau",
+    "category": "03",
+    "zh": [
+      "年份",
+      "年齡"
+    ],
+    "ja": [
+      "<何歳デスカ.> 年, 歳"
+    ],
+    "en": [
+      "year, age"
+    ],
+    "source": "B",
+    "original": "tasau, tatasau"
+  },
+  {
+    "id": "0966",
+    "basay": "tasse",
+    "category": "21",
+    "zh": [
+      "鹽"
+    ],
+    "ja": [
+      "塩"
+    ],
+    "en": [
+      "salt"
+    ],
+    "source": "B",
+    "original": "tasse"
+  },
+  {
+    "id": "0967",
+    "basay": "tasse",
+    "category": "21",
+    "zh": [
+      "鹽"
+    ],
+    "ja": [
+      "塩"
+    ],
+    "en": [
+      "salt"
+    ],
+    "source": "B",
+    "original": "tasse"
+  },
+  {
+    "id": "0968",
+    "basay": "tata",
+    "category": "25",
+    "zh": [
+      "落下"
+    ],
+    "ja": [
+      "落チル"
+    ],
+    "en": [
+      "fall"
+    ],
+    "source": "B",
+    "original": "tata"
+  },
+  {
+    "id": "0969",
+    "basay": "tata",
+    "category": "25",
+    "zh": [
+      "落下"
+    ],
+    "ja": [
+      "墜落スル"
+    ],
+    "en": [
+      "fall (to)"
+    ],
+    "source": "B",
+    "original": "tata"
+  },
+  {
+    "id": "2050",
+    "basay": "tata | tatatan",
+    "category": "14",
+    "zh": [
+      "丟下，掉"
+    ],
+    "en": [
+      "drop, fall"
+    ],
+    "source": "T",
+    "original": "tata, tatatan"
+  },
+  {
+    "id": "0970",
+    "basay": "tatak | tatakke",
+    "category": "07",
+    "zh": [
+      "鹿"
+    ],
+    "ja": [
+      "鹿"
+    ],
+    "en": [
+      "deer"
+    ],
+    "source": "B",
+    "original": "tatak, tatakke"
+  },
+  {
+    "id": "2051",
+    "basay": "tatakka",
+    "category": "15",
+    "zh": [
+      "闕"
+    ],
+    "en": [
+      "hoe"
+    ],
+    "source": "T",
+    "original": "tatakka"
+  },
+  {
+    "id": "0971",
+    "basay": "tatasawai",
+    "category": "13",
+    "zh": [
+      "明年"
+    ],
+    "ja": [
+      "来年"
+    ],
+    "en": [
+      "next year"
+    ],
+    "source": "B",
+    "original": "tatasawai"
+  },
+  {
+    "id": "0972",
+    "basay": "tatisib",
+    "category": "18",
+    "zh": [
+      "腰帶",
+      "配戴"
+    ],
+    "ja": [
+      "オビ",
+      "(袴ヲ) ハク"
+    ],
+    "en": [
+      "belt, wear (to)"
+    ],
+    "source": "B",
+    "original": "tatisib"
+  },
+  {
+    "id": "0973",
+    "basay": "tatisin",
+    "category": "35",
+    "zh": [
+      "蹣跚",
+      "不穩定"
+    ],
+    "ja": [
+      "グラック",
+      "不安定",
+      "傾ｸ"
+    ],
+    "en": [
+      "totter. unstable"
+    ],
+    "source": "B",
+    "original": "tatisin"
+  },
+  {
+    "id": "0974",
+    "basay": "taton'-pet",
+    "category": "25",
+    "zh": [
+      "碰撞",
+      "打"
+    ],
+    "ja": [
+      "凹凸アリブツカル"
+    ],
+    "en": [
+      "collide. hit"
+    ],
+    "source": "B",
+    "original": "tatoŋ-pet"
+  },
+  {
+    "id": "0975",
+    "basay": "taton'pel'",
+    "category": "25",
+    "zh": [
+      "打擊",
+      "對抗"
+    ],
+    "ja": [
+      "ブツカル"
+    ],
+    "en": [
+      "hit against. run against"
+    ],
+    "source": "B",
+    "original": "tatoŋpel'"
+  },
+  {
+    "id": "0976",
+    "basay": "taton'pet",
+    "category": "25",
+    "zh": [
+      "絆倒"
+    ],
+    "ja": [
+      "躓ク"
+    ],
+    "en": [
+      "stumble (to)"
+    ],
+    "source": "B",
+    "original": "tatoŋpet"
+  },
+  {
+    "id": "2052",
+    "basay": "tatvan",
+    "category": "11",
+    "zh": [
+      "昨日"
+    ],
+    "en": [
+      "yesterday"
+    ],
+    "source": "T",
+    "original": "tatvan, tavan (M)"
+  },
+  {
+    "id": "0977",
+    "basay": "tau",
+    "category": "05",
+    "zh": [
+      "人"
+    ],
+    "ja": [
+      "人"
+    ],
+    "en": [
+      "human being"
+    ],
+    "source": "B",
+    "original": "tau"
+  },
+  {
+    "id": "0978",
+    "basay": "tau-tau",
+    "category": "05",
+    "zh": [
+      "客人"
+    ],
+    "ja": [
+      "客"
+    ],
+    "en": [
+      "guest"
+    ],
+    "source": "B",
+    "original": "tau-tau"
+  },
+  {
+    "id": "0979",
+    "basay": "tauha. | tauha koman",
+    "category": "27",
+    "zh": [
+      "不想要"
+    ],
+    "ja": [
+      "不欲. <食へタクナシ>"
+    ],
+    "en": [
+      "not want"
+    ],
+    "source": "B",
+    "original": "tauha. <tauha koman>"
+  },
+  {
+    "id": "2054",
+    "basay": "taval | taval'taval'",
+    "category": "13",
+    "zh": [
+      "早上"
+    ],
+    "en": [
+      "morning"
+    ],
+    "source": "T",
+    "original": "taval, tavaɭtavaɭ"
+  },
+  {
+    "id": "2053",
+    "basay": "tavan",
+    "category": "11",
+    "zh": [
+      "昨日"
+    ],
+    "en": [
+      "yesterday"
+    ],
+    "source": "M",
+    "original": "tatvan, tavan (M)"
+  },
+  {
+    "id": "2055",
+    "basay": "tavli",
+    "category": "25",
+    "zh": [
+      "扔掉"
+    ],
+    "en": [
+      "throw"
+    ],
+    "source": "T",
+    "original": "tavli"
+  },
+  {
+    "id": "1782",
+    "basay": "tavo'l",
+    "category": "25",
+    "zh": [
+      "丟失"
+    ],
+    "en": [
+      "lose"
+    ],
+    "source": "M",
+    "original": "pqamiamia, tavəl (M)"
+  },
+  {
+    "id": "0980",
+    "basay": "tavo'l'",
+    "category": "25",
+    "zh": [
+      "丟棄"
+    ],
+    "ja": [
+      "捨テル"
+    ],
+    "en": [
+      "throw away"
+    ],
+    "source": "B",
+    "original": "tavəl'"
+  },
+  {
+    "id": "2057",
+    "basay": "tavotavo",
+    "category": "25",
+    "zh": [
+      "劈開"
+    ],
+    "en": [
+      "chop, cut"
+    ],
+    "source": "T",
+    "original": "tavotavo"
+  },
+  {
+    "id": "2058",
+    "basay": "tawan",
+    "category": "05",
+    "zh": [
+      "請客•招待"
+    ],
+    "en": [
+      "entertain"
+    ],
+    "source": "T",
+    "original": "tawan"
+  },
+  {
+    "id": "2056",
+    "basay": "tawiz",
+    "category": "09",
+    "zh": [
+      "鈕扣"
+    ],
+    "en": [
+      "button"
+    ],
+    "source": "M",
+    "original": "tawiz (M)"
+  },
+  {
+    "id": "2059",
+    "basay": "tayta",
+    "category": "28",
+    "zh": [
+      "看見"
+    ],
+    "en": [
+      "look"
+    ],
+    "source": "S",
+    "original": "tayta (S)"
+  },
+  {
+    "id": "2033",
+    "basay": "taz'i mau",
+    "category": "25",
+    "zh": [
+      "貯存"
+    ],
+    "en": [
+      "store (to)"
+    ],
+    "source": "M",
+    "original": "taɮi mau (M)"
+  },
+  {
+    "id": "2060",
+    "basay": "tazian",
+    "category": "02",
+    "zh": [
+      "這裏"
+    ],
+    "en": [
+      "here"
+    ],
+    "source": "S",
+    "original": "tazian (S), zaay, zala"
+  },
+  {
+    "id": "1753",
+    "basay": "tazuk",
+    "category": "08",
+    "zh": [
+      "插秧"
+    ],
+    "en": [
+      "transplant rice"
+    ],
+    "source": "T",
+    "original": "patazuq (S), taruq, taruqa, tazuk"
+  },
+  {
+    "id": "2063",
+    "basay": "tazusa tao",
+    "category": "17",
+    "zh": [
+      "靈魂"
+    ],
+    "en": [
+      "soul"
+    ],
+    "source": "M",
+    "original": "tazusa tao (M)"
+  },
+  {
+    "id": "0981",
+    "basay": "tebol'",
+    "category": "14",
+    "zh": [
+      "南",
+      "東"
+    ],
+    "ja": [
+      "南",
+      "東. アミ.(ka-timor)"
+    ],
+    "en": [
+      "south, east"
+    ],
+    "source": "B",
+    "original": "tebol'"
+  },
+  {
+    "id": "2064",
+    "basay": "teen",
+    "category": "06",
+    "zh": [
+      "相反的，背面"
+    ],
+    "en": [
+      "reverse, back"
+    ],
+    "source": "M",
+    "original": "teen (M)"
+  },
+  {
+    "id": "0982",
+    "basay": "tehol'",
+    "category": "25",
+    "zh": [
+      "拐杖"
+    ],
+    "ja": [
+      "杖 アミ (tsakor¯ )"
+    ],
+    "en": [
+      "walking stick"
+    ],
+    "source": "B",
+    "original": "tehol'"
+  },
+  {
+    "id": "2065",
+    "basay": "tel'ol'u vautu",
+    "category": "07",
+    "zh": [
+      "魚卵"
+    ],
+    "en": [
+      "eggs of fish"
+    ],
+    "source": "M",
+    "original": "teɭoɭu vautu (M)"
+  },
+  {
+    "id": "1956",
+    "basay": "tel'otsa",
+    "category": "07",
+    "zh": [
+      "占卜烏"
+    ],
+    "en": [
+      "omen bird"
+    ],
+    "source": "M",
+    "original": "sisiŋ, teɭotsa (M)"
+  },
+  {
+    "id": "0983",
+    "basay": "telod'",
+    "category": "07",
+    "zh": [
+      "蛋"
+    ],
+    "ja": [
+      "卵"
+    ],
+    "en": [
+      "egg"
+    ],
+    "source": "B",
+    "original": "telod'"
+  },
+  {
+    "id": "0984",
+    "basay": "telotsa",
+    "category": "07",
+    "zh": [
+      "算命鳥"
+    ],
+    "ja": [
+      "占鳥"
+    ],
+    "en": [
+      "fortune telling bird"
+    ],
+    "source": "B",
+    "original": "telotsa"
+  },
+  {
+    "id": "0985",
+    "basay": "ten",
+    "category": "06",
+    "zh": [
+      "後退"
+    ],
+    "ja": [
+      "後"
+    ],
+    "en": [
+      "back"
+    ],
+    "source": "B",
+    "original": "ten"
+  },
+  {
+    "id": "0986",
+    "basay": "ten",
+    "category": "06",
+    "zh": [
+      "後退"
+    ],
+    "ja": [
+      "後"
+    ],
+    "en": [
+      "back"
+    ],
+    "source": "B",
+    "original": "ten"
+  },
+  {
+    "id": "0991",
+    "basay": "ten'",
+    "category": "13",
+    "zh": [
+      "中午"
+    ],
+    "ja": [
+      "正午"
+    ],
+    "en": [
+      "noon"
+    ],
+    "source": "B",
+    "original": "teŋ"
+  },
+  {
+    "id": "0987",
+    "basay": "ten. | mita ten",
+    "category": "06",
+    "zh": [
+      "落後",
+      "後退"
+    ],
+    "ja": [
+      "後方 <吾々ノ後>"
+    ],
+    "en": [
+      "backward. back"
+    ],
+    "source": "B",
+    "original": "ten. <mita ten>"
+  },
+  {
+    "id": "0988",
+    "basay": "tenai",
+    "category": "14",
+    "zh": [
+      "腸子"
+    ],
+    "ja": [
+      "腸］,内臓"
+    ],
+    "en": [
+      "intestines"
+    ],
+    "source": "B",
+    "original": "tenai"
+  },
+  {
+    "id": "0989",
+    "basay": "tenajen",
+    "category": "08",
+    "zh": [
+      "竹子",
+      "竹籬笆"
+    ],
+    "ja": [
+      "竹,竹垣"
+    ],
+    "en": [
+      "bamboo, bamboo fence"
+    ],
+    "source": "B",
+    "original": "tenajen"
+  },
+  {
+    "id": "2066",
+    "basay": "teten | tumeten",
+    "category": "06",
+    "zh": [
+      "背，扛"
+    ],
+    "en": [
+      "carry on back"
+    ],
+    "source": "T",
+    "original": "teten， tumeten"
+  },
+  {
+    "id": "0992",
+    "basay": "tetenan",
+    "category": "20",
+    "zh": [
+      "轎子"
+    ],
+    "ja": [
+      "輿"
+    ],
+    "en": [
+      "palanquin"
+    ],
+    "source": "B",
+    "original": "tetenan"
+  },
+  {
+    "id": "2067",
+    "basay": "tetenan < teten",
+    "category": "34",
+    "zh": [
+      "轎子"
+    ],
+    "en": [
+      "palankeen, sedan"
+    ],
+    "source": "M",
+    "original": "tetenan < teten (M)"
+  },
+  {
+    "id": "0993",
+    "basay": "tettet | lin'ate",
+    "category": "25",
+    "zh": [
+      "落下"
+    ],
+    "ja": [
+      "オトス"
+    ],
+    "en": [
+      "fall"
+    ],
+    "source": "B",
+    "original": "tettet, liŋate(?)"
+  },
+  {
+    "id": "2069",
+    "basay": "tian",
+    "category": "06",
+    "zh": [
+      "腹部"
+    ],
+    "en": [
+      "belly"
+    ],
+    "source": "T",
+    "original": "tian"
+  },
+  {
+    "id": "2070",
+    "basay": "tianan",
+    "category": "02",
+    "zh": [
+      "咱們（斜格）"
+    ],
+    "en": [
+      "us (inclusive)"
+    ],
+    "source": "T",
+    "original": "tianan"
+  },
+  {
+    "id": "0994",
+    "basay": "tibasa",
+    "category": "29",
+    "zh": [
+      "太好了"
+    ],
+    "ja": [
+      "惜シクテ出来ナイ"
+    ],
+    "en": [
+      "too good to do"
+    ],
+    "source": "B",
+    "original": "tibasa"
+  },
+  {
+    "id": "0995",
+    "basay": "tiha",
+    "category": "12",
+    "zh": [
+      "屋瓦"
+    ],
+    "ja": [
+      "瓦"
+    ],
+    "en": [
+      "tile (on the roof)"
+    ],
+    "source": "B",
+    "original": "tiha"
+  },
+  {
+    "id": "2071",
+    "basay": "tiik",
+    "category": "11",
+    "zh": [
+      "點火"
+    ],
+    "en": [
+      "candle, set fire"
+    ],
+    "source": "M",
+    "original": "tiik (M)(< Taiwanese)"
+  },
+  {
+    "id": "0996",
+    "basay": "tijan",
+    "category": "06",
+    "zh": [
+      "腹部",
+      "腹部"
+    ],
+    "ja": [
+      "腹"
+    ],
+    "en": [
+      "belly. abdomen"
+    ],
+    "source": "B",
+    "original": "tijan"
+  },
+  {
+    "id": "0997",
+    "basay": "tijan | tjɛn",
+    "category": "06",
+    "zh": [
+      "腹部"
+    ],
+    "ja": [
+      "ハラ"
+    ],
+    "en": [
+      "belly"
+    ],
+    "source": "B",
+    "original": "tijan, tjɛn"
+  },
+  {
+    "id": "0998",
+    "basay": "tijen",
+    "category": "06",
+    "zh": [
+      "腹部"
+    ],
+    "ja": [
+      "ハラ"
+    ],
+    "en": [
+      "belly"
+    ],
+    "source": "B",
+    "original": "tijen"
+  },
+  {
+    "id": "2072",
+    "basay": "tikas",
+    "category": "34",
+    "zh": [
+      "捕捉"
+    ],
+    "en": [
+      "entrap"
+    ],
+    "source": "T",
+    "original": "tikas, tumikas (M)"
+  },
+  {
+    "id": "0999",
+    "basay": "tilawakke | jaku tilawakke",
+    "category": "25",
+    "zh": [
+      "絆倒"
+    ],
+    "ja": [
+      "つまづく"
+    ],
+    "en": [
+      "stump (1)"
+    ],
+    "source": "B",
+    "original": "tilawakke, <jaku tilawakke>"
+  },
+  {
+    "id": "1000",
+    "basay": "tili",
+    "category": "05",
+    "zh": [
+      "老婦人",
+      "編織姿勢"
+    ],
+    "ja": [
+      "老女, 籠ヲサゲテ糸ヲツムグ姿"
+    ],
+    "en": [
+      "old woman. posture of weaving"
+    ],
+    "source": "B",
+    "original": "tili"
+  },
+  {
+    "id": "1001",
+    "basay": "tiliptilip",
+    "category": "25",
+    "zh": [
+      "小跑步"
+    ],
+    "ja": [
+      "アシブミ"
+    ],
+    "en": [
+      "trot"
+    ],
+    "source": "B",
+    "original": "tiliptilip"
+  },
+  {
+    "id": "1002",
+    "basay": "tiliptip",
+    "category": "05",
+    "zh": [
+      "男子舞蹈",
+      "跳躍"
+    ],
+    "ja": [
+      "跳躍,男ノ踊"
+    ],
+    "en": [
+      "dance (man). jump"
+    ],
+    "source": "B",
+    "original": "tiliptip"
+  },
+  {
+    "id": "1003",
+    "basay": "tiliptip",
+    "category": "25",
+    "zh": [
+      "洩漏"
+    ],
+    "ja": [
+      "漏ル",
+      "ポツリポッリトオチル"
+    ],
+    "en": [
+      "leak (to)"
+    ],
+    "source": "B",
+    "original": "tiliptip"
+  },
+  {
+    "id": "2074",
+    "basay": "timalmal",
+    "category": "25",
+    "zh": [
+      "尋找"
+    ],
+    "en": [
+      "search"
+    ],
+    "source": "S",
+    "original": "timalmal (S)"
+  },
+  {
+    "id": "1004",
+    "basay": "timase sumai",
+    "category": "27",
+    "zh": [
+      "剩下的食物"
+    ],
+    "ja": [
+      "残飯"
+    ],
+    "en": [
+      "leftover food"
+    ],
+    "source": "B",
+    "original": "timase sumai"
+  },
+  {
+    "id": "1005",
+    "basay": "timasse",
+    "category": "14",
+    "zh": [
+      "保持",
+      "剩下的"
+    ],
+    "ja": [
+      "残ル"
+    ],
+    "en": [
+      "remain. left over"
+    ],
+    "source": "B",
+    "original": "timasse"
+  },
+  {
+    "id": "2075",
+    "basay": "timayku",
+    "category": "02",
+    "zh": [
+      "我（斜格〉"
+    ],
+    "en": [
+      "1 (obl)"
+    ],
+    "source": "T",
+    "original": "timayku"
+  },
+  {
+    "id": "2076",
+    "basay": "timaysu",
+    "category": "02",
+    "zh": [
+      "你（斜格）"
+    ],
+    "en": [
+      "you (OBL)"
+    ],
+    "source": "T",
+    "original": "timaysu"
+  },
+  {
+    "id": "2077",
+    "basay": "timl'a",
+    "category": "07",
+    "zh": [
+      "跳蚤"
+    ],
+    "en": [
+      "flea"
+    ],
+    "source": "M",
+    "original": "timɭa (M)"
+  },
+  {
+    "id": "2078",
+    "basay": "timu",
+    "category": "02",
+    "zh": [
+      "你們"
+    ],
+    "en": [
+      "you (pl)"
+    ],
+    "source": "T",
+    "original": "timu"
+  },
+  {
+    "id": "1009",
+    "basay": "tin'-nan",
+    "category": "06",
+    "zh": [
+      "脖子",
+      "喉"
+    ],
+    "ja": [
+      "首,ノド"
+    ],
+    "en": [
+      "neck. throat"
+    ],
+    "source": "B",
+    "original": "tiŋ-nan"
+  },
+  {
+    "id": "2079",
+    "basay": "tina",
+    "category": "04",
+    "zh": [
+      "母親"
+    ],
+    "en": [
+      "mother (reference)"
+    ],
+    "source": "T",
+    "original": "tina"
+  },
+  {
+    "id": "1006",
+    "basay": "tina | palatalize セズ",
+    "category": "04",
+    "zh": [
+      "母親"
+    ],
+    "ja": [
+      "母"
+    ],
+    "en": [
+      "mother"
+    ],
+    "source": "B",
+    "original": "tina (palatalize セズ)"
+  },
+  {
+    "id": "1007",
+    "basay": "tinalikke",
+    "category": "08",
+    "zh": [
+      "年糕"
+    ],
+    "ja": [
+      "餅"
+    ],
+    "en": [
+      "rice cake"
+    ],
+    "source": "B",
+    "original": "tinalikke"
+  },
+  {
+    "id": "1008",
+    "basay": "tinaune",
+    "category": "05",
+    "zh": [
+      "陰道"
+    ],
+    "ja": [
+      "女陰"
+    ],
+    "en": [
+      "vagina"
+    ],
+    "source": "B",
+    "original": "tinaune"
+  },
+  {
+    "id": "2080",
+    "basay": "tino's",
+    "category": "06",
+    "zh": [
+      "脊椎神經"
+    ],
+    "en": [
+      "spinal cord"
+    ],
+    "source": "M",
+    "original": "tinəs (M)"
+  },
+  {
+    "id": "2081",
+    "basay": "tiqul",
+    "category": "06",
+    "zh": [
+      "手杖"
+    ],
+    "en": [
+      "stick (S)"
+    ],
+    "source": "T",
+    "original": "tiqul"
+  },
+  {
+    "id": "2082",
+    "basay": "tisin",
+    "category": "01",
+    "zh": [
+      "一半"
+    ],
+    "en": [
+      "half"
+    ],
+    "source": "T",
+    "original": "tisin"
+  },
+  {
+    "id": "2083",
+    "basay": "tisin",
+    "category": "10",
+    "zh": [
+      "對岸"
+    ],
+    "en": [
+      "across the river"
+    ],
+    "source": "M",
+    "original": "tisin (M)"
+  },
+  {
+    "id": "1010",
+    "basay": "tisup",
+    "category": "18",
+    "zh": [
+      "腰帶"
+    ],
+    "ja": [
+      "帯",
+      "オピヲシメル"
+    ],
+    "en": [
+      "belt"
+    ],
+    "source": "B",
+    "original": "tisup"
+  },
+  {
+    "id": "2084",
+    "basay": "tivai",
+    "category": "18",
+    "zh": [
+      "腰布"
+    ],
+    "en": [
+      "loincloth"
+    ],
+    "source": "M",
+    "original": "tivai (M)"
+  },
+  {
+    "id": "1011",
+    "basay": "tjajatsoa",
+    "category": "03",
+    "zh": [
+      "世界衛生組織"
+    ],
+    "ja": [
+      "誰"
+    ],
+    "en": [
+      "who"
+    ],
+    "source": "B",
+    "original": "tjajatsoa"
+  },
+  {
+    "id": "2085",
+    "basay": "tlail",
+    "category": "19",
+    "zh": [
+      "跳舞"
+    ],
+    "en": [
+      "dance"
+    ],
+    "source": "T",
+    "original": "tlail"
+  },
+  {
+    "id": "2089",
+    "basay": "tmalik",
+    "category": "08",
+    "zh": [
+      "作麻糬"
+    ],
+    "en": [
+      "make rice cake"
+    ],
+    "source": "T",
+    "original": "tmalik"
+  },
+  {
+    "id": "2090",
+    "basay": "tmaqa | tmaq | tmo'qa",
+    "category": "27",
+    "zh": [
+      "烤"
+    ],
+    "en": [
+      "roast"
+    ],
+    "source": "T",
+    "original": "tmaqa, tmaq, tməqa"
+  },
+  {
+    "id": "2091",
+    "basay": "tmaqsam",
+    "category": "08",
+    "zh": [
+      "種子"
+    ],
+    "en": [
+      "seed"
+    ],
+    "source": "M",
+    "original": "tmaqsam (M)"
+  },
+  {
+    "id": "2092",
+    "basay": "tmavo'li",
+    "category": "25",
+    "zh": [
+      "扔掉"
+    ],
+    "en": [
+      "throw"
+    ],
+    "source": "T",
+    "original": "tmavəli"
+  },
+  {
+    "id": "2093",
+    "basay": "tmawal",
+    "category": "11",
+    "zh": [
+      "暴風雨"
+    ],
+    "en": [
+      "storm"
+    ],
+    "source": "M",
+    "original": "tmawal (M)"
+  },
+  {
+    "id": "2095",
+    "basay": "tmuzun",
+    "category": "08",
+    "zh": [
+      "煮糯米飯"
+    ],
+    "en": [
+      "cook glutinous rice"
+    ],
+    "source": "T",
+    "original": "tmuzun"
+  },
+  {
+    "id": "2096",
+    "basay": "tnajan",
+    "category": "08",
+    "zh": [
+      "竹子"
+    ],
+    "en": [
+      "bamboo"
+    ],
+    "source": "M",
+    "original": "tnajan (M), tnayan"
+  },
+  {
+    "id": "2097",
+    "basay": "tnayan",
+    "category": "08",
+    "zh": [
+      "竹子"
+    ],
+    "en": [
+      "bamboo"
+    ],
+    "source": "T",
+    "original": "tnajan (M), tnayan"
+  },
+  {
+    "id": "0990",
+    "basay": "to'nasse",
+    "category": "07",
+    "zh": [
+      "樹液",
+      "湯"
+    ],
+    "ja": [
+      "(木ノ) 汁",
+      "(魚ノ) 汁",
+      "ダシ"
+    ],
+    "en": [
+      "sap. soup"
+    ],
+    "source": "B",
+    "original": "tənasse"
+  },
+  {
+    "id": "2044",
+    "basay": "to'po'l",
+    "category": "10",
+    "zh": [
+      "土，沙"
+    ],
+    "en": [
+      "earth, soil, gravel"
+    ],
+    "source": "T",
+    "original": "təpəl"
+  },
+  {
+    "id": "1012",
+    "basay": "toban",
+    "category": "11",
+    "zh": [
+      "明天"
+    ],
+    "ja": [
+      "明日"
+    ],
+    "en": [
+      "tomorrow"
+    ],
+    "source": "B",
+    "original": "toban"
+  },
+  {
+    "id": "1013",
+    "basay": "toktogan",
+    "category": "09",
+    "zh": [
+      "鐵"
+    ],
+    "ja": [
+      "鉄"
+    ],
+    "en": [
+      "iron"
+    ],
+    "source": "B",
+    "original": "toktogan"
+  },
+  {
+    "id": "1014",
+    "basay": "toktok",
+    "category": "25",
+    "zh": [
+      "打"
+    ],
+    "ja": [
+      "叩く"
+    ],
+    "en": [
+      "hit (to)"
+    ],
+    "source": "B",
+    "original": "toktok"
+  },
+  {
+    "id": "2099",
+    "basay": "tol'us",
+    "category": "23",
+    "zh": [
+      "喧鬧聲，吵鬧"
+    ],
+    "en": [
+      "noise"
+    ],
+    "source": "M",
+    "original": "toɭus (M)"
+  },
+  {
+    "id": "2098",
+    "basay": "tolan",
+    "category": "06",
+    "zh": [
+      "骨頭"
+    ],
+    "en": [
+      "bone"
+    ],
+    "source": "M",
+    "original": "tolan (M)"
+  },
+  {
+    "id": "1015",
+    "basay": "tolan | tolal",
+    "category": "06",
+    "zh": [
+      "骨"
+    ],
+    "ja": [
+      "骨"
+    ],
+    "en": [
+      "bone"
+    ],
+    "source": "B",
+    "original": "tolan, tolal"
+  },
+  {
+    "id": "1016",
+    "basay": "tolon'ton'",
+    "category": "09",
+    "zh": [
+      "鼓"
+    ],
+    "ja": [
+      "タイコ"
+    ],
+    "en": [
+      "drum"
+    ],
+    "source": "B",
+    "original": "toloŋtoŋ"
+  },
+  {
+    "id": "1017",
+    "basay": "toluse",
+    "category": "28",
+    "zh": [
+      "聾"
+    ],
+    "ja": [
+      "聾"
+    ],
+    "en": [
+      "deaf."
+    ],
+    "source": "B",
+    "original": "toluse"
+  },
+  {
+    "id": "1018",
+    "basay": "tolusse",
+    "category": "24",
+    "zh": [
+      "吵鬧地說話"
+    ],
+    "ja": [
+      "ヤカマシク (話ス)"
+    ],
+    "en": [
+      "noisily (to speak)"
+    ],
+    "source": "B",
+    "original": "tolusse"
+  },
+  {
+    "id": "1019",
+    "basay": "tomai",
+    "category": "07",
+    "zh": [
+      "熊"
+    ],
+    "ja": [
+      "熊"
+    ],
+    "en": [
+      "bear (animal)"
+    ],
+    "source": "B",
+    "original": "tomai"
+  },
+  {
+    "id": "1020",
+    "basay": "toman'etse",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "哭"
+    ],
+    "ja": [
+      "泣ク"
+    ],
+    "en": [
+      "weep. cry"
+    ],
+    "source": "B",
+    "original": "tomaŋetse"
+  },
+  {
+    "id": "1021",
+    "basay": "toman'etse",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "流淚"
+    ],
+    "ja": [
+      "泣ク, 涙"
+    ],
+    "en": [
+      "cry, tears"
+    ],
+    "source": "B",
+    "original": "tomaŋetse"
+  },
+  {
+    "id": "1022",
+    "basay": "toptop",
+    "category": "09",
+    "zh": [
+      "斧頭"
+    ],
+    "ja": [
+      "斧 (?)"
+    ],
+    "en": [
+      "ax"
+    ],
+    "source": "B",
+    "original": "toptop (?)"
+  },
+  {
+    "id": "1023",
+    "basay": "tor-hok",
+    "category": "07",
+    "zh": [
+      "雞，公雞"
+    ],
+    "ja": [
+      "鶏"
+    ],
+    "en": [
+      "chicken, cock"
+    ],
+    "source": "B",
+    "original": "tor-hok"
+  },
+  {
+    "id": "1024",
+    "basay": "toran'",
+    "category": "05",
+    "zh": [
+      "放肆的女人/男人"
+    ],
+    "ja": [
+      "姦夫",
+      "姦婦"
+    ],
+    "en": [
+      "wanton woman/man"
+    ],
+    "source": "B",
+    "original": "toraŋ"
+  },
+  {
+    "id": "2100",
+    "basay": "tosaipola",
+    "category": "35",
+    "zh": [
+      "無助的"
+    ],
+    "en": [
+      "helpless"
+    ],
+    "source": "T",
+    "original": "tosaipola"
+  },
+  {
+    "id": "1025",
+    "basay": "totolan",
+    "category": "10",
+    "zh": [
+      "溝"
+    ],
+    "ja": [
+      "溝"
+    ],
+    "en": [
+      "ditch"
+    ],
+    "source": "B",
+    "original": "totolan"
+  },
+  {
+    "id": "2101",
+    "basay": "tozo",
+    "category": "11",
+    "zh": [
+      "漏水"
+    ],
+    "en": [
+      "leak (to)"
+    ],
+    "source": "M",
+    "original": "tozo (M)"
+  },
+  {
+    "id": "2102",
+    "basay": "tpurukka",
+    "category": "09",
+    "zh": [
+      "紙"
+    ],
+    "en": [
+      "paper"
+    ],
+    "source": "M",
+    "original": "tpurukka (M)"
+  },
+  {
+    "id": "2087",
+    "basay": "trai",
+    "category": "14",
+    "zh": [
+      "遠古，從前"
+    ],
+    "en": [
+      "ancient"
+    ],
+    "source": "S",
+    "original": "tɮai, trai (S), trayazay"
+  },
+  {
+    "id": "2088",
+    "basay": "trayazay",
+    "category": "14",
+    "zh": [
+      "遠古，從前"
+    ],
+    "en": [
+      "ancient"
+    ],
+    "source": "T",
+    "original": "tɮai, trai (S), trayazay"
+  },
+  {
+    "id": "2103",
+    "basay": "trena",
+    "category": "21",
+    "zh": [
+      "肉"
+    ],
+    "en": [
+      "meat"
+    ],
+    "source": "M",
+    "original": "trena (M)"
+  },
+  {
+    "id": "2104",
+    "basay": "trese",
+    "category": "08",
+    "zh": [
+      "竹籃"
+    ],
+    "en": [
+      "bamboo basket"
+    ],
+    "source": "M",
+    "original": "trese (M)"
+  },
+  {
+    "id": "1054",
+    "basay": "ts'epots'epo",
+    "category": "10",
+    "zh": [
+      "場地"
+    ],
+    "ja": [
+      "野原"
+    ],
+    "en": [
+      "field"
+    ],
+    "source": "B",
+    "original": "tʃepotʃepo"
+  },
+  {
+    "id": "1055",
+    "basay": "ts'ilats'ilakke",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "ja": [
+      "ナメル"
+    ],
+    "en": [
+      "lick"
+    ],
+    "source": "B",
+    "original": "tʃilatʃilakke"
+  },
+  {
+    "id": "1057",
+    "basay": "ts'imaija",
+    "category": "06",
+    "zh": [
+      "鰭"
+    ],
+    "ja": [
+      "ヒレ (手ニ似タル)"
+    ],
+    "en": [
+      "fin"
+    ],
+    "source": "B",
+    "original": "tʃimaija"
+  },
+  {
+    "id": "1058",
+    "basay": "ts'imtsa",
+    "category": "07",
+    "zh": [
+      "跳蚤"
+    ],
+    "ja": [
+      "蚤",
+      "アミ. (atimuLa)"
+    ],
+    "en": [
+      "flea"
+    ],
+    "source": "B",
+    "original": "tʃimtsa"
+  },
+  {
+    "id": "1059",
+    "basay": "ts'ip-ts'ippe",
+    "category": "25",
+    "zh": [
+      "吻"
+    ],
+    "ja": [
+      "キス】"
+    ],
+    "en": [
+      "kiss"
+    ],
+    "source": "B",
+    "original": "tʃip-tʃippe"
+  },
+  {
+    "id": "1060",
+    "basay": "ts'ipan'",
+    "category": "29",
+    "zh": [
+      "理解"
+    ],
+    "ja": [
+      "了解"
+    ],
+    "en": [
+      "understand"
+    ],
+    "source": "B",
+    "original": "tʃipaŋ"
+  },
+  {
+    "id": "1061",
+    "basay": "ts'ipan'",
+    "category": "06",
+    "zh": [
+      "無知的，不熟練的"
+    ],
+    "ja": [
+      "不知",
+      "下手"
+    ],
+    "en": [
+      "ignorant, unskillful"
+    ],
+    "source": "B",
+    "original": "tʃipaŋ"
+  },
+  {
+    "id": "1062",
+    "basay": "ts'ipan' na",
+    "category": "29",
+    "zh": [
+      "忘記"
+    ],
+    "ja": [
+      "忘レテシマッタ"
+    ],
+    "en": [
+      "forget"
+    ],
+    "source": "B",
+    "original": "tʃipaŋ na"
+  },
+  {
+    "id": "1063",
+    "basay": "ts'ipan' unu-unu",
+    "category": "29",
+    "zh": [
+      "無知"
+    ],
+    "ja": [
+      "何モ知ラヌ",
+      "失礼ナル"
+    ],
+    "en": [
+      "ignorant"
+    ],
+    "source": "B",
+    "original": "tʃipaŋ unu-unu"
+  },
+  {
+    "id": "1064",
+    "basay": "ts'iul'",
+    "category": "09",
+    "zh": [
+      "矛"
+    ],
+    "ja": [
+      "槍"
+    ],
+    "en": [
+      "spear"
+    ],
+    "source": "B",
+    "original": "tʃiul'"
+  },
+  {
+    "id": "1026",
+    "basay": "tsa",
+    "category": "01",
+    "zh": [
+      "一"
+    ],
+    "ja": [
+      "1"
+    ],
+    "en": [
+      "one"
+    ],
+    "source": "B",
+    "original": "tsa"
+  },
+  {
+    "id": "1027",
+    "basay": "tsa latsebo",
+    "category": "01",
+    "zh": [
+      "一百"
+    ],
+    "ja": [
+      "100"
+    ],
+    "en": [
+      "one-hundred"
+    ],
+    "source": "B",
+    "original": "tsa latsebo"
+  },
+  {
+    "id": "2147",
+    "basay": "tsa u z'ian",
+    "category": "11",
+    "zh": [
+      "後天"
+    ],
+    "en": [
+      "day after tomorrow"
+    ],
+    "source": "M",
+    "original": "tsa u ɮian (M)"
+  },
+  {
+    "id": "2146",
+    "basay": "tsa | uttsa | utsa",
+    "category": "01",
+    "zh": [
+      "一 (人，動物，月)"
+    ],
+    "en": [
+      "one (person, animal, month)"
+    ],
+    "source": "T",
+    "original": "tsa, uttsa, utsa"
+  },
+  {
+    "id": "2148",
+    "basay": "tsaai",
+    "category": "03",
+    "zh": [
+      "誰"
+    ],
+    "en": [
+      "who"
+    ],
+    "source": "M",
+    "original": "tsaai (M), tsay"
+  },
+  {
+    "id": "1028",
+    "basay": "tsabutsan",
+    "category": "02",
+    "zh": [
+      "本月"
+    ],
+    "ja": [
+      "今月"
+    ],
+    "en": [
+      "this month"
+    ],
+    "source": "B",
+    "original": "tsabutsan"
+  },
+  {
+    "id": "1029",
+    "basay": "tsahu",
+    "category": "09",
+    "zh": [
+      "鏟"
+    ],
+    "ja": [
+      "クワ"
+    ],
+    "en": [
+      "spade"
+    ],
+    "source": "B",
+    "original": "tsahu"
+  },
+  {
+    "id": "1030",
+    "basay": "tsaikaila",
+    "category": "03",
+    "zh": [
+      "世界衛生組織"
+    ],
+    "ja": [
+      "誰"
+    ],
+    "en": [
+      "who"
+    ],
+    "source": "B",
+    "original": "tsaikaila"
+  },
+  {
+    "id": "2150",
+    "basay": "tsakay",
+    "category": "25",
+    "zh": [
+      "回去"
+    ],
+    "en": [
+      "return"
+    ],
+    "source": "T",
+    "original": "tsakay"
+  },
+  {
+    "id": "1031",
+    "basay": "tsaki",
+    "category": "35",
+    "zh": [
+      "污垢"
+    ],
+    "ja": [
+      "垢, キタナイ"
+    ],
+    "en": [
+      "dirt"
+    ],
+    "source": "B",
+    "original": "tsaki"
+  },
+  {
+    "id": "2151",
+    "basay": "tsaki",
+    "category": "25",
+    "zh": [
+      "生鏽"
+    ],
+    "en": [
+      "rust (to)"
+    ],
+    "source": "M",
+    "original": "tsaki (M)"
+  },
+  {
+    "id": "1032",
+    "basay": "tsaku",
+    "category": "07",
+    "zh": [
+      "貓"
+    ],
+    "ja": [
+      "猫"
+    ],
+    "en": [
+      "cat"
+    ],
+    "source": "B",
+    "original": "tsaku"
+  },
+  {
+    "id": "1033",
+    "basay": "tsaku",
+    "category": "15",
+    "zh": [
+      "挖"
+    ],
+    "ja": [
+      "堀ル"
+    ],
+    "en": [
+      "dig"
+    ],
+    "source": "B",
+    "original": "tsaku"
+  },
+  {
+    "id": "2152",
+    "basay": "tsakulan",
+    "category": "06",
+    "zh": [
+      "肛門"
+    ],
+    "en": [
+      "anus"
+    ],
+    "source": "M",
+    "original": "tsakulan (M)"
+  },
+  {
+    "id": "1034",
+    "basay": "tsakup > tsumakup",
+    "category": "08",
+    "zh": [
+      "戴鬥笠"
+    ],
+    "ja": [
+      "笠，笠ヲカムル, ヤミ (sakop)"
+    ],
+    "en": [
+      "wear bamboo hat (to)"
+    ],
+    "source": "B",
+    "original": "tsakup > tsumakup"
+  },
+  {
+    "id": "1035",
+    "basay": "tsakup | tsumakup",
+    "category": "08",
+    "zh": [
+      "屋頂",
+      "屋頂"
+    ],
+    "ja": [
+      "屋根ヲ葺ク"
+    ],
+    "en": [
+      "roof (to). roof"
+    ],
+    "source": "B",
+    "original": "tsakup, tsumakup"
+  },
+  {
+    "id": "1036",
+    "basay": "tsala | babui a tsala",
+    "category": "06",
+    "zh": [
+      "血"
+    ],
+    "ja": [
+      "血 <豚ノ血>"
+    ],
+    "en": [
+      "blood"
+    ],
+    "source": "B",
+    "original": "tsala, <babui a tsala>"
+  },
+  {
+    "id": "1037",
+    "basay": "tsalabe",
+    "category": "01",
+    "zh": [
+      "一晚"
+    ],
+    "ja": [
+      "一晩"
+    ],
+    "en": [
+      "one night"
+    ],
+    "source": "B",
+    "original": "tsalabe"
+  },
+  {
+    "id": "1038",
+    "basay": "tsalabe | tsalabe aui n'apan",
+    "category": "10",
+    "zh": [
+      "昨天去河邊"
+    ],
+    "ja": [
+      "昨日，<昨日河へ行った>"
+    ],
+    "en": [
+      "yesterday (1) went to the river."
+    ],
+    "source": "B",
+    "original": "tsalabe, <tsalabe aui ŋapan>"
+  },
+  {
+    "id": "1039",
+    "basay": "tsalin",
+    "category": "09",
+    "zh": [
+      "手鐲"
+    ],
+    "ja": [
+      "腕輪"
+    ],
+    "en": [
+      "bracelet"
+    ],
+    "source": "B",
+    "original": "tsalin"
+  },
+  {
+    "id": "2153",
+    "basay": "tsanul",
+    "category": "06",
+    "zh": [
+      "河口"
+    ],
+    "en": [
+      "mouth of river"
+    ],
+    "source": "T",
+    "original": "tsanul"
+  },
+  {
+    "id": "1040",
+    "basay": "tsapa",
+    "category": "14",
+    "zh": [
+      "堆積"
+    ],
+    "ja": [
+      "重ネル",
+      "薪ヲモツ(長キ~ヲモツ) (??)"
+    ],
+    "en": [
+      "pile up (to)"
+    ],
+    "source": "B",
+    "original": "tsapa"
+  },
+  {
+    "id": "1041",
+    "basay": "tsapa",
+    "category": "06",
+    "zh": [
+      "扛在肩上"
+    ],
+    "ja": [
+      "ニナウ (カタニテ)"
+    ],
+    "en": [
+      "carry on shoulder (to)"
+    ],
+    "source": "B",
+    "original": "tsapa"
+  },
+  {
+    "id": "1042",
+    "basay": "tsapa",
+    "category": "18",
+    "zh": [
+      "褲子"
+    ],
+    "ja": [
+      "ズボン"
+    ],
+    "en": [
+      "trousers"
+    ],
+    "source": "B",
+    "original": "tsapa"
+  },
+  {
+    "id": "2154",
+    "basay": "tsapa",
+    "category": "25",
+    "zh": [
+      "抱"
+    ],
+    "en": [
+      "hold in one's arms"
+    ],
+    "source": "T",
+    "original": "tsapa"
+  },
+  {
+    "id": "2155",
+    "basay": "tsapo'z' | tsapo'tsapo'z' | tsapriatawan",
+    "category": "14",
+    "zh": [
+      "靠近"
+    ],
+    "en": [
+      "approach"
+    ],
+    "source": "T",
+    "original": "tsapəɮ, tsapətsapəɮ, tsapriatawan"
+  },
+  {
+    "id": "2156",
+    "basay": "tsaprisi",
+    "category": "34",
+    "zh": [
+      "旁邊"
+    ],
+    "en": [
+      "next"
+    ],
+    "source": "T",
+    "original": "tsaprisi"
+  },
+  {
+    "id": "2157",
+    "basay": "tsaqon'qon'a",
+    "category": "05",
+    "zh": [
+      "說謊的人"
+    ],
+    "en": [
+      "smelly, liar"
+    ],
+    "source": "M",
+    "original": "tsaqoŋqoŋa (M)"
+  },
+  {
+    "id": "2158",
+    "basay": "tsaquy",
+    "category": "12",
+    "zh": [
+      "屋頂"
+    ],
+    "en": [
+      "roof"
+    ],
+    "source": "M",
+    "original": "tsaquy(M)"
+  },
+  {
+    "id": "1043",
+    "basay": "tsaru",
+    "category": "08",
+    "zh": [
+      "插花"
+    ],
+    "ja": [
+      "挿ス"
+    ],
+    "en": [
+      "insert flower (to)"
+    ],
+    "source": "B",
+    "original": "tsaru"
+  },
+  {
+    "id": "1046",
+    "basay": "tsats'in",
+    "category": "11",
+    "zh": [
+      "海浪"
+    ],
+    "ja": [
+      "波"
+    ],
+    "en": [
+      "wave"
+    ],
+    "source": "B",
+    "original": "tsatʃin"
+  },
+  {
+    "id": "1044",
+    "basay": "tsatsan",
+    "category": "10",
+    "zh": [
+      "路"
+    ],
+    "ja": [
+      "道"
+    ],
+    "en": [
+      "road"
+    ],
+    "source": "B",
+    "original": "tsatsan"
+  },
+  {
+    "id": "1045",
+    "basay": "tsatsan",
+    "category": "10",
+    "zh": [
+      "道路",
+      "樓梯"
+    ],
+    "ja": [
+      "道, 階段"
+    ],
+    "en": [
+      "road, stairway"
+    ],
+    "source": "B",
+    "original": "tsatsan"
+  },
+  {
+    "id": "2159",
+    "basay": "tsatsan",
+    "category": "10",
+    "zh": [
+      "道路"
+    ],
+    "en": [
+      "road"
+    ],
+    "source": "M",
+    "original": "tsatsan (M)"
+  },
+  {
+    "id": "2160",
+    "basay": "tsatsaq(o')",
+    "category": "06",
+    "zh": [
+      "紅狗 (應指黃紅紅狗)"
+    ],
+    "en": [
+      "red dog"
+    ],
+    "source": "M",
+    "original": "tsatsaq(ə) (M)"
+  },
+  {
+    "id": "2161",
+    "basay": "tsatsaw",
+    "category": "29",
+    "zh": [
+      "害怕"
+    ],
+    "en": [
+      "fear"
+    ],
+    "source": "S",
+    "original": "tsatsaw (S)"
+  },
+  {
+    "id": "2162",
+    "basay": "tsatsawe",
+    "category": "06",
+    "zh": [
+      "伸手勾"
+    ],
+    "en": [
+      "reach out"
+    ],
+    "source": "T",
+    "original": "tsatsawe"
+  },
+  {
+    "id": "2163",
+    "basay": "tsatsin",
+    "category": "10",
+    "zh": [
+      "海，波浪"
+    ],
+    "en": [
+      "sea, ocean, wave"
+    ],
+    "source": "T",
+    "original": "tsatsin"
+  },
+  {
+    "id": "1047",
+    "basay": "tsatsui",
+    "category": "25",
+    "zh": [
+      "稱重"
+    ],
+    "ja": [
+      "秤ル, アミ(mi-.a-.ol)"
+    ],
+    "en": [
+      "weigh (to)"
+    ],
+    "source": "B",
+    "original": "tsatsui"
+  },
+  {
+    "id": "2165",
+    "basay": "tsatsujan",
+    "category": "01",
+    "zh": [
+      "平衡"
+    ],
+    "en": [
+      "balance"
+    ],
+    "source": "M",
+    "original": "tsatsujan (M)"
+  },
+  {
+    "id": "1048",
+    "basay": "tsatsujen < ian",
+    "category": "01",
+    "zh": [
+      "平衡"
+    ],
+    "ja": [
+      "秤, アミ(ni-.a.y-an)"
+    ],
+    "en": [
+      "balance"
+    ],
+    "source": "B",
+    "original": "tsatsujen < ian"
+  },
+  {
+    "id": "2164",
+    "basay": "tsatsuk",
+    "category": "35",
+    "zh": [
+      "不久"
+    ],
+    "en": [
+      "soon"
+    ],
+    "source": "T",
+    "original": "tsatsuk"
+  },
+  {
+    "id": "2166",
+    "basay": "tsauki",
+    "category": "15",
+    "zh": [
+      "鐮刀"
+    ],
+    "en": [
+      "sickle"
+    ],
+    "source": "V",
+    "original": "tsauki (< Taiwanese) (M)"
+  },
+  {
+    "id": "1049",
+    "basay": "tsawa | tsowa",
+    "category": "06",
+    "zh": [
+      "前往"
+    ],
+    "ja": [
+      "向フ"
+    ],
+    "en": [
+      "head for (to)"
+    ],
+    "source": "B",
+    "original": "tsawa (?), tsowa"
+  },
+  {
+    "id": "2149",
+    "basay": "tsay",
+    "category": "03",
+    "zh": [
+      "誰"
+    ],
+    "en": [
+      "who"
+    ],
+    "source": "T",
+    "original": "tsaai (M), tsay"
+  },
+  {
+    "id": "1051",
+    "basay": "tselap",
+    "category": "11",
+    "zh": [
+      "昨天"
+    ],
+    "ja": [
+      "昨日"
+    ],
+    "en": [
+      "yesterday"
+    ],
+    "source": "B",
+    "original": "tselap"
+  },
+  {
+    "id": "2167",
+    "basay": "tsenal",
+    "category": "11",
+    "zh": [
+      "太陽"
+    ],
+    "en": [
+      "sun"
+    ],
+    "source": "M",
+    "original": "tsenal (M)"
+  },
+  {
+    "id": "1052",
+    "basay": "tsenal'、 tseniat",
+    "category": "11",
+    "zh": [
+      "太陽"
+    ],
+    "ja": [
+      "太陽"
+    ],
+    "en": [
+      "sun"
+    ],
+    "source": "B",
+    "original": "tsenal'、 tseniat"
+  },
+  {
+    "id": "2169",
+    "basay": "tsian",
+    "category": "11",
+    "zh": [
+      "天"
+    ],
+    "en": [
+      "day"
+    ],
+    "source": "T",
+    "original": "tsian"
+  },
+  {
+    "id": "2094",
+    "basay": "tsikka",
+    "category": "25",
+    "zh": [
+      "刺"
+    ],
+    "en": [
+      "stab, stick"
+    ],
+    "source": "M",
+    "original": "tsikka (M)"
+  },
+  {
+    "id": "2170",
+    "basay": "tsilitsilian",
+    "category": "25",
+    "zh": [
+      "撕開"
+    ],
+    "en": [
+      "tear (to)"
+    ],
+    "source": "T",
+    "original": "tsilitsilian"
+  },
+  {
+    "id": "1056",
+    "basay": "tsima",
+    "category": "06",
+    "zh": [
+      "手臂"
+    ],
+    "ja": [
+      "腕"
+    ],
+    "en": [
+      "arm"
+    ],
+    "source": "B",
+    "original": "tsima"
+  },
+  {
+    "id": "2171",
+    "basay": "tsima",
+    "category": "06",
+    "zh": [
+      "手"
+    ],
+    "en": [
+      "hand"
+    ],
+    "source": "T",
+    "original": "tsima"
+  },
+  {
+    "id": "2172",
+    "basay": "tsinpalaa",
+    "category": "36",
+    "zh": [
+      "非常"
+    ],
+    "en": [
+      "very"
+    ],
+    "source": "S",
+    "original": "tsinpalaa (S)"
+  },
+  {
+    "id": "2173",
+    "basay": "tsipan' > marqatsipan'",
+    "category": "29",
+    "zh": [
+      "忘記"
+    ],
+    "en": [
+      "forget"
+    ],
+    "source": "M",
+    "original": "tsipaŋ > marqatsipaŋ (M)"
+  },
+  {
+    "id": "2174",
+    "basay": "tsitsap",
+    "category": "11",
+    "zh": [
+      "雷電"
+    ],
+    "en": [
+      "thunderbolt"
+    ],
+    "source": "M",
+    "original": "tsitsap (M)"
+  },
+  {
+    "id": "2175",
+    "basay": "tsitso'n",
+    "category": "18",
+    "zh": [
+      "線"
+    ],
+    "en": [
+      "thread"
+    ],
+    "source": "M",
+    "original": "tsitsən (M)"
+  },
+  {
+    "id": "2176",
+    "basay": "tsitsu",
+    "category": "06",
+    "zh": [
+      "乳房"
+    ],
+    "en": [
+      "breast"
+    ],
+    "source": "M",
+    "original": "tsitsu (M)"
+  },
+  {
+    "id": "2177",
+    "basay": "tsjaki",
+    "category": "34",
+    "zh": [
+      "污物"
+    ],
+    "en": [
+      "dirt"
+    ],
+    "source": "M",
+    "original": "tsjaki (M)"
+  },
+  {
+    "id": "2178",
+    "basay": "tsjamuaza",
+    "category": "01",
+    "zh": [
+      "很多"
+    ],
+    "en": [
+      "many"
+    ],
+    "source": "S",
+    "original": "tsjamuaza (S)"
+  },
+  {
+    "id": "1065",
+    "basay": "tsjatsjin",
+    "category": "11",
+    "zh": [
+      "海浪"
+    ],
+    "ja": [
+      "波"
+    ],
+    "en": [
+      "wave"
+    ],
+    "source": "B",
+    "original": "tsjatsjin"
+  },
+  {
+    "id": "1066",
+    "basay": "tsjepotsjepo",
+    "category": "08",
+    "zh": [
+      "墓"
+    ],
+    "ja": [
+      "墓=草原"
+    ],
+    "en": [
+      "tomb"
+    ],
+    "source": "B",
+    "original": "tsjepotsjepo"
+  },
+  {
+    "id": "1068",
+    "basay": "tsjima",
+    "category": "01",
+    "zh": [
+      "五"
+    ],
+    "ja": [
+      "5"
+    ],
+    "en": [
+      "five"
+    ],
+    "source": "B",
+    "original": "tsjima"
+  },
+  {
+    "id": "1069",
+    "basay": "tsjitsu",
+    "category": "06",
+    "zh": [
+      "胸部",
+      "牛奶"
+    ],
+    "ja": [
+      "乳"
+    ],
+    "en": [
+      "breast. milk"
+    ],
+    "source": "B",
+    "original": "tsjitsu"
+  },
+  {
+    "id": "1070",
+    "basay": "tsju: wuDº",
+    "category": "15",
+    "zh": [
+      "弓箭"
+    ],
+    "ja": [
+      "弓(矢)"
+    ],
+    "en": [
+      "bow (& arrow)"
+    ],
+    "source": "B",
+    "original": "tsju: wuDº"
+  },
+  {
+    "id": "1071",
+    "basay": "tska",
+    "category": "25",
+    "zh": [
+      "刺",
+      "棍"
+    ],
+    "ja": [
+      "刺"
+    ],
+    "en": [
+      "stab, stick"
+    ],
+    "source": "B",
+    "original": "tska"
+  },
+  {
+    "id": "1050",
+    "basay": "tso'kka",
+    "category": "25",
+    "zh": [
+      "戳"
+    ],
+    "ja": [
+      "刺"
+    ],
+    "en": [
+      "stick (to)"
+    ],
+    "source": "B",
+    "original": "tsəkka"
+  },
+  {
+    "id": "2168",
+    "basay": "tso'ktso'k. tsumaktsak",
+    "category": "34",
+    "zh": [
+      "劈開"
+    ],
+    "en": [
+      "chop"
+    ],
+    "source": "T",
+    "original": "tsəktsək. tsumaktsak"
+  },
+  {
+    "id": "1053",
+    "basay": "tso'n'-tso'n'",
+    "category": "06",
+    "zh": [
+      "頭痛"
+    ],
+    "ja": [
+      "頭ガガンガン痛ム"
+    ],
+    "en": [
+      "headache"
+    ],
+    "source": "B",
+    "original": "tsəŋ-tsəŋ"
+  },
+  {
+    "id": "1072",
+    "basay": "tsu",
+    "category": "01",
+    "zh": [
+      "三"
+    ],
+    "ja": [
+      "3"
+    ],
+    "en": [
+      "three"
+    ],
+    "source": "B",
+    "original": "tsu"
+  },
+  {
+    "id": "1073",
+    "basay": "tsu lijen",
+    "category": "01",
+    "zh": [
+      "後兩天"
+    ],
+    "ja": [
+      "明々後日"
+    ],
+    "en": [
+      "two days after tomorrow"
+    ],
+    "source": "B",
+    "original": "tsu lijen"
+  },
+  {
+    "id": "2179",
+    "basay": "tsuaqai",
+    "category": "18",
+    "zh": [
+      "穿"
+    ],
+    "en": [
+      "wear"
+    ],
+    "source": "M",
+    "original": "tsuaqai (M)"
+  },
+  {
+    "id": "2180",
+    "basay": "tsuay. tsumuay",
+    "category": "02",
+    "zh": [
+      "這個,那個"
+    ],
+    "en": [
+      "this, that"
+    ],
+    "source": "T",
+    "original": "tsuay. tsumuay"
+  },
+  {
+    "id": "2181",
+    "basay": "tsubu",
+    "category": "06",
+    "zh": [
+      "尿"
+    ],
+    "en": [
+      "urine"
+    ],
+    "source": "M",
+    "original": "tsubu (M)"
+  },
+  {
+    "id": "1074",
+    "basay": "tsuktsuk",
+    "category": "09",
+    "zh": [
+      "鑰匙"
+    ],
+    "ja": [
+      "鍵"
+    ],
+    "en": [
+      "key"
+    ],
+    "source": "B",
+    "original": "tsuktsuk"
+  },
+  {
+    "id": "2182",
+    "basay": "tsuktsuk",
+    "category": "09",
+    "zh": [
+      "鑰匙"
+    ],
+    "en": [
+      "key, lock"
+    ],
+    "source": "M",
+    "original": "tsuktsuk (M)"
+  },
+  {
+    "id": "2185",
+    "basay": "tsul'un'",
+    "category": "25",
+    "zh": [
+      "吩咐"
+    ],
+    "en": [
+      "order"
+    ],
+    "source": "T",
+    "original": "tsuɭuŋ"
+  },
+  {
+    "id": "1075",
+    "basay": "tsulaD' | -t",
+    "category": "06",
+    "zh": [
+      "信"
+    ],
+    "ja": [
+      "手紙】, 字"
+    ],
+    "en": [
+      "letter"
+    ],
+    "source": "B",
+    "original": "tsulaD', -t (?)"
+  },
+  {
+    "id": "2183",
+    "basay": "tsulaktsakay",
+    "category": "24",
+    "zh": [
+      "工作"
+    ],
+    "en": [
+      "work"
+    ],
+    "source": "T",
+    "original": "tsulaktsakay"
+  },
+  {
+    "id": "2184",
+    "basay": "tsulal",
+    "category": "34",
+    "zh": [
+      "承諾，信"
+    ],
+    "en": [
+      "promise, letter"
+    ],
+    "source": "M",
+    "original": "tsulal (M)"
+  },
+  {
+    "id": "1076",
+    "basay": "tsulat",
+    "category": "25",
+    "zh": [
+      "信，寫"
+    ],
+    "ja": [
+      "字",
+      "書ｸ"
+    ],
+    "en": [
+      "letter, write (to)"
+    ],
+    "source": "B",
+    "original": "tsulat"
+  },
+  {
+    "id": "1077",
+    "basay": "tsumahu",
+    "category": "15",
+    "zh": [
+      "挖"
+    ],
+    "ja": [
+      "堀ル"
+    ],
+    "en": [
+      "dig"
+    ],
+    "source": "B",
+    "original": "tsumahu"
+  },
+  {
+    "id": "2187",
+    "basay": "tsumakai",
+    "category": "25",
+    "zh": [
+      "走動"
+    ],
+    "en": [
+      "walk"
+    ],
+    "source": "M",
+    "original": "tsumakai (M)"
+  },
+  {
+    "id": "1078",
+    "basay": "tsumakai na",
+    "category": "18",
+    "zh": [
+      "到達"
+    ],
+    "ja": [
+      "到着"
+    ],
+    "en": [
+      "arrive"
+    ],
+    "source": "B",
+    "original": "tsumakai na"
+  },
+  {
+    "id": "1079",
+    "basay": "tsumakatsakai | isu tsumakatsakai",
+    "category": "02",
+    "zh": [
+      "走（你）"
+    ],
+    "ja": [
+      "歩く"
+    ],
+    "en": [
+      "walk (you)"
+    ],
+    "source": "B",
+    "original": "tsumakatsakai, <isu tsumakatsakai>"
+  },
+  {
+    "id": "1080",
+    "basay": "tsumakau",
+    "category": "13",
+    "zh": [
+      "孕吐"
+    ],
+    "ja": [
+      "悪阻"
+    ],
+    "en": [
+      "morning sickness"
+    ],
+    "source": "B",
+    "original": "tsumakau"
+  },
+  {
+    "id": "2188",
+    "basay": "tsumaktsak",
+    "category": "34",
+    "zh": [
+      "劈開"
+    ],
+    "en": [
+      "chop"
+    ],
+    "source": "T",
+    "original": "tsumaktsak"
+  },
+  {
+    "id": "2190",
+    "basay": "tsumaktsakay",
+    "category": "25",
+    "zh": [
+      "走動"
+    ],
+    "en": [
+      "walk around"
+    ],
+    "source": "T",
+    "original": "tsumaktsakay"
+  },
+  {
+    "id": "2189",
+    "basay": "tsumaktsdkai na burtlan",
+    "category": "11",
+    "zh": [
+      "彗星"
+    ],
+    "en": [
+      "comet"
+    ],
+    "source": "M",
+    "original": "tsumaktsdkai na burtlan (M)"
+  },
+  {
+    "id": "2192",
+    "basay": "tsumal'appa",
+    "category": "34",
+    "zh": [
+      "清晨"
+    ],
+    "en": [
+      "dawn"
+    ],
+    "source": "T",
+    "original": "tsumaɭappa"
+  },
+  {
+    "id": "2191",
+    "basay": "tsumalal",
+    "category": "34",
+    "zh": [
+      "寫信"
+    ],
+    "en": [
+      "write a letter"
+    ],
+    "source": "M",
+    "original": "tsumalal (M)"
+  },
+  {
+    "id": "2193",
+    "basay": "tsumapepet",
+    "category": "25",
+    "zh": [
+      "捏，擰"
+    ],
+    "en": [
+      "pinch (to)"
+    ],
+    "source": "M",
+    "original": "tsumapepet (M)"
+  },
+  {
+    "id": "2194",
+    "basay": "tsumaptsap",
+    "category": "14",
+    "zh": [
+      "補裂縫"
+    ],
+    "en": [
+      "fill up the crevice"
+    ],
+    "source": "M",
+    "original": "tsumaptsap (M)"
+  },
+  {
+    "id": "2195",
+    "basay": "tsumatnaq",
+    "category": "34",
+    "zh": [
+      "焦急"
+    ],
+    "en": [
+      "anxious"
+    ],
+    "source": "T",
+    "original": "tsumatnaq"
+  },
+  {
+    "id": "2196",
+    "basay": "tsumatsui",
+    "category": "32",
+    "zh": [
+      "稱…的重量"
+    ],
+    "en": [
+      "weigh"
+    ],
+    "source": "M",
+    "original": "tsumatsui (M)"
+  },
+  {
+    "id": "2197",
+    "basay": "tsumawakk(o')",
+    "category": "25",
+    "zh": [
+      "殘幹"
+    ],
+    "en": [
+      "stumping"
+    ],
+    "source": "M",
+    "original": "tsumawakk(ə)(M)"
+  },
+  {
+    "id": "2198",
+    "basay": "tsumay",
+    "category": "29",
+    "zh": [
+      "擔心，懷疑"
+    ],
+    "en": [
+      "worry, doubt"
+    ],
+    "source": "T",
+    "original": "tsumay"
+  },
+  {
+    "id": "2199",
+    "basay": "tsumilam",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "en": [
+      "lick"
+    ],
+    "source": "M",
+    "original": "tsumilam (M)"
+  },
+  {
+    "id": "2200",
+    "basay": "tsuminam",
+    "category": "32",
+    "zh": [
+      "醜的"
+    ],
+    "en": [
+      "ugly"
+    ],
+    "source": "M",
+    "original": "tsuminam (M)"
+  },
+  {
+    "id": "2201",
+    "basay": "tsumisin",
+    "category": "23",
+    "zh": [
+      "哭"
+    ],
+    "en": [
+      "cry"
+    ],
+    "source": "S",
+    "original": "tsumisin (S)"
+  },
+  {
+    "id": "2202",
+    "basay": "tsumiunata",
+    "category": "29",
+    "zh": [
+      "沈思，想很多"
+    ],
+    "en": [
+      "speculate"
+    ],
+    "source": "T",
+    "original": "tsumiunata"
+  },
+  {
+    "id": "1081",
+    "basay": "tsumulat",
+    "category": "25",
+    "zh": [
+      "寫"
+    ],
+    "ja": [
+      "書く"
+    ],
+    "en": [
+      "write (to)"
+    ],
+    "source": "B",
+    "original": "tsumulat"
+  },
+  {
+    "id": "1082",
+    "basay": "tsumupa",
+    "category": "08",
+    "zh": [
+      "吸煙煙草"
+    ],
+    "ja": [
+      "煙草を吸う"
+    ],
+    "en": [
+      "smoke tobacco (to)"
+    ],
+    "source": "B",
+    "original": "tsumupa"
+  },
+  {
+    "id": "1083",
+    "basay": "tsumupa",
+    "category": "08",
+    "zh": [
+      "吸煙煙草"
+    ],
+    "ja": [
+      "ノム(タバコ)"
+    ],
+    "en": [
+      "smoke tobacco"
+    ],
+    "source": "B",
+    "original": "tsumupa"
+  },
+  {
+    "id": "2204",
+    "basay": "tsumutsikka",
+    "category": "34",
+    "zh": [
+      "烤"
+    ],
+    "en": [
+      "burn, broil"
+    ],
+    "source": "M",
+    "original": "tutsik (M), tsumutsikka (M)"
+  },
+  {
+    "id": "2205",
+    "basay": "tsun'an",
+    "category": "10",
+    "zh": [
+      "呼叫，河邊"
+    ],
+    "en": [
+      "call, riverside"
+    ],
+    "source": "T",
+    "original": "tsuŋan"
+  },
+  {
+    "id": "2206",
+    "basay": "tsuppe",
+    "category": "34",
+    "zh": [
+      "劈開"
+    ],
+    "en": [
+      "split"
+    ],
+    "source": "T",
+    "original": "tsuppe"
+  },
+  {
+    "id": "1084",
+    "basay": "tsuptsup",
+    "category": "21",
+    "zh": [
+      "吸"
+    ],
+    "ja": [
+      "(乳ヲ) 吸ﾌ",
+      "アミ(mi-tsputシボル)"
+    ],
+    "en": [
+      "suck (to)"
+    ],
+    "source": "B",
+    "original": "tsuptsup"
+  },
+  {
+    "id": "2207",
+    "basay": "tsupu",
+    "category": "07",
+    "zh": [
+      "鹿腿"
+    ],
+    "en": [
+      "leu of deer"
+    ],
+    "source": "T",
+    "original": "tsupu"
+  },
+  {
+    "id": "2208",
+    "basay": "tsurukun",
+    "category": "18",
+    "zh": [
+      "褲子"
+    ],
+    "en": [
+      "trousers"
+    ],
+    "source": "M",
+    "original": "tsurukun (M)"
+  },
+  {
+    "id": "2209",
+    "basay": "tsutsuvaqqa",
+    "category": "34",
+    "zh": [
+      "厘"
+    ],
+    "en": [
+      "rin"
+    ],
+    "source": "M",
+    "original": "tsutsuvaqqa (M)"
+  },
+  {
+    "id": "2186",
+    "basay": "tsuz'un'",
+    "category": "25",
+    "zh": [
+      "吩咐"
+    ],
+    "en": [
+      "order"
+    ],
+    "source": "T",
+    "original": "tsuɮuŋ"
+  },
+  {
+    "id": "2210",
+    "basay": "tsuzuan",
+    "category": "25",
+    "zh": [
+      "丟進"
+    ],
+    "en": [
+      "throw to"
+    ],
+    "source": "T",
+    "original": "tsuzuan"
+  },
+  {
+    "id": "2211",
+    "basay": "tsyulin'",
+    "category": "06",
+    "zh": [
+      "橡皮"
+    ],
+    "en": [
+      "rubber"
+    ],
+    "source": "T",
+    "original": "tsyuliŋ"
+  },
+  {
+    "id": "2105",
+    "basay": "tuava",
+    "category": "23",
+    "zh": [
+      "咳嗽"
+    ],
+    "en": [
+      "cough"
+    ],
+    "source": "M",
+    "original": "tuava (M)"
+  },
+  {
+    "id": "1085",
+    "basay": "tubu",
+    "category": "18",
+    "zh": [
+      "針"
+    ],
+    "ja": [
+      "針"
+    ],
+    "en": [
+      "needle"
+    ],
+    "source": "B",
+    "original": "tubu"
+  },
+  {
+    "id": "2106",
+    "basay": "tukin",
+    "category": "07",
+    "zh": [
+      "蚯蚓"
+    ],
+    "en": [
+      "earth worm"
+    ],
+    "source": "V",
+    "original": "tukin (< Taiwanese) (M)"
+  },
+  {
+    "id": "2107",
+    "basay": "tukuaz",
+    "category": "06",
+    "zh": [
+      "肩膀"
+    ],
+    "en": [
+      "shoulder"
+    ],
+    "source": "M",
+    "original": "tukuaz (M)"
+  },
+  {
+    "id": "2109",
+    "basay": "tul'ian",
+    "category": "06",
+    "zh": [
+      "鼻笛"
+    ],
+    "en": [
+      "nose flute"
+    ],
+    "source": "T",
+    "original": "tuɭian"
+  },
+  {
+    "id": "2110",
+    "basay": "tul'nian. tumul'ani",
+    "category": "06",
+    "zh": [
+      "吹鼻笛"
+    ],
+    "en": [
+      "play nose flute"
+    ],
+    "source": "T",
+    "original": "tuɭnian. tumuɭani"
+  },
+  {
+    "id": "2111",
+    "basay": "tul'pi",
+    "category": "14",
+    "zh": [
+      "接近"
+    ],
+    "en": [
+      "get close"
+    ],
+    "source": "T",
+    "original": "tuɭpi"
+  },
+  {
+    "id": "2108",
+    "basay": "tulan",
+    "category": "06",
+    "zh": [
+      "骨頭"
+    ],
+    "en": [
+      "bone"
+    ],
+    "source": "T",
+    "original": "tulan"
+  },
+  {
+    "id": "1086",
+    "basay": "tulis a utsu",
+    "category": "06",
+    "zh": [
+      "大拇指"
+    ],
+    "ja": [
+      "親指"
+    ],
+    "en": [
+      "thumb"
+    ],
+    "source": "B",
+    "original": "tulis a utsu"
+  },
+  {
+    "id": "1087",
+    "basay": "tulisse",
+    "category": "06",
+    "zh": [
+      "腳趾",
+      "手指"
+    ],
+    "ja": [
+      "足指,手指"
+    ],
+    "en": [
+      "toe. finger"
+    ],
+    "source": "B",
+    "original": "tulisse"
+  },
+  {
+    "id": "1088",
+    "basay": "tulun'tun'",
+    "category": "32",
+    "zh": [
+      "鼓"
+    ],
+    "ja": [
+      "太鼓"
+    ],
+    "en": [
+      "drum"
+    ],
+    "source": "B",
+    "original": "tuluŋtuŋ"
+  },
+  {
+    "id": "2112",
+    "basay": "tumalam",
+    "category": "28",
+    "zh": [
+      "嚐"
+    ],
+    "en": [
+      "taste (to)"
+    ],
+    "source": "M",
+    "original": "tumalam (M)"
+  },
+  {
+    "id": "1089",
+    "basay": "tuman",
+    "category": "05",
+    "zh": [
+      "村莊名稱"
+    ],
+    "ja": [
+      "下, 社察嶋"
+    ],
+    "en": [
+      "name of a village"
+    ],
+    "source": "B",
+    "original": "tuman"
+  },
+  {
+    "id": "1090",
+    "basay": "tuman",
+    "category": "10",
+    "zh": [
+      "下游"
+    ],
+    "ja": [
+      "川下"
+    ],
+    "en": [
+      "downstream"
+    ],
+    "source": "B",
+    "original": "tuman"
+  },
+  {
+    "id": "1091",
+    "basay": "tuman",
+    "category": "17",
+    "zh": [
+      "崇拜"
+    ],
+    "ja": [
+      "拝ス"
+    ],
+    "en": [
+      "worship"
+    ],
+    "source": "B",
+    "original": "tuman"
+  },
+  {
+    "id": "2113",
+    "basay": "tuman",
+    "category": "05",
+    "zh": [
+      "社名"
+    ],
+    "en": [
+      "name of a village"
+    ],
+    "source": "M",
+    "original": "tuman (M)"
+  },
+  {
+    "id": "1092",
+    "basay": "tuman u samiai",
+    "category": "17",
+    "zh": [
+      "崇拜"
+    ],
+    "ja": [
+      "礼拝スル"
+    ],
+    "en": [
+      "worship (to)"
+    ],
+    "source": "B",
+    "original": "tuman u samiai"
+  },
+  {
+    "id": "2115",
+    "basay": "tuman'its",
+    "category": "23",
+    "zh": [
+      "哭"
+    ],
+    "en": [
+      "cry"
+    ],
+    "source": "T",
+    "original": "tumaŋits"
+  },
+  {
+    "id": "2114",
+    "basay": "tumanan",
+    "category": "14",
+    "zh": [
+      "留下"
+    ],
+    "en": [
+      "leave behind"
+    ],
+    "source": "T",
+    "original": "tumanan"
+  },
+  {
+    "id": "2116",
+    "basay": "tumasa",
+    "category": "34",
+    "zh": [
+      "同情"
+    ],
+    "en": [
+      "sympathize"
+    ],
+    "source": "T",
+    "original": "tumasa"
+  },
+  {
+    "id": "2117",
+    "basay": "tumavu",
+    "category": "08",
+    "zh": [
+      "砍樹，包"
+    ],
+    "en": [
+      "cut trees, wrap"
+    ],
+    "source": "T",
+    "original": "tumavu"
+  },
+  {
+    "id": "2118",
+    "basay": "tumavuli",
+    "category": "20",
+    "zh": [
+      "用船運"
+    ],
+    "en": [
+      "to ship cargo"
+    ],
+    "source": "T",
+    "original": "tumavuli"
+  },
+  {
+    "id": "2073",
+    "basay": "tumikas",
+    "category": "34",
+    "zh": [
+      "捕捉"
+    ],
+    "en": [
+      "entrap"
+    ],
+    "source": "M",
+    "original": "tikas, tumikas (M)"
+  },
+  {
+    "id": "2119",
+    "basay": "tumikzon",
+    "category": "34",
+    "zh": [
+      "踢"
+    ],
+    "en": [
+      "kick"
+    ],
+    "source": "M",
+    "original": "tumikzon (M)"
+  },
+  {
+    "id": "1346",
+    "basay": "tuminun",
+    "category": "18",
+    "zh": [
+      "布"
+    ],
+    "en": [
+      "cloth"
+    ],
+    "source": "T",
+    "original": "lawa (M), tuminun"
+  },
+  {
+    "id": "2120",
+    "basay": "tumitsa",
+    "category": "06",
+    "zh": [
+      "血"
+    ],
+    "en": [
+      "bleed"
+    ],
+    "source": "T",
+    "original": "tumitsa"
+  },
+  {
+    "id": "1262",
+    "basay": "tumozo",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "en": [
+      "bite"
+    ],
+    "source": "T",
+    "original": "klatan, mqalat (M), tumozo"
+  },
+  {
+    "id": "1093",
+    "basay": "tumuhol'",
+    "category": "25",
+    "zh": [
+      "拄著拐杖走路"
+    ],
+    "ja": [
+      "杖ヲツク"
+    ],
+    "en": [
+      "walk with a cane (to)"
+    ],
+    "source": "B",
+    "original": "tumuhol'"
+  },
+  {
+    "id": "1094",
+    "basay": "tumuhul'",
+    "category": "12",
+    "zh": [
+      "支持",
+      "靠在一根棍子上"
+    ],
+    "ja": [
+      "支ヘル (壁ナドノタフレルトキニ柱ニテ支ヘル)",
+      "杖ヲサス"
+    ],
+    "en": [
+      "support (to). lean on a stick"
+    ],
+    "source": "B",
+    "original": "tumuhul'"
+  },
+  {
+    "id": "2121",
+    "basay": "tumunaw",
+    "category": "32",
+    "zh": [
+      "大廳"
+    ],
+    "en": [
+      "hall"
+    ],
+    "source": "T",
+    "original": "tumunaw"
+  },
+  {
+    "id": "2122",
+    "basay": "tumunu",
+    "category": "25",
+    "zh": [
+      "親吻"
+    ],
+    "en": [
+      "kiss"
+    ],
+    "source": "M",
+    "original": "tumunu (M)"
+  },
+  {
+    "id": "1095",
+    "basay": "tumusun",
+    "category": "08",
+    "zh": [
+      "筍"
+    ],
+    "ja": [
+      "筍"
+    ],
+    "en": [
+      "bamboo shoot"
+    ],
+    "source": "B",
+    "original": "tumusun"
+  },
+  {
+    "id": "1096",
+    "basay": "tumusun",
+    "category": "25",
+    "zh": [
+      "芽"
+    ],
+    "ja": [
+      "芽が出ル"
+    ],
+    "en": [
+      "bud (to)"
+    ],
+    "source": "B",
+    "original": "tumusun"
+  },
+  {
+    "id": "2123",
+    "basay": "tumutol'o",
+    "category": "34",
+    "zh": [
+      "倒"
+    ],
+    "en": [
+      "pour"
+    ],
+    "source": "M",
+    "original": "tumutoɭo (M)"
+  },
+  {
+    "id": "2124",
+    "basay": "tumutus",
+    "category": "34",
+    "zh": [
+      "採,摘"
+    ],
+    "en": [
+      "pluck"
+    ],
+    "source": "T",
+    "original": "tumutus"
+  },
+  {
+    "id": "2125",
+    "basay": "tumuvan",
+    "category": "17",
+    "zh": [
+      "祭拜"
+    ],
+    "en": [
+      "worship"
+    ],
+    "source": "M",
+    "original": "tumuvan (M)"
+  },
+  {
+    "id": "2127",
+    "basay": "tumuz'us | tumuzus",
+    "category": "34",
+    "zh": [
+      "到達"
+    ],
+    "en": [
+      "arrive, reach"
+    ],
+    "source": "T",
+    "original": "tumuɮus, tumuzus"
+  },
+  {
+    "id": "2126",
+    "basay": "tumuzu",
+    "category": "34",
+    "zh": [
+      "問"
+    ],
+    "en": [
+      "ask"
+    ],
+    "source": "T",
+    "original": "tumuzu"
+  },
+  {
+    "id": "2129",
+    "basay": "tun'uran",
+    "category": "09",
+    "zh": [
+      "棺"
+    ],
+    "en": [
+      "coffin ."
+    ],
+    "source": "M",
+    "original": "tuŋuran (M)"
+  },
+  {
+    "id": "2128",
+    "basay": "tunuzun",
+    "category": "08",
+    "zh": [
+      "糯米飯"
+    ],
+    "en": [
+      "glutinous rice"
+    ],
+    "source": "T",
+    "original": "tunuzun"
+  },
+  {
+    "id": "2130",
+    "basay": "tupiq",
+    "category": "25",
+    "zh": [
+      "掉"
+    ],
+    "en": [
+      "fall, drop ."
+    ],
+    "source": "T",
+    "original": "tupiq"
+  },
+  {
+    "id": "2131",
+    "basay": "tupuqan",
+    "category": "34",
+    "zh": [
+      "砍"
+    ],
+    "en": [
+      "chop"
+    ],
+    "source": "T",
+    "original": "tupuqan"
+  },
+  {
+    "id": "1659",
+    "basay": "tupus",
+    "category": "11",
+    "zh": [
+      "空閒的"
+    ],
+    "en": [
+      "idle"
+    ],
+    "source": "M",
+    "original": "mvaɭa, tupus (M)"
+  },
+  {
+    "id": "2132",
+    "basay": "tuqinilan",
+    "category": "34",
+    "zh": [
+      "扭轉"
+    ],
+    "en": [
+      "turn around"
+    ],
+    "source": "T",
+    "original": "tuqinilan"
+  },
+  {
+    "id": "2133",
+    "basay": "tuquqa",
+    "category": "07",
+    "zh": [
+      "雞"
+    ],
+    "en": [
+      "chicken"
+    ],
+    "source": "T",
+    "original": "tuquqa"
+  },
+  {
+    "id": "2203",
+    "basay": "tutsik",
+    "category": "34",
+    "zh": [
+      "烤"
+    ],
+    "en": [
+      "burn, broil"
+    ],
+    "source": "M",
+    "original": "tutsik (M), tsumutsikka (M)"
+  },
+  {
+    "id": "2134",
+    "basay": "tutu",
+    "category": "34",
+    "zh": [
+      "倒"
+    ],
+    "en": [
+      "pour"
+    ],
+    "source": "T",
+    "original": "tutu"
+  },
+  {
+    "id": "2135",
+    "basay": "tutus",
+    "category": "06",
+    "zh": [
+      "禿頭的"
+    ],
+    "en": [
+      "bald"
+    ],
+    "source": "M",
+    "original": "tutus (M)"
+  },
+  {
+    "id": "2136",
+    "basay": "tututuan",
+    "category": "32",
+    "zh": [
+      "勉強"
+    ],
+    "en": [
+      "force, compel"
+    ],
+    "source": "T",
+    "original": "tututuan"
+  },
+  {
+    "id": "2137",
+    "basay": "tuvanan u sumiai",
+    "category": "12",
+    "zh": [
+      "陵墓"
+    ],
+    "en": [
+      "mausoleum"
+    ],
+    "source": "M",
+    "original": "tuvanan u sumiai (M)"
+  },
+  {
+    "id": "2138",
+    "basay": "tuvanania",
+    "category": "11",
+    "zh": [
+      "持續到隔日"
+    ],
+    "en": [
+      "last until the next day"
+    ],
+    "source": "T",
+    "original": "tuvanania"
+  },
+  {
+    "id": "2139",
+    "basay": "tuvania",
+    "category": "11",
+    "zh": [
+      "次日"
+    ],
+    "en": [
+      "next day"
+    ],
+    "source": "T",
+    "original": "tuvania"
+  },
+  {
+    "id": "2140",
+    "basay": "tuvanumtaval",
+    "category": "11",
+    "zh": [
+      "明天早上"
+    ],
+    "en": [
+      "next morning"
+    ],
+    "source": "M",
+    "original": "tuvanumtaval (M)"
+  },
+  {
+    "id": "2141",
+    "basay": "tuvu",
+    "category": "18",
+    "zh": [
+      "針"
+    ],
+    "en": [
+      "needle"
+    ],
+    "source": "M",
+    "original": "tuvu (M)"
+  },
+  {
+    "id": "2142",
+    "basay": "tuvu | tuvutuvu",
+    "category": "18",
+    "zh": [
+      "縫"
+    ],
+    "en": [
+      "sew"
+    ],
+    "source": "T",
+    "original": "tuvu, tuvutuvu"
+  },
+  {
+    "id": "2143",
+    "basay": "tuzuan | tuzuk",
+    "category": "25",
+    "zh": [
+      "吿訴，說"
+    ],
+    "en": [
+      "say, tell"
+    ],
+    "source": "T",
+    "original": "tuzuan, tuzuk"
+  },
+  {
+    "id": "2144",
+    "basay": "tvaku",
+    "category": "08",
+    "zh": [
+      "菸草"
+    ],
+    "en": [
+      "tobacco"
+    ],
+    "source": "M",
+    "original": "tvaku (M)"
+  },
+  {
+    "id": "2145",
+    "basay": "tvan",
+    "category": "11",
+    "zh": [
+      "明日"
+    ],
+    "en": [
+      "tomorrow"
+    ],
+    "source": "M",
+    "original": "tvan (M)"
+  },
+  {
+    "id": "2086",
+    "basay": "tz'ai",
+    "category": "14",
+    "zh": [
+      "遠古，從前"
+    ],
+    "en": [
+      "ancient"
+    ],
+    "source": "T",
+    "original": "tɮai, trai (S), trayazay"
+  }
+]

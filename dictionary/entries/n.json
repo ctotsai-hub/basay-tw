@@ -1,0 +1,1440 @@
+[
+  {
+    "id": "1685",
+    "basay": "-numi",
+    "category": "02",
+    "zh": [
+      "你們的"
+    ],
+    "en": [
+      "your (GEN>"
+    ],
+    "source": "S",
+    "original": "-numi (S)"
+  },
+  {
+    "id": "1663",
+    "basay": "> nal'ikka",
+    "category": "08",
+    "zh": [
+      "麻糬"
+    ],
+    "en": [
+      "rice cake"
+    ],
+    "source": "M",
+    "original": "naɭik (S)> naɭikka (M)"
+  },
+  {
+    "id": "0550",
+    "basay": "n'ajau",
+    "category": "12",
+    "zh": [
+      "外部",
+      "花園"
+    ],
+    "ja": [
+      "屋外, 庭"
+    ],
+    "en": [
+      "outside. garden"
+    ],
+    "source": "B",
+    "original": "ŋajau"
+  },
+  {
+    "id": "0551",
+    "basay": "n'alau",
+    "category": "06",
+    "zh": [
+      "下巴"
+    ],
+    "ja": [
+      "下顎, アミ (ŋarui)"
+    ],
+    "en": [
+      "chin (lower)"
+    ],
+    "source": "B",
+    "original": "ŋalau"
+  },
+  {
+    "id": "0552",
+    "basay": "n'alau | n'arau",
+    "category": "06",
+    "zh": [
+      "嘴唇",
+      "顎"
+    ],
+    "ja": [
+      "唇,アゴ"
+    ],
+    "en": [
+      "lips. jaw"
+    ],
+    "source": "B",
+    "original": "ŋalau, ŋarau"
+  },
+  {
+    "id": "0555",
+    "basay": "n'an'a",
+    "category": "06",
+    "zh": [
+      "嘴"
+    ],
+    "ja": [
+      "ロ"
+    ],
+    "en": [
+      "mouth"
+    ],
+    "source": "B",
+    "original": "ŋaŋa"
+  },
+  {
+    "id": "0556",
+    "basay": "n'an'aja",
+    "category": "06",
+    "zh": [
+      "喙",
+      "帳單"
+    ],
+    "ja": [
+      "嘴"
+    ],
+    "en": [
+      "beak. bill"
+    ],
+    "source": "B",
+    "original": "ŋaŋaja"
+  },
+  {
+    "id": "0553",
+    "basay": "n'anan",
+    "category": "05",
+    "zh": [
+      "姓名"
+    ],
+    "ja": [
+      "名, アミ (ŋaŋan (?))"
+    ],
+    "en": [
+      "name"
+    ],
+    "source": "B",
+    "original": "ŋanan"
+  },
+  {
+    "id": "0554",
+    "basay": "n'anan",
+    "category": "10",
+    "zh": [
+      "迴音"
+    ],
+    "ja": [
+      "山彦"
+    ],
+    "en": [
+      "echo"
+    ],
+    "source": "B",
+    "original": "ŋanan"
+  },
+  {
+    "id": "0557",
+    "basay": "n'apan",
+    "category": "10",
+    "zh": [
+      "河流",
+      "小溪"
+    ],
+    "ja": [
+      "河 , 流れ"
+    ],
+    "en": [
+      "river, stream"
+    ],
+    "source": "B",
+    "original": "ŋapan"
+  },
+  {
+    "id": "0558",
+    "basay": "n'arau a buko's",
+    "category": "06",
+    "zh": [
+      "鬍子"
+    ],
+    "ja": [
+      "ヒゲ"
+    ],
+    "en": [
+      "mustache"
+    ],
+    "source": "B",
+    "original": "ŋarau a bukəs"
+  },
+  {
+    "id": "0559",
+    "basay": "n'atsai",
+    "category": "28",
+    "zh": [
+      "吐"
+    ],
+    "ja": [
+      "唾"
+    ],
+    "en": [
+      "spit"
+    ],
+    "source": "B",
+    "original": "ŋatsai"
+  },
+  {
+    "id": "1691",
+    "basay": "n'atsdi",
+    "category": "28",
+    "zh": [
+      "唾液"
+    ],
+    "en": [
+      "saliva, spit"
+    ],
+    "source": "M",
+    "original": "ŋatsdi (M)"
+  },
+  {
+    "id": "0560",
+    "basay": "n'atu",
+    "category": "08",
+    "zh": [
+      "水稻收穫"
+    ],
+    "ja": [
+      "稲刈り"
+    ],
+    "en": [
+      "rice harvest"
+    ],
+    "source": "B",
+    "original": "ŋatu"
+  },
+  {
+    "id": "1692",
+    "basay": "n'ayaw",
+    "category": "14",
+    "zh": [
+      "前面"
+    ],
+    "en": [
+      "in front of"
+    ],
+    "source": "T",
+    "original": "ŋayaw"
+  },
+  {
+    "id": "1693",
+    "basay": "n'azi",
+    "category": "17",
+    "zh": [
+      "石神"
+    ],
+    "en": [
+      "stone god"
+    ],
+    "source": "T",
+    "original": "ŋazi"
+  },
+  {
+    "id": "1694",
+    "basay": "n'azui",
+    "category": "06",
+    "zh": [
+      "下巴"
+    ],
+    "en": [
+      "chin (lower)"
+    ],
+    "source": "M",
+    "original": "ŋazui (M)"
+  },
+  {
+    "id": "1695",
+    "basay": "n'kia | n'kiia",
+    "category": "34",
+    "zh": [
+      "也"
+    ],
+    "en": [
+      "too"
+    ],
+    "source": "T",
+    "original": "ŋkia, ŋkiia"
+  },
+  {
+    "id": "0561",
+    "basay": "n'onon",
+    "category": "10",
+    "zh": [
+      "山"
+    ],
+    "ja": [
+      "山"
+    ],
+    "en": [
+      "mountain"
+    ],
+    "source": "B",
+    "original": "ŋonon"
+  },
+  {
+    "id": "0562",
+    "basay": "n'onon",
+    "category": "08",
+    "zh": [
+      "森林"
+    ],
+    "ja": [
+      "林"
+    ],
+    "en": [
+      "forest"
+    ],
+    "source": "B",
+    "original": "ŋonon"
+  },
+  {
+    "id": "1696",
+    "basay": "n'orn'or",
+    "category": "06",
+    "zh": [
+      "鼻子"
+    ],
+    "en": [
+      "nose"
+    ],
+    "source": "M",
+    "original": "ŋorŋor (M)"
+  },
+  {
+    "id": "0563",
+    "basay": "n'utsutsje",
+    "category": "06",
+    "zh": [
+      "鼻子"
+    ],
+    "ja": [
+      "鼻"
+    ],
+    "en": [
+      "nose"
+    ],
+    "source": "B",
+    "original": "ŋutsutsje"
+  },
+  {
+    "id": "1697",
+    "basay": "n'uzus",
+    "category": "20",
+    "zh": [
+      "船首"
+    ],
+    "en": [
+      "bow of the ship"
+    ],
+    "source": "M",
+    "original": "ŋuzus (M)"
+  },
+  {
+    "id": "1698",
+    "basay": "n'uzus",
+    "category": "10",
+    "zh": [
+      "岬角"
+    ],
+    "en": [
+      "cape"
+    ],
+    "source": "T",
+    "original": "ŋuzus, ŋuzus taqəl (M)"
+  },
+  {
+    "id": "1699",
+    "basay": "n'uzus taqo'l",
+    "category": "10",
+    "zh": [
+      "岬角"
+    ],
+    "en": [
+      "cape"
+    ],
+    "source": "M",
+    "original": "ŋuzus, ŋuzus taqəl (M)"
+  },
+  {
+    "id": "1660",
+    "basay": "na",
+    "category": "34",
+    "zh": [
+      "了"
+    ],
+    "en": [
+      "aspect marker"
+    ],
+    "source": "T",
+    "original": "na"
+  },
+  {
+    "id": "1661",
+    "basay": "na | na:na | . nai | nawie",
+    "category": "04",
+    "zh": [
+      "媽媽"
+    ],
+    "en": [
+      "mother (address)"
+    ],
+    "source": "T",
+    "original": "na, na:na,. nai, nawie"
+  },
+  {
+    "id": "0529",
+    "basay": "na. | kuman na",
+    "category": "27",
+    "zh": [
+      "已經"
+    ],
+    "ja": [
+      "完了",
+      "ーした",
+      "く食べた>"
+    ],
+    "en": [
+      "already (preterium)"
+    ],
+    "source": "B",
+    "original": "na. <kuman na>"
+  },
+  {
+    "id": "0530",
+    "basay": "na:maD*",
+    "category": "11",
+    "zh": [
+      "火"
+    ],
+    "ja": [
+      "火"
+    ],
+    "en": [
+      "fire"
+    ],
+    "source": "B",
+    "original": "na:maD*"
+  },
+  {
+    "id": "1662",
+    "basay": "nal'ik",
+    "category": "08",
+    "zh": [
+      "麻糬"
+    ],
+    "en": [
+      "rice cake"
+    ],
+    "source": "S",
+    "original": "naɭik (S)> naɭikka (M)"
+  },
+  {
+    "id": "1664",
+    "basay": "nal'il'i",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "en": [
+      "come"
+    ],
+    "source": "S",
+    "original": "naɭiɭi (S)"
+  },
+  {
+    "id": "0531",
+    "basay": "namaD'",
+    "category": "11",
+    "zh": [
+      "火"
+    ],
+    "ja": [
+      "火"
+    ],
+    "en": [
+      "fire"
+    ],
+    "source": "B",
+    "original": "namaD'"
+  },
+  {
+    "id": "0532",
+    "basay": "nameD",
+    "category": "11",
+    "zh": [
+      "閃電"
+    ],
+    "ja": [
+      "電光"
+    ],
+    "en": [
+      "lightning"
+    ],
+    "source": "B",
+    "original": "nameD"
+  },
+  {
+    "id": "0533",
+    "basay": "namel' | nameD*",
+    "category": "11",
+    "zh": [
+      "霹靂"
+    ],
+    "ja": [
+      "電光"
+    ],
+    "en": [
+      "thunderbolt"
+    ],
+    "source": "B",
+    "original": "namel', nameD*"
+  },
+  {
+    "id": "1665",
+    "basay": "nami | yami",
+    "category": "02",
+    "zh": [
+      "我們"
+    ],
+    "en": [
+      "we"
+    ],
+    "source": "T",
+    "original": "nami, yami"
+  },
+  {
+    "id": "0534",
+    "basay": "nan'aja | lan'a",
+    "category": "14",
+    "zh": [
+      "裂痕",
+      "縫隙"
+    ],
+    "ja": [
+      "開ケシ処",
+      "スキマ"
+    ],
+    "en": [
+      "crack, gap"
+    ],
+    "source": "B",
+    "original": "naŋaja, laŋa"
+  },
+  {
+    "id": "0535",
+    "basay": "nan'ala > manan'ala",
+    "category": "32",
+    "zh": [
+      "富有的"
+    ],
+    "ja": [
+      "豊か"
+    ],
+    "en": [
+      "rich"
+    ],
+    "source": "B",
+    "original": "naŋala > manaŋala"
+  },
+  {
+    "id": "1666",
+    "basay": "nan'an",
+    "category": "05",
+    "zh": [
+      "名字"
+    ],
+    "en": [
+      "name"
+    ],
+    "source": "M",
+    "original": "naŋan (M)"
+  },
+  {
+    "id": "0536",
+    "basay": "nan'anan'at'",
+    "category": "06",
+    "zh": [
+      "舌頭的運動"
+    ],
+    "ja": [
+      "舌 (?) 舌ノ動クコト (?)"
+    ],
+    "en": [
+      "tongue (??) movement of tongue (??)"
+    ],
+    "source": "B",
+    "original": "naŋanaŋat'"
+  },
+  {
+    "id": "1667",
+    "basay": "nan'ui",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "en": [
+      "swim"
+    ],
+    "source": "M",
+    "original": "naŋui (M)"
+  },
+  {
+    "id": "0537",
+    "basay": "nanom",
+    "category": "11",
+    "zh": [
+      "水"
+    ],
+    "ja": [
+      "水"
+    ],
+    "en": [
+      "water"
+    ],
+    "source": "B",
+    "original": "nanom"
+  },
+  {
+    "id": "0538",
+    "basay": "nanui",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "ja": [
+      "泳グ"
+    ],
+    "en": [
+      "swim"
+    ],
+    "source": "B",
+    "original": "nanui"
+  },
+  {
+    "id": "0539",
+    "basay": "napun'. ninapun'an. ninapun'",
+    "category": "17",
+    "zh": [
+      "墓"
+    ],
+    "ja": [
+      "墓 < 埋メルコト"
+    ],
+    "en": [
+      "tomb"
+    ],
+    "source": "B",
+    "original": "napuŋ. ninapuŋan. ninapuŋ"
+  },
+  {
+    "id": "1668",
+    "basay": "nasan",
+    "category": "12",
+    "zh": [
+      "庭院，外面"
+    ],
+    "en": [
+      "outside, garden"
+    ],
+    "source": "M",
+    "original": "nasan (M)"
+  },
+  {
+    "id": "1669",
+    "basay": "nasoani",
+    "category": "04",
+    "zh": [
+      "親戚"
+    ],
+    "en": [
+      "relatives"
+    ],
+    "source": "M",
+    "original": "nasoani (M)"
+  },
+  {
+    "id": "0540",
+    "basay": "nato'n'",
+    "category": "09",
+    "zh": [
+      "珠子",
+      "玻璃球"
+    ],
+    "ja": [
+      "極少の硝子玉"
+    ],
+    "en": [
+      "beads, glass.ball"
+    ],
+    "source": "B",
+    "original": "natəŋ"
+  },
+  {
+    "id": "0541",
+    "basay": "natsan'",
+    "category": "32",
+    "zh": [
+      "輕"
+    ],
+    "ja": [
+      "軽イ"
+    ],
+    "en": [
+      "light (in weight)"
+    ],
+    "source": "B",
+    "original": "natsaŋ"
+  },
+  {
+    "id": "0542",
+    "basay": "natsan'",
+    "category": "14",
+    "zh": [
+      "光，所以，到目前為止"
+    ],
+    "ja": [
+      "ソレ程",
+      "軽キ"
+    ],
+    "en": [
+      "light, so, so far"
+    ],
+    "source": "B",
+    "original": "natsaŋ"
+  },
+  {
+    "id": "1643",
+    "basay": "natsan'",
+    "category": "32",
+    "zh": [
+      "輕 (重量)"
+    ],
+    "en": [
+      "light (in weight)"
+    ],
+    "source": "M",
+    "original": "munatsaŋ (M), natsaŋ (M)"
+  },
+  {
+    "id": "1670",
+    "basay": "natswan",
+    "category": "05",
+    "zh": [
+      "姦夫•姦婦"
+    ],
+    "en": [
+      "wanton (man)"
+    ],
+    "source": "M",
+    "original": "natswan (M)"
+  },
+  {
+    "id": "1671",
+    "basay": "nawaika",
+    "category": "29",
+    "zh": [
+      "可惜"
+    ],
+    "en": [
+      "pity"
+    ],
+    "source": "T",
+    "original": "nawaika"
+  },
+  {
+    "id": "1672",
+    "basay": "nazaunii",
+    "category": "03",
+    "zh": [
+      "在做什麼"
+    ],
+    "en": [
+      "what’s up"
+    ],
+    "source": "S",
+    "original": "nazaunii (S)"
+  },
+  {
+    "id": "1673",
+    "basay": "ne",
+    "category": "36",
+    "zh": [
+      "假如"
+    ],
+    "en": [
+      "if"
+    ],
+    "source": "S",
+    "original": "ne (S)"
+  },
+  {
+    "id": "0543",
+    "basay": "nemal' a batu",
+    "category": "09",
+    "zh": [
+      "磚"
+    ],
+    "ja": [
+      "煉瓦"
+    ],
+    "en": [
+      "brick"
+    ],
+    "source": "B",
+    "original": "nemal' a batu"
+  },
+  {
+    "id": "0546",
+    "basay": "nemen uatsu",
+    "category": "07",
+    "zh": [
+      "紅狗"
+    ],
+    "ja": [
+      "赤い犬"
+    ],
+    "en": [
+      "red dog"
+    ],
+    "source": "B",
+    "original": "nemen uatsu"
+  },
+  {
+    "id": "0544",
+    "basay": "nemo'n'",
+    "category": "08",
+    "zh": [
+      "檳榔"
+    ],
+    "ja": [
+      "ピンロー"
+    ],
+    "en": [
+      "betel nut"
+    ],
+    "source": "B",
+    "original": "neməŋ"
+  },
+  {
+    "id": "0545",
+    "basay": "nemo'n' basai",
+    "category": "05",
+    "zh": [
+      "歐洲人"
+    ],
+    "ja": [
+      "紅毛人"
+    ],
+    "en": [
+      "Europeans"
+    ],
+    "source": "B",
+    "original": "neməŋ basai"
+  },
+  {
+    "id": "0547",
+    "basay": "nenause | lawatse",
+    "category": "25",
+    "zh": [
+      "彎曲"
+    ],
+    "ja": [
+      "折ル"
+    ],
+    "en": [
+      "bend (to)"
+    ],
+    "source": "B",
+    "original": "nenause, lawatse (?)"
+  },
+  {
+    "id": "0548",
+    "basay": "netel'",
+    "category": "06",
+    "zh": [
+      "睪丸"
+    ],
+    "ja": [
+      "睾丸"
+    ],
+    "en": [
+      "testicle"
+    ],
+    "source": "B",
+    "original": "netel'"
+  },
+  {
+    "id": "0549",
+    "basay": "netel'",
+    "category": "06",
+    "zh": [
+      "睪丸"
+    ],
+    "ja": [
+      "睾丸"
+    ],
+    "en": [
+      "testicle"
+    ],
+    "source": "B",
+    "original": "netel'"
+  },
+  {
+    "id": "1674",
+    "basay": "nial'a",
+    "category": "25",
+    "zh": [
+      "抓"
+    ],
+    "en": [
+      "catch"
+    ],
+    "source": "T",
+    "original": "niaɭa"
+  },
+  {
+    "id": "1675",
+    "basay": "niana",
+    "category": "03",
+    "zh": [
+      "甚麼"
+    ],
+    "en": [
+      "what"
+    ],
+    "source": "S",
+    "original": "niana (S)"
+  },
+  {
+    "id": "0564",
+    "basay": "nianai",
+    "category": "07",
+    "zh": [
+      "熊"
+    ],
+    "ja": [
+      "熊"
+    ],
+    "en": [
+      "bear (animal)"
+    ],
+    "source": "B",
+    "original": "nianai"
+  },
+  {
+    "id": "1676",
+    "basay": "niano'm",
+    "category": "01",
+    "zh": [
+      "六個人"
+    ],
+    "en": [
+      "six people"
+    ],
+    "source": "T",
+    "original": "nianəm"
+  },
+  {
+    "id": "1677",
+    "basay": "niatsu",
+    "category": "01",
+    "zh": [
+      "三個人"
+    ],
+    "en": [
+      "three people"
+    ],
+    "source": "T",
+    "original": "niatsu"
+  },
+  {
+    "id": "1678",
+    "basay": "niazusa",
+    "category": "01",
+    "zh": [
+      "兩個人"
+    ],
+    "en": [
+      "two people"
+    ],
+    "source": "T",
+    "original": "niazusa"
+  },
+  {
+    "id": "1548",
+    "basay": "niiuits",
+    "category": "05",
+    "zh": [
+      "甦醒，活著的"
+    ],
+    "en": [
+      "revive, alive"
+    ],
+    "source": "T",
+    "original": "niiuits"
+  },
+  {
+    "id": "0567",
+    "basay": "nin'al' | mann'gal'. manin'ad'",
+    "category": "28",
+    "zh": [
+      "聽"
+    ],
+    "ja": [
+      "聴ク"
+    ],
+    "en": [
+      "listen"
+    ],
+    "source": "B",
+    "original": "niŋal', manŋgal'. maniŋad'"
+  },
+  {
+    "id": "1679",
+    "basay": "nin'u",
+    "category": "11",
+    "zh": [
+      "影子"
+    ],
+    "en": [
+      "shadow"
+    ],
+    "source": "M",
+    "original": "niŋu (M)"
+  },
+  {
+    "id": "0565",
+    "basay": "ninamunan",
+    "category": "29",
+    "zh": [
+      "親密的"
+    ],
+    "ja": [
+      "知己",
+      "親シキ"
+    ],
+    "en": [
+      "intimate"
+    ],
+    "source": "B",
+    "original": "ninamunan"
+  },
+  {
+    "id": "0566",
+    "basay": "ninaupun'",
+    "category": "05",
+    "zh": [
+      "公墓"
+    ],
+    "ja": [
+      "墓地 (人ヲ埋メル)"
+    ],
+    "en": [
+      "cemetery"
+    ],
+    "source": "B",
+    "original": "ninaupuŋ"
+  },
+  {
+    "id": "0568",
+    "basay": "nippe",
+    "category": "10",
+    "zh": [
+      "岬"
+    ],
+    "ja": [
+      "岬"
+    ],
+    "en": [
+      "cape"
+    ],
+    "source": "B",
+    "original": "nippe"
+  },
+  {
+    "id": "1680",
+    "basay": "nitsan'",
+    "category": "32",
+    "zh": [
+      "乾的"
+    ],
+    "en": [
+      "dry"
+    ],
+    "source": "M",
+    "original": "nitsaŋ (M)"
+  },
+  {
+    "id": "0569",
+    "basay": "nitsau a mata",
+    "category": "08",
+    "zh": [
+      "冷酷無情",
+      "玉米"
+    ],
+    "ja": [
+      "タコ,イオノ目"
+    ],
+    "en": [
+      "callosity. corn"
+    ],
+    "source": "B",
+    "original": "nitsau a mata"
+  },
+  {
+    "id": "0570",
+    "basay": "nitsawa",
+    "category": "29",
+    "zh": [
+      "類似，就像"
+    ],
+    "ja": [
+      "ノ如キ"
+    ],
+    "en": [
+      "simlar, just like"
+    ],
+    "source": "B",
+    "original": "nitsawa"
+  },
+  {
+    "id": "0571",
+    "basay": "nitun'uD'",
+    "category": "25",
+    "zh": [
+      "彎腰，生出"
+    ],
+    "ja": [
+      "カガム",
+      "産ス"
+    ],
+    "en": [
+      "stoop, give birth to"
+    ],
+    "source": "B",
+    "original": "nituŋuD'"
+  },
+  {
+    "id": "0572",
+    "basay": "nitun'ul' | nitun'ul u takan",
+    "category": "25",
+    "zh": [
+      "坐"
+    ],
+    "ja": [
+      "座る"
+    ],
+    "en": [
+      "sit (to)"
+    ],
+    "source": "B",
+    "original": "nituŋul', <nituŋul u takan>"
+  },
+  {
+    "id": "1681",
+    "basay": "njan'uzinan",
+    "category": "06",
+    "zh": [
+      "散佈，分佈"
+    ],
+    "en": [
+      "split one's hair"
+    ],
+    "source": "M",
+    "original": "njaŋuzinan (M)"
+  },
+  {
+    "id": "0573",
+    "basay": "njatsan baute",
+    "category": "15",
+    "zh": [
+      "魚"
+    ],
+    "ja": [
+      "漁ル"
+    ],
+    "en": [
+      "fish (to)"
+    ],
+    "source": "B",
+    "original": "njatsan baute"
+  },
+  {
+    "id": "1682",
+    "basay": "nu",
+    "category": "34",
+    "zh": [
+      "嗎"
+    ],
+    "en": [
+      "question marker"
+    ],
+    "source": "T",
+    "original": "nu"
+  },
+  {
+    "id": "1683",
+    "basay": "nukanan",
+    "category": "06",
+    "zh": [
+      "纏足"
+    ],
+    "en": [
+      "foot-binding"
+    ],
+    "source": "M",
+    "original": "nukanan (M)"
+  },
+  {
+    "id": "1684",
+    "basay": "nul'atsun'",
+    "category": "34",
+    "zh": [
+      "活該"
+    ],
+    "en": [
+      "deserve"
+    ],
+    "source": "T",
+    "original": "nuɭatsuŋ"
+  },
+  {
+    "id": "0520",
+    "basay": "nulate",
+    "category": "35",
+    "zh": [
+      "壞的"
+    ],
+    "ja": [
+      "悪しき"
+    ],
+    "en": [
+      "bad"
+    ],
+    "source": "B",
+    "original": "nulate"
+  },
+  {
+    "id": "0574",
+    "basay": "numaD'",
+    "category": "28",
+    "zh": [
+      "看"
+    ],
+    "ja": [
+      "見る"
+    ],
+    "en": [
+      "see (to)"
+    ],
+    "source": "B",
+    "original": "numaD'"
+  },
+  {
+    "id": "0576",
+    "basay": "numaD'. | jaku numaD'",
+    "category": "02",
+    "zh": [
+      "死",
+      "看"
+    ],
+    "ja": [
+      "死ス, <私ハ死ス> (?). 見ル <私ハ見ル>(?)"
+    ],
+    "en": [
+      "die. see"
+    ],
+    "source": "B",
+    "original": "numaD'. <jaku numaD'>"
+  },
+  {
+    "id": "0575",
+    "basay": "numaD'. | mita numaD'",
+    "category": "14",
+    "zh": [
+      "向前，前面"
+    ],
+    "ja": [
+      "前方,< 吾々ノ前>"
+    ],
+    "en": [
+      "forward, front"
+    ],
+    "source": "B",
+    "original": "numaD'. <mita numaD'>"
+  },
+  {
+    "id": "0577",
+    "basay": "numako'n",
+    "category": "32",
+    "zh": [
+      "真的"
+    ],
+    "ja": [
+      "本当ノ"
+    ],
+    "en": [
+      "true"
+    ],
+    "source": "B",
+    "original": "numakən"
+  },
+  {
+    "id": "0578",
+    "basay": "numal lasse >numalasse",
+    "category": "34",
+    "ja": [
+      "シメツル"
+    ],
+    "en": [
+      "(??)"
+    ],
+    "source": "B",
+    "original": "numal lasse >numalasse"
+  },
+  {
+    "id": "1686",
+    "basay": "nunai",
+    "category": "08",
+    "zh": [
+      "筍"
+    ],
+    "en": [
+      "bamboo shoot"
+    ],
+    "source": "M",
+    "original": "nunai (M)"
+  },
+  {
+    "id": "1687",
+    "basay": "nunuan",
+    "category": "01",
+    "zh": [
+      "一半"
+    ],
+    "en": [
+      "half"
+    ],
+    "source": "T",
+    "original": "nunuan"
+  },
+  {
+    "id": "0579",
+    "basay": "nununun'usse",
+    "category": "32",
+    "zh": [
+      "蓬勃"
+    ],
+    "ja": [
+      "活気アル"
+    ],
+    "en": [
+      "vigorous"
+    ],
+    "source": "B",
+    "original": "nununuŋusse"
+  },
+  {
+    "id": "0580",
+    "basay": "nupun'",
+    "category": "15",
+    "zh": [
+      "網袋"
+    ],
+    "ja": [
+      "網袋"
+    ],
+    "en": [
+      "netbag"
+    ],
+    "source": "B",
+    "original": "nupuŋ"
+  },
+  {
+    "id": "1688",
+    "basay": "nurvi",
+    "category": "25",
+    "zh": [
+      "賭博"
+    ],
+    "en": [
+      "gamble (to)"
+    ],
+    "source": "M",
+    "original": "nurvi (M)"
+  },
+  {
+    "id": "0581",
+    "basay": "nusunuse",
+    "category": "07",
+    "zh": [
+      "墨魚乾"
+    ],
+    "ja": [
+      "スルメ"
+    ],
+    "en": [
+      "dried cuttlefish"
+    ],
+    "source": "B",
+    "original": "nusunuse"
+  },
+  {
+    "id": "0582",
+    "basay": "nutse",
+    "category": "07",
+    "zh": [
+      "章魚",
+      "烏賊"
+    ],
+    "ja": [
+      "蛸, イカ"
+    ],
+    "en": [
+      "octopus. squid"
+    ],
+    "source": "B",
+    "original": "nutse"
+  },
+  {
+    "id": "1689",
+    "basay": "nuvasai",
+    "category": "08",
+    "zh": [
+      "玉蜀黍，玉米"
+    ],
+    "en": [
+      "Indian corn"
+    ],
+    "source": "M",
+    "original": "nuvasai (M)"
+  },
+  {
+    "id": "1690",
+    "basay": "nuzun'",
+    "category": "08",
+    "zh": [
+      "糯米餅"
+    ],
+    "en": [
+      "rice cookies"
+    ],
+    "source": "S",
+    "original": "nuzuŋ (S)"
+  }
+]

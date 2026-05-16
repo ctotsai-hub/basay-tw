@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "2230",
+    "basay": "vaan'",
+    "category": "10",
+    "zh": [
+      "水溝"
+    ],
+    "en": [
+      "ditch"
+    ],
+    "source": "M",
+    "original": "vaaŋ (M)"
+  },
+  {
+    "id": "2238",
+    "basay": "vaisi",
+    "category": "11",
+    "zh": [
+      "風"
+    ],
+    "en": [
+      "wind"
+    ],
+    "source": "S",
+    "original": "vaɭi (S)，vaisi (S)"
+  },
+  {
+    "id": "2231",
+    "basay": "vako't",
+    "category": "32",
+    "zh": [
+      "強壯的"
+    ],
+    "en": [
+      "strong"
+    ],
+    "source": "M",
+    "original": "vakət (M)"
+  },
+  {
+    "id": "2232",
+    "basay": "vakut",
+    "category": "06",
+    "zh": [
+      "足夠"
+    ],
+    "en": [
+      "enough"
+    ],
+    "source": "M",
+    "original": "vakut (M)"
+  },
+  {
+    "id": "2233",
+    "basay": "vakvaki",
+    "category": "05",
+    "zh": [
+      "老人"
+    ],
+    "en": [
+      "old man"
+    ],
+    "source": "T",
+    "original": "vakvaki"
+  },
+  {
+    "id": "2237",
+    "basay": "val'i",
+    "category": "11",
+    "zh": [
+      "風"
+    ],
+    "en": [
+      "wind"
+    ],
+    "source": "S",
+    "original": "vaɭi (S)，vaisi (S)"
+  },
+  {
+    "id": "2239",
+    "basay": "val'iu",
+    "category": "08",
+    "zh": [
+      "海藻"
+    ],
+    "en": [
+      "seaweed"
+    ],
+    "source": "M",
+    "original": "vaɭiu (M)"
+  },
+  {
+    "id": "2240",
+    "basay": "val'si",
+    "category": "34",
+    "zh": [
+      "掉進"
+    ],
+    "en": [
+      "drop into"
+    ],
+    "source": "T",
+    "original": "vaɭsi"
+  },
+  {
+    "id": "1106",
+    "basay": "valai",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "ja": [
+      "与フ"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "B",
+    "original": "valai"
+  },
+  {
+    "id": "2234",
+    "basay": "valat",
+    "category": "12",
+    "zh": [
+      "門"
+    ],
+    "en": [
+      "door"
+    ],
+    "source": "T",
+    "original": "valat"
+  },
+  {
+    "id": "2235",
+    "basay": "valata",
+    "category": "12",
+    "zh": [
+      "關門"
+    ],
+    "en": [
+      "shut the door"
+    ],
+    "source": "M",
+    "original": "valata (M)"
+  },
+  {
+    "id": "2236",
+    "basay": "valuvaiun'",
+    "category": "13",
+    "zh": [
+      "很久"
+    ],
+    "en": [
+      "long (time)"
+    ],
+    "source": "T",
+    "original": "valuvaiuŋ"
+  },
+  {
+    "id": "2246",
+    "basay": "van'ka",
+    "category": "20",
+    "zh": [
+      "獨木舟"
+    ],
+    "en": [
+      "canoe"
+    ],
+    "source": "M",
+    "original": "vaŋka (M)"
+  },
+  {
+    "id": "2247",
+    "basay": "van'siss (S | M)",
+    "category": "28",
+    "zh": [
+      "香"
+    ],
+    "en": [
+      "smell good"
+    ],
+    "source": "T",
+    "original": "vaŋsiss (S, M)"
+  },
+  {
+    "id": "2248",
+    "basay": "van'un",
+    "category": "05",
+    "zh": [
+      "社名"
+    ],
+    "en": [
+      "name of a village"
+    ],
+    "source": "M",
+    "original": "vaŋun (M)"
+  },
+  {
+    "id": "2241",
+    "basay": "vanan'",
+    "category": "10",
+    "zh": [
+      "地，田地，水田"
+    ],
+    "en": [
+      "field, land"
+    ],
+    "source": "T",
+    "original": "vanaŋ"
+  },
+  {
+    "id": "2242",
+    "basay": "vanet",
+    "category": "18",
+    "zh": [
+      "扯破，破（衣服）"
+    ],
+    "en": [
+      "torn"
+    ],
+    "source": "M",
+    "original": "vanet (M)"
+  },
+  {
+    "id": "2244",
+    "basay": "vano",
+    "category": "06",
+    "zh": [
+      "體毛"
+    ],
+    "en": [
+      "body hair"
+    ],
+    "source": "M",
+    "original": "vano (M)"
+  },
+  {
+    "id": "2243",
+    "basay": "vano'l",
+    "category": "34",
+    "zh": [
+      "羽毛"
+    ],
+    "en": [
+      "feather"
+    ],
+    "source": "S",
+    "original": "vanəl (S)"
+  },
+  {
+    "id": "2245",
+    "basay": "vanun'",
+    "category": "34",
+    "zh": [
+      "寶物"
+    ],
+    "en": [
+      "treasure"
+    ],
+    "source": "S",
+    "original": "vanuŋ (S)"
+  },
+  {
+    "id": "2249",
+    "basay": "varis",
+    "category": "09",
+    "zh": [
+      "鐵"
+    ],
+    "en": [
+      "iron"
+    ],
+    "source": "M",
+    "original": "varis (M)"
+  },
+  {
+    "id": "2250",
+    "basay": "vasin'",
+    "category": "23",
+    "zh": [
+      "打噴嚏"
+    ],
+    "en": [
+      "sneeze"
+    ],
+    "source": "M",
+    "original": "vasiŋ (M)"
+  },
+  {
+    "id": "2251",
+    "basay": "vasiw",
+    "category": "25",
+    "zh": [
+      "扔掉"
+    ],
+    "en": [
+      "throw away"
+    ],
+    "source": "T",
+    "original": "vasiw"
+  },
+  {
+    "id": "1446",
+    "basay": "vate",
+    "category": "07",
+    "zh": [
+      "鷺"
+    ],
+    "en": [
+      "egret"
+    ],
+    "source": "M",
+    "original": "manuq (S), vate (M)"
+  },
+  {
+    "id": "2252",
+    "basay": "vate",
+    "category": "22",
+    "zh": [
+      "白色"
+    ],
+    "en": [
+      "white"
+    ],
+    "source": "M",
+    "original": "vate (M)"
+  },
+  {
+    "id": "2253",
+    "basay": "vatsal",
+    "category": "20",
+    "zh": [
+      "船"
+    ],
+    "en": [
+      "ship"
+    ],
+    "source": "M",
+    "original": "vatsal (M)"
+  },
+  {
+    "id": "1107",
+    "basay": "vatsi",
+    "category": "11",
+    "zh": [
+      "今天"
+    ],
+    "ja": [
+      "今日"
+    ],
+    "en": [
+      "today"
+    ],
+    "source": "B",
+    "original": "vatsi"
+  },
+  {
+    "id": "2255",
+    "basay": "vatsiu",
+    "category": "25",
+    "zh": [
+      "賣"
+    ],
+    "en": [
+      "sell"
+    ],
+    "source": "M",
+    "original": "vatsiu (M)"
+  },
+  {
+    "id": "2254",
+    "basay": "vatso'n'",
+    "category": "11",
+    "zh": [
+      "抽煙"
+    ],
+    "en": [
+      "smoke"
+    ],
+    "source": "M",
+    "original": "vatsəŋ (M)"
+  },
+  {
+    "id": "2256",
+    "basay": "vatsun",
+    "category": "34",
+    "zh": [
+      "支配"
+    ],
+    "en": [
+      "dominate"
+    ],
+    "source": "T",
+    "original": "vatsun"
+  },
+  {
+    "id": "2257",
+    "basay": "vatu",
+    "category": "06",
+    "zh": [
+      "石頭"
+    ],
+    "en": [
+      "stone"
+    ],
+    "source": "T",
+    "original": "vatu"
+  },
+  {
+    "id": "2258",
+    "basay": "vatuk",
+    "category": "25",
+    "zh": [
+      "砍"
+    ],
+    "en": [
+      "cut"
+    ],
+    "source": "T",
+    "original": "vatuk"
+  },
+  {
+    "id": "2259",
+    "basay": "vaut",
+    "category": "07",
+    "zh": [
+      "魚"
+    ],
+    "en": [
+      "fish"
+    ],
+    "source": "T",
+    "original": "vaut"
+  },
+  {
+    "id": "2260",
+    "basay": "vautu mtalo'm",
+    "category": "07",
+    "zh": [
+      "鹹魚"
+    ],
+    "en": [
+      "salted fish"
+    ],
+    "source": "M",
+    "original": "vautu mtaləm (M)"
+  },
+  {
+    "id": "2261",
+    "basay": "vauvi",
+    "category": "08",
+    "zh": [
+      "早田，早地（甘薯地）"
+    ],
+    "en": [
+      "dry farm land (potato)"
+    ],
+    "source": "M",
+    "original": "vauvi (M)"
+  },
+  {
+    "id": "2262",
+    "basay": "vavaan",
+    "category": "06",
+    "zh": [
+      "揹"
+    ],
+    "en": [
+      "carry on back"
+    ],
+    "source": "T",
+    "original": "vavaan"
+  },
+  {
+    "id": "2263",
+    "basay": "vavan'",
+    "category": "05",
+    "zh": [
+      "社名"
+    ],
+    "en": [
+      "name of a village"
+    ],
+    "source": "M",
+    "original": "vavaŋ (M)"
+  },
+  {
+    "id": "2264",
+    "basay": "vawa",
+    "category": "20",
+    "zh": [
+      "船"
+    ],
+    "en": [
+      "boat"
+    ],
+    "source": "T",
+    "original": "vawa"
+  },
+  {
+    "id": "2265",
+    "basay": "vayvalan",
+    "category": "04",
+    "zh": [
+      "祖先"
+    ],
+    "en": [
+      "ancestor"
+    ],
+    "source": "T",
+    "original": "vayvalan"
+  },
+  {
+    "id": "2266",
+    "basay": "vcqail",
+    "category": "06",
+    "zh": [
+      "鳥嘴"
+    ],
+    "en": [
+      "break"
+    ],
+    "source": "M",
+    "original": "vcqail (M)"
+  },
+  {
+    "id": "2267",
+    "basay": "veso'l",
+    "category": "12",
+    "zh": [
+      "閂，門栓"
+    ],
+    "en": [
+      "bolt, bear of the door"
+    ],
+    "source": "M",
+    "original": "vesəl (M)"
+  },
+  {
+    "id": "2270",
+    "basay": "viate",
+    "category": "25",
+    "zh": [
+      "切間"
+    ],
+    "en": [
+      "cut open, split"
+    ],
+    "source": "S",
+    "original": "viate (S)"
+  },
+  {
+    "id": "2271",
+    "basay": "viau",
+    "category": "25",
+    "zh": [
+      "彎曲"
+    ],
+    "en": [
+      "bend, curve"
+    ],
+    "source": "M",
+    "original": "viau (M)"
+  },
+  {
+    "id": "2272",
+    "basay": "vilan'",
+    "category": "25",
+    "zh": [
+      "計算"
+    ],
+    "en": [
+      "calculate"
+    ],
+    "source": "M",
+    "original": "vilaŋ (M)"
+  },
+  {
+    "id": "2273",
+    "basay": "vinay",
+    "category": "05",
+    "zh": [
+      "女孩，女人，老婆"
+    ],
+    "en": [
+      "girl, woman, wile"
+    ],
+    "source": "T",
+    "original": "vinay"
+  },
+  {
+    "id": "2274",
+    "basay": "vislan",
+    "category": "12",
+    "zh": [
+      "上門栓"
+    ],
+    "en": [
+      "latch"
+    ],
+    "source": "T",
+    "original": "vislan"
+  },
+  {
+    "id": "2275",
+    "basay": "visun",
+    "category": "09",
+    "zh": [
+      "搖籃"
+    ],
+    "en": [
+      "cradle"
+    ],
+    "source": "M",
+    "original": "visun (M)"
+  },
+  {
+    "id": "2276",
+    "basay": "vivis",
+    "category": "14",
+    "zh": [
+      "支撐"
+    ],
+    "en": [
+      "prop up"
+    ],
+    "source": "T",
+    "original": "vivis"
+  },
+  {
+    "id": "2277",
+    "basay": "vivittu",
+    "category": "06",
+    "zh": [
+      "夾在石頭"
+    ],
+    "en": [
+      "pinched by stones"
+    ],
+    "source": "T",
+    "original": "vivittu"
+  },
+  {
+    "id": "2278",
+    "basay": "viwviwta",
+    "category": "09",
+    "zh": [
+      "動搖"
+    ],
+    "en": [
+      "swing, shake"
+    ],
+    "source": "T",
+    "original": "viwviwta"
+  },
+  {
+    "id": "2279",
+    "basay": "vkasan",
+    "category": "10",
+    "zh": [
+      "用士蓋起來"
+    ],
+    "en": [
+      "cover with earth"
+    ],
+    "source": "T",
+    "original": "vkasan"
+  },
+  {
+    "id": "2284",
+    "basay": "vl'ajanimau < vlaj",
+    "category": "25",
+    "zh": [
+      "歸還"
+    ],
+    "en": [
+      "give, return"
+    ],
+    "source": "M",
+    "original": "vɭajanimau < vlaj (M)"
+  },
+  {
+    "id": "2285",
+    "basay": "vl'al'owan",
+    "category": "07",
+    "zh": [
+      "螢火蟲"
+    ],
+    "en": [
+      "firefly"
+    ],
+    "source": "M",
+    "original": "vɭaɭowan (M)"
+  },
+  {
+    "id": "2286",
+    "basay": "vl'al'uan",
+    "category": "09",
+    "zh": [
+      "糞金龜(蜣螂)"
+    ],
+    "en": [
+      "dung beetle"
+    ],
+    "source": "T",
+    "original": "vɭaɭuan"
+  },
+  {
+    "id": "2287",
+    "basay": "vl'amo's tsan'as uqu",
+    "category": "32",
+    "zh": [
+      "乾淨的"
+    ],
+    "en": [
+      "clean"
+    ],
+    "source": "M",
+    "original": "vɭaməs tsaŋas uqu (?) (M)"
+  },
+  {
+    "id": "2280",
+    "basay": "vlailain",
+    "category": "34",
+    "zh": [
+      "動搖，搖晃"
+    ],
+    "en": [
+      "unstable, totter"
+    ],
+    "source": "M",
+    "original": "vlailain (M)"
+  },
+  {
+    "id": "2281",
+    "basay": "vlaqu",
+    "category": "25",
+    "zh": [
+      "擁抱"
+    ],
+    "en": [
+      "embrace, hold"
+    ],
+    "source": "M",
+    "original": "vlaqu (M)"
+  },
+  {
+    "id": "2282",
+    "basay": "vlavlayan",
+    "category": "34",
+    "zh": [
+      "得到很多"
+    ],
+    "en": [
+      "receive plenty"
+    ],
+    "source": "T",
+    "original": "vlavlayan"
+  },
+  {
+    "id": "2283",
+    "basay": "vlay",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "T",
+    "original": "vlay"
+  },
+  {
+    "id": "2288",
+    "basay": "vlun'usan",
+    "category": "29",
+    "zh": [
+      "適合，剛好"
+    ],
+    "en": [
+      "suitable"
+    ],
+    "source": "T",
+    "original": "vluŋusan"
+  },
+  {
+    "id": "2268",
+    "basay": "vo'dk",
+    "category": "14",
+    "zh": [
+      "下來"
+    ],
+    "en": [
+      "come down"
+    ],
+    "source": "T",
+    "original": "vədk"
+  },
+  {
+    "id": "2269",
+    "basay": "vo'qaan",
+    "category": "25",
+    "zh": [
+      "解間"
+    ],
+    "en": [
+      "untie"
+    ],
+    "source": "T",
+    "original": "vəqaan"
+  },
+  {
+    "id": "2289",
+    "basay": "vojeq",
+    "category": "08",
+    "zh": [
+      "開花"
+    ],
+    "en": [
+      "bloom (to)"
+    ],
+    "source": "M",
+    "original": "vojeq (M)"
+  },
+  {
+    "id": "2290",
+    "basay": "vol'oan",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "en": [
+      "ear"
+    ],
+    "source": "M",
+    "original": "voɭoan (M)"
+  },
+  {
+    "id": "2291",
+    "basay": "von'ol'o",
+    "category": "14",
+    "zh": [
+      "下面"
+    ],
+    "en": [
+      "under"
+    ],
+    "source": "M",
+    "original": "voŋoɭo (M)"
+  },
+  {
+    "id": "2292",
+    "basay": "votol",
+    "category": "06",
+    "zh": [
+      "睪丸"
+    ],
+    "en": [
+      "testicle"
+    ],
+    "source": "M",
+    "original": "votol (M)"
+  },
+  {
+    "id": "2293",
+    "basay": "votse",
+    "category": "11",
+    "zh": [
+      "熱水"
+    ],
+    "en": [
+      "hot water"
+    ],
+    "source": "M",
+    "original": "votse (M)"
+  },
+  {
+    "id": "2294",
+    "basay": "vozno",
+    "category": "12",
+    "zh": [
+      "拿回家"
+    ],
+    "en": [
+      "bring home"
+    ],
+    "source": "M",
+    "original": "vozno (M)"
+  },
+  {
+    "id": "2295",
+    "basay": "vuin'",
+    "category": "25",
+    "zh": [
+      "折斷，弄壞"
+    ],
+    "en": [
+      "break, destroy"
+    ],
+    "source": "M",
+    "original": "vuiŋ (M), vuiŋan"
+  },
+  {
+    "id": "2296",
+    "basay": "vuin'an",
+    "category": "25",
+    "zh": [
+      "折斷，弄壞"
+    ],
+    "en": [
+      "break, destroy"
+    ],
+    "source": "T",
+    "original": "vuiŋ (M), vuiŋan"
+  },
+  {
+    "id": "2297",
+    "basay": "vukan | vuqqan' | vuyaqan",
+    "category": "25",
+    "zh": [
+      "解開，解開"
+    ],
+    "en": [
+      "open, untie"
+    ],
+    "source": "T",
+    "original": "vukan, vuqqaŋ,vuyaqan"
+  },
+  {
+    "id": "2300",
+    "basay": "vul'u",
+    "category": "08",
+    "zh": [
+      "小蘿蔔"
+    ],
+    "en": [
+      "radish"
+    ],
+    "source": "M",
+    "original": "vuɭu (M)"
+  },
+  {
+    "id": "2301",
+    "basay": "vul'vul'",
+    "category": "34",
+    "zh": [
+      "暖和"
+    ],
+    "en": [
+      "warm"
+    ],
+    "source": "T",
+    "original": "vuɭvuɭ"
+  },
+  {
+    "id": "2298",
+    "basay": "vulai",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "M",
+    "original": "vulai (M)"
+  },
+  {
+    "id": "2299",
+    "basay": "vulats",
+    "category": "08",
+    "zh": [
+      "飯"
+    ],
+    "en": [
+      "rice"
+    ],
+    "source": "M",
+    "original": "vulats (M)"
+  },
+  {
+    "id": "2302",
+    "basay": "vuqal'us | vuqaqo's",
+    "category": "07",
+    "zh": [
+      "懶惰蟲"
+    ],
+    "en": [
+      "idler, lazy bones"
+    ],
+    "source": "T",
+    "original": "vuqaɭus, vuqaqəs"
+  },
+  {
+    "id": "2303",
+    "basay": "vuqutta",
+    "category": "07",
+    "zh": [
+      "豬腳"
+    ],
+    "en": [
+      "pig's feet"
+    ],
+    "source": "T",
+    "original": "vuqutta"
+  },
+  {
+    "id": "2304",
+    "basay": "vurtlan",
+    "category": "11",
+    "zh": [
+      "星星"
+    ],
+    "en": [
+      "stars"
+    ],
+    "source": "M",
+    "original": "vurtlan (M)"
+  },
+  {
+    "id": "2305",
+    "basay": "vurvur",
+    "category": "27",
+    "zh": [
+      "烘焙"
+    ],
+    "en": [
+      "roast"
+    ],
+    "source": "M",
+    "original": "vurvur (M)"
+  },
+  {
+    "id": "2306",
+    "basay": "vusuk",
+    "category": "27",
+    "zh": [
+      "酒醉"
+    ],
+    "en": [
+      "drunk"
+    ],
+    "source": "M",
+    "original": "vusuk (M)"
+  },
+  {
+    "id": "2309",
+    "basay": "vutsan",
+    "category": "11",
+    "zh": [
+      "月亮"
+    ],
+    "en": [
+      "moon"
+    ],
+    "source": "M",
+    "original": "vutsan (M)"
+  },
+  {
+    "id": "2310",
+    "basay": "vutsan u utsa",
+    "category": "11",
+    "zh": [
+      "下個月"
+    ],
+    "en": [
+      "next month"
+    ],
+    "source": "M",
+    "original": "vutsan u utsa (M)"
+  },
+  {
+    "id": "2311",
+    "basay": "vutsanal'ai",
+    "category": "02",
+    "zh": [
+      "這個月"
+    ],
+    "en": [
+      "this month"
+    ],
+    "source": "M",
+    "original": "vutsanaɭai (M)"
+  },
+  {
+    "id": "2312",
+    "basay": "vutse | butse",
+    "category": "11",
+    "zh": [
+      "溫水"
+    ],
+    "en": [
+      "warm water"
+    ],
+    "source": "T",
+    "original": "vutse, butse"
+  },
+  {
+    "id": "2313",
+    "basay": "vutsuts",
+    "category": "05",
+    "zh": [
+      "台灣人"
+    ],
+    "en": [
+      "Taiwanese"
+    ],
+    "source": "M",
+    "original": "vutsuts (M)"
+  },
+  {
+    "id": "2314",
+    "basay": "vutsutsa",
+    "category": "05",
+    "zh": [
+      "漢人"
+    ],
+    "en": [
+      "Chinese"
+    ],
+    "source": "T",
+    "original": "vutsutsa"
+  },
+  {
+    "id": "2307",
+    "basay": "vutun",
+    "category": "07",
+    "zh": [
+      "貓"
+    ],
+    "en": [
+      "cat"
+    ],
+    "source": "M",
+    "original": "vutun (M)"
+  },
+  {
+    "id": "2308",
+    "basay": "vutvutta",
+    "category": "34",
+    "zh": [
+      "噴泉"
+    ],
+    "en": [
+      "fountain"
+    ],
+    "source": "M",
+    "original": "vutvutta (M)"
+  },
+  {
+    "id": "2315",
+    "basay": "vuut",
+    "category": "34",
+    "zh": [
+      "成就，成績"
+    ],
+    "en": [
+      "accomplishment"
+    ],
+    "source": "M",
+    "original": "vuut (M)"
+  }
+]

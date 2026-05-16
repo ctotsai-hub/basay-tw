@@ -1,0 +1,4986 @@
+[
+  {
+    "id": "1400",
+    "basay": "maan",
+    "category": "34",
+    "zh": [
+      "完成"
+    ],
+    "en": [
+      "finish"
+    ],
+    "source": "T",
+    "original": "maan"
+  },
+  {
+    "id": "1401",
+    "basay": "maaqnu",
+    "category": "24",
+    "zh": [
+      "真的"
+    ],
+    "en": [
+      "really"
+    ],
+    "source": "S",
+    "original": "maaqnu (S)"
+  },
+  {
+    "id": "0423",
+    "basay": "mabel'",
+    "category": "25",
+    "zh": [
+      "爭吵"
+    ],
+    "ja": [
+      "喧嘩"
+    ],
+    "en": [
+      "quarrel"
+    ],
+    "source": "B",
+    "original": "mabel'"
+  },
+  {
+    "id": "0424",
+    "basay": "mabet | mabel",
+    "category": "25",
+    "zh": [
+      "爭吵"
+    ],
+    "ja": [
+      "ケンカ"
+    ],
+    "en": [
+      "quarrel"
+    ],
+    "source": "B",
+    "original": "mabet, mabel"
+  },
+  {
+    "id": "0425",
+    "basay": "mahiuhiu",
+    "category": "21",
+    "zh": [
+      "炒"
+    ],
+    "ja": [
+      "油デイタメル"
+    ],
+    "en": [
+      "fry"
+    ],
+    "source": "B",
+    "original": "mahiuhiu"
+  },
+  {
+    "id": "1403",
+    "basay": "maia",
+    "category": "25",
+    "zh": [
+      "做"
+    ],
+    "en": [
+      "make"
+    ],
+    "source": "M",
+    "original": "maia (M)"
+  },
+  {
+    "id": "0426",
+    "basay": "maija-sjali n'onon",
+    "category": "10",
+    "zh": [
+      "不去山"
+    ],
+    "ja": [
+      "山に行かない"
+    ],
+    "en": [
+      "not to go to mountain"
+    ],
+    "source": "B",
+    "original": "maija-sjali ŋonon"
+  },
+  {
+    "id": "1404",
+    "basay": "mail'ase",
+    "category": "06",
+    "zh": [
+      "分手"
+    ],
+    "en": [
+      "depart"
+    ],
+    "source": "S",
+    "original": "maiɭase (S)"
+  },
+  {
+    "id": "0427",
+    "basay": "mailatse",
+    "category": "05",
+    "zh": [
+      "活"
+    ],
+    "ja": [
+      "活キテオル人, アミ(mi-to.oh)"
+    ],
+    "en": [
+      "alive"
+    ],
+    "source": "B",
+    "original": "mailatse"
+  },
+  {
+    "id": "1406",
+    "basay": "maiqvatin'",
+    "category": "32",
+    "zh": [
+      "生病"
+    ],
+    "en": [
+      "sick"
+    ],
+    "source": "T",
+    "original": "maiqvatiŋ"
+  },
+  {
+    "id": "1407",
+    "basay": "mais",
+    "category": "29",
+    "zh": [
+      "怕"
+    ],
+    "en": [
+      "fear"
+    ],
+    "source": "S",
+    "original": "mais (S)"
+  },
+  {
+    "id": "0428",
+    "basay": "maitattse",
+    "category": "25",
+    "zh": [
+      "再活一次"
+    ],
+    "ja": [
+      "モウ一度生キル"
+    ],
+    "en": [
+      "live once more"
+    ],
+    "source": "B",
+    "original": "maitattse"
+  },
+  {
+    "id": "0429",
+    "basay": "maitsa",
+    "category": "29",
+    "zh": [
+      "生氣的"
+    ],
+    "ja": [
+      "オコル"
+    ],
+    "en": [
+      "angry"
+    ],
+    "source": "B",
+    "original": "maitsa"
+  },
+  {
+    "id": "0430",
+    "basay": "maitsa",
+    "category": "06",
+    "zh": [
+      "爭議"
+    ],
+    "ja": [
+      "口論ス"
+    ],
+    "en": [
+      "dispute"
+    ],
+    "source": "B",
+    "original": "maitsa"
+  },
+  {
+    "id": "0431",
+    "basay": "maitsa",
+    "category": "25",
+    "zh": [
+      "罵"
+    ],
+    "ja": [
+      "叱ル"
+    ],
+    "en": [
+      "scold"
+    ],
+    "source": "B",
+    "original": "maitsa"
+  },
+  {
+    "id": "0432",
+    "basay": "maju",
+    "category": "27",
+    "zh": [
+      "還沒吃飯"
+    ],
+    "ja": [
+      "マダ食べナイ"
+    ],
+    "en": [
+      "haven't yet eaten"
+    ],
+    "source": "B",
+    "original": "maju"
+  },
+  {
+    "id": "0433",
+    "basay": "maju | maju nananem | maju koman(i)",
+    "category": "27",
+    "zh": [
+      "不是"
+    ],
+    "ja": [
+      "~ない】<心配セズ>, <食べナイ>"
+    ],
+    "en": [
+      "not"
+    ],
+    "source": "B",
+    "original": "maju, <maju nananem>, <maju koman(i) >"
+  },
+  {
+    "id": "1408",
+    "basay": "makawas",
+    "category": "25",
+    "zh": [
+      "說"
+    ],
+    "en": [
+      "say"
+    ],
+    "source": "T",
+    "original": "makawas, sikaw (S)"
+  },
+  {
+    "id": "1410",
+    "basay": "makay",
+    "category": "25",
+    "zh": [
+      "回來"
+    ],
+    "en": [
+      "return"
+    ],
+    "source": "T",
+    "original": "makay"
+  },
+  {
+    "id": "0434",
+    "basay": "maken'",
+    "category": "32",
+    "zh": [
+      "誠實的",
+      "真的"
+    ],
+    "ja": [
+      "正直ナ",
+      "本当ノ"
+    ],
+    "en": [
+      "honest. true"
+    ],
+    "source": "B",
+    "original": "makeŋ"
+  },
+  {
+    "id": "0435",
+    "basay": "makila",
+    "category": "32",
+    "zh": [
+      "等人",
+      "相似的"
+    ],
+    "ja": [
+      "スベテ 同じ"
+    ],
+    "en": [
+      "al. similar"
+    ],
+    "source": "B",
+    "original": "makila"
+  },
+  {
+    "id": "0436",
+    "basay": "makila | makila kuman",
+    "category": "01",
+    "zh": [
+      "全部全部吃"
+    ],
+    "ja": [
+      "みんな,くみんな食べる>"
+    ],
+    "en": [
+      "all, <all eat>"
+    ],
+    "source": "B",
+    "original": "makila, <makila kuman>"
+  },
+  {
+    "id": "1413",
+    "basay": "makin'",
+    "category": "11",
+    "zh": [
+      "打火石"
+    ],
+    "en": [
+      "flint (for striking sparks)"
+    ],
+    "source": "M",
+    "original": "makiŋ (M)"
+  },
+  {
+    "id": "1414",
+    "basay": "makl'i",
+    "category": "09",
+    "zh": [
+      "彎曲"
+    ],
+    "en": [
+      "bench curve"
+    ],
+    "source": "M",
+    "original": "makɭi (M)"
+  },
+  {
+    "id": "1415",
+    "basay": "makl'isu",
+    "category": "01",
+    "zh": [
+      "周圍"
+    ],
+    "en": [
+      "circumference"
+    ],
+    "source": "M",
+    "original": "makɭisu (M)"
+  },
+  {
+    "id": "1411",
+    "basay": "mako'n",
+    "category": "24",
+    "zh": [
+      "真的"
+    ],
+    "en": [
+      "really"
+    ],
+    "source": "S",
+    "original": "makən (S)"
+  },
+  {
+    "id": "1412",
+    "basay": "mako'n'",
+    "category": "32",
+    "zh": [
+      "誠實的•正直的"
+    ],
+    "en": [
+      "honest, true"
+    ],
+    "source": "M",
+    "original": "makəŋ (M)"
+  },
+  {
+    "id": "1417",
+    "basay": "makti",
+    "category": "11",
+    "zh": [
+      "退潮"
+    ],
+    "en": [
+      "low tide"
+    ],
+    "source": "M",
+    "original": "makti (M)"
+  },
+  {
+    "id": "1416",
+    "basay": "makto'n'",
+    "category": "27",
+    "zh": [
+      "吃午餐"
+    ],
+    "en": [
+      "eat lunch"
+    ],
+    "source": "T",
+    "original": "maktəŋ"
+  },
+  {
+    "id": "1418",
+    "basay": "maktsatsian",
+    "category": "11",
+    "zh": [
+      "一整天"
+    ],
+    "en": [
+      "day (whole)"
+    ],
+    "source": "T",
+    "original": "maktsatsian"
+  },
+  {
+    "id": "1419",
+    "basay": "maktuzian",
+    "category": "13",
+    "zh": [
+      "一整夜"
+    ],
+    "en": [
+      "night (whole)"
+    ],
+    "source": "T",
+    "original": "maktuzian"
+  },
+  {
+    "id": "0437",
+    "basay": "maku",
+    "category": "02",
+    "zh": [
+      "我的"
+    ],
+    "ja": [
+      "私の"
+    ],
+    "en": [
+      "my"
+    ],
+    "source": "B",
+    "original": "maku"
+  },
+  {
+    "id": "1420",
+    "basay": "maku",
+    "category": "02",
+    "zh": [
+      "我的"
+    ],
+    "en": [
+      "my (GEB)"
+    ],
+    "source": "T",
+    "original": "maku"
+  },
+  {
+    "id": "0438",
+    "basay": "maku kinijan",
+    "category": "02",
+    "zh": [
+      "我的（我的家）"
+    ],
+    "ja": [
+      "私の,<私の家>"
+    ],
+    "en": [
+      "my (my house)"
+    ],
+    "source": "B",
+    "original": "maku kinijan"
+  },
+  {
+    "id": "0439",
+    "basay": "mal'",
+    "category": "32",
+    "zh": [
+      "變大"
+    ],
+    "ja": [
+      "大キクナル"
+    ],
+    "en": [
+      "bigger (to become)"
+    ],
+    "source": "B",
+    "original": "mal'"
+  },
+  {
+    "id": "1424",
+    "basay": "mal'a",
+    "category": "25",
+    "zh": [
+      "捉，拿"
+    ],
+    "en": [
+      "catch, take"
+    ],
+    "source": "T",
+    "original": "maɭa"
+  },
+  {
+    "id": "1425",
+    "basay": "mal'a",
+    "category": "25",
+    "zh": [
+      "買"
+    ],
+    "en": [
+      "buy"
+    ],
+    "source": "M",
+    "original": "maɭa (M)"
+  },
+  {
+    "id": "1426",
+    "basay": "mal'al'au",
+    "category": "24",
+    "zh": [
+      "死亡"
+    ],
+    "en": [
+      "die"
+    ],
+    "source": "M",
+    "original": "maɭaɭau (M)"
+  },
+  {
+    "id": "1427",
+    "basay": "mal'al'au",
+    "category": "25",
+    "zh": [
+      "跟隨，追蹤"
+    ],
+    "en": [
+      "follow, run after"
+    ],
+    "source": "M",
+    "original": "maɭaɭau (M)"
+  },
+  {
+    "id": "1428",
+    "basay": "mal'ay",
+    "category": "25",
+    "zh": [
+      "捉，執意"
+    ],
+    "en": [
+      "catch, insist"
+    ],
+    "source": "T",
+    "original": "maɭay"
+  },
+  {
+    "id": "1429",
+    "basay": "mal'et",
+    "category": "25",
+    "zh": [
+      "繫，栓，捆，紮"
+    ],
+    "en": [
+      "tie (to)"
+    ],
+    "source": "M",
+    "original": "maɭet (M)"
+  },
+  {
+    "id": "1430",
+    "basay": "mal'i | mamali | naqi",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "en": [
+      "come"
+    ],
+    "source": "T",
+    "original": "maɭi, mamali, naqi"
+  },
+  {
+    "id": "1431",
+    "basay": "mal'in'i",
+    "category": "25",
+    "zh": [
+      "看守"
+    ],
+    "en": [
+      "guard"
+    ],
+    "source": "M",
+    "original": "maɭiŋi (M)"
+  },
+  {
+    "id": "1432",
+    "basay": "mal'ose",
+    "category": "06",
+    "zh": [
+      "哭，眼淚"
+    ],
+    "en": [
+      "cry, tears"
+    ],
+    "source": "M",
+    "original": "maɭose (M)"
+  },
+  {
+    "id": "1433",
+    "basay": "mal'ual'o",
+    "category": "07",
+    "zh": [
+      "豬飼料"
+    ],
+    "en": [
+      "feed for pig"
+    ],
+    "source": "M",
+    "original": "maɭuaɭo (M)"
+  },
+  {
+    "id": "0440",
+    "basay": "malailana butsan",
+    "category": "11",
+    "zh": [
+      "月食"
+    ],
+    "ja": [
+      "月蝕"
+    ],
+    "en": [
+      "eclipse of the moon"
+    ],
+    "source": "B",
+    "original": "malailana butsan"
+  },
+  {
+    "id": "0441",
+    "basay": "malalau lalin'",
+    "category": "05",
+    "zh": [
+      "死者的地方"
+    ],
+    "ja": [
+      "死人ノ土地"
+    ],
+    "en": [
+      "dead persons' place"
+    ],
+    "source": "B",
+    "original": "malalau laliŋ"
+  },
+  {
+    "id": "1478",
+    "basay": "malata",
+    "category": "25",
+    "zh": [
+      "跌倒"
+    ],
+    "en": [
+      "fall"
+    ],
+    "source": "M",
+    "original": "malata (M)"
+  },
+  {
+    "id": "1421",
+    "basay": "malatso'n'",
+    "category": "34",
+    "zh": [
+      "阻礙•打擾"
+    ],
+    "en": [
+      "interrupt, hinder"
+    ],
+    "source": "M",
+    "original": "malatsəŋ (M)"
+  },
+  {
+    "id": "0442",
+    "basay": "malauise",
+    "category": "05",
+    "zh": [
+      "著名的"
+    ],
+    "ja": [
+      "有名な"
+    ],
+    "en": [
+      "famous"
+    ],
+    "source": "B",
+    "original": "malauise"
+  },
+  {
+    "id": "0443",
+    "basay": "malila",
+    "category": "29",
+    "zh": [
+      "喜歡"
+    ],
+    "ja": [
+      "好ﾑ"
+    ],
+    "en": [
+      "like"
+    ],
+    "source": "B",
+    "original": "malila"
+  },
+  {
+    "id": "0444",
+    "basay": "malila",
+    "category": "29",
+    "zh": [
+      "愛"
+    ],
+    "ja": [
+      "愛す"
+    ],
+    "en": [
+      "love (to)"
+    ],
+    "source": "B",
+    "original": "malila"
+  },
+  {
+    "id": "0445",
+    "basay": "malin",
+    "category": "17",
+    "zh": [
+      "禁忌，禁忌"
+    ],
+    "ja": [
+      "禁忌"
+    ],
+    "en": [
+      "tabu, taboo"
+    ],
+    "source": "B",
+    "original": "malin"
+  },
+  {
+    "id": "0446",
+    "basay": "malitsatsau",
+    "category": "29",
+    "zh": [
+      "害怕"
+    ],
+    "ja": [
+      "恐レル"
+    ],
+    "en": [
+      "fear"
+    ],
+    "source": "B",
+    "original": "malitsatsau"
+  },
+  {
+    "id": "0447",
+    "basay": "malitsautsau",
+    "category": "32",
+    "zh": [
+      "扭曲的，扭曲的"
+    ],
+    "ja": [
+      "ユガム"
+    ],
+    "en": [
+      "distorted, contorted"
+    ],
+    "source": "B",
+    "original": "malitsautsau"
+  },
+  {
+    "id": "1422",
+    "basay": "malon'",
+    "category": "32",
+    "zh": [
+      "長的•直的"
+    ],
+    "en": [
+      "long, straight"
+    ],
+    "source": "M",
+    "original": "maloŋ (M)"
+  },
+  {
+    "id": "1423",
+    "basay": "malsawsaw",
+    "category": "05",
+    "zh": [
+      "活著的"
+    ],
+    "en": [
+      "alive"
+    ],
+    "source": "T",
+    "original": "malsawsaw"
+  },
+  {
+    "id": "1492",
+    "basay": "malsuvun",
+    "category": "32",
+    "zh": [
+      "陡峭的"
+    ],
+    "en": [
+      "steep, stumble"
+    ],
+    "source": "M",
+    "original": "malsuvun (M)"
+  },
+  {
+    "id": "0448",
+    "basay": "malukas",
+    "category": "32",
+    "zh": [
+      "閒置的"
+    ],
+    "ja": [
+      "ばか"
+    ],
+    "en": [
+      "idle"
+    ],
+    "source": "B",
+    "original": "malukas"
+  },
+  {
+    "id": "0449",
+    "basay": "malukasse",
+    "category": "32",
+    "zh": [
+      "懶惰",
+      "無精打采"
+    ],
+    "ja": [
+      "ナマケモノ",
+      "弱キ"
+    ],
+    "en": [
+      "idle.weak-spirited"
+    ],
+    "source": "B",
+    "original": "malukasse"
+  },
+  {
+    "id": "0450",
+    "basay": "malulu",
+    "category": "07",
+    "zh": [
+      "狗吠"
+    ],
+    "ja": [
+      "(犬ノ) 吠ェル"
+    ],
+    "en": [
+      "bark (dogs)"
+    ],
+    "source": "B",
+    "original": "malulu"
+  },
+  {
+    "id": "0451",
+    "basay": "malutsun'",
+    "category": "05",
+    "zh": [
+      "同姓"
+    ],
+    "ja": [
+      "同姓ノ"
+    ],
+    "en": [
+      "same family name"
+    ],
+    "source": "B",
+    "original": "malutsuŋ"
+  },
+  {
+    "id": "0452",
+    "basay": "malº baute",
+    "category": "07",
+    "zh": [
+      "大魚"
+    ],
+    "ja": [
+      "大魚"
+    ],
+    "en": [
+      "big fish"
+    ],
+    "source": "B",
+    "original": "malº baute"
+  },
+  {
+    "id": "1435",
+    "basay": "mamaan",
+    "category": "05",
+    "zh": [
+      "人"
+    ],
+    "en": [
+      "person"
+    ],
+    "source": "T",
+    "original": "mamaan"
+  },
+  {
+    "id": "0453",
+    "basay": "maman na",
+    "category": "32",
+    "zh": [
+      "安靜的"
+    ],
+    "ja": [
+      "静寂ナル"
+    ],
+    "en": [
+      "quiet"
+    ],
+    "source": "B",
+    "original": "maman na"
+  },
+  {
+    "id": "0454",
+    "basay": "mamana",
+    "category": "32",
+    "zh": [
+      "溫柔",
+      "安靜"
+    ],
+    "ja": [
+      "オトナシイ"
+    ],
+    "en": [
+      "gentle, quiet"
+    ],
+    "source": "B",
+    "original": "mamana"
+  },
+  {
+    "id": "1436",
+    "basay": "mamatiwi",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "T",
+    "original": "mamatiwi"
+  },
+  {
+    "id": "0455",
+    "basay": "mamin",
+    "category": "32",
+    "zh": [
+      "成就，成熟"
+    ],
+    "ja": [
+      "完成",
+      "熟スル"
+    ],
+    "en": [
+      "accomplishment, ripe"
+    ],
+    "source": "B",
+    "original": "mamin"
+  },
+  {
+    "id": "1438",
+    "basay": "mamis",
+    "category": "06",
+    "zh": [
+      "嘴饞"
+    ],
+    "en": [
+      "greedy"
+    ],
+    "source": "T",
+    "original": "mamis"
+  },
+  {
+    "id": "1630",
+    "basay": "mamjaku",
+    "category": "29",
+    "zh": [
+      "喜歡"
+    ],
+    "en": [
+      "like"
+    ],
+    "source": "M",
+    "original": "mamjaku (M), muanum"
+  },
+  {
+    "id": "1439",
+    "basay": "mamtsun'",
+    "category": "14",
+    "zh": [
+      "捲起"
+    ],
+    "en": [
+      "roll up"
+    ],
+    "source": "M",
+    "original": "mamtsuŋ (M)"
+  },
+  {
+    "id": "1440",
+    "basay": "mamurmur",
+    "category": "06",
+    "zh": [
+      "口吃"
+    ],
+    "en": [
+      "stutter (to)"
+    ],
+    "source": "M",
+    "original": "mamurmur (M)"
+  },
+  {
+    "id": "1447",
+    "basay": "man'atu",
+    "category": "15",
+    "zh": [
+      "豐收"
+    ],
+    "en": [
+      "harvest"
+    ],
+    "source": "M",
+    "original": "maŋatu (M)"
+  },
+  {
+    "id": "0471",
+    "basay": "man'ette",
+    "category": "32",
+    "zh": [
+      "強的"
+    ],
+    "ja": [
+      "強キ"
+    ],
+    "en": [
+      "strong"
+    ],
+    "source": "B",
+    "original": "maŋette"
+  },
+  {
+    "id": "0472",
+    "basay": "man'ote",
+    "category": "32",
+    "zh": [
+      "醜陋的"
+    ],
+    "ja": [
+      "ミニクキ"
+    ],
+    "en": [
+      "ugly"
+    ],
+    "source": "B",
+    "original": "maŋote"
+  },
+  {
+    "id": "0473",
+    "basay": "man'un",
+    "category": "05",
+    "zh": [
+      "村名"
+    ],
+    "ja": [
+      "新社"
+    ],
+    "en": [
+      "name of a vilage"
+    ],
+    "source": "B",
+    "original": "maŋun"
+  },
+  {
+    "id": "0474",
+    "basay": "man'un",
+    "category": "13",
+    "zh": [
+      "新鮮的，新的"
+    ],
+    "ja": [
+      "新シキ"
+    ],
+    "en": [
+      "fresh, new"
+    ],
+    "source": "B",
+    "original": "maŋun"
+  },
+  {
+    "id": "0456",
+    "basay": "manai",
+    "category": "35",
+    "zh": [
+      "不"
+    ],
+    "ja": [
+      "するな"
+    ],
+    "en": [
+      "don't"
+    ],
+    "source": "B",
+    "original": "manai"
+  },
+  {
+    "id": "0457",
+    "basay": "manai",
+    "category": "27",
+    "zh": [
+      "不吃"
+    ],
+    "ja": [
+      "食べルナ"
+    ],
+    "en": [
+      "don't eat"
+    ],
+    "source": "B",
+    "original": "manai"
+  },
+  {
+    "id": "0459",
+    "basay": "manai aui",
+    "category": "35",
+    "zh": [
+      "別走"
+    ],
+    "ja": [
+      "行くな"
+    ],
+    "en": [
+      "don't go"
+    ],
+    "source": "B",
+    "original": "manai aui"
+  },
+  {
+    "id": "0460",
+    "basay": "manai aui",
+    "category": "35",
+    "zh": [
+      "不去"
+    ],
+    "ja": [
+      "行カナイ"
+    ],
+    "en": [
+      "not go"
+    ],
+    "source": "B",
+    "original": "manai aui"
+  },
+  {
+    "id": "0458",
+    "basay": "manai kuman",
+    "category": "27",
+    "zh": [
+      "不吃"
+    ],
+    "ja": [
+      "食べルナ】"
+    ],
+    "en": [
+      "don't eat"
+    ],
+    "source": "B",
+    "original": "manai kuman"
+  },
+  {
+    "id": "0461",
+    "basay": "manaina",
+    "category": "05",
+    "zh": [
+      "年輕人",
+      "男性"
+    ],
+    "ja": [
+      "青年 < 男"
+    ],
+    "en": [
+      "young man. male"
+    ],
+    "source": "B",
+    "original": "manaina"
+  },
+  {
+    "id": "0462",
+    "basay": "manaina",
+    "category": "05",
+    "zh": [
+      "男性"
+    ],
+    "ja": [
+      "男"
+    ],
+    "en": [
+      "male"
+    ],
+    "source": "B",
+    "original": "manaina"
+  },
+  {
+    "id": "0467",
+    "basay": "manan'ke",
+    "category": "32",
+    "zh": [
+      "擬合",
+      "厚/肥"
+    ],
+    "ja": [
+      "太レル"
+    ],
+    "en": [
+      "fetting. thick/fat"
+    ],
+    "source": "B",
+    "original": "manaŋke"
+  },
+  {
+    "id": "0468",
+    "basay": "manan'ke",
+    "category": "32",
+    "zh": [
+      "胖的"
+    ],
+    "ja": [
+      "太ッテオル"
+    ],
+    "en": [
+      "fat"
+    ],
+    "source": "B",
+    "original": "manaŋke"
+  },
+  {
+    "id": "0463",
+    "basay": "manatse",
+    "category": "14",
+    "zh": [
+      "預兆"
+    ],
+    "ja": [
+      "前兆】,不吉"
+    ],
+    "en": [
+      "omen"
+    ],
+    "source": "B",
+    "original": "manatse"
+  },
+  {
+    "id": "0465",
+    "basay": "manen'",
+    "category": "32",
+    "zh": [
+      "寒冷"
+    ],
+    "ja": [
+      "寒イ"
+    ],
+    "en": [
+      "chilly"
+    ],
+    "source": "B",
+    "original": "maneŋ"
+  },
+  {
+    "id": "0466",
+    "basay": "manen'",
+    "category": "28",
+    "zh": [
+      "瘧疾"
+    ],
+    "ja": [
+      "マラリヤ <寒い, bətse 熱"
+    ],
+    "en": [
+      "malaria"
+    ],
+    "source": "B",
+    "original": "maneŋ"
+  },
+  {
+    "id": "0469",
+    "basay": "manete",
+    "category": "18",
+    "zh": [
+      "撕裂"
+    ],
+    "ja": [
+      "破レル, ヤプレル(衣)"
+    ],
+    "en": [
+      "torn"
+    ],
+    "source": "B",
+    "original": "manete"
+  },
+  {
+    "id": "0470",
+    "basay": "manette",
+    "category": "25",
+    "zh": [
+      "撕"
+    ],
+    "ja": [
+      "裂ク"
+    ],
+    "en": [
+      "tear (to)"
+    ],
+    "source": "B",
+    "original": "manette"
+  },
+  {
+    "id": "1441",
+    "basay": "mani",
+    "category": "32",
+    "zh": [
+      "強壯的"
+    ],
+    "en": [
+      "strong"
+    ],
+    "source": "M",
+    "original": "mani (M)"
+  },
+  {
+    "id": "1442",
+    "basay": "mani",
+    "category": "29",
+    "zh": [
+      "好的"
+    ],
+    "en": [
+      "good"
+    ],
+    "source": "S",
+    "original": "mani (S)"
+  },
+  {
+    "id": "1443",
+    "basay": "maniana",
+    "category": "04",
+    "zh": [
+      "弟弟"
+    ],
+    "en": [
+      "younger brother"
+    ],
+    "source": "T",
+    "original": "maniana"
+  },
+  {
+    "id": "0475",
+    "basay": "maninai",
+    "category": "04",
+    "zh": [
+      "丈夫"
+    ],
+    "ja": [
+      "夫"
+    ],
+    "en": [
+      "husband."
+    ],
+    "source": "B",
+    "original": "maninai"
+  },
+  {
+    "id": "0476",
+    "basay": "maninakana",
+    "category": "25",
+    "zh": [
+      "再來一次"
+    ],
+    "ja": [
+      "再ビ来ル"
+    ],
+    "en": [
+      "come again"
+    ],
+    "source": "B",
+    "original": "maninakana"
+  },
+  {
+    "id": "0464",
+    "basay": "mano'n'",
+    "category": "11",
+    "zh": [
+      "寒冷的天氣"
+    ],
+    "ja": [
+      "寒い"
+    ],
+    "en": [
+      "cold weather"
+    ],
+    "source": "B",
+    "original": "manəŋ"
+  },
+  {
+    "id": "0477",
+    "basay": "manu paju-i",
+    "category": "25",
+    "zh": [
+      "夏天",
+      "避暑"
+    ],
+    "ja": [
+      "暑気ヲサケル"
+    ],
+    "en": [
+      "summer (to). summering"
+    ],
+    "source": "B",
+    "original": "manu paju-i"
+  },
+  {
+    "id": "0478",
+    "basay": "manuk | o'",
+    "category": "07",
+    "zh": [
+      "鳥"
+    ],
+    "ja": [
+      "鳥】"
+    ],
+    "en": [
+      "bird"
+    ],
+    "source": "B",
+    "original": "manuk (ə)"
+  },
+  {
+    "id": "1444",
+    "basay": "manukka",
+    "category": "07",
+    "zh": [
+      "鳥"
+    ],
+    "en": [
+      "bird"
+    ],
+    "source": "M",
+    "original": "manukka (M)"
+  },
+  {
+    "id": "0479",
+    "basay": "manulan",
+    "category": "18",
+    "zh": [
+      "布"
+    ],
+    "ja": [
+      "檬様ノアル布"
+    ],
+    "en": [
+      "cloth"
+    ],
+    "source": "B",
+    "original": "manulan"
+  },
+  {
+    "id": "1445",
+    "basay": "manuq",
+    "category": "07",
+    "zh": [
+      "鷺"
+    ],
+    "en": [
+      "egret"
+    ],
+    "source": "S",
+    "original": "manuq (S), vate (M)"
+  },
+  {
+    "id": "0480",
+    "basay": "manutasse",
+    "category": "35",
+    "zh": [
+      "淘氣"
+    ],
+    "ja": [
+      "イタズラナル"
+    ],
+    "en": [
+      "naughty"
+    ],
+    "source": "B",
+    "original": "manutasse"
+  },
+  {
+    "id": "1448",
+    "basay": "mapo'no'n'",
+    "category": "23",
+    "zh": [
+      "無聲，安靜"
+    ],
+    "en": [
+      "quiet"
+    ],
+    "source": "T",
+    "original": "mapənəŋ"
+  },
+  {
+    "id": "1449",
+    "basay": "mapol'",
+    "category": "22",
+    "zh": [
+      "白粉"
+    ],
+    "en": [
+      "white powder"
+    ],
+    "source": "T",
+    "original": "mapoɭ, marpaɭas (M)"
+  },
+  {
+    "id": "1451",
+    "basay": "mapol'on'",
+    "category": "08",
+    "zh": [
+      "天花"
+    ],
+    "en": [
+      "smallpox"
+    ],
+    "source": "M",
+    "original": "mapoɭoŋ (M)"
+  },
+  {
+    "id": "1452",
+    "basay": "maportos",
+    "category": "27",
+    "zh": [
+      "腫脹"
+    ],
+    "en": [
+      "swelling, boil"
+    ],
+    "source": "M",
+    "original": "maportos (M)"
+  },
+  {
+    "id": "1453",
+    "basay": "maputs",
+    "category": "01",
+    "zh": [
+      "全部"
+    ],
+    "en": [
+      "all"
+    ],
+    "source": "T",
+    "original": "maputs"
+  },
+  {
+    "id": "1454",
+    "basay": "maputs",
+    "category": "29",
+    "zh": [
+      "渴望的"
+    ],
+    "en": [
+      "eager"
+    ],
+    "source": "M",
+    "original": "maputs (M)"
+  },
+  {
+    "id": "1455",
+    "basay": "maqman",
+    "category": "27",
+    "zh": [
+      "吃"
+    ],
+    "en": [
+      "eat"
+    ],
+    "source": "S",
+    "original": "maqman (S)"
+  },
+  {
+    "id": "1456",
+    "basay": "maqmwanay",
+    "category": "24",
+    "zh": [
+      "真的"
+    ],
+    "en": [
+      "really"
+    ],
+    "source": "S",
+    "original": "maqmwanay (S)"
+  },
+  {
+    "id": "0481",
+    "basay": "maqolqot",
+    "category": "07",
+    "zh": [
+      "昆蟲進來"
+    ],
+    "ja": [
+      "虫が入ル"
+    ],
+    "en": [
+      "insects come in."
+    ],
+    "source": "B",
+    "original": "maqolqot"
+  },
+  {
+    "id": "1457",
+    "basay": "maqozon'",
+    "category": "06",
+    "zh": [
+      "駝背"
+    ],
+    "en": [
+      "hunchback"
+    ],
+    "source": "M",
+    "original": "maqozoŋ (M)"
+  },
+  {
+    "id": "1458",
+    "basay": "maqsumanta",
+    "category": "04",
+    "zh": [
+      "兄",
+      "姊"
+    ],
+    "en": [
+      "elder sibling"
+    ],
+    "source": "S",
+    "original": "maqsumanta (S)"
+  },
+  {
+    "id": "1459",
+    "basay": "maqtu",
+    "category": "34",
+    "zh": [
+      "到達"
+    ],
+    "en": [
+      "reach"
+    ],
+    "source": "T",
+    "original": "maqtu"
+  },
+  {
+    "id": "1460",
+    "basay": "maquno",
+    "category": "24",
+    "zh": [
+      "真的"
+    ],
+    "en": [
+      "really"
+    ],
+    "source": "S",
+    "original": "maquno (S)"
+  },
+  {
+    "id": "1461",
+    "basay": "markaku",
+    "category": "32",
+    "zh": [
+      "彎曲的(河，道路)"
+    ],
+    "en": [
+      "curly, (winding river/road)"
+    ],
+    "source": "M",
+    "original": "markaku (M)"
+  },
+  {
+    "id": "1437",
+    "basay": "marni",
+    "category": "27",
+    "zh": [
+      "煮熟的"
+    ],
+    "en": [
+      "cooked"
+    ],
+    "source": "T",
+    "original": "marni"
+  },
+  {
+    "id": "1450",
+    "basay": "marpal'as",
+    "category": "22",
+    "zh": [
+      "白粉"
+    ],
+    "en": [
+      "white powder"
+    ],
+    "source": "M",
+    "original": "mapoɭ, marpaɭas (M)"
+  },
+  {
+    "id": "1462",
+    "basay": "marqaini",
+    "category": "25",
+    "zh": [
+      "吵架"
+    ],
+    "en": [
+      "quarrel"
+    ],
+    "source": "M",
+    "original": "marqaini (M)"
+  },
+  {
+    "id": "0482",
+    "basay": "masan'",
+    "category": "13",
+    "zh": [
+      "舊時光"
+    ],
+    "ja": [
+      "昔"
+    ],
+    "en": [
+      "old days"
+    ],
+    "source": "B",
+    "original": "masaŋ"
+  },
+  {
+    "id": "1463",
+    "basay": "masan'",
+    "category": "11",
+    "zh": [
+      "昔日"
+    ],
+    "en": [
+      "old days"
+    ],
+    "source": "M",
+    "original": "masaŋ (M), qomnipa"
+  },
+  {
+    "id": "0483",
+    "basay": "masan'. | masan' a tau",
+    "category": "05",
+    "zh": [
+      "舊時光"
+    ],
+    "ja": [
+      "昔 <昔ノ人>"
+    ],
+    "en": [
+      "old days"
+    ],
+    "source": "B",
+    "original": "masaŋ. <masaŋ a tau>"
+  },
+  {
+    "id": "1465",
+    "basay": "masawa",
+    "category": "34",
+    "zh": [
+      "作戰"
+    ],
+    "en": [
+      "fight"
+    ],
+    "source": "T",
+    "original": "masawa"
+  },
+  {
+    "id": "1466",
+    "basay": "masazmako'n",
+    "category": "34",
+    "zh": [
+      "准許"
+    ],
+    "en": [
+      "allow"
+    ],
+    "source": "S",
+    "original": "masazmakən (S)"
+  },
+  {
+    "id": "0484",
+    "basay": "masel'",
+    "category": "11",
+    "zh": [
+      "霜柱"
+    ],
+    "ja": [
+      "霜"
+    ],
+    "en": [
+      "frost column"
+    ],
+    "source": "B",
+    "original": "masel' (?)"
+  },
+  {
+    "id": "0485",
+    "basay": "masiano'm",
+    "category": "05",
+    "zh": [
+      "偉人"
+    ],
+    "ja": [
+      "偉人"
+    ],
+    "en": [
+      "great man"
+    ],
+    "source": "B",
+    "original": "masianəm"
+  },
+  {
+    "id": "0486",
+    "basay": "masiano'm",
+    "category": "29",
+    "zh": [
+      "聰明的"
+    ],
+    "ja": [
+      "賢キ"
+    ],
+    "en": [
+      "clever"
+    ],
+    "source": "B",
+    "original": "masianəm"
+  },
+  {
+    "id": "0487",
+    "basay": "masianum",
+    "category": "32",
+    "zh": [
+      "偉大的"
+    ],
+    "ja": [
+      "偉イ"
+    ],
+    "en": [
+      "great"
+    ],
+    "source": "B",
+    "original": "masianum"
+  },
+  {
+    "id": "0488",
+    "basay": "masikat",
+    "category": "29",
+    "zh": [
+      "羞愧"
+    ],
+    "ja": [
+      "恥シイ"
+    ],
+    "en": [
+      "ashamed"
+    ],
+    "source": "B",
+    "original": "masikat"
+  },
+  {
+    "id": "0489",
+    "basay": "masol'",
+    "category": "11",
+    "zh": [
+      "露"
+    ],
+    "ja": [
+      "露(?)"
+    ],
+    "en": [
+      "dew (?)"
+    ],
+    "source": "B",
+    "original": "masol'"
+  },
+  {
+    "id": "0490",
+    "basay": "masopo'l'",
+    "category": "29",
+    "zh": [
+      "稱讚",
+      "有能力的"
+    ],
+    "ja": [
+      "賞メル",
+      "出来ル < sopəl' 出来ル sakusa masopəl' 賞メル"
+    ],
+    "en": [
+      "praise (to). able"
+    ],
+    "source": "B",
+    "original": "masopəl'"
+  },
+  {
+    "id": "0491",
+    "basay": "masopul'",
+    "category": "29",
+    "zh": [
+      "知道"
+    ],
+    "ja": [
+      "知ル"
+    ],
+    "en": [
+      "know"
+    ],
+    "source": "B",
+    "original": "masopul'"
+  },
+  {
+    "id": "0492",
+    "basay": "masossot",
+    "category": "11",
+    "zh": [
+      "溺水身亡"
+    ],
+    "ja": [
+      "溺死ス",
+      "投水スル"
+    ],
+    "en": [
+      "drowned death by drowning"
+    ],
+    "source": "B",
+    "original": "masossot"
+  },
+  {
+    "id": "1467",
+    "basay": "masua",
+    "category": "14",
+    "zh": [
+      "起來"
+    ],
+    "en": [
+      "get up"
+    ],
+    "source": "S",
+    "original": "masua (S)"
+  },
+  {
+    "id": "0493",
+    "basay": "masukut",
+    "category": "06",
+    "zh": [
+      "戳",
+      "推力"
+    ],
+    "ja": [
+      "目"
+    ],
+    "en": [
+      "stick. thrust"
+    ],
+    "source": "B",
+    "original": "masukut"
+  },
+  {
+    "id": "0494",
+    "basay": "mata",
+    "category": "06",
+    "zh": [
+      "眼睛"
+    ],
+    "ja": [
+      "見る"
+    ],
+    "en": [
+      "eye"
+    ],
+    "source": "B",
+    "original": "mata"
+  },
+  {
+    "id": "1468",
+    "basay": "mata",
+    "category": "06",
+    "zh": [
+      "眼晴"
+    ],
+    "en": [
+      "eye"
+    ],
+    "source": "T",
+    "original": "mata"
+  },
+  {
+    "id": "0495",
+    "basay": "mata numalᵒ | numaz'",
+    "category": "06",
+    "zh": [
+      "看到"
+    ],
+    "ja": [
+      "目ヤニ"
+    ],
+    "en": [
+      "seeing"
+    ],
+    "source": "B",
+    "original": "mata numalᵒ (numaDᵒ)"
+  },
+  {
+    "id": "0496",
+    "basay": "mata tae",
+    "category": "06",
+    "zh": [
+      "眼睛黏液"
+    ],
+    "ja": [
+      "生物"
+    ],
+    "en": [
+      "eye mucus"
+    ],
+    "source": "B",
+    "original": "mata tae"
+  },
+  {
+    "id": "1469",
+    "basay": "mata u z'ian",
+    "category": "11",
+    "zh": [
+      "太陽"
+    ],
+    "en": [
+      "sun"
+    ],
+    "source": "M",
+    "original": "mata u ɮian (M)"
+  },
+  {
+    "id": "0497",
+    "basay": "mata | sumata | kuman su mata",
+    "category": "27",
+    "zh": [
+      "生的",
+      "生吃食物"
+    ],
+    "ja": [
+      "<生物ヲ食フ>"
+    ],
+    "en": [
+      "raw. <eat food raw>"
+    ],
+    "source": "B",
+    "original": "mata, sumata, <kuman su mata>"
+  },
+  {
+    "id": "1470",
+    "basay": "matael",
+    "category": "15",
+    "zh": [
+      "農舍"
+    ],
+    "en": [
+      "cottage, hut"
+    ],
+    "source": "M",
+    "original": "matael (M), tael"
+  },
+  {
+    "id": "1472",
+    "basay": "matai",
+    "category": "25",
+    "zh": [
+      "打擊"
+    ],
+    "en": [
+      "strike (to)"
+    ],
+    "source": "M",
+    "original": "matai (M)"
+  },
+  {
+    "id": "1473",
+    "basay": "mataii vutsan",
+    "category": "11",
+    "zh": [
+      "月蝕"
+    ],
+    "en": [
+      "eclipse of the moon"
+    ],
+    "source": "M",
+    "original": "mataii vutsan (M)"
+  },
+  {
+    "id": "1475",
+    "basay": "matal'in",
+    "category": "34",
+    "zh": [
+      "移居"
+    ],
+    "en": [
+      "migrate"
+    ],
+    "source": "M",
+    "original": "mataɭin (M)"
+  },
+  {
+    "id": "1474",
+    "basay": "mataluna",
+    "category": "24",
+    "zh": [
+      "工作"
+    ],
+    "en": [
+      "work"
+    ],
+    "source": "S",
+    "original": "mataluna (S)"
+  },
+  {
+    "id": "0498",
+    "basay": "matan'atan'a",
+    "category": "29",
+    "zh": [
+      "麾"
+    ],
+    "ja": [
+      "喜ブ"
+    ],
+    "en": [
+      "rejoice"
+    ],
+    "source": "B",
+    "original": "mataŋataŋa"
+  },
+  {
+    "id": "1476",
+    "basay": "matano'm",
+    "category": "19",
+    "zh": [
+      "葬禮"
+    ],
+    "en": [
+      "funeral"
+    ],
+    "source": "M",
+    "original": "matanəm (M)"
+  },
+  {
+    "id": "1477",
+    "basay": "matara",
+    "category": "28",
+    "zh": [
+      "見面"
+    ],
+    "en": [
+      "meet"
+    ],
+    "source": "M",
+    "original": "matara (M)"
+  },
+  {
+    "id": "1479",
+    "basay": "matavo",
+    "category": "25",
+    "zh": [
+      "包"
+    ],
+    "en": [
+      "wrap"
+    ],
+    "source": "T",
+    "original": "matavo"
+  },
+  {
+    "id": "1480",
+    "basay": "matay",
+    "category": "24",
+    "zh": [
+      "死"
+    ],
+    "en": [
+      "dead, die"
+    ],
+    "source": "T",
+    "original": "matay"
+  },
+  {
+    "id": "1481",
+    "basay": "materol",
+    "category": "07",
+    "zh": [
+      "卵"
+    ],
+    "en": [
+      "egg"
+    ],
+    "source": "M",
+    "original": "materol (M)"
+  },
+  {
+    "id": "1484",
+    "basay": "mati | matiw",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "T",
+    "original": "mati, matiw"
+  },
+  {
+    "id": "1485",
+    "basay": "matik",
+    "category": "34",
+    "zh": [
+      "刺繡"
+    ],
+    "en": [
+      "embroider"
+    ],
+    "source": "M",
+    "original": "matik (M)"
+  },
+  {
+    "id": "0499",
+    "basay": "matittse",
+    "category": "25",
+    "zh": [
+      "捏緊,僵硬"
+    ],
+    "ja": [
+      "ヒネル",
+      "コハバッテオル"
+    ],
+    "en": [
+      "pinch (to), stiff"
+    ],
+    "source": "B",
+    "original": "matittse"
+  },
+  {
+    "id": "1486",
+    "basay": "mativtivo'k",
+    "category": "34",
+    "zh": [
+      "踩"
+    ],
+    "en": [
+      "tread"
+    ],
+    "source": "T",
+    "original": "mativtivək"
+  },
+  {
+    "id": "1487",
+    "basay": "matno'k",
+    "category": "11",
+    "zh": [
+      "決定日子"
+    ],
+    "en": [
+      "set a date"
+    ],
+    "source": "T",
+    "original": "matnək"
+  },
+  {
+    "id": "1482",
+    "basay": "mato'kto'k",
+    "category": "08",
+    "zh": [
+      "插花"
+    ],
+    "en": [
+      "arrange flowers"
+    ],
+    "source": "M",
+    "original": "matəktək (M)"
+  },
+  {
+    "id": "1483",
+    "basay": "mato'n'",
+    "category": "34",
+    "zh": [
+      "午餐"
+    ],
+    "en": [
+      "lunch"
+    ],
+    "source": "T",
+    "original": "matəŋ"
+  },
+  {
+    "id": "1488",
+    "basay": "matowanai",
+    "category": "25",
+    "zh": [
+      "仲介"
+    ],
+    "en": [
+      "go between"
+    ],
+    "source": "M",
+    "original": "matowanai (M)"
+  },
+  {
+    "id": "1405",
+    "basay": "matqalivu",
+    "category": "18",
+    "zh": [
+      "穿农服"
+    ],
+    "en": [
+      "wear clothes"
+    ],
+    "source": "T",
+    "original": "matqalivu"
+  },
+  {
+    "id": "0500",
+    "basay": "matsan'asse",
+    "category": "32",
+    "zh": [
+      "乾淨的"
+    ],
+    "ja": [
+      "清潔ナル"
+    ],
+    "en": [
+      "clean"
+    ],
+    "source": "B",
+    "original": "matsaŋasse"
+  },
+  {
+    "id": "0501",
+    "basay": "matsatsau",
+    "category": "29",
+    "zh": [
+      "害怕"
+    ],
+    "ja": [
+      "恐れる"
+    ],
+    "en": [
+      "fear (to)"
+    ],
+    "source": "B",
+    "original": "matsatsau"
+  },
+  {
+    "id": "0502",
+    "basay": "matsenal'",
+    "category": "32",
+    "zh": [
+      "明亮的"
+    ],
+    "ja": [
+      "明ルイ"
+    ],
+    "en": [
+      "bright"
+    ],
+    "source": "B",
+    "original": "matsenal'"
+  },
+  {
+    "id": "1489",
+    "basay": "matsin",
+    "category": "14",
+    "zh": [
+      "醒來"
+    ],
+    "en": [
+      "awake (from sleep), get up"
+    ],
+    "source": "T",
+    "original": "matsin"
+  },
+  {
+    "id": "1490",
+    "basay": "matsin'tso'n'",
+    "category": "06",
+    "zh": [
+      "頭痛"
+    ],
+    "en": [
+      "headache"
+    ],
+    "source": "M",
+    "original": "matsiŋtsəŋ (M)"
+  },
+  {
+    "id": "0503",
+    "basay": "matso'n'tso'n'",
+    "category": "11",
+    "zh": [
+      "煙"
+    ],
+    "ja": [
+      "煙ル"
+    ],
+    "en": [
+      "smoky"
+    ],
+    "source": "B",
+    "original": "matsəŋtsəŋ"
+  },
+  {
+    "id": "0504",
+    "basay": "matso'n'tso'n'",
+    "category": "11",
+    "zh": [
+      "抽煙"
+    ],
+    "ja": [
+      "煙"
+    ],
+    "en": [
+      "smoke"
+    ],
+    "source": "B",
+    "original": "matsəŋtsəŋ"
+  },
+  {
+    "id": "0505",
+    "basay": "matsubun",
+    "category": "32",
+    "zh": [
+      "陡",
+      "絆倒"
+    ],
+    "ja": [
+      "険シイ",
+      "コロプ"
+    ],
+    "en": [
+      "steep. stumble"
+    ],
+    "source": "B",
+    "original": "matsubun"
+  },
+  {
+    "id": "0506",
+    "basay": "matsubun'",
+    "category": "25",
+    "zh": [
+      "傾倒",
+      "坍塌"
+    ],
+    "ja": [
+      "タホレル"
+    ],
+    "en": [
+      "topple. collapse"
+    ],
+    "source": "B",
+    "original": "matsubuŋ"
+  },
+  {
+    "id": "0507",
+    "basay": "matsubun'",
+    "category": "14",
+    "zh": [
+      "跳"
+    ],
+    "ja": [
+      "トピ上ル",
+      "コロプ"
+    ],
+    "en": [
+      "jump"
+    ],
+    "source": "B",
+    "original": "matsubuŋ"
+  },
+  {
+    "id": "1491",
+    "basay": "matsulay",
+    "category": "19",
+    "zh": [
+      "唱歌"
+    ],
+    "en": [
+      "sing"
+    ],
+    "source": "T",
+    "original": "matsulay"
+  },
+  {
+    "id": "1493",
+    "basay": "matuzusan",
+    "category": "06",
+    "zh": [
+      "滿足"
+    ],
+    "en": [
+      "contented"
+    ],
+    "source": "T",
+    "original": "matuzusan"
+  },
+  {
+    "id": "1494",
+    "basay": "maumatay",
+    "category": "34",
+    "zh": [
+      "復活，復甦"
+    ],
+    "en": [
+      "resurrection"
+    ],
+    "source": "T",
+    "original": "maumatay"
+  },
+  {
+    "id": "1495",
+    "basay": "maunu",
+    "category": "03",
+    "zh": [
+      "為何"
+    ],
+    "en": [
+      "why"
+    ],
+    "source": "T",
+    "original": "maunu"
+  },
+  {
+    "id": "1496",
+    "basay": "mautut",
+    "category": "25",
+    "zh": [
+      "一起去"
+    ],
+    "en": [
+      "go together"
+    ],
+    "source": "S",
+    "original": "mautut (S)"
+  },
+  {
+    "id": "1497",
+    "basay": "mavalats",
+    "category": "08",
+    "zh": [
+      "捣米"
+    ],
+    "en": [
+      "pound rice"
+    ],
+    "source": "T",
+    "original": "mavalats"
+  },
+  {
+    "id": "1498",
+    "basay": "mavawa",
+    "category": "20",
+    "zh": [
+      "做船"
+    ],
+    "en": [
+      "build a boat"
+    ],
+    "source": "T",
+    "original": "mavawa"
+  },
+  {
+    "id": "1499",
+    "basay": "maw",
+    "category": "34",
+    "zh": [
+      "感嘆詞"
+    ],
+    "en": [
+      "exclamation"
+    ],
+    "source": "T",
+    "original": "maw"
+  },
+  {
+    "id": "1500",
+    "basay": "maya",
+    "category": "27",
+    "zh": [
+      "做•煮"
+    ],
+    "en": [
+      "do, cook"
+    ],
+    "source": "T",
+    "original": "maya"
+  },
+  {
+    "id": "1434",
+    "basay": "maz'ukas",
+    "category": "11",
+    "zh": [
+      "空閒的"
+    ],
+    "en": [
+      "idle"
+    ],
+    "source": "M",
+    "original": "maɮukas (M)"
+  },
+  {
+    "id": "1501",
+    "basay": "mazinup",
+    "category": "25",
+    "zh": [
+      "一起去"
+    ],
+    "en": [
+      "go together"
+    ],
+    "source": "T",
+    "original": "mazinup"
+  },
+  {
+    "id": "1502",
+    "basay": "maziwziwun",
+    "category": "09",
+    "zh": [
+      "搖晃"
+    ],
+    "en": [
+      "swing"
+    ],
+    "source": "T",
+    "original": "maziwziwun"
+  },
+  {
+    "id": "1503",
+    "basay": "melebus",
+    "category": "08",
+    "zh": [
+      "草長高"
+    ],
+    "en": [
+      "grass grown tall"
+    ],
+    "source": "T",
+    "original": "melebus"
+  },
+  {
+    "id": "1504",
+    "basay": "meme",
+    "category": "10",
+    "zh": [
+      "山羊"
+    ],
+    "en": [
+      "goat"
+    ],
+    "source": "M",
+    "original": "meme (M)"
+  },
+  {
+    "id": "1506",
+    "basay": "men'ajel'.",
+    "category": "34",
+    "zh": [
+      "鰭"
+    ],
+    "en": [
+      "fin"
+    ],
+    "source": "M",
+    "original": "meŋajeɭ.(M)"
+  },
+  {
+    "id": "0508",
+    "basay": "mena-ol'",
+    "category": "08",
+    "zh": [
+      "葫蘆",
+      "瓜",
+      "黃瓜"
+    ],
+    "ja": [
+      "瓜類"
+    ],
+    "en": [
+      "gourd. melon. cucumber"
+    ],
+    "source": "B",
+    "original": "mena-ol'"
+  },
+  {
+    "id": "1505",
+    "basay": "menaz'",
+    "category": "25",
+    "zh": [
+      "醒過來"
+    ],
+    "en": [
+      "awake (to)"
+    ],
+    "source": "M",
+    "original": "menaɮ (M)"
+  },
+  {
+    "id": "1507",
+    "basay": "meolat",
+    "category": "24",
+    "zh": [
+      "力量"
+    ],
+    "en": [
+      "strength"
+    ],
+    "source": "M",
+    "original": "meolat (M)"
+  },
+  {
+    "id": "1508",
+    "basay": "merots",
+    "category": "25",
+    "zh": [
+      "洗澡"
+    ],
+    "en": [
+      "bathe"
+    ],
+    "source": "M",
+    "original": "merots (M)"
+  },
+  {
+    "id": "1509",
+    "basay": "meto'n'e",
+    "category": "24",
+    "zh": [
+      "欠"
+    ],
+    "en": [
+      "debt, owe"
+    ],
+    "source": "M",
+    "original": "metəŋe (M)"
+  },
+  {
+    "id": "1510",
+    "basay": "metones",
+    "category": "18",
+    "zh": [
+      "布"
+    ],
+    "en": [
+      "cloth"
+    ],
+    "source": "M",
+    "original": "metones (M)"
+  },
+  {
+    "id": "1511",
+    "basay": "metse",
+    "category": "25",
+    "zh": [
+      "選擇"
+    ],
+    "en": [
+      "choose"
+    ],
+    "source": "M",
+    "original": "metse (M)"
+  },
+  {
+    "id": "1512",
+    "basay": "mezozo",
+    "category": "32",
+    "zh": [
+      "打瞌睡"
+    ],
+    "en": [
+      "sleepy"
+    ],
+    "source": "M",
+    "original": "mezozo (M)"
+  },
+  {
+    "id": "1517",
+    "basay": "mia",
+    "category": "35",
+    "zh": [
+      "不，沒有"
+    ],
+    "en": [
+      "no, not"
+    ],
+    "source": "T",
+    "original": "mia"
+  },
+  {
+    "id": "1523",
+    "basay": "mia pay",
+    "category": "35",
+    "zh": [
+      "還沒"
+    ],
+    "en": [
+      "not yet"
+    ],
+    "source": "T",
+    "original": "mia pay"
+  },
+  {
+    "id": "1518",
+    "basay": "miakay",
+    "category": "36",
+    "zh": [
+      "或者"
+    ],
+    "en": [
+      "or"
+    ],
+    "source": "T",
+    "original": "miakay"
+  },
+  {
+    "id": "1519",
+    "basay": "miakunatsawan",
+    "category": "19",
+    "zh": [
+      "通姦"
+    ],
+    "en": [
+      "adultery"
+    ],
+    "source": "M",
+    "original": "miakunatsawan (M)"
+  },
+  {
+    "id": "1520",
+    "basay": "mianan",
+    "category": "02",
+    "zh": [
+      "我們"
+    ],
+    "en": [
+      "us (exclusive)"
+    ],
+    "source": "T",
+    "original": "mianan"
+  },
+  {
+    "id": "1521",
+    "basay": "miano'm . sopo'l",
+    "category": "29",
+    "zh": [
+      "聰明伶俐的"
+    ],
+    "en": [
+      "clever"
+    ],
+    "source": "M",
+    "original": "mianəm (M). sopəl"
+  },
+  {
+    "id": "1522",
+    "basay": "mianu",
+    "category": "32",
+    "zh": [
+      "偉大的"
+    ],
+    "en": [
+      "great"
+    ],
+    "source": "M",
+    "original": "mianu (M)"
+  },
+  {
+    "id": "1524",
+    "basay": "miaquna soani",
+    "category": "05",
+    "zh": [
+      "同姓"
+    ],
+    "en": [
+      "same family name"
+    ],
+    "source": "M",
+    "original": "miaquna soani (M)"
+  },
+  {
+    "id": "1525",
+    "basay": "miasimusakai",
+    "category": "35",
+    "zh": [
+      "類似"
+    ],
+    "en": [
+      "resemble (not)"
+    ],
+    "source": "M",
+    "original": "miasimusakai (M)"
+  },
+  {
+    "id": "1526",
+    "basay": "miatakvunai",
+    "category": "14",
+    "zh": [
+      "後悔"
+    ],
+    "en": [
+      "regret"
+    ],
+    "source": "M",
+    "original": "miatakvunai (M)"
+  },
+  {
+    "id": "1527",
+    "basay": "miip",
+    "category": "14",
+    "zh": [
+      "睡覺，躺下"
+    ],
+    "en": [
+      "sleep, lie down"
+    ],
+    "source": "T",
+    "original": "miip"
+  },
+  {
+    "id": "1528",
+    "basay": "mikalumut",
+    "category": "18",
+    "zh": [
+      "戴"
+    ],
+    "en": [
+      "wear"
+    ],
+    "source": "T",
+    "original": "mikalumut"
+  },
+  {
+    "id": "1529",
+    "basay": "miksun",
+    "category": "25",
+    "zh": [
+      "絆腳，絆倒"
+    ],
+    "en": [
+      "stumble (to)"
+    ],
+    "source": "T",
+    "original": "miksun, qumapiz (M)"
+  },
+  {
+    "id": "1531",
+    "basay": "mikuskusan",
+    "category": "25",
+    "zh": [
+      "抓，搔"
+    ],
+    "en": [
+      "scratch"
+    ],
+    "source": "M",
+    "original": "mikuskusan (M)"
+  },
+  {
+    "id": "1532",
+    "basay": "mikuskusan",
+    "category": "28",
+    "zh": [
+      "疥瘡"
+    ],
+    "en": [
+      "scabies"
+    ],
+    "source": "M",
+    "original": "mikuskusan (M)"
+  },
+  {
+    "id": "1533",
+    "basay": "mikutu",
+    "category": "34",
+    "zh": [
+      "帶蝨子"
+    ],
+    "en": [
+      "have lice"
+    ],
+    "source": "M",
+    "original": "mikutu (M)"
+  },
+  {
+    "id": "1534",
+    "basay": "mikuva",
+    "category": "10",
+    "zh": [
+      "有田地"
+    ],
+    "en": [
+      "own field"
+    ],
+    "source": "T",
+    "original": "mikuva"
+  },
+  {
+    "id": "1537",
+    "basay": "mil'umus",
+    "category": "27",
+    "zh": [
+      "沸騰"
+    ],
+    "en": [
+      "boil"
+    ],
+    "source": "T",
+    "original": "miɭumus"
+  },
+  {
+    "id": "1535",
+    "basay": "milalan'",
+    "category": "22",
+    "zh": [
+      "赤裸"
+    ],
+    "en": [
+      "naked"
+    ],
+    "source": "M",
+    "original": "milalaŋ (M)"
+  },
+  {
+    "id": "1536",
+    "basay": "milim",
+    "category": "25",
+    "zh": [
+      "尋找"
+    ],
+    "en": [
+      "search"
+    ],
+    "source": "M",
+    "original": "milim (M)"
+  },
+  {
+    "id": "1538",
+    "basay": "mimso'l",
+    "category": "34",
+    "zh": [
+      "分散"
+    ],
+    "en": [
+      "scatter"
+    ],
+    "source": "T",
+    "original": "mimsəl"
+  },
+  {
+    "id": "0509",
+    "basay": "minai",
+    "category": "04",
+    "zh": [
+      "妻子"
+    ],
+    "ja": [
+      "妻】"
+    ],
+    "en": [
+      "wife"
+    ],
+    "source": "B",
+    "original": "minai"
+  },
+  {
+    "id": "0510",
+    "basay": "minai",
+    "category": "04",
+    "zh": [
+      "娶妻"
+    ],
+    "ja": [
+      "嫁ヲトル"
+    ],
+    "en": [
+      "wife (to take)"
+    ],
+    "source": "B",
+    "original": "minai"
+  },
+  {
+    "id": "0511",
+    "basay": "minai rikinikinijan",
+    "category": "05",
+    "zh": [
+      "未婚女子"
+    ],
+    "ja": [
+      "未婚ノ娘"
+    ],
+    "en": [
+      "unmarried woman"
+    ],
+    "source": "B",
+    "original": "minai rikinikinijan"
+  },
+  {
+    "id": "1539",
+    "basay": "minan'an",
+    "category": "05",
+    "zh": [
+      "取名"
+    ],
+    "en": [
+      "named"
+    ],
+    "source": "T",
+    "original": "minaŋan"
+  },
+  {
+    "id": "1540",
+    "basay": "mipusal'um",
+    "category": "34",
+    "zh": [
+      "有生番"
+    ],
+    "en": [
+      "have savages"
+    ],
+    "source": "T",
+    "original": "mipusaɭum"
+  },
+  {
+    "id": "1541",
+    "basay": "miqinaz",
+    "category": "14",
+    "zh": [
+      "叫醒"
+    ],
+    "en": [
+      "wake up someone"
+    ],
+    "source": "T",
+    "original": "miqinaz"
+  },
+  {
+    "id": "1542",
+    "basay": "misi",
+    "category": "21",
+    "zh": [
+      "肥胖，脂肪"
+    ],
+    "en": [
+      "fat"
+    ],
+    "source": "M",
+    "original": "misi (M)"
+  },
+  {
+    "id": "1543",
+    "basay": "misikam",
+    "category": "09",
+    "zh": [
+      "鋪蓆子"
+    ],
+    "en": [
+      "spread a mat"
+    ],
+    "source": "M",
+    "original": "misikam (M)"
+  },
+  {
+    "id": "1252",
+    "basay": "misikis",
+    "category": "25",
+    "zh": [
+      "刮"
+    ],
+    "en": [
+      "shave"
+    ],
+    "source": "T",
+    "original": "kiskis (M), misikis"
+  },
+  {
+    "id": "1544",
+    "basay": "misinuvun'an",
+    "category": "09",
+    "zh": [
+      "帶矛"
+    ],
+    "en": [
+      "bring a spear"
+    ],
+    "source": "T",
+    "original": "misinuvuŋan"
+  },
+  {
+    "id": "1545",
+    "basay": "misumai",
+    "category": "34",
+    "zh": [
+      "午餐"
+    ],
+    "en": [
+      "lunch"
+    ],
+    "source": "M",
+    "original": "misumai (M)"
+  },
+  {
+    "id": "0512",
+    "basay": "mita",
+    "category": "02",
+    "zh": [
+      "我們的（包含式）"
+    ],
+    "ja": [
+      "我々の (Inc.)"
+    ],
+    "en": [
+      "our (Inc.)"
+    ],
+    "source": "B",
+    "original": "mita"
+  },
+  {
+    "id": "1546",
+    "basay": "mitai",
+    "category": "34",
+    "zh": [
+      "有糞便"
+    ],
+    "en": [
+      "have shit"
+    ],
+    "source": "T",
+    "original": "mitai"
+  },
+  {
+    "id": "1547",
+    "basay": "mitamun",
+    "category": "09",
+    "zh": [
+      "帶菜"
+    ],
+    "en": [
+      "bring a side dish"
+    ],
+    "source": "T",
+    "original": "mitamun"
+  },
+  {
+    "id": "1549",
+    "basay": "mitimats",
+    "category": "34",
+    "zh": [
+      "剩菜"
+    ],
+    "en": [
+      "leftover"
+    ],
+    "source": "M",
+    "original": "mitimats (M)"
+  },
+  {
+    "id": "1550",
+    "basay": "mitiqul'",
+    "category": "25",
+    "zh": [
+      "拄著柺杖"
+    ],
+    "en": [
+      "walk with a cane"
+    ],
+    "source": "T",
+    "original": "mitiquɭ"
+  },
+  {
+    "id": "1553",
+    "basay": "mitsitsin'",
+    "category": "06",
+    "zh": [
+      "轉頭看"
+    ],
+    "en": [
+      "look back"
+    ],
+    "source": "M",
+    "original": "mitsitsiŋ (M)"
+  },
+  {
+    "id": "1552",
+    "basay": "mitso'p",
+    "category": "11",
+    "zh": [
+      "濕的 (下雨，哭)"
+    ],
+    "en": [
+      "wet (because of rain, tears)"
+    ],
+    "source": "M",
+    "original": "mitsəp (M)"
+  },
+  {
+    "id": "1554",
+    "basay": "mitsuku . tsuku",
+    "category": "08",
+    "zh": [
+      "戴斗笠"
+    ],
+    "en": [
+      "wear bamboo hat"
+    ],
+    "source": "M",
+    "original": "mitsuku (M). tsuku"
+  },
+  {
+    "id": "1551",
+    "basay": "mitut",
+    "category": "11",
+    "zh": [
+      "放屁"
+    ],
+    "en": [
+      "break wind"
+    ],
+    "source": "M",
+    "original": "mitut (M)"
+  },
+  {
+    "id": "1555",
+    "basay": "mivanan'",
+    "category": "10",
+    "zh": [
+      "有土地"
+    ],
+    "en": [
+      "own land"
+    ],
+    "source": "T",
+    "original": "mivanaŋ"
+  },
+  {
+    "id": "1556",
+    "basay": "mivukiata",
+    "category": "34",
+    "zh": [
+      "鈴響"
+    ],
+    "en": [
+      "ring (bell)"
+    ],
+    "source": "T",
+    "original": "mivukiata"
+  },
+  {
+    "id": "1557",
+    "basay": "miwanaqqa",
+    "category": "32",
+    "zh": [
+      "生小孩"
+    ],
+    "en": [
+      "bear a baby"
+    ],
+    "source": "M",
+    "original": "miwanaqqa (M)"
+  },
+  {
+    "id": "1558",
+    "basay": "mizanum | ptanqu",
+    "category": "27",
+    "zh": [
+      "喝"
+    ],
+    "en": [
+      "drink"
+    ],
+    "source": "T",
+    "original": "mizanum, ptanqu"
+  },
+  {
+    "id": "1559",
+    "basay": "mkatar",
+    "category": "32",
+    "zh": [
+      "硬的"
+    ],
+    "en": [
+      "hard"
+    ],
+    "source": "M",
+    "original": "mkatar (M)"
+  },
+  {
+    "id": "1560",
+    "basay": "mkits | mukits",
+    "category": "14",
+    "zh": [
+      "醒來"
+    ],
+    "en": [
+      "wake up"
+    ],
+    "source": "T",
+    "original": "mkits, mukits"
+  },
+  {
+    "id": "1565",
+    "basay": "ml'al'iluta",
+    "category": "10",
+    "zh": [
+      "泥"
+    ],
+    "en": [
+      "mud"
+    ],
+    "source": "M",
+    "original": "mɭaɭiluta (M)"
+  },
+  {
+    "id": "1576",
+    "basay": "ml'anan'",
+    "category": "06",
+    "zh": [
+      "流血"
+    ],
+    "en": [
+      "bleed"
+    ],
+    "source": "T",
+    "original": "mɭanaŋ"
+  },
+  {
+    "id": "1566",
+    "basay": "ml'aputoi",
+    "category": "24",
+    "zh": [
+      "做夢"
+    ],
+    "en": [
+      "dreaming"
+    ],
+    "source": "M",
+    "original": "mɭaputoi (M)"
+  },
+  {
+    "id": "1567",
+    "basay": "ml'aqo",
+    "category": "34",
+    "zh": [
+      "支撐"
+    ],
+    "en": [
+      "support"
+    ],
+    "source": "M",
+    "original": "mɭaqo (M)"
+  },
+  {
+    "id": "1568",
+    "basay": "ml'asic|",
+    "category": "34",
+    "zh": [
+      "打掃"
+    ],
+    "en": [
+      "sweep"
+    ],
+    "source": "T",
+    "original": "mɭasic|"
+  },
+  {
+    "id": "1569",
+    "basay": "ml'atu",
+    "category": "34",
+    "zh": [
+      "分配"
+    ],
+    "en": [
+      "distribute"
+    ],
+    "source": "M",
+    "original": "mɭatu (M)"
+  },
+  {
+    "id": "1570",
+    "basay": "ml'auis",
+    "category": "15",
+    "zh": [
+      "網魚"
+    ],
+    "en": [
+      "fish with net"
+    ],
+    "source": "M",
+    "original": "mɭauis (M)"
+  },
+  {
+    "id": "1571",
+    "basay": "ml'avoko'l'",
+    "category": "06",
+    "zh": [
+      "卷髪"
+    ],
+    "en": [
+      "curly hair"
+    ],
+    "source": "M",
+    "original": "mɭavokəɭ (M)"
+  },
+  {
+    "id": "1572",
+    "basay": "ml'avut",
+    "category": "34",
+    "zh": [
+      "厭煩"
+    ],
+    "en": [
+      "dislike"
+    ],
+    "source": "T",
+    "original": "mɭavut"
+  },
+  {
+    "id": "1573",
+    "basay": "ml'emazok",
+    "category": "34",
+    "zh": [
+      "玩弄，戲弄"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "M",
+    "original": "mɭemazok (M)"
+  },
+  {
+    "id": "1574",
+    "basay": "ml'enan'",
+    "category": "09",
+    "zh": [
+      "菜"
+    ],
+    "en": [
+      "dish"
+    ],
+    "source": "M",
+    "original": "mɭenaŋ (M)"
+  },
+  {
+    "id": "1575",
+    "basay": "ml'evoqqa",
+    "category": "25",
+    "zh": [
+      "奪走"
+    ],
+    "en": [
+      "rob (to), snatch away"
+    ],
+    "source": "M",
+    "original": "mɭevoqqa (M)"
+  },
+  {
+    "id": "1578",
+    "basay": "ml'il'in'",
+    "category": "13",
+    "zh": [
+      "新年祭袓"
+    ],
+    "en": [
+      "perform new year rituals"
+    ],
+    "source": "T",
+    "original": "mɭiɭiŋ"
+  },
+  {
+    "id": "1579",
+    "basay": "ml'imtsu",
+    "category": "09",
+    "zh": [
+      "銀幣"
+    ],
+    "en": [
+      "silver coin"
+    ],
+    "source": "M",
+    "original": "mɭimtsu (M)"
+  },
+  {
+    "id": "1580",
+    "basay": "ml'iqut",
+    "category": "01",
+    "zh": [
+      "折斷"
+    ],
+    "en": [
+      "break into two pieces"
+    ],
+    "source": "T",
+    "original": "mɭiqut"
+  },
+  {
+    "id": "1581",
+    "basay": "ml'ivisi",
+    "category": "11",
+    "zh": [
+      "退潮"
+    ],
+    "en": [
+      "ebb"
+    ],
+    "source": "T",
+    "original": "mɭivisi"
+  },
+  {
+    "id": "1577",
+    "basay": "ml'o'sak",
+    "category": "29",
+    "zh": [
+      "高興的"
+    ],
+    "en": [
+      "happy"
+    ],
+    "source": "T",
+    "original": "mɭəsak"
+  },
+  {
+    "id": "1582",
+    "basay": "ml'on'an'a",
+    "category": "06",
+    "zh": [
+      "開口"
+    ],
+    "en": [
+      "open the mouth"
+    ],
+    "source": "M",
+    "original": "mɭoŋaŋa (M)"
+  },
+  {
+    "id": "1583",
+    "basay": "ml'tiq. murtiqqa",
+    "category": "25",
+    "zh": [
+      "跳"
+    ],
+    "en": [
+      "jump"
+    ],
+    "source": "T",
+    "original": "mɭtiq. murtiqqa"
+  },
+  {
+    "id": "1561",
+    "basay": "mlaleo",
+    "category": "25",
+    "zh": [
+      "撤退"
+    ],
+    "en": [
+      "retreat"
+    ],
+    "source": "M",
+    "original": "mlaleo (M)"
+  },
+  {
+    "id": "1562",
+    "basay": "mlapet",
+    "category": "25",
+    "zh": [
+      "折斷"
+    ],
+    "en": [
+      "break off"
+    ],
+    "source": "T",
+    "original": "mlapet"
+  },
+  {
+    "id": "1563",
+    "basay": "mlaselas",
+    "category": "34",
+    "zh": [
+      "平滑的•平坦的"
+    ],
+    "en": [
+      "smooth"
+    ],
+    "source": "M",
+    "original": "mlaselas (M)"
+  },
+  {
+    "id": "1564",
+    "basay": "mli vauta",
+    "category": "15",
+    "zh": [
+      "魚綱"
+    ],
+    "en": [
+      "fishing net"
+    ],
+    "source": "M",
+    "original": "mli vauta (M)"
+  },
+  {
+    "id": "1595",
+    "basay": "mn'ava",
+    "category": "34",
+    "zh": [
+      "妒忌的"
+    ],
+    "en": [
+      "jealous"
+    ],
+    "source": "M",
+    "original": "mŋava (M)"
+  },
+  {
+    "id": "1596",
+    "basay": "mn'ol'al'",
+    "category": "32",
+    "zh": [
+      "沈默寡言的.啞的"
+    ],
+    "en": [
+      "mute, dumb"
+    ],
+    "source": "M",
+    "original": "mŋoɭaɭ (M)"
+  },
+  {
+    "id": "1586",
+    "basay": "mnaju",
+    "category": "09",
+    "zh": [
+      "壺"
+    ],
+    "en": [
+      "pot"
+    ],
+    "source": "M",
+    "original": "mnaju (M)"
+  },
+  {
+    "id": "1587",
+    "basay": "mnal'utui",
+    "category": "14",
+    "zh": [
+      "腸•内藏"
+    ],
+    "en": [
+      "intestines"
+    ],
+    "source": "M",
+    "original": "mnaɭutui (M)"
+  },
+  {
+    "id": "1588",
+    "basay": "mnaol",
+    "category": "08",
+    "zh": [
+      "葫蘆•瓜，黄瓜"
+    ],
+    "en": [
+      "gourd, melon, cucumber"
+    ],
+    "source": "M",
+    "original": "mnaol (M)"
+  },
+  {
+    "id": "1589",
+    "basay": "mnaquy",
+    "category": "29",
+    "zh": [
+      "通知"
+    ],
+    "en": [
+      "inform"
+    ],
+    "source": "T",
+    "original": "mnaquy"
+  },
+  {
+    "id": "1590",
+    "basay": "mncjanejapa",
+    "category": "23",
+    "zh": [
+      "喧鬧聲，吵鬧"
+    ],
+    "en": [
+      "noise"
+    ],
+    "source": "M",
+    "original": "mncjanejapa (M)"
+  },
+  {
+    "id": "1592",
+    "basay": "mnin'u",
+    "category": "09",
+    "zh": [
+      "鏡子"
+    ],
+    "en": [
+      "mirror"
+    ],
+    "source": "M",
+    "original": "mniŋu (M)"
+  },
+  {
+    "id": "1591",
+    "basay": "mninai",
+    "category": "04",
+    "zh": [
+      "丈夫"
+    ],
+    "en": [
+      "husband"
+    ],
+    "source": "M",
+    "original": "mninai (M)"
+  },
+  {
+    "id": "1593",
+    "basay": "mnukul",
+    "category": "07",
+    "zh": [
+      "蛇"
+    ],
+    "en": [
+      "snake"
+    ],
+    "source": "M",
+    "original": "mnukul (M)"
+  },
+  {
+    "id": "1594",
+    "basay": "mnurvi",
+    "category": "25",
+    "zh": [
+      "躲藏"
+    ],
+    "en": [
+      "hide oneself"
+    ],
+    "source": "M",
+    "original": "mnurvi (M)"
+  },
+  {
+    "id": "1514",
+    "basay": "mo'n'seta",
+    "category": "32",
+    "zh": [
+      "腐爛"
+    ],
+    "en": [
+      "rotten"
+    ],
+    "source": "M",
+    "original": "məŋseta (M)"
+  },
+  {
+    "id": "1513",
+    "basay": "mo'no'n' | qanin'ya",
+    "category": "28",
+    "zh": [
+      "寒冷"
+    ],
+    "en": [
+      "cold"
+    ],
+    "source": "T",
+    "original": "mənəŋ, qaniŋya"
+  },
+  {
+    "id": "1515",
+    "basay": "mo'so'k",
+    "category": "34",
+    "zh": [
+      "抵達"
+    ],
+    "en": [
+      "arrive"
+    ],
+    "source": "T",
+    "original": "məsək"
+  },
+  {
+    "id": "1516",
+    "basay": "mo'zual'es",
+    "category": "01",
+    "zh": [
+      "很多"
+    ],
+    "en": [
+      "many"
+    ],
+    "source": "T",
+    "original": "məzuaɭes"
+  },
+  {
+    "id": "1597",
+    "basay": "moale",
+    "category": "11",
+    "zh": [
+      "曬太陽"
+    ],
+    "en": [
+      "dry in the sun"
+    ],
+    "source": "M",
+    "original": "moale (M)"
+  },
+  {
+    "id": "0513",
+    "basay": "moali",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "ja": [
+      "来ル"
+    ],
+    "en": [
+      "come"
+    ],
+    "source": "B",
+    "original": "moali"
+  },
+  {
+    "id": "1598",
+    "basay": "moano'm",
+    "category": "34",
+    "zh": [
+      "仍然，還在"
+    ],
+    "en": [
+      "still"
+    ],
+    "source": "T",
+    "original": "moanəm"
+  },
+  {
+    "id": "1599",
+    "basay": "moatso'n'",
+    "category": "11",
+    "zh": [
+      "冒煙的"
+    ],
+    "en": [
+      "smoky"
+    ],
+    "source": "M",
+    "original": "moatsəŋ (M)"
+  },
+  {
+    "id": "1600",
+    "basay": "mol'el'",
+    "category": "32",
+    "zh": [
+      "瘋狂的"
+    ],
+    "en": [
+      "crazy"
+    ],
+    "source": "M",
+    "original": "moɭeɭ (M)"
+  },
+  {
+    "id": "1601",
+    "basay": "mol'onat",
+    "category": "11",
+    "zh": [
+      "燃燒"
+    ],
+    "en": [
+      "bum, set fire"
+    ],
+    "source": "M",
+    "original": "moɭonat (M)"
+  },
+  {
+    "id": "1602",
+    "basay": "mormoq kuva",
+    "category": "15",
+    "zh": [
+      "耕種"
+    ],
+    "en": [
+      "plow"
+    ],
+    "source": "M",
+    "original": "mormoq kuva (M)"
+  },
+  {
+    "id": "0514",
+    "basay": "moton",
+    "category": "07",
+    "zh": [
+      "鼠",
+      "老鼠"
+    ],
+    "ja": [
+      "ネヅミ"
+    ],
+    "en": [
+      "rat. mouse"
+    ],
+    "source": "B",
+    "original": "moton"
+  },
+  {
+    "id": "0515",
+    "basay": "moton",
+    "category": "07",
+    "zh": [
+      "小鼠",
+      "大鼠"
+    ],
+    "ja": [
+      "ネツミ"
+    ],
+    "en": [
+      "mouse, rat"
+    ],
+    "source": "B",
+    "original": "moton"
+  },
+  {
+    "id": "0516",
+    "basay": "motso",
+    "category": "14",
+    "zh": [
+      "在下面"
+    ],
+    "ja": [
+      "ノ下"
+    ],
+    "en": [
+      "under"
+    ],
+    "source": "B",
+    "original": "motso"
+  },
+  {
+    "id": "0517",
+    "basay": "motso",
+    "category": "05",
+    "zh": [
+      "地名"
+    ],
+    "ja": [
+      "(地名) 澳底 < 奥"
+    ],
+    "en": [
+      "place name"
+    ],
+    "source": "B",
+    "original": "motso"
+  },
+  {
+    "id": "0518",
+    "basay": "motso",
+    "category": "10",
+    "zh": [
+      "內部的",
+      "河底/海底"
+    ],
+    "ja": [
+      "奥",
+      "川底",
+      "海底"
+    ],
+    "en": [
+      "interior. bottom of river/ sea"
+    ],
+    "source": "B",
+    "original": "motso"
+  },
+  {
+    "id": "1603",
+    "basay": "motso tako'l",
+    "category": "12",
+    "zh": [
+      "待在屋内"
+    ],
+    "en": [
+      "stay inside the house"
+    ],
+    "source": "M",
+    "original": "motso takəl (M)"
+  },
+  {
+    "id": "1604",
+    "basay": "mqaiwatu",
+    "category": "18",
+    "zh": [
+      "織細的"
+    ],
+    "en": [
+      "slender, thin"
+    ],
+    "source": "M",
+    "original": "mqaiwatu (M)"
+  },
+  {
+    "id": "1261",
+    "basay": "mqalat",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "en": [
+      "bite"
+    ],
+    "source": "M",
+    "original": "klatan, mqalat (M), tumozo"
+  },
+  {
+    "id": "1605",
+    "basay": "mrepot",
+    "category": "11",
+    "zh": [
+      "纏繞"
+    ],
+    "en": [
+      "wind (to)"
+    ],
+    "source": "M",
+    "original": "mrepot (M), repotan"
+  },
+  {
+    "id": "1607",
+    "basay": "mrilo'n'",
+    "category": "14",
+    "zh": [
+      "捲起"
+    ],
+    "en": [
+      "roll up"
+    ],
+    "source": "M",
+    "original": "mriləŋ (M)"
+  },
+  {
+    "id": "1608",
+    "basay": "mritson'",
+    "category": "32",
+    "zh": [
+      "重的"
+    ],
+    "en": [
+      "heavy"
+    ],
+    "source": "M",
+    "original": "mritsoŋ (M)"
+  },
+  {
+    "id": "1609",
+    "basay": "mrteqa zanum",
+    "category": "24",
+    "zh": [
+      "溺死"
+    ],
+    "en": [
+      "drowned, death by drowning"
+    ],
+    "source": "M",
+    "original": "mrteqa zanum (M)"
+  },
+  {
+    "id": "1610",
+    "basay": "mruma",
+    "category": "08",
+    "zh": [
+      "種植"
+    ],
+    "en": [
+      "plant (to)"
+    ],
+    "source": "M",
+    "original": "mruma (M)"
+  },
+  {
+    "id": "1611",
+    "basay": "mrusirau",
+    "category": "22",
+    "zh": [
+      "藍色，綠色"
+    ],
+    "en": [
+      "blue, green"
+    ],
+    "source": "M",
+    "original": "mrusirau (M)"
+  },
+  {
+    "id": "1612",
+    "basay": "msaiz",
+    "category": "34",
+    "zh": [
+      "便宜"
+    ],
+    "en": [
+      "cheap"
+    ],
+    "source": "M",
+    "original": "msaiz (M)"
+  },
+  {
+    "id": "1613",
+    "basay": "msal'jn | musal'in",
+    "category": "34",
+    "zh": [
+      "流動"
+    ],
+    "en": [
+      "flow"
+    ],
+    "source": "T",
+    "original": "msaɭjn, musaɭin"
+  },
+  {
+    "id": "1614",
+    "basay": "msava",
+    "category": "27",
+    "zh": [
+      "餓"
+    ],
+    "en": [
+      "hungry"
+    ],
+    "source": "T",
+    "original": "msava"
+  },
+  {
+    "id": "1616",
+    "basay": "msiqaz",
+    "category": "29",
+    "zh": [
+      "慚愧的"
+    ],
+    "en": [
+      "ashamed"
+    ],
+    "source": "T",
+    "original": "msiqaz"
+  },
+  {
+    "id": "1615",
+    "basay": "mso'k",
+    "category": "34",
+    "zh": [
+      "抵達"
+    ],
+    "en": [
+      "arrive"
+    ],
+    "source": "M",
+    "original": "msək (M)"
+  },
+  {
+    "id": "1617",
+    "basay": "msuin",
+    "category": "27",
+    "zh": [
+      "飽"
+    ],
+    "en": [
+      "full (eating), satisfied"
+    ],
+    "source": "M",
+    "original": "msuin (M)"
+  },
+  {
+    "id": "1618",
+    "basay": "msupa",
+    "category": "32",
+    "zh": [
+      "貧窮"
+    ],
+    "en": [
+      "poor"
+    ],
+    "source": "T",
+    "original": "msupa"
+  },
+  {
+    "id": "1619",
+    "basay": "msupo'l",
+    "category": "10",
+    "zh": [
+      "知道"
+    ],
+    "en": [
+      "know"
+    ],
+    "source": "T",
+    "original": "msupəl"
+  },
+  {
+    "id": "1620",
+    "basay": "mtan'a",
+    "category": "23",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "laugh"
+    ],
+    "source": "T",
+    "original": "mtaŋa"
+  },
+  {
+    "id": "1621",
+    "basay": "mtan'tan'a",
+    "category": "23",
+    "zh": [
+      "嘲笑的"
+    ],
+    "en": [
+      "scornful laugh"
+    ],
+    "source": "M",
+    "original": "mtaŋtaŋa (M), ptaŋa"
+  },
+  {
+    "id": "1623",
+    "basay": "mtian",
+    "category": "34",
+    "zh": [
+      "懷孕"
+    ],
+    "en": [
+      "pregnant"
+    ],
+    "source": "M",
+    "original": "mtian (M)"
+  },
+  {
+    "id": "1624",
+    "basay": "mtorots",
+    "category": "28",
+    "zh": [
+      "聾的"
+    ],
+    "en": [
+      "deaf"
+    ],
+    "source": "M",
+    "original": "mtorots (M)"
+  },
+  {
+    "id": "1626",
+    "basay": "mtsan'atsa",
+    "category": "34",
+    "zh": [
+      "爭論，爭執"
+    ],
+    "en": [
+      "dispute"
+    ],
+    "source": "M",
+    "original": "mtsaŋatsa (M)"
+  },
+  {
+    "id": "1627",
+    "basay": "mtsuvun'",
+    "category": "25",
+    "zh": [
+      "跳"
+    ],
+    "en": [
+      "jump"
+    ],
+    "source": "M",
+    "original": "mtsuvuŋ (M)"
+  },
+  {
+    "id": "1625",
+    "basay": "mturtur",
+    "category": "25",
+    "zh": [
+      "震動"
+    ],
+    "en": [
+      "shake"
+    ],
+    "source": "M",
+    "original": "mturtur(M)"
+  },
+  {
+    "id": "1628",
+    "basay": "mua",
+    "category": "13",
+    "zh": [
+      "早上"
+    ],
+    "en": [
+      "morning"
+    ],
+    "source": "M",
+    "original": "mua (M)"
+  },
+  {
+    "id": "1629",
+    "basay": "mual'a",
+    "category": "01",
+    "zh": [
+      "多"
+    ],
+    "en": [
+      "many"
+    ],
+    "source": "S",
+    "original": "muaɭa (S)"
+  },
+  {
+    "id": "1631",
+    "basay": "muanum",
+    "category": "29",
+    "zh": [
+      "喜歡"
+    ],
+    "en": [
+      "like"
+    ],
+    "source": "T",
+    "original": "mamjaku (M), muanum"
+  },
+  {
+    "id": "1632",
+    "basay": "muazin'",
+    "category": "14",
+    "zh": [
+      "帶東西"
+    ],
+    "en": [
+      "bring things"
+    ],
+    "source": "T",
+    "original": "muaziŋ"
+  },
+  {
+    "id": "1633",
+    "basay": "mukin",
+    "category": "09",
+    "zh": [
+      "鐵"
+    ],
+    "en": [
+      "iron"
+    ],
+    "source": "T",
+    "original": "mukin"
+  },
+  {
+    "id": "1635",
+    "basay": "mul'ai u lesau",
+    "category": "15",
+    "zh": [
+      "樹枝，果實的種子"
+    ],
+    "en": [
+      "twig, bow, seed of fruits"
+    ],
+    "source": "M",
+    "original": "muɭai u lesau (M)"
+  },
+  {
+    "id": "1636",
+    "basay": "mul'as",
+    "category": "11",
+    "zh": [
+      "露 (?)"
+    ],
+    "en": [
+      "dew (?)"
+    ],
+    "source": "M",
+    "original": "muɭas (M), uɭas"
+  },
+  {
+    "id": "1638",
+    "basay": "mul'ata",
+    "category": "34",
+    "zh": [
+      "調情"
+    ],
+    "en": [
+      "flirt"
+    ],
+    "source": "T",
+    "original": "muɭata"
+  },
+  {
+    "id": "1244",
+    "basay": "mul'ul'its",
+    "category": "32",
+    "zh": [
+      "小偷"
+    ],
+    "en": [
+      "steal"
+    ],
+    "source": "M",
+    "original": "kiɭuɭits ，muɭuɭits (M)"
+  },
+  {
+    "id": "1639",
+    "basay": "mul'ul'u",
+    "category": "07",
+    "zh": [
+      "(狗）吠"
+    ],
+    "en": [
+      "bark (dogs)"
+    ],
+    "source": "M",
+    "original": "muɭuɭu (M)"
+  },
+  {
+    "id": "0519",
+    "basay": "mulan | maulan",
+    "category": "11",
+    "zh": [
+      "雨"
+    ],
+    "ja": [
+      "雨"
+    ],
+    "en": [
+      "rain"
+    ],
+    "source": "B",
+    "original": "mulan, maulan"
+  },
+  {
+    "id": "1634",
+    "basay": "mulaqlaqai",
+    "category": "23",
+    "zh": [
+      "咳嗽"
+    ],
+    "en": [
+      "cough"
+    ],
+    "source": "M",
+    "original": "mulaqlaqai (M)"
+  },
+  {
+    "id": "0521",
+    "basay": "mulu",
+    "category": "22",
+    "zh": [
+      "嬰兒"
+    ],
+    "ja": [
+      "赤子"
+    ],
+    "en": [
+      "baby"
+    ],
+    "source": "B",
+    "original": "mulu"
+  },
+  {
+    "id": "1640",
+    "basay": "mumus",
+    "category": "06",
+    "zh": [
+      "小鬍子"
+    ],
+    "en": [
+      "mustache"
+    ],
+    "source": "M",
+    "original": "mumus (M)"
+  },
+  {
+    "id": "1641",
+    "basay": "munainail'",
+    "category": "07",
+    "zh": [
+      "飛"
+    ],
+    "en": [
+      "fly"
+    ],
+    "source": "T",
+    "original": "munainaiɭ"
+  },
+  {
+    "id": "0522",
+    "basay": "munan'in",
+    "category": "08",
+    "zh": [
+      "花"
+    ],
+    "ja": [
+      "花"
+    ],
+    "en": [
+      "flower"
+    ],
+    "source": "B",
+    "original": "munaŋin"
+  },
+  {
+    "id": "0523",
+    "basay": "munan'in",
+    "category": "11",
+    "zh": [
+      "萊姆"
+    ],
+    "ja": [
+      "石灰"
+    ],
+    "en": [
+      "lime"
+    ],
+    "source": "B",
+    "original": "munaŋin"
+  },
+  {
+    "id": "0524",
+    "basay": "munan'in",
+    "category": "05",
+    "zh": [
+      "科西嘉島雜草"
+    ],
+    "ja": [
+      "海人草"
+    ],
+    "en": [
+      "corsican weed"
+    ],
+    "source": "B",
+    "original": "munaŋin"
+  },
+  {
+    "id": "0525",
+    "basay": "munan'in",
+    "category": "09",
+    "zh": [
+      "雕刻品"
+    ],
+    "ja": [
+      "彫刻】"
+    ],
+    "en": [
+      "carvings"
+    ],
+    "source": "B",
+    "original": "munaŋin"
+  },
+  {
+    "id": "1642",
+    "basay": "munatsan'",
+    "category": "32",
+    "zh": [
+      "輕 (重量)"
+    ],
+    "en": [
+      "light (in weight)"
+    ],
+    "source": "M",
+    "original": "munatsaŋ (M), natsaŋ (M)"
+  },
+  {
+    "id": "1644",
+    "basay": "murpun",
+    "category": "34",
+    "zh": [
+      "完成"
+    ],
+    "en": [
+      "finish"
+    ],
+    "source": "T",
+    "original": "murpun"
+  },
+  {
+    "id": "1645",
+    "basay": "mursapa",
+    "category": "11",
+    "zh": [
+      "滿潮"
+    ],
+    "en": [
+      "high tide"
+    ],
+    "source": "M",
+    "original": "mursapa (M)"
+  },
+  {
+    "id": "1646",
+    "basay": "murtav",
+    "category": "11",
+    "zh": [
+      "聊天"
+    ],
+    "en": [
+      "chat"
+    ],
+    "source": "M",
+    "original": "murtav (M)"
+  },
+  {
+    "id": "0526",
+    "basay": "muru",
+    "category": "04",
+    "zh": [
+      "第一個孩子"
+    ],
+    "ja": [
+      "初児"
+    ],
+    "en": [
+      "first child"
+    ],
+    "source": "B",
+    "original": "muru"
+  },
+  {
+    "id": "1647",
+    "basay": "muru",
+    "category": "08",
+    "zh": [
+      "柚子"
+    ],
+    "en": [
+      "pomelo"
+    ],
+    "source": "M",
+    "original": "muru (M)"
+  },
+  {
+    "id": "1648",
+    "basay": "murukku",
+    "category": "25",
+    "zh": [
+      "屈身，生產"
+    ],
+    "en": [
+      "stoop, give birth to"
+    ],
+    "source": "M",
+    "original": "murukku (M)"
+  },
+  {
+    "id": "1649",
+    "basay": "musaini",
+    "category": "29",
+    "zh": [
+      "擔心"
+    ],
+    "en": [
+      "worry"
+    ],
+    "source": "M",
+    "original": "musaini (M)"
+  },
+  {
+    "id": "1650",
+    "basay": "musipus",
+    "category": "25",
+    "zh": [
+      "摩擦"
+    ],
+    "en": [
+      "rub"
+    ],
+    "source": "M",
+    "original": "musipus (M)"
+  },
+  {
+    "id": "1651",
+    "basay": "musup",
+    "category": "11",
+    "zh": [
+      "滅火"
+    ],
+    "en": [
+      "extinguish"
+    ],
+    "source": "M",
+    "original": "musup (M)"
+  },
+  {
+    "id": "1652",
+    "basay": "muta",
+    "category": "27",
+    "zh": [
+      "嘔吐"
+    ],
+    "en": [
+      "vomit"
+    ],
+    "source": "M",
+    "original": "muta (M)"
+  },
+  {
+    "id": "1653",
+    "basay": "muton",
+    "category": "07",
+    "zh": [
+      "老鼠"
+    ],
+    "en": [
+      "rat, mouse"
+    ],
+    "source": "M",
+    "original": "muton (M)"
+  },
+  {
+    "id": "1654",
+    "basay": "mutsu | vutsu",
+    "category": "14",
+    "zh": [
+      "下面"
+    ],
+    "en": [
+      "under"
+    ],
+    "source": "T",
+    "original": "mutsu, vutsu"
+  },
+  {
+    "id": "0527",
+    "basay": "mutsum uatsu",
+    "category": "07",
+    "zh": [
+      "黑狗"
+    ],
+    "ja": [
+      "黒い犬"
+    ],
+    "en": [
+      "black dog"
+    ],
+    "source": "B",
+    "original": "mutsum uatsu"
+  },
+  {
+    "id": "1655",
+    "basay": "muttun'",
+    "category": "25",
+    "zh": [
+      "殺"
+    ],
+    "en": [
+      "kill"
+    ],
+    "source": "T",
+    "original": "muttuŋ"
+  },
+  {
+    "id": "0528",
+    "basay": "mututte. matul' na makila sjali n'onon",
+    "category": "10",
+    "zh": [
+      "放屁我們去山吧"
+    ],
+    "ja": [
+      "屁, アミ(ma?tot) サア 皆サン山へ行カウ"
+    ],
+    "en": [
+      "fart let's go to the mountain"
+    ],
+    "source": "B",
+    "original": "mututte. matul' na makila sjali ŋonon"
+  },
+  {
+    "id": "1656",
+    "basay": "mutuz",
+    "category": "11",
+    "zh": [
+      "地震"
+    ],
+    "en": [
+      "earthquake"
+    ],
+    "source": "M",
+    "original": "mutuz (M)"
+  },
+  {
+    "id": "1657",
+    "basay": "muzuay",
+    "category": "25",
+    "zh": [
+      "有"
+    ],
+    "en": [
+      "exist"
+    ],
+    "source": "T",
+    "original": "muzuay"
+  },
+  {
+    "id": "1658",
+    "basay": "mval'a",
+    "category": "11",
+    "zh": [
+      "空閒的"
+    ],
+    "en": [
+      "idle"
+    ],
+    "source": "T",
+    "original": "mvaɭa, tupus (M)"
+  },
+  {
+    "id": "1584",
+    "basay": "mz'ala",
+    "category": "05",
+    "zh": [
+      "短•矮人"
+    ],
+    "en": [
+      "short, dwarf"
+    ],
+    "source": "T",
+    "original": "mɮala, mzata (M)"
+  },
+  {
+    "id": "1585",
+    "basay": "mzata",
+    "category": "05",
+    "zh": [
+      "短•矮人"
+    ],
+    "en": [
+      "short, dwarf"
+    ],
+    "source": "M",
+    "original": "mɮala, mzata (M)"
+  },
+  {
+    "id": "1402",
+    "basay": "mài",
+    "category": "25",
+    "zh": [
+      "在"
+    ],
+    "en": [
+      "exist"
+    ],
+    "source": "T",
+    "original": "mài"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "0206",
+    "basay": "jaku",
+    "category": "29",
+    "zh": [
+      "令人遺憾的",
+      "可憐"
+    ],
+    "ja": [
+      "惜シイ"
+    ],
+    "en": [
+      "regrettable. pitiful"
+    ],
+    "source": "B",
+    "original": "jaku"
+  },
+  {
+    "id": "0207",
+    "basay": "jakumo",
+    "category": "02",
+    "zh": [
+      "我們的（排除式）"
+    ],
+    "ja": [
+      "我々の】 (Exc.)"
+    ],
+    "en": [
+      "our (Exc.)"
+    ],
+    "source": "B",
+    "original": "jakumo"
+  },
+  {
+    "id": "0208",
+    "basay": "jami uatsu",
+    "category": "02",
+    "zh": [
+      "我們的狗"
+    ],
+    "ja": [
+      "我々の】<我々の犬>"
+    ],
+    "en": [
+      "our dogs"
+    ],
+    "source": "B",
+    "original": "jami(?) uatsu"
+  }
+]

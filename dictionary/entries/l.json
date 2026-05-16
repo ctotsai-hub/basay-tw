@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "1362",
+    "basay": "l'aaq",
+    "category": "27",
+    "zh": [
+      "酒"
+    ],
+    "en": [
+      "wine"
+    ],
+    "source": "T",
+    "original": "ɭaaq"
+  },
+  {
+    "id": "1372",
+    "basay": "l'ainial'mal'in",
+    "category": "34",
+    "zh": [
+      "流浪"
+    ],
+    "en": [
+      "wander"
+    ],
+    "source": "T",
+    "original": "ɭainiaɭmaɭin, ɭaman (S)"
+  },
+  {
+    "id": "1363",
+    "basay": "l'airuruna | rurun",
+    "category": "08",
+    "zh": [
+      "田埂"
+    ],
+    "en": [
+      "path of rice field"
+    ],
+    "source": "T",
+    "original": "ɭairuruna, rurun"
+  },
+  {
+    "id": "1364",
+    "basay": "l'ajal' vawa",
+    "category": "20",
+    "zh": [
+      "出船"
+    ],
+    "en": [
+      "sail, put out to sea"
+    ],
+    "source": "M",
+    "original": "ɭajaɭ vawa (M), yawale"
+  },
+  {
+    "id": "1368",
+    "basay": "l'ak(w)zaan",
+    "category": "06",
+    "zh": [
+      "脖子，喉嚨"
+    ],
+    "en": [
+      "neck,throat"
+    ],
+    "source": "M",
+    "original": "ɭak(w)zaan (M)"
+  },
+  {
+    "id": "1366",
+    "basay": "l'akop",
+    "category": "09",
+    "zh": [
+      "碗，盆"
+    ],
+    "en": [
+      "bowl, basin"
+    ],
+    "source": "M",
+    "original": "ɭakop (M)"
+  },
+  {
+    "id": "1367",
+    "basay": "l'akuku",
+    "category": "06",
+    "zh": [
+      "點頭"
+    ],
+    "en": [
+      "nodding of tlie head"
+    ],
+    "source": "M",
+    "original": "ɭakuku (M)"
+  },
+  {
+    "id": "1369",
+    "basay": "l'al'ai",
+    "category": "07",
+    "zh": [
+      "蟬"
+    ],
+    "en": [
+      "cicada, earth worm"
+    ],
+    "source": "M",
+    "original": "ɭaɭai (M)"
+  },
+  {
+    "id": "1370",
+    "basay": "l'al'auku",
+    "category": "02",
+    "zh": [
+      "自求多福"
+    ],
+    "en": [
+      "on your own"
+    ],
+    "source": "T",
+    "original": "ɭaɭauku"
+  },
+  {
+    "id": "1371",
+    "basay": "l'ama",
+    "category": "07",
+    "zh": [
+      "牡蠣，蛤"
+    ],
+    "en": [
+      "oyster, clam"
+    ],
+    "source": "T",
+    "original": "ɭama"
+  },
+  {
+    "id": "1373",
+    "basay": "l'aman",
+    "category": "34",
+    "zh": [
+      "流浪"
+    ],
+    "en": [
+      "wander"
+    ],
+    "source": "S",
+    "original": "ɭainiaɭmaɭin, ɭaman (S)"
+  },
+  {
+    "id": "1374",
+    "basay": "l'ame",
+    "category": "08",
+    "zh": [
+      "稻草"
+    ],
+    "en": [
+      "straw"
+    ],
+    "source": "M",
+    "original": "ɭame (M)"
+  },
+  {
+    "id": "1375",
+    "basay": "l'amsan",
+    "category": "25",
+    "zh": [
+      "混合"
+    ],
+    "en": [
+      "mix"
+    ],
+    "source": "M",
+    "original": "ɭamsan (M)"
+  },
+  {
+    "id": "1376",
+    "basay": "l'apunu",
+    "category": "34",
+    "zh": [
+      "乞討"
+    ],
+    "en": [
+      "beg"
+    ],
+    "source": "T",
+    "original": "ɭapunu, pabɭa, pabuɭa (S)"
+  },
+  {
+    "id": "1325",
+    "basay": "l'aqi",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "T",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "1379",
+    "basay": "l'asl'asiq",
+    "category": "34",
+    "zh": [
+      "打掃"
+    ],
+    "en": [
+      "sweep"
+    ],
+    "source": "T",
+    "original": "ɭasɭasiq"
+  },
+  {
+    "id": "1380",
+    "basay": "l'eqol",
+    "category": "06",
+    "zh": [
+      "尾巴"
+    ],
+    "en": [
+      "tail"
+    ],
+    "source": "M",
+    "original": "ɭeqol (M)"
+  },
+  {
+    "id": "1381",
+    "basay": "l'ikil'ikka",
+    "category": "22",
+    "zh": [
+      "細長且帶金色的瑪瑙"
+    ],
+    "en": [
+      "agates (golden, long, thin)"
+    ],
+    "source": "T",
+    "original": "ɭikiɭikka"
+  },
+  {
+    "id": "1382",
+    "basay": "l'in'ai",
+    "category": "07",
+    "zh": [
+      "鰻魚"
+    ],
+    "en": [
+      "eel"
+    ],
+    "source": "M",
+    "original": "ɭiŋai (M)"
+  },
+  {
+    "id": "1383",
+    "basay": "l'isusan",
+    "category": "06",
+    "zh": [
+      "髮旋"
+    ],
+    "en": [
+      "whirl of hair on the head"
+    ],
+    "source": "M",
+    "original": "ɭisusan (M)"
+  },
+  {
+    "id": "1384",
+    "basay": "l'oqol",
+    "category": "01",
+    "zh": [
+      "測量"
+    ],
+    "en": [
+      "measure, scale"
+    ],
+    "source": "M",
+    "original": "ɭoqol (M)"
+  },
+  {
+    "id": "0265",
+    "basay": "la?ese",
+    "category": "08",
+    "zh": [
+      "白茅草"
+    ],
+    "ja": [
+      "カヤ",
+      "ススキ"
+    ],
+    "en": [
+      "cogon grass"
+    ],
+    "source": "B",
+    "original": "la?ese"
+  },
+  {
+    "id": "0266",
+    "basay": "labasse",
+    "category": "35",
+    "zh": [
+      "不像"
+    ],
+    "ja": [
+      "似ナイ"
+    ],
+    "en": [
+      "resemble (not)"
+    ],
+    "source": "B",
+    "original": "labasse"
+  },
+  {
+    "id": "0267",
+    "basay": "labatan",
+    "category": "01",
+    "zh": [
+      "十"
+    ],
+    "ja": [
+      "10"
+    ],
+    "en": [
+      "ten"
+    ],
+    "source": "B",
+    "original": "labatan"
+  },
+  {
+    "id": "0268",
+    "basay": "labe",
+    "category": "13",
+    "zh": [
+      "夜晚"
+    ],
+    "ja": [
+      "夜"
+    ],
+    "en": [
+      "night"
+    ],
+    "source": "B",
+    "original": "labe"
+  },
+  {
+    "id": "0269",
+    "basay": "labe-labe",
+    "category": "13",
+    "zh": [
+      "第二天早上"
+    ],
+    "ja": [
+      "アスノ朝"
+    ],
+    "en": [
+      "next morning"
+    ],
+    "source": "B",
+    "original": "labe-labe"
+  },
+  {
+    "id": "0270",
+    "basay": "labe-labe | labe-labe sumai",
+    "category": "13",
+    "zh": [
+      "早晨",
+      "第二天早上"
+    ],
+    "ja": [
+      "朝",
+      "翌朝",
+      "<朝食>"
+    ],
+    "en": [
+      "morning. next morning"
+    ],
+    "source": "B",
+    "original": "labe-labe, <labe-labe sumai>"
+  },
+  {
+    "id": "0271",
+    "basay": "labenaita",
+    "category": "13",
+    "zh": [
+      "夜幕降臨"
+    ],
+    "ja": [
+      "夜ニナル"
+    ],
+    "en": [
+      "night falls"
+    ],
+    "source": "B",
+    "original": "labenaita"
+  },
+  {
+    "id": "0272",
+    "basay": "labenaita",
+    "category": "13",
+    "zh": [
+      "晚上",
+      "晚上"
+    ],
+    "ja": [
+      "夕ニナル"
+    ],
+    "en": [
+      "evening. get evening"
+    ],
+    "source": "B",
+    "original": "labenaita"
+  },
+  {
+    "id": "0273",
+    "basay": "labu",
+    "category": "12",
+    "zh": [
+      "在房子裡面"
+    ],
+    "ja": [
+      "屋内"
+    ],
+    "en": [
+      "inside in the house"
+    ],
+    "source": "B",
+    "original": "labu"
+  },
+  {
+    "id": "0274",
+    "basay": "labu",
+    "category": "12",
+    "zh": [
+      "裡面"
+    ],
+    "ja": [
+      "屋内"
+    ],
+    "en": [
+      "inside"
+    ],
+    "source": "B",
+    "original": "labu"
+  },
+  {
+    "id": "0275",
+    "basay": "labun'bun'",
+    "category": "27",
+    "zh": [
+      "博伊",
+      "沸騰"
+    ],
+    "ja": [
+      "湯ガワク",
+      "アフレル"
+    ],
+    "en": [
+      "boi. boil over"
+    ],
+    "source": "B",
+    "original": "labuŋbuŋ"
+  },
+  {
+    "id": "1314",
+    "basay": "laes",
+    "category": "08",
+    "zh": [
+      "白芒"
+    ],
+    "en": [
+      "cogon grass"
+    ],
+    "source": "M",
+    "original": "laes (M)"
+  },
+  {
+    "id": "0276",
+    "basay": "laese",
+    "category": "08",
+    "zh": [
+      "白茅草"
+    ],
+    "ja": [
+      "カヤ"
+    ],
+    "en": [
+      "cogongrass"
+    ],
+    "source": "B",
+    "original": "laese"
+  },
+  {
+    "id": "0277",
+    "basay": "laetse",
+    "category": "09",
+    "zh": [
+      "繩子"
+    ],
+    "ja": [
+      "ロープ (??)"
+    ],
+    "en": [
+      "roap (??), rope"
+    ],
+    "source": "B",
+    "original": "laetse"
+  },
+  {
+    "id": "0278",
+    "basay": "laha",
+    "category": "06",
+    "zh": [
+      "喉"
+    ],
+    "ja": [
+      "咽喉"
+    ],
+    "en": [
+      "throat"
+    ],
+    "source": "B",
+    "original": "laha"
+  },
+  {
+    "id": "0279",
+    "basay": "laha",
+    "category": "06",
+    "zh": [
+      "喉"
+    ],
+    "ja": [
+      "喉"
+    ],
+    "en": [
+      "throat"
+    ],
+    "source": "B",
+    "original": "laha"
+  },
+  {
+    "id": "0280",
+    "basay": "lahai",
+    "category": "36",
+    "zh": [
+      "如果，也許"
+    ],
+    "ja": [
+      "モシ",
+      "モシカシタラ . 多分"
+    ],
+    "en": [
+      "if, perhaps"
+    ],
+    "source": "B",
+    "original": "lahai"
+  },
+  {
+    "id": "0281",
+    "basay": "lahe",
+    "category": "23",
+    "zh": [
+      "咳嗽"
+    ],
+    "ja": [
+      "セキ"
+    ],
+    "en": [
+      "cough"
+    ],
+    "source": "B",
+    "original": "lahe"
+  },
+  {
+    "id": "0282",
+    "basay": "lahe",
+    "category": "23",
+    "zh": [
+      "咳嗽"
+    ],
+    "ja": [
+      "咳ヲスル"
+    ],
+    "en": [
+      "cough"
+    ],
+    "source": "B",
+    "original": "lahe"
+  },
+  {
+    "id": "0283",
+    "basay": "lahete uatsu",
+    "category": "02",
+    "zh": [
+      "你的狗，別人的狗"
+    ],
+    "ja": [
+      "他人 (?)の犬, (あなたの)"
+    ],
+    "en": [
+      "your dog, others' dog"
+    ],
+    "source": "B",
+    "original": "lahete uatsu"
+  },
+  {
+    "id": "0284",
+    "basay": "lahihite",
+    "category": "32",
+    "zh": [
+      "粗"
+    ],
+    "ja": [
+      "荒キ",
+      "ザラザラシテオル"
+    ],
+    "en": [
+      "coarse"
+    ],
+    "source": "B",
+    "original": "lahihite"
+  },
+  {
+    "id": "0285",
+    "basay": "laho",
+    "category": "25",
+    "zh": [
+      "支持",
+      "擁抱"
+    ],
+    "ja": [
+      "支持スル 抱ｸ"
+    ],
+    "en": [
+      "support (to)",
+      "embrace"
+    ],
+    "source": "B",
+    "original": "laho"
+  },
+  {
+    "id": "0286",
+    "basay": "laho",
+    "category": "06",
+    "zh": [
+      "用手握住"
+    ],
+    "ja": [
+      "手デ抱ク"
+    ],
+    "en": [
+      "hold with hand"
+    ],
+    "source": "B",
+    "original": "laho"
+  },
+  {
+    "id": "0288",
+    "basay": "laila | malaila. manalau",
+    "category": "24",
+    "zh": [
+      "死"
+    ],
+    "ja": [
+      "死ぬ"
+    ],
+    "en": [
+      "die (to)"
+    ],
+    "source": "B",
+    "original": "laila, malaila. manalau"
+  },
+  {
+    "id": "0287",
+    "basay": "laila. | pakalaila babui",
+    "category": "07",
+    "zh": [
+      "殺豬"
+    ],
+    "ja": [
+      "豚ヲ殺ス"
+    ],
+    "en": [
+      "kill pigs"
+    ],
+    "source": "B",
+    "original": "laila. <pakalaila babui>"
+  },
+  {
+    "id": "1315",
+    "basay": "laisa",
+    "category": "06",
+    "zh": [
+      "臉頰"
+    ],
+    "en": [
+      "cheek"
+    ],
+    "source": "M",
+    "original": "laisa (M)"
+  },
+  {
+    "id": "0289",
+    "basay": "laise",
+    "category": "06",
+    "zh": [
+      "臉頰"
+    ],
+    "ja": [
+      "頰"
+    ],
+    "en": [
+      "cheek"
+    ],
+    "source": "B",
+    "original": "laise"
+  },
+  {
+    "id": "0290",
+    "basay": "laise",
+    "category": "06",
+    "zh": [
+      "臉"
+    ],
+    "ja": [
+      "顏"
+    ],
+    "en": [
+      "face"
+    ],
+    "source": "B",
+    "original": "laise"
+  },
+  {
+    "id": "0291",
+    "basay": "laittse",
+    "category": "25",
+    "zh": [
+      "搜尋"
+    ],
+    "ja": [
+      "捜ス"
+    ],
+    "en": [
+      "search"
+    ],
+    "source": "B",
+    "original": "laittse"
+  },
+  {
+    "id": "1316",
+    "basay": "lajan",
+    "category": "09",
+    "zh": [
+      "鍋子"
+    ],
+    "en": [
+      "pan"
+    ],
+    "source": "M",
+    "original": "lajan (M)"
+  },
+  {
+    "id": "0292",
+    "basay": "lakal a nitun'ul",
+    "category": "09",
+    "zh": [
+      "床的欄桿"
+    ],
+    "ja": [
+      "ベッドノフチノ板ノ場所"
+    ],
+    "en": [
+      "railing of the bed"
+    ],
+    "source": "B",
+    "original": "lakal a nituŋul"
+  },
+  {
+    "id": "0293",
+    "basay": "lakal'",
+    "category": "09",
+    "zh": [
+      "床"
+    ],
+    "ja": [
+      "寝台"
+    ],
+    "en": [
+      "bed"
+    ],
+    "source": "B",
+    "original": "lakal'"
+  },
+  {
+    "id": "0294",
+    "basay": "lakar | lilakar",
+    "category": "09",
+    "zh": [
+      "床"
+    ],
+    "ja": [
+      "ベッド , ベッドで"
+    ],
+    "en": [
+      "bed"
+    ],
+    "source": "B",
+    "original": "lakar <lilakar>"
+  },
+  {
+    "id": "0295",
+    "basay": "lakau",
+    "category": "13",
+    "zh": [
+      "睡眠"
+    ],
+    "ja": [
+      "睡眠】"
+    ],
+    "en": [
+      "sleeping"
+    ],
+    "source": "B",
+    "original": "lakau"
+  },
+  {
+    "id": "0296",
+    "basay": "lakau",
+    "category": "23",
+    "zh": [
+      "鼾"
+    ],
+    "ja": [
+      "鼾"
+    ],
+    "en": [
+      "snore"
+    ],
+    "source": "B",
+    "original": "lakau"
+  },
+  {
+    "id": "0297",
+    "basay": "lakikite",
+    "category": "32",
+    "zh": [
+      "去皺",
+      "省錢"
+    ],
+    "ja": [
+      "皺､ケチ",
+      "ケンヤク"
+    ],
+    "en": [
+      "wrinkle, economize"
+    ],
+    "source": "B",
+    "original": "lakikite"
+  },
+  {
+    "id": "0298",
+    "basay": "lakikitte",
+    "category": "06",
+    "zh": [
+      "捲髮",
+      "破爛的小屋"
+    ],
+    "ja": [
+      "髪ノチデレタル",
+      "ソマツ家"
+    ],
+    "en": [
+      "curly hair. wretched hovel"
+    ],
+    "source": "B",
+    "original": "lakikitte"
+  },
+  {
+    "id": "0300",
+    "basay": "lakon'kon'",
+    "category": "35",
+    "zh": [
+      "骯髒的"
+    ],
+    "ja": [
+      "汚イ"
+    ],
+    "en": [
+      "dirty"
+    ],
+    "source": "B",
+    "original": "lakoŋkoŋ"
+  },
+  {
+    "id": "0299",
+    "basay": "lakonko",
+    "category": "05",
+    "zh": [
+      "不修邊幅的男人"
+    ],
+    "ja": [
+      "ダラシナキ人,貧食坊, 髪ヲ乱シ衣服ヲ汚シタルママノ人"
+    ],
+    "en": [
+      "slovenly man"
+    ],
+    "source": "B",
+    "original": "lakonko"
+  },
+  {
+    "id": "1317",
+    "basay": "laktiw | naktiw",
+    "category": "34",
+    "zh": [
+      "離間"
+    ],
+    "en": [
+      "leave"
+    ],
+    "source": "T",
+    "original": "laktiw, naktiw"
+  },
+  {
+    "id": "0301",
+    "basay": "lakub",
+    "category": "09",
+    "zh": [
+      "碗",
+      "盆"
+    ],
+    "ja": [
+      "鉢"
+    ],
+    "en": [
+      "bowl, basin"
+    ],
+    "source": "B",
+    "original": "lakub"
+  },
+  {
+    "id": "0302",
+    "basay": "lakup",
+    "category": "09",
+    "zh": [
+      "屍速列車"
+    ],
+    "ja": [
+      "釜"
+    ],
+    "en": [
+      "cauldron"
+    ],
+    "source": "B",
+    "original": "lakup"
+  },
+  {
+    "id": "0303",
+    "basay": "lalase",
+    "category": "06",
+    "zh": [
+      "瞳孔"
+    ],
+    "ja": [
+      "ヒトミ"
+    ],
+    "en": [
+      "pupil"
+    ],
+    "source": "B",
+    "original": "lalase"
+  },
+  {
+    "id": "0304",
+    "basay": "lalau | malalau",
+    "category": "24",
+    "zh": [
+      "死"
+    ],
+    "ja": [
+      "死去"
+    ],
+    "en": [
+      "die (to)"
+    ],
+    "source": "B",
+    "original": "lalau, malalau"
+  },
+  {
+    "id": "1318",
+    "basay": "lalaw",
+    "category": "09",
+    "zh": [
+      "彎刀"
+    ],
+    "en": [
+      "machete"
+    ],
+    "source": "T",
+    "original": "lalaw"
+  },
+  {
+    "id": "0305",
+    "basay": "laLen",
+    "category": "13",
+    "zh": [
+      "晚上"
+    ],
+    "ja": [
+      "今晩",
+      "夕方"
+    ],
+    "en": [
+      "evening"
+    ],
+    "source": "B",
+    "original": "laLen"
+  },
+  {
+    "id": "0306",
+    "basay": "laLeo",
+    "category": "25",
+    "zh": [
+      "跑步"
+    ],
+    "ja": [
+      "走る"
+    ],
+    "en": [
+      "running"
+    ],
+    "source": "B",
+    "original": "laLeo"
+  },
+  {
+    "id": "0307",
+    "basay": "laLeo",
+    "category": "25",
+    "zh": [
+      "撤退"
+    ],
+    "ja": [
+      "退却"
+    ],
+    "en": [
+      "retreat"
+    ],
+    "source": "B",
+    "original": "laLeo"
+  },
+  {
+    "id": "0308",
+    "basay": "laleo",
+    "category": "25",
+    "zh": [
+      "跑步"
+    ],
+    "ja": [
+      "駆ける"
+    ],
+    "en": [
+      "run (to)"
+    ],
+    "source": "B",
+    "original": "laleo"
+  },
+  {
+    "id": "0309",
+    "basay": "lalibun'bun'",
+    "category": "11",
+    "zh": [
+      "噴泉"
+    ],
+    "ja": [
+      "噴水"
+    ],
+    "en": [
+      "fountain"
+    ],
+    "source": "B",
+    "original": "lalibuŋbuŋ"
+  },
+  {
+    "id": "0310",
+    "basay": "lalihitin",
+    "category": "19",
+    "zh": [
+      "性交"
+    ],
+    "ja": [
+      "性交】"
+    ],
+    "en": [
+      "coitus"
+    ],
+    "source": "B",
+    "original": "lalihitin"
+  },
+  {
+    "id": "0311",
+    "basay": "lalihowahowa",
+    "category": "23",
+    "zh": [
+      "發出聲音"
+    ],
+    "ja": [
+      "サワグ"
+    ],
+    "en": [
+      "noise (to make)"
+    ],
+    "source": "B",
+    "original": "lalihowahowa"
+  },
+  {
+    "id": "0312",
+    "basay": "lalisilisi",
+    "category": "32",
+    "zh": [
+      "慵懶的",
+      "厭倦"
+    ],
+    "ja": [
+      "ダルキ"
+    ],
+    "en": [
+      "languid. weary"
+    ],
+    "source": "B",
+    "original": "lalisilisi"
+  },
+  {
+    "id": "0313",
+    "basay": "lalitompet. taton'pet",
+    "category": "25",
+    "zh": [
+      "碰撞"
+    ],
+    "ja": [
+      "衝突する"
+    ],
+    "en": [
+      "collide (to)"
+    ],
+    "source": "B",
+    "original": "lalitompet. tatoŋpet"
+  },
+  {
+    "id": "0314",
+    "basay": "laliu na liuse",
+    "category": "11",
+    "zh": [
+      "彗星"
+    ],
+    "ja": [
+      "流星"
+    ],
+    "en": [
+      "comet"
+    ],
+    "source": "B",
+    "original": "laliu na liuse"
+  },
+  {
+    "id": "1319",
+    "basay": "laliw | lalaliw",
+    "category": "25",
+    "zh": [
+      "逃跑"
+    ],
+    "en": [
+      "escape, run away"
+    ],
+    "source": "T",
+    "original": "laliw, lalaliw"
+  },
+  {
+    "id": "0315",
+    "basay": "lalon'",
+    "category": "14",
+    "zh": [
+      "洞"
+    ],
+    "ja": [
+      "穴"
+    ],
+    "en": [
+      "hole"
+    ],
+    "source": "B",
+    "original": "laloŋ"
+  },
+  {
+    "id": "1320",
+    "basay": "lalqait",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "T",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "0316",
+    "basay": "lalusse",
+    "category": "05",
+    "zh": [
+      "乞丐"
+    ],
+    "ja": [
+      "乞食"
+    ],
+    "en": [
+      "beggar"
+    ],
+    "source": "B",
+    "original": "lalusse"
+  },
+  {
+    "id": "0317",
+    "basay": "lalusse | lalussa",
+    "category": "05",
+    "zh": [
+      "乞丐"
+    ],
+    "ja": [
+      "コジキ"
+    ],
+    "en": [
+      "beggar"
+    ],
+    "source": "B",
+    "original": "lalusse, lalussa"
+  },
+  {
+    "id": "0318",
+    "basay": "lame",
+    "category": "08",
+    "zh": [
+      "稻草"
+    ],
+    "ja": [
+      "藁"
+    ],
+    "en": [
+      "straw"
+    ],
+    "source": "B",
+    "original": "lame"
+  },
+  {
+    "id": "1326",
+    "basay": "lamet",
+    "category": "08",
+    "zh": [
+      "樹根"
+    ],
+    "en": [
+      "root"
+    ],
+    "source": "M",
+    "original": "lamet (M)"
+  },
+  {
+    "id": "0319",
+    "basay": "lamo'n | namal' | namat",
+    "category": "25",
+    "zh": [
+      "見面"
+    ],
+    "ja": [
+      "出会フ(?)"
+    ],
+    "en": [
+      "meet"
+    ],
+    "source": "B",
+    "original": "lamən (?),namal' (?),namat (??)"
+  },
+  {
+    "id": "1327",
+    "basay": "lamuan",
+    "category": "10",
+    "zh": [
+      "村民"
+    ],
+    "en": [
+      "villager"
+    ],
+    "source": "T",
+    "original": "lamuan"
+  },
+  {
+    "id": "1328",
+    "basay": "lamulamu",
+    "category": "10",
+    "zh": [
+      "眾社"
+    ],
+    "en": [
+      "villages"
+    ],
+    "source": "T",
+    "original": "lamulamu"
+  },
+  {
+    "id": "0320",
+    "basay": "lan' | jaku kuman lan'",
+    "category": "02",
+    "zh": [
+      "酒",
+      "我喝白酒"
+    ],
+    "ja": [
+      "酒"
+    ],
+    "en": [
+      "liquor. <I drink liquor. >"
+    ],
+    "source": "B",
+    "original": "laŋ < jaku kuman laŋ>"
+  },
+  {
+    "id": "0321",
+    "basay": "lan'-pete",
+    "category": "32",
+    "zh": [
+      "乾得像骨頭一樣"
+    ],
+    "ja": [
+      "ガリガリニ乾キタル",
+      "コゲタル"
+    ],
+    "en": [
+      "dry as bones"
+    ],
+    "source": "B",
+    "original": "laŋ-pete"
+  },
+  {
+    "id": "1330",
+    "basay": "lan'as | l'un'an'as",
+    "category": "09",
+    "zh": [
+      "金"
+    ],
+    "en": [
+      "gold"
+    ],
+    "source": "T",
+    "original": "laŋas, ɭuŋaŋas"
+  },
+  {
+    "id": "1134",
+    "basay": "lan'aza",
+    "category": "32",
+    "zh": [
+      "富裕的,有錢的"
+    ],
+    "en": [
+      "wealthy, rich"
+    ],
+    "source": "T",
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+  },
+  {
+    "id": "1331",
+    "basay": "lan'aza",
+    "category": "32",
+    "zh": [
+      "富裕的"
+    ],
+    "en": [
+      "rich, wealthy"
+    ],
+    "source": "T",
+    "original": "laŋaza"
+  },
+  {
+    "id": "0322",
+    "basay": "lan'pete",
+    "category": "27",
+    "zh": [
+      "烤"
+    ],
+    "ja": [
+      "培ル"
+    ],
+    "en": [
+      "roast"
+    ],
+    "source": "B",
+    "original": "laŋpete"
+  },
+  {
+    "id": "0323",
+    "basay": "lapai | salapai",
+    "category": "10",
+    "zh": [
+      "小屋",
+      "小屋"
+    ],
+    "ja": [
+      "山小屋"
+    ],
+    "en": [
+      "cottage. hut"
+    ],
+    "source": "B",
+    "original": "lapai, salapai"
+  },
+  {
+    "id": "0324",
+    "basay": "lapak",
+    "category": "15",
+    "zh": [
+      "枝條",
+      "弓",
+      "水果的種子"
+    ],
+    "ja": [
+      "枝",
+      "菓 (??) ノ種"
+    ],
+    "en": [
+      "twig. bow. seed of fruits (??)"
+    ],
+    "source": "B",
+    "original": "lapak"
+  },
+  {
+    "id": "0325",
+    "basay": "lapatapatai",
+    "category": "25",
+    "zh": [
+      "搏鬥",
+      "爭吵"
+    ],
+    "ja": [
+      "相撲ヲトル, ケンカ"
+    ],
+    "en": [
+      "wrestle. quarrel"
+    ],
+    "source": "B",
+    "original": "lapatapatai"
+  },
+  {
+    "id": "0329",
+    "basay": "lapatse",
+    "category": "25",
+    "zh": [
+      "擁抱"
+    ],
+    "ja": [
+      "抱ｸ"
+    ],
+    "en": [
+      "embrace"
+    ],
+    "source": "B",
+    "original": "lapatse"
+  },
+  {
+    "id": "0328",
+    "basay": "lapete",
+    "category": "25",
+    "zh": [
+      "中斷"
+    ],
+    "ja": [
+      "折ル"
+    ],
+    "en": [
+      "break off"
+    ],
+    "source": "B",
+    "original": "lapete"
+  },
+  {
+    "id": "0330",
+    "basay": "lapilapin'",
+    "category": "14",
+    "zh": [
+      "靠近"
+    ],
+    "ja": [
+      "近イ"
+    ],
+    "en": [
+      "near"
+    ],
+    "source": "B",
+    "original": "lapilapiŋ"
+  },
+  {
+    "id": "0331",
+    "basay": "lapin'",
+    "category": "14",
+    "zh": [
+      "靠近"
+    ],
+    "ja": [
+      "近キ"
+    ],
+    "en": [
+      "near"
+    ],
+    "source": "B",
+    "original": "lapiŋ"
+  },
+  {
+    "id": "0332",
+    "basay": "lapite",
+    "category": "06",
+    "zh": [
+      "身體"
+    ],
+    "ja": [
+      "身体"
+    ],
+    "en": [
+      "body"
+    ],
+    "source": "B",
+    "original": "lapite"
+  },
+  {
+    "id": "0333",
+    "basay": "lapite",
+    "category": "06",
+    "zh": [
+      "身體"
+    ],
+    "ja": [
+      "体"
+    ],
+    "en": [
+      "body"
+    ],
+    "source": "B",
+    "original": "lapite"
+  },
+  {
+    "id": "0327",
+    "basay": "lapo'n",
+    "category": "06",
+    "zh": [
+      "胞衣"
+    ],
+    "ja": [
+      "胞衣"
+    ],
+    "en": [
+      "afterbirth"
+    ],
+    "source": "B",
+    "original": "lapən"
+  },
+  {
+    "id": "1332",
+    "basay": "lappaw",
+    "category": "12",
+    "zh": [
+      "家"
+    ],
+    "en": [
+      "house"
+    ],
+    "source": "T",
+    "original": "lappaw"
+  },
+  {
+    "id": "0335",
+    "basay": "lapun'",
+    "category": "25",
+    "zh": [
+      "埋葬"
+    ],
+    "ja": [
+      "埋める"
+    ],
+    "en": [
+      "bury (to)"
+    ],
+    "source": "B",
+    "original": "lapuŋ"
+  },
+  {
+    "id": "1333",
+    "basay": "lapun'",
+    "category": "08",
+    "zh": [
+      "茄冬樹"
+    ],
+    "en": [
+      "toog tree"
+    ],
+    "source": "T",
+    "original": "lapuŋ"
+  },
+  {
+    "id": "0336",
+    "basay": "laputse",
+    "category": "25",
+    "zh": [
+      "擁抱",
+      "抓住"
+    ],
+    "ja": [
+      "抱ｸ"
+    ],
+    "en": [
+      "embrace. hold"
+    ],
+    "source": "B",
+    "original": "laputse"
+  },
+  {
+    "id": "0326",
+    "basay": "lapǝl'",
+    "category": "25",
+    "zh": [
+      "擁抱",
+      "持有"
+    ],
+    "ja": [
+      "抱ク"
+    ],
+    "en": [
+      "embrace (to).hold"
+    ],
+    "source": "B",
+    "original": "lapǝl'"
+  },
+  {
+    "id": "1334",
+    "basay": "laqaita",
+    "category": "05",
+    "zh": [
+      "人類"
+    ],
+    "en": [
+      "human being"
+    ],
+    "source": "M",
+    "original": "laqaita (M)"
+  },
+  {
+    "id": "1335",
+    "basay": "laqan",
+    "category": "34",
+    "zh": [
+      "得到"
+    ],
+    "en": [
+      "get"
+    ],
+    "source": "S",
+    "original": "laqan (S)"
+  },
+  {
+    "id": "1321",
+    "basay": "laqi",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "T",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "1322",
+    "basay": "laqit",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "T",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "1323",
+    "basay": "laqqo'",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "T",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "1324",
+    "basay": "laqqo'laqi",
+    "category": "05",
+    "zh": [
+      "人們，眾人"
+    ],
+    "en": [
+      "people"
+    ],
+    "source": "S",
+    "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi"
+  },
+  {
+    "id": "1336",
+    "basay": "laqse",
+    "category": "34",
+    "zh": [
+      "別處"
+    ],
+    "en": [
+      "other place"
+    ],
+    "source": "S",
+    "original": "laqse (S)"
+  },
+  {
+    "id": "1337",
+    "basay": "laqup",
+    "category": "09",
+    "zh": [
+      "缽"
+    ],
+    "en": [
+      "earthen bowl"
+    ],
+    "source": "S",
+    "original": "laqup (S)"
+  },
+  {
+    "id": "0337",
+    "basay": "larin'",
+    "category": "10",
+    "zh": [
+      "巷",
+      "地球"
+    ],
+    "ja": [
+      "土地"
+    ],
+    "en": [
+      "soi. earth"
+    ],
+    "source": "B",
+    "original": "lariŋ"
+  },
+  {
+    "id": "0338",
+    "basay": "laripuron'",
+    "category": "12",
+    "zh": [
+      "神社",
+      "陵"
+    ],
+    "ja": [
+      "廟"
+    ],
+    "en": [
+      "shrine. mausoleum"
+    ],
+    "source": "B",
+    "original": "laripuroŋ"
+  },
+  {
+    "id": "0339",
+    "basay": "larisirisi",
+    "category": "32",
+    "zh": [
+      "疲倦"
+    ],
+    "ja": [
+      "疲レル"
+    ],
+    "en": [
+      "tired (to get)"
+    ],
+    "source": "B",
+    "original": "larisirisi"
+  },
+  {
+    "id": "0340",
+    "basay": "laru",
+    "category": "07",
+    "zh": [
+      "豬飼料"
+    ],
+    "ja": [
+      "豚ノ餌"
+    ],
+    "en": [
+      "feed of pigs"
+    ],
+    "source": "B",
+    "original": "laru"
+  },
+  {
+    "id": "0341",
+    "basay": "lasai",
+    "category": "07",
+    "zh": [
+      "豬的蔬菜"
+    ],
+    "ja": [
+      "豚ノ野菜"
+    ],
+    "en": [
+      "vegetables of pigs"
+    ],
+    "source": "B",
+    "original": "lasai"
+  },
+  {
+    "id": "1338",
+    "basay": "laseq. mlaseq",
+    "category": "09",
+    "zh": [
+      "掃帚"
+    ],
+    "en": [
+      "broom"
+    ],
+    "source": "M",
+    "original": "laseq. mlaseq (M)"
+  },
+  {
+    "id": "0342",
+    "basay": "lasu",
+    "category": "29",
+    "zh": [
+      "總是渴望"
+    ],
+    "ja": [
+      "常二欲スル",
+      "常二ーシガチノ",
+      "常二"
+    ],
+    "en": [
+      "eager (always)"
+    ],
+    "source": "B",
+    "original": "lasu"
+  },
+  {
+    "id": "0343",
+    "basay": "lata",
+    "category": "05",
+    "zh": [
+      "矮人"
+    ],
+    "ja": [
+      "小人"
+    ],
+    "en": [
+      "dwarf"
+    ],
+    "source": "B",
+    "original": "lata"
+  },
+  {
+    "id": "0344",
+    "basay": "latana",
+    "category": "32",
+    "zh": [
+      "短的"
+    ],
+    "ja": [
+      "短カイ"
+    ],
+    "en": [
+      "short"
+    ],
+    "source": "B",
+    "original": "latana"
+  },
+  {
+    "id": "1339",
+    "basay": "lato'n'",
+    "category": "32",
+    "zh": [
+      "極小的破螭珠"
+    ],
+    "en": [
+      "beads, glass ball"
+    ],
+    "source": "M",
+    "original": "latəŋ (M)"
+  },
+  {
+    "id": "0345",
+    "basay": "lau",
+    "category": "32",
+    "zh": [
+      "胖的"
+    ],
+    "ja": [
+      "肥エタル"
+    ],
+    "en": [
+      "fat"
+    ],
+    "source": "B",
+    "original": "lau"
+  },
+  {
+    "id": "0346",
+    "basay": "lau",
+    "category": "32",
+    "zh": [
+      "鬆動的",
+      "大的"
+    ],
+    "ja": [
+      "ユルキ < 大"
+    ],
+    "en": [
+      "loose. big"
+    ],
+    "source": "B",
+    "original": "lau"
+  },
+  {
+    "id": "0347",
+    "basay": "lau a sikam",
+    "category": "08",
+    "zh": [
+      "竹籃"
+    ],
+    "ja": [
+      "笊"
+    ],
+    "en": [
+      "bamboo basket"
+    ],
+    "source": "B",
+    "original": "lau a sikam"
+  },
+  {
+    "id": "0349",
+    "basay": "lau | wanakke lau",
+    "category": "04",
+    "zh": [
+      "大兒子"
+    ],
+    "ja": [
+      "長子"
+    ],
+    "en": [
+      "oldest son"
+    ],
+    "source": "B",
+    "original": "lau, wanakke lau"
+  },
+  {
+    "id": "0348",
+    "basay": "lau. | lau a tau",
+    "category": "05",
+    "zh": [
+      "大的"
+    ],
+    "ja": [
+      "大. <頭人 >"
+    ],
+    "en": [
+      "big"
+    ],
+    "source": "B",
+    "original": "lau. <lau a tau>"
+  },
+  {
+    "id": "1340",
+    "basay": "lavavan'",
+    "category": "32",
+    "zh": [
+      "高處"
+    ],
+    "en": [
+      "upland"
+    ],
+    "source": "T",
+    "original": "lavavaŋ"
+  },
+  {
+    "id": "1341",
+    "basay": "lave",
+    "category": "13",
+    "zh": [
+      "傍晚"
+    ],
+    "en": [
+      "evening, get evening"
+    ],
+    "source": "T",
+    "original": "lave, lave na (M)"
+  },
+  {
+    "id": "1342",
+    "basay": "lave na",
+    "category": "13",
+    "zh": [
+      "傍晚"
+    ],
+    "en": [
+      "evening, get evening"
+    ],
+    "source": "M",
+    "original": "lave, lave na (M)"
+  },
+  {
+    "id": "1343",
+    "basay": "lavelave",
+    "category": "01",
+    "zh": [
+      "整夜"
+    ],
+    "en": [
+      "all night"
+    ],
+    "source": "M",
+    "original": "lavelave (M)"
+  },
+  {
+    "id": "0350",
+    "basay": "lawa",
+    "category": "07",
+    "zh": [
+      "蝨子，鳥蝨"
+    ],
+    "ja": [
+      "鶏ノ羽虫"
+    ],
+    "en": [
+      "louse, bird louse"
+    ],
+    "source": "B",
+    "original": "lawa"
+  },
+  {
+    "id": "1345",
+    "basay": "lawa",
+    "category": "18",
+    "zh": [
+      "布"
+    ],
+    "en": [
+      "cloth"
+    ],
+    "source": "M",
+    "original": "lawa (M), tuminun"
+  },
+  {
+    "id": "0351",
+    "basay": "lawakke",
+    "category": "25",
+    "zh": [
+      "絆倒"
+    ],
+    "ja": [
+      "つまづく"
+    ],
+    "en": [
+      "stumping"
+    ],
+    "source": "B",
+    "original": "lawakke"
+  },
+  {
+    "id": "0352",
+    "basay": "lebos",
+    "category": "09",
+    "zh": [
+      "垃圾"
+    ],
+    "ja": [
+      "ゴミ"
+    ],
+    "en": [
+      "trash"
+    ],
+    "source": "B",
+    "original": "lebos"
+  },
+  {
+    "id": "0353",
+    "basay": "lebosse",
+    "category": "08",
+    "zh": [
+      "根"
+    ],
+    "ja": [
+      "根"
+    ],
+    "en": [
+      "root"
+    ],
+    "source": "B",
+    "original": "lebosse"
+  },
+  {
+    "id": "0354",
+    "basay": "lebosse",
+    "category": "08",
+    "zh": [
+      "草"
+    ],
+    "ja": [
+      "草"
+    ],
+    "en": [
+      "grass"
+    ],
+    "source": "B",
+    "original": "lebosse"
+  },
+  {
+    "id": "0355",
+    "basay": "lebosse",
+    "category": "08",
+    "zh": [
+      "草"
+    ],
+    "ja": [
+      "草"
+    ],
+    "en": [
+      "grass"
+    ],
+    "source": "B",
+    "original": "lebosse"
+  },
+  {
+    "id": "1347",
+    "basay": "lebus",
+    "category": "08",
+    "zh": [
+      "草"
+    ],
+    "en": [
+      "grass"
+    ],
+    "source": "T",
+    "original": "lebus"
+  },
+  {
+    "id": "0356",
+    "basay": "lekolkotte",
+    "category": "32",
+    "zh": [
+      "捲曲",
+      "蜿蜒（河流",
+      "道路）"
+    ],
+    "ja": [
+      "縮レテイル",
+      "蛇行スル"
+    ],
+    "en": [
+      "curly, winding (river / road)"
+    ],
+    "source": "B",
+    "original": "lekolkotte"
+  },
+  {
+    "id": "1348",
+    "basay": "lele",
+    "category": "09",
+    "zh": [
+      "銼刀"
+    ],
+    "en": [
+      "file"
+    ],
+    "source": "M",
+    "original": "lele(M)"
+  },
+  {
+    "id": "1349",
+    "basay": "lelesaw",
+    "category": "08",
+    "zh": [
+      "樹林"
+    ],
+    "en": [
+      "forest"
+    ],
+    "source": "T",
+    "original": "lelesaw"
+  },
+  {
+    "id": "0357",
+    "basay": "lelotse",
+    "category": "25",
+    "zh": [
+      "洗澡"
+    ],
+    "ja": [
+      "浴ス"
+    ],
+    "en": [
+      "bathe"
+    ],
+    "source": "B",
+    "original": "lelotse"
+  },
+  {
+    "id": "0358",
+    "basay": "Len san'ajau",
+    "category": "11",
+    "zh": [
+      "彩虹"
+    ],
+    "ja": [
+      "虹"
+    ],
+    "en": [
+      "rainbow"
+    ],
+    "source": "B",
+    "original": "Len saŋajau"
+  },
+  {
+    "id": "0359",
+    "basay": "Lennaita",
+    "category": "13",
+    "zh": [
+      "早晨",
+      "早上起來"
+    ],
+    "ja": [
+      "朝ニナル"
+    ],
+    "en": [
+      "morning. get morning"
+    ],
+    "source": "B",
+    "original": "Lennaita"
+  },
+  {
+    "id": "1350",
+    "basay": "lesamu tuma",
+    "category": "08",
+    "zh": [
+      "森林"
+    ],
+    "en": [
+      "forest"
+    ],
+    "source": "M",
+    "original": "lesamu tuma (M)"
+  },
+  {
+    "id": "0360",
+    "basay": "lesau",
+    "category": "08",
+    "zh": [
+      "樹",
+      "木頭"
+    ],
+    "ja": [
+      "木, 薪"
+    ],
+    "en": [
+      "tree, wood"
+    ],
+    "source": "B",
+    "original": "lesau"
+  },
+  {
+    "id": "0361",
+    "basay": "lesau wawai",
+    "category": "08",
+    "zh": [
+      "常春藤"
+    ],
+    "ja": [
+      "ツタ"
+    ],
+    "en": [
+      "ivy"
+    ],
+    "source": "B",
+    "original": "lesau wawai"
+  },
+  {
+    "id": "0362",
+    "basay": "lesosse",
+    "category": "08",
+    "zh": [
+      "草"
+    ],
+    "ja": [
+      "草"
+    ],
+    "en": [
+      "grass"
+    ],
+    "source": "B",
+    "original": "lesosse"
+  },
+  {
+    "id": "0363",
+    "basay": "li ainu",
+    "category": "03",
+    "zh": [
+      "去哪裡"
+    ],
+    "ja": [
+      "何処二"
+    ],
+    "en": [
+      "where to"
+    ],
+    "source": "B",
+    "original": "li ainu"
+  },
+  {
+    "id": "0364",
+    "basay": "li lakar",
+    "category": "09",
+    "zh": [
+      "在床上"
+    ],
+    "ja": [
+      "ベッドで"
+    ],
+    "en": [
+      "on bed"
+    ],
+    "source": "B",
+    "original": "li lakar"
+  },
+  {
+    "id": "0365",
+    "basay": "li tsaila",
+    "category": "02",
+    "zh": [
+      "這裡"
+    ],
+    "ja": [
+      "此処"
+    ],
+    "en": [
+      "here"
+    ],
+    "source": "B",
+    "original": "li tsaila"
+  },
+  {
+    "id": "0366",
+    "basay": "li wale-wale",
+    "category": "10",
+    "zh": [
+      "即將來臨",
+      "國外"
+    ],
+    "ja": [
+      "沖ニ, 海外ニ"
+    ],
+    "en": [
+      "to offing. abroad"
+    ],
+    "source": "B",
+    "original": "li wale-wale"
+  },
+  {
+    "id": "0367",
+    "basay": "liatsa",
+    "category": "25",
+    "zh": [
+      "買"
+    ],
+    "ja": [
+      "買フ"
+    ],
+    "en": [
+      "buy"
+    ],
+    "source": "B",
+    "original": "liatsa"
+  },
+  {
+    "id": "0368",
+    "basay": "liatsan",
+    "category": "15",
+    "zh": [
+      "魚網"
+    ],
+    "ja": [
+      "漁網",
+      "漁ドル"
+    ],
+    "en": [
+      "fishing net"
+    ],
+    "source": "B",
+    "original": "liatsan"
+  },
+  {
+    "id": "0369",
+    "basay": "lien",
+    "category": "11",
+    "zh": [
+      "太陽"
+    ],
+    "ja": [
+      "太陽"
+    ],
+    "en": [
+      "sun"
+    ],
+    "source": "B",
+    "original": "lien"
+  },
+  {
+    "id": "0370",
+    "basay": "lihul' lales",
+    "category": "28",
+    "zh": [
+      "逃跑",
+      "逃脫"
+    ],
+    "ja": [
+      "スキヲ見テニゲル"
+    ],
+    "en": [
+      "run away. escape"
+    ],
+    "source": "B",
+    "original": "lihul' lales"
+  },
+  {
+    "id": "1353",
+    "basay": "likan. mlikan. milikkan",
+    "category": "08",
+    "zh": [
+      "煮飯"
+    ],
+    "en": [
+      "cook rice"
+    ],
+    "source": "T",
+    "original": "likan. mlikan. milikkan"
+  },
+  {
+    "id": "0371",
+    "basay": "likatan",
+    "category": "12",
+    "zh": [
+      "臨界點"
+    ],
+    "ja": [
+      "敷居"
+    ],
+    "en": [
+      "threshold"
+    ],
+    "source": "B",
+    "original": "likatan"
+  },
+  {
+    "id": "0372",
+    "basay": "lilam",
+    "category": "06",
+    "zh": [
+      "舌頭"
+    ],
+    "ja": [
+      "舌"
+    ],
+    "en": [
+      "tongue"
+    ],
+    "source": "B",
+    "original": "lilam"
+  },
+  {
+    "id": "1354",
+    "basay": "lilam",
+    "category": "06",
+    "zh": [
+      "舌頭"
+    ],
+    "en": [
+      "tongue"
+    ],
+    "source": "M",
+    "original": "lilam (M)"
+  },
+  {
+    "id": "0373",
+    "basay": "lilanaulakau",
+    "category": "32",
+    "zh": [
+      "睏"
+    ],
+    "ja": [
+      "ネムイ"
+    ],
+    "en": [
+      "sleepy"
+    ],
+    "source": "B",
+    "original": "lilanaulakau"
+  },
+  {
+    "id": "0374",
+    "basay": "lilo'm",
+    "category": "28",
+    "zh": [
+      "酸的"
+    ],
+    "ja": [
+      "酸っぱい"
+    ],
+    "en": [
+      "sour"
+    ],
+    "source": "B",
+    "original": "liləm"
+  },
+  {
+    "id": "1355",
+    "basay": "lilo'm",
+    "category": "28",
+    "zh": [
+      "苦的，辣的"
+    ],
+    "en": [
+      "bitter, hot"
+    ],
+    "source": "M",
+    "original": "liləm (M)"
+  },
+  {
+    "id": "0375",
+    "basay": "lilum",
+    "category": "28",
+    "zh": [
+      "苦的",
+      "熱的",
+      "酸的",
+      "薑"
+    ],
+    "ja": [
+      "カライ",
+      "ニガイ",
+      "スッパイ. 生姜"
+    ],
+    "en": [
+      "bitter. hot. sour. ginger"
+    ],
+    "source": "B",
+    "original": "lilum"
+  },
+  {
+    "id": "0376",
+    "basay": "limtsu",
+    "category": "32",
+    "zh": [
+      "圓圓的銀幣"
+    ],
+    "ja": [
+      "円形ノ",
+      "円銀"
+    ],
+    "en": [
+      "round, round silver coin"
+    ],
+    "source": "B",
+    "original": "limtsu"
+  },
+  {
+    "id": "0377",
+    "basay": "limun'asse",
+    "category": "35",
+    "zh": [
+      "不修邊幅的,邋遢的"
+    ],
+    "ja": [
+      "ダラシガナイ"
+    ],
+    "en": [
+      "sloven, sluttish"
+    ],
+    "source": "B",
+    "original": "limuŋasse"
+  },
+  {
+    "id": "0378",
+    "basay": "linamunan",
+    "category": "04",
+    "zh": [
+      "親屬"
+    ],
+    "ja": [
+      "親戚"
+    ],
+    "en": [
+      "relatives"
+    ],
+    "source": "B",
+    "original": "linamunan"
+  },
+  {
+    "id": "0379",
+    "basay": "linanaulakau",
+    "category": "32",
+    "zh": [
+      "睏"
+    ],
+    "ja": [
+      "ネムイ"
+    ],
+    "en": [
+      "sleepy"
+    ],
+    "source": "B",
+    "original": "linanaulakau"
+  },
+  {
+    "id": "0380",
+    "basay": "lipuluke | ripurukke",
+    "category": "06",
+    "zh": [
+      "龍眼"
+    ],
+    "ja": [
+      "龍眼"
+    ],
+    "en": [
+      "longan"
+    ],
+    "source": "B",
+    "original": "lipuluke (?), ripurukke"
+  },
+  {
+    "id": "0381",
+    "basay": "lipulun'",
+    "category": "08",
+    "zh": [
+      "屋脊"
+    ],
+    "ja": [
+      "棟木"
+    ],
+    "en": [
+      "ridgepole"
+    ],
+    "source": "B",
+    "original": "lipuluŋ"
+  },
+  {
+    "id": "0382",
+    "basay": "lipupu",
+    "category": "25",
+    "zh": [
+      "收集"
+    ],
+    "ja": [
+      "集合ス"
+    ],
+    "en": [
+      "gather"
+    ],
+    "source": "B",
+    "original": "lipupu"
+  },
+  {
+    "id": "0383",
+    "basay": "lipute",
+    "category": "08",
+    "zh": [
+      "柚"
+    ],
+    "ja": [
+      "ザボン"
+    ],
+    "en": [
+      "pomelo"
+    ],
+    "source": "B",
+    "original": "lipute"
+  },
+  {
+    "id": "0384",
+    "basay": "lisus",
+    "category": "06",
+    "zh": [
+      "尾巴"
+    ],
+    "ja": [
+      "尾,赤坊ノ頭ノ動ク個所"
+    ],
+    "en": [
+      "tail"
+    ],
+    "source": "B",
+    "original": "lisus"
+  },
+  {
+    "id": "0385",
+    "basay": "lisusse",
+    "category": "04",
+    "zh": [
+      "頭頂柔軟的地方"
+    ],
+    "ja": [
+      "子供ノ頭ノ頂ノウゴク処"
+    ],
+    "en": [
+      "soft place on the crown of the head"
+    ],
+    "source": "B",
+    "original": "lisusse"
+  },
+  {
+    "id": "0386",
+    "basay": "litelitte",
+    "category": "18",
+    "zh": [
+      "卷",
+      "紗"
+    ],
+    "ja": [
+      "巻く",
+      "毛糸"
+    ],
+    "en": [
+      "roll (to). yarn"
+    ],
+    "source": "B",
+    "original": "litelitte"
+  },
+  {
+    "id": "0387",
+    "basay": "litelitte",
+    "category": "18",
+    "zh": [
+      "紗"
+    ],
+    "ja": [
+      "毛系"
+    ],
+    "en": [
+      "yarn"
+    ],
+    "source": "B",
+    "original": "litelitte"
+  },
+  {
+    "id": "0388",
+    "basay": "litisin",
+    "category": "10",
+    "zh": [
+      "過河",
+      "老村"
+    ],
+    "ja": [
+      "向岸, 旧社"
+    ],
+    "en": [
+      "across the river. old village"
+    ],
+    "source": "B",
+    "original": "litisin"
+  },
+  {
+    "id": "0389",
+    "basay": "litsan'",
+    "category": "27",
+    "zh": [
+      "乾燥"
+    ],
+    "ja": [
+      "渇ク"
+    ],
+    "en": [
+      "dry"
+    ],
+    "source": "B",
+    "original": "litsaŋ"
+  },
+  {
+    "id": "0390",
+    "basay": "litsan'",
+    "category": "27",
+    "zh": [
+      "渴"
+    ],
+    "ja": [
+      "渇セル"
+    ],
+    "en": [
+      "thirsty"
+    ],
+    "source": "B",
+    "original": "litsaŋ"
+  },
+  {
+    "id": "0391",
+    "basay": "litsoa | atsoa",
+    "category": "02",
+    "zh": [
+      "那裡"
+    ],
+    "ja": [
+      "其処"
+    ],
+    "en": [
+      "there"
+    ],
+    "source": "B",
+    "original": "litsoa, atsoa"
+  },
+  {
+    "id": "0392",
+    "basay": "liun",
+    "category": "09",
+    "zh": [
+      "劍"
+    ],
+    "ja": [
+      "刀"
+    ],
+    "en": [
+      "sword"
+    ],
+    "source": "B",
+    "original": "liun"
+  },
+  {
+    "id": "0393",
+    "basay": "liuse",
+    "category": "11",
+    "zh": [
+      "星星"
+    ],
+    "ja": [
+      "星"
+    ],
+    "en": [
+      "star"
+    ],
+    "source": "B",
+    "original": "liuse"
+  },
+  {
+    "id": "0394",
+    "basay": "liuse",
+    "category": "11",
+    "zh": [
+      "星星"
+    ],
+    "ja": [
+      "星］"
+    ],
+    "en": [
+      "stars"
+    ],
+    "source": "B",
+    "original": "liuse (?)"
+  },
+  {
+    "id": "1356",
+    "basay": "liwtsuan",
+    "category": "06",
+    "zh": [
+      "砍頭"
+    ],
+    "en": [
+      "behead"
+    ],
+    "source": "T",
+    "original": "liwtsuan"
+  },
+  {
+    "id": "1352",
+    "basay": "lo'vo'n'an",
+    "category": "34",
+    "zh": [
+      "埋伏"
+    ],
+    "en": [
+      "ambush"
+    ],
+    "source": "T",
+    "original": "ləvəŋan"
+  },
+  {
+    "id": "0395",
+    "basay": "lohot",
+    "category": "01",
+    "zh": [
+      "措施",
+      "規模"
+    ],
+    "ja": [
+      "尺度"
+    ],
+    "en": [
+      "measure. scale"
+    ],
+    "source": "B",
+    "original": "lohot"
+  },
+  {
+    "id": "0396",
+    "basay": "lolon'",
+    "category": "14",
+    "zh": [
+      "洞"
+    ],
+    "ja": [
+      "穴 (長キ)"
+    ],
+    "en": [
+      "hole"
+    ],
+    "source": "B",
+    "original": "loloŋ"
+  },
+  {
+    "id": "0397",
+    "basay": "lon'an'a",
+    "category": "06",
+    "zh": [
+      "張開嘴"
+    ],
+    "ja": [
+      "ロヲ開ケル"
+    ],
+    "en": [
+      "open the mouth (to)"
+    ],
+    "source": "B",
+    "original": "loŋaŋa"
+  },
+  {
+    "id": "0398",
+    "basay": "lotalotatse",
+    "category": "32",
+    "zh": [
+      "禿"
+    ],
+    "ja": [
+      "禿"
+    ],
+    "en": [
+      "bald"
+    ],
+    "source": "B",
+    "original": "lotalotatse"
+  },
+  {
+    "id": "0399",
+    "basay": "lotinaune",
+    "category": "32",
+    "zh": [
+      "兇猛的",
+      "兇猛"
+    ],
+    "ja": [
+      "猛々シイ"
+    ],
+    "en": [
+      "fierce. ferocious"
+    ],
+    "source": "B",
+    "original": "lotinaune"
+  },
+  {
+    "id": "0400",
+    "basay": "loton'",
+    "category": "07",
+    "zh": [
+      "猴"
+    ],
+    "ja": [
+      "猿"
+    ],
+    "en": [
+      "monkey"
+    ],
+    "source": "B",
+    "original": "lotoŋ"
+  },
+  {
+    "id": "1067",
+    "basay": "lsji",
+    "category": "21",
+    "zh": [
+      "肉"
+    ],
+    "ja": [
+      "肉"
+    ],
+    "en": [
+      "meat"
+    ],
+    "source": "B",
+    "original": "lsji"
+  },
+  {
+    "id": "0401",
+    "basay": "lu-utsu",
+    "category": "05",
+    "zh": [
+      "頭目"
+    ],
+    "ja": [
+      "頭人"
+    ],
+    "en": [
+      "chieftain"
+    ],
+    "source": "B",
+    "original": "lu-utsu"
+  },
+  {
+    "id": "0402",
+    "basay": "luai",
+    "category": "25",
+    "zh": [
+      "具有",
+      "存在"
+    ],
+    "ja": [
+      "有",
+      "所有"
+    ],
+    "en": [
+      "possess. exist"
+    ],
+    "source": "B",
+    "original": "luai"
+  },
+  {
+    "id": "0403",
+    "basay": "lubeloa | beloa",
+    "category": "17",
+    "zh": [
+      "鬼魂",
+      "阿尼托"
+    ],
+    "ja": [
+      "オ化ケ】 <anito>"
+    ],
+    "en": [
+      "ghost, anito"
+    ],
+    "source": "B",
+    "original": "lubeloa, beloa"
+  },
+  {
+    "id": "0404",
+    "basay": "luhul'",
+    "category": "05",
+    "zh": [
+      "朋友"
+    ],
+    "ja": [
+      "友人",
+      "同年ノ人"
+    ],
+    "en": [
+      "friend"
+    ],
+    "source": "B",
+    "original": "luhul'"
+  },
+  {
+    "id": "0405",
+    "basay": "lukasse | malukasse",
+    "category": "32",
+    "zh": [
+      "閒置的",
+      "懶惰的",
+      "疲勞的"
+    ],
+    "ja": [
+      "ナマケル",
+      "疲レタル"
+    ],
+    "en": [
+      "idle. lazy. tired"
+    ],
+    "source": "B",
+    "original": "lukasse, malukasse"
+  },
+  {
+    "id": "0406",
+    "basay": "luklukke",
+    "category": "09",
+    "zh": [
+      "用矛刺"
+    ],
+    "ja": [
+      "突ク (鎗ニテ)"
+    ],
+    "en": [
+      "thrust with spear (to)"
+    ],
+    "source": "B",
+    "original": "luklukke"
+  },
+  {
+    "id": "1357",
+    "basay": "lulu mata",
+    "category": "06",
+    "zh": [
+      "學生"
+    ],
+    "en": [
+      "pupil"
+    ],
+    "source": "M",
+    "original": "lulu mata (M)"
+  },
+  {
+    "id": "0407",
+    "basay": "lumana",
+    "category": "07",
+    "zh": [
+      "寄居蟹"
+    ],
+    "ja": [
+      "ヤドカリ"
+    ],
+    "en": [
+      "hermit crab"
+    ],
+    "source": "B",
+    "original": "lumana"
+  },
+  {
+    "id": "0408",
+    "basay": "lupaise",
+    "category": "08",
+    "zh": [
+      "貝類的一種"
+    ],
+    "ja": [
+      "(台) chentsoa貝の一種"
+    ],
+    "en": [
+      "seashell (a kind of)"
+    ],
+    "source": "B",
+    "original": "lupaise"
+  },
+  {
+    "id": "0409",
+    "basay": "luplup",
+    "category": "08",
+    "zh": [
+      "吸煙煙草"
+    ],
+    "ja": [
+      "タバコ吸フ"
+    ],
+    "en": [
+      "smoke tobacco (to)"
+    ],
+    "source": "B",
+    "original": "luplup"
+  },
+  {
+    "id": "0410",
+    "basay": "luppu",
+    "category": "18",
+    "zh": [
+      "鞋"
+    ],
+    "ja": [
+      "靴"
+    ],
+    "en": [
+      "shoes"
+    ],
+    "source": "B",
+    "original": "luppu"
+  },
+  {
+    "id": "0411",
+    "basay": "lupu",
+    "category": "18",
+    "zh": [
+      "鞋"
+    ],
+    "ja": [
+      "クツ"
+    ],
+    "en": [
+      "shoes"
+    ],
+    "source": "B",
+    "original": "lupu"
+  },
+  {
+    "id": "0412",
+    "basay": "lupu",
+    "category": "09",
+    "zh": [
+      "包",
+      "解僱"
+    ],
+    "ja": [
+      "袋"
+    ],
+    "en": [
+      "bag. sack"
+    ],
+    "source": "B",
+    "original": "lupu"
+  },
+  {
+    "id": "0413",
+    "basay": "lupu",
+    "category": "18",
+    "zh": [
+      "鞋"
+    ],
+    "ja": [
+      "靴"
+    ],
+    "en": [
+      "shoes"
+    ],
+    "source": "B",
+    "original": "lupu"
+  },
+  {
+    "id": "0414",
+    "basay": "lusa",
+    "category": "01",
+    "zh": [
+      "二"
+    ],
+    "ja": [
+      "2"
+    ],
+    "en": [
+      "two"
+    ],
+    "source": "B",
+    "original": "lusa"
+  },
+  {
+    "id": "1358",
+    "basay": "lusa",
+    "category": "01",
+    "zh": [
+      "二（個，隻）"
+    ],
+    "en": [
+      "two (nonhuman)"
+    ],
+    "source": "S",
+    "original": "lusa (S), zusa"
+  },
+  {
+    "id": "0415",
+    "basay": "lusa butsan",
+    "category": "11",
+    "zh": [
+      "下個月"
+    ],
+    "ja": [
+      "来月"
+    ],
+    "en": [
+      "next month"
+    ],
+    "source": "B",
+    "original": "lusa butsan"
+  },
+  {
+    "id": "0416",
+    "basay": "lusa lien",
+    "category": "01",
+    "zh": [
+      "兩天"
+    ],
+    "ja": [
+      "二日】"
+    ],
+    "en": [
+      "two days"
+    ],
+    "source": "B",
+    "original": "lusa lien"
+  },
+  {
+    "id": "0417",
+    "basay": "lusa lijen/Len",
+    "category": "11",
+    "zh": [
+      "後天"
+    ],
+    "ja": [
+      "明後日"
+    ],
+    "en": [
+      "day after tomorrow"
+    ],
+    "source": "B",
+    "original": "lusa lijen/Len"
+  },
+  {
+    "id": "0418",
+    "basay": "lusa tatasawai",
+    "category": "13",
+    "zh": [
+      "後年"
+    ],
+    "ja": [
+      "明後年"
+    ],
+    "en": [
+      "year after next"
+    ],
+    "source": "B",
+    "original": "lusa tatasawai"
+  },
+  {
+    "id": "0419",
+    "basay": "lusa tselap",
+    "category": "11",
+    "zh": [
+      "前天"
+    ],
+    "ja": [
+      "一昨日"
+    ],
+    "en": [
+      "day before yesterday"
+    ],
+    "source": "B",
+    "original": "lusa tselap"
+  },
+  {
+    "id": "0420",
+    "basay": "lutsusse",
+    "category": "25",
+    "zh": [
+      "解開"
+    ],
+    "ja": [
+      "解ｸ"
+    ],
+    "en": [
+      "untie"
+    ],
+    "source": "B",
+    "original": "lutsusse"
+  },
+  {
+    "id": "0421",
+    "basay": "luvai",
+    "category": "25",
+    "zh": [
+      "存在"
+    ],
+    "ja": [
+      "存ス"
+    ],
+    "en": [
+      "exist"
+    ],
+    "source": "B",
+    "original": "luvai"
+  },
+  {
+    "id": "1360",
+    "basay": "luvus u pila",
+    "category": "09",
+    "zh": [
+      "錢包"
+    ],
+    "en": [
+      "purse"
+    ],
+    "source": "M",
+    "original": "luvus u pila (M)"
+  },
+  {
+    "id": "0422",
+    "basay": "Lɛn | Lan",
+    "category": "11",
+    "zh": [
+      "天堂",
+      "白天",
+      "中午"
+    ],
+    "ja": [
+      "天,昼,日"
+    ],
+    "en": [
+      "heaven. day-time. noon"
+    ],
+    "source": "B",
+    "original": "Lɛn, Lan"
+  }
+]

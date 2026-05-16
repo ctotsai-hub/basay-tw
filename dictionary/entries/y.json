@@ -1,0 +1,158 @@
+[
+  {
+    "id": "2328",
+    "basay": "ya",
+    "category": "36",
+    "zh": [
+      "繫詞"
+    ],
+    "en": [
+      "ligature"
+    ],
+    "source": "T",
+    "original": "ya"
+  },
+  {
+    "id": "2329",
+    "basay": "yakilu",
+    "category": "32",
+    "zh": [
+      "小"
+    ],
+    "en": [
+      "small"
+    ],
+    "source": "T",
+    "original": "yakilu"
+  },
+  {
+    "id": "2330",
+    "basay": "yaku",
+    "category": "02",
+    "zh": [
+      "我 (主格)"
+    ],
+    "en": [
+      "I (Nom)"
+    ],
+    "source": "T",
+    "original": "yaku"
+  },
+  {
+    "id": "2331",
+    "basay": "yal'avu",
+    "category": "34",
+    "zh": [
+      "進去"
+    ],
+    "en": [
+      "get in"
+    ],
+    "source": "T",
+    "original": "yaɭavu"
+  },
+  {
+    "id": "2332",
+    "basay": "yao",
+    "category": "34",
+    "zh": [
+      "喂"
+    ],
+    "en": [
+      "hello"
+    ],
+    "source": "T",
+    "original": "yao"
+  },
+  {
+    "id": "2333",
+    "basay": "yapana",
+    "category": "12",
+    "zh": [
+      "進家門"
+    ],
+    "en": [
+      "enter a house"
+    ],
+    "source": "T",
+    "original": "yapana"
+  },
+  {
+    "id": "2334",
+    "basay": "yataw",
+    "category": "03",
+    "zh": [
+      "確實，到底"
+    ],
+    "en": [
+      "indeed, what on earth"
+    ],
+    "source": "T",
+    "original": "yataw"
+  },
+  {
+    "id": "2335",
+    "basay": "yato'man",
+    "category": "14",
+    "zh": [
+      "下來"
+    ],
+    "en": [
+      "come down"
+    ],
+    "source": "T",
+    "original": "yatəman"
+  },
+  {
+    "id": "2336",
+    "basay": "yato'mnan",
+    "category": "34",
+    "zh": [
+      "放置"
+    ],
+    "en": [
+      "put"
+    ],
+    "source": "T",
+    "original": "yatəmnan"
+  },
+  {
+    "id": "2337",
+    "basay": "yau",
+    "category": "34",
+    "zh": [
+      "在"
+    ],
+    "en": [
+      "stay"
+    ],
+    "source": "S",
+    "original": "yau (S)"
+  },
+  {
+    "id": "1365",
+    "basay": "yawale",
+    "category": "20",
+    "zh": [
+      "出船"
+    ],
+    "en": [
+      "sail, put out to sea"
+    ],
+    "source": "T",
+    "original": "ɭajaɭ vawa (M), yawale"
+  },
+  {
+    "id": "2338",
+    "basay": "yazas",
+    "category": "25",
+    "zh": [
+      "帶"
+    ],
+    "en": [
+      "bring"
+    ],
+    "source": "T",
+    "original": "yazas"
+  }
+]

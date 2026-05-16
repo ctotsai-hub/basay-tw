@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "1188",
+    "basay": "kaay",
+    "category": "06",
+    "zh": [
+      "腳"
+    ],
+    "en": [
+      "foot"
+    ],
+    "source": "T",
+    "original": "kaay"
+  },
+  {
+    "id": "0209",
+    "basay": "kaba buko's",
+    "category": "08",
+    "zh": [
+      "蓑衣"
+    ],
+    "ja": [
+      "ミノ"
+    ],
+    "en": [
+      "rain coat (straw)"
+    ],
+    "source": "B",
+    "original": "kaba bukəs"
+  },
+  {
+    "id": "0210",
+    "basay": "kaba | kava",
+    "category": "18",
+    "zh": [
+      "衣服"
+    ],
+    "ja": [
+      "キモノ"
+    ],
+    "en": [
+      "clothing"
+    ],
+    "source": "B",
+    "original": "kaba, kava"
+  },
+  {
+    "id": "0211",
+    "basay": "kabalan",
+    "category": "05",
+    "zh": [
+      "克瓦蘭"
+    ],
+    "ja": [
+      "カバラン"
+    ],
+    "en": [
+      "Kvalan"
+    ],
+    "source": "B",
+    "original": "kabalan"
+  },
+  {
+    "id": "1189",
+    "basay": "kail",
+    "category": "07",
+    "zh": [
+      "鹹魚"
+    ],
+    "en": [
+      "salted fish"
+    ],
+    "source": "T",
+    "original": "kail"
+  },
+  {
+    "id": "1190",
+    "basay": "kaipan",
+    "category": "09",
+    "zh": [
+      "床"
+    ],
+    "en": [
+      "bed"
+    ],
+    "source": "M",
+    "original": "kaipan (M)"
+  },
+  {
+    "id": "0212",
+    "basay": "kaitattse",
+    "category": "25",
+    "zh": [
+      "居住"
+    ],
+    "ja": [
+      "生キル"
+    ],
+    "en": [
+      "live (to)"
+    ],
+    "source": "B",
+    "original": "kaitattse"
+  },
+  {
+    "id": "0213",
+    "basay": "kaka",
+    "category": "04",
+    "zh": [
+      "哥哥",
+      "姊姊"
+    ],
+    "ja": [
+      "兄",
+      "姉"
+    ],
+    "en": [
+      "elder brother. elder sister"
+    ],
+    "source": "B",
+    "original": "kaka"
+  },
+  {
+    "id": "0214",
+    "basay": "kaka",
+    "category": "04",
+    "zh": [
+      "哥哥/姐姐"
+    ],
+    "ja": [
+      "兄姉",
+      "年上ノ人"
+    ],
+    "en": [
+      "elder brother/sister"
+    ],
+    "source": "B",
+    "original": "kaka"
+  },
+  {
+    "id": "1191",
+    "basay": "kaka",
+    "category": "04",
+    "zh": [
+      "兄，姊"
+    ],
+    "en": [
+      "elder sibling"
+    ],
+    "source": "T",
+    "original": "kaka"
+  },
+  {
+    "id": "1192",
+    "basay": "kakitut",
+    "category": "34",
+    "zh": [
+      "一點"
+    ],
+    "en": [
+      "little"
+    ],
+    "source": "T",
+    "original": "kakitut"
+  },
+  {
+    "id": "1193",
+    "basay": "kakl'ay | kakl'aika",
+    "category": "13",
+    "zh": [
+      "早點，趕快"
+    ],
+    "en": [
+      "early, hurry"
+    ],
+    "source": "T",
+    "original": "kakɭay, kakɭaika"
+  },
+  {
+    "id": "1194",
+    "basay": "kaku",
+    "category": "02",
+    "zh": [
+      "我"
+    ],
+    "en": [
+      "I"
+    ],
+    "source": "T",
+    "original": "kaku"
+  },
+  {
+    "id": "1195",
+    "basay": "kakuani",
+    "category": "29",
+    "zh": [
+      "悲慘的"
+    ],
+    "en": [
+      "misery, poor"
+    ],
+    "source": "T",
+    "original": "kakuani"
+  },
+  {
+    "id": "1196",
+    "basay": "kal'a",
+    "category": "25",
+    "zh": [
+      "拿"
+    ],
+    "en": [
+      "take"
+    ],
+    "source": "S",
+    "original": "kaɭa (S)"
+  },
+  {
+    "id": "1197",
+    "basay": "kal'itsun'",
+    "category": "09",
+    "zh": [
+      "(床)邊緣"
+    ],
+    "en": [
+      "edge (of bed)"
+    ],
+    "source": "T",
+    "original": "kaɭitsuŋ"
+  },
+  {
+    "id": "1198",
+    "basay": "kal'nas",
+    "category": "32",
+    "zh": [
+      "慢慢的"
+    ],
+    "en": [
+      "slowly"
+    ],
+    "source": "T",
+    "original": "kaɭnas"
+  },
+  {
+    "id": "1199",
+    "basay": "kal'u",
+    "category": "25",
+    "zh": [
+      "舀"
+    ],
+    "en": [
+      "bail out"
+    ],
+    "source": "T",
+    "original": "kaɭu"
+  },
+  {
+    "id": "1200",
+    "basay": "kal'usan",
+    "category": "09",
+    "zh": [
+      "籃子"
+    ],
+    "en": [
+      "basket"
+    ],
+    "source": "M",
+    "original": "kaɭusan (M)"
+  },
+  {
+    "id": "0215",
+    "basay": "kalabau",
+    "category": "07",
+    "zh": [
+      "乳牛"
+    ],
+    "ja": [
+      "牛"
+    ],
+    "en": [
+      "cow"
+    ],
+    "source": "B",
+    "original": "kalabau"
+  },
+  {
+    "id": "0216",
+    "basay": "kalausan",
+    "category": "07",
+    "zh": [
+      "海膽"
+    ],
+    "ja": [
+      "ウニ"
+    ],
+    "en": [
+      "sea urchin"
+    ],
+    "source": "B",
+    "original": "kalausan"
+  },
+  {
+    "id": "0217",
+    "basay": "kalimikimi",
+    "category": "25",
+    "zh": [
+      "眨眼"
+    ],
+    "ja": [
+      "マバタキスル"
+    ],
+    "en": [
+      "wink"
+    ],
+    "source": "B",
+    "original": "kalimikimi"
+  },
+  {
+    "id": "0218",
+    "basay": "kalu",
+    "category": "09",
+    "zh": [
+      "湯匙"
+    ],
+    "ja": [
+      "匙】"
+    ],
+    "en": [
+      "spoon"
+    ],
+    "source": "B",
+    "original": "kalu"
+  },
+  {
+    "id": "0219",
+    "basay": "kalu",
+    "category": "25",
+    "zh": [
+      "保釋"
+    ],
+    "ja": [
+      "汲出ス"
+    ],
+    "en": [
+      "bail out"
+    ],
+    "source": "B",
+    "original": "kalu"
+  },
+  {
+    "id": "1201",
+    "basay": "kaman",
+    "category": "35",
+    "zh": [
+      "不確定"
+    ],
+    "en": [
+      "uncertain"
+    ],
+    "source": "T",
+    "original": "kaman"
+  },
+  {
+    "id": "1202",
+    "basay": "kaman",
+    "category": "32",
+    "zh": [
+      "美麗的，漂亮的"
+    ],
+    "en": [
+      "beautiful, pretty"
+    ],
+    "source": "T",
+    "original": "kaman, kamman, qaman (S)"
+  },
+  {
+    "id": "1205",
+    "basay": "kaman | manpak | maunu",
+    "category": "03",
+    "zh": [
+      "如何"
+    ],
+    "en": [
+      "how"
+    ],
+    "source": "T",
+    "original": "kaman, manpak, maunu"
+  },
+  {
+    "id": "1206",
+    "basay": "kamanuzian",
+    "category": "11",
+    "zh": [
+      "乾旱"
+    ],
+    "en": [
+      "drought, dry weather"
+    ],
+    "source": "M",
+    "original": "kamanuzian (M)"
+  },
+  {
+    "id": "1207",
+    "basay": "kame",
+    "category": "06",
+    "zh": [
+      "回來"
+    ],
+    "en": [
+      "come back"
+    ],
+    "source": "T",
+    "original": "kame"
+  },
+  {
+    "id": "1203",
+    "basay": "kamman",
+    "category": "32",
+    "zh": [
+      "美麗的，漂亮的"
+    ],
+    "en": [
+      "beautiful, pretty"
+    ],
+    "source": "T",
+    "original": "kaman, kamman, qaman (S)"
+  },
+  {
+    "id": "1208",
+    "basay": "kamuan'",
+    "category": "08",
+    "zh": [
+      "菜"
+    ],
+    "en": [
+      "vegetable"
+    ],
+    "source": "T",
+    "original": "kamuaŋ"
+  },
+  {
+    "id": "0221",
+    "basay": "kan",
+    "category": "27",
+    "zh": [
+      "食物"
+    ],
+    "ja": [
+      "食物"
+    ],
+    "en": [
+      "food"
+    ],
+    "source": "B",
+    "original": "kan"
+  },
+  {
+    "id": "0222",
+    "basay": "kanaba",
+    "category": "09",
+    "zh": [
+      "砂漿"
+    ],
+    "ja": [
+      "臼"
+    ],
+    "en": [
+      "mortar"
+    ],
+    "source": "B",
+    "original": "kanaba"
+  },
+  {
+    "id": "1209",
+    "basay": "kanan",
+    "category": "27",
+    "zh": [
+      "食物"
+    ],
+    "en": [
+      "food"
+    ],
+    "source": "T",
+    "original": "kanan,qanan, qonnan (S)"
+  },
+  {
+    "id": "1212",
+    "basay": "kanatta",
+    "category": "09",
+    "zh": [
+      "梳子"
+    ],
+    "en": [
+      "comb"
+    ],
+    "source": "M",
+    "original": "kanatta (M)"
+  },
+  {
+    "id": "0223",
+    "basay": "kanatte",
+    "category": "09",
+    "zh": [
+      "梳子"
+    ],
+    "ja": [
+      "櫛, アミ (sa-ka.at)"
+    ],
+    "en": [
+      "comb"
+    ],
+    "source": "B",
+    "original": "kanatte"
+  },
+  {
+    "id": "0224",
+    "basay": "kanatte",
+    "category": "09",
+    "zh": [
+      "梳子"
+    ],
+    "ja": [
+      "櫛, アミ (ka.at)"
+    ],
+    "en": [
+      "comb"
+    ],
+    "source": "B",
+    "original": "kanatte"
+  },
+  {
+    "id": "0225",
+    "basay": "kano'gko'n'",
+    "category": "09",
+    "zh": [
+      "青金石"
+    ],
+    "ja": [
+      "瑠璃玉, 両端ノ光レル"
+    ],
+    "en": [
+      "lapis lazuli"
+    ],
+    "source": "B",
+    "original": "kanəgkəŋ"
+  },
+  {
+    "id": "0220",
+    "basay": "kanute",
+    "category": "28",
+    "zh": [
+      "觸碰"
+    ],
+    "ja": [
+      "触る"
+    ],
+    "en": [
+      "touch (to)"
+    ],
+    "source": "B",
+    "original": "kanute"
+  },
+  {
+    "id": "0226",
+    "basay": "kapin'",
+    "category": "08",
+    "zh": [
+      "海草"
+    ],
+    "ja": [
+      "(台) chitsai 海草の一種"
+    ],
+    "en": [
+      "seaweed"
+    ],
+    "source": "B",
+    "original": "kapiŋ"
+  },
+  {
+    "id": "1214",
+    "basay": "kapin'",
+    "category": "08",
+    "zh": [
+      "海藻"
+    ],
+    "en": [
+      "seaweed"
+    ],
+    "source": "M",
+    "original": "kapiŋ (M)"
+  },
+  {
+    "id": "1213",
+    "basay": "kapinatasau",
+    "category": "11",
+    "zh": [
+      "新年節日"
+    ],
+    "en": [
+      "New Year's festival"
+    ],
+    "source": "M",
+    "original": "kapinatasau (M)"
+  },
+  {
+    "id": "0227",
+    "basay": "kapote",
+    "category": "09",
+    "zh": [
+      "袋，麻袋"
+    ],
+    "ja": [
+      "袋"
+    ],
+    "en": [
+      "bag, sack"
+    ],
+    "source": "B",
+    "original": "kapote"
+  },
+  {
+    "id": "0228",
+    "basay": "kapote. nupun'",
+    "category": "15",
+    "zh": [
+      "網袋"
+    ],
+    "ja": [
+      "網袋"
+    ],
+    "en": [
+      "netbag"
+    ],
+    "source": "B",
+    "original": "kapote. nupuŋ"
+  },
+  {
+    "id": "0229",
+    "basay": "kapowa",
+    "category": "18",
+    "zh": [
+      "棉布"
+    ],
+    "ja": [
+      "綿",
+      "布団"
+    ],
+    "en": [
+      "cotton"
+    ],
+    "source": "B",
+    "original": "kapowa"
+  },
+  {
+    "id": "1215",
+    "basay": "kapuan",
+    "category": "34",
+    "zh": [
+      "非常想"
+    ],
+    "en": [
+      "desire to have"
+    ],
+    "source": "T",
+    "original": "kapuan"
+  },
+  {
+    "id": "0230",
+    "basay": "kaputsu",
+    "category": "09",
+    "zh": [
+      "枕頭"
+    ],
+    "ja": [
+      "マクラ"
+    ],
+    "en": [
+      "pillow"
+    ],
+    "source": "B",
+    "original": "kaputsu"
+  },
+  {
+    "id": "0231",
+    "basay": "kararl",
+    "category": "06",
+    "zh": [
+      "蠡"
+    ],
+    "ja": [
+      "夕顔 (?)"
+    ],
+    "en": [
+      "calabash"
+    ],
+    "source": "B",
+    "original": "kararl"
+  },
+  {
+    "id": "0232",
+    "basay": "karisiu",
+    "category": "01",
+    "zh": [
+      "厘"
+    ],
+    "ja": [
+      "厘"
+    ],
+    "en": [
+      "rin (1/1000)"
+    ],
+    "source": "B",
+    "original": "karisiu"
+  },
+  {
+    "id": "1216",
+    "basay": "karpan",
+    "category": "34",
+    "zh": [
+      "籬笆"
+    ],
+    "en": [
+      "hedge"
+    ],
+    "source": "M",
+    "original": "karpan (M)"
+  },
+  {
+    "id": "1217",
+    "basay": "kasal'i",
+    "category": "13",
+    "zh": [
+      "晚"
+    ],
+    "en": [
+      "late"
+    ],
+    "source": "T",
+    "original": "kasaɭi"
+  },
+  {
+    "id": "1218",
+    "basay": "kasazaan",
+    "category": "12",
+    "zh": [
+      "橋樑"
+    ],
+    "en": [
+      "bridge"
+    ],
+    "source": "M",
+    "original": "kasazaan (M)"
+  },
+  {
+    "id": "1219",
+    "basay": "kasikaz'",
+    "category": "29",
+    "zh": [
+      "慚愧的"
+    ],
+    "en": [
+      "ashamed"
+    ],
+    "source": "M",
+    "original": "kasikaɮ (M)"
+  },
+  {
+    "id": "1220",
+    "basay": "kaspat",
+    "category": "01",
+    "zh": [
+      "四"
+    ],
+    "en": [
+      "four"
+    ],
+    "source": "T",
+    "original": "kaspat"
+  },
+  {
+    "id": "1221",
+    "basay": "kasul'iia",
+    "category": "05",
+    "zh": [
+      "僕人"
+    ],
+    "en": [
+      "servant"
+    ],
+    "source": "T",
+    "original": "kasuɭiia"
+  },
+  {
+    "id": "1222",
+    "basay": "katavan | qatavan",
+    "category": "05",
+    "zh": [
+      "慶祝獵到人頭"
+    ],
+    "en": [
+      "celebrate head-hunting"
+    ],
+    "source": "T",
+    "original": "katavan, qatavan"
+  },
+  {
+    "id": "1223",
+    "basay": "kati | katiwan | mamatiwi",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "T",
+    "original": "kati, katiwan, mamatiwi"
+  },
+  {
+    "id": "0233",
+    "basay": "katipai sali n'onon",
+    "category": "10",
+    "zh": [
+      "我們去山吧"
+    ],
+    "ja": [
+      "山へ行キマセウ"
+    ],
+    "en": [
+      "let's go to the mountain."
+    ],
+    "source": "B",
+    "original": "katipai sali ŋonon"
+  },
+  {
+    "id": "0234",
+    "basay": "katiu",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "ja": [
+      "行ｸ"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "B",
+    "original": "katiu"
+  },
+  {
+    "id": "0235",
+    "basay": "katiu",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "ja": [
+      "行ｸ"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "B",
+    "original": "katiu"
+  },
+  {
+    "id": "1224",
+    "basay": "katsuna",
+    "category": "01",
+    "zh": [
+      "三天"
+    ],
+    "en": [
+      "three days"
+    ],
+    "source": "T",
+    "original": "katsuna"
+  },
+  {
+    "id": "1226",
+    "basay": "kautsuan",
+    "category": "09",
+    "zh": [
+      "(床)邊緣"
+    ],
+    "en": [
+      "edge (of bed)"
+    ],
+    "source": "T",
+    "original": "kautsuan"
+  },
+  {
+    "id": "1225",
+    "basay": "kautuni",
+    "category": "34",
+    "zh": [
+      "進入"
+    ],
+    "en": [
+      "enter"
+    ],
+    "source": "S",
+    "original": "kautuni (S)"
+  },
+  {
+    "id": "1227",
+    "basay": "kavatsi",
+    "category": "11",
+    "zh": [
+      "刮風"
+    ],
+    "en": [
+      "windy"
+    ],
+    "source": "S",
+    "original": "kavatsi (S)"
+  },
+  {
+    "id": "1228",
+    "basay": "kavawa",
+    "category": "20",
+    "zh": [
+      "搭船"
+    ],
+    "en": [
+      "take a boat"
+    ],
+    "source": "T",
+    "original": "kavawa"
+  },
+  {
+    "id": "1229",
+    "basay": "kavilaan",
+    "category": "18",
+    "zh": [
+      "布，衣服"
+    ],
+    "en": [
+      "cloth, clothes"
+    ],
+    "source": "T",
+    "original": "kavilaan"
+  },
+  {
+    "id": "1230",
+    "basay": "kavso'n'",
+    "category": "32",
+    "zh": [
+      "硬"
+    ],
+    "en": [
+      "stiff"
+    ],
+    "source": "T",
+    "original": "kavsəŋ"
+  },
+  {
+    "id": "0236",
+    "basay": "kawakawase",
+    "category": "24",
+    "zh": [
+      "故事"
+    ],
+    "ja": [
+      "話"
+    ],
+    "en": [
+      "story"
+    ],
+    "source": "B",
+    "original": "kawakawase"
+  },
+  {
+    "id": "1231",
+    "basay": "kawas",
+    "category": "24",
+    "zh": [
+      "故事"
+    ],
+    "en": [
+      "stoiy"
+    ],
+    "source": "M",
+    "original": "kawas (M)"
+  },
+  {
+    "id": "1232",
+    "basay": "kay",
+    "category": "34",
+    "zh": [
+      "將"
+    ],
+    "en": [
+      "future"
+    ],
+    "source": "T",
+    "original": "kay"
+  },
+  {
+    "id": "1233",
+    "basay": "kayanu",
+    "category": "08",
+    "zh": [
+      "如果"
+    ],
+    "en": [
+      "if"
+    ],
+    "source": "T",
+    "original": "kayanu"
+  },
+  {
+    "id": "1234",
+    "basay": "kay|xin",
+    "category": "09",
+    "zh": [
+      "床，寢室"
+    ],
+    "en": [
+      "bed, bedroom"
+    ],
+    "source": "T",
+    "original": "kay|xin"
+  },
+  {
+    "id": "1235",
+    "basay": "kazawan. klaw",
+    "category": "06",
+    "zh": [
+      "挑"
+    ],
+    "en": [
+      "carry on shoulder"
+    ],
+    "source": "T",
+    "original": "kazawan. klaw, kmalau (M), kzaw"
+  },
+  {
+    "id": "1238",
+    "basay": "kazayzaay",
+    "category": "02",
+    "zh": [
+      "一直待在這裡"
+    ],
+    "en": [
+      "stay here"
+    ],
+    "source": "T",
+    "original": "kazayzaay"
+  },
+  {
+    "id": "1239",
+    "basay": "kazkatal",
+    "category": "24",
+    "zh": [
+      "精力充沛的"
+    ],
+    "en": [
+      "vigorous"
+    ],
+    "source": "M",
+    "original": "kazkatal (M)"
+  },
+  {
+    "id": "1241",
+    "basay": "kial'a | kilay",
+    "category": "06",
+    "zh": [
+      "採，摘，砍（頭）"
+    ],
+    "en": [
+      "pick, behead"
+    ],
+    "source": "T",
+    "original": "kiaɭa, kilay"
+  },
+  {
+    "id": "1242",
+    "basay": "kianman",
+    "category": "25",
+    "zh": [
+      "坐"
+    ],
+    "en": [
+      "sit"
+    ],
+    "source": "M",
+    "original": "kianman (M)"
+  },
+  {
+    "id": "1243",
+    "basay": "kil'ul'its",
+    "category": "32",
+    "zh": [
+      "小偷"
+    ],
+    "en": [
+      "steal"
+    ],
+    "source": "T",
+    "original": "kiɭuɭits ，muɭuɭits (M)"
+  },
+  {
+    "id": "1245",
+    "basay": "kim. kimu",
+    "category": "02",
+    "zh": [
+      "你們"
+    ],
+    "en": [
+      "you (PL)"
+    ],
+    "source": "T",
+    "original": "kim. kimu"
+  },
+  {
+    "id": "1246",
+    "basay": "kinan",
+    "category": "03",
+    "zh": [
+      "何時"
+    ],
+    "en": [
+      "when"
+    ],
+    "source": "T",
+    "original": "kinan"
+  },
+  {
+    "id": "1247",
+    "basay": "kinausa",
+    "category": "01",
+    "zh": [
+      "兩個人"
+    ],
+    "en": [
+      "two (human)"
+    ],
+    "source": "S",
+    "original": "kinausa (S)"
+  },
+  {
+    "id": "0237",
+    "basay": "kinijan malause",
+    "category": "12",
+    "zh": [
+      "陵"
+    ],
+    "ja": [
+      "廟"
+    ],
+    "en": [
+      "mausoleum"
+    ],
+    "source": "B",
+    "original": "kinijan malause"
+  },
+  {
+    "id": "0238",
+    "basay": "kinjijan",
+    "category": "12",
+    "zh": [
+      "房子"
+    ],
+    "ja": [
+      "家】"
+    ],
+    "en": [
+      "house"
+    ],
+    "source": "B",
+    "original": "kinjijan"
+  },
+  {
+    "id": "1248",
+    "basay": "kisaiz",
+    "category": "17",
+    "zh": [
+      "舉行治療儀式"
+    ],
+    "en": [
+      "perform a healing ritual"
+    ],
+    "source": "T",
+    "original": "kisaiz"
+  },
+  {
+    "id": "1249",
+    "basay": "kisin'",
+    "category": "09",
+    "zh": [
+      "碗"
+    ],
+    "en": [
+      "bowl"
+    ],
+    "source": "M",
+    "original": "kisiŋ (M)"
+  },
+  {
+    "id": "1250",
+    "basay": "kisja",
+    "category": "05",
+    "zh": [
+      "乞丐"
+    ],
+    "en": [
+      "beggar"
+    ],
+    "source": "M",
+    "original": "kisja (M)"
+  },
+  {
+    "id": "1251",
+    "basay": "kiskis",
+    "category": "25",
+    "zh": [
+      "刮"
+    ],
+    "en": [
+      "shave"
+    ],
+    "source": "M",
+    "original": "kiskis (M), misikis"
+  },
+  {
+    "id": "1253",
+    "basay": "kisu",
+    "category": "02",
+    "zh": [
+      "你"
+    ],
+    "en": [
+      "you (SG)"
+    ],
+    "source": "T",
+    "original": "kisu"
+  },
+  {
+    "id": "1254",
+    "basay": "kita",
+    "category": "02",
+    "zh": [
+      "咱們"
+    ],
+    "en": [
+      "we"
+    ],
+    "source": "T",
+    "original": "kita"
+  },
+  {
+    "id": "0239",
+    "basay": "kitiu",
+    "category": "25",
+    "zh": [
+      "懸掛"
+    ],
+    "ja": [
+      "カケル"
+    ],
+    "en": [
+      "hang (to)"
+    ],
+    "source": "B",
+    "original": "kitiu"
+  },
+  {
+    "id": "0240",
+    "basay": "kitud' baute",
+    "category": "07",
+    "zh": [
+      "小魚"
+    ],
+    "ja": [
+      "小魚"
+    ],
+    "en": [
+      "small fish"
+    ],
+    "source": "B",
+    "original": "kitud' baute"
+  },
+  {
+    "id": "1255",
+    "basay": "kitut",
+    "category": "07",
+    "zh": [
+      "小魚"
+    ],
+    "en": [
+      "small fish"
+    ],
+    "source": "M",
+    "original": "kitut (M)"
+  },
+  {
+    "id": "1256",
+    "basay": "kiul'ul'uy",
+    "category": "23",
+    "zh": [
+      "老鷹的叫聲"
+    ],
+    "en": [
+      "shriek of hawk"
+    ],
+    "source": "T",
+    "original": "kiuɭuɭuy"
+  },
+  {
+    "id": "1257",
+    "basay": "kivats",
+    "category": "25",
+    "zh": [
+      "洗"
+    ],
+    "en": [
+      "wash"
+    ],
+    "source": "T",
+    "original": "kivats"
+  },
+  {
+    "id": "1258",
+    "basay": "kizanum",
+    "category": "11",
+    "zh": [
+      "取水"
+    ],
+    "en": [
+      "fetch water"
+    ],
+    "source": "T",
+    "original": "kizanum"
+  },
+  {
+    "id": "1259",
+    "basay": "kizaya",
+    "category": "08",
+    "zh": [
+      "花蓮"
+    ],
+    "en": [
+      "Hualien"
+    ],
+    "source": "T",
+    "original": "kizaya"
+  },
+  {
+    "id": "1263",
+    "basay": "kl'akl'asan",
+    "category": "23",
+    "zh": [
+      "呼叫"
+    ],
+    "en": [
+      "shout"
+    ],
+    "source": "T",
+    "original": "kɭakɭasan"
+  },
+  {
+    "id": "1264",
+    "basay": "kl'aptaan",
+    "category": "01",
+    "zh": [
+      "十"
+    ],
+    "en": [
+      "ten"
+    ],
+    "source": "T",
+    "original": "kɭaptaan"
+  },
+  {
+    "id": "1265",
+    "basay": "kl'aus",
+    "category": "06",
+    "zh": [
+      "耳環"
+    ],
+    "en": [
+      "earring"
+    ],
+    "source": "M",
+    "original": "kɭaus (M)"
+  },
+  {
+    "id": "1266",
+    "basay": "kl'avau",
+    "category": "07",
+    "zh": [
+      "牛"
+    ],
+    "en": [
+      "cow"
+    ],
+    "source": "M",
+    "original": "kɭavau (M)"
+  },
+  {
+    "id": "1260",
+    "basay": "klatan",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "en": [
+      "bite"
+    ],
+    "source": "T",
+    "original": "klatan, mqalat (M), tumozo"
+  },
+  {
+    "id": "1268",
+    "basay": "kmal'itsi",
+    "category": "08",
+    "zh": [
+      "磨稻穀"
+    ],
+    "en": [
+      "mill rice, grind"
+    ],
+    "source": "M",
+    "original": "kmaɭitsi (M)"
+  },
+  {
+    "id": "1236",
+    "basay": "kmalau",
+    "category": "06",
+    "zh": [
+      "挑"
+    ],
+    "en": [
+      "carry on shoulder"
+    ],
+    "source": "M",
+    "original": "kazawan. klaw, kmalau (M), kzaw"
+  },
+  {
+    "id": "1267",
+    "basay": "kmalusa",
+    "category": "34",
+    "zh": [
+      "採"
+    ],
+    "en": [
+      "pick"
+    ],
+    "source": "T",
+    "original": "kmalusa"
+  },
+  {
+    "id": "1269",
+    "basay": "kmatsaw",
+    "category": "19",
+    "zh": [
+      "娶"
+    ],
+    "en": [
+      "marry"
+    ],
+    "source": "T",
+    "original": "kmatsaw"
+  },
+  {
+    "id": "1270",
+    "basay": "kmaukaul",
+    "category": "06",
+    "zh": [
+      "招手"
+    ],
+    "en": [
+      "beckon"
+    ],
+    "source": "M",
+    "original": "kmaukaul (M)"
+  },
+  {
+    "id": "1271",
+    "basay": "kmilim",
+    "category": "25",
+    "zh": [
+      "尋找"
+    ],
+    "en": [
+      "search"
+    ],
+    "source": "T",
+    "original": "kmilim"
+  },
+  {
+    "id": "1272",
+    "basay": "kmul'ikul'",
+    "category": "34",
+    "zh": [
+      "追捕"
+    ],
+    "en": [
+      "pursue"
+    ],
+    "source": "M",
+    "original": "kmuɭikuɭ (M)"
+  },
+  {
+    "id": "1273",
+    "basay": "kmuskus",
+    "category": "25",
+    "zh": [
+      "抓，搔"
+    ],
+    "en": [
+      "scratch"
+    ],
+    "source": "M",
+    "original": "kmuskus (M)"
+  },
+  {
+    "id": "1275",
+    "basay": "knal'ian",
+    "category": "34",
+    "zh": [
+      "還有"
+    ],
+    "en": [
+      "plus"
+    ],
+    "source": "T",
+    "original": "knaɭian"
+  },
+  {
+    "id": "1274",
+    "basay": "knalaqita | knalaqitta | qnazaqita",
+    "category": "01",
+    "zh": [
+      "眾人"
+    ],
+    "en": [
+      "all people"
+    ],
+    "source": "T",
+    "original": "knalaqita, knalaqitta, qnazaqita"
+  },
+  {
+    "id": "1276",
+    "basay": "knaman",
+    "category": "36",
+    "zh": [
+      "也許"
+    ],
+    "en": [
+      "if, perhaps"
+    ],
+    "source": "M",
+    "original": "knaman (M)"
+  },
+  {
+    "id": "1277",
+    "basay": "knapo'l",
+    "category": "08",
+    "zh": [
+      "米槺"
+    ],
+    "en": [
+      "rice bran"
+    ],
+    "source": "T",
+    "original": "knapəl, qavi (M)"
+  },
+  {
+    "id": "1279",
+    "basay": "knarpay",
+    "category": "14",
+    "zh": [
+      "流傳"
+    ],
+    "en": [
+      "pass down"
+    ],
+    "source": "T",
+    "original": "knarpay"
+  },
+  {
+    "id": "1280",
+    "basay": "knasau",
+    "category": "07",
+    "zh": [
+      "海膽"
+    ],
+    "en": [
+      "sea urchin"
+    ],
+    "source": "M",
+    "original": "knasau (M)"
+  },
+  {
+    "id": "1281",
+    "basay": "knatsawan",
+    "category": "34",
+    "zh": [
+      "情婦"
+    ],
+    "en": [
+      "mistress"
+    ],
+    "source": "T",
+    "original": "knatsawan"
+  },
+  {
+    "id": "1282",
+    "basay": "knavalaun'",
+    "category": "34",
+    "zh": [
+      "鄰居"
+    ],
+    "en": [
+      "neighbor"
+    ],
+    "source": "T",
+    "original": "knavalauŋ"
+  },
+  {
+    "id": "1240",
+    "basay": "ko'lmakmaz",
+    "category": "06",
+    "zh": [
+      "眨眼"
+    ],
+    "en": [
+      "wink"
+    ],
+    "source": "M",
+    "original": "kəlmakmaz (M)"
+  },
+  {
+    "id": "0241",
+    "basay": "kokoi",
+    "category": "22",
+    "zh": [
+      "蒸年糕"
+    ],
+    "ja": [
+      "蒸シタル餅(赤色ナル)",
+      "tinarikke モチ"
+    ],
+    "en": [
+      "ricecake (steamed)"
+    ],
+    "source": "B",
+    "original": "kokoi"
+  },
+  {
+    "id": "0242",
+    "basay": "kokon'",
+    "category": "09",
+    "zh": [
+      "喇叭"
+    ],
+    "ja": [
+      "角",
+      "ラッパ, アミ(pohoŋ)"
+    ],
+    "en": [
+      "horn"
+    ],
+    "source": "B",
+    "original": "kokoŋ"
+  },
+  {
+    "id": "0243",
+    "basay": "kolalawakke. | jaku lawakke",
+    "category": "25",
+    "zh": [
+      "樹樁"
+    ],
+    "ja": [
+      "つまづく】"
+    ],
+    "en": [
+      "stump"
+    ],
+    "source": "B",
+    "original": "kolalawakke. <jaku lawakke>"
+  },
+  {
+    "id": "1283",
+    "basay": "kon'suan",
+    "category": "32",
+    "zh": [
+      "漂亮的，美麗的"
+    ],
+    "en": [
+      "beautiful"
+    ],
+    "source": "M",
+    "original": "koŋsuan (M)"
+  },
+  {
+    "id": "1284",
+    "basay": "kpal'iman",
+    "category": "25",
+    "zh": [
+      "捕獲"
+    ],
+    "en": [
+      "arrest"
+    ],
+    "source": "M",
+    "original": "kpaɭiman (M)"
+  },
+  {
+    "id": "1285",
+    "basay": "kriavan",
+    "category": "32",
+    "zh": [
+      "瑪瑙（大）"
+    ],
+    "en": [
+      "agates (big)"
+    ],
+    "source": "T",
+    "original": "kriavan"
+  },
+  {
+    "id": "1286",
+    "basay": "ktsawan",
+    "category": "14",
+    "zh": [
+      "東張西望,眺望"
+    ],
+    "en": [
+      "look at a distance"
+    ],
+    "source": "T",
+    "original": "ktsawan"
+  },
+  {
+    "id": "1287",
+    "basay": "ktsitso'n",
+    "category": "09",
+    "zh": [
+      "繩子"
+    ],
+    "en": [
+      "rope"
+    ],
+    "source": "M",
+    "original": "ktsitsən (M)"
+  },
+  {
+    "id": "1288",
+    "basay": "kuaku",
+    "category": "11",
+    "zh": [
+      "煙斗"
+    ],
+    "en": [
+      "smoking pipe"
+    ],
+    "source": "M",
+    "original": "kuaku (M)"
+  },
+  {
+    "id": "1289",
+    "basay": "kuakuat",
+    "category": "35",
+    "zh": [
+      "無助的"
+    ],
+    "en": [
+      "helpless"
+    ],
+    "source": "T",
+    "original": "kuakuat"
+  },
+  {
+    "id": "0244",
+    "basay": "kualau",
+    "category": "35",
+    "zh": [
+      "缺少",
+      "沒有任何"
+    ],
+    "ja": [
+      "欠ケル, ナシ"
+    ],
+    "en": [
+      "lack. none"
+    ],
+    "source": "B",
+    "original": "kualau"
+  },
+  {
+    "id": "0245",
+    "basay": "kualau munan",
+    "category": "11",
+    "zh": [
+      "乾旱",
+      "天氣乾燥"
+    ],
+    "ja": [
+      "早天",
+      "雨ナシ"
+    ],
+    "en": [
+      "drought. dry weather"
+    ],
+    "source": "B",
+    "original": "kualau munan"
+  },
+  {
+    "id": "0246",
+    "basay": "kualau tan-tan",
+    "category": "29",
+    "zh": [
+      "寂寞"
+    ],
+    "ja": [
+      "淋シイ"
+    ],
+    "en": [
+      "lonesome"
+    ],
+    "source": "B",
+    "original": "kualau tan-tan"
+  },
+  {
+    "id": "0247",
+    "basay": "kualau ts'i",
+    "category": "32",
+    "zh": [
+      "細長",
+      "薄"
+    ],
+    "ja": [
+      "痩セタル"
+    ],
+    "en": [
+      "slender, thin"
+    ],
+    "source": "B",
+    "original": "kualau tʃi"
+  },
+  {
+    "id": "1290",
+    "basay": "kuamanazay",
+    "category": "02",
+    "zh": [
+      "像這樣"
+    ],
+    "en": [
+      "in this way"
+    ],
+    "source": "T",
+    "original": "kuamanazay"
+  },
+  {
+    "id": "1291",
+    "basay": "kuanan",
+    "category": "02",
+    "zh": [
+      "我"
+    ],
+    "en": [
+      "me (OBL)"
+    ],
+    "source": "T",
+    "original": "kuanan"
+  },
+  {
+    "id": "1292",
+    "basay": "kuat",
+    "category": "34",
+    "zh": [
+      "没關係"
+    ],
+    "en": [
+      "nevermind"
+    ],
+    "source": "T",
+    "original": "kuat"
+  },
+  {
+    "id": "1293",
+    "basay": "kuatan",
+    "category": "03",
+    "zh": [
+      "怎麼辦"
+    ],
+    "en": [
+      "what to do"
+    ],
+    "source": "T",
+    "original": "kuatan"
+  },
+  {
+    "id": "0248",
+    "basay": "kuba",
+    "category": "10",
+    "zh": [
+      "稻田"
+    ],
+    "ja": [
+      "田"
+    ],
+    "en": [
+      "paddy field"
+    ],
+    "source": "B",
+    "original": "kuba"
+  },
+  {
+    "id": "1294",
+    "basay": "kuka",
+    "category": "34",
+    "zh": [
+      "可以"
+    ],
+    "en": [
+      "able"
+    ],
+    "source": "T",
+    "original": "kuka"
+  },
+  {
+    "id": "1295",
+    "basay": "kukuva",
+    "category": "34",
+    "zh": [
+      "田地"
+    ],
+    "en": [
+      "fields"
+    ],
+    "source": "T",
+    "original": "kukuva"
+  },
+  {
+    "id": "1296",
+    "basay": "kul'ava",
+    "category": "07",
+    "zh": [
+      "鴨子"
+    ],
+    "en": [
+      "duck"
+    ],
+    "source": "M",
+    "original": "kuɭava (M)"
+  },
+  {
+    "id": "0250",
+    "basay": "kul-aba",
+    "category": "07",
+    "zh": [
+      "鴨子"
+    ],
+    "ja": [
+      "あひる"
+    ],
+    "en": [
+      "duck"
+    ],
+    "source": "B",
+    "original": "kul-aba"
+  },
+  {
+    "id": "0249",
+    "basay": "kul-pusse",
+    "category": "18",
+    "zh": [
+      "帽子"
+    ],
+    "ja": [
+      "帽子"
+    ],
+    "en": [
+      "hat"
+    ],
+    "source": "B",
+    "original": "kul-pusse"
+  },
+  {
+    "id": "0251",
+    "basay": "kuman",
+    "category": "27",
+    "zh": [
+      "吃"
+    ],
+    "ja": [
+      "食フ"
+    ],
+    "en": [
+      "eat"
+    ],
+    "source": "B",
+    "original": "kuman"
+  },
+  {
+    "id": "1297",
+    "basay": "kuman",
+    "category": "27",
+    "zh": [
+      "吃"
+    ],
+    "en": [
+      "eat"
+    ],
+    "source": "T",
+    "original": "kuman"
+  },
+  {
+    "id": "0252",
+    "basay": "kuman na",
+    "category": "27",
+    "zh": [
+      "吃了"
+    ],
+    "ja": [
+      "食べた"
+    ],
+    "en": [
+      "ate. (preterium)"
+    ],
+    "source": "B",
+    "original": "kuman na"
+  },
+  {
+    "id": "1298",
+    "basay": "kuman na",
+    "category": "34",
+    "zh": [
+      "完成"
+    ],
+    "en": [
+      "already"
+    ],
+    "source": "M",
+    "original": "kuman na (M)"
+  },
+  {
+    "id": "0253",
+    "basay": "kuman u lag",
+    "category": "19",
+    "zh": [
+      "宴會"
+    ],
+    "ja": [
+      "祝宴"
+    ],
+    "en": [
+      "banquet"
+    ],
+    "source": "B",
+    "original": "kuman u lag"
+  },
+  {
+    "id": "0254",
+    "basay": "kuman | isu kuman",
+    "category": "02",
+    "zh": [
+      "吃（你）"
+    ],
+    "ja": [
+      "食べる(あなた)"
+    ],
+    "en": [
+      "eat (to) (you)"
+    ],
+    "source": "B",
+    "original": "kuman, <isu kuman>"
+  },
+  {
+    "id": "0255",
+    "basay": "kuman | jaku kuman",
+    "category": "02",
+    "zh": [
+      "吃（我）"
+    ],
+    "ja": [
+      "食べる (私)"
+    ],
+    "en": [
+      "eat (l)."
+    ],
+    "source": "B",
+    "original": "kuman, <jaku kuman>"
+  },
+  {
+    "id": "1299",
+    "basay": "kumatsi",
+    "category": "15",
+    "zh": [
+      "挖掘"
+    ],
+    "en": [
+      "dig"
+    ],
+    "source": "M",
+    "original": "kumatsi (M)"
+  },
+  {
+    "id": "1300",
+    "basay": "kumua",
+    "category": "34",
+    "zh": [
+      "像"
+    ],
+    "en": [
+      "resemble"
+    ],
+    "source": "T",
+    "original": "kumua"
+  },
+  {
+    "id": "1304",
+    "basay": "kun'kun'",
+    "category": "09",
+    "zh": [
+      "杓子"
+    ],
+    "en": [
+      "ladle"
+    ],
+    "source": "M",
+    "original": "kuŋkuŋ (M)"
+  },
+  {
+    "id": "1302",
+    "basay": "kunaman | man",
+    "category": "34",
+    "zh": [
+      "恢復"
+    ],
+    "en": [
+      "recover, get well"
+    ],
+    "source": "T",
+    "original": "kunaman, man"
+  },
+  {
+    "id": "1301",
+    "basay": "kunamkaman",
+    "category": "34",
+    "zh": [
+      "痘疤，麻子"
+    ],
+    "en": [
+      "pockmark"
+    ],
+    "source": "M",
+    "original": "kunamkaman (M)"
+  },
+  {
+    "id": "1303",
+    "basay": "kunanpana",
+    "category": "04",
+    "zh": [
+      "配偶"
+    ],
+    "en": [
+      "spouse"
+    ],
+    "source": "T",
+    "original": "kunanpana"
+  },
+  {
+    "id": "0256",
+    "basay": "kunkun'",
+    "category": "09",
+    "zh": [
+      "鋼包"
+    ],
+    "ja": [
+      "斗"
+    ],
+    "en": [
+      "ladle"
+    ],
+    "source": "B",
+    "original": "kunkuŋ"
+  },
+  {
+    "id": "0257",
+    "basay": "kunkun'",
+    "category": "01",
+    "zh": [
+      "米量"
+    ],
+    "ja": [
+      "米斗"
+    ],
+    "en": [
+      "rice measure"
+    ],
+    "source": "B",
+    "original": "kunkuŋ"
+  },
+  {
+    "id": "1305",
+    "basay": "kupa | kupan | mupa | mupan | supupa | upan | uppa",
+    "category": "29",
+    "zh": [
+      "不要"
+    ],
+    "en": [
+      "not to want"
+    ],
+    "source": "T",
+    "original": "kupa, kupan, mupa, mupan, supupa, upan, uppa"
+  },
+  {
+    "id": "1306",
+    "basay": "kupir",
+    "category": "08",
+    "zh": [
+      "地瓜"
+    ],
+    "en": [
+      "sweet potato"
+    ],
+    "source": "M",
+    "original": "kupir (M)"
+  },
+  {
+    "id": "0258",
+    "basay": "kupja",
+    "category": "07",
+    "zh": [
+      "龜"
+    ],
+    "ja": [
+      "亀"
+    ],
+    "en": [
+      "turtle"
+    ],
+    "source": "B",
+    "original": "kupja"
+  },
+  {
+    "id": "1307",
+    "basay": "kupua",
+    "category": "34",
+    "zh": [
+      "棉被"
+    ],
+    "en": [
+      "bedquilt"
+    ],
+    "source": "M",
+    "original": "kupua (M)"
+  },
+  {
+    "id": "1308",
+    "basay": "kuqa",
+    "category": "34",
+    "zh": [
+      "可以"
+    ],
+    "en": [
+      "can, may"
+    ],
+    "source": "T",
+    "original": "kuqa"
+  },
+  {
+    "id": "0259",
+    "basay": "kuralau tsenal'",
+    "category": "13",
+    "zh": [
+      "夜幕降臨"
+    ],
+    "ja": [
+      "夜ニナル"
+    ],
+    "en": [
+      "night falls"
+    ],
+    "source": "B",
+    "original": "kuralau tsenal'"
+  },
+  {
+    "id": "0260",
+    "basay": "kuralau tsetsenal'",
+    "category": "13",
+    "zh": [
+      "夜幕降臨"
+    ],
+    "ja": [
+      "夜ニナル"
+    ],
+    "en": [
+      "night falls"
+    ],
+    "source": "B",
+    "original": "kuralau tsetsenal'"
+  },
+  {
+    "id": "1309",
+    "basay": "kurikuzan",
+    "category": "34",
+    "zh": [
+      "跟隨"
+    ],
+    "en": [
+      "follow"
+    ],
+    "source": "T",
+    "original": "kurikuzan"
+  },
+  {
+    "id": "0261",
+    "basay": "kus",
+    "category": "25",
+    "zh": [
+      "刮痕"
+    ],
+    "ja": [
+      "カク"
+    ],
+    "en": [
+      "scratch"
+    ],
+    "source": "B",
+    "original": "kus"
+  },
+  {
+    "id": "0262",
+    "basay": "kusakusa",
+    "category": "24",
+    "zh": [
+      "談論未來",
+      "預計"
+    ],
+    "ja": [
+      "話ス (future) (豫想ヲスル)"
+    ],
+    "en": [
+      "talk about the future (to). expect"
+    ],
+    "source": "B",
+    "original": "kusakusa"
+  },
+  {
+    "id": "0263",
+    "basay": "kutu",
+    "category": "07",
+    "zh": [
+      "蝨"
+    ],
+    "ja": [
+      "シラミ"
+    ],
+    "en": [
+      "louse"
+    ],
+    "source": "B",
+    "original": "kutu"
+  },
+  {
+    "id": "1310",
+    "basay": "kutu",
+    "category": "07",
+    "zh": [
+      "蝨子，雞蝨"
+    ],
+    "en": [
+      "louse, bird louse"
+    ],
+    "source": "M",
+    "original": "kutu (M)"
+  },
+  {
+    "id": "1311",
+    "basay": "kuva",
+    "category": "10",
+    "zh": [
+      "田地",
+      "水田"
+    ],
+    "en": [
+      "field, paddy field"
+    ],
+    "source": "T",
+    "original": "kuva"
+  },
+  {
+    "id": "1312",
+    "basay": "kuvu",
+    "category": "18",
+    "zh": [
+      "帽子"
+    ],
+    "en": [
+      "hat"
+    ],
+    "source": "M",
+    "original": "kuvu (M)"
+  },
+  {
+    "id": "0264",
+    "basay": "kuwako",
+    "category": "11",
+    "zh": [
+      "煙鬥"
+    ],
+    "ja": [
+      "煙管"
+    ],
+    "en": [
+      "smoking pipe"
+    ],
+    "source": "B",
+    "original": "kuwako"
+  },
+  {
+    "id": "1313",
+    "basay": "kvaraan",
+    "category": "34",
+    "zh": [
+      "噶瑪蘭"
+    ],
+    "en": [
+      "Kavaian"
+    ],
+    "source": "M",
+    "original": "kvaraan (M)"
+  },
+  {
+    "id": "1237",
+    "basay": "kzaw",
+    "category": "06",
+    "zh": [
+      "挑"
+    ],
+    "en": [
+      "carry on shoulder"
+    ],
+    "source": "T",
+    "original": "kazawan. klaw, kmalau (M), kzaw"
+  }
+]

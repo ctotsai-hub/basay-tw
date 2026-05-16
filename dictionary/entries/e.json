@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0120",
+    "basay": "ese | moese",
+    "category": "06",
+    "zh": [
+      "尿"
+    ],
+    "ja": [
+      "小便"
+    ],
+    "en": [
+      "urine"
+    ],
+    "source": "B",
+    "original": "ese, moese"
+  },
+  {
+    "id": "1164",
+    "basay": "etsozo",
+    "category": "25",
+    "zh": [
+      "推"
+    ],
+    "en": [
+      "push"
+    ],
+    "source": "M",
+    "original": "etsozo (M)"
+  }
+]

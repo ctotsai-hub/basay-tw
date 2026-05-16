@@ -1,0 +1,793 @@
+[
+  {
+    "id": "1118",
+    "basay": "-aku",
+    "category": "02",
+    "zh": [
+      "我的"
+    ],
+    "en": [
+      "my (GEN)"
+    ],
+    "source": "T",
+    "original": "-aku"
+  },
+  {
+    "id": "1150",
+    "basay": "-ay",
+    "category": "34",
+    "zh": [
+      "未來"
+    ],
+    "en": [
+      "future"
+    ],
+    "source": "T",
+    "original": "-ay"
+  },
+  {
+    "id": "1116",
+    "basay": "a",
+    "category": "36",
+    "zh": [
+      "繫詞"
+    ],
+    "en": [
+      "ligature"
+    ],
+    "source": "T",
+    "original": "a"
+  },
+  {
+    "id": "0001",
+    "basay": "abal'",
+    "category": "29",
+    "zh": [
+      "沉默的",
+      "啞的"
+    ],
+    "ja": [
+      "唖"
+    ],
+    "en": [
+      "mute. dumb"
+    ],
+    "source": "B",
+    "original": "abal'"
+  },
+  {
+    "id": "0002",
+    "basay": "abal'",
+    "category": "28",
+    "zh": [
+      "口吃"
+    ],
+    "ja": [
+      "吃ル"
+    ],
+    "en": [
+      "stutter (to)"
+    ],
+    "source": "B",
+    "original": "abal'"
+  },
+  {
+    "id": "0003",
+    "basay": "abu",
+    "category": "11",
+    "zh": [
+      "灰"
+    ],
+    "ja": [
+      "灰"
+    ],
+    "en": [
+      "ash"
+    ],
+    "source": "B",
+    "original": "abu"
+  },
+  {
+    "id": "1117",
+    "basay": "aikaku",
+    "category": "29",
+    "zh": [
+      "悲傷"
+    ],
+    "en": [
+      "sad"
+    ],
+    "source": "T",
+    "original": "aikaku"
+  },
+  {
+    "id": "0004",
+    "basay": "aila",
+    "category": "02",
+    "zh": [
+      "這裡"
+    ],
+    "ja": [
+      "此処(私自身) ノ意あり"
+    ],
+    "en": [
+      "here"
+    ],
+    "source": "B",
+    "original": "aila"
+  },
+  {
+    "id": "0005",
+    "basay": "ainu",
+    "category": "03",
+    "zh": [
+      "去哪裡"
+    ],
+    "ja": [
+      "何処へ"
+    ],
+    "en": [
+      "where to"
+    ],
+    "source": "B",
+    "original": "ainu"
+  },
+  {
+    "id": "1119",
+    "basay": "akuan!",
+    "category": "35",
+    "zh": [
+      "不可以!"
+    ],
+    "en": [
+      "Don't !"
+    ],
+    "source": "T",
+    "original": "akuan!"
+  },
+  {
+    "id": "1120",
+    "basay": "al",
+    "category": "28",
+    "zh": [
+      "看"
+    ],
+    "en": [
+      "see"
+    ],
+    "source": "T",
+    "original": "al"
+  },
+  {
+    "id": "1123",
+    "basay": "alaiqani",
+    "category": "25",
+    "zh": [
+      "搬"
+    ],
+    "en": [
+      "move"
+    ],
+    "source": "S",
+    "original": "alaiqani (S)"
+  },
+  {
+    "id": "1121",
+    "basay": "alan | al'a | al'an",
+    "category": "25",
+    "zh": [
+      "捉,抓,拿"
+    ],
+    "en": [
+      "catch, take"
+    ],
+    "source": "T",
+    "original": "alan, aɭa, aɭan"
+  },
+  {
+    "id": "1122",
+    "basay": "alasa",
+    "category": "25",
+    "zh": [
+      "漂浮"
+    ],
+    "en": [
+      "drift"
+    ],
+    "source": "T",
+    "original": "alasa"
+  },
+  {
+    "id": "0006",
+    "basay": "alase sumai",
+    "category": "27",
+    "zh": [
+      "午餐"
+    ],
+    "ja": [
+      "弁当 < 運ブ飯"
+    ],
+    "en": [
+      "luncheon"
+    ],
+    "source": "B",
+    "original": "alase sumai"
+  },
+  {
+    "id": "0007",
+    "basay": "alase | alase namal'",
+    "category": "25",
+    "zh": [
+      "點火"
+    ],
+    "ja": [
+      "トモス,<火ヲトモス>"
+    ],
+    "en": [
+      "fire (to set)"
+    ],
+    "source": "B",
+    "original": "alase, <alase namal'>"
+  },
+  {
+    "id": "0008",
+    "basay": "amis",
+    "category": "14",
+    "zh": [
+      "北",
+      "西方"
+    ],
+    "ja": [
+      "北",
+      "西"
+    ],
+    "en": [
+      "north. west"
+    ],
+    "source": "B",
+    "original": "amis"
+  },
+  {
+    "id": "1124",
+    "basay": "amo'no'n",
+    "category": "14",
+    "zh": [
+      "醒來"
+    ],
+    "en": [
+      "wake up"
+    ],
+    "source": "S",
+    "original": "amənən (S)"
+  },
+  {
+    "id": "1131",
+    "basay": "an'al'i",
+    "category": "32",
+    "zh": [
+      "富裕的,有錢的"
+    ],
+    "en": [
+      "wealthy, rich"
+    ],
+    "source": "T",
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+  },
+  {
+    "id": "1132",
+    "basay": "an'ale",
+    "category": "32",
+    "zh": [
+      "富裕的,有錢的"
+    ],
+    "en": [
+      "wealthy, rich"
+    ],
+    "source": "S",
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+  },
+  {
+    "id": "1133",
+    "basay": "an'ari",
+    "category": "32",
+    "zh": [
+      "富裕的,有錢的"
+    ],
+    "en": [
+      "wealthy, rich"
+    ],
+    "source": "T",
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+  },
+  {
+    "id": "1125",
+    "basay": "anail'an",
+    "category": "25",
+    "zh": [
+      "做羽毛"
+    ],
+    "en": [
+      "make feather"
+    ],
+    "source": "T",
+    "original": "anaiɭan"
+  },
+  {
+    "id": "1126",
+    "basay": "anen'an",
+    "category": "28",
+    "zh": [
+      "瘧疾"
+    ],
+    "en": [
+      "malaria"
+    ],
+    "source": "M",
+    "original": "aneŋan (M)"
+  },
+  {
+    "id": "1129",
+    "basay": "ani",
+    "category": "13",
+    "zh": [
+      "然後"
+    ],
+    "en": [
+      "then"
+    ],
+    "source": "S",
+    "original": "ani (S), anu"
+  },
+  {
+    "id": "0009",
+    "basay": "ano'm",
+    "category": "06",
+    "zh": [
+      "心"
+    ],
+    "ja": [
+      "心"
+    ],
+    "en": [
+      "heart"
+    ],
+    "source": "B",
+    "original": "anəm"
+  },
+  {
+    "id": "0010",
+    "basay": "ano'm",
+    "category": "01",
+    "zh": [
+      "六"
+    ],
+    "ja": [
+      "6"
+    ],
+    "en": [
+      "six"
+    ],
+    "source": "B",
+    "original": "anəm"
+  },
+  {
+    "id": "0011",
+    "basay": "ano'm",
+    "category": "06",
+    "zh": [
+      "肝"
+    ],
+    "ja": [
+      "肝臓"
+    ],
+    "en": [
+      "liver"
+    ],
+    "source": "B",
+    "original": "anəm"
+  },
+  {
+    "id": "1127",
+    "basay": "ano'm",
+    "category": "06",
+    "zh": [
+      "心臟"
+    ],
+    "en": [
+      "heart"
+    ],
+    "source": "M",
+    "original": "anəm (M)"
+  },
+  {
+    "id": "0012",
+    "basay": "ano'm a tolal'",
+    "category": "06",
+    "zh": [
+      "肋骨"
+    ],
+    "ja": [
+      "肋骨"
+    ],
+    "en": [
+      "rib"
+    ],
+    "source": "B",
+    "original": "anəm a tolal'"
+  },
+  {
+    "id": "0013",
+    "basay": "ano'm lebosan",
+    "category": "29",
+    "zh": [
+      "擔心"
+    ],
+    "ja": [
+      "心配"
+    ],
+    "en": [
+      "worry"
+    ],
+    "source": "B",
+    "original": "anəm lebosan"
+  },
+  {
+    "id": "1130",
+    "basay": "anu",
+    "category": "13",
+    "zh": [
+      "然後"
+    ],
+    "en": [
+      "then"
+    ],
+    "source": "T",
+    "original": "ani (S), anu"
+  },
+  {
+    "id": "1135",
+    "basay": "apakuzan",
+    "category": "25",
+    "zh": [
+      "做翅膀"
+    ],
+    "en": [
+      "make wings"
+    ],
+    "source": "T",
+    "original": "apakuzan"
+  },
+  {
+    "id": "1136",
+    "basay": "apanmu",
+    "category": "34",
+    "zh": [
+      "幫忙"
+    ],
+    "en": [
+      "help"
+    ],
+    "source": "T",
+    "original": "apanmu"
+  },
+  {
+    "id": "0014",
+    "basay": "apel'",
+    "category": "09",
+    "zh": [
+      "筷子"
+    ],
+    "ja": [
+      "箸"
+    ],
+    "en": [
+      "chopstick"
+    ],
+    "source": "B",
+    "original": "apel'"
+  },
+  {
+    "id": "1137",
+    "basay": "apet",
+    "category": "09",
+    "zh": [
+      "筷子"
+    ],
+    "en": [
+      "chopsticks"
+    ],
+    "source": "M",
+    "original": "apet (M)"
+  },
+  {
+    "id": "1128",
+    "basay": "apo'n | apun",
+    "category": "07",
+    "zh": [
+      "鹿"
+    ],
+    "en": [
+      "deer"
+    ],
+    "source": "T",
+    "original": "apən, apun"
+  },
+  {
+    "id": "1138",
+    "basay": "asi",
+    "category": "35",
+    "zh": [
+      "不要"
+    ],
+    "en": [
+      "don't"
+    ],
+    "source": "T",
+    "original": "asi"
+  },
+  {
+    "id": "1139",
+    "basay": "asmayan",
+    "category": "08",
+    "zh": [
+      "做飯糰"
+    ],
+    "en": [
+      "make rice balls"
+    ],
+    "source": "T",
+    "original": "asmayan"
+  },
+  {
+    "id": "0015",
+    "basay": "atsa baute",
+    "category": "15",
+    "zh": [
+      "釣魚"
+    ],
+    "ja": [
+      "ツル"
+    ],
+    "en": [
+      "fish (to) with rod"
+    ],
+    "source": "B",
+    "original": "atsa baute"
+  },
+  {
+    "id": "0016",
+    "basay": "atsap",
+    "category": "25",
+    "zh": [
+      "拿來"
+    ],
+    "ja": [
+      "連レテ来ル"
+    ],
+    "en": [
+      "fetch (to)"
+    ],
+    "source": "B",
+    "original": "atsap"
+  },
+  {
+    "id": "0017",
+    "basay": "atsou",
+    "category": "02",
+    "zh": [
+      "這"
+    ],
+    "ja": [
+      "此"
+    ],
+    "en": [
+      "this"
+    ],
+    "source": "B",
+    "original": "atsou"
+  },
+  {
+    "id": "1140",
+    "basay": "atuvanan",
+    "category": "07",
+    "zh": [
+      "獻祭(豬)"
+    ],
+    "en": [
+      "sacrifice(pig)"
+    ],
+    "source": "M",
+    "original": "atuvanan (M)"
+  },
+  {
+    "id": "1141",
+    "basay": "au",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "en": [
+      "come"
+    ],
+    "source": "S",
+    "original": "au (S)"
+  },
+  {
+    "id": "0018",
+    "basay": "aui",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "ja": [
+      "行く"
+    ],
+    "en": [
+      "go (to)"
+    ],
+    "source": "B",
+    "original": "aui"
+  },
+  {
+    "id": "0019",
+    "basay": "aui na",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "ja": [
+      "行ク"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "B",
+    "original": "aui na"
+  },
+  {
+    "id": "1142",
+    "basay": "auit na",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "M",
+    "original": "auit na (M)"
+  },
+  {
+    "id": "1143",
+    "basay": "aukal'ina",
+    "category": "34",
+    "zh": [
+      "趕快"
+    ],
+    "en": [
+      "hurry"
+    ],
+    "source": "T",
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+  },
+  {
+    "id": "1144",
+    "basay": "aukal'inal'ina",
+    "category": "34",
+    "zh": [
+      "趕快"
+    ],
+    "en": [
+      "hurry"
+    ],
+    "source": "T",
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+  },
+  {
+    "id": "1145",
+    "basay": "aukanina",
+    "category": "34",
+    "zh": [
+      "趕快"
+    ],
+    "en": [
+      "hurry"
+    ],
+    "source": "S",
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+  },
+  {
+    "id": "0020",
+    "basay": "aukmua",
+    "category": "03",
+    "zh": [
+      "為什麼"
+    ],
+    "ja": [
+      "何故二"
+    ],
+    "en": [
+      "why"
+    ],
+    "source": "B",
+    "original": "aukmua"
+  },
+  {
+    "id": "1146",
+    "basay": "auni",
+    "category": "25",
+    "zh": [
+      "離開"
+    ],
+    "en": [
+      "depart, leave"
+    ],
+    "source": "T",
+    "original": "auni"
+  },
+  {
+    "id": "1147",
+    "basay": "avlas",
+    "category": "08",
+    "zh": [
+      "搗米"
+    ],
+    "en": [
+      "pound rice"
+    ],
+    "source": "T",
+    "original": "avlas"
+  },
+  {
+    "id": "1148",
+    "basay": "avu",
+    "category": "11",
+    "zh": [
+      "灰"
+    ],
+    "en": [
+      "ash"
+    ],
+    "source": "M",
+    "original": "avu (M)"
+  },
+  {
+    "id": "1149",
+    "basay": "awi",
+    "category": "25",
+    "zh": [
+      "去"
+    ],
+    "en": [
+      "go"
+    ],
+    "source": "T",
+    "original": "awi"
+  },
+  {
+    "id": "1151",
+    "basay": "ayam",
+    "category": "08",
+    "zh": [
+      "耕種"
+    ],
+    "en": [
+      "cultivate"
+    ],
+    "source": "T",
+    "original": "ayam"
+  },
+  {
+    "id": "1152",
+    "basay": "azasan | mazas",
+    "category": "25",
+    "zh": [
+      "帶"
+    ],
+    "en": [
+      "bring"
+    ],
+    "source": "T",
+    "original": "azasan, mazas"
+  }
+]

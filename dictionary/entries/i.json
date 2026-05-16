@@ -1,0 +1,409 @@
+[
+  {
+    "id": "1166",
+    "basay": "-ia",
+    "category": "02",
+    "zh": [
+      "他的，她的，他們的"
+    ],
+    "en": [
+      "his, her, their (GEN)"
+    ],
+    "source": "T",
+    "original": "-ia"
+  },
+  {
+    "id": "1169",
+    "basay": "-imu",
+    "category": "02",
+    "zh": [
+      "你們的"
+    ],
+    "en": [
+      "your (GEN)"
+    ],
+    "source": "T",
+    "original": "-imu"
+  },
+  {
+    "id": "1177",
+    "basay": "-isu",
+    "category": "02",
+    "zh": [
+      "你的"
+    ],
+    "en": [
+      "your (SG, GEN)"
+    ],
+    "source": "T",
+    "original": "-isu"
+  },
+  {
+    "id": "1180",
+    "basay": "-ita",
+    "category": "02",
+    "zh": [
+      "咱們的"
+    ],
+    "en": [
+      "our (GÊN)"
+    ],
+    "source": "T",
+    "original": "-ita"
+  },
+  {
+    "id": "1329",
+    "basay": "Ian",
+    "category": "11",
+    "zh": [
+      "天堂"
+    ],
+    "en": [
+      "heaven"
+    ],
+    "source": "S",
+    "original": "Ian (S)"
+  },
+  {
+    "id": "0334",
+    "basay": "Iapon'pon'",
+    "category": "11",
+    "zh": [
+      "溢出"
+    ],
+    "ja": [
+      "アフレル (水)",
+      "水ノヂャプチャブ云ウ音"
+    ],
+    "en": [
+      "spill over"
+    ],
+    "source": "B",
+    "original": "Iapoŋpoŋ"
+  },
+  {
+    "id": "1187",
+    "basay": "iasin'as",
+    "category": "12",
+    "zh": [
+      "出門"
+    ],
+    "en": [
+      "go out"
+    ],
+    "source": "M",
+    "original": "iasiŋas (M)"
+  },
+  {
+    "id": "1344",
+    "basay": "Iavi | leania",
+    "category": "13",
+    "zh": [
+      "晚上"
+    ],
+    "en": [
+      "night"
+    ],
+    "source": "T",
+    "original": "Iavi, leania"
+  },
+  {
+    "id": "1351",
+    "basay": "Iesaw",
+    "category": "08",
+    "zh": [
+      "樹，木柴",
+      "木棍"
+    ],
+    "en": [
+      "tree, wood, stick"
+    ],
+    "source": "T",
+    "original": "Iesaw"
+  },
+  {
+    "id": "1168",
+    "basay": "il'apus",
+    "category": "25",
+    "zh": [
+      "丟掉"
+    ],
+    "en": [
+      "discard"
+    ],
+    "source": "T",
+    "original": "iɭapus"
+  },
+  {
+    "id": "1167",
+    "basay": "ilaqo'zan",
+    "category": "06",
+    "zh": [
+      "脖子"
+    ],
+    "en": [
+      "neck"
+    ],
+    "source": "T",
+    "original": "ilaqəzan"
+  },
+  {
+    "id": "1170",
+    "basay": "imuanan",
+    "category": "02",
+    "zh": [
+      "你們(斜格)"
+    ],
+    "en": [
+      "you (OBL)"
+    ],
+    "source": "T",
+    "original": "imuanan"
+  },
+  {
+    "id": "1171",
+    "basay": "inu | inuna",
+    "category": "03",
+    "zh": [
+      "何處"
+    ],
+    "en": [
+      "where"
+    ],
+    "source": "T",
+    "original": "inu, inuna"
+  },
+  {
+    "id": "1172",
+    "basay": "ipzi",
+    "category": "14",
+    "zh": [
+      "忍耐，忍受"
+    ],
+    "en": [
+      "endure, put up with"
+    ],
+    "source": "M",
+    "original": "ipzi (M), sul"
+  },
+  {
+    "id": "1174",
+    "basay": "isavutan",
+    "category": "34",
+    "zh": [
+      "腰部"
+    ],
+    "en": [
+      "waist"
+    ],
+    "source": "T",
+    "original": "isavutan"
+  },
+  {
+    "id": "1175",
+    "basay": "ise",
+    "category": "27",
+    "zh": [
+      "甜酒"
+    ],
+    "en": [
+      "sweet wine"
+    ],
+    "source": "S",
+    "original": "ise (S)"
+  },
+  {
+    "id": "1176",
+    "basay": "isin'",
+    "category": "05",
+    "zh": [
+      "醫生 ."
+    ],
+    "en": [
+      "doctor"
+    ],
+    "source": "V",
+    "original": "isiŋ (< Taiwanese)"
+  },
+  {
+    "id": "0202",
+    "basay": "isu",
+    "category": "02",
+    "zh": [
+      "你的"
+    ],
+    "ja": [
+      "おまえの】"
+    ],
+    "en": [
+      "your"
+    ],
+    "source": "B",
+    "original": "isu"
+  },
+  {
+    "id": "0203",
+    "basay": "isu",
+    "category": "02",
+    "zh": [
+      "你"
+    ],
+    "ja": [
+      "おまえ"
+    ],
+    "en": [
+      "you"
+    ],
+    "source": "B",
+    "original": "isu"
+  },
+  {
+    "id": "0204",
+    "basay": "isu | isu kuman u lan'",
+    "category": "09",
+    "zh": [
+      "藥物"
+    ],
+    "ja": [
+      "薬"
+    ],
+    "en": [
+      "medicine"
+    ],
+    "source": "B",
+    "original": "isu, <isu kuman u laŋ>"
+  },
+  {
+    "id": "1178",
+    "basay": "isuanan",
+    "category": "02",
+    "zh": [
+      "你（斜格）"
+    ],
+    "en": [
+      "you (SG, OBL)"
+    ],
+    "source": "T",
+    "original": "isuanan"
+  },
+  {
+    "id": "1179",
+    "basay": "ita",
+    "category": "34",
+    "zh": [
+      "在"
+    ],
+    "en": [
+      "stay"
+    ],
+    "source": "T",
+    "original": "ita"
+  },
+  {
+    "id": "1181",
+    "basay": "ituman | tuman",
+    "category": "14",
+    "zh": [
+      "下面"
+    ],
+    "en": [
+      "below, down"
+    ],
+    "source": "T",
+    "original": "ituman, tuman"
+  },
+  {
+    "id": "0205",
+    "basay": "iu",
+    "category": "02",
+    "zh": [
+      "我"
+    ],
+    "ja": [
+      "私"
+    ],
+    "en": [
+      "I"
+    ],
+    "source": "B",
+    "original": "iu"
+  },
+  {
+    "id": "1182",
+    "basay": "iu",
+    "category": "09",
+    "zh": [
+      "藥"
+    ],
+    "en": [
+      "medicine, drug"
+    ],
+    "source": "V",
+    "original": "iu (< Taiwanese)"
+  },
+  {
+    "id": "1183",
+    "basay": "ivavan'",
+    "category": "14",
+    "zh": [
+      "上面"
+    ],
+    "en": [
+      "above"
+    ],
+    "source": "T",
+    "original": "ivavaŋ"
+  },
+  {
+    "id": "1361",
+    "basay": "Ivilvisan",
+    "category": "34",
+    "zh": [
+      "拉"
+    ],
+    "en": [
+      "drag"
+    ],
+    "source": "T",
+    "original": "Ivilvisan"
+  },
+  {
+    "id": "1184",
+    "basay": "izaay",
+    "category": "02",
+    "zh": [
+      "到這裡"
+    ],
+    "en": [
+      "get here ."
+    ],
+    "source": "T",
+    "original": "izaay"
+  },
+  {
+    "id": "1185",
+    "basay": "izawitian",
+    "category": "34",
+    "zh": [
+      "掛"
+    ],
+    "en": [
+      "hang"
+    ],
+    "source": "T",
+    "original": "izawitian"
+  },
+  {
+    "id": "1186",
+    "basay": "izip",
+    "category": "06",
+    "zh": [
+      "身體"
+    ],
+    "en": [
+      "body"
+    ],
+    "source": "T",
+    "original": "izip"
+  }
+]

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>辭典檢索 — basay.tw</title>
-<meta name="description" content="巴賽語辭典檢索，支援 Basay 羅馬字、中文、日文、英文互查。">
+<meta name="description" content="巴賽語辭典檢索，支援 Basay 羅馬字、中文、日文、英文互查，附音檔。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
@@ -34,44 +34,55 @@
 
 <main class="container">
 
-  <h1>辭典檢索 Dictionary</h1>
+  <h1>辭典檢索 Dictionary<span class="badge-wip">（構築中）</span></h1>
   <p class="section-intro">
     支援以 <strong>巴賽語（羅馬字）、繁體中文、日文、英文</strong> 四種語言互查。
-    本頁為快速檢索介面；<strong>完整詞條庫</strong>維護於 Notion，編輯即時同步。
+    每筆詞條附 <strong>巴賽語</strong> 與 <strong>台語</strong> 發音（合成語音，
+    參見 <a href="https://inkuei-basaytts.hf.space/">語音合成頁</a>）。
   </p>
 
-  <aside class="notion-cta">
-    <div class="notion-text">
-      <strong>📖 完整辭典（Notion 版）</strong>
-      <p>
-        全部詞條的主資料庫，支援更豐富的篩選（詞類、來源、例句等）。編輯者可直接在 Notion 新增 / 修訂詞條。
-      </p>
-    </div>
-    <a class="notion-btn"
-       href="https://basay.notion.site/234ef706551c8041af41fe6986178006?v=234ef706551c81739e90000ca14eabbd"
-       target="_blank" rel="noopener">前往 Notion 辭典</a>
-  </aside>
+  <form id="dict-form" class="dict-search" role="search" autocomplete="off">
+    <input type="search" id="dict-query"
+           placeholder="輸入關鍵字，例：ranum、水、みず、water"
+           aria-label="檢索關鍵字">
+    <select id="dict-lang" aria-label="搜尋語言">
+      <option value="any">全部欄位</option>
+      <option value="basay">Basay 羅馬字</option>
+      <option value="zh">繁體中文</option>
+      <option value="ja">日文</option>
+      <option value="en">英文</option>
+    </select>
+    <select id="dict-category" aria-label="篩選類別">
+      <option value="">所有類別</option>
+    </select>
+    <button type="submit">搜尋</button>
+  </form>
 
+  <div id="dict-status" class="dict-status" aria-live="polite"></div>
+  <div id="dict-results" class="dict-results">
+    <p class="dict-empty">（載入辭典中……）</p>
+  </div>
 
+  <hr>
 
-
+  <h2>使用說明</h2>
+  <ul>
+    <li>搜尋為 <strong>部分字串比對</strong>（不分大小寫）。</li>
+    <li>選擇「全部欄位」會同時搜尋四個語言欄位。</li>
+    <li>類別篩選可與關鍵字搜尋疊加（例如：只在「06身體部位」中搜尋「mata」）。</li>
+    <li>▶️ 圖示為合成語音播放。<strong>ipay</strong> 為巴賽語發音、<strong>hok</strong>
+        為以台語語音模型唸出同一拼寫的對照音。</li>
+    <li>同一拼寫但意義不同的詞條（同形異義）會列出多筆。</li>
+    <li>標示出處：B=Basay、T=Trobiawan、M=Trobiawan-m、S=Trobiawan-s、V=台語。</li>
+  </ul>
 
   <h2>資料來源與貢獻</h2>
   <p>
-    初期詞條主要整理自 Ogawa、Ferrell、李壬癸等先行研究，以及西班牙道明會留下的宗教翻譯材料。
-    <strong>詞條主資料庫維護於 Notion</strong><!--，研究者與編輯可直接在 Notion 上新增、審訂、標註來源；
-    <code>data/dictionary.json</code> 則為定期從 Notion 同步出來的快取，供本頁離線檢索使用。-->
+    詞條主要整理自 Ogawa、Ferrell、李壬癸等先行研究，以及西班牙道明會留下的宗教翻譯材料。
+    本辭典資料庫已從 Notion 遷移至 GitHub 管理；歡迎透過
+    <a href="https://github.com/" target="_blank" rel="noopener">GitHub issue</a>
+    或 PR 提出新增 / 勘誤。
   </p>
-
-  <aside class="notion-cta">
-    <div class="notion-text">
-      <strong>✍️ 想貢獻詞條？</strong>
-      <p>歡迎在 Notion 辭典中新增條目；或透過 GitHub issue 提出勘誤。</p>
-    </div>
-    <a class="notion-btn"
-       href="https://basay.notion.site/234ef706551c8041af41fe6986178006?v=234ef706551c81739e90000ca14eabbd"
-       target="_blank" rel="noopener">開啟 Notion 辭典</a>
-  </aside>
 
 </main>
 

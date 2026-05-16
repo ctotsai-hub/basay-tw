@@ -1,0 +1,1738 @@
+[
+  {
+    "id": "0021",
+    "basay": "baba",
+    "category": "25",
+    "zh": [
+      "背負"
+    ],
+    "ja": [
+      "背負フ"
+    ],
+    "en": [
+      "carry on one's back"
+    ],
+    "source": "B",
+    "original": "baba"
+  },
+  {
+    "id": "0022",
+    "basay": "baban'",
+    "category": "14",
+    "zh": [
+      "上, 新社"
+    ],
+    "ja": [
+      "上, 新社"
+    ],
+    "en": [
+      "name of a village. Sinsha"
+    ],
+    "source": "B",
+    "original": "babaŋ"
+  },
+  {
+    "id": "0023",
+    "basay": "baban'",
+    "category": "10",
+    "zh": [
+      "上游"
+    ],
+    "ja": [
+      "川上"
+    ],
+    "en": [
+      "upstream"
+    ],
+    "source": "B",
+    "original": "babaŋ"
+  },
+  {
+    "id": "0024",
+    "basay": "babasa",
+    "category": "29",
+    "zh": [
+      "浪費的"
+    ],
+    "ja": [
+      "勿体ない"
+    ],
+    "en": [
+      "wasteful"
+    ],
+    "source": "B",
+    "original": "babasa"
+  },
+  {
+    "id": "0025",
+    "basay": "babui",
+    "category": "07",
+    "zh": [
+      "豬"
+    ],
+    "ja": [
+      "豚"
+    ],
+    "en": [
+      "pig"
+    ],
+    "source": "B",
+    "original": "babui"
+  },
+  {
+    "id": "0026",
+    "basay": "bahal'",
+    "category": "09",
+    "zh": [
+      "籃子"
+    ],
+    "ja": [
+      "籠"
+    ],
+    "en": [
+      "basket"
+    ],
+    "source": "B",
+    "original": "bahal'"
+  },
+  {
+    "id": "0027",
+    "basay": "bai",
+    "category": "04",
+    "zh": [
+      "祖母"
+    ],
+    "ja": [
+      "祖母"
+    ],
+    "en": [
+      "grand-mother"
+    ],
+    "source": "B",
+    "original": "bai"
+  },
+  {
+    "id": "0028",
+    "basay": "baitili | bai tili",
+    "category": "11",
+    "zh": [
+      "月中陰影"
+    ],
+    "ja": [
+      "月ノ中ニ見ユル影"
+    ],
+    "en": [
+      "shadow in the moon"
+    ],
+    "source": "B",
+    "original": "baitili, (bai tili)"
+  },
+  {
+    "id": "0033",
+    "basay": "baki",
+    "category": "04",
+    "zh": [
+      "祖父"
+    ],
+    "ja": [
+      "祖父"
+    ],
+    "en": [
+      "grand-father"
+    ],
+    "source": "B",
+    "original": "baki"
+  },
+  {
+    "id": "0034",
+    "basay": "baki",
+    "category": "07",
+    "zh": [
+      "鯊魚",
+      "鯨魚"
+    ],
+    "ja": [
+      "フカ, 鯨"
+    ],
+    "en": [
+      "shark, whale"
+    ],
+    "source": "B",
+    "original": "baki"
+  },
+  {
+    "id": "0035",
+    "basay": "baki",
+    "category": "04",
+    "zh": [
+      "祖先"
+    ],
+    "ja": [
+      "先祖"
+    ],
+    "en": [
+      "ancestor"
+    ],
+    "source": "B",
+    "original": "baki"
+  },
+  {
+    "id": "1153",
+    "basay": "bako'ts",
+    "category": "32",
+    "zh": [
+      "強壯的"
+    ],
+    "en": [
+      "strong，tough"
+    ],
+    "source": "M",
+    "original": "bakəts (M)"
+  },
+  {
+    "id": "0029",
+    "basay": "bako'tse",
+    "category": "32",
+    "zh": [
+      "強的"
+    ],
+    "ja": [
+      "強イ"
+    ],
+    "en": [
+      "strong"
+    ],
+    "source": "B",
+    "original": "bakətse"
+  },
+  {
+    "id": "0030",
+    "basay": "bako'tse",
+    "category": "32",
+    "zh": [
+      "硬",
+      "強",
+      "堅韌"
+    ],
+    "ja": [
+      "硬い",
+      "丈夫"
+    ],
+    "en": [
+      "hard, strong, tough"
+    ],
+    "source": "B",
+    "original": "bakətse"
+  },
+  {
+    "id": "0031",
+    "basay": "bako'tse",
+    "category": "32",
+    "zh": [
+      "強的"
+    ],
+    "ja": [
+      "強い",
+      "濃厚なる"
+    ],
+    "en": [
+      "strong"
+    ],
+    "source": "B",
+    "original": "bakətse"
+  },
+  {
+    "id": "0032",
+    "basay": "bako'tse",
+    "category": "32",
+    "zh": [
+      "厚",
+      "強"
+    ],
+    "ja": [
+      "濃厚ナル<強キ"
+    ],
+    "en": [
+      "thick, strong"
+    ],
+    "source": "B",
+    "original": "bakətse"
+  },
+  {
+    "id": "0036",
+    "basay": "bal'-mo'n'",
+    "category": "25",
+    "zh": [
+      "藏身"
+    ],
+    "ja": [
+      "カクレル"
+    ],
+    "en": [
+      "hide oneself"
+    ],
+    "source": "B",
+    "original": "bal'-məŋ"
+  },
+  {
+    "id": "0038",
+    "basay": "balai | valai suwan",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "ja": [
+      "与フ, 〈汝ニ与フ>"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "B",
+    "original": "balai <valai suwan>"
+  },
+  {
+    "id": "0037",
+    "basay": "balaisan",
+    "category": "08",
+    "zh": [
+      "粟的一種"
+    ],
+    "ja": [
+      "栗ノ一種"
+    ],
+    "en": [
+      "fox-tail millet (a kind)"
+    ],
+    "source": "B",
+    "original": "balaisan"
+  },
+  {
+    "id": "0039",
+    "basay": "balajen",
+    "category": "09",
+    "zh": [
+      "平底鍋"
+    ],
+    "ja": [
+      "鍋"
+    ],
+    "en": [
+      "pan"
+    ],
+    "source": "B",
+    "original": "balajen"
+  },
+  {
+    "id": "0040",
+    "basay": "balaki-bai",
+    "category": "05",
+    "zh": [
+      "老婦人"
+    ],
+    "ja": [
+      "老女"
+    ],
+    "en": [
+      "old woman"
+    ],
+    "source": "B",
+    "original": "balaki-bai"
+  },
+  {
+    "id": "0041",
+    "basay": "balakibai",
+    "category": "28",
+    "zh": [
+      "變老"
+    ],
+    "ja": [
+      "年ヲ取レル"
+    ],
+    "en": [
+      "old (to get)"
+    ],
+    "source": "B",
+    "original": "balakibai"
+  },
+  {
+    "id": "0042",
+    "basay": "balakibaki",
+    "category": "05",
+    "zh": [
+      "老人"
+    ],
+    "ja": [
+      "老人"
+    ],
+    "en": [
+      "old man"
+    ],
+    "source": "B",
+    "original": "balakibaki"
+  },
+  {
+    "id": "0043",
+    "basay": "balatai",
+    "category": "12",
+    "zh": [
+      "門",
+      "關閉"
+    ],
+    "ja": [
+      "戸, 閉じる"
+    ],
+    "en": [
+      "door, to shut"
+    ],
+    "source": "B",
+    "original": "balatai"
+  },
+  {
+    "id": "0044",
+    "basay": "balate",
+    "category": "12",
+    "zh": [
+      "門"
+    ],
+    "ja": [
+      "戸"
+    ],
+    "en": [
+      "door"
+    ],
+    "source": "B",
+    "original": "balate"
+  },
+  {
+    "id": "0045",
+    "basay": "balate",
+    "category": "12",
+    "zh": [
+      "窗",
+      "門"
+    ],
+    "ja": [
+      "窓",
+      "戸"
+    ],
+    "en": [
+      "window, door"
+    ],
+    "source": "B",
+    "original": "balate"
+  },
+  {
+    "id": "0046",
+    "basay": "balattse",
+    "category": "08",
+    "zh": [
+      "米"
+    ],
+    "ja": [
+      "米",
+      "アミ (vurats)"
+    ],
+    "en": [
+      "rice. <beras>"
+    ],
+    "source": "B",
+    "original": "balattse"
+  },
+  {
+    "id": "0047",
+    "basay": "ballai | valaí | valai isu",
+    "category": "25",
+    "zh": [
+      "給",
+      "歸還"
+    ],
+    "ja": [
+      "与フ 〈オマエニ返ス> アミ.(pa-vuri)"
+    ],
+    "en": [
+      "give. return"
+    ],
+    "source": "B",
+    "original": "ballai, valaí, <valai isu>"
+  },
+  {
+    "id": "0048",
+    "basay": "balmo'n'",
+    "category": "29",
+    "zh": [
+      "做夢"
+    ],
+    "ja": [
+      "夢"
+    ],
+    "en": [
+      "dreaming"
+    ],
+    "source": "B",
+    "original": "balməŋ"
+  },
+  {
+    "id": "0049",
+    "basay": "balon'",
+    "category": "28",
+    "zh": [
+      "長壽"
+    ],
+    "ja": [
+      "長命ナル"
+    ],
+    "en": [
+      "long-live"
+    ],
+    "source": "B",
+    "original": "baloŋ"
+  },
+  {
+    "id": "0050",
+    "basay": "balon'",
+    "category": "32",
+    "zh": [
+      "長直"
+    ],
+    "ja": [
+      "長キ",
+      "真直ナル"
+    ],
+    "en": [
+      "long.straight"
+    ],
+    "source": "B",
+    "original": "baloŋ"
+  },
+  {
+    "id": "0051",
+    "basay": "balon' | ballon'",
+    "category": "32",
+    "zh": [
+      "高的"
+    ],
+    "ja": [
+      "高キ"
+    ],
+    "en": [
+      "high"
+    ],
+    "source": "B",
+    "original": "baloŋ, balloŋ(?)"
+  },
+  {
+    "id": "0055",
+    "basay": "ban'ka",
+    "category": "20",
+    "zh": [
+      "獨木舟"
+    ],
+    "ja": [
+      "独木舟"
+    ],
+    "en": [
+      "canoe"
+    ],
+    "source": "B",
+    "original": "baŋka"
+  },
+  {
+    "id": "0056",
+    "basay": "ban'sisse",
+    "category": "28",
+    "zh": [
+      "聞起來很香"
+    ],
+    "ja": [
+      "香氣アル"
+    ],
+    "en": [
+      "smell good"
+    ],
+    "source": "B",
+    "original": "baŋsisse"
+  },
+  {
+    "id": "0057",
+    "basay": "ban'sisse sete",
+    "category": "21",
+    "zh": [
+      "食用油"
+    ],
+    "ja": [
+      "アゲ油"
+    ],
+    "en": [
+      "cooking oil"
+    ],
+    "source": "B",
+    "original": "baŋsisse sete"
+  },
+  {
+    "id": "0053",
+    "basay": "banen'nen'",
+    "category": "11",
+    "zh": [
+      "霹靂"
+    ],
+    "ja": [
+      "雷鳴"
+    ],
+    "en": [
+      "thunderclap"
+    ],
+    "source": "B",
+    "original": "baneŋneŋ"
+  },
+  {
+    "id": "0054",
+    "basay": "banen'nen' baki",
+    "category": "11",
+    "zh": [
+      "雷"
+    ],
+    "ja": [
+      "雷公"
+    ],
+    "en": [
+      "thunder"
+    ],
+    "source": "B",
+    "original": "baneŋneŋ baki"
+  },
+  {
+    "id": "0052",
+    "basay": "bano'n'",
+    "category": "32",
+    "zh": [
+      "粗",
+      "胖"
+    ],
+    "ja": [
+      "太キ"
+    ],
+    "en": [
+      "thick. fat"
+    ],
+    "source": "B",
+    "original": "banəŋ"
+  },
+  {
+    "id": "0058",
+    "basay": "bantsau",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "ja": [
+      "歯"
+    ],
+    "en": [
+      "teeth"
+    ],
+    "source": "B",
+    "original": "bantsau"
+  },
+  {
+    "id": "0059",
+    "basay": "baokke",
+    "category": "07",
+    "zh": [
+      "兔子"
+    ],
+    "ja": [
+      "兎"
+    ],
+    "en": [
+      "rabbit"
+    ],
+    "source": "B",
+    "original": "baokke"
+  },
+  {
+    "id": "0060",
+    "basay": "barasse",
+    "category": "35",
+    "zh": [
+      "不"
+    ],
+    "ja": [
+      "否"
+    ],
+    "en": [
+      "no"
+    ],
+    "source": "B",
+    "original": "barasse"
+  },
+  {
+    "id": "0061",
+    "basay": "basa | masa",
+    "category": "08",
+    "zh": [
+      "印度玉米"
+    ],
+    "ja": [
+      "とうもろこし"
+    ],
+    "en": [
+      "indian corn"
+    ],
+    "source": "B",
+    "original": "basa, masa"
+  },
+  {
+    "id": "0062",
+    "basay": "basai",
+    "category": "02",
+    "zh": [
+      "巴賽（本族自稱）(也含日本人）"
+    ],
+    "ja": [
+      "パサイ (自称), (日本人モ含マル>"
+    ],
+    "en": [
+      "Basal (Name of this tribe)"
+    ],
+    "source": "B",
+    "original": "basai"
+  },
+  {
+    "id": "0063",
+    "basay": "basai na:maz'",
+    "category": "09",
+    "zh": [
+      "火柴"
+    ],
+    "ja": [
+      "マッチ"
+    ],
+    "en": [
+      "match"
+    ],
+    "source": "B",
+    "original": "basai na:maDᵒ"
+  },
+  {
+    "id": "0064",
+    "basay": "basin'",
+    "category": "23",
+    "zh": [
+      "噴嚏"
+    ],
+    "ja": [
+      "クシャミ"
+    ],
+    "en": [
+      "sneeze"
+    ],
+    "source": "B",
+    "original": "basiŋ"
+  },
+  {
+    "id": "0068",
+    "basay": "batan'",
+    "category": "15",
+    "zh": [
+      "網"
+    ],
+    "ja": [
+      "アミ"
+    ],
+    "en": [
+      "net"
+    ],
+    "source": "B",
+    "original": "bataŋ"
+  },
+  {
+    "id": "0065",
+    "basay": "bate a manukke",
+    "category": "07",
+    "zh": [
+      "蒼鷺"
+    ],
+    "ja": [
+      "鷺"
+    ],
+    "en": [
+      "heron"
+    ],
+    "source": "B",
+    "original": "bate a manukke"
+  },
+  {
+    "id": "0066",
+    "basay": "bate uatsu",
+    "category": "07",
+    "zh": [
+      "白狗"
+    ],
+    "ja": [
+      "白い犬"
+    ],
+    "en": [
+      "white dog"
+    ],
+    "source": "B",
+    "original": "bate uatsu"
+  },
+  {
+    "id": "0067",
+    "basay": "bate | batɛ",
+    "category": "22",
+    "zh": [
+      "白色的"
+    ],
+    "ja": [
+      "白】"
+    ],
+    "en": [
+      "white"
+    ],
+    "source": "B",
+    "original": "bate, batɛ"
+  },
+  {
+    "id": "1154",
+    "basay": "batis",
+    "category": "25",
+    "zh": [
+      "砍"
+    ],
+    "en": [
+      "cut"
+    ],
+    "source": "T",
+    "original": "batis"
+  },
+  {
+    "id": "0070",
+    "basay": "bats'iu",
+    "category": "25",
+    "zh": [
+      "賣"
+    ],
+    "ja": [
+      "売ル"
+    ],
+    "en": [
+      "sell (to)"
+    ],
+    "source": "B",
+    "original": "batʃiu"
+  },
+  {
+    "id": "0069",
+    "basay": "batsat'",
+    "category": "20",
+    "zh": [
+      "船"
+    ],
+    "ja": [
+      "船"
+    ],
+    "en": [
+      "ship"
+    ],
+    "source": "B",
+    "original": "batsat'"
+  },
+  {
+    "id": "1155",
+    "basay": "batu",
+    "category": "06",
+    "zh": [
+      "石頭"
+    ],
+    "en": [
+      "stone"
+    ],
+    "source": "T",
+    "original": "batu"
+  },
+  {
+    "id": "0071",
+    "basay": "bauta sits'ima",
+    "category": "07",
+    "zh": [
+      "飛魚"
+    ],
+    "ja": [
+      "飛魚"
+    ],
+    "en": [
+      "flying fish"
+    ],
+    "source": "B",
+    "original": "bauta sitʃima"
+  },
+  {
+    "id": "0072",
+    "basay": "baute",
+    "category": "07",
+    "zh": [
+      "魚"
+    ],
+    "ja": [
+      "魚"
+    ],
+    "en": [
+      "fish"
+    ],
+    "source": "B",
+    "original": "baute"
+  },
+  {
+    "id": "0073",
+    "basay": "baute | kuman (su)baute",
+    "category": "07",
+    "zh": [
+      "魚",
+      "吃魚"
+    ],
+    "ja": [
+      "魚",
+      "<魚ヲ食フ>"
+    ],
+    "en": [
+      "fish. <eat fish>"
+    ],
+    "source": "B",
+    "original": "baute, <kuman (su)baute>"
+  },
+  {
+    "id": "0074",
+    "basay": "bebete",
+    "category": "15",
+    "zh": [
+      "網魚"
+    ],
+    "ja": [
+      "釣る",
+      "アミヲ打ツ"
+    ],
+    "en": [
+      "fish with net"
+    ],
+    "source": "B",
+    "original": "bebete"
+  },
+  {
+    "id": "0075",
+    "basay": "bebete",
+    "category": "06",
+    "zh": [
+      "用手引導"
+    ],
+    "ja": [
+      "手ヲヒク"
+    ],
+    "en": [
+      "lead by the hand"
+    ],
+    "source": "B",
+    "original": "bebete"
+  },
+  {
+    "id": "0076",
+    "basay": "bela",
+    "category": "08",
+    "zh": [
+      "葉子"
+    ],
+    "ja": [
+      "葉"
+    ],
+    "en": [
+      "leaf"
+    ],
+    "source": "B",
+    "original": "bela"
+  },
+  {
+    "id": "0077",
+    "basay": "bela",
+    "category": "06",
+    "zh": [
+      "指甲"
+    ],
+    "ja": [
+      "爪"
+    ],
+    "en": [
+      "nail"
+    ],
+    "source": "B",
+    "original": "bela"
+  },
+  {
+    "id": "0078",
+    "basay": "bela",
+    "category": "09",
+    "zh": [
+      "紙"
+    ],
+    "ja": [
+      "紙"
+    ],
+    "en": [
+      "paper"
+    ],
+    "source": "B",
+    "original": "bela"
+  },
+  {
+    "id": "0079",
+    "basay": "bela. | baute a bela",
+    "category": "01",
+    "zh": [
+      "外殼",
+      "鱗片"
+    ],
+    "ja": [
+      "殻",
+      "鱗"
+    ],
+    "en": [
+      "shell, scale"
+    ],
+    "source": "B",
+    "original": "bela. <baute a bela>"
+  },
+  {
+    "id": "0080",
+    "basay": "belan'",
+    "category": "25",
+    "zh": [
+      "計算"
+    ],
+    "ja": [
+      "計算スル"
+    ],
+    "en": [
+      "calculate (to)"
+    ],
+    "source": "B",
+    "original": "belaŋ"
+  },
+  {
+    "id": "0081",
+    "basay": "beloa lalin'",
+    "category": "05",
+    "zh": [
+      "死者之國"
+    ],
+    "ja": [
+      "死人の国"
+    ],
+    "en": [
+      "dead person's country"
+    ],
+    "source": "B",
+    "original": "beloa laliŋ"
+  },
+  {
+    "id": "0082",
+    "basay": "beluwa",
+    "category": "17",
+    "zh": [
+      "靈魂"
+    ],
+    "ja": [
+      "魂"
+    ],
+    "en": [
+      "soul"
+    ],
+    "source": "B",
+    "original": "beluwa"
+  },
+  {
+    "id": "0083",
+    "basay": "bera",
+    "category": "11",
+    "zh": [
+      "灰"
+    ],
+    "ja": [
+      "灰"
+    ],
+    "en": [
+      "ash"
+    ],
+    "source": "B",
+    "original": "bera"
+  },
+  {
+    "id": "0084",
+    "basay": "betetse",
+    "category": "06",
+    "zh": [
+      "唯一"
+    ],
+    "ja": [
+      "甲裏"
+    ],
+    "en": [
+      "sole"
+    ],
+    "source": "B",
+    "original": "betetse"
+  },
+  {
+    "id": "0085",
+    "basay": "bili",
+    "category": "09",
+    "zh": [
+      "角落"
+    ],
+    "ja": [
+      "角"
+    ],
+    "en": [
+      "corner"
+    ],
+    "source": "B",
+    "original": "bili"
+  },
+  {
+    "id": "0086",
+    "basay": "biri",
+    "category": "14",
+    "zh": [
+      "鄰居"
+    ],
+    "ja": [
+      "隣近所"
+    ],
+    "en": [
+      "neighbour"
+    ],
+    "source": "B",
+    "original": "biri"
+  },
+  {
+    "id": "0087",
+    "basay": "bitin",
+    "category": "06",
+    "zh": [
+      "耳環"
+    ],
+    "ja": [
+      "耳輪, Sediq, birats"
+    ],
+    "en": [
+      "earring"
+    ],
+    "source": "B",
+    "original": "bitin"
+  },
+  {
+    "id": "1157",
+    "basay": "bl'a",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "S",
+    "original": "bla, bɭa (S)"
+  },
+  {
+    "id": "1158",
+    "basay": "bl'abul'a",
+    "category": "25",
+    "zh": [
+      "給很多"
+    ],
+    "en": [
+      "give a lot"
+    ],
+    "source": "S",
+    "original": "bɭabuɭa (S)"
+  },
+  {
+    "id": "1156",
+    "basay": "bla",
+    "category": "25",
+    "zh": [
+      "給"
+    ],
+    "en": [
+      "give"
+    ],
+    "source": "T",
+    "original": "bla, bɭa (S)"
+  },
+  {
+    "id": "0088",
+    "basay": "bobe",
+    "category": "15",
+    "zh": [
+      "農地"
+    ],
+    "ja": [
+      "畠"
+    ],
+    "en": [
+      "farming field"
+    ],
+    "source": "B",
+    "original": "bobe"
+  },
+  {
+    "id": "0089",
+    "basay": "bobe | aui sali bobe",
+    "category": "10",
+    "zh": [
+      "去田間地頭"
+    ],
+    "ja": [
+      "畠へ行ク"
+    ],
+    "en": [
+      "go to the field"
+    ],
+    "source": "B",
+    "original": "bobe <aui sali bobe>"
+  },
+  {
+    "id": "0090",
+    "basay": "bohon'",
+    "category": "06",
+    "zh": [
+      "下腹部"
+    ],
+    "ja": [
+      "下腹"
+    ],
+    "en": [
+      "lower abdomen"
+    ],
+    "source": "B",
+    "original": "bohoŋ"
+  },
+  {
+    "id": "0091",
+    "basay": "bolo",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "ja": [
+      "耳"
+    ],
+    "en": [
+      "ear"
+    ],
+    "source": "B",
+    "original": "bolo"
+  },
+  {
+    "id": "0092",
+    "basay": "bolo",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "ja": [
+      "耳"
+    ],
+    "en": [
+      "ear"
+    ],
+    "source": "B",
+    "original": "bolo"
+  },
+  {
+    "id": "0093",
+    "basay": "bolo",
+    "category": "25",
+    "zh": [
+      "洗"
+    ],
+    "ja": [
+      "洗フ"
+    ],
+    "en": [
+      "wash"
+    ],
+    "source": "B",
+    "original": "bolo"
+  },
+  {
+    "id": "0094",
+    "basay": "bolo | bolobolo",
+    "category": "25",
+    "zh": [
+      "洗"
+    ],
+    "ja": [
+      "洗フ"
+    ],
+    "en": [
+      "wash"
+    ],
+    "source": "B",
+    "original": "bolo, bolobolo"
+  },
+  {
+    "id": "0095",
+    "basay": "bon'bon'",
+    "category": "11",
+    "zh": [
+      "充滿水"
+    ],
+    "ja": [
+      "充满セル (水ノ)"
+    ],
+    "en": [
+      "filled with water"
+    ],
+    "source": "B",
+    "original": "boŋboŋ"
+  },
+  {
+    "id": "0096",
+    "basay": "boto",
+    "category": "25",
+    "zh": [
+      "裹",
+      "綁定"
+    ],
+    "ja": [
+      "包ム"
+    ],
+    "en": [
+      "wrap (to). bind"
+    ],
+    "source": "B",
+    "original": "boto"
+  },
+  {
+    "id": "0097",
+    "basay": "boto hai",
+    "category": "06",
+    "zh": [
+      "纏足"
+    ],
+    "ja": [
+      "纏足 boto (包ムシバル)"
+    ],
+    "en": [
+      "foot-binding"
+    ],
+    "source": "B",
+    "original": "boto hai"
+  },
+  {
+    "id": "0098",
+    "basay": "botse",
+    "category": "11",
+    "zh": [
+      "熱水"
+    ],
+    "ja": [
+      "アッキ (湯ノ)"
+    ],
+    "en": [
+      "hot water"
+    ],
+    "source": "B",
+    "original": "botse"
+  },
+  {
+    "id": "0099",
+    "basay": "botse",
+    "category": "28",
+    "zh": [
+      "熱的"
+    ],
+    "ja": [
+      "熱イ"
+    ],
+    "en": [
+      "hot"
+    ],
+    "source": "B",
+    "original": "botse"
+  },
+  {
+    "id": "0100",
+    "basay": "botse",
+    "category": "28",
+    "zh": [
+      "發燒"
+    ],
+    "ja": [
+      "熱"
+    ],
+    "en": [
+      "fever"
+    ],
+    "source": "B",
+    "original": "botse"
+  },
+  {
+    "id": "0101",
+    "basay": "bove",
+    "category": "08",
+    "zh": [
+      "馬鈴薯田"
+    ],
+    "ja": [
+      "畠 (イモ畠)"
+    ],
+    "en": [
+      "field (potato)"
+    ],
+    "source": "B",
+    "original": "bove"
+  },
+  {
+    "id": "1159",
+    "basay": "btsawan",
+    "category": "09",
+    "zh": [
+      "銀"
+    ],
+    "en": [
+      "silver"
+    ],
+    "source": "T",
+    "original": "btsawan, pila (M)"
+  },
+  {
+    "id": "0102",
+    "basay": "buin'",
+    "category": "25",
+    "zh": [
+      "休息"
+    ],
+    "ja": [
+      "破 ス"
+    ],
+    "en": [
+      "break"
+    ],
+    "source": "B",
+    "original": "buiŋ"
+  },
+  {
+    "id": "0103",
+    "basay": "buin'",
+    "category": "32",
+    "zh": [
+      "撕裂"
+    ],
+    "ja": [
+      "破レル (物ノ)"
+    ],
+    "en": [
+      "torn"
+    ],
+    "source": "B",
+    "original": "buiŋ"
+  },
+  {
+    "id": "0104",
+    "basay": "buko's",
+    "category": "06",
+    "zh": [
+      "頭髮"
+    ],
+    "ja": [
+      "毛"
+    ],
+    "en": [
+      "hair"
+    ],
+    "source": "B",
+    "original": "bukəs"
+  },
+  {
+    "id": "0105",
+    "basay": "buko's",
+    "category": "08",
+    "zh": [
+      "海草"
+    ],
+    "ja": [
+      "コンブ"
+    ],
+    "en": [
+      "seaweed"
+    ],
+    "source": "B",
+    "original": "bukəs"
+  },
+  {
+    "id": "0106",
+    "basay": "bukusse",
+    "category": "06",
+    "zh": [
+      "頭髮",
+      "陰毛"
+    ],
+    "ja": [
+      "毛",
+      "陰毛"
+    ],
+    "en": [
+      "hair, pubic hair"
+    ],
+    "source": "B",
+    "original": "bukusse"
+  },
+  {
+    "id": "0107",
+    "basay": "bukutte",
+    "category": "32",
+    "zh": [
+      "僂"
+    ],
+    "ja": [
+      "セムシ"
+    ],
+    "en": [
+      "hunchback"
+    ],
+    "source": "B",
+    "original": "bukutte"
+  },
+  {
+    "id": "0108",
+    "basay": "bulu",
+    "category": "08",
+    "zh": [
+      "蘿蔔"
+    ],
+    "ja": [
+      "大根"
+    ],
+    "en": [
+      "radish"
+    ],
+    "source": "B",
+    "original": "bulu"
+  },
+  {
+    "id": "1161",
+    "basay": "bun'bun'",
+    "category": "08",
+    "zh": [
+      "芒草"
+    ],
+    "en": [
+      "miscanthus"
+    ],
+    "source": "S",
+    "original": "buŋbuŋ (S)"
+  },
+  {
+    "id": "0109",
+    "basay": "burau",
+    "category": "10",
+    "zh": [
+      "海貝殼"
+    ],
+    "ja": [
+      "貝"
+    ],
+    "en": [
+      "sea-shell"
+    ],
+    "source": "B",
+    "original": "burau"
+  },
+  {
+    "id": "0110",
+    "basay": "buru",
+    "category": "08",
+    "zh": [
+      "蘿蔔"
+    ],
+    "ja": [
+      "大根"
+    ],
+    "en": [
+      "radish"
+    ],
+    "source": "B",
+    "original": "buru"
+  },
+  {
+    "id": "0112",
+    "basay": "busuk'",
+    "category": "18",
+    "zh": [
+      "布"
+    ],
+    "ja": [
+      "織布"
+    ],
+    "en": [
+      "cloth"
+    ],
+    "source": "B",
+    "original": "busuk'"
+  },
+  {
+    "id": "0111",
+    "basay": "busukke",
+    "category": "32",
+    "zh": [
+      "醉",
+      "酣"
+    ],
+    "ja": [
+      "酔フ"
+    ],
+    "en": [
+      "drunk. intoxicated"
+    ],
+    "source": "B",
+    "original": "busukke"
+  },
+  {
+    "id": "0113",
+    "basay": "busutse",
+    "category": "25",
+    "zh": [
+      "出去"
+    ],
+    "ja": [
+      "出ル"
+    ],
+    "en": [
+      "go out"
+    ],
+    "source": "B",
+    "original": "busutse"
+  },
+  {
+    "id": "0114",
+    "basay": "busutse",
+    "category": "25",
+    "zh": [
+      "出去"
+    ],
+    "ja": [
+      "出ル"
+    ],
+    "en": [
+      "go out"
+    ],
+    "source": "B",
+    "original": "busutse"
+  },
+  {
+    "id": "0115",
+    "basay": "busutse | munain busutse",
+    "category": "08",
+    "zh": [
+      "盛開"
+    ],
+    "ja": [
+      "開ク(花)く花が開ク>"
+    ],
+    "en": [
+      "bloom"
+    ],
+    "source": "B",
+    "original": "busutse <munain busutse>"
+  },
+  {
+    "id": "0116",
+    "basay": "butsan",
+    "category": "11",
+    "zh": [
+      "月亮"
+    ],
+    "ja": [
+      "月"
+    ],
+    "en": [
+      "moon"
+    ],
+    "source": "B",
+    "original": "butsan"
+  },
+  {
+    "id": "1162",
+    "basay": "butsan",
+    "category": "11",
+    "zh": [
+      "月"
+    ],
+    "en": [
+      "month"
+    ],
+    "source": "T",
+    "original": "butsan"
+  },
+  {
+    "id": "0117",
+    "basay": "butsawan",
+    "category": "09",
+    "zh": [
+      "金子"
+    ],
+    "ja": [
+      "金, アﾐ (vu.awan)"
+    ],
+    "en": [
+      "gold"
+    ],
+    "source": "B",
+    "original": "butsawan"
+  },
+  {
+    "id": "1163",
+    "basay": "butse | vutse",
+    "category": "11",
+    "zh": [
+      "溫水"
+    ],
+    "en": [
+      "warm water"
+    ],
+    "source": "T",
+    "original": "butse, vutse"
+  },
+  {
+    "id": "0118",
+    "basay": "butsutse",
+    "category": "09",
+    "zh": [
+      "鞭"
+    ],
+    "ja": [
+      "鞭, (~デ)叩ク, アミ. (pu.uts)"
+    ],
+    "en": [
+      "whip"
+    ],
+    "source": "B",
+    "original": "butsutse"
+  },
+  {
+    "id": "0119",
+    "basay": "butsutse. butsut",
+    "category": "05",
+    "zh": [
+      "本島人"
+    ],
+    "ja": [
+      "本島人"
+    ],
+    "en": [
+      "Taiwanese"
+    ],
+    "source": "B",
+    "original": "butsutse. butsut"
+  }
+]

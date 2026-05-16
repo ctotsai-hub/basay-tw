@@ -1,0 +1,416 @@
+[
+  {
+    "id": "1881",
+    "basay": "raaq(o')",
+    "category": "27",
+    "zh": [
+      "酒"
+    ],
+    "en": [
+      "liquor"
+    ],
+    "source": "M",
+    "original": "raaq(ə) (M)"
+  },
+  {
+    "id": "2010",
+    "basay": "raaq(o')",
+    "category": "27",
+    "zh": [
+      "酒"
+    ],
+    "en": [
+      "liquor"
+    ],
+    "source": "M",
+    "original": "raaq(ə) (M)"
+  },
+  {
+    "id": "0722",
+    "basay": "rabel'",
+    "category": "12",
+    "zh": [
+      "屋頂/屋頂"
+    ],
+    "ja": [
+      "(??)"
+    ],
+    "en": [
+      "roof (??) / roop (??)"
+    ],
+    "source": "B",
+    "original": "rabel'"
+  },
+  {
+    "id": "0723",
+    "basay": "rakit",
+    "category": "25",
+    "zh": [
+      "捲曲",
+      "吝嗇的"
+    ],
+    "ja": [
+      "編み",
+      "ケチンボ (??)"
+    ],
+    "en": [
+      "curl (to). miserly.stingy"
+    ],
+    "source": "B",
+    "original": "rakit"
+  },
+  {
+    "id": "0724",
+    "basay": "ram/lam",
+    "category": "07",
+    "zh": [
+      "牡蠣",
+      "蛤"
+    ],
+    "ja": [
+      "牡蠣, 蛤"
+    ],
+    "en": [
+      "oyster. clam"
+    ],
+    "source": "B",
+    "original": "ram/lam"
+  },
+  {
+    "id": "0725",
+    "basay": "rapetse",
+    "category": "11",
+    "zh": [
+      "折斷",
+      "熄滅（火）"
+    ],
+    "ja": [
+      "折レル, 消エル"
+    ],
+    "en": [
+      "broken, die out (to) (fire)"
+    ],
+    "source": "B",
+    "original": "rapetse"
+  },
+  {
+    "id": "0726",
+    "basay": "rebokke",
+    "category": "25",
+    "zh": [
+      "搶",
+      "搶走"
+    ],
+    "ja": [
+      "奪取ル"
+    ],
+    "en": [
+      "rob (to). snatch away"
+    ],
+    "source": "B",
+    "original": "rebokke"
+  },
+  {
+    "id": "1882",
+    "basay": "remazok",
+    "category": "34",
+    "zh": [
+      "玩弄，戲弄"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "M",
+    "original": "remazok (M)"
+  },
+  {
+    "id": "2011",
+    "basay": "remazok",
+    "category": "34",
+    "zh": [
+      "玩弄，戲弄"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "M",
+    "original": "remazok (M)"
+  },
+  {
+    "id": "1606",
+    "basay": "repotan",
+    "category": "11",
+    "zh": [
+      "纏繞"
+    ],
+    "en": [
+      "wind (to)"
+    ],
+    "source": "T",
+    "original": "mrepot (M), repotan"
+  },
+  {
+    "id": "0727",
+    "basay": "ri pipisse",
+    "category": "09",
+    "zh": [
+      "邊緣"
+    ],
+    "ja": [
+      "縁",
+      "フチ"
+    ],
+    "en": [
+      "edge"
+    ],
+    "source": "B",
+    "original": "ri pipisse"
+  },
+  {
+    "id": "0728",
+    "basay": "rimotsomotso",
+    "category": "12",
+    "zh": [
+      "留在屋內"
+    ],
+    "ja": [
+      "家ノ内ニヒッコンデオル"
+    ],
+    "en": [
+      "stay inside the house (to)"
+    ],
+    "source": "B",
+    "original": "rimotsomotso"
+  },
+  {
+    "id": "0729",
+    "basay": "rirabu",
+    "category": "14",
+    "zh": [
+      "中心"
+    ],
+    "ja": [
+      "中央"
+    ],
+    "en": [
+      "center"
+    ],
+    "source": "B",
+    "original": "rirabu"
+  },
+  {
+    "id": "0730",
+    "basay": "rirum",
+    "category": "08",
+    "zh": [
+      "胡椒"
+    ],
+    "ja": [
+      "コショウ"
+    ],
+    "en": [
+      "pepper"
+    ],
+    "source": "B",
+    "original": "rirum"
+  },
+  {
+    "id": "0731",
+    "basay": "ritsaila",
+    "category": "02",
+    "zh": [
+      "這裡，附近"
+    ],
+    "ja": [
+      "此処",
+      "近クニ"
+    ],
+    "en": [
+      "here, near"
+    ],
+    "source": "B",
+    "original": "ritsaila"
+  },
+  {
+    "id": "0732",
+    "basay": "ritsun'",
+    "category": "32",
+    "zh": [
+      "重的"
+    ],
+    "ja": [
+      "重イ. アミ (kar tung)"
+    ],
+    "en": [
+      "heavy"
+    ],
+    "source": "B",
+    "original": "ritsuŋ"
+  },
+  {
+    "id": "1883",
+    "basay": "romul'",
+    "category": "25",
+    "zh": [
+      "揉",
+      "捏"
+    ],
+    "en": [
+      "knead"
+    ],
+    "source": "M",
+    "original": "romuɭ (M)"
+  },
+  {
+    "id": "2012",
+    "basay": "romul'",
+    "category": "25",
+    "zh": [
+      "揉",
+      "捏"
+    ],
+    "en": [
+      "knead"
+    ],
+    "source": "M",
+    "original": "romuɭ (M)"
+  },
+  {
+    "id": "1884",
+    "basay": "rubos",
+    "category": "15",
+    "zh": [
+      "綱袋"
+    ],
+    "en": [
+      "netbag"
+    ],
+    "source": "M",
+    "original": "rubos (M)"
+  },
+  {
+    "id": "2013",
+    "basay": "rubos",
+    "category": "15",
+    "zh": [
+      "綱袋"
+    ],
+    "en": [
+      "netbag"
+    ],
+    "source": "M",
+    "original": "rubos (M)"
+  },
+  {
+    "id": "0733",
+    "basay": "rugrukke",
+    "category": "09",
+    "zh": [
+      "杵"
+    ],
+    "ja": [
+      "杵"
+    ],
+    "en": [
+      "pestle"
+    ],
+    "source": "B",
+    "original": "rugrukke"
+  },
+  {
+    "id": "1885",
+    "basay": "rupurup",
+    "category": "32",
+    "zh": [
+      "皺紋"
+    ],
+    "en": [
+      "wrinkle"
+    ],
+    "source": "M",
+    "original": "rupurup (M)"
+  },
+  {
+    "id": "2014",
+    "basay": "rupurup",
+    "category": "32",
+    "zh": [
+      "皺紋"
+    ],
+    "en": [
+      "wrinkle"
+    ],
+    "source": "M",
+    "original": "rupurup (M)"
+  },
+  {
+    "id": "1886",
+    "basay": "ruqappa",
+    "category": "08",
+    "zh": [
+      "雨衣"
+    ],
+    "en": [
+      "rain coar (straw)"
+    ],
+    "source": "M",
+    "original": "ruqappa (M)"
+  },
+  {
+    "id": "2015",
+    "basay": "ruqappa",
+    "category": "08",
+    "zh": [
+      "雨衣"
+    ],
+    "en": [
+      "rain coar (straw)"
+    ],
+    "source": "M",
+    "original": "ruqappa (M)"
+  },
+  {
+    "id": "0734",
+    "basay": "rutaretare",
+    "category": "08",
+    "zh": [
+      "芋頭",
+      "馬鈴薯"
+    ],
+    "ja": [
+      "里芋",
+      "芋"
+    ],
+    "en": [
+      "taro, potato"
+    ],
+    "source": "B",
+    "original": "rutaretare"
+  },
+  {
+    "id": "1887",
+    "basay": "ruvu",
+    "category": "14",
+    "zh": [
+      "洞"
+    ],
+    "en": [
+      "hole"
+    ],
+    "source": "M",
+    "original": "ruvu (M)"
+  },
+  {
+    "id": "2016",
+    "basay": "ruvu",
+    "category": "14",
+    "zh": [
+      "洞"
+    ],
+    "en": [
+      "hole"
+    ],
+    "source": "M",
+    "original": "ruvu (M)"
+  }
+]

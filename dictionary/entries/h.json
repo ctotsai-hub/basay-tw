@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "0121",
+    "basay": "habaten'",
+    "category": "32",
+    "zh": [
+      "生病"
+    ],
+    "ja": [
+      "病気"
+    ],
+    "en": [
+      "sick, <sakit>"
+    ],
+    "source": "B",
+    "original": "habateŋ"
+  },
+  {
+    "id": "0122",
+    "basay": "habe",
+    "category": "09",
+    "zh": [
+      "殼"
+    ],
+    "ja": [
+      "殻",
+      "ムキガラ"
+    ],
+    "en": [
+      "shell"
+    ],
+    "source": "B",
+    "original": "habe"
+  },
+  {
+    "id": "0123",
+    "basay": "habe",
+    "category": "08",
+    "zh": [
+      "糧食"
+    ],
+    "ja": [
+      "穀物の粒"
+    ],
+    "en": [
+      "grain"
+    ],
+    "source": "B",
+    "original": "habe"
+  },
+  {
+    "id": "0124",
+    "basay": "habelan",
+    "category": "22",
+    "zh": [
+      "藍色",
+      "綠色"
+    ],
+    "ja": [
+      "青,緑"
+    ],
+    "en": [
+      "blue. green"
+    ],
+    "source": "B",
+    "original": "habelan"
+  },
+  {
+    "id": "0125",
+    "basay": "habelan",
+    "category": "22",
+    "zh": [
+      "顏色"
+    ],
+    "ja": [
+      "色(?)"
+    ],
+    "en": [
+      "color (?)"
+    ],
+    "source": "B",
+    "original": "habelan"
+  },
+  {
+    "id": "0126",
+    "basay": "habite",
+    "category": "15",
+    "zh": [
+      "收穫",
+      "收成"
+    ],
+    "ja": [
+      "(稲ヲ) 刈"
+    ],
+    "en": [
+      "reap. harvest"
+    ],
+    "source": "B",
+    "original": "habite"
+  },
+  {
+    "id": "0127",
+    "basay": "habitte",
+    "category": "08",
+    "zh": [
+      "水稻收割"
+    ],
+    "ja": [
+      "稲刈り",
+      "(草ヲ)刈ル",
+      "鎌"
+    ],
+    "en": [
+      "rice harvesting"
+    ],
+    "source": "B",
+    "original": "habitte"
+  },
+  {
+    "id": "0128",
+    "basay": "habitte",
+    "category": "15",
+    "zh": [
+      "鐮刀"
+    ],
+    "ja": [
+      "カマ"
+    ],
+    "en": [
+      "sickle"
+    ],
+    "source": "B",
+    "original": "habitte"
+  },
+  {
+    "id": "0129",
+    "basay": "haed'",
+    "category": "07",
+    "zh": [
+      "鮑魚"
+    ],
+    "ja": [
+      "鮑"
+    ],
+    "en": [
+      "abalone"
+    ],
+    "source": "B",
+    "original": "haed'"
+  },
+  {
+    "id": "0130",
+    "basay": "hahai makuwatau",
+    "category": "29",
+    "zh": [
+      "不祥之兆"
+    ],
+    "ja": [
+      "不吉"
+    ],
+    "en": [
+      "ill omen"
+    ],
+    "source": "B",
+    "original": "hahai makuwatau"
+  },
+  {
+    "id": "0131",
+    "basay": "hahoe kuman",
+    "category": "32",
+    "zh": [
+      "令人厭惡的"
+    ],
+    "ja": [
+      "マツイ"
+    ],
+    "en": [
+      "unsavory"
+    ],
+    "source": "B",
+    "original": "hahoe kuman"
+  },
+  {
+    "id": "0133",
+    "basay": "hahoi a Len",
+    "category": "11",
+    "zh": [
+      "北"
+    ],
+    "ja": [
+      "北 (悪イ日) 北風ハ不良ニナル"
+    ],
+    "en": [
+      "north"
+    ],
+    "source": "B",
+    "original": "hahoi a Len"
+  },
+  {
+    "id": "0134",
+    "basay": "hahoi a tau",
+    "category": "05",
+    "zh": [
+      "壞人"
+    ],
+    "ja": [
+      "悪キ人"
+    ],
+    "en": [
+      "bad man"
+    ],
+    "source": "B",
+    "original": "hahoi a tau"
+  },
+  {
+    "id": "0135",
+    "basay": "hahoi sahun'a kawasse",
+    "category": "29",
+    "zh": [
+      "告狀"
+    ],
+    "ja": [
+      "告口スル"
+    ],
+    "en": [
+      "taletelling"
+    ],
+    "source": "B",
+    "original": "hahoi sahuŋa kawasse"
+  },
+  {
+    "id": "0132",
+    "basay": "hahoi | manai kuman hahoi",
+    "category": "27",
+    "zh": [
+      "不好吃",
+      "因味道不好而不吃"
+    ],
+    "ja": [
+      "マズイ (マヅクテ食べナイ>"
+    ],
+    "en": [
+      "unsavory, <do not eat because of unsavoriness>"
+    ],
+    "source": "B",
+    "original": "hahoi <manai kuman hahoi>"
+  },
+  {
+    "id": "0136",
+    "basay": "hai",
+    "category": "06",
+    "zh": [
+      "小腿"
+    ],
+    "ja": [
+      "下脚"
+    ],
+    "en": [
+      "lower leg"
+    ],
+    "source": "B",
+    "original": "hai"
+  },
+  {
+    "id": "0137",
+    "basay": "haihainan",
+    "category": "13",
+    "zh": [
+      "稍後，遲到"
+    ],
+    "ja": [
+      "後刻, オクレテ"
+    ],
+    "en": [
+      "later, late"
+    ],
+    "source": "B",
+    "original": "haihainan"
+  },
+  {
+    "id": "0138",
+    "basay": "hajo' bukusse",
+    "category": "06",
+    "zh": [
+      "體毛"
+    ],
+    "ja": [
+      "体毛"
+    ],
+    "en": [
+      "body hair"
+    ],
+    "source": "B",
+    "original": "hajə bukusse"
+  },
+  {
+    "id": "0139",
+    "basay": "hal'-hasse",
+    "category": "25",
+    "zh": [
+      "刮鬍子"
+    ],
+    "ja": [
+      "剃ル"
+    ],
+    "en": [
+      "shave"
+    ],
+    "source": "B",
+    "original": "hal'-hasse"
+  },
+  {
+    "id": "0140",
+    "basay": "halanasse",
+    "category": "32",
+    "zh": [
+      "慢慢地"
+    ],
+    "ja": [
+      "ユックリ"
+    ],
+    "en": [
+      "slowly"
+    ],
+    "source": "B",
+    "original": "halanasse"
+  },
+  {
+    "id": "0141",
+    "basay": "halasse | halasse koman",
+    "category": "23",
+    "zh": [
+      "稱呼"
+    ],
+    "ja": [
+      "呼プ<飯ニ呼プ>"
+    ],
+    "en": [
+      "call"
+    ],
+    "source": "B",
+    "original": "halasse, <halasse koman>"
+  },
+  {
+    "id": "0142",
+    "basay": "halatte",
+    "category": "25",
+    "zh": [
+      "戳"
+    ],
+    "ja": [
+      "刺ス. アミ(mi-karat)"
+    ],
+    "en": [
+      "stick (to)"
+    ],
+    "source": "B",
+    "original": "halatte"
+  },
+  {
+    "id": "0143",
+    "basay": "halau",
+    "category": "25",
+    "zh": [
+      "刮痕"
+    ],
+    "ja": [
+      "カク"
+    ],
+    "en": [
+      "scratch"
+    ],
+    "source": "B",
+    "original": "halau"
+  },
+  {
+    "id": "0144",
+    "basay": "halewahes",
+    "category": "20",
+    "zh": [
+      "奔跑",
+      "航行"
+    ],
+    "ja": [
+      "アチラコチラ走ル",
+      "帆"
+    ],
+    "en": [
+      "run in places (to). sail"
+    ],
+    "source": "B",
+    "original": "halewahes"
+  },
+  {
+    "id": "0145",
+    "basay": "halinahin'",
+    "category": "25",
+    "zh": [
+      "蹣跚"
+    ],
+    "ja": [
+      "グラグラスル"
+    ],
+    "en": [
+      "totter (to)"
+    ],
+    "source": "B",
+    "original": "halinahiŋ"
+  },
+  {
+    "id": "0146",
+    "basay": "haliuhiu",
+    "category": "06",
+    "ja": [
+      "助手",
+      "不見轉 (??)"
+    ],
+    "en": [
+      "(??)"
+    ],
+    "source": "B",
+    "original": "haliuhiu"
+  },
+  {
+    "id": "0147",
+    "basay": "haliuhn'ute",
+    "category": "06",
+    "zh": [
+      "助理"
+    ],
+    "ja": [
+      "助手"
+    ],
+    "en": [
+      "assistant"
+    ],
+    "source": "B",
+    "original": "haliuhŋute"
+  },
+  {
+    "id": "1165",
+    "basay": "halus",
+    "category": "23",
+    "zh": [
+      "叫"
+    ],
+    "en": [
+      "call"
+    ],
+    "source": "M",
+    "original": "halus (M)"
+  },
+  {
+    "id": "0148",
+    "basay": "halusse",
+    "category": "09",
+    "zh": [
+      "鏟"
+    ],
+    "ja": [
+      "シャベル】"
+    ],
+    "en": [
+      "shovel"
+    ],
+    "source": "B",
+    "original": "halusse"
+  },
+  {
+    "id": "0149",
+    "basay": "hamiham",
+    "category": "07",
+    "zh": [
+      "風箏",
+      "黑耳鳶"
+    ],
+    "ja": [
+      "鳶（原意は泥棒）"
+    ],
+    "en": [
+      "kite. black-eared kite"
+    ],
+    "source": "B",
+    "original": "hamiham"
+  },
+  {
+    "id": "0150",
+    "basay": "hamiham",
+    "category": "25",
+    "zh": [
+      "偷"
+    ],
+    "ja": [
+      "盗ム"
+    ],
+    "en": [
+      "steal"
+    ],
+    "source": "B",
+    "original": "hamiham"
+  },
+  {
+    "id": "0151",
+    "basay": "hamitte",
+    "category": "25",
+    "zh": [
+      "刮痕"
+    ],
+    "ja": [
+      "掻く"
+    ],
+    "en": [
+      "scratch"
+    ],
+    "source": "B",
+    "original": "hamitte"
+  },
+  {
+    "id": "0152",
+    "basay": "hananase",
+    "category": "32",
+    "zh": [
+      "慢慢地"
+    ],
+    "ja": [
+      "ユックリ"
+    ],
+    "en": [
+      "slowly"
+    ],
+    "source": "B",
+    "original": "hananase"
+  },
+  {
+    "id": "0153",
+    "basay": "hanette",
+    "category": "06",
+    "zh": [
+      "果皮"
+    ],
+    "ja": [
+      "(皮ヲ）ムク"
+    ],
+    "en": [
+      "peel (to)"
+    ],
+    "source": "B",
+    "original": "hanette"
+  },
+  {
+    "id": "0154",
+    "basay": "hanette",
+    "category": "25",
+    "zh": [
+      "捏"
+    ],
+    "ja": [
+      "ツネル"
+    ],
+    "en": [
+      "pinch (to)"
+    ],
+    "source": "B",
+    "original": "hanette"
+  },
+  {
+    "id": "0155",
+    "basay": "hanisse",
+    "category": "08",
+    "zh": [
+      "爬行"
+    ],
+    "ja": [
+      "掻く ,(木",
+      "山ニ) 登ル"
+    ],
+    "en": [
+      "scratch (to), climb"
+    ],
+    "source": "B",
+    "original": "hanisse"
+  },
+  {
+    "id": "0156",
+    "basay": "hapo'd'",
+    "category": "34",
+    "ja": [
+      "(台) choki"
+    ],
+    "source": "B",
+    "original": "hapəd'"
+  },
+  {
+    "id": "0157",
+    "basay": "hapo'tte",
+    "category": "18",
+    "zh": [
+      "堅持"
+    ],
+    "ja": [
+      "粘着スル",
+      "付着スル"
+    ],
+    "en": [
+      "adhere"
+    ],
+    "source": "B",
+    "original": "hapətte"
+  },
+  {
+    "id": "0158",
+    "basay": "haputte",
+    "category": "09",
+    "zh": [
+      "按鈕"
+    ],
+    "ja": [
+      "ボタン"
+    ],
+    "en": [
+      "button"
+    ],
+    "source": "B",
+    "original": "haputte"
+  },
+  {
+    "id": "0159",
+    "basay": "haputtse",
+    "category": "25",
+    "zh": [
+      "黏附，束縛"
+    ],
+    "ja": [
+      "クッツク",
+      "結ブ"
+    ],
+    "en": [
+      "adhere, bind"
+    ],
+    "source": "B",
+    "original": "haputtse"
+  },
+  {
+    "id": "0160",
+    "basay": "harate",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "ja": [
+      "カム"
+    ],
+    "en": [
+      "bite"
+    ],
+    "source": "B",
+    "original": "harate"
+  },
+  {
+    "id": "0161",
+    "basay": "haratte",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "ja": [
+      "咬ﾑ.アミ(mi-karat)"
+    ],
+    "en": [
+      "bite"
+    ],
+    "source": "B",
+    "original": "haratte"
+  },
+  {
+    "id": "0162",
+    "basay": "harimoamoa",
+    "category": "05",
+    "zh": [
+      "妓女,假小子"
+    ],
+    "ja": [
+      "オ轉バ"
+    ],
+    "en": [
+      "hussy, tomboy"
+    ],
+    "source": "B",
+    "original": "harimoamoa"
+  },
+  {
+    "id": "0163",
+    "basay": "harits'i",
+    "category": "08",
+    "zh": [
+      "輾米"
+    ],
+    "ja": [
+      "モミヲヒク"
+    ],
+    "en": [
+      "mill rice (to)"
+    ],
+    "source": "B",
+    "original": "haritʃi"
+  },
+  {
+    "id": "0164",
+    "basay": "harits'i",
+    "category": "25",
+    "zh": [
+      "磨",
+      "磨"
+    ],
+    "ja": [
+      "(粉",
+      "モミヲ)ヒク"
+    ],
+    "en": [
+      "grind (to). mill"
+    ],
+    "source": "B",
+    "original": "haritʃi"
+  },
+  {
+    "id": "0165",
+    "basay": "haritswaitswai",
+    "category": "25",
+    "zh": [
+      "彎曲，曲線"
+    ],
+    "ja": [
+      "彎曲セル"
+    ],
+    "en": [
+      "bend, curve"
+    ],
+    "source": "B",
+    "original": "haritswaitswai"
+  },
+  {
+    "id": "0166",
+    "basay": "haritswatswai",
+    "category": "11",
+    "zh": [
+      "地震"
+    ],
+    "ja": [
+      "地震"
+    ],
+    "en": [
+      "earthquake"
+    ],
+    "source": "B",
+    "original": "haritswatswai"
+  },
+  {
+    "id": "0167",
+    "basay": "haron",
+    "category": "32",
+    "zh": [
+      "貧窮的"
+    ],
+    "ja": [
+      "貧しい"
+    ],
+    "en": [
+      "poor"
+    ],
+    "source": "B",
+    "original": "haron"
+  },
+  {
+    "id": "0168",
+    "basay": "harona",
+    "category": "07",
+    "zh": [
+      "螞蟻"
+    ],
+    "ja": [
+      "蟻"
+    ],
+    "en": [
+      "ants"
+    ],
+    "source": "B",
+    "original": "harona"
+  },
+  {
+    "id": "0169",
+    "basay": "harona",
+    "category": "07",
+    "zh": [
+      "螞蟻"
+    ],
+    "ja": [
+      "蟻"
+    ],
+    "en": [
+      "ant"
+    ],
+    "source": "B",
+    "original": "harona"
+  },
+  {
+    "id": "0170",
+    "basay": "hatal'",
+    "category": "35",
+    "zh": [
+      "骯髒的"
+    ],
+    "ja": [
+      "不潔ナル"
+    ],
+    "en": [
+      "dirty"
+    ],
+    "source": "B",
+    "original": "hatal'"
+  },
+  {
+    "id": "0171",
+    "basay": "hatat",
+    "category": "35",
+    "zh": [
+      "不修邊幅",
+      "淘氣"
+    ],
+    "ja": [
+      "ダラシガナイ, ワンバクナル"
+    ],
+    "en": [
+      "slovenly. naughty"
+    ],
+    "source": "B",
+    "original": "hatat"
+  },
+  {
+    "id": "0172",
+    "basay": "hatop",
+    "category": "22",
+    "zh": [
+      "出紅疹"
+    ],
+    "ja": [
+      "赤クカプレテ痛ム"
+    ],
+    "en": [
+      "rash (to have a red)"
+    ],
+    "source": "B",
+    "original": "hatop"
+  },
+  {
+    "id": "0173",
+    "basay": "hatsau",
+    "category": "14",
+    "zh": [
+      "凝視遠方"
+    ],
+    "ja": [
+      "遠方ヲノゾム"
+    ],
+    "en": [
+      "gaze in the distance"
+    ],
+    "source": "B",
+    "original": "hatsau"
+  },
+  {
+    "id": "0174",
+    "basay": "hatsetso'n",
+    "category": "18",
+    "zh": [
+      "線"
+    ],
+    "ja": [
+      "絲"
+    ],
+    "en": [
+      "thread"
+    ],
+    "source": "B",
+    "original": "hatsetsən"
+  },
+  {
+    "id": "0175",
+    "basay": "hatsjetso'n",
+    "category": "18",
+    "zh": [
+      "紗"
+    ],
+    "ja": [
+      "絲"
+    ],
+    "en": [
+      "yarn"
+    ],
+    "source": "B",
+    "original": "hatsjetsən"
+  },
+  {
+    "id": "0176",
+    "basay": "hauite",
+    "category": "25",
+    "zh": [
+      "招手"
+    ],
+    "ja": [
+      "テマネキスル"
+    ],
+    "en": [
+      "beckon"
+    ],
+    "source": "B",
+    "original": "hauite"
+  },
+  {
+    "id": "0177",
+    "basay": "hauite",
+    "category": "06",
+    "zh": [
+      "收集草"
+    ],
+    "ja": [
+      "(草ヲ) カキアツメル",
+      "手招キスル"
+    ],
+    "en": [
+      "gather grass (to)"
+    ],
+    "source": "B",
+    "original": "hauite"
+  },
+  {
+    "id": "0178",
+    "basay": "haupit",
+    "category": "08",
+    "zh": [
+      "甘藷"
+    ],
+    "ja": [
+      "ハンチ"
+    ],
+    "en": [
+      "sweet potato"
+    ],
+    "source": "B",
+    "original": "haupit"
+  },
+  {
+    "id": "0179",
+    "basay": "have",
+    "category": "08",
+    "zh": [
+      "米糠"
+    ],
+    "ja": [
+      "糠"
+    ],
+    "en": [
+      "rice bran"
+    ],
+    "source": "B",
+    "original": "have"
+  },
+  {
+    "id": "0180",
+    "basay": "helan'",
+    "category": "11",
+    "zh": [
+      "乾燥"
+    ],
+    "ja": [
+      "乾ク(火ニヨリ或ハ自然ニ)"
+    ],
+    "en": [
+      "dry"
+    ],
+    "source": "B",
+    "original": "helaŋ"
+  },
+  {
+    "id": "0181",
+    "basay": "helan' na",
+    "category": "11",
+    "zh": [
+      "低潮"
+    ],
+    "ja": [
+      "干潮 < 乾ｸ"
+    ],
+    "en": [
+      "low tide"
+    ],
+    "source": "B",
+    "original": "helaŋ na"
+  },
+  {
+    "id": "0182",
+    "basay": "hetel'",
+    "category": "21",
+    "zh": [
+      "抱著餵奶"
+    ],
+    "ja": [
+      "(乳を) シボル <握ル"
+    ],
+    "en": [
+      "(milk to)hold"
+    ],
+    "source": "B",
+    "original": "hetel'"
+  },
+  {
+    "id": "0183",
+    "basay": "heten",
+    "category": "06",
+    "zh": [
+      "處理"
+    ],
+    "ja": [
+      "把手"
+    ],
+    "en": [
+      "handle"
+    ],
+    "source": "B",
+    "original": "heten"
+  },
+  {
+    "id": "0184",
+    "basay": "heton'oton'osse",
+    "category": "25",
+    "zh": [
+      "離婚"
+    ],
+    "ja": [
+      "離別スル"
+    ],
+    "en": [
+      "divorce"
+    ],
+    "source": "B",
+    "original": "hetoŋotoŋosse"
+  },
+  {
+    "id": "0185",
+    "basay": "hihol' | wanakke hihol'",
+    "category": "04",
+    "zh": [
+      "小兒子"
+    ],
+    "ja": [
+      "末子"
+    ],
+    "en": [
+      "youngest son"
+    ],
+    "source": "B",
+    "original": "hihol', wanakke hihol'"
+  },
+  {
+    "id": "0186",
+    "basay": "hil'-hitse",
+    "category": "25",
+    "zh": [
+      "擦",
+      "沖刷"
+    ],
+    "ja": [
+      "擦ル"
+    ],
+    "en": [
+      "rub (to). scour"
+    ],
+    "source": "B",
+    "original": "hil'-hitse"
+  },
+  {
+    "id": "0187",
+    "basay": "hilhitse",
+    "category": "25",
+    "zh": [
+      "文件"
+    ],
+    "ja": [
+      "鑢"
+    ],
+    "en": [
+      "file"
+    ],
+    "source": "B",
+    "original": "hilhitse"
+  },
+  {
+    "id": "0188",
+    "basay": "hilhitse",
+    "category": "25",
+    "zh": [
+      "擦",
+      "鋸"
+    ],
+    "ja": [
+      "こする",
+      "鋸",
+      "鋸ニテ切ル"
+    ],
+    "en": [
+      "rub(to). saw (to)"
+    ],
+    "source": "B",
+    "original": "hilhitse"
+  },
+  {
+    "id": "0189",
+    "basay": "hipihipite",
+    "category": "02",
+    "zh": [
+      "忍受",
+      "忍受"
+    ],
+    "ja": [
+      "我慢スル"
+    ],
+    "en": [
+      "endure (to). put up with"
+    ],
+    "source": "B",
+    "original": "hipihipite"
+  },
+  {
+    "id": "0190",
+    "basay": "hipihipitte",
+    "category": "02",
+    "zh": [
+      "忍受",
+      "忍受"
+    ],
+    "ja": [
+      "(叱ラレシトキニ)我慢スル"
+    ],
+    "en": [
+      "endure. put up with"
+    ],
+    "source": "B",
+    "original": "hipihipitte"
+  },
+  {
+    "id": "0191",
+    "basay": "hitora uD'",
+    "category": "07",
+    "zh": [
+      "蚯蚓",
+      "小蛇"
+    ],
+    "ja": [
+      "小サキ蛇=ミミツ."
+    ],
+    "en": [
+      "earth worm). small snake"
+    ],
+    "source": "B",
+    "original": "hitora uD'"
+  },
+  {
+    "id": "0192",
+    "basay": "hitul'",
+    "category": "32",
+    "zh": [
+      "低的"
+    ],
+    "ja": [
+      "アミ (onur)"
+    ],
+    "en": [
+      "low"
+    ],
+    "source": "B",
+    "original": "hitul'"
+  },
+  {
+    "id": "0193",
+    "basay": "hmtil'",
+    "category": "32",
+    "zh": [
+      "醒"
+    ],
+    "ja": [
+      "低キ"
+    ],
+    "en": [
+      "awake (to)"
+    ],
+    "source": "B",
+    "original": "hmtil'"
+  },
+  {
+    "id": "0194",
+    "basay": "hmtit",
+    "category": "25",
+    "zh": [
+      "??"
+    ],
+    "ja": [
+      "醒メル"
+    ],
+    "en": [
+      "??"
+    ],
+    "source": "B",
+    "original": "hmtit"
+  },
+  {
+    "id": "0195",
+    "basay": "hmunote",
+    "category": "29",
+    "zh": [
+      "後悔"
+    ],
+    "ja": [
+      "??"
+    ],
+    "en": [
+      "regret"
+    ],
+    "source": "B",
+    "original": "hmunote"
+  },
+  {
+    "id": "0196",
+    "basay": "hulasa tan'ja",
+    "category": "32",
+    "zh": [
+      "昂貴的"
+    ],
+    "ja": [
+      "イマイマシイ",
+      "残念"
+    ],
+    "en": [
+      "expensive"
+    ],
+    "source": "B",
+    "original": "hulasa taŋja"
+  },
+  {
+    "id": "0197",
+    "basay": "hulasse",
+    "category": "01",
+    "zh": [
+      "很多"
+    ],
+    "ja": [
+      "高價"
+    ],
+    "en": [
+      "many)"
+    ],
+    "source": "B",
+    "original": "hulasse"
+  },
+  {
+    "id": "0198",
+    "basay": "hulasse <sikalape",
+    "category": "01",
+    "zh": [
+      "很多，釣到很多魚"
+    ],
+    "ja": [
+      "沢山多クノ魚ヲ取ル"
+    ],
+    "en": [
+      "many, catch a lot of fish"
+    ],
+    "source": "B",
+    "original": "hulasse <sikalape"
+  },
+  {
+    "id": "0199",
+    "basay": "hulasse baute>",
+    "category": "29",
+    "zh": [
+      "生氣"
+    ],
+    "ja": [
+      "オコル"
+    ],
+    "en": [
+      "angry (to get)"
+    ],
+    "source": "B",
+    "original": "hulasse baute>"
+  },
+  {
+    "id": "0200",
+    "basay": "hum-note | hm-nutte",
+    "category": "25",
+    "zh": [
+      "醒"
+    ],
+    "ja": [
+      "起ル"
+    ],
+    "en": [
+      "awake"
+    ],
+    "source": "B",
+    "original": "hum-note, hm-nutte"
+  },
+  {
+    "id": "0201",
+    "basay": "humtit | hmtit",
+    "category": "02",
+    "zh": [
+      "你"
+    ],
+    "ja": [
+      "おまえ】"
+    ],
+    "en": [
+      "you"
+    ],
+    "source": "B",
+    "original": "humtit, hmtit"
+  },
+  {
+    "id": "1854",
+    "basay": "hya",
+    "category": "34",
+    "zh": [
+      "磚塊"
+    ],
+    "en": [
+      "brick"
+    ],
+    "source": "V",
+    "original": "qia (M) hya (< Taiwanese)"
+  }
+]

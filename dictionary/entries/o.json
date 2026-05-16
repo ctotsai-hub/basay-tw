@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0583",
+    "basay": "oats'i",
+    "category": "13",
+    "zh": [
+      "現在"
+    ],
+    "ja": [
+      "今"
+    ],
+    "en": [
+      "now"
+    ],
+    "source": "B",
+    "original": "oatʃi"
+  },
+  {
+    "id": "0584",
+    "basay": "oatsji. | oatsji sjali n'apan",
+    "category": "10",
+    "zh": [
+      "今天",
+      "今天去河邊"
+    ],
+    "ja": [
+      "今日. <今日河へ行ｸ>"
+    ],
+    "en": [
+      "today. Today (1) go to the river."
+    ],
+    "source": "B",
+    "original": "oatsji. <oatsji sjali ŋapan>"
+  },
+  {
+    "id": "0585",
+    "basay": "olatte",
+    "category": "24",
+    "zh": [
+      "力量"
+    ],
+    "ja": [
+      "カ"
+    ],
+    "en": [
+      "strength"
+    ],
+    "source": "B",
+    "original": "olatte"
+  },
+  {
+    "id": "1700",
+    "basay": "orats",
+    "category": "10",
+    "zh": [
+      "砂"
+    ],
+    "en": [
+      "sand"
+    ],
+    "source": "M",
+    "original": "orats (M)"
+  },
+  {
+    "id": "0586",
+    "basay": "oto",
+    "category": "06",
+    "zh": [
+      "陰莖"
+    ],
+    "ja": [
+      "陰茎"
+    ],
+    "en": [
+      "penis"
+    ],
+    "source": "B",
+    "original": "oto"
+  },
+  {
+    "id": "0587",
+    "basay": "otoi",
+    "category": "06",
+    "zh": [
+      "肩膀"
+    ],
+    "ja": [
+      "肩"
+    ],
+    "en": [
+      "shoulder"
+    ],
+    "source": "B",
+    "original": "otoi"
+  },
+  {
+    "id": "0588",
+    "basay": "otoi",
+    "category": "06",
+    "zh": [
+      "扛在肩上"
+    ],
+    "ja": [
+      "ニナウ (運ぶ)"
+    ],
+    "en": [
+      "carry on shoulder"
+    ],
+    "source": "B",
+    "original": "otoi"
+  }
+]

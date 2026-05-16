@@ -1,0 +1,4515 @@
+[
+  {
+    "id": "0743",
+    "basay": "s'abili",
+    "category": "14",
+    "zh": [
+      "失算"
+    ],
+    "ja": [
+      "数へチガイヲスル.午後 (??)"
+    ],
+    "en": [
+      "miscalculate (to)"
+    ],
+    "source": "B",
+    "original": "ʃabili"
+  },
+  {
+    "id": "0744",
+    "basay": "s'abili",
+    "category": "13",
+    "zh": [
+      "午安"
+    ],
+    "ja": [
+      "午后",
+      "アチラニ行く"
+    ],
+    "en": [
+      "afternoon"
+    ],
+    "source": "B",
+    "original": "ʃabili"
+  },
+  {
+    "id": "0784",
+    "basay": "s'ali n'onon",
+    "category": "19",
+    "zh": [
+      "葬禮"
+    ],
+    "ja": [
+      "葬式"
+    ],
+    "en": [
+      "funeral"
+    ],
+    "source": "B",
+    "original": "ʃali ŋonon"
+  },
+  {
+    "id": "1888",
+    "basay": "sa",
+    "category": "34",
+    "zh": [
+      "到"
+    ],
+    "en": [
+      "into"
+    ],
+    "source": "S",
+    "original": "sa(S)"
+  },
+  {
+    "id": "2017",
+    "basay": "sa",
+    "category": "34",
+    "zh": [
+      "到"
+    ],
+    "en": [
+      "into"
+    ],
+    "source": "S",
+    "original": "sa(S)"
+  },
+  {
+    "id": "0735",
+    "basay": "sa-namal'",
+    "category": "11",
+    "zh": [
+      "生火"
+    ],
+    "ja": [
+      "火ヲ起ス"
+    ],
+    "en": [
+      "fire (to make)"
+    ],
+    "source": "B",
+    "original": "sa-namal'"
+  },
+  {
+    "id": "0736",
+    "basay": "saba",
+    "category": "27",
+    "zh": [
+      "食慾"
+    ],
+    "ja": [
+      "食べタイ"
+    ],
+    "en": [
+      "appetite"
+    ],
+    "source": "B",
+    "original": "saba"
+  },
+  {
+    "id": "0737",
+    "basay": "saba | saba nakau",
+    "category": "29",
+    "zh": [
+      "渴望的"
+    ],
+    "ja": [
+      "欲スル く寝タイ>"
+    ],
+    "en": [
+      "eager"
+    ],
+    "source": "B",
+    "original": "saba, <saba nakau>"
+  },
+  {
+    "id": "0738",
+    "basay": "sabai",
+    "category": "11",
+    "zh": [
+      "陰影"
+    ],
+    "ja": [
+      "影"
+    ],
+    "en": [
+      "shadow"
+    ],
+    "source": "B",
+    "original": "sabai"
+  },
+  {
+    "id": "0739",
+    "basay": "sabak",
+    "category": "08",
+    "zh": [
+      "稻穀"
+    ],
+    "ja": [
+      "モミ"
+    ],
+    "en": [
+      "rice (unhulled)"
+    ],
+    "source": "B",
+    "original": "sabak"
+  },
+  {
+    "id": "0740",
+    "basay": "sabasaba",
+    "category": "28",
+    "zh": [
+      "炫耀"
+    ],
+    "ja": [
+      "見セビラカス"
+    ],
+    "en": [
+      "show off"
+    ],
+    "source": "B",
+    "original": "sabasaba"
+  },
+  {
+    "id": "0741",
+    "basay": "sabasaba",
+    "category": "27",
+    "zh": [
+      "顯示食物"
+    ],
+    "ja": [
+      "食べタガラス",
+      "食物ヲ見セビラカス"
+    ],
+    "en": [
+      "show food (to)"
+    ],
+    "source": "B",
+    "original": "sabasaba"
+  },
+  {
+    "id": "0742",
+    "basay": "sabelala",
+    "category": "06",
+    "zh": [
+      "仰臥"
+    ],
+    "ja": [
+      "四足ヲノバシ仰向ニナル"
+    ],
+    "en": [
+      "lie on one's back"
+    ],
+    "source": "B",
+    "original": "sabelala"
+  },
+  {
+    "id": "1889",
+    "basay": "sabulan",
+    "category": "11",
+    "zh": [
+      "月"
+    ],
+    "en": [
+      "month"
+    ],
+    "source": "S",
+    "original": "sabulan (S)"
+  },
+  {
+    "id": "2018",
+    "basay": "sabulan",
+    "category": "11",
+    "zh": [
+      "月"
+    ],
+    "en": [
+      "month"
+    ],
+    "source": "S",
+    "original": "sabulan (S)"
+  },
+  {
+    "id": "0745",
+    "basay": "sabusabun",
+    "category": "24",
+    "zh": [
+      "交談"
+    ],
+    "ja": [
+      "話ヲスル"
+    ],
+    "en": [
+      "converse"
+    ],
+    "source": "B",
+    "original": "sabusabun"
+  },
+  {
+    "id": "0746",
+    "basay": "sabusse",
+    "category": "27",
+    "zh": [
+      "供酒"
+    ],
+    "ja": [
+      "献酒"
+    ],
+    "en": [
+      "liquor offering"
+    ],
+    "source": "B",
+    "original": "sabusse"
+  },
+  {
+    "id": "0747",
+    "basay": "sahabaten'",
+    "category": "28",
+    "zh": [
+      "麻風病",
+      "梅毒"
+    ],
+    "ja": [
+      "癩病,梅毒"
+    ],
+    "en": [
+      "lepra. syphilis"
+    ],
+    "source": "B",
+    "original": "sahabateŋ"
+  },
+  {
+    "id": "0748",
+    "basay": "sahinahi nano'm",
+    "category": "29",
+    "zh": [
+      "殘酷的對待"
+    ],
+    "ja": [
+      "虐待スル"
+    ],
+    "en": [
+      "cruel treatment"
+    ],
+    "source": "B",
+    "original": "sahinahi nanəm"
+  },
+  {
+    "id": "0749",
+    "basay": "sahinahin",
+    "category": "25",
+    "zh": [
+      "搖"
+    ],
+    "ja": [
+      "振ル"
+    ],
+    "en": [
+      "shake"
+    ],
+    "source": "B",
+    "original": "sahinahin"
+  },
+  {
+    "id": "0750",
+    "basay": "sahinahin a bahal",
+    "category": "09",
+    "zh": [
+      "搖籃"
+    ],
+    "ja": [
+      "ユリカゴ"
+    ],
+    "en": [
+      "cradle"
+    ],
+    "source": "B",
+    "original": "sahinahin a bahal"
+  },
+  {
+    "id": "0751",
+    "basay": "sahinahinanuman | sahinahinanum",
+    "category": "25",
+    "zh": [
+      "迫害",
+      "虐待"
+    ],
+    "ja": [
+      "イヂメル"
+    ],
+    "en": [
+      "persecute (to).illtreat"
+    ],
+    "source": "B",
+    "original": "sahinahinanuman,sahinahinanum"
+  },
+  {
+    "id": "0752",
+    "basay": "sahithit",
+    "category": "25",
+    "zh": [
+      "擦,鋸"
+    ],
+    "ja": [
+      "摩擦スル, 鋸ニテヒクコト"
+    ],
+    "en": [
+      "rub (to), to saw"
+    ],
+    "source": "B",
+    "original": "sahithit"
+  },
+  {
+    "id": "0753",
+    "basay": "sahole",
+    "category": "28",
+    "zh": [
+      "疥"
+    ],
+    "ja": [
+      "カイセン"
+    ],
+    "en": [
+      "scabies"
+    ],
+    "source": "B",
+    "original": "sahole"
+  },
+  {
+    "id": "0754",
+    "basay": "sahun'a",
+    "category": "24",
+    "zh": [
+      "說謊"
+    ],
+    "ja": [
+      "ウソヲヅク"
+    ],
+    "en": [
+      "lie (to tell)"
+    ],
+    "source": "B",
+    "original": "sahuŋa"
+  },
+  {
+    "id": "0755",
+    "basay": "sailailai",
+    "category": "19",
+    "zh": [
+      "唱歌"
+    ],
+    "ja": [
+      "歌フ"
+    ],
+    "en": [
+      "sing"
+    ],
+    "source": "B",
+    "original": "sailailai"
+  },
+  {
+    "id": "0756",
+    "basay": "sailailai",
+    "category": "19",
+    "zh": [
+      "歌曲",
+      "戲劇"
+    ],
+    "ja": [
+      "唱歌.(平埔蕃ノ) 芝居"
+    ],
+    "en": [
+      "song, drama"
+    ],
+    "source": "B",
+    "original": "sailailai"
+  },
+  {
+    "id": "1890",
+    "basay": "sailailai",
+    "category": "19",
+    "zh": [
+      "歌"
+    ],
+    "en": [
+      "song"
+    ],
+    "source": "M",
+    "original": "sailailai (M)"
+  },
+  {
+    "id": "2019",
+    "basay": "sailailai",
+    "category": "19",
+    "zh": [
+      "歌"
+    ],
+    "en": [
+      "song"
+    ],
+    "source": "M",
+    "original": "sailailai (M)"
+  },
+  {
+    "id": "1891",
+    "basay": "saini",
+    "category": "29",
+    "zh": [
+      "擔心"
+    ],
+    "en": [
+      "worry"
+    ],
+    "source": "T",
+    "original": "saini"
+  },
+  {
+    "id": "2020",
+    "basay": "saini",
+    "category": "29",
+    "zh": [
+      "擔心"
+    ],
+    "en": [
+      "worry"
+    ],
+    "source": "T",
+    "original": "saini"
+  },
+  {
+    "id": "1892",
+    "basay": "saipola",
+    "category": "34",
+    "zh": [
+      "關心"
+    ],
+    "en": [
+      "care"
+    ],
+    "source": "T",
+    "original": "saipola"
+  },
+  {
+    "id": "2021",
+    "basay": "saipola",
+    "category": "34",
+    "zh": [
+      "關心"
+    ],
+    "en": [
+      "care"
+    ],
+    "source": "T",
+    "original": "saipola"
+  },
+  {
+    "id": "1893",
+    "basay": "sait",
+    "category": "09",
+    "zh": [
+      "剪刀"
+    ],
+    "en": [
+      "scissors"
+    ],
+    "source": "M",
+    "original": "sait (M)"
+  },
+  {
+    "id": "2022",
+    "basay": "sait",
+    "category": "09",
+    "zh": [
+      "剪刀"
+    ],
+    "en": [
+      "scissors"
+    ],
+    "source": "M",
+    "original": "sait (M)"
+  },
+  {
+    "id": "0757",
+    "basay": "saja",
+    "category": "25",
+    "zh": [
+      "製作"
+    ],
+    "ja": [
+      "作る】"
+    ],
+    "en": [
+      "make"
+    ],
+    "source": "B",
+    "original": "saja"
+  },
+  {
+    "id": "0758",
+    "basay": "saja kava",
+    "category": "18",
+    "zh": [
+      "做衣服"
+    ],
+    "ja": [
+      "衣服ヲ作ル"
+    ],
+    "en": [
+      "make clothes"
+    ],
+    "source": "B",
+    "original": "saja kava"
+  },
+  {
+    "id": "0759",
+    "basay": "saja munan'in",
+    "category": "25",
+    "zh": [
+      "繡"
+    ],
+    "ja": [
+      "刺繍スル"
+    ],
+    "en": [
+      "embroider (to)"
+    ],
+    "source": "B",
+    "original": "saja munaŋin"
+  },
+  {
+    "id": "0760",
+    "basay": "sajalan'",
+    "category": "27",
+    "zh": [
+      "蒸餾酒"
+    ],
+    "ja": [
+      "酒ヲ造る"
+    ],
+    "en": [
+      "distill liquor"
+    ],
+    "source": "B",
+    "original": "sajalaŋ"
+  },
+  {
+    "id": "0761",
+    "basay": "sajite",
+    "category": "09",
+    "zh": [
+      "剪刀"
+    ],
+    "ja": [
+      "鋏 ,アミ (sa-sa?it)"
+    ],
+    "en": [
+      "scissor"
+    ],
+    "source": "B",
+    "original": "sajite"
+  },
+  {
+    "id": "0762",
+    "basay": "sakalakalai",
+    "category": "23",
+    "zh": [
+      "喊"
+    ],
+    "ja": [
+      "叫ブ",
+      "ドナル"
+    ],
+    "en": [
+      "shout"
+    ],
+    "source": "B",
+    "original": "sakalakalai"
+  },
+  {
+    "id": "0764",
+    "basay": "sakalikalitsan'",
+    "category": "01",
+    "zh": [
+      "週長"
+    ],
+    "ja": [
+      "周囲 < ritsəŋ"
+    ],
+    "en": [
+      "circunference"
+    ],
+    "source": "B",
+    "original": "sakalikalitsaŋ"
+  },
+  {
+    "id": "0763",
+    "basay": "sakalikalitso'n'",
+    "category": "05",
+    "zh": [
+      "女子舞蹈"
+    ],
+    "ja": [
+      "踊 (女ノ)"
+    ],
+    "en": [
+      "dance (woman)"
+    ],
+    "source": "B",
+    "original": "sakalikalitsəŋ"
+  },
+  {
+    "id": "0765",
+    "basay": "sakalikalitso'n' balatse",
+    "category": "08",
+    "zh": [
+      "搖晃以去除米糠"
+    ],
+    "ja": [
+      "米カラ糠ヲトルタ メニカルク (??) 振ル"
+    ],
+    "en": [
+      "shake to get rid of the rice bran"
+    ],
+    "source": "B",
+    "original": "sakalikalitsəŋ balatse"
+  },
+  {
+    "id": "0766",
+    "basay": "sakan sete",
+    "category": "21",
+    "zh": [
+      "炒"
+    ],
+    "ja": [
+      "煮ル (油デ)"
+    ],
+    "en": [
+      "fry"
+    ],
+    "source": "B",
+    "original": "sakan sete"
+  },
+  {
+    "id": "0767",
+    "basay": "sakarikaritso'n'",
+    "category": "09",
+    "zh": [
+      "轉動"
+    ],
+    "ja": [
+      "角(かど) (??)"
+    ],
+    "en": [
+      "turning (??)"
+    ],
+    "source": "B",
+    "original": "sakarikaritsəŋ"
+  },
+  {
+    "id": "0768",
+    "basay": "sakiki",
+    "category": "23",
+    "zh": [
+      "吱吱作響，格柵"
+    ],
+    "ja": [
+      "ギーギー音スル"
+    ],
+    "en": [
+      "creak, grate"
+    ],
+    "source": "B",
+    "original": "sakiki"
+  },
+  {
+    "id": "1894",
+    "basay": "saknu",
+    "category": "34",
+    "zh": [
+      "時常"
+    ],
+    "en": [
+      "often"
+    ],
+    "source": "S",
+    "original": "saknu (S)"
+  },
+  {
+    "id": "2023",
+    "basay": "saknu",
+    "category": "34",
+    "zh": [
+      "時常"
+    ],
+    "en": [
+      "often"
+    ],
+    "source": "S",
+    "original": "saknu (S)"
+  },
+  {
+    "id": "1895",
+    "basay": "sakuija | saquQa",
+    "category": "24",
+    "zh": [
+      "說謊，騙"
+    ],
+    "en": [
+      "lie, cheat"
+    ],
+    "source": "T",
+    "original": "sakuija, saquQa"
+  },
+  {
+    "id": "0769",
+    "basay": "sakusa",
+    "category": "25",
+    "zh": [
+      "說"
+    ],
+    "ja": [
+      "云う s.mukessa"
+    ],
+    "en": [
+      "say"
+    ],
+    "source": "B",
+    "original": "sakusa"
+  },
+  {
+    "id": "0770",
+    "basay": "sakusa",
+    "category": "24",
+    "zh": [
+      "故事"
+    ],
+    "ja": [
+      "話. サイセット (k-um-usa)"
+    ],
+    "en": [
+      "story"
+    ],
+    "source": "B",
+    "original": "sakusa"
+  },
+  {
+    "id": "0771",
+    "basay": "sakusa",
+    "category": "24",
+    "zh": [
+      "承諾",
+      "故事"
+    ],
+    "ja": [
+      "約束",
+      "話"
+    ],
+    "en": [
+      "promise. story"
+    ],
+    "source": "B",
+    "original": "sakusa"
+  },
+  {
+    "id": "0772",
+    "basay": "sakusa",
+    "category": "24",
+    "zh": [
+      "演講"
+    ],
+    "ja": [
+      "話ス"
+    ],
+    "en": [
+      "talk"
+    ],
+    "source": "B",
+    "original": "sakusa"
+  },
+  {
+    "id": "0773",
+    "basay": "sakusa malila | malila sakusa siasiana.",
+    "category": "24",
+    "zh": [
+      "好消息，笑話"
+    ],
+    "ja": [
+      "話がウレシイ，冗談ヲ云ﾌ"
+    ],
+    "en": [
+      "good news, joke (to)"
+    ],
+    "source": "B",
+    "original": "sakusa malila, malila sakusa siasiana."
+  },
+  {
+    "id": "0774",
+    "basay": "sakwāikwāi",
+    "category": "09",
+    "zh": [
+      "鑼"
+    ],
+    "ja": [
+      "ガンガンナル, kwāi kwãi (台)"
+    ],
+    "en": [
+      "gong"
+    ],
+    "source": "B",
+    "original": "sakwāikwāi"
+  },
+  {
+    "id": "1897",
+    "basay": "sal'al'in'",
+    "category": "10",
+    "zh": [
+      "海濱"
+    ],
+    "en": [
+      "seashore"
+    ],
+    "source": "S",
+    "original": "saɭaɭiŋ (S)"
+  },
+  {
+    "id": "1898",
+    "basay": "sal'an'",
+    "category": "08",
+    "zh": [
+      "(樹)液，汁"
+    ],
+    "en": [
+      "sap, soup, waterly"
+    ],
+    "source": "M",
+    "original": "saɭaŋ (M)"
+  },
+  {
+    "id": "1899",
+    "basay": "sal'it",
+    "category": "34",
+    "zh": [
+      "完成"
+    ],
+    "en": [
+      "finish"
+    ],
+    "source": "T",
+    "original": "saɭit"
+  },
+  {
+    "id": "1900",
+    "basay": "sal'ul'an | snal'ul'",
+    "category": "11",
+    "zh": [
+      "澆水"
+    ],
+    "en": [
+      "pour water"
+    ],
+    "source": "T",
+    "original": "saɭuɭan, snaɭuɭ"
+  },
+  {
+    "id": "0775",
+    "basay": "salake a Len",
+    "category": "11",
+    "zh": [
+      "南"
+    ],
+    "ja": [
+      "南(良き日). 南風ハ天気好良ニナル"
+    ],
+    "en": [
+      "south"
+    ],
+    "source": "B",
+    "original": "salake a Len"
+  },
+  {
+    "id": "0776",
+    "basay": "salake a tau",
+    "category": "05",
+    "zh": [
+      "好人"
+    ],
+    "ja": [
+      "良キ人"
+    ],
+    "en": [
+      "good man"
+    ],
+    "source": "B",
+    "original": "salake a tau"
+  },
+  {
+    "id": "0777",
+    "basay": "salake kuman",
+    "category": "27",
+    "zh": [
+      "可口的"
+    ],
+    "ja": [
+      "オイシイ"
+    ],
+    "en": [
+      "delicious"
+    ],
+    "source": "B",
+    "original": "salake kuman"
+  },
+  {
+    "id": "0778",
+    "basay": "salalu",
+    "category": "07",
+    "zh": [
+      "豬飼料白湯"
+    ],
+    "ja": [
+      "豚ノ餌ノ白水"
+    ],
+    "en": [
+      "white soup of the feed for pig"
+    ],
+    "source": "B",
+    "original": "salalu"
+  },
+  {
+    "id": "0779",
+    "basay": "salan'",
+    "category": "06",
+    "zh": [
+      "汗"
+    ],
+    "ja": [
+      "汗"
+    ],
+    "en": [
+      "sweat"
+    ],
+    "source": "B",
+    "original": "salaŋ"
+  },
+  {
+    "id": "0780",
+    "basay": "salan'",
+    "category": "06",
+    "zh": [
+      "鼻涕",
+      "汗"
+    ],
+    "ja": [
+      "ハナ水",
+      "汗"
+    ],
+    "en": [
+      "snive. sweat"
+    ],
+    "source": "B",
+    "original": "salaŋ"
+  },
+  {
+    "id": "0781",
+    "basay": "salan'",
+    "category": "06",
+    "zh": [
+      "汗"
+    ],
+    "ja": [
+      "汗"
+    ],
+    "en": [
+      "sweat"
+    ],
+    "source": "B",
+    "original": "salaŋ"
+  },
+  {
+    "id": "0782",
+    "basay": "salan' na",
+    "category": "11",
+    "zh": [
+      "湯，水狀"
+    ],
+    "ja": [
+      "汁",
+      "水ニナル"
+    ],
+    "en": [
+      "soup, waterly"
+    ],
+    "source": "B",
+    "original": "salaŋ na"
+  },
+  {
+    "id": "1896",
+    "basay": "salas",
+    "category": "08",
+    "zh": [
+      "除草"
+    ],
+    "en": [
+      "weed"
+    ],
+    "source": "S",
+    "original": "salas (S)"
+  },
+  {
+    "id": "0783",
+    "basay": "salatso'n'",
+    "category": "25",
+    "zh": [
+      "中斷",
+      "阻礙"
+    ],
+    "ja": [
+      "邪魔ヲスル(故意ニ)"
+    ],
+    "en": [
+      "interrupt (to). hinder"
+    ],
+    "source": "B",
+    "original": "salatsəŋ"
+  },
+  {
+    "id": "0785",
+    "basay": "salin'i",
+    "category": "25",
+    "zh": [
+      "引誘",
+      "引誘",
+      "警衛"
+    ],
+    "ja": [
+      "誘ウ",
+      "番ヲスル"
+    ],
+    "en": [
+      "seduce, allure. guard"
+    ],
+    "source": "B",
+    "original": "saliŋi"
+  },
+  {
+    "id": "0786",
+    "basay": "salin'i",
+    "category": "05",
+    "zh": [
+      "警衛"
+    ],
+    "ja": [
+      "番人",
+      "番ヲスル"
+    ],
+    "en": [
+      "guard"
+    ],
+    "source": "B",
+    "original": "saliŋi"
+  },
+  {
+    "id": "0787",
+    "basay": "saloten",
+    "category": "06",
+    "zh": [
+      "回顧"
+    ],
+    "ja": [
+      "顧ル"
+    ],
+    "en": [
+      "look back"
+    ],
+    "source": "B",
+    "original": "saloten (?)"
+  },
+  {
+    "id": "0788",
+    "basay": "sama",
+    "category": "08",
+    "zh": [
+      "芥菜植物"
+    ],
+    "ja": [
+      "カラシナ"
+    ],
+    "en": [
+      "mustard plant"
+    ],
+    "source": "B",
+    "original": "sama"
+  },
+  {
+    "id": "1901",
+    "basay": "sama",
+    "category": "08",
+    "zh": [
+      "芥菜"
+    ],
+    "en": [
+      "mustard plant"
+    ],
+    "source": "M",
+    "original": "sama (M)"
+  },
+  {
+    "id": "0789",
+    "basay": "samasorau",
+    "category": "07",
+    "zh": [
+      "傻子"
+    ],
+    "ja": [
+      "馬鹿にする"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "B",
+    "original": "samasorau"
+  },
+  {
+    "id": "0790",
+    "basay": "sami | na",
+    "category": "24",
+    "zh": [
+      "結尾"
+    ],
+    "ja": [
+      "終了"
+    ],
+    "en": [
+      "end"
+    ],
+    "source": "B",
+    "original": "sami (na)"
+  },
+  {
+    "id": "0791",
+    "basay": "samiai",
+    "category": "17",
+    "zh": [
+      "上帝"
+    ],
+    "ja": [
+      "神"
+    ],
+    "en": [
+      "god"
+    ],
+    "source": "B",
+    "original": "samiai"
+  },
+  {
+    "id": "0792",
+    "basay": "samiai takan",
+    "category": "17",
+    "zh": [
+      "神桌"
+    ],
+    "ja": [
+      "神卓子"
+    ],
+    "en": [
+      "god table"
+    ],
+    "source": "B",
+    "original": "samiai takan"
+  },
+  {
+    "id": "0793",
+    "basay": "samin",
+    "category": "35",
+    "zh": [
+      "便宜了，沒有了"
+    ],
+    "ja": [
+      "低価, samin ハ「モウ無 (??)｣ノ義"
+    ],
+    "en": [
+      "cheap (?), no more (?)"
+    ],
+    "source": "B",
+    "original": "samin (?)"
+  },
+  {
+    "id": "0794",
+    "basay": "samusse",
+    "category": "07",
+    "zh": [
+      "蝦"
+    ],
+    "ja": [
+      "エピ"
+    ],
+    "en": [
+      "shrimp"
+    ],
+    "source": "B",
+    "original": "samusse"
+  },
+  {
+    "id": "0795",
+    "basay": "samutse",
+    "category": "28",
+    "zh": [
+      "發癢"
+    ],
+    "ja": [
+      "痒い"
+    ],
+    "en": [
+      "itchy"
+    ],
+    "source": "B",
+    "original": "samutse"
+  },
+  {
+    "id": "0796",
+    "basay": "samutse",
+    "category": "07",
+    "zh": [
+      "發癢"
+    ],
+    "ja": [
+      "カユイ"
+    ],
+    "en": [
+      "itchy"
+    ],
+    "source": "B",
+    "original": "samutse"
+  },
+  {
+    "id": "0798",
+    "basay": "san'ajau",
+    "category": "32",
+    "zh": [
+      "光滑",
+      "美觀"
+    ],
+    "ja": [
+      "平ラナル",
+      "美シイ",
+      "滑カナル"
+    ],
+    "en": [
+      "smooth,beautiful"
+    ],
+    "source": "B",
+    "original": "saŋajau"
+  },
+  {
+    "id": "0799",
+    "basay": "san'ajau",
+    "category": "32",
+    "zh": [
+      "美麗",
+      "光滑的"
+    ],
+    "ja": [
+      "美シキ",
+      "滑カナル"
+    ],
+    "en": [
+      "beautifu. smooth"
+    ],
+    "source": "B",
+    "original": "saŋajau"
+  },
+  {
+    "id": "0800",
+    "basay": "san'ajau busuk",
+    "category": "18",
+    "zh": [
+      "美麗的布料=絲綢"
+    ],
+    "ja": [
+      "美シキ布= silk"
+    ],
+    "en": [
+      "beautiful cloth=silk"
+    ],
+    "source": "B",
+    "original": "saŋajau busuk"
+  },
+  {
+    "id": "0801",
+    "basay": "san'ajau | minai san'ajau",
+    "category": "05",
+    "zh": [
+      "美麗的"
+    ],
+    "ja": [
+      "美人, 美シキ,<美女>"
+    ],
+    "en": [
+      "beautiful"
+    ],
+    "source": "B",
+    "original": "saŋajau, <minai saŋajau>"
+  },
+  {
+    "id": "0802",
+    "basay": "san'ana",
+    "category": "25",
+    "zh": [
+      "離婚"
+    ],
+    "ja": [
+      "離緣"
+    ],
+    "en": [
+      "divorce"
+    ],
+    "source": "B",
+    "original": "saŋana"
+  },
+  {
+    "id": "0835",
+    "basay": "san'at | sun'apai",
+    "category": "25",
+    "zh": [
+      "休息"
+    ],
+    "ja": [
+      "休ム, <let us repose. >"
+    ],
+    "en": [
+      "rest (to take)"
+    ],
+    "source": "B",
+    "original": "saŋat, <suŋapai>"
+  },
+  {
+    "id": "0803",
+    "basay": "san'atsai <n'atsai",
+    "category": "06",
+    "zh": [
+      "唾液"
+    ],
+    "ja": [
+      "(美味ナルモノヲ見ルトキニ)口ニ水が出ル"
+    ],
+    "en": [
+      "saliva"
+    ],
+    "source": "B",
+    "original": "saŋatsai <ŋatsai"
+  },
+  {
+    "id": "1903",
+    "basay": "san'i",
+    "category": "25",
+    "zh": [
+      "休息"
+    ],
+    "en": [
+      "rest (to)"
+    ],
+    "source": "M",
+    "original": "saŋi (M)"
+  },
+  {
+    "id": "1904",
+    "basay": "san'i",
+    "category": "25",
+    "zh": [
+      "做"
+    ],
+    "en": [
+      "do"
+    ],
+    "source": "T",
+    "original": "saŋi, sinaŋi (S)"
+  },
+  {
+    "id": "0797",
+    "basay": "sanene",
+    "category": "23",
+    "zh": [
+      "低聲細語"
+    ],
+    "ja": [
+      "ササヤク (小声ニテ)"
+    ],
+    "en": [
+      "noise (to makea)"
+    ],
+    "source": "B",
+    "original": "sanene"
+  },
+  {
+    "id": "0804",
+    "basay": "sano e",
+    "category": "27",
+    "zh": [
+      "腫脹",
+      "熬"
+    ],
+    "ja": [
+      "腫物"
+    ],
+    "en": [
+      "swelling. boil"
+    ],
+    "source": "B",
+    "original": "sano e"
+  },
+  {
+    "id": "1902",
+    "basay": "sano'n'an'ana",
+    "category": "14",
+    "zh": [
+      "馬上"
+    ],
+    "en": [
+      "immediately"
+    ],
+    "source": "T",
+    "original": "sanəŋaŋana"
+  },
+  {
+    "id": "0805",
+    "basay": "sanumako'n",
+    "category": "29",
+    "zh": [
+      "真的",
+      "依賴於"
+    ],
+    "ja": [
+      "本当",
+      "信頼スル"
+    ],
+    "en": [
+      "true. depend on"
+    ],
+    "source": "B",
+    "original": "sanumakən"
+  },
+  {
+    "id": "0806",
+    "basay": "sanusanuke",
+    "category": "25",
+    "zh": [
+      "中風",
+      "畫"
+    ],
+    "ja": [
+      "ナデル",
+      "塗ル"
+    ],
+    "en": [
+      "stroke (to). paint"
+    ],
+    "source": "B",
+    "original": "sanusanuke"
+  },
+  {
+    "id": "1906",
+    "basay": "sapal",
+    "category": "09",
+    "zh": [
+      "板子"
+    ],
+    "en": [
+      "plank, board"
+    ],
+    "source": "T",
+    "original": "sapal"
+  },
+  {
+    "id": "0807",
+    "basay": "sapal'",
+    "category": "09",
+    "zh": [
+      "木板"
+    ],
+    "ja": [
+      "板"
+    ],
+    "en": [
+      "board"
+    ],
+    "source": "B",
+    "original": "sapal'"
+  },
+  {
+    "id": "1907",
+    "basay": "sapan",
+    "category": "10",
+    "zh": [
+      "海濱"
+    ],
+    "en": [
+      "seashore"
+    ],
+    "source": "T",
+    "original": "sapan"
+  },
+  {
+    "id": "0808",
+    "basay": "sapan'. sapan' kawasse",
+    "category": "24",
+    "zh": [
+      "隨機語音"
+    ],
+    "ja": [
+      "デタラメニ話ス"
+    ],
+    "en": [
+      "random speech"
+    ],
+    "source": "B",
+    "original": "sapaŋ. sapaŋ kawasse"
+  },
+  {
+    "id": "1908",
+    "basay": "sapana",
+    "category": "25",
+    "zh": [
+      "搬"
+    ],
+    "en": [
+      "move"
+    ],
+    "source": "S",
+    "original": "sapana (S)"
+  },
+  {
+    "id": "0809",
+    "basay": "sapat",
+    "category": "09",
+    "zh": [
+      "木板"
+    ],
+    "ja": [
+      "板"
+    ],
+    "en": [
+      "board"
+    ],
+    "source": "B",
+    "original": "sapat"
+  },
+  {
+    "id": "1909",
+    "basay": "sapat",
+    "category": "01",
+    "zh": [
+      "全部"
+    ],
+    "en": [
+      "all"
+    ],
+    "source": "T",
+    "original": "sapat"
+  },
+  {
+    "id": "0810",
+    "basay": "sapat a tsatsan",
+    "category": "12",
+    "zh": [
+      "橋"
+    ],
+    "ja": [
+      "橋"
+    ],
+    "en": [
+      "bridge"
+    ],
+    "source": "B",
+    "original": "sapat a tsatsan"
+  },
+  {
+    "id": "0811",
+    "basay": "sapinatasau",
+    "category": "11",
+    "zh": [
+      "元旦節"
+    ],
+    "ja": [
+      "正月祭"
+    ],
+    "en": [
+      "New Year's festival"
+    ],
+    "source": "B",
+    "original": "sapinatasau"
+  },
+  {
+    "id": "0812",
+    "basay": "sapisse",
+    "category": "25",
+    "zh": [
+      "準備"
+    ],
+    "ja": [
+      "ソロエル"
+    ],
+    "en": [
+      "prepare"
+    ],
+    "source": "B",
+    "original": "sapisse"
+  },
+  {
+    "id": "1910",
+    "basay": "sapit",
+    "category": "25",
+    "zh": [
+      "準備"
+    ],
+    "en": [
+      "prepare"
+    ],
+    "source": "M",
+    "original": "sapit (M)"
+  },
+  {
+    "id": "1911",
+    "basay": "sapol'",
+    "category": "15",
+    "zh": [
+      "幼苗"
+    ],
+    "en": [
+      "seedling"
+    ],
+    "source": "M",
+    "original": "sapoɭ (M)"
+  },
+  {
+    "id": "0813",
+    "basay": "sapolon'",
+    "category": "11",
+    "zh": [
+      "天花"
+    ],
+    "ja": [
+      "天然痘"
+    ],
+    "en": [
+      "smallpox"
+    ],
+    "source": "B",
+    "original": "sapoloŋ"
+  },
+  {
+    "id": "0814",
+    "basay": "sapsap",
+    "category": "14",
+    "zh": [
+      "填補縫隙",
+      "鋪開"
+    ],
+    "ja": [
+      "スキマヲウメル",
+      "敷ク"
+    ],
+    "en": [
+      "fill up the crevice (to).spread, lay lie (to tell)"
+    ],
+    "source": "B",
+    "original": "sapsap"
+  },
+  {
+    "id": "0815",
+    "basay": "sapupukke",
+    "category": "24",
+    "zh": [
+      "說謊"
+    ],
+    "ja": [
+      "ウソヲツク"
+    ],
+    "en": [
+      "lie (to tell)"
+    ],
+    "source": "B",
+    "original": "sapupukke"
+  },
+  {
+    "id": "0816",
+    "basay": "sapupukke",
+    "category": "25",
+    "zh": [
+      "欺騙"
+    ],
+    "ja": [
+      "ダマス"
+    ],
+    "en": [
+      "deceive"
+    ],
+    "source": "B",
+    "original": "sapupukke"
+  },
+  {
+    "id": "0817",
+    "basay": "sapupukke",
+    "category": "25",
+    "zh": [
+      "聊天"
+    ],
+    "ja": [
+      "オシャベリスル"
+    ],
+    "en": [
+      "chat"
+    ],
+    "source": "B",
+    "original": "sapupukke"
+  },
+  {
+    "id": "1912",
+    "basay": "saqal'aqalavan",
+    "category": "11",
+    "zh": [
+      "一整天"
+    ],
+    "en": [
+      "day (whole)"
+    ],
+    "source": "T",
+    "original": "saqaɭaqalavan"
+  },
+  {
+    "id": "1913",
+    "basay": "saqon'a",
+    "category": "34",
+    "zh": [
+      "傳說"
+    ],
+    "en": [
+      "tell tale"
+    ],
+    "source": "M",
+    "original": "saqoŋa (M)"
+  },
+  {
+    "id": "1914",
+    "basay": "saqon'qon'a",
+    "category": "24",
+    "zh": [
+      "說謊"
+    ],
+    "en": [
+      "lie (to tell)"
+    ],
+    "source": "M",
+    "original": "saqoŋqoŋa (M)"
+  },
+  {
+    "id": "1915",
+    "basay": "saqul'",
+    "category": "08",
+    "zh": [
+      "茄冬果"
+    ],
+    "en": [
+      "fruit of toog tree"
+    ],
+    "source": "T",
+    "original": "saquɭ"
+  },
+  {
+    "id": "0818",
+    "basay": "sarabaisabai",
+    "category": "11",
+    "zh": [
+      "出沒"
+    ],
+    "ja": [
+      "影ガチラック"
+    ],
+    "en": [
+      "haunt (to)"
+    ],
+    "source": "B",
+    "original": "sarabaisabai"
+  },
+  {
+    "id": "0822",
+    "basay": "sasagn'i sete",
+    "category": "08",
+    "zh": [
+      "草油",
+      "煤油"
+    ],
+    "ja": [
+      "クサ油, クサ油"
+    ],
+    "en": [
+      "oil (grass). kerosene"
+    ],
+    "source": "B",
+    "original": "sasagŋi sete"
+  },
+  {
+    "id": "0819",
+    "basay": "sasake",
+    "category": "07",
+    "zh": [
+      "魚",
+      "肉"
+    ],
+    "ja": [
+      "魚",
+      "肉"
+    ],
+    "en": [
+      "fish. meat"
+    ],
+    "source": "B",
+    "original": "sasake"
+  },
+  {
+    "id": "0820",
+    "basay": "sasake | manai kuman sasake",
+    "category": "21",
+    "zh": [
+      "肉",
+      "不吃肉"
+    ],
+    "ja": [
+      "肉, <肉食セズ>"
+    ],
+    "en": [
+      "meat. <no to eat meat>"
+    ],
+    "source": "B",
+    "original": "sasake, <manai kuman sasake>"
+  },
+  {
+    "id": "0821",
+    "basay": "sasan'uí",
+    "category": "28",
+    "zh": [
+      "臭氣"
+    ],
+    "ja": [
+      "臭い"
+    ],
+    "en": [
+      "bad smell"
+    ],
+    "source": "B",
+    "original": "sasaŋuí"
+  },
+  {
+    "id": "1916",
+    "basay": "sasapal",
+    "category": "09",
+    "zh": [
+      "做板子"
+    ],
+    "en": [
+      "make a plank"
+    ],
+    "source": "T",
+    "original": "sasapal"
+  },
+  {
+    "id": "0823",
+    "basay": "sasikke",
+    "category": "09",
+    "zh": [
+      "掃帚"
+    ],
+    "ja": [
+      "ホーキ, ハク, アミ. (sa-?asik)"
+    ],
+    "en": [
+      "broom"
+    ],
+    "source": "B",
+    "original": "sasikke"
+  },
+  {
+    "id": "1917",
+    "basay": "saso'n",
+    "category": "28",
+    "zh": [
+      "寒冷"
+    ],
+    "en": [
+      "cold"
+    ],
+    "source": "S",
+    "original": "sasən (S)"
+  },
+  {
+    "id": "1918",
+    "basay": "sastaq",
+    "category": "34",
+    "zh": [
+      "像"
+    ],
+    "en": [
+      "resemble"
+    ],
+    "source": "S",
+    "original": "sastaq (S)"
+  },
+  {
+    "id": "0824",
+    "basay": "sasuani",
+    "category": "04",
+    "zh": [
+      "兄弟"
+    ],
+    "ja": [
+      "兄弟"
+    ],
+    "en": [
+      "brother"
+    ],
+    "source": "B",
+    "original": "sasuani"
+  },
+  {
+    "id": "1919",
+    "basay": "sasuani",
+    "category": "04",
+    "zh": [
+      "兄弟"
+    ],
+    "en": [
+      "brother"
+    ],
+    "source": "M",
+    "original": "sasuani (M)"
+  },
+  {
+    "id": "1920",
+    "basay": "sasuani",
+    "category": "04",
+    "zh": [
+      "姊妹"
+    ],
+    "en": [
+      "siblings"
+    ],
+    "source": "S",
+    "original": "sasuani (S)"
+  },
+  {
+    "id": "1921",
+    "basay": "sasusuzo",
+    "category": "25",
+    "zh": [
+      "欺騙，蒙蔽"
+    ],
+    "en": [
+      "deceive"
+    ],
+    "source": "M",
+    "original": "sasusuzo (M)"
+  },
+  {
+    "id": "0825",
+    "basay": "satalainatte",
+    "category": "17",
+    "zh": [
+      "詛咒"
+    ],
+    "ja": [
+      "呪ヲスル"
+    ],
+    "en": [
+      "curse"
+    ],
+    "source": "B",
+    "original": "satalainatte"
+  },
+  {
+    "id": "0826",
+    "basay": "satanitan'itse",
+    "category": "03",
+    "zh": [
+      "唱歌時冷笑"
+    ],
+    "ja": [
+      "拙ク歌ウトキニア ザケリ云フ"
+    ],
+    "en": [
+      "sneer when singing"
+    ],
+    "source": "B",
+    "original": "satanitaŋitse"
+  },
+  {
+    "id": "0827",
+    "basay": "satapo'-tapo'l",
+    "category": "25",
+    "zh": [
+      "鏽"
+    ],
+    "ja": [
+      "錆ガデル"
+    ],
+    "en": [
+      "rust (to)"
+    ],
+    "source": "B",
+    "original": "satapə-tapəl"
+  },
+  {
+    "id": "0828",
+    "basay": "satarenatte",
+    "category": "05",
+    "zh": [
+      "媒人"
+    ],
+    "ja": [
+      "男女ヲ取持≫, 仲人"
+    ],
+    "en": [
+      "go-between"
+    ],
+    "source": "B",
+    "original": "satarenatte"
+  },
+  {
+    "id": "1922",
+    "basay": "satataka",
+    "category": "34",
+    "zh": [
+      "一塊，一團"
+    ],
+    "en": [
+      "ball of, piece of"
+    ],
+    "source": "S",
+    "original": "satataka (S)"
+  },
+  {
+    "id": "0829",
+    "basay": "sats'ikets'ike",
+    "category": "07",
+    "zh": [
+      "蟬",
+      "蚯蚓"
+    ],
+    "ja": [
+      "ジイジイ鳴クモノ=蝉",
+      "ミミズ"
+    ],
+    "en": [
+      "cicada. earth worm"
+    ],
+    "source": "B",
+    "original": "satʃiketʃike"
+  },
+  {
+    "id": "1923",
+    "basay": "savak",
+    "category": "08",
+    "zh": [
+      "稻穀，未去殼的米"
+    ],
+    "en": [
+      "rice grain, rice (unhulled)"
+    ],
+    "source": "M",
+    "original": "savak (M)"
+  },
+  {
+    "id": "1924",
+    "basay": "savo't",
+    "category": "18",
+    "zh": [
+      "腰帶"
+    ],
+    "en": [
+      "belt"
+    ],
+    "source": "M",
+    "original": "savət (M)"
+  },
+  {
+    "id": "1925",
+    "basay": "savok",
+    "category": "06",
+    "zh": [
+      "下腹"
+    ],
+    "en": [
+      "lower abdomen"
+    ],
+    "source": "M",
+    "original": "savok (M)"
+  },
+  {
+    "id": "1926",
+    "basay": "savsavlutan",
+    "category": "34",
+    "zh": [
+      "按摩"
+    ],
+    "en": [
+      "massage"
+    ],
+    "source": "T",
+    "original": "savsavlutan"
+  },
+  {
+    "id": "1927",
+    "basay": "savut",
+    "category": "34",
+    "zh": [
+      "帶子"
+    ],
+    "en": [
+      "strap"
+    ],
+    "source": "T",
+    "original": "savut"
+  },
+  {
+    "id": "1928",
+    "basay": "sazmako'n",
+    "category": "24",
+    "zh": [
+      "相信，同意，真的"
+    ],
+    "en": [
+      "believe, agree, really"
+    ],
+    "source": "T",
+    "original": "sazmakən"
+  },
+  {
+    "id": "0830",
+    "basay": "sehabolosse",
+    "category": "35",
+    "zh": [
+      "嫉妒的"
+    ],
+    "ja": [
+      "ヤキモチヤク",
+      "気持チガオサマラナイ"
+    ],
+    "en": [
+      "jealous"
+    ],
+    "source": "B",
+    "original": "sehabolosse"
+  },
+  {
+    "id": "0831",
+    "basay": "seho'te",
+    "category": "25",
+    "zh": [
+      "領帶"
+    ],
+    "ja": [
+      "シバル"
+    ],
+    "en": [
+      "tie (to)"
+    ],
+    "source": "B",
+    "original": "sehəte"
+  },
+  {
+    "id": "0832",
+    "basay": "seho'te",
+    "category": "25",
+    "zh": [
+      "領帶"
+    ],
+    "ja": [
+      "シバル"
+    ],
+    "en": [
+      "tie (to)"
+    ],
+    "source": "B",
+    "original": "sehəte"
+  },
+  {
+    "id": "1929",
+    "basay": "sel'es",
+    "category": "32",
+    "zh": [
+      "貴"
+    ],
+    "en": [
+      "expensive"
+    ],
+    "source": "M",
+    "original": "seɭes (M)"
+  },
+  {
+    "id": "0833",
+    "basay": "seloppe. . | selop lan'",
+    "category": "27",
+    "zh": [
+      "喝"
+    ],
+    "ja": [
+      "飲む"
+    ],
+    "en": [
+      "drinking"
+    ],
+    "source": "B",
+    "original": "seloppe. <selop laŋ>."
+  },
+  {
+    "id": "1930",
+    "basay": "semamman'u | semman'una",
+    "category": "34",
+    "zh": [
+      "經常"
+    ],
+    "en": [
+      "often"
+    ],
+    "source": "T",
+    "original": "semammaŋu, semmaŋuna"
+  },
+  {
+    "id": "1931",
+    "basay": "semo'n'mo'n' | siamamman'",
+    "category": "36",
+    "zh": [
+      "只有"
+    ],
+    "en": [
+      "only"
+    ],
+    "source": "T",
+    "original": "seməŋməŋ, siamammaŋ"
+  },
+  {
+    "id": "0834",
+    "basay": "sen'al'",
+    "category": "24",
+    "zh": [
+      "關閉",
+      "暫停營業"
+    ],
+    "ja": [
+      "休業"
+    ],
+    "en": [
+      "closure. suspension of business"
+    ],
+    "source": "B",
+    "original": "seŋal'"
+  },
+  {
+    "id": "0836",
+    "basay": "sepapalo",
+    "category": "07",
+    "zh": [
+      "繫牛而舞"
+    ],
+    "ja": [
+      "牛ヲ繋ギ踊ルコト"
+    ],
+    "en": [
+      "dance (to tie the rope of cow and)"
+    ],
+    "source": "B",
+    "original": "sepapalo"
+  },
+  {
+    "id": "1932",
+    "basay": "separunu",
+    "category": "35",
+    "zh": [
+      "髒的"
+    ],
+    "en": [
+      "dirty"
+    ],
+    "source": "M",
+    "original": "separunu (M)"
+  },
+  {
+    "id": "1933",
+    "basay": "sepo",
+    "category": "09",
+    "zh": [
+      "刀"
+    ],
+    "en": [
+      "knife"
+    ],
+    "source": "T",
+    "original": "sepo"
+  },
+  {
+    "id": "0838",
+    "basay": "setan'e",
+    "category": "24",
+    "zh": [
+      "債務"
+    ],
+    "ja": [
+      "借ガアル"
+    ],
+    "en": [
+      "debt"
+    ],
+    "source": "B",
+    "original": "setaŋe"
+  },
+  {
+    "id": "0839",
+    "basay": "sete",
+    "category": "21",
+    "zh": [
+      "油"
+    ],
+    "ja": [
+      "油"
+    ],
+    "en": [
+      "oil"
+    ],
+    "source": "B",
+    "original": "sete"
+  },
+  {
+    "id": "0840",
+    "basay": "sete",
+    "category": "21",
+    "zh": [
+      "油",
+      "茶"
+    ],
+    "ja": [
+      "油",
+      "茶"
+    ],
+    "en": [
+      "oil, tea"
+    ],
+    "source": "B",
+    "original": "sete"
+  },
+  {
+    "id": "1934",
+    "basay": "sete",
+    "category": "21",
+    "zh": [
+      "油"
+    ],
+    "en": [
+      "oil"
+    ],
+    "source": "M",
+    "original": "sete (?) (M)"
+  },
+  {
+    "id": "0841",
+    "basay": "sete | . | kuman sete",
+    "category": "27",
+    "zh": [
+      "茶"
+    ],
+    "ja": [
+      "茶, 茶ヲノム>"
+    ],
+    "en": [
+      "tea"
+    ],
+    "source": "B",
+    "original": "sete, <kuman sete>."
+  },
+  {
+    "id": "0842",
+    "basay": "setolan'",
+    "category": "19",
+    "zh": [
+      "通姦"
+    ],
+    "ja": [
+      "密通"
+    ],
+    "en": [
+      "adultery"
+    ],
+    "source": "B",
+    "original": "setolaŋ"
+  },
+  {
+    "id": "1936",
+    "basay": "si",
+    "category": "36",
+    "zh": [
+      "若"
+    ],
+    "en": [
+      "if"
+    ],
+    "source": "S",
+    "original": "si (S)"
+  },
+  {
+    "id": "0843",
+    "basay": "siana",
+    "category": "19",
+    "zh": [
+      "玩"
+    ],
+    "ja": [
+      "遊"
+    ],
+    "en": [
+      "play"
+    ],
+    "source": "B",
+    "original": "siana"
+  },
+  {
+    "id": "0844",
+    "basay": "sibul'",
+    "category": "25",
+    "zh": [
+      "混合"
+    ],
+    "ja": [
+      "混ゼル"
+    ],
+    "en": [
+      "mix"
+    ],
+    "source": "B",
+    "original": "sibul'"
+  },
+  {
+    "id": "0845",
+    "basay": "sihunpun",
+    "category": "29",
+    "zh": [
+      "害怕的"
+    ],
+    "ja": [
+      "心配スル"
+    ],
+    "en": [
+      "afraid"
+    ],
+    "source": "B",
+    "original": "sihunpun"
+  },
+  {
+    "id": "0846",
+    "basay": "sikaba | sikava",
+    "category": "18",
+    "zh": [
+      "穿"
+    ],
+    "ja": [
+      "着る"
+    ],
+    "en": [
+      "wear (to)"
+    ],
+    "source": "B",
+    "original": "sikaba, sikava"
+  },
+  {
+    "id": "0847",
+    "basay": "sikalape baute",
+    "category": "06",
+    "zh": [
+      "用手抓魚"
+    ],
+    "ja": [
+      "魚ヲ取ル(手ニ握り)"
+    ],
+    "en": [
+      "fish with hands (to)"
+    ],
+    "source": "B",
+    "original": "sikalape baute"
+  },
+  {
+    "id": "0848",
+    "basay": "sikalappe",
+    "category": "25",
+    "zh": [
+      "逮捕"
+    ],
+    "ja": [
+      "捕ヘル"
+    ],
+    "en": [
+      "arrest"
+    ],
+    "source": "B",
+    "original": "sikalappe"
+  },
+  {
+    "id": "1409",
+    "basay": "sikaw",
+    "category": "25",
+    "zh": [
+      "說"
+    ],
+    "en": [
+      "say"
+    ],
+    "source": "S",
+    "original": "makawas, sikaw (S)"
+  },
+  {
+    "id": "0849",
+    "basay": "sikkam",
+    "category": "09",
+    "zh": [
+      "墊"
+    ],
+    "ja": [
+      "ゴザ, アミ (sikar)"
+    ],
+    "en": [
+      "mat"
+    ],
+    "source": "B",
+    "original": "sikkam"
+  },
+  {
+    "id": "0850",
+    "basay": "sikulan'",
+    "category": "32",
+    "zh": [
+      "裸"
+    ],
+    "ja": [
+      "裸"
+    ],
+    "en": [
+      "naked"
+    ],
+    "source": "B",
+    "original": "sikulaŋ"
+  },
+  {
+    "id": "0851",
+    "basay": "sikulan'",
+    "category": "14",
+    "zh": [
+      "沒有上衣，幾乎赤裸裸"
+    ],
+    "ja": [
+      "上衣ヲツケナイ",
+      "半裸"
+    ],
+    "en": [
+      "without uppergarment, almost naked"
+    ],
+    "source": "B",
+    "original": "sikulaŋ"
+  },
+  {
+    "id": "0852",
+    "basay": "sikun",
+    "category": "18",
+    "zh": [
+      "腰布"
+    ],
+    "ja": [
+      "腰巻"
+    ],
+    "en": [
+      "loincloth"
+    ],
+    "source": "B",
+    "original": "sikun"
+  },
+  {
+    "id": "1937",
+    "basay": "sikuz",
+    "category": "34",
+    "zh": [
+      "院子"
+    ],
+    "en": [
+      "yard"
+    ],
+    "source": "T",
+    "original": "sikuz"
+  },
+  {
+    "id": "1939",
+    "basay": "sil'apan",
+    "category": "34",
+    "zh": [
+      "摸"
+    ],
+    "en": [
+      "grope"
+    ],
+    "source": "T",
+    "original": "siɭapan"
+  },
+  {
+    "id": "1940",
+    "basay": "sil'it",
+    "category": "18",
+    "zh": [
+      "毛線"
+    ],
+    "en": [
+      "yarn"
+    ],
+    "source": "M",
+    "original": "siɭit(M)"
+  },
+  {
+    "id": "1941",
+    "basay": "sil'uq",
+    "category": "06",
+    "zh": [
+      "用手吃"
+    ],
+    "en": [
+      "eat by hand"
+    ],
+    "source": "T",
+    "original": "siɭuq"
+  },
+  {
+    "id": "0869",
+    "basay": "silara",
+    "category": "06",
+    "zh": [
+      "經期"
+    ],
+    "ja": [
+      "月経"
+    ],
+    "en": [
+      "menstruation"
+    ],
+    "source": "B",
+    "original": "silara"
+  },
+  {
+    "id": "0853",
+    "basay": "silasilap",
+    "category": "07",
+    "zh": [
+      "家蜥蜴"
+    ],
+    "ja": [
+      "屋守"
+    ],
+    "en": [
+      "house lizard"
+    ],
+    "source": "B",
+    "original": "silasilap"
+  },
+  {
+    "id": "0854",
+    "basay": "sili",
+    "category": "10",
+    "zh": [
+      "山羊"
+    ],
+    "ja": [
+      "山羊"
+    ],
+    "en": [
+      "goat"
+    ],
+    "source": "B",
+    "original": "sili"
+  },
+  {
+    "id": "1938",
+    "basay": "silit",
+    "category": "06",
+    "zh": [
+      "頭巾"
+    ],
+    "en": [
+      "scarf"
+    ],
+    "source": "T",
+    "original": "silit"
+  },
+  {
+    "id": "1942",
+    "basay": "simao po'to'kto'k",
+    "category": "34",
+    "zh": [
+      "裝飾品"
+    ],
+    "en": [
+      "ornamental"
+    ],
+    "source": "M",
+    "original": "simao pətəktək (M)"
+  },
+  {
+    "id": "0855",
+    "basay": "simau",
+    "category": "25",
+    "zh": [
+      "店鋪"
+    ],
+    "ja": [
+      "シマッテオク"
+    ],
+    "en": [
+      "store (to)"
+    ],
+    "source": "B",
+    "original": "simau"
+  },
+  {
+    "id": "1943",
+    "basay": "simau",
+    "category": "08",
+    "zh": [
+      "花"
+    ],
+    "en": [
+      "flower"
+    ],
+    "source": "M",
+    "original": "simau (M)"
+  },
+  {
+    "id": "0856",
+    "basay": "siminawan",
+    "category": "07",
+    "zh": [
+      "蜻蜓"
+    ],
+    "ja": [
+      "蜻蛉"
+    ],
+    "en": [
+      "dragonfly"
+    ],
+    "source": "B",
+    "original": "siminawan"
+  },
+  {
+    "id": "1944",
+    "basay": "simkapiz",
+    "category": "34",
+    "zh": [
+      "腿勾在一起"
+    ],
+    "en": [
+      "cross legs togeilier"
+    ],
+    "source": "T",
+    "original": "simkapiz"
+  },
+  {
+    "id": "1945",
+    "basay": "simqo'l'us",
+    "category": "23",
+    "zh": [
+      "互相喊叫"
+    ],
+    "en": [
+      "yell to each other"
+    ],
+    "source": "T",
+    "original": "simqəɭus"
+  },
+  {
+    "id": "1946",
+    "basay": "simtuzu",
+    "category": "34",
+    "zh": [
+      "商量"
+    ],
+    "en": [
+      "discuss, talk to each other"
+    ],
+    "source": "T",
+    "original": "simtuzu"
+  },
+  {
+    "id": "1715",
+    "basay": "simunan'",
+    "category": "32",
+    "zh": [
+      "温和的"
+    ],
+    "en": [
+      "gentle, quiet"
+    ],
+    "source": "T",
+    "original": "paɭakun (M), simunaŋ"
+  },
+  {
+    "id": "1947",
+    "basay": "simzun'ut",
+    "category": "08",
+    "zh": [
+      "種植"
+    ],
+    "en": [
+      "plant (to)"
+    ],
+    "source": "T",
+    "original": "simzuŋut"
+  },
+  {
+    "id": "1950",
+    "basay": "sin'asas",
+    "category": "09",
+    "zh": [
+      "賺錢"
+    ],
+    "en": [
+      "earn a lot of money"
+    ],
+    "source": "M",
+    "original": "siŋasas (M)"
+  },
+  {
+    "id": "0861",
+    "basay": "sin'asasse",
+    "category": "09",
+    "zh": [
+      "賺錢"
+    ],
+    "ja": [
+      "儲ケル"
+    ],
+    "en": [
+      "earn money"
+    ],
+    "source": "B",
+    "original": "siŋasasse"
+  },
+  {
+    "id": "0862",
+    "basay": "sin'asatse",
+    "category": "09",
+    "zh": [
+      "賺很多錢",
+      "在街上賺錢"
+    ],
+    "ja": [
+      "金儲ケスル",
+      "淫売スル"
+    ],
+    "en": [
+      "earn a lot of money (to). earn money on the street"
+    ],
+    "source": "B",
+    "original": "siŋasatse"
+  },
+  {
+    "id": "0863",
+    "basay": "sin'ute",
+    "category": "28",
+    "zh": [
+      "聞"
+    ],
+    "ja": [
+      "嗅ｸﾞ"
+    ],
+    "en": [
+      "smell (to)"
+    ],
+    "source": "B",
+    "original": "siŋute"
+  },
+  {
+    "id": "0857",
+    "basay": "sinabalis",
+    "category": "09",
+    "zh": [
+      "青金石"
+    ],
+    "ja": [
+      "瑠璃玉",
+      "円柱"
+    ],
+    "en": [
+      "lapis lazuli"
+    ],
+    "source": "B",
+    "original": "sinabalis"
+  },
+  {
+    "id": "0858",
+    "basay": "sinabau",
+    "category": "05",
+    "zh": [
+      "僱員",
+      "僱員"
+    ],
+    "ja": [
+      "雇フ,雇人"
+    ],
+    "en": [
+      "employ.employee"
+    ],
+    "source": "B",
+    "original": "sinabau"
+  },
+  {
+    "id": "0859",
+    "basay": "sinalalu",
+    "category": "07",
+    "zh": [
+      "豬飼料"
+    ],
+    "ja": [
+      "豚ノ餌 (liquid). 粥"
+    ],
+    "en": [
+      "feed for pig"
+    ],
+    "source": "B",
+    "original": "sinalalu"
+  },
+  {
+    "id": "1905",
+    "basay": "sinan'i",
+    "category": "25",
+    "zh": [
+      "做"
+    ],
+    "en": [
+      "do"
+    ],
+    "source": "S",
+    "original": "saŋi, sinaŋi (S)"
+  },
+  {
+    "id": "0860",
+    "basay": "sinanu",
+    "category": "27",
+    "zh": [
+      "碗"
+    ],
+    "ja": [
+      "茶碗"
+    ],
+    "en": [
+      "bowl"
+    ],
+    "source": "B",
+    "original": "sinanu"
+  },
+  {
+    "id": "1948",
+    "basay": "sinawa",
+    "category": "25",
+    "zh": [
+      "誘惑"
+    ],
+    "en": [
+      "seduce, allure"
+    ],
+    "source": "M",
+    "original": "sinawa (M)"
+  },
+  {
+    "id": "1949",
+    "basay": "sinunun'",
+    "category": "14",
+    "zh": [
+      "快速前進"
+    ],
+    "en": [
+      "advance quickly"
+    ],
+    "source": "T",
+    "original": "sinunuŋ"
+  },
+  {
+    "id": "0864",
+    "basay": "siolate < olate",
+    "category": "24",
+    "zh": [
+      "有足夠力量"
+    ],
+    "ja": [
+      "カヲ有スル"
+    ],
+    "en": [
+      "enough strength (to have)"
+    ],
+    "source": "B",
+    "original": "siolate < olate"
+  },
+  {
+    "id": "1952",
+    "basay": "sipal'",
+    "category": "09",
+    "zh": [
+      "鋪席子"
+    ],
+    "en": [
+      "lay a mat"
+    ],
+    "source": "T",
+    "original": "sipaɭ"
+  },
+  {
+    "id": "1951",
+    "basay": "sipalu",
+    "category": "05",
+    "zh": [
+      "做朋友"
+    ],
+    "en": [
+      "make friends"
+    ],
+    "source": "T",
+    "original": "sipalu"
+  },
+  {
+    "id": "0865",
+    "basay": "sippaliu",
+    "category": "10",
+    "zh": [
+      "航程"
+    ],
+    "ja": [
+      "航海ス"
+    ],
+    "en": [
+      "voyage"
+    ],
+    "source": "B",
+    "original": "sippaliu"
+  },
+  {
+    "id": "1953",
+    "basay": "siqaq",
+    "category": "34",
+    "zh": [
+      "被子"
+    ],
+    "en": [
+      "quilt"
+    ],
+    "source": "S",
+    "original": "siqaq (S)"
+  },
+  {
+    "id": "1954",
+    "basay": "siri",
+    "category": "08",
+    "zh": [
+      "胡椒粉，辣椒粉"
+    ],
+    "en": [
+      "pepper"
+    ],
+    "source": "M",
+    "original": "siri (M)"
+  },
+  {
+    "id": "0866",
+    "basay": "sirin'",
+    "category": "18",
+    "zh": [
+      "穿"
+    ],
+    "ja": [
+      "～ヲハク"
+    ],
+    "en": [
+      "wear (to)"
+    ],
+    "source": "B",
+    "original": "siriŋ"
+  },
+  {
+    "id": "0867",
+    "basay": "sirin'",
+    "category": "11",
+    "zh": [
+      "築壩",
+      "避免"
+    ],
+    "ja": [
+      "(水ヲ) 堰キ止メル",
+      "(雨",
+      "弾丸ヲ) 除ケル"
+    ],
+    "en": [
+      "dam up (to). avoid"
+    ],
+    "source": "B",
+    "original": "siriŋ"
+  },
+  {
+    "id": "0868",
+    "basay": "sirin' u siupe",
+    "category": "11",
+    "zh": [
+      "對沖"
+    ],
+    "ja": [
+      "生垣 < 風除"
+    ],
+    "en": [
+      "hedge"
+    ],
+    "source": "B",
+    "original": "siriŋ u siupe"
+  },
+  {
+    "id": "1955",
+    "basay": "sisin'",
+    "category": "07",
+    "zh": [
+      "占卜烏"
+    ],
+    "en": [
+      "omen bird"
+    ],
+    "source": "T",
+    "original": "sisiŋ, teɭotsa (M)"
+  },
+  {
+    "id": "1957",
+    "basay": "sisiqaq",
+    "category": "25",
+    "zh": [
+      "蓋被子"
+    ],
+    "en": [
+      "cover with a quilt"
+    ],
+    "source": "S",
+    "original": "sisiqaq (S)"
+  },
+  {
+    "id": "0870",
+    "basay": "sitjen",
+    "category": "06",
+    "zh": [
+      "懷孕"
+    ],
+    "ja": [
+      "腹ニ持ツ=妊ム"
+    ],
+    "en": [
+      "pregnant"
+    ],
+    "source": "B",
+    "original": "sitjen"
+  },
+  {
+    "id": "0872",
+    "basay": "sits'i",
+    "category": "21",
+    "zh": [
+      "胖的"
+    ],
+    "ja": [
+      "肉附ク"
+    ],
+    "en": [
+      "fat"
+    ],
+    "source": "B",
+    "original": "sitʃi"
+  },
+  {
+    "id": "0871",
+    "basay": "sitsala",
+    "category": "06",
+    "zh": [
+      "經期"
+    ],
+    "ja": [
+      "月経"
+    ],
+    "en": [
+      "menstruation"
+    ],
+    "source": "B",
+    "original": "sitsala"
+  },
+  {
+    "id": "1958",
+    "basay": "siup",
+    "category": "08",
+    "zh": [
+      "吹火（竹筒）"
+    ],
+    "en": [
+      "blow a fire"
+    ],
+    "source": "T",
+    "original": "siup"
+  },
+  {
+    "id": "0874",
+    "basay": "siupe | pasiupe",
+    "category": "25",
+    "zh": [
+      "熄滅"
+    ],
+    "ja": [
+      "消エル",
+      "消ス"
+    ],
+    "en": [
+      "extinguish (to)"
+    ],
+    "source": "B",
+    "original": "siupe, pasiupe"
+  },
+  {
+    "id": "0873",
+    "basay": "siupe. | siupe lau",
+    "category": "11",
+    "zh": [
+      "風暴"
+    ],
+    "ja": [
+      "嵐"
+    ],
+    "en": [
+      "storm"
+    ],
+    "source": "B",
+    "original": "siupe. <siupe lau>"
+  },
+  {
+    "id": "0875",
+    "basay": "siwa",
+    "category": "01",
+    "zh": [
+      "九"
+    ],
+    "ja": [
+      "9"
+    ],
+    "en": [
+      "nine"
+    ],
+    "source": "B",
+    "original": "siwa"
+  },
+  {
+    "id": "1959",
+    "basay": "siwal",
+    "category": "15",
+    "zh": [
+      "箭"
+    ],
+    "en": [
+      "arrow"
+    ],
+    "source": "T",
+    "original": "siwal"
+  },
+  {
+    "id": "0876",
+    "basay": "siwanake",
+    "category": "25",
+    "zh": [
+      "生孩子"
+    ],
+    "ja": [
+      "子ヲ生ム"
+    ],
+    "en": [
+      "bear a baby"
+    ],
+    "source": "B",
+    "original": "siwanake"
+  },
+  {
+    "id": "0877",
+    "basay": "sjakowa",
+    "category": "03",
+    "zh": [
+      "到哪裡"
+    ],
+    "ja": [
+      "どこへ"
+    ],
+    "en": [
+      "to where"
+    ],
+    "source": "B",
+    "original": "sjakowa"
+  },
+  {
+    "id": "0878",
+    "basay": "sjali amis",
+    "category": "10",
+    "zh": [
+      "往海上去"
+    ],
+    "ja": [
+      "沖へ行ク"
+    ],
+    "en": [
+      "offing (to get an)"
+    ],
+    "source": "B",
+    "original": "sjali amis"
+  },
+  {
+    "id": "0879",
+    "basay": "sjali baban'",
+    "category": "11",
+    "zh": [
+      "天堂"
+    ],
+    "ja": [
+      "昇天ス"
+    ],
+    "en": [
+      "heaven (to go to)"
+    ],
+    "source": "B",
+    "original": "sjali babaŋ"
+  },
+  {
+    "id": "0880",
+    "basay": "sjali n'apan",
+    "category": "10",
+    "zh": [
+      "去河邊"
+    ],
+    "ja": [
+      "河へ行く"
+    ],
+    "en": [
+      "go to river (to)"
+    ],
+    "source": "B",
+    "original": "sjali ŋapan"
+  },
+  {
+    "id": "0881",
+    "basay": "sjali n'onon",
+    "category": "10",
+    "zh": [
+      "去山"
+    ],
+    "ja": [
+      "山に行く"
+    ],
+    "en": [
+      "go to mountain"
+    ],
+    "source": "B",
+    "original": "sjali ŋonon"
+  },
+  {
+    "id": "0882",
+    "basay": "sjali taput | sjali tapo't",
+    "category": "14",
+    "zh": [
+      "走到下面"
+    ],
+    "ja": [
+      "地下へ行く"
+    ],
+    "en": [
+      "go underneath"
+    ],
+    "source": "B",
+    "original": "sjali taput, sjali tapət"
+  },
+  {
+    "id": "0884",
+    "basay": "sjali | sjali n'apan saja unu",
+    "category": "03",
+    "zh": [
+      "你在河裡抓到了什麼？"
+    ],
+    "ja": [
+      "川へ行ッテ何ヲ取ッタカ"
+    ],
+    "en": [
+      "what did you catch in the river?"
+    ],
+    "source": "B",
+    "original": "sjali, <sjali ŋapan saja unu>"
+  },
+  {
+    "id": "0883",
+    "basay": "sjali. | sjali n'apan atsa baute",
+    "category": "07",
+    "zh": [
+      "河裡的魚"
+    ],
+    "ja": [
+      "川へ行ッテ魚ヲ取"
+    ],
+    "en": [
+      "fish in the river (to)"
+    ],
+    "source": "B",
+    "original": "sjali. <sjali ŋapan atsa baute>"
+  },
+  {
+    "id": "1960",
+    "basay": "sjana",
+    "category": "19",
+    "zh": [
+      "遊玩"
+    ],
+    "en": [
+      "play (to)"
+    ],
+    "source": "M",
+    "original": "sjana (M)"
+  },
+  {
+    "id": "0885",
+    "basay": "sjiupe",
+    "category": "11",
+    "zh": [
+      "風，吹風"
+    ],
+    "ja": [
+      "風"
+    ],
+    "en": [
+      "wind, blow wind"
+    ],
+    "source": "B",
+    "original": "sjiupe"
+  },
+  {
+    "id": "1961",
+    "basay": "smal'aw | sumal'aw",
+    "category": "15",
+    "zh": [
+      "狩獵"
+    ],
+    "en": [
+      "hunt"
+    ],
+    "source": "T",
+    "original": "smaɭaw, sumaɭaw"
+  },
+  {
+    "id": "1962",
+    "basay": "smaqut",
+    "category": "34",
+    "zh": [
+      "裝載"
+    ],
+    "en": [
+      "carry"
+    ],
+    "source": "T",
+    "original": "smaqut"
+  },
+  {
+    "id": "1963",
+    "basay": "smarit",
+    "category": "34",
+    "zh": [
+      "組合"
+    ],
+    "en": [
+      "assemble"
+    ],
+    "source": "T",
+    "original": "smarit"
+  },
+  {
+    "id": "1964",
+    "basay": "smorna",
+    "category": "11",
+    "zh": [
+      "霜"
+    ],
+    "en": [
+      "frost column"
+    ],
+    "source": "M",
+    "original": "smorna (M)"
+  },
+  {
+    "id": "1965",
+    "basay": "smul'el'",
+    "category": "34",
+    "zh": [
+      "流出"
+    ],
+    "en": [
+      "drain away"
+    ],
+    "source": "T",
+    "original": "smuɭeɭ"
+  },
+  {
+    "id": "1966",
+    "basay": "snavalis",
+    "category": "09",
+    "zh": [
+      "琉璃珠"
+    ],
+    "en": [
+      "agates (golden lank), lapis lazuli"
+    ],
+    "source": "T",
+    "original": "snavalis"
+  },
+  {
+    "id": "1935",
+    "basay": "so'n'zan | so'n'zi",
+    "category": "27",
+    "zh": [
+      "煮菜"
+    ],
+    "en": [
+      "cook vegetables"
+    ],
+    "source": "T",
+    "original": "səŋzan, səŋzi"
+  },
+  {
+    "id": "0837",
+    "basay": "so'pat",
+    "category": "01",
+    "zh": [
+      "四"
+    ],
+    "ja": [
+      "4"
+    ],
+    "en": [
+      "four"
+    ],
+    "source": "B",
+    "original": "səpat"
+  },
+  {
+    "id": "1967",
+    "basay": "soasoani",
+    "category": "04",
+    "zh": [
+      "小兒子"
+    ],
+    "en": [
+      "youngest son"
+    ],
+    "source": "M",
+    "original": "soasoani (M)"
+  },
+  {
+    "id": "1968",
+    "basay": "sol'akan u l'eseq",
+    "category": "10",
+    "zh": [
+      "灰麈，垃圾"
+    ],
+    "en": [
+      "dirty soil, dust, trash"
+    ],
+    "source": "M",
+    "original": "soɭakan u ɭeseq (M)"
+  },
+  {
+    "id": "0886",
+    "basay": "solau",
+    "category": "32",
+    "zh": [
+      "傻子"
+    ],
+    "ja": [
+      "低能"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "B",
+    "original": "solau"
+  },
+  {
+    "id": "0887",
+    "basay": "solau",
+    "category": "32",
+    "zh": [
+      "瘋狂的"
+    ],
+    "ja": [
+      "気狂"
+    ],
+    "en": [
+      "crazy"
+    ],
+    "source": "B",
+    "original": "solau"
+  },
+  {
+    "id": "0888",
+    "basay": "solau",
+    "category": "32",
+    "zh": [
+      "狡猾"
+    ],
+    "ja": [
+      "ズルキ"
+    ],
+    "en": [
+      "cunning"
+    ],
+    "source": "B",
+    "original": "solau"
+  },
+  {
+    "id": "0889",
+    "basay": "solausolau",
+    "category": "32",
+    "zh": [
+      "傻子"
+    ],
+    "ja": [
+      "低能者"
+    ],
+    "en": [
+      "fool"
+    ],
+    "source": "B",
+    "original": "solausolau"
+  },
+  {
+    "id": "0890",
+    "basay": "solon'son'",
+    "category": "11",
+    "zh": [
+      "萊姆"
+    ],
+    "ja": [
+      "石灰"
+    ],
+    "en": [
+      "lime"
+    ],
+    "source": "B",
+    "original": "soloŋsoŋ"
+  },
+  {
+    "id": "0891",
+    "basay": "solon'son'. munan'in",
+    "category": "05",
+    "zh": [
+      "科西嘉島雜草"
+    ],
+    "ja": [
+      "海人草"
+    ],
+    "en": [
+      "corsican weed"
+    ],
+    "source": "B",
+    "original": "soloŋsoŋ. munaŋin"
+  },
+  {
+    "id": "0892",
+    "basay": "someD'",
+    "category": "11",
+    "zh": [
+      "冷水"
+    ],
+    "ja": [
+      "冷ノツメタキ"
+    ],
+    "en": [
+      "cold (water)"
+    ],
+    "source": "B",
+    "original": "someD'"
+  },
+  {
+    "id": "0893",
+    "basay": "somelau",
+    "category": "06",
+    "zh": [
+      "飢餓的"
+    ],
+    "ja": [
+      "空腹"
+    ],
+    "en": [
+      "hungry"
+    ],
+    "source": "B",
+    "original": "somelau"
+  },
+  {
+    "id": "0894",
+    "basay": "somelau",
+    "category": "27",
+    "zh": [
+      "飢餓的"
+    ],
+    "ja": [
+      "ひもじい"
+    ],
+    "en": [
+      "hungry"
+    ],
+    "source": "B",
+    "original": "somelau"
+  },
+  {
+    "id": "0895",
+    "basay": "sopo'l'",
+    "category": "29",
+    "zh": [
+      "記住"
+    ],
+    "ja": [
+      "覚ヘテオル, 出来ル"
+    ],
+    "en": [
+      "remember"
+    ],
+    "source": "B",
+    "original": "sopəl'"
+  },
+  {
+    "id": "0896",
+    "basay": "sopo'l'",
+    "category": "29",
+    "zh": [
+      "能力"
+    ],
+    "ja": [
+      "出来る"
+    ],
+    "en": [
+      "ability"
+    ],
+    "source": "B",
+    "original": "sopəl'"
+  },
+  {
+    "id": "0897",
+    "basay": "sopo'l'",
+    "category": "32",
+    "zh": [
+      "習慣了"
+    ],
+    "ja": [
+      "慣レタル"
+    ],
+    "en": [
+      "accustomed"
+    ],
+    "source": "B",
+    "original": "sopəl'"
+  },
+  {
+    "id": "1969",
+    "basay": "spal'an",
+    "category": "09",
+    "zh": [
+      "鋪蓆子"
+    ],
+    "en": [
+      "lay a mat"
+    ],
+    "source": "T",
+    "original": "spaɭan"
+  },
+  {
+    "id": "1970",
+    "basay": "sqaisaq",
+    "category": "34",
+    "zh": [
+      "擔架"
+    ],
+    "en": [
+      "stretcher"
+    ],
+    "source": "T",
+    "original": "sqaisaq"
+  },
+  {
+    "id": "1971",
+    "basay": "suanan",
+    "category": "02",
+    "zh": [
+      "你（斜格）"
+    ],
+    "en": [
+      "you (OBL)"
+    ],
+    "source": "T",
+    "original": "suanan"
+  },
+  {
+    "id": "0898",
+    "basay": "suani",
+    "category": "04",
+    "zh": [
+      "弟弟",
+      "妹妹"
+    ],
+    "ja": [
+      "弟",
+      "妹"
+    ],
+    "en": [
+      "younger brother.younger sister"
+    ],
+    "source": "B",
+    "original": "suani"
+  },
+  {
+    "id": "0899",
+    "basay": "suani",
+    "category": "04",
+    "zh": [
+      "弟弟/妹妹或更小的"
+    ],
+    "ja": [
+      "弟妹或イハ年下ノ人"
+    ],
+    "en": [
+      "younger broher/sister or younger ones"
+    ],
+    "source": "B",
+    "original": "suani"
+  },
+  {
+    "id": "1972",
+    "basay": "suani",
+    "category": "04",
+    "zh": [
+      "姊.妹"
+    ],
+    "en": [
+      "sister"
+    ],
+    "source": "S",
+    "original": "suani (S)"
+  },
+  {
+    "id": "0900",
+    "basay": "subat Len",
+    "category": "11",
+    "zh": [
+      "敬拜天堂"
+    ],
+    "ja": [
+      "天ヲ拝ス"
+    ],
+    "en": [
+      "worship heaven"
+    ],
+    "source": "B",
+    "original": "subat Len"
+  },
+  {
+    "id": "0901",
+    "basay": "subatte",
+    "category": "06",
+    "zh": [
+      "點點頭"
+    ],
+    "ja": [
+      "ユックリをする"
+    ],
+    "en": [
+      "nodding of the head"
+    ],
+    "source": "B",
+    "original": "subatte"
+  },
+  {
+    "id": "0902",
+    "basay": "suin",
+    "category": "06",
+    "zh": [
+      "吃飽",
+      "滿足"
+    ],
+    "ja": [
+      "满腹"
+    ],
+    "en": [
+      "full (eating).satisfied (eating)"
+    ],
+    "source": "B",
+    "original": "suin"
+  },
+  {
+    "id": "0903",
+    "basay": "suin na. sujinna",
+    "category": "06",
+    "zh": [
+      "吃飽"
+    ],
+    "ja": [
+      "滿腹"
+    ],
+    "en": [
+      "full (eating)"
+    ],
+    "source": "B",
+    "original": "suin na. sujinna"
+  },
+  {
+    "id": "0904",
+    "basay": "suipe",
+    "category": "25",
+    "zh": [
+      "盛開"
+    ],
+    "ja": [
+      "咲ク"
+    ],
+    "en": [
+      "bloom (to)"
+    ],
+    "source": "B",
+    "original": "suipe"
+  },
+  {
+    "id": "1973",
+    "basay": "sukan",
+    "category": "09",
+    "zh": [
+      "席子"
+    ],
+    "en": [
+      "mat"
+    ],
+    "source": "M",
+    "original": "sukan (M)"
+  },
+  {
+    "id": "1974",
+    "basay": "sukui",
+    "category": "07",
+    "zh": [
+      "章魚"
+    ],
+    "en": [
+      "octopus"
+    ],
+    "source": "M",
+    "original": "sukui (M)"
+  },
+  {
+    "id": "1173",
+    "basay": "sul",
+    "category": "14",
+    "zh": [
+      "忍耐，忍受"
+    ],
+    "en": [
+      "endure, put up with"
+    ],
+    "source": "T",
+    "original": "ipzi (M), sul"
+  },
+  {
+    "id": "1976",
+    "basay": "sul'asul'apan",
+    "category": "25",
+    "zh": [
+      "打擊，敲"
+    ],
+    "en": [
+      "stroke (to), paint"
+    ],
+    "source": "M",
+    "original": "suɭasuɭapan (M)"
+  },
+  {
+    "id": "1977",
+    "basay": "sul'ul'",
+    "category": "24",
+    "zh": [
+      "溺死"
+    ],
+    "en": [
+      "drowned, death by drowning"
+    ],
+    "source": "T",
+    "original": "suɭuɭ"
+  },
+  {
+    "id": "1975",
+    "basay": "sulaan",
+    "category": "24",
+    "zh": [
+      "命運"
+    ],
+    "en": [
+      "fate"
+    ],
+    "source": "T",
+    "original": "sulaan"
+  },
+  {
+    "id": "0905",
+    "basay": "sulalabe",
+    "category": "01",
+    "zh": [
+      "整個晚上",
+      "每天晚上"
+    ],
+    "ja": [
+      "一晩中",
+      "毎晩"
+    ],
+    "en": [
+      "all night. every night"
+    ],
+    "source": "B",
+    "original": "sulalabe"
+  },
+  {
+    "id": "0906",
+    "basay": "sulap",
+    "category": "27",
+    "zh": [
+      "燒傷"
+    ],
+    "ja": [
+      "焼ク"
+    ],
+    "en": [
+      "burn (to)"
+    ],
+    "source": "B",
+    "original": "sulap"
+  },
+  {
+    "id": "0907",
+    "basay": "sulappe",
+    "category": "32",
+    "zh": [
+      "燒焦的"
+    ],
+    "ja": [
+      "コゲル"
+    ],
+    "en": [
+      "burnt"
+    ],
+    "source": "B",
+    "original": "sulappe"
+  },
+  {
+    "id": "0908",
+    "basay": "sulǝkun",
+    "category": "18",
+    "zh": [
+      "褲子"
+    ],
+    "ja": [
+      "ズボン"
+    ],
+    "en": [
+      "trousers"
+    ],
+    "source": "B",
+    "original": "sulǝkun"
+  },
+  {
+    "id": "0909",
+    "basay": "sumai",
+    "category": "08",
+    "zh": [
+      "乾飯"
+    ],
+    "ja": [
+      "飯 nasi"
+    ],
+    "en": [
+      "cooked rice"
+    ],
+    "source": "B",
+    "original": "sumai"
+  },
+  {
+    "id": "1978",
+    "basay": "sumait",
+    "category": "25",
+    "zh": [
+      "剪"
+    ],
+    "en": [
+      "cut with scissors"
+    ],
+    "source": "M",
+    "original": "sumait (M)"
+  },
+  {
+    "id": "0910",
+    "basay": "suman",
+    "category": "02",
+    "zh": [
+      "仍然",
+      "不僅如此"
+    ],
+    "ja": [
+      "ソレ以上二",
+      "尚",
+      "少シ 又 (云フ)"
+    ],
+    "en": [
+      "stil. more than that"
+    ],
+    "source": "B",
+    "original": "suman"
+  },
+  {
+    "id": "1979",
+    "basay": "suman",
+    "category": "34",
+    "zh": [
+      "又"
+    ],
+    "en": [
+      "again"
+    ],
+    "source": "T",
+    "original": "suman"
+  },
+  {
+    "id": "0911",
+    "basay": "suman'",
+    "category": "17",
+    "zh": [
+      "第二次降臨"
+    ],
+    "ja": [
+      "再来"
+    ],
+    "en": [
+      "second advent"
+    ],
+    "source": "B",
+    "original": "sumaŋ"
+  },
+  {
+    "id": "1980",
+    "basay": "suman'",
+    "category": "34",
+    "zh": [
+      "插秧"
+    ],
+    "en": [
+      "cultivate"
+    ],
+    "source": "S",
+    "original": "sumaŋ (S)"
+  },
+  {
+    "id": "1981",
+    "basay": "suman'ana",
+    "category": "19",
+    "zh": [
+      "離婚"
+    ],
+    "en": [
+      "divorce"
+    ],
+    "source": "M",
+    "original": "sumaŋana (M)"
+  },
+  {
+    "id": "1982",
+    "basay": "suman'o'l",
+    "category": "27",
+    "zh": [
+      "煎，炸"
+    ],
+    "en": [
+      "fry"
+    ],
+    "source": "M",
+    "original": "sumaŋəl (M)"
+  },
+  {
+    "id": "1983",
+    "basay": "suman'o'z",
+    "category": "28",
+    "zh": [
+      "加熱"
+    ],
+    "en": [
+      "heat"
+    ],
+    "source": "T",
+    "original": "sumaŋəz"
+  },
+  {
+    "id": "1984",
+    "basay": "sumapan'",
+    "category": "34",
+    "zh": [
+      "任意"
+    ],
+    "en": [
+      "feel free"
+    ],
+    "source": "T",
+    "original": "sumapaŋ"
+  },
+  {
+    "id": "0912",
+    "basay": "sumasuman",
+    "category": "13",
+    "zh": [
+      "反覆"
+    ],
+    "ja": [
+      "繰返シテ"
+    ],
+    "en": [
+      "repeatedly"
+    ],
+    "source": "B",
+    "original": "sumasuman"
+  },
+  {
+    "id": "1985",
+    "basay": "sumavo't",
+    "category": "18",
+    "zh": [
+      "穿"
+    ],
+    "en": [
+      "wear"
+    ],
+    "source": "M",
+    "original": "sumavət (M)"
+  },
+  {
+    "id": "1986",
+    "basay": "sumay",
+    "category": "08",
+    "zh": [
+      "飯"
+    ],
+    "en": [
+      "rice"
+    ],
+    "source": "M",
+    "original": "sumay (M), umay (S)"
+  },
+  {
+    "id": "1988",
+    "basay": "sumerop",
+    "category": "27",
+    "zh": [
+      "喝"
+    ],
+    "en": [
+      "drink"
+    ],
+    "source": "M",
+    "original": "sumerop (M)"
+  },
+  {
+    "id": "1989",
+    "basay": "sumil'ap",
+    "category": "28",
+    "zh": [
+      "接觸"
+    ],
+    "en": [
+      "touch"
+    ],
+    "source": "M",
+    "original": "sumiɭap (M)"
+  },
+  {
+    "id": "1990",
+    "basay": "sumin'ut",
+    "category": "13",
+    "zh": [
+      "害喜"
+    ],
+    "en": [
+      "morning sickness"
+    ],
+    "source": "M",
+    "original": "sumiŋut (M)"
+  },
+  {
+    "id": "0913",
+    "basay": "sumke",
+    "category": "07",
+    "zh": [
+      "魚卵"
+    ],
+    "ja": [
+      "魚ノ子(卵)"
+    ],
+    "en": [
+      "eggs of fish"
+    ],
+    "source": "B",
+    "original": "sumke"
+  },
+  {
+    "id": "0914",
+    "basay": "sumukul'",
+    "category": "06",
+    "zh": [
+      "用拳頭擊打"
+    ],
+    "ja": [
+      "突ｸ(拳骨ニテ)",
+      "pukun 叩く",
+      "pakjak-にて殴る",
+      "(台) kjak"
+    ],
+    "en": [
+      "hit with fist"
+    ],
+    "source": "B",
+    "original": "sumukul'"
+  },
+  {
+    "id": "0915",
+    "basay": "sumuman",
+    "category": "19",
+    "zh": [
+      "再婚"
+    ],
+    "ja": [
+      "再ビモラヒシ"
+    ],
+    "en": [
+      "remarriage"
+    ],
+    "source": "B",
+    "original": "sumuman"
+  },
+  {
+    "id": "0916",
+    "basay": "sumutte",
+    "category": "11",
+    "zh": [
+      "熄滅"
+    ],
+    "ja": [
+      "消エル"
+    ],
+    "en": [
+      "die out (to) (fire)"
+    ],
+    "source": "B",
+    "original": "sumutte"
+  },
+  {
+    "id": "0917",
+    "basay": "sun'asugnal'",
+    "category": "25",
+    "zh": [
+      "嘆",
+      "深呼吸"
+    ],
+    "ja": [
+      "タメイキスル"
+    ],
+    "en": [
+      "sigh. deep breath"
+    ],
+    "source": "B",
+    "original": "suŋasugnal'"
+  },
+  {
+    "id": "0918",
+    "basay": "sun'asun'al'",
+    "category": "25",
+    "zh": [
+      "呼吸"
+    ],
+    "ja": [
+      "呼吸スル"
+    ],
+    "en": [
+      "breathe"
+    ],
+    "source": "B",
+    "original": "suŋasuŋal'"
+  },
+  {
+    "id": "0919",
+    "basay": "surab",
+    "category": "27",
+    "zh": [
+      "燒傷",
+      "烤"
+    ],
+    "ja": [
+      "焼ク",
+      "ヤミ (sarab)"
+    ],
+    "en": [
+      "burn. broil"
+    ],
+    "source": "B",
+    "original": "surab"
+  },
+  {
+    "id": "0920",
+    "basay": "surusuru",
+    "category": "14",
+    "zh": [
+      "攪動起來",
+      "唆"
+    ],
+    "ja": [
+      "オダテル"
+    ],
+    "en": [
+      "stir up (to). instigate"
+    ],
+    "source": "B",
+    "original": "surusuru"
+  },
+  {
+    "id": "0921",
+    "basay": "susutte",
+    "category": "25",
+    "zh": [
+      "推"
+    ],
+    "ja": [
+      "押ス"
+    ],
+    "en": [
+      "push"
+    ],
+    "source": "B",
+    "original": "susutte"
+  },
+  {
+    "id": "0922",
+    "basay": "suwan",
+    "category": "02",
+    "zh": [
+      "給你"
+    ],
+    "ja": [
+      "汝二"
+    ],
+    "en": [
+      "to you"
+    ],
+    "source": "B",
+    "original": "suwan"
+  }
+]

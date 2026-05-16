@@ -1,0 +1,409 @@
+[
+  {
+    "id": "2212",
+    "basay": "u",
+    "category": "34",
+    "zh": [
+      "斜格"
+    ],
+    "en": [
+      "oblique"
+    ],
+    "source": "T",
+    "original": "u"
+  },
+  {
+    "id": "1097",
+    "basay": "u:lᵒ | u:dᵒ",
+    "category": "07",
+    "zh": [
+      "蛇"
+    ],
+    "ja": [
+      "蛇"
+    ],
+    "en": [
+      "snake"
+    ],
+    "source": "B",
+    "original": "u:lᵒ , u:dᵒ"
+  },
+  {
+    "id": "2213",
+    "basay": "uai",
+    "category": "08",
+    "zh": [
+      "藤"
+    ],
+    "en": [
+      "rattan"
+    ],
+    "source": "M",
+    "original": "uai(M)"
+  },
+  {
+    "id": "1099",
+    "basay": "uanake",
+    "category": "04",
+    "zh": [
+      "孩子"
+    ],
+    "ja": [
+      "子供"
+    ],
+    "en": [
+      "child"
+    ],
+    "source": "B",
+    "original": "uanake"
+  },
+  {
+    "id": "1100",
+    "basay": "uatsu",
+    "category": "07",
+    "zh": [
+      "狗"
+    ],
+    "ja": [
+      "犬】"
+    ],
+    "en": [
+      "dog"
+    ],
+    "source": "B",
+    "original": "uatsu"
+  },
+  {
+    "id": "1101",
+    "basay": "ul",
+    "category": "07",
+    "zh": [
+      "ee",
+      "蛇"
+    ],
+    "ja": [
+      "ウナギ",
+      "ヘビ"
+    ],
+    "en": [
+      "ee. snake"
+    ],
+    "source": "B",
+    "original": "ul"
+  },
+  {
+    "id": "2214",
+    "basay": "ul'an",
+    "category": "11",
+    "zh": [
+      "雨"
+    ],
+    "en": [
+      "rain"
+    ],
+    "source": "S",
+    "original": "uɭan (S)"
+  },
+  {
+    "id": "1637",
+    "basay": "ul'as",
+    "category": "11",
+    "zh": [
+      "露 (?)"
+    ],
+    "en": [
+      "dew (?)"
+    ],
+    "source": "T",
+    "original": "muɭas (M), uɭas"
+  },
+  {
+    "id": "2215",
+    "basay": "uman",
+    "category": "34",
+    "zh": [
+      "再"
+    ],
+    "en": [
+      "again"
+    ],
+    "source": "S",
+    "original": "uman (S)"
+  },
+  {
+    "id": "1987",
+    "basay": "umay",
+    "category": "08",
+    "zh": [
+      "飯"
+    ],
+    "en": [
+      "rice"
+    ],
+    "source": "S",
+    "original": "sumay (M), umay (S)"
+  },
+  {
+    "id": "2216",
+    "basay": "uni",
+    "category": "03",
+    "zh": [
+      "什麼"
+    ],
+    "en": [
+      "what"
+    ],
+    "source": "S",
+    "original": "uni (S)"
+  },
+  {
+    "id": "1102",
+    "basay": "unu",
+    "category": "03",
+    "zh": [
+      "什麼"
+    ],
+    "ja": [
+      "何"
+    ],
+    "en": [
+      "what"
+    ],
+    "source": "B",
+    "original": "unu"
+  },
+  {
+    "id": "2217",
+    "basay": "unu",
+    "category": "03",
+    "zh": [
+      "什麼"
+    ],
+    "en": [
+      "what"
+    ],
+    "source": "T",
+    "original": "unu"
+  },
+  {
+    "id": "2218",
+    "basay": "ununia",
+    "category": "03",
+    "zh": [
+      "為何"
+    ],
+    "en": [
+      "why"
+    ],
+    "source": "M",
+    "original": "ununia (M)"
+  },
+  {
+    "id": "1103",
+    "basay": "unuunu",
+    "category": "09",
+    "zh": [
+      "商品"
+    ],
+    "ja": [
+      "品物,荷物"
+    ],
+    "en": [
+      "goods"
+    ],
+    "source": "B",
+    "original": "unuunu"
+  },
+  {
+    "id": "2219",
+    "basay": "usupi",
+    "category": "11",
+    "zh": [
+      "滅火"
+    ],
+    "en": [
+      "extinguish (to)"
+    ],
+    "source": "M",
+    "original": "usupi (M)"
+  },
+  {
+    "id": "1104",
+    "basay": "uta",
+    "category": "27",
+    "zh": [
+      "嘔吐"
+    ],
+    "ja": [
+      "ヘド"
+    ],
+    "en": [
+      "vomit"
+    ],
+    "source": "B",
+    "original": "uta"
+  },
+  {
+    "id": "1105",
+    "basay": "utsu",
+    "category": "06",
+    "zh": [
+      "頭"
+    ],
+    "ja": [
+      "頭"
+    ],
+    "en": [
+      "head"
+    ],
+    "source": "B",
+    "original": "utsu"
+  },
+  {
+    "id": "2222",
+    "basay": "utsu",
+    "category": "06",
+    "zh": [
+      "頭"
+    ],
+    "en": [
+      "head"
+    ],
+    "source": "T",
+    "original": "utsu"
+  },
+  {
+    "id": "2220",
+    "basay": "utto'n'",
+    "category": "13",
+    "zh": [
+      "中午"
+    ],
+    "en": [
+      "noon"
+    ],
+    "source": "T",
+    "original": "uttəŋ"
+  },
+  {
+    "id": "2221",
+    "basay": "uttsa | utsa",
+    "category": "01",
+    "zh": [
+      "一（人",
+      "動物）"
+    ],
+    "en": [
+      "one (person, animal)"
+    ],
+    "source": "T",
+    "original": "uttsa, utsa"
+  },
+  {
+    "id": "2223",
+    "basay": "uutsa",
+    "category": "08",
+    "zh": [
+      "甘蔗"
+    ],
+    "en": [
+      "sugar-cane"
+    ],
+    "source": "M",
+    "original": "uutsa (M)"
+  },
+  {
+    "id": "2224",
+    "basay": "uvaut",
+    "category": "25",
+    "zh": [
+      "砍"
+    ],
+    "en": [
+      "chop, cut"
+    ],
+    "source": "T",
+    "original": "uvaut"
+  },
+  {
+    "id": "2225",
+    "basay": "uvava",
+    "category": "06",
+    "zh": [
+      "揹"
+    ],
+    "en": [
+      "carry on back"
+    ],
+    "source": "M",
+    "original": "uvava (M)"
+  },
+  {
+    "id": "2226",
+    "basay": "uvuka",
+    "category": "25",
+    "zh": [
+      "解開"
+    ],
+    "en": [
+      "untie"
+    ],
+    "source": "M",
+    "original": "uvuka (M)"
+  },
+  {
+    "id": "2227",
+    "basay": "uzip",
+    "category": "34",
+    "zh": [
+      "橿"
+    ],
+    "en": [
+      "ginger"
+    ],
+    "source": "M",
+    "original": "uzip (M)"
+  },
+  {
+    "id": "2228",
+    "basay": "uzuay",
+    "category": "02",
+    "zh": [
+      "那邊"
+    ],
+    "en": [
+      "there"
+    ],
+    "source": "T",
+    "original": "uzuay"
+  },
+  {
+    "id": "2229",
+    "basay": "uzuay",
+    "category": "25",
+    "zh": [
+      "存在"
+    ],
+    "en": [
+      "exist"
+    ],
+    "source": "M",
+    "original": "uzuay (M)"
+  },
+  {
+    "id": "1098",
+    "basay": "uːts",
+    "category": "08",
+    "zh": [
+      "甘蔗"
+    ],
+    "ja": [
+      "砂糖黍"
+    ],
+    "en": [
+      "sugar-cane"
+    ],
+    "source": "B",
+    "original": "uːts"
+  }
+]
