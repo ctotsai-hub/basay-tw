@@ -31,7 +31,12 @@
       "snake"
     ],
     "source": "B",
-    "original": "u:lᵒ , u:dᵒ"
+    "original": "u:lᵒ , u:dᵒ",
+    "audio": {
+      "slug": "u_l",
+      "ipay": "dictionary/audio/ipay/u_l.mp3",
+      "hokkien": "dictionary/audio/hokkien/u_l.mp3"
+    }
   },
   {
     "id": "2213",
@@ -392,7 +397,12 @@
       "one (person, animal)"
     ],
     "source": "T",
-    "original": "uttsa, utsa"
+    "original": "uttsa, utsa",
+    "audio": {
+      "slug": "uttsa",
+      "ipay": "dictionary/audio/ipay/uttsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/uttsa.mp3"
+    }
   },
   {
     "id": "2223",

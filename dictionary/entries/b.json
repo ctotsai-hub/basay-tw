@@ -160,7 +160,12 @@
       "shadow in the moon"
     ],
     "source": "B",
-    "original": "baitili, (bai tili)"
+    "original": "baitili, (bai tili)",
+    "audio": {
+      "slug": "baitili",
+      "ipay": "dictionary/audio/ipay/baitili.mp3",
+      "hokkien": "dictionary/audio/hokkien/baitili.mp3"
+    }
   },
   {
     "id": "0033",
@@ -368,7 +373,12 @@
       "give"
     ],
     "source": "B",
-    "original": "balai <valai suwan>"
+    "original": "balai <valai suwan>",
+    "audio": {
+      "slug": "balai",
+      "ipay": "dictionary/audio/ipay/balai.mp3",
+      "hokkien": "dictionary/audio/hokkien/balai.mp3"
+    }
   },
   {
     "id": "0037",
@@ -578,7 +588,12 @@
       "give. return"
     ],
     "source": "B",
-    "original": "ballai, valaí, <valai isu>"
+    "original": "ballai, valaí, <valai isu>",
+    "audio": {
+      "slug": "ballai",
+      "ipay": "dictionary/audio/ipay/ballai.mp3",
+      "hokkien": "dictionary/audio/hokkien/ballai.mp3"
+    }
   },
   {
     "id": "0048",
@@ -869,7 +884,12 @@
       "indian corn"
     ],
     "source": "B",
-    "original": "basa, masa"
+    "original": "basa, masa",
+    "audio": {
+      "slug": "basa",
+      "ipay": "dictionary/audio/ipay/basa.mp3",
+      "hokkien": "dictionary/audio/hokkien/basa.mp3"
+    }
   },
   {
     "id": "0062",
@@ -1011,7 +1031,12 @@
       "white"
     ],
     "source": "B",
-    "original": "bate, batɛ"
+    "original": "bate, batɛ",
+    "audio": {
+      "slug": "bate",
+      "ipay": "dictionary/audio/ipay/bate.mp3",
+      "hokkien": "dictionary/audio/hokkien/bate.mp3"
+    }
   },
   {
     "id": "1154",
@@ -2206,7 +2231,12 @@
       "warm water"
     ],
     "source": "T",
-    "original": "butse, vutse"
+    "original": "butse, vutse",
+    "audio": {
+      "slug": "butse",
+      "ipay": "dictionary/audio/ipay/butse.mp3",
+      "hokkien": "dictionary/audio/hokkien/butse.mp3"
+    }
   },
   {
     "id": "0118",

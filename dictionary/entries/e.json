@@ -13,7 +13,12 @@
       "urine"
     ],
     "source": "B",
-    "original": "ese, moese"
+    "original": "ese, moese",
+    "audio": {
+      "slug": "ese",
+      "ipay": "dictionary/audio/ipay/ese.mp3",
+      "hokkien": "dictionary/audio/hokkien/ese.mp3"
+    }
   },
   {
     "id": "1164",

@@ -815,7 +815,12 @@
       "sweep"
     ],
     "source": "T",
-    "original": "paɭasiq, paɭasiqqa"
+    "original": "paɭasiq, paɭasiqqa",
+    "audio": {
+      "slug": "palxasiq",
+      "ipay": "dictionary/audio/ipay/palxasiq.mp3",
+      "hokkien": "dictionary/audio/hokkien/palxasiq.mp3"
+    }
   },
   {
     "id": "1718",
@@ -2210,7 +2215,12 @@
       "listen to an omen bird"
     ],
     "source": "T",
-    "original": "pasisin, psisin"
+    "original": "pasisin, psisin",
+    "audio": {
+      "slug": "pasisin",
+      "ipay": "dictionary/audio/ipay/pasisin.mp3",
+      "hokkien": "dictionary/audio/hokkien/pasisin.mp3"
+    }
   },
   {
     "id": "0654",
@@ -4606,7 +4616,12 @@
       "savages"
     ],
     "source": "T",
-    "original": "pusa|um"
+    "original": "pusa|um",
+    "audio": {
+      "slug": "pusa",
+      "ipay": "dictionary/audio/ipay/pusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/pusa.mp3"
+    }
   },
   {
     "id": "0718",
@@ -4811,7 +4826,12 @@
       "kill a pig, butcher"
     ],
     "source": "T",
-    "original": "puvavuy, pvavuy, pwavavuy"
+    "original": "puvavuy, pvavuy, pwavavuy",
+    "audio": {
+      "slug": "puvavuy",
+      "ipay": "dictionary/audio/ipay/puvavuy.mp3",
+      "hokkien": "dictionary/audio/hokkien/puvavuy.mp3"
+    }
   },
   {
     "id": "1813",

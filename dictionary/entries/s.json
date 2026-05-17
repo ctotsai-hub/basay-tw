@@ -446,7 +446,12 @@
       "persecute (to).illtreat"
     ],
     "source": "B",
-    "original": "sahinahinanuman,sahinahinanum"
+    "original": "sahinahinanuman,sahinahinanum",
+    "audio": {
+      "slug": "sahinahinanuman",
+      "ipay": "dictionary/audio/ipay/sahinahinanuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/sahinahinanuman.mp3"
+    }
   },
   {
     "id": "0752",
@@ -998,7 +1003,12 @@
       "lie, cheat"
     ],
     "source": "T",
-    "original": "sakuija, saquQa"
+    "original": "sakuija, saquQa",
+    "audio": {
+      "slug": "sakuija",
+      "ipay": "dictionary/audio/ipay/sakuija.mp3",
+      "hokkien": "dictionary/audio/hokkien/sakuija.mp3"
+    }
   },
   {
     "id": "0769",
@@ -1100,7 +1110,12 @@
       "good news, joke (to)"
     ],
     "source": "B",
-    "original": "sakusa malila, malila sakusa siasiana."
+    "original": "sakusa malila, malila sakusa siasiana.",
+    "audio": {
+      "slug": "sakusa_malila",
+      "ipay": "dictionary/audio/ipay/sakusa_malila.mp3",
+      "hokkien": "dictionary/audio/hokkien/sakusa_malila.mp3"
+    }
   },
   {
     "id": "0774",
@@ -1188,7 +1203,12 @@
       "pour water"
     ],
     "source": "T",
-    "original": "saɭuɭan, snaɭuɭ"
+    "original": "saɭuɭan, snaɭuɭ",
+    "audio": {
+      "slug": "salxulxan",
+      "ipay": "dictionary/audio/ipay/salxulxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/salxulxan.mp3"
+    }
   },
   {
     "id": "0775",
@@ -1542,7 +1562,12 @@
       "end"
     ],
     "source": "B",
-    "original": "sami (na)"
+    "original": "sami (na)",
+    "audio": {
+      "slug": "sami",
+      "ipay": "dictionary/audio/ipay/sami.mp3",
+      "hokkien": "dictionary/audio/hokkien/sami.mp3"
+    }
   },
   {
     "id": "0791",
@@ -1794,7 +1819,12 @@
       "rest (to take)"
     ],
     "source": "B",
-    "original": "saŋat, <suŋapai>"
+    "original": "saŋat, <suŋapai>",
+    "audio": {
+      "slug": "sanxat",
+      "ipay": "dictionary/audio/ipay/sanxat.mp3",
+      "hokkien": "dictionary/audio/hokkien/sanxat.mp3"
+    }
   },
   {
     "id": "0803",
@@ -2961,7 +2991,12 @@
       "drinking"
     ],
     "source": "B",
-    "original": "seloppe. <selop laŋ>."
+    "original": "seloppe. <selop laŋ>.",
+    "audio": {
+      "slug": "seloppe",
+      "ipay": "dictionary/audio/ipay/seloppe.mp3",
+      "hokkien": "dictionary/audio/hokkien/seloppe.mp3"
+    }
   },
   {
     "id": "1930",
@@ -2974,7 +3009,12 @@
       "often"
     ],
     "source": "T",
-    "original": "semammaŋu, semmaŋuna"
+    "original": "semammaŋu, semmaŋuna",
+    "audio": {
+      "slug": "semammanxu",
+      "ipay": "dictionary/audio/ipay/semammanxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/semammanxu.mp3"
+    }
   },
   {
     "id": "1931",
@@ -2987,7 +3027,12 @@
       "only"
     ],
     "source": "T",
-    "original": "seməŋməŋ, siamammaŋ"
+    "original": "seməŋməŋ, siamammaŋ",
+    "audio": {
+      "slug": "semoxnxmoxnx",
+      "ipay": "dictionary/audio/ipay/semoxnxmoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/semoxnxmoxnx.mp3"
+    }
   },
   {
     "id": "0834",
@@ -3288,7 +3333,12 @@
       "wear (to)"
     ],
     "source": "B",
-    "original": "sikaba, sikava"
+    "original": "sikaba, sikava",
+    "audio": {
+      "slug": "sikaba",
+      "ipay": "dictionary/audio/ipay/sikaba.mp3",
+      "hokkien": "dictionary/audio/hokkien/sikaba.mp3"
+    }
   },
   {
     "id": "0847",
@@ -4291,7 +4341,12 @@
       "extinguish (to)"
     ],
     "source": "B",
-    "original": "siupe, pasiupe"
+    "original": "siupe, pasiupe",
+    "audio": {
+      "slug": "siupe",
+      "ipay": "dictionary/audio/ipay/siupe.mp3",
+      "hokkien": "dictionary/audio/hokkien/siupe.mp3"
+    }
   },
   {
     "id": "0873",
@@ -4307,7 +4362,12 @@
       "storm"
     ],
     "source": "B",
-    "original": "siupe. <siupe lau>"
+    "original": "siupe. <siupe lau>",
+    "audio": {
+      "slug": "siupe",
+      "ipay": "dictionary/audio/ipay/siupe.mp3",
+      "hokkien": "dictionary/audio/hokkien/siupe.mp3"
+    }
   },
   {
     "id": "0875",
@@ -4488,7 +4548,12 @@
       "go underneath"
     ],
     "source": "B",
-    "original": "sjali taput, sjali tapət"
+    "original": "sjali taput, sjali tapət",
+    "audio": {
+      "slug": "sjali_taput",
+      "ipay": "dictionary/audio/ipay/sjali_taput.mp3",
+      "hokkien": "dictionary/audio/hokkien/sjali_taput.mp3"
+    }
   },
   {
     "id": "0884",
@@ -4504,7 +4569,12 @@
       "what did you catch in the river?"
     ],
     "source": "B",
-    "original": "sjali, <sjali ŋapan saja unu>"
+    "original": "sjali, <sjali ŋapan saja unu>",
+    "audio": {
+      "slug": "sjali",
+      "ipay": "dictionary/audio/ipay/sjali.mp3",
+      "hokkien": "dictionary/audio/hokkien/sjali.mp3"
+    }
   },
   {
     "id": "0883",
@@ -4520,7 +4590,12 @@
       "fish in the river (to)"
     ],
     "source": "B",
-    "original": "sjali. <sjali ŋapan atsa baute>"
+    "original": "sjali. <sjali ŋapan atsa baute>",
+    "audio": {
+      "slug": "sjali",
+      "ipay": "dictionary/audio/ipay/sjali.mp3",
+      "hokkien": "dictionary/audio/hokkien/sjali.mp3"
+    }
   },
   {
     "id": "1960",
@@ -4572,7 +4647,12 @@
       "hunt"
     ],
     "source": "T",
-    "original": "smaɭaw, sumaɭaw"
+    "original": "smaɭaw, sumaɭaw",
+    "audio": {
+      "slug": "smalxaw",
+      "ipay": "dictionary/audio/ipay/smalxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/smalxaw.mp3"
+    }
   },
   {
     "id": "1962",
@@ -4675,7 +4755,12 @@
       "cook vegetables"
     ],
     "source": "T",
-    "original": "səŋzan, səŋzi"
+    "original": "səŋzan, səŋzi",
+    "audio": {
+      "slug": "soxnxzan",
+      "ipay": "dictionary/audio/ipay/soxnxzan.mp3",
+      "hokkien": "dictionary/audio/hokkien/soxnxzan.mp3"
+    }
   },
   {
     "id": "0837",

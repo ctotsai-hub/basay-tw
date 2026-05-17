@@ -46,7 +46,12 @@
       "path of rice field"
     ],
     "source": "T",
-    "original": "ɭairuruna, rurun"
+    "original": "ɭairuruna, rurun",
+    "audio": {
+      "slug": "lxairuruna",
+      "ipay": "dictionary/audio/ipay/lxairuruna.mp3",
+      "hokkien": "dictionary/audio/hokkien/lxairuruna.mp3"
+    }
   },
   {
     "id": "1364",
@@ -877,7 +882,12 @@
       "die (to)"
     ],
     "source": "B",
-    "original": "laila, malaila. manalau"
+    "original": "laila, malaila. manalau",
+    "audio": {
+      "slug": "laila",
+      "ipay": "dictionary/audio/ipay/laila.mp3",
+      "hokkien": "dictionary/audio/hokkien/laila.mp3"
+    }
   },
   {
     "id": "0287",
@@ -893,7 +903,12 @@
       "kill pigs"
     ],
     "source": "B",
-    "original": "laila. <pakalaila babui>"
+    "original": "laila. <pakalaila babui>",
+    "audio": {
+      "slug": "laila",
+      "ipay": "dictionary/audio/ipay/laila.mp3",
+      "hokkien": "dictionary/audio/hokkien/laila.mp3"
+    }
   },
   {
     "id": "1315",
@@ -1050,7 +1065,12 @@
       "bed"
     ],
     "source": "B",
-    "original": "lakar <lilakar>"
+    "original": "lakar <lilakar>",
+    "audio": {
+      "slug": "lakar",
+      "ipay": "dictionary/audio/ipay/lakar.mp3",
+      "hokkien": "dictionary/audio/hokkien/lakar.mp3"
+    }
   },
   {
     "id": "0295",
@@ -1193,7 +1213,12 @@
       "leave"
     ],
     "source": "T",
-    "original": "laktiw, naktiw"
+    "original": "laktiw, naktiw",
+    "audio": {
+      "slug": "laktiw",
+      "ipay": "dictionary/audio/ipay/laktiw.mp3",
+      "hokkien": "dictionary/audio/hokkien/laktiw.mp3"
+    }
   },
   {
     "id": "0301",
@@ -1273,7 +1298,12 @@
       "die (to)"
     ],
     "source": "B",
-    "original": "lalau, malalau"
+    "original": "lalau, malalau",
+    "audio": {
+      "slug": "lalau",
+      "ipay": "dictionary/audio/ipay/lalau.mp3",
+      "hokkien": "dictionary/audio/hokkien/lalau.mp3"
+    }
   },
   {
     "id": "1318",
@@ -1516,7 +1546,12 @@
       "escape, run away"
     ],
     "source": "T",
-    "original": "laliw, lalaliw"
+    "original": "laliw, lalaliw",
+    "audio": {
+      "slug": "laliw",
+      "ipay": "dictionary/audio/ipay/laliw.mp3",
+      "hokkien": "dictionary/audio/hokkien/laliw.mp3"
+    }
   },
   {
     "id": "0315",
@@ -1652,7 +1687,12 @@
       "meet"
     ],
     "source": "B",
-    "original": "lamən (?),namal' (?),namat (??)"
+    "original": "lamən (?),namal' (?),namat (??)",
+    "audio": {
+      "slug": "lamoxn",
+      "ipay": "dictionary/audio/ipay/lamoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/lamoxn.mp3"
+    }
   },
   {
     "id": "1327",
@@ -1705,7 +1745,12 @@
       "liquor. <I drink liquor. >"
     ],
     "source": "B",
-    "original": "laŋ < jaku kuman laŋ>"
+    "original": "laŋ < jaku kuman laŋ>",
+    "audio": {
+      "slug": "lanx",
+      "ipay": "dictionary/audio/ipay/lanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/lanx.mp3"
+    }
   },
   {
     "id": "0321",
@@ -1740,7 +1785,12 @@
       "gold"
     ],
     "source": "T",
-    "original": "laŋas, ɭuŋaŋas"
+    "original": "laŋas, ɭuŋaŋas",
+    "audio": {
+      "slug": "lanxas",
+      "ipay": "dictionary/audio/ipay/lanxas.mp3",
+      "hokkien": "dictionary/audio/hokkien/lanxas.mp3"
+    }
   },
   {
     "id": "1134",
@@ -1814,7 +1864,12 @@
       "cottage. hut"
     ],
     "source": "B",
-    "original": "lapai, salapai"
+    "original": "lapai, salapai",
+    "audio": {
+      "slug": "lapai",
+      "ipay": "dictionary/audio/ipay/lapai.mp3",
+      "hokkien": "dictionary/audio/hokkien/lapai.mp3"
+    }
   },
   {
     "id": "0324",
@@ -3442,7 +3497,12 @@
       "longan"
     ],
     "source": "B",
-    "original": "lipuluke (?), ripurukke"
+    "original": "lipuluke (?), ripurukke",
+    "audio": {
+      "slug": "lipuluke",
+      "ipay": "dictionary/audio/ipay/lipuluke.mp3",
+      "hokkien": "dictionary/audio/hokkien/lipuluke.mp3"
+    }
   },
   {
     "id": "0381",
@@ -3671,7 +3731,12 @@
       "there"
     ],
     "source": "B",
-    "original": "litsoa, atsoa"
+    "original": "litsoa, atsoa",
+    "audio": {
+      "slug": "litsoa",
+      "ipay": "dictionary/audio/ipay/litsoa.mp3",
+      "hokkien": "dictionary/audio/hokkien/litsoa.mp3"
+    }
   },
   {
     "id": "0392",
@@ -3980,7 +4045,12 @@
       "ghost, anito"
     ],
     "source": "B",
-    "original": "lubeloa, beloa"
+    "original": "lubeloa, beloa",
+    "audio": {
+      "slug": "lubeloa",
+      "ipay": "dictionary/audio/ipay/lubeloa.mp3",
+      "hokkien": "dictionary/audio/hokkien/lubeloa.mp3"
+    }
   },
   {
     "id": "0404",
@@ -4021,7 +4091,12 @@
       "idle. lazy. tired"
     ],
     "source": "B",
-    "original": "lukasse, malukasse"
+    "original": "lukasse, malukasse",
+    "audio": {
+      "slug": "lukasse",
+      "ipay": "dictionary/audio/ipay/lukasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/lukasse.mp3"
+    }
   },
   {
     "id": "0406",
@@ -4430,6 +4505,11 @@
       "heaven. day-time. noon"
     ],
     "source": "B",
-    "original": "Lɛn, Lan"
+    "original": "Lɛn, Lan",
+    "audio": {
+      "slug": "l_n",
+      "ipay": "dictionary/audio/ipay/l_n.mp3",
+      "hokkien": "dictionary/audio/hokkien/l_n.mp3"
+    }
   }
 ]

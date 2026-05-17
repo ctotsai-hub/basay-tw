@@ -247,7 +247,12 @@
       "smell good"
     ],
     "source": "T",
-    "original": "vaŋsiss (S, M)"
+    "original": "vaŋsiss (S, M)",
+    "audio": {
+      "slug": "vanxsiss_s",
+      "ipay": "dictionary/audio/ipay/vanxsiss_s.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanxsiss_s.mp3"
+    }
   },
   {
     "id": "2248",
@@ -1271,7 +1276,12 @@
       "open, untie"
     ],
     "source": "T",
-    "original": "vukan, vuqqaŋ,vuyaqan"
+    "original": "vukan, vuqqaŋ,vuyaqan",
+    "audio": {
+      "slug": "vukan",
+      "ipay": "dictionary/audio/ipay/vukan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vukan.mp3"
+    }
   },
   {
     "id": "2300",
@@ -1356,7 +1366,12 @@
       "idler, lazy bones"
     ],
     "source": "T",
-    "original": "vuqaɭus, vuqaqəs"
+    "original": "vuqaɭus, vuqaqəs",
+    "audio": {
+      "slug": "vuqalxus",
+      "ipay": "dictionary/audio/ipay/vuqalxus.mp3",
+      "hokkien": "dictionary/audio/hokkien/vuqalxus.mp3"
+    }
   },
   {
     "id": "2303",
@@ -1495,7 +1510,12 @@
       "warm water"
     ],
     "source": "T",
-    "original": "vutse, butse"
+    "original": "vutse, butse",
+    "audio": {
+      "slug": "vutse",
+      "ipay": "dictionary/audio/ipay/vutse.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutse.mp3"
+    }
   },
   {
     "id": "2313",

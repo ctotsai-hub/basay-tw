@@ -140,7 +140,12 @@
       "night"
     ],
     "source": "T",
-    "original": "Iavi, leania"
+    "original": "Iavi, leania",
+    "audio": {
+      "slug": "iavi",
+      "ipay": "dictionary/audio/ipay/iavi.mp3",
+      "hokkien": "dictionary/audio/hokkien/iavi.mp3"
+    }
   },
   {
     "id": "1351",
@@ -226,7 +231,12 @@
       "where"
     ],
     "source": "T",
-    "original": "inu, inuna"
+    "original": "inu, inuna",
+    "audio": {
+      "slug": "inu",
+      "ipay": "dictionary/audio/ipay/inu.mp3",
+      "hokkien": "dictionary/audio/hokkien/inu.mp3"
+    }
   },
   {
     "id": "1172",
@@ -410,7 +420,12 @@
       "below, down"
     ],
     "source": "T",
-    "original": "ituman, tuman"
+    "original": "ituman, tuman",
+    "audio": {
+      "slug": "ituman",
+      "ipay": "dictionary/audio/ipay/ituman.mp3",
+      "hokkien": "dictionary/audio/hokkien/ituman.mp3"
+    }
   },
   {
     "id": "0205",

@@ -190,7 +190,12 @@
       "press down"
     ],
     "source": "T",
-    "original": "ɮətsuɮətan, ɮəzɮətan"
+    "original": "ɮətsuɮətan, ɮəzɮətan",
+    "audio": {
+      "slug": "zxoxtsuzxoxtan",
+      "ipay": "dictionary/audio/ipay/zxoxtsuzxoxtan.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxoxtsuzxoxtan.mp3"
+    }
   },
   {
     "id": "1396",
@@ -563,7 +568,12 @@
       "see"
     ],
     "source": "T",
-    "original": "zmal, zumal, zumaz"
+    "original": "zmal, zumal, zumaz",
+    "audio": {
+      "slug": "zmal",
+      "ipay": "dictionary/audio/ipay/zmal.mp3",
+      "hokkien": "dictionary/audio/hokkien/zmal.mp3"
+    }
   },
   {
     "id": "2354",
@@ -630,7 +640,12 @@
       "tired"
     ],
     "source": "T",
-    "original": "zukas, zukzukkas"
+    "original": "zukas, zukzukkas",
+    "audio": {
+      "slug": "zukas",
+      "ipay": "dictionary/audio/ipay/zukas.mp3",
+      "hokkien": "dictionary/audio/hokkien/zukas.mp3"
+    }
   },
   {
     "id": "2358",

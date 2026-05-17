@@ -353,7 +353,12 @@
       "too"
     ],
     "source": "T",
-    "original": "ŋkia, ŋkiia"
+    "original": "ŋkia, ŋkiia",
+    "audio": {
+      "slug": "nxkia",
+      "ipay": "dictionary/audio/ipay/nxkia.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxkia.mp3"
+    }
   },
   {
     "id": "0561",
@@ -662,7 +667,12 @@
       "thunderbolt"
     ],
     "source": "B",
-    "original": "namel', nameD*"
+    "original": "namel', nameD*",
+    "audio": {
+      "slug": "namelx",
+      "ipay": "dictionary/audio/ipay/namelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/namelx.mp3"
+    }
   },
   {
     "id": "1665",
@@ -675,7 +685,12 @@
       "we"
     ],
     "source": "T",
-    "original": "nami, yami"
+    "original": "nami, yami",
+    "audio": {
+      "slug": "nami",
+      "ipay": "dictionary/audio/ipay/nami.mp3",
+      "hokkien": "dictionary/audio/hokkien/nami.mp3"
+    }
   },
   {
     "id": "0534",
@@ -693,7 +708,12 @@
       "crack, gap"
     ],
     "source": "B",
-    "original": "naŋaja, laŋa"
+    "original": "naŋaja, laŋa",
+    "audio": {
+      "slug": "nanxaja",
+      "ipay": "dictionary/audio/ipay/nanxaja.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanxaja.mp3"
+    }
   },
   {
     "id": "0535",
@@ -1125,7 +1145,12 @@
       "bend (to)"
     ],
     "source": "B",
-    "original": "nenause, lawatse (?)"
+    "original": "nenause, lawatse (?)",
+    "audio": {
+      "slug": "nenause",
+      "ipay": "dictionary/audio/ipay/nenause.mp3",
+      "hokkien": "dictionary/audio/hokkien/nenause.mp3"
+    }
   },
   {
     "id": "0548",
@@ -1312,7 +1337,12 @@
       "listen"
     ],
     "source": "B",
-    "original": "niŋal', manŋgal'. maniŋad'"
+    "original": "niŋal', manŋgal'. maniŋad'",
+    "audio": {
+      "slug": "ninxalx",
+      "ipay": "dictionary/audio/ipay/ninxalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/ninxalx.mp3"
+    }
   },
   {
     "id": "1679",
@@ -1493,7 +1523,12 @@
       "sit (to)"
     ],
     "source": "B",
-    "original": "nituŋul', <nituŋul u takan>"
+    "original": "nituŋul', <nituŋul u takan>",
+    "audio": {
+      "slug": "nitunxulx",
+      "ipay": "dictionary/audio/ipay/nitunxulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nitunxulx.mp3"
+    }
   },
   {
     "id": "1681",

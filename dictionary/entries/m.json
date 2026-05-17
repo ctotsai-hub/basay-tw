@@ -70,7 +70,12 @@
       "quarrel"
     ],
     "source": "B",
-    "original": "mabet, mabel"
+    "original": "mabet, mabel",
+    "audio": {
+      "slug": "mabet",
+      "ipay": "dictionary/audio/ipay/mabet.mp3",
+      "hokkien": "dictionary/audio/hokkien/mabet.mp3"
+    }
   },
   {
     "id": "0425",
@@ -797,7 +802,12 @@
       "come"
     ],
     "source": "T",
-    "original": "maɭi, mamali, naqi"
+    "original": "maɭi, mamali, naqi",
+    "audio": {
+      "slug": "malxi",
+      "ipay": "dictionary/audio/ipay/malxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/malxi.mp3"
+    }
   },
   {
     "id": "1431",
@@ -1942,7 +1952,12 @@
       "bird"
     ],
     "source": "B",
-    "original": "manuk (ə)"
+    "original": "manuk (ə)",
+    "audio": {
+      "slug": "manuk",
+      "ipay": "dictionary/audio/ipay/manuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/manuk.mp3"
+    }
   },
   {
     "id": "1444",
@@ -2713,7 +2728,12 @@
       "seeing"
     ],
     "source": "B",
-    "original": "mata numalᵒ (numaDᵒ)"
+    "original": "mata numalᵒ (numaDᵒ)",
+    "audio": {
+      "slug": "mata_numal",
+      "ipay": "dictionary/audio/ipay/mata_numal.mp3",
+      "hokkien": "dictionary/audio/hokkien/mata_numal.mp3"
+    }
   },
   {
     "id": "0496",
@@ -2988,7 +3008,12 @@
       "go"
     ],
     "source": "T",
-    "original": "mati, matiw"
+    "original": "mati, matiw",
+    "audio": {
+      "slug": "mati",
+      "ipay": "dictionary/audio/ipay/mati.mp3",
+      "hokkien": "dictionary/audio/hokkien/mati.mp3"
+    }
   },
   {
     "id": "1485",
@@ -4580,7 +4605,12 @@
       "drink"
     ],
     "source": "T",
-    "original": "mizanum, ptanqu"
+    "original": "mizanum, ptanqu",
+    "audio": {
+      "slug": "mizanum",
+      "ipay": "dictionary/audio/ipay/mizanum.mp3",
+      "hokkien": "dictionary/audio/hokkien/mizanum.mp3"
+    }
   },
   {
     "id": "1559",
@@ -4611,7 +4641,12 @@
       "wake up"
     ],
     "source": "T",
-    "original": "mkits, mukits"
+    "original": "mkits, mukits",
+    "audio": {
+      "slug": "mkits",
+      "ipay": "dictionary/audio/ipay/mkits.mp3",
+      "hokkien": "dictionary/audio/hokkien/mkits.mp3"
+    }
   },
   {
     "id": "1565",
@@ -5254,7 +5289,12 @@
       "cold"
     ],
     "source": "T",
-    "original": "mənəŋ, qaniŋya"
+    "original": "mənəŋ, qaniŋya",
+    "audio": {
+      "slug": "moxnoxnx",
+      "ipay": "dictionary/audio/ipay/moxnoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/moxnoxnx.mp3"
+    }
   },
   {
     "id": "1515",
@@ -5722,7 +5762,12 @@
       "flow"
     ],
     "source": "T",
-    "original": "msaɭjn, musaɭin"
+    "original": "msaɭjn, musaɭin",
+    "audio": {
+      "slug": "msalxjn",
+      "ipay": "dictionary/audio/ipay/msalxjn.mp3",
+      "hokkien": "dictionary/audio/hokkien/msalxjn.mp3"
+    }
   },
   {
     "id": "1614",
@@ -6152,7 +6197,12 @@
       "rain"
     ],
     "source": "B",
-    "original": "mulan, maulan"
+    "original": "mulan, maulan",
+    "audio": {
+      "slug": "mulan",
+      "ipay": "dictionary/audio/ipay/mulan.mp3",
+      "hokkien": "dictionary/audio/hokkien/mulan.mp3"
+    }
   },
   {
     "id": "1634",
@@ -6543,7 +6593,12 @@
       "under"
     ],
     "source": "T",
-    "original": "mutsu, vutsu"
+    "original": "mutsu, vutsu",
+    "audio": {
+      "slug": "mutsu",
+      "ipay": "dictionary/audio/ipay/mutsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/mutsu.mp3"
+    }
   },
   {
     "id": "0527",

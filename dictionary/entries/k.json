@@ -52,7 +52,12 @@
       "clothing"
     ],
     "source": "B",
-    "original": "kaba, kava"
+    "original": "kaba, kava",
+    "audio": {
+      "slug": "kaba",
+      "ipay": "dictionary/audio/ipay/kaba.mp3",
+      "hokkien": "dictionary/audio/hokkien/kaba.mp3"
+    }
   },
   {
     "id": "0211",
@@ -224,7 +229,12 @@
       "early, hurry"
     ],
     "source": "T",
-    "original": "kakɭay, kakɭaika"
+    "original": "kakɭay, kakɭaika",
+    "audio": {
+      "slug": "kaklxay",
+      "ipay": "dictionary/audio/ipay/kaklxay.mp3",
+      "hokkien": "dictionary/audio/hokkien/kaklxay.mp3"
+    }
   },
   {
     "id": "1194",
@@ -1066,7 +1076,12 @@
       "celebrate head-hunting"
     ],
     "source": "T",
-    "original": "katavan, qatavan"
+    "original": "katavan, qatavan",
+    "audio": {
+      "slug": "katavan",
+      "ipay": "dictionary/audio/ipay/katavan.mp3",
+      "hokkien": "dictionary/audio/hokkien/katavan.mp3"
+    }
   },
   {
     "id": "1223",
@@ -1079,7 +1094,12 @@
       "go"
     ],
     "source": "T",
-    "original": "kati, katiwan, mamatiwi"
+    "original": "kati, katiwan, mamatiwi",
+    "audio": {
+      "slug": "kati",
+      "ipay": "dictionary/audio/ipay/kati.mp3",
+      "hokkien": "dictionary/audio/hokkien/kati.mp3"
+    }
   },
   {
     "id": "0233",
@@ -1428,7 +1448,12 @@
       "pick, behead"
     ],
     "source": "T",
-    "original": "kiaɭa, kilay"
+    "original": "kiaɭa, kilay",
+    "audio": {
+      "slug": "kialxa",
+      "ipay": "dictionary/audio/ipay/kialxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/kialxa.mp3"
+    }
   },
   {
     "id": "1242",
@@ -2065,7 +2090,12 @@
       "all people"
     ],
     "source": "T",
-    "original": "knalaqita, knalaqitta, qnazaqita"
+    "original": "knalaqita, knalaqitta, qnazaqita",
+    "audio": {
+      "slug": "knalaqita",
+      "ipay": "dictionary/audio/ipay/knalaqita.mp3",
+      "hokkien": "dictionary/audio/hokkien/knalaqita.mp3"
+    }
   },
   {
     "id": "1276",
@@ -2251,7 +2281,12 @@
       "stump"
     ],
     "source": "B",
-    "original": "kolalawakke. <jaku lawakke>"
+    "original": "kolalawakke. <jaku lawakke>",
+    "audio": {
+      "slug": "kolalawakke",
+      "ipay": "dictionary/audio/ipay/kolalawakke.mp3",
+      "hokkien": "dictionary/audio/hokkien/kolalawakke.mp3"
+    }
   },
   {
     "id": "1283",
@@ -2862,7 +2897,12 @@
       "recover, get well"
     ],
     "source": "T",
-    "original": "kunaman, man"
+    "original": "kunaman, man",
+    "audio": {
+      "slug": "kunaman",
+      "ipay": "dictionary/audio/ipay/kunaman.mp3",
+      "hokkien": "dictionary/audio/hokkien/kunaman.mp3"
+    }
   },
   {
     "id": "1301",
@@ -2953,7 +2993,12 @@
       "not to want"
     ],
     "source": "T",
-    "original": "kupa, kupan, mupa, mupan, supupa, upan, uppa"
+    "original": "kupa, kupan, mupa, mupan, supupa, upan, uppa",
+    "audio": {
+      "slug": "kupa",
+      "ipay": "dictionary/audio/ipay/kupa.mp3",
+      "hokkien": "dictionary/audio/hokkien/kupa.mp3"
+    }
   },
   {
     "id": "1306",

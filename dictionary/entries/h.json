@@ -313,7 +313,12 @@
       "unsavory, <do not eat because of unsavoriness>"
     ],
     "source": "B",
-    "original": "hahoi <manai kuman hahoi>"
+    "original": "hahoi <manai kuman hahoi>",
+    "audio": {
+      "slug": "hahoi",
+      "ipay": "dictionary/audio/ipay/hahoi.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahoi.mp3"
+    }
   },
   {
     "id": "0136",
@@ -434,7 +439,12 @@
       "call"
     ],
     "source": "B",
-    "original": "halasse, <halasse koman>"
+    "original": "halasse, <halasse koman>",
+    "audio": {
+      "slug": "halasse",
+      "ipay": "dictionary/audio/ipay/halasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/halasse.mp3"
+    }
   },
   {
     "id": "0142",
@@ -1373,7 +1383,12 @@
       "youngest son"
     ],
     "source": "B",
-    "original": "hihol', wanakke hihol'"
+    "original": "hihol', wanakke hihol'",
+    "audio": {
+      "slug": "hiholx",
+      "ipay": "dictionary/audio/ipay/hiholx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hiholx.mp3"
+    }
   },
   {
     "id": "0186",
@@ -1691,7 +1706,12 @@
       "awake"
     ],
     "source": "B",
-    "original": "hum-note, hm-nutte"
+    "original": "hum-note, hm-nutte",
+    "audio": {
+      "slug": "hum_note",
+      "ipay": "dictionary/audio/ipay/hum_note.mp3",
+      "hokkien": "dictionary/audio/hokkien/hum_note.mp3"
+    }
   },
   {
     "id": "0201",
@@ -1707,7 +1727,12 @@
       "you"
     ],
     "source": "B",
-    "original": "humtit, hmtit"
+    "original": "humtit, hmtit",
+    "audio": {
+      "slug": "humtit",
+      "ipay": "dictionary/audio/ipay/humtit.mp3",
+      "hokkien": "dictionary/audio/hokkien/humtit.mp3"
+    }
   },
   {
     "id": "1854",

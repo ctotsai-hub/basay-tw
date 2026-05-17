@@ -54,6 +54,24 @@
     }
   },
   {
+    "id": "2363",
+    "basay": "aba",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father"
+    ],
+    "source": "PAN",
+    "original": "aba₁",
+    "audio": {
+      "slug": "aba",
+      "ipay": "dictionary/audio/ipay/aba.mp3",
+      "hokkien": "dictionary/audio/hokkien/aba.mp3"
+    }
+  },
+  {
     "id": "0001",
     "basay": "abal'",
     "category": "29",
@@ -94,24 +112,6 @@
       "slug": "abalx",
       "ipay": "dictionary/audio/ipay/abalx.mp3",
       "hokkien": "dictionary/audio/hokkien/abalx.mp3"
-    }
-  },
-  {
-    "id": "2363",
-    "basay": "aba₁",
-    "category": "04",
-    "zh": [
-      "父親"
-    ],
-    "en": [
-      "father"
-    ],
-    "source": "PAN",
-    "original": "aba₁",
-    "audio": {
-      "slug": "aba",
-      "ipay": "dictionary/audio/ipay/aba.mp3",
-      "hokkien": "dictionary/audio/hokkien/aba.mp3"
     }
   },
   {
@@ -260,7 +260,12 @@
       "catch, take"
     ],
     "source": "T",
-    "original": "alan, aɭa, aɭan"
+    "original": "alan, aɭa, aɭan",
+    "audio": {
+      "slug": "alan",
+      "ipay": "dictionary/audio/ipay/alan.mp3",
+      "hokkien": "dictionary/audio/hokkien/alan.mp3"
+    }
   },
   {
     "id": "1122",
@@ -315,7 +320,12 @@
       "fire (to set)"
     ],
     "source": "B",
-    "original": "alase, <alase namal'>"
+    "original": "alase, <alase namal'>",
+    "audio": {
+      "slug": "alase",
+      "ipay": "dictionary/audio/ipay/alase.mp3",
+      "hokkien": "dictionary/audio/hokkien/alase.mp3"
+    }
   },
   {
     "id": "0008",
@@ -693,7 +703,12 @@
       "deer"
     ],
     "source": "T",
-    "original": "apən, apun"
+    "original": "apən, apun",
+    "audio": {
+      "slug": "apoxn",
+      "ipay": "dictionary/audio/ipay/apoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/apoxn.mp3"
+    }
   },
   {
     "id": "1138",
@@ -1066,6 +1081,11 @@
       "bring"
     ],
     "source": "T",
-    "original": "azasan, mazas"
+    "original": "azasan, mazas",
+    "audio": {
+      "slug": "azasan",
+      "ipay": "dictionary/audio/ipay/azasan.mp3",
+      "hokkien": "dictionary/audio/hokkien/azasan.mp3"
+    }
   }
 ]

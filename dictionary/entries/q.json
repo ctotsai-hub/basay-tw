@@ -190,7 +190,12 @@
       "pick leaf of mustard"
     ],
     "source": "T",
-    "original": "qaisama, qisama"
+    "original": "qaisama, qisama",
+    "audio": {
+      "slug": "qaisama",
+      "ipay": "dictionary/audio/ipay/qaisama.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaisama.mp3"
+    }
   },
   {
     "id": "1826",
@@ -563,7 +568,12 @@
       "still"
     ],
     "source": "T",
-    "original": "qayetu, qaytu"
+    "original": "qayetu, qaytu",
+    "audio": {
+      "slug": "qayetu",
+      "ipay": "dictionary/audio/ipay/qayetu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qayetu.mp3"
+    }
   },
   {
     "id": "1845",

@@ -35,7 +35,12 @@
       "today. Today (1) go to the river."
     ],
     "source": "B",
-    "original": "oatsji. <oatsji sjali ŋapan>"
+    "original": "oatsji. <oatsji sjali ŋapan>",
+    "audio": {
+      "slug": "oatsji",
+      "ipay": "dictionary/audio/ipay/oatsji.mp3",
+      "hokkien": "dictionary/audio/hokkien/oatsji.mp3"
+    }
   },
   {
     "id": "0585",

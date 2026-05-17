@@ -117,6 +117,13 @@ def wav_to_mp3(wav: Path, mp3: Path, bitrate: str = "64k") -> None:
     subprocess.run(cmd, check=True)
 
 
+def _primary(display: str) -> str:
+    """Return the primary form for slug/TTS derivation:
+    everything before the first '|', stripped of whitespace.
+    Matches dict_excel_to_json.derive_slug() semantics."""
+    return display.split("|")[0].strip()
+
+
 def generate_one(
     display: str, variant: str, voice: str, slug: str,
     bitrate: str, tmpdir: Path, dry_run: bool,
@@ -126,9 +133,11 @@ def generate_one(
     if dry_run:
         return True, f"DRY  {variant}/{slug}.mp3"
     try:
-        # Use the basay_text-derived TTS text for ipay; for hokkien, the
-        # original gen_audio also uses the same TTS text (the voice differs).
-        tts_text = basay_text.derive(display)["tts"]
+        # Synthesize ONLY the primary form (before '|'), matching the slug.
+        # Otherwise we'd speak both variants in one file and the slug→filename
+        # detection in dict_excel_to_json wouldn't find it.
+        primary = _primary(display)
+        tts_text = basay_text.derive(primary)["tts"]
         wav = tmpdir / f"{slug}_{variant}.wav"
         synth_wav(tts_text, voice, wav)
         normalize_wav(wav)
@@ -191,7 +200,9 @@ def main() -> int:
         display = e.get("basay", "").strip()
         if not display:
             continue
-        slug = basay_text.derive(display)["slug"]
+        # Derive slug from the PRIMARY form only (everything before '|'),
+        # to match dict_excel_to_json.derive_slug().
+        slug = basay_text.derive(_primary(display))["slug"]
         for variant in variants:
             mp3 = AUDIO_ROOT / variant / f"{slug}.mp3"
             if mp3.is_file() and not args.force:
