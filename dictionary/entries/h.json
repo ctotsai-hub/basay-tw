@@ -13,7 +13,12 @@
       "sick, <sakit>"
     ],
     "source": "B",
-    "original": "habateŋ"
+    "original": "habateŋ",
+    "audio": {
+      "slug": "habatenx",
+      "ipay": "dictionary/audio/ipay/habatenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/habatenx.mp3"
+    }
   },
   {
     "id": "0122",
@@ -30,7 +35,12 @@
       "shell"
     ],
     "source": "B",
-    "original": "habe"
+    "original": "habe",
+    "audio": {
+      "slug": "habe",
+      "ipay": "dictionary/audio/ipay/habe.mp3",
+      "hokkien": "dictionary/audio/hokkien/habe.mp3"
+    }
   },
   {
     "id": "0123",
@@ -46,7 +56,12 @@
       "grain"
     ],
     "source": "B",
-    "original": "habe"
+    "original": "habe",
+    "audio": {
+      "slug": "habe",
+      "ipay": "dictionary/audio/ipay/habe.mp3",
+      "hokkien": "dictionary/audio/hokkien/habe.mp3"
+    }
   },
   {
     "id": "0124",
@@ -63,7 +78,12 @@
       "blue. green"
     ],
     "source": "B",
-    "original": "habelan"
+    "original": "habelan",
+    "audio": {
+      "slug": "habelan",
+      "ipay": "dictionary/audio/ipay/habelan.mp3",
+      "hokkien": "dictionary/audio/hokkien/habelan.mp3"
+    }
   },
   {
     "id": "0125",
@@ -79,7 +99,12 @@
       "color (?)"
     ],
     "source": "B",
-    "original": "habelan"
+    "original": "habelan",
+    "audio": {
+      "slug": "habelan",
+      "ipay": "dictionary/audio/ipay/habelan.mp3",
+      "hokkien": "dictionary/audio/hokkien/habelan.mp3"
+    }
   },
   {
     "id": "0126",
@@ -96,7 +121,12 @@
       "reap. harvest"
     ],
     "source": "B",
-    "original": "habite"
+    "original": "habite",
+    "audio": {
+      "slug": "habite",
+      "ipay": "dictionary/audio/ipay/habite.mp3",
+      "hokkien": "dictionary/audio/hokkien/habite.mp3"
+    }
   },
   {
     "id": "0127",
@@ -114,7 +144,12 @@
       "rice harvesting"
     ],
     "source": "B",
-    "original": "habitte"
+    "original": "habitte",
+    "audio": {
+      "slug": "habitte",
+      "ipay": "dictionary/audio/ipay/habitte.mp3",
+      "hokkien": "dictionary/audio/hokkien/habitte.mp3"
+    }
   },
   {
     "id": "0128",
@@ -130,7 +165,12 @@
       "sickle"
     ],
     "source": "B",
-    "original": "habitte"
+    "original": "habitte",
+    "audio": {
+      "slug": "habitte",
+      "ipay": "dictionary/audio/ipay/habitte.mp3",
+      "hokkien": "dictionary/audio/hokkien/habitte.mp3"
+    }
   },
   {
     "id": "0129",
@@ -146,7 +186,12 @@
       "abalone"
     ],
     "source": "B",
-    "original": "haed'"
+    "original": "haed'",
+    "audio": {
+      "slug": "haedx",
+      "ipay": "dictionary/audio/ipay/haedx.mp3",
+      "hokkien": "dictionary/audio/hokkien/haedx.mp3"
+    }
   },
   {
     "id": "0130",
@@ -162,7 +207,12 @@
       "ill omen"
     ],
     "source": "B",
-    "original": "hahai makuwatau"
+    "original": "hahai makuwatau",
+    "audio": {
+      "slug": "hahai_makuwatau",
+      "ipay": "dictionary/audio/ipay/hahai_makuwatau.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahai_makuwatau.mp3"
+    }
   },
   {
     "id": "0131",
@@ -178,7 +228,12 @@
       "unsavory"
     ],
     "source": "B",
-    "original": "hahoe kuman"
+    "original": "hahoe kuman",
+    "audio": {
+      "slug": "hahoe_kuman",
+      "ipay": "dictionary/audio/ipay/hahoe_kuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahoe_kuman.mp3"
+    }
   },
   {
     "id": "0133",
@@ -194,7 +249,12 @@
       "north"
     ],
     "source": "B",
-    "original": "hahoi a Len"
+    "original": "hahoi a Len",
+    "audio": {
+      "slug": "hahoi_a_len",
+      "ipay": "dictionary/audio/ipay/hahoi_a_len.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahoi_a_len.mp3"
+    }
   },
   {
     "id": "0134",
@@ -210,7 +270,12 @@
       "bad man"
     ],
     "source": "B",
-    "original": "hahoi a tau"
+    "original": "hahoi a tau",
+    "audio": {
+      "slug": "hahoi_a_tau",
+      "ipay": "dictionary/audio/ipay/hahoi_a_tau.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahoi_a_tau.mp3"
+    }
   },
   {
     "id": "0135",
@@ -226,7 +291,12 @@
       "taletelling"
     ],
     "source": "B",
-    "original": "hahoi sahuŋa kawasse"
+    "original": "hahoi sahuŋa kawasse",
+    "audio": {
+      "slug": "hahoi_sahunxa_kawasse",
+      "ipay": "dictionary/audio/ipay/hahoi_sahunxa_kawasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hahoi_sahunxa_kawasse.mp3"
+    }
   },
   {
     "id": "0132",
@@ -259,7 +329,12 @@
       "lower leg"
     ],
     "source": "B",
-    "original": "hai"
+    "original": "hai",
+    "audio": {
+      "slug": "hai",
+      "ipay": "dictionary/audio/ipay/hai.mp3",
+      "hokkien": "dictionary/audio/hokkien/hai.mp3"
+    }
   },
   {
     "id": "0137",
@@ -275,7 +350,12 @@
       "later, late"
     ],
     "source": "B",
-    "original": "haihainan"
+    "original": "haihainan",
+    "audio": {
+      "slug": "haihainan",
+      "ipay": "dictionary/audio/ipay/haihainan.mp3",
+      "hokkien": "dictionary/audio/hokkien/haihainan.mp3"
+    }
   },
   {
     "id": "0138",
@@ -291,7 +371,12 @@
       "body hair"
     ],
     "source": "B",
-    "original": "hajə bukusse"
+    "original": "hajə bukusse",
+    "audio": {
+      "slug": "hajox_bukusse",
+      "ipay": "dictionary/audio/ipay/hajox_bukusse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hajox_bukusse.mp3"
+    }
   },
   {
     "id": "0139",
@@ -307,7 +392,12 @@
       "shave"
     ],
     "source": "B",
-    "original": "hal'-hasse"
+    "original": "hal'-hasse",
+    "audio": {
+      "slug": "halx_hasse",
+      "ipay": "dictionary/audio/ipay/halx_hasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/halx_hasse.mp3"
+    }
   },
   {
     "id": "0140",
@@ -323,7 +413,12 @@
       "slowly"
     ],
     "source": "B",
-    "original": "halanasse"
+    "original": "halanasse",
+    "audio": {
+      "slug": "halanasse",
+      "ipay": "dictionary/audio/ipay/halanasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/halanasse.mp3"
+    }
   },
   {
     "id": "0141",
@@ -355,7 +450,12 @@
       "stick (to)"
     ],
     "source": "B",
-    "original": "halatte"
+    "original": "halatte",
+    "audio": {
+      "slug": "halatte",
+      "ipay": "dictionary/audio/ipay/halatte.mp3",
+      "hokkien": "dictionary/audio/hokkien/halatte.mp3"
+    }
   },
   {
     "id": "0143",
@@ -371,7 +471,12 @@
       "scratch"
     ],
     "source": "B",
-    "original": "halau"
+    "original": "halau",
+    "audio": {
+      "slug": "halau",
+      "ipay": "dictionary/audio/ipay/halau.mp3",
+      "hokkien": "dictionary/audio/hokkien/halau.mp3"
+    }
   },
   {
     "id": "0144",
@@ -389,7 +494,12 @@
       "run in places (to). sail"
     ],
     "source": "B",
-    "original": "halewahes"
+    "original": "halewahes",
+    "audio": {
+      "slug": "halewahes",
+      "ipay": "dictionary/audio/ipay/halewahes.mp3",
+      "hokkien": "dictionary/audio/hokkien/halewahes.mp3"
+    }
   },
   {
     "id": "0145",
@@ -405,7 +515,12 @@
       "totter (to)"
     ],
     "source": "B",
-    "original": "halinahiŋ"
+    "original": "halinahiŋ",
+    "audio": {
+      "slug": "halinahinx",
+      "ipay": "dictionary/audio/ipay/halinahinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/halinahinx.mp3"
+    }
   },
   {
     "id": "0146",
@@ -419,7 +534,12 @@
       "(??)"
     ],
     "source": "B",
-    "original": "haliuhiu"
+    "original": "haliuhiu",
+    "audio": {
+      "slug": "haliuhiu",
+      "ipay": "dictionary/audio/ipay/haliuhiu.mp3",
+      "hokkien": "dictionary/audio/hokkien/haliuhiu.mp3"
+    }
   },
   {
     "id": "0147",
@@ -435,7 +555,12 @@
       "assistant"
     ],
     "source": "B",
-    "original": "haliuhŋute"
+    "original": "haliuhŋute",
+    "audio": {
+      "slug": "haliuhnxute",
+      "ipay": "dictionary/audio/ipay/haliuhnxute.mp3",
+      "hokkien": "dictionary/audio/hokkien/haliuhnxute.mp3"
+    }
   },
   {
     "id": "1165",
@@ -448,7 +573,12 @@
       "call"
     ],
     "source": "M",
-    "original": "halus (M)"
+    "original": "halus (M)",
+    "audio": {
+      "slug": "halus",
+      "ipay": "dictionary/audio/ipay/halus.mp3",
+      "hokkien": "dictionary/audio/hokkien/halus.mp3"
+    }
   },
   {
     "id": "0148",
@@ -464,7 +594,12 @@
       "shovel"
     ],
     "source": "B",
-    "original": "halusse"
+    "original": "halusse",
+    "audio": {
+      "slug": "halusse",
+      "ipay": "dictionary/audio/ipay/halusse.mp3",
+      "hokkien": "dictionary/audio/hokkien/halusse.mp3"
+    }
   },
   {
     "id": "0149",
@@ -481,7 +616,12 @@
       "kite. black-eared kite"
     ],
     "source": "B",
-    "original": "hamiham"
+    "original": "hamiham",
+    "audio": {
+      "slug": "hamiham",
+      "ipay": "dictionary/audio/ipay/hamiham.mp3",
+      "hokkien": "dictionary/audio/hokkien/hamiham.mp3"
+    }
   },
   {
     "id": "0150",
@@ -497,7 +637,12 @@
       "steal"
     ],
     "source": "B",
-    "original": "hamiham"
+    "original": "hamiham",
+    "audio": {
+      "slug": "hamiham",
+      "ipay": "dictionary/audio/ipay/hamiham.mp3",
+      "hokkien": "dictionary/audio/hokkien/hamiham.mp3"
+    }
   },
   {
     "id": "0151",
@@ -513,7 +658,12 @@
       "scratch"
     ],
     "source": "B",
-    "original": "hamitte"
+    "original": "hamitte",
+    "audio": {
+      "slug": "hamitte",
+      "ipay": "dictionary/audio/ipay/hamitte.mp3",
+      "hokkien": "dictionary/audio/hokkien/hamitte.mp3"
+    }
   },
   {
     "id": "0152",
@@ -529,7 +679,12 @@
       "slowly"
     ],
     "source": "B",
-    "original": "hananase"
+    "original": "hananase",
+    "audio": {
+      "slug": "hananase",
+      "ipay": "dictionary/audio/ipay/hananase.mp3",
+      "hokkien": "dictionary/audio/hokkien/hananase.mp3"
+    }
   },
   {
     "id": "0153",
@@ -545,7 +700,12 @@
       "peel (to)"
     ],
     "source": "B",
-    "original": "hanette"
+    "original": "hanette",
+    "audio": {
+      "slug": "hanette",
+      "ipay": "dictionary/audio/ipay/hanette.mp3",
+      "hokkien": "dictionary/audio/hokkien/hanette.mp3"
+    }
   },
   {
     "id": "0154",
@@ -561,7 +721,12 @@
       "pinch (to)"
     ],
     "source": "B",
-    "original": "hanette"
+    "original": "hanette",
+    "audio": {
+      "slug": "hanette",
+      "ipay": "dictionary/audio/ipay/hanette.mp3",
+      "hokkien": "dictionary/audio/hokkien/hanette.mp3"
+    }
   },
   {
     "id": "0155",
@@ -578,7 +743,12 @@
       "scratch (to), climb"
     ],
     "source": "B",
-    "original": "hanisse"
+    "original": "hanisse",
+    "audio": {
+      "slug": "hanisse",
+      "ipay": "dictionary/audio/ipay/hanisse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hanisse.mp3"
+    }
   },
   {
     "id": "0156",
@@ -588,7 +758,12 @@
       "(台) choki"
     ],
     "source": "B",
-    "original": "hapəd'"
+    "original": "hapəd'",
+    "audio": {
+      "slug": "hapoxdx",
+      "ipay": "dictionary/audio/ipay/hapoxdx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hapoxdx.mp3"
+    }
   },
   {
     "id": "0157",
@@ -605,7 +780,12 @@
       "adhere"
     ],
     "source": "B",
-    "original": "hapətte"
+    "original": "hapətte",
+    "audio": {
+      "slug": "hapoxtte",
+      "ipay": "dictionary/audio/ipay/hapoxtte.mp3",
+      "hokkien": "dictionary/audio/hokkien/hapoxtte.mp3"
+    }
   },
   {
     "id": "0158",
@@ -621,7 +801,12 @@
       "button"
     ],
     "source": "B",
-    "original": "haputte"
+    "original": "haputte",
+    "audio": {
+      "slug": "haputte",
+      "ipay": "dictionary/audio/ipay/haputte.mp3",
+      "hokkien": "dictionary/audio/hokkien/haputte.mp3"
+    }
   },
   {
     "id": "0159",
@@ -638,7 +823,12 @@
       "adhere, bind"
     ],
     "source": "B",
-    "original": "haputtse"
+    "original": "haputtse",
+    "audio": {
+      "slug": "haputtse",
+      "ipay": "dictionary/audio/ipay/haputtse.mp3",
+      "hokkien": "dictionary/audio/hokkien/haputtse.mp3"
+    }
   },
   {
     "id": "0160",
@@ -654,7 +844,12 @@
       "bite"
     ],
     "source": "B",
-    "original": "harate"
+    "original": "harate",
+    "audio": {
+      "slug": "harate",
+      "ipay": "dictionary/audio/ipay/harate.mp3",
+      "hokkien": "dictionary/audio/hokkien/harate.mp3"
+    }
   },
   {
     "id": "0161",
@@ -670,7 +865,12 @@
       "bite"
     ],
     "source": "B",
-    "original": "haratte"
+    "original": "haratte",
+    "audio": {
+      "slug": "haratte",
+      "ipay": "dictionary/audio/ipay/haratte.mp3",
+      "hokkien": "dictionary/audio/hokkien/haratte.mp3"
+    }
   },
   {
     "id": "0162",
@@ -686,7 +886,12 @@
       "hussy, tomboy"
     ],
     "source": "B",
-    "original": "harimoamoa"
+    "original": "harimoamoa",
+    "audio": {
+      "slug": "harimoamoa",
+      "ipay": "dictionary/audio/ipay/harimoamoa.mp3",
+      "hokkien": "dictionary/audio/hokkien/harimoamoa.mp3"
+    }
   },
   {
     "id": "0163",
@@ -702,7 +907,12 @@
       "mill rice (to)"
     ],
     "source": "B",
-    "original": "haritʃi"
+    "original": "haritʃi",
+    "audio": {
+      "slug": "haritsxi",
+      "ipay": "dictionary/audio/ipay/haritsxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/haritsxi.mp3"
+    }
   },
   {
     "id": "0164",
@@ -720,7 +930,12 @@
       "grind (to). mill"
     ],
     "source": "B",
-    "original": "haritʃi"
+    "original": "haritʃi",
+    "audio": {
+      "slug": "haritsxi",
+      "ipay": "dictionary/audio/ipay/haritsxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/haritsxi.mp3"
+    }
   },
   {
     "id": "0165",
@@ -736,7 +951,12 @@
       "bend, curve"
     ],
     "source": "B",
-    "original": "haritswaitswai"
+    "original": "haritswaitswai",
+    "audio": {
+      "slug": "haritswaitswai",
+      "ipay": "dictionary/audio/ipay/haritswaitswai.mp3",
+      "hokkien": "dictionary/audio/hokkien/haritswaitswai.mp3"
+    }
   },
   {
     "id": "0166",
@@ -752,7 +972,12 @@
       "earthquake"
     ],
     "source": "B",
-    "original": "haritswatswai"
+    "original": "haritswatswai",
+    "audio": {
+      "slug": "haritswatswai",
+      "ipay": "dictionary/audio/ipay/haritswatswai.mp3",
+      "hokkien": "dictionary/audio/hokkien/haritswatswai.mp3"
+    }
   },
   {
     "id": "0167",
@@ -768,7 +993,12 @@
       "poor"
     ],
     "source": "B",
-    "original": "haron"
+    "original": "haron",
+    "audio": {
+      "slug": "haron",
+      "ipay": "dictionary/audio/ipay/haron.mp3",
+      "hokkien": "dictionary/audio/hokkien/haron.mp3"
+    }
   },
   {
     "id": "0168",
@@ -784,7 +1014,12 @@
       "ants"
     ],
     "source": "B",
-    "original": "harona"
+    "original": "harona",
+    "audio": {
+      "slug": "harona",
+      "ipay": "dictionary/audio/ipay/harona.mp3",
+      "hokkien": "dictionary/audio/hokkien/harona.mp3"
+    }
   },
   {
     "id": "0169",
@@ -800,7 +1035,12 @@
       "ant"
     ],
     "source": "B",
-    "original": "harona"
+    "original": "harona",
+    "audio": {
+      "slug": "harona",
+      "ipay": "dictionary/audio/ipay/harona.mp3",
+      "hokkien": "dictionary/audio/hokkien/harona.mp3"
+    }
   },
   {
     "id": "0170",
@@ -816,7 +1056,12 @@
       "dirty"
     ],
     "source": "B",
-    "original": "hatal'"
+    "original": "hatal'",
+    "audio": {
+      "slug": "hatalx",
+      "ipay": "dictionary/audio/ipay/hatalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatalx.mp3"
+    }
   },
   {
     "id": "0171",
@@ -833,7 +1078,12 @@
       "slovenly. naughty"
     ],
     "source": "B",
-    "original": "hatat"
+    "original": "hatat",
+    "audio": {
+      "slug": "hatat",
+      "ipay": "dictionary/audio/ipay/hatat.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatat.mp3"
+    }
   },
   {
     "id": "0172",
@@ -849,7 +1099,12 @@
       "rash (to have a red)"
     ],
     "source": "B",
-    "original": "hatop"
+    "original": "hatop",
+    "audio": {
+      "slug": "hatop",
+      "ipay": "dictionary/audio/ipay/hatop.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatop.mp3"
+    }
   },
   {
     "id": "0173",
@@ -865,7 +1120,12 @@
       "gaze in the distance"
     ],
     "source": "B",
-    "original": "hatsau"
+    "original": "hatsau",
+    "audio": {
+      "slug": "hatsau",
+      "ipay": "dictionary/audio/ipay/hatsau.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatsau.mp3"
+    }
   },
   {
     "id": "0174",
@@ -881,7 +1141,12 @@
       "thread"
     ],
     "source": "B",
-    "original": "hatsetsən"
+    "original": "hatsetsən",
+    "audio": {
+      "slug": "hatsetsoxn",
+      "ipay": "dictionary/audio/ipay/hatsetsoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatsetsoxn.mp3"
+    }
   },
   {
     "id": "0175",
@@ -897,7 +1162,12 @@
       "yarn"
     ],
     "source": "B",
-    "original": "hatsjetsən"
+    "original": "hatsjetsən",
+    "audio": {
+      "slug": "hatsjetsoxn",
+      "ipay": "dictionary/audio/ipay/hatsjetsoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/hatsjetsoxn.mp3"
+    }
   },
   {
     "id": "0176",
@@ -913,7 +1183,12 @@
       "beckon"
     ],
     "source": "B",
-    "original": "hauite"
+    "original": "hauite",
+    "audio": {
+      "slug": "hauite",
+      "ipay": "dictionary/audio/ipay/hauite.mp3",
+      "hokkien": "dictionary/audio/hokkien/hauite.mp3"
+    }
   },
   {
     "id": "0177",
@@ -930,7 +1205,12 @@
       "gather grass (to)"
     ],
     "source": "B",
-    "original": "hauite"
+    "original": "hauite",
+    "audio": {
+      "slug": "hauite",
+      "ipay": "dictionary/audio/ipay/hauite.mp3",
+      "hokkien": "dictionary/audio/hokkien/hauite.mp3"
+    }
   },
   {
     "id": "0178",
@@ -946,7 +1226,12 @@
       "sweet potato"
     ],
     "source": "B",
-    "original": "haupit"
+    "original": "haupit",
+    "audio": {
+      "slug": "haupit",
+      "ipay": "dictionary/audio/ipay/haupit.mp3",
+      "hokkien": "dictionary/audio/hokkien/haupit.mp3"
+    }
   },
   {
     "id": "0179",
@@ -962,7 +1247,12 @@
       "rice bran"
     ],
     "source": "B",
-    "original": "have"
+    "original": "have",
+    "audio": {
+      "slug": "have",
+      "ipay": "dictionary/audio/ipay/have.mp3",
+      "hokkien": "dictionary/audio/hokkien/have.mp3"
+    }
   },
   {
     "id": "0180",
@@ -978,7 +1268,12 @@
       "dry"
     ],
     "source": "B",
-    "original": "helaŋ"
+    "original": "helaŋ",
+    "audio": {
+      "slug": "helanx",
+      "ipay": "dictionary/audio/ipay/helanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/helanx.mp3"
+    }
   },
   {
     "id": "0181",
@@ -994,7 +1289,12 @@
       "low tide"
     ],
     "source": "B",
-    "original": "helaŋ na"
+    "original": "helaŋ na",
+    "audio": {
+      "slug": "helanx_na",
+      "ipay": "dictionary/audio/ipay/helanx_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/helanx_na.mp3"
+    }
   },
   {
     "id": "0182",
@@ -1010,7 +1310,12 @@
       "(milk to)hold"
     ],
     "source": "B",
-    "original": "hetel'"
+    "original": "hetel'",
+    "audio": {
+      "slug": "hetelx",
+      "ipay": "dictionary/audio/ipay/hetelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hetelx.mp3"
+    }
   },
   {
     "id": "0183",
@@ -1026,7 +1331,12 @@
       "handle"
     ],
     "source": "B",
-    "original": "heten"
+    "original": "heten",
+    "audio": {
+      "slug": "heten",
+      "ipay": "dictionary/audio/ipay/heten.mp3",
+      "hokkien": "dictionary/audio/hokkien/heten.mp3"
+    }
   },
   {
     "id": "0184",
@@ -1042,7 +1352,12 @@
       "divorce"
     ],
     "source": "B",
-    "original": "hetoŋotoŋosse"
+    "original": "hetoŋotoŋosse",
+    "audio": {
+      "slug": "hetonxotonxosse",
+      "ipay": "dictionary/audio/ipay/hetonxotonxosse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hetonxotonxosse.mp3"
+    }
   },
   {
     "id": "0185",
@@ -1075,7 +1390,12 @@
       "rub (to). scour"
     ],
     "source": "B",
-    "original": "hil'-hitse"
+    "original": "hil'-hitse",
+    "audio": {
+      "slug": "hilx_hitse",
+      "ipay": "dictionary/audio/ipay/hilx_hitse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hilx_hitse.mp3"
+    }
   },
   {
     "id": "0187",
@@ -1091,7 +1411,12 @@
       "file"
     ],
     "source": "B",
-    "original": "hilhitse"
+    "original": "hilhitse",
+    "audio": {
+      "slug": "hilhitse",
+      "ipay": "dictionary/audio/ipay/hilhitse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hilhitse.mp3"
+    }
   },
   {
     "id": "0188",
@@ -1110,7 +1435,12 @@
       "rub(to). saw (to)"
     ],
     "source": "B",
-    "original": "hilhitse"
+    "original": "hilhitse",
+    "audio": {
+      "slug": "hilhitse",
+      "ipay": "dictionary/audio/ipay/hilhitse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hilhitse.mp3"
+    }
   },
   {
     "id": "0189",
@@ -1127,7 +1457,12 @@
       "endure (to). put up with"
     ],
     "source": "B",
-    "original": "hipihipite"
+    "original": "hipihipite",
+    "audio": {
+      "slug": "hipihipite",
+      "ipay": "dictionary/audio/ipay/hipihipite.mp3",
+      "hokkien": "dictionary/audio/hokkien/hipihipite.mp3"
+    }
   },
   {
     "id": "0190",
@@ -1144,7 +1479,12 @@
       "endure. put up with"
     ],
     "source": "B",
-    "original": "hipihipitte"
+    "original": "hipihipitte",
+    "audio": {
+      "slug": "hipihipitte",
+      "ipay": "dictionary/audio/ipay/hipihipitte.mp3",
+      "hokkien": "dictionary/audio/hokkien/hipihipitte.mp3"
+    }
   },
   {
     "id": "0191",
@@ -1161,7 +1501,12 @@
       "earth worm). small snake"
     ],
     "source": "B",
-    "original": "hitora uD'"
+    "original": "hitora uD'",
+    "audio": {
+      "slug": "hitora_udx",
+      "ipay": "dictionary/audio/ipay/hitora_udx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hitora_udx.mp3"
+    }
   },
   {
     "id": "0192",
@@ -1177,7 +1522,12 @@
       "low"
     ],
     "source": "B",
-    "original": "hitul'"
+    "original": "hitul'",
+    "audio": {
+      "slug": "hitulx",
+      "ipay": "dictionary/audio/ipay/hitulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hitulx.mp3"
+    }
   },
   {
     "id": "0193",
@@ -1193,7 +1543,12 @@
       "awake (to)"
     ],
     "source": "B",
-    "original": "hmtil'"
+    "original": "hmtil'",
+    "audio": {
+      "slug": "hmtilx",
+      "ipay": "dictionary/audio/ipay/hmtilx.mp3",
+      "hokkien": "dictionary/audio/hokkien/hmtilx.mp3"
+    }
   },
   {
     "id": "0194",
@@ -1209,7 +1564,12 @@
       "??"
     ],
     "source": "B",
-    "original": "hmtit"
+    "original": "hmtit",
+    "audio": {
+      "slug": "hmtit",
+      "ipay": "dictionary/audio/ipay/hmtit.mp3",
+      "hokkien": "dictionary/audio/hokkien/hmtit.mp3"
+    }
   },
   {
     "id": "0195",
@@ -1225,7 +1585,12 @@
       "regret"
     ],
     "source": "B",
-    "original": "hmunote"
+    "original": "hmunote",
+    "audio": {
+      "slug": "hmunote",
+      "ipay": "dictionary/audio/ipay/hmunote.mp3",
+      "hokkien": "dictionary/audio/hokkien/hmunote.mp3"
+    }
   },
   {
     "id": "0196",
@@ -1242,7 +1607,12 @@
       "expensive"
     ],
     "source": "B",
-    "original": "hulasa taŋja"
+    "original": "hulasa taŋja",
+    "audio": {
+      "slug": "hulasa_tanxja",
+      "ipay": "dictionary/audio/ipay/hulasa_tanxja.mp3",
+      "hokkien": "dictionary/audio/hokkien/hulasa_tanxja.mp3"
+    }
   },
   {
     "id": "0197",
@@ -1258,7 +1628,12 @@
       "many)"
     ],
     "source": "B",
-    "original": "hulasse"
+    "original": "hulasse",
+    "audio": {
+      "slug": "hulasse",
+      "ipay": "dictionary/audio/ipay/hulasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/hulasse.mp3"
+    }
   },
   {
     "id": "0198",
@@ -1274,7 +1649,12 @@
       "many, catch a lot of fish"
     ],
     "source": "B",
-    "original": "hulasse <sikalape"
+    "original": "hulasse <sikalape",
+    "audio": {
+      "slug": "hulasse_sikalape",
+      "ipay": "dictionary/audio/ipay/hulasse_sikalape.mp3",
+      "hokkien": "dictionary/audio/hokkien/hulasse_sikalape.mp3"
+    }
   },
   {
     "id": "0199",
@@ -1290,7 +1670,12 @@
       "angry (to get)"
     ],
     "source": "B",
-    "original": "hulasse baute>"
+    "original": "hulasse baute>",
+    "audio": {
+      "slug": "hulasse_baute",
+      "ipay": "dictionary/audio/ipay/hulasse_baute.mp3",
+      "hokkien": "dictionary/audio/hokkien/hulasse_baute.mp3"
+    }
   },
   {
     "id": "0200",
@@ -1335,6 +1720,11 @@
       "brick"
     ],
     "source": "V",
-    "original": "qia (M) hya (< Taiwanese)"
+    "original": "qia (M) hya (< Taiwanese)",
+    "audio": {
+      "slug": "hya",
+      "ipay": "dictionary/audio/ipay/hya.mp3",
+      "hokkien": "dictionary/audio/hokkien/hya.mp3"
+    }
   }
 ]

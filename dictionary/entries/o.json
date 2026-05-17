@@ -13,7 +13,12 @@
       "now"
     ],
     "source": "B",
-    "original": "oatʃi"
+    "original": "oatʃi",
+    "audio": {
+      "slug": "oatsxi",
+      "ipay": "dictionary/audio/ipay/oatsxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/oatsxi.mp3"
+    }
   },
   {
     "id": "0584",
@@ -46,7 +51,12 @@
       "strength"
     ],
     "source": "B",
-    "original": "olatte"
+    "original": "olatte",
+    "audio": {
+      "slug": "olatte",
+      "ipay": "dictionary/audio/ipay/olatte.mp3",
+      "hokkien": "dictionary/audio/hokkien/olatte.mp3"
+    }
   },
   {
     "id": "1700",
@@ -59,7 +69,12 @@
       "sand"
     ],
     "source": "M",
-    "original": "orats (M)"
+    "original": "orats (M)",
+    "audio": {
+      "slug": "orats",
+      "ipay": "dictionary/audio/ipay/orats.mp3",
+      "hokkien": "dictionary/audio/hokkien/orats.mp3"
+    }
   },
   {
     "id": "0586",
@@ -75,7 +90,12 @@
       "penis"
     ],
     "source": "B",
-    "original": "oto"
+    "original": "oto",
+    "audio": {
+      "slug": "oto",
+      "ipay": "dictionary/audio/ipay/oto.mp3",
+      "hokkien": "dictionary/audio/hokkien/oto.mp3"
+    }
   },
   {
     "id": "0587",
@@ -91,7 +111,12 @@
       "shoulder"
     ],
     "source": "B",
-    "original": "otoi"
+    "original": "otoi",
+    "audio": {
+      "slug": "otoi",
+      "ipay": "dictionary/audio/ipay/otoi.mp3",
+      "hokkien": "dictionary/audio/hokkien/otoi.mp3"
+    }
   },
   {
     "id": "0588",
@@ -107,6 +132,11 @@
       "carry on shoulder"
     ],
     "source": "B",
-    "original": "otoi"
+    "original": "otoi",
+    "audio": {
+      "slug": "otoi",
+      "ipay": "dictionary/audio/ipay/otoi.mp3",
+      "hokkien": "dictionary/audio/hokkien/otoi.mp3"
+    }
   }
 ]

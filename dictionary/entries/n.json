@@ -10,7 +10,12 @@
       "your (GEN>"
     ],
     "source": "S",
-    "original": "-numi (S)"
+    "original": "-numi (S)",
+    "audio": {
+      "slug": "numi",
+      "ipay": "dictionary/audio/ipay/numi.mp3",
+      "hokkien": "dictionary/audio/hokkien/numi.mp3"
+    }
   },
   {
     "id": "1663",
@@ -23,7 +28,12 @@
       "rice cake"
     ],
     "source": "M",
-    "original": "naɭik (S)> naɭikka (M)"
+    "original": "naɭik (S)> naɭikka (M)",
+    "audio": {
+      "slug": "nalxikka",
+      "ipay": "dictionary/audio/ipay/nalxikka.mp3",
+      "hokkien": "dictionary/audio/hokkien/nalxikka.mp3"
+    }
   },
   {
     "id": "0550",
@@ -40,7 +50,12 @@
       "outside. garden"
     ],
     "source": "B",
-    "original": "ŋajau"
+    "original": "ŋajau",
+    "audio": {
+      "slug": "nxajau",
+      "ipay": "dictionary/audio/ipay/nxajau.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxajau.mp3"
+    }
   },
   {
     "id": "0551",
@@ -56,7 +71,12 @@
       "chin (lower)"
     ],
     "source": "B",
-    "original": "ŋalau"
+    "original": "ŋalau",
+    "audio": {
+      "slug": "nxalau",
+      "ipay": "dictionary/audio/ipay/nxalau.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxalau.mp3"
+    }
   },
   {
     "id": "0552",
@@ -73,7 +93,12 @@
       "lips. jaw"
     ],
     "source": "B",
-    "original": "ŋalau, ŋarau"
+    "original": "ŋalau, ŋarau",
+    "audio": {
+      "slug": "nxalau",
+      "ipay": "dictionary/audio/ipay/nxalau.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxalau.mp3"
+    }
   },
   {
     "id": "0555",
@@ -89,7 +114,12 @@
       "mouth"
     ],
     "source": "B",
-    "original": "ŋaŋa"
+    "original": "ŋaŋa",
+    "audio": {
+      "slug": "nxanxa",
+      "ipay": "dictionary/audio/ipay/nxanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxanxa.mp3"
+    }
   },
   {
     "id": "0556",
@@ -106,7 +136,12 @@
       "beak. bill"
     ],
     "source": "B",
-    "original": "ŋaŋaja"
+    "original": "ŋaŋaja",
+    "audio": {
+      "slug": "nxanxaja",
+      "ipay": "dictionary/audio/ipay/nxanxaja.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxanxaja.mp3"
+    }
   },
   {
     "id": "0553",
@@ -122,7 +157,12 @@
       "name"
     ],
     "source": "B",
-    "original": "ŋanan"
+    "original": "ŋanan",
+    "audio": {
+      "slug": "nxanan",
+      "ipay": "dictionary/audio/ipay/nxanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxanan.mp3"
+    }
   },
   {
     "id": "0554",
@@ -138,7 +178,12 @@
       "echo"
     ],
     "source": "B",
-    "original": "ŋanan"
+    "original": "ŋanan",
+    "audio": {
+      "slug": "nxanan",
+      "ipay": "dictionary/audio/ipay/nxanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxanan.mp3"
+    }
   },
   {
     "id": "0557",
@@ -155,7 +200,12 @@
       "river, stream"
     ],
     "source": "B",
-    "original": "ŋapan"
+    "original": "ŋapan",
+    "audio": {
+      "slug": "nxapan",
+      "ipay": "dictionary/audio/ipay/nxapan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxapan.mp3"
+    }
   },
   {
     "id": "0558",
@@ -171,7 +221,12 @@
       "mustache"
     ],
     "source": "B",
-    "original": "ŋarau a bukəs"
+    "original": "ŋarau a bukəs",
+    "audio": {
+      "slug": "nxarau_a_bukoxs",
+      "ipay": "dictionary/audio/ipay/nxarau_a_bukoxs.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxarau_a_bukoxs.mp3"
+    }
   },
   {
     "id": "0559",
@@ -187,7 +242,12 @@
       "spit"
     ],
     "source": "B",
-    "original": "ŋatsai"
+    "original": "ŋatsai",
+    "audio": {
+      "slug": "nxatsai",
+      "ipay": "dictionary/audio/ipay/nxatsai.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxatsai.mp3"
+    }
   },
   {
     "id": "1691",
@@ -200,7 +260,12 @@
       "saliva, spit"
     ],
     "source": "M",
-    "original": "ŋatsdi (M)"
+    "original": "ŋatsdi (M)",
+    "audio": {
+      "slug": "nxatsdi",
+      "ipay": "dictionary/audio/ipay/nxatsdi.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxatsdi.mp3"
+    }
   },
   {
     "id": "0560",
@@ -216,7 +281,12 @@
       "rice harvest"
     ],
     "source": "B",
-    "original": "ŋatu"
+    "original": "ŋatu",
+    "audio": {
+      "slug": "nxatu",
+      "ipay": "dictionary/audio/ipay/nxatu.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxatu.mp3"
+    }
   },
   {
     "id": "1692",
@@ -229,7 +299,12 @@
       "in front of"
     ],
     "source": "T",
-    "original": "ŋayaw"
+    "original": "ŋayaw",
+    "audio": {
+      "slug": "nxayaw",
+      "ipay": "dictionary/audio/ipay/nxayaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxayaw.mp3"
+    }
   },
   {
     "id": "1693",
@@ -242,7 +317,12 @@
       "stone god"
     ],
     "source": "T",
-    "original": "ŋazi"
+    "original": "ŋazi",
+    "audio": {
+      "slug": "nxazi",
+      "ipay": "dictionary/audio/ipay/nxazi.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxazi.mp3"
+    }
   },
   {
     "id": "1694",
@@ -255,7 +335,12 @@
       "chin (lower)"
     ],
     "source": "M",
-    "original": "ŋazui (M)"
+    "original": "ŋazui (M)",
+    "audio": {
+      "slug": "nxazui",
+      "ipay": "dictionary/audio/ipay/nxazui.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxazui.mp3"
+    }
   },
   {
     "id": "1695",
@@ -284,7 +369,12 @@
       "mountain"
     ],
     "source": "B",
-    "original": "ŋonon"
+    "original": "ŋonon",
+    "audio": {
+      "slug": "nxonon",
+      "ipay": "dictionary/audio/ipay/nxonon.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxonon.mp3"
+    }
   },
   {
     "id": "0562",
@@ -300,7 +390,12 @@
       "forest"
     ],
     "source": "B",
-    "original": "ŋonon"
+    "original": "ŋonon",
+    "audio": {
+      "slug": "nxonon",
+      "ipay": "dictionary/audio/ipay/nxonon.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxonon.mp3"
+    }
   },
   {
     "id": "1696",
@@ -313,7 +408,12 @@
       "nose"
     ],
     "source": "M",
-    "original": "ŋorŋor (M)"
+    "original": "ŋorŋor (M)",
+    "audio": {
+      "slug": "nxornxor",
+      "ipay": "dictionary/audio/ipay/nxornxor.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxornxor.mp3"
+    }
   },
   {
     "id": "0563",
@@ -329,7 +429,12 @@
       "nose"
     ],
     "source": "B",
-    "original": "ŋutsutsje"
+    "original": "ŋutsutsje",
+    "audio": {
+      "slug": "nxutsutsje",
+      "ipay": "dictionary/audio/ipay/nxutsutsje.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxutsutsje.mp3"
+    }
   },
   {
     "id": "1697",
@@ -342,7 +447,12 @@
       "bow of the ship"
     ],
     "source": "M",
-    "original": "ŋuzus (M)"
+    "original": "ŋuzus (M)",
+    "audio": {
+      "slug": "nxuzus",
+      "ipay": "dictionary/audio/ipay/nxuzus.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxuzus.mp3"
+    }
   },
   {
     "id": "1698",
@@ -355,7 +465,12 @@
       "cape"
     ],
     "source": "T",
-    "original": "ŋuzus, ŋuzus taqəl (M)"
+    "original": "ŋuzus, ŋuzus taqəl (M)",
+    "audio": {
+      "slug": "nxuzus",
+      "ipay": "dictionary/audio/ipay/nxuzus.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxuzus.mp3"
+    }
   },
   {
     "id": "1699",
@@ -368,7 +483,12 @@
       "cape"
     ],
     "source": "M",
-    "original": "ŋuzus, ŋuzus taqəl (M)"
+    "original": "ŋuzus, ŋuzus taqəl (M)",
+    "audio": {
+      "slug": "nxuzus_taqoxl",
+      "ipay": "dictionary/audio/ipay/nxuzus_taqoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/nxuzus_taqoxl.mp3"
+    }
   },
   {
     "id": "1660",
@@ -381,7 +501,12 @@
       "aspect marker"
     ],
     "source": "T",
-    "original": "na"
+    "original": "na",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/na.mp3"
+    }
   },
   {
     "id": "1661",
@@ -394,7 +519,12 @@
       "mother (address)"
     ],
     "source": "T",
-    "original": "na, na:na,. nai, nawie"
+    "original": "na, na:na,. nai, nawie",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/na.mp3"
+    }
   },
   {
     "id": "0529",
@@ -412,7 +542,12 @@
       "already (preterium)"
     ],
     "source": "B",
-    "original": "na. <kuman na>"
+    "original": "na. <kuman na>",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/na.mp3"
+    }
   },
   {
     "id": "0530",
@@ -428,7 +563,12 @@
       "fire"
     ],
     "source": "B",
-    "original": "na:maD*"
+    "original": "na:maD*",
+    "audio": {
+      "slug": "na_mad",
+      "ipay": "dictionary/audio/ipay/na_mad.mp3",
+      "hokkien": "dictionary/audio/hokkien/na_mad.mp3"
+    }
   },
   {
     "id": "1662",
@@ -441,7 +581,12 @@
       "rice cake"
     ],
     "source": "S",
-    "original": "naɭik (S)> naɭikka (M)"
+    "original": "naɭik (S)> naɭikka (M)",
+    "audio": {
+      "slug": "nalxik",
+      "ipay": "dictionary/audio/ipay/nalxik.mp3",
+      "hokkien": "dictionary/audio/hokkien/nalxik.mp3"
+    }
   },
   {
     "id": "1664",
@@ -454,7 +599,12 @@
       "come"
     ],
     "source": "S",
-    "original": "naɭiɭi (S)"
+    "original": "naɭiɭi (S)",
+    "audio": {
+      "slug": "nalxilxi",
+      "ipay": "dictionary/audio/ipay/nalxilxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/nalxilxi.mp3"
+    }
   },
   {
     "id": "0531",
@@ -470,7 +620,12 @@
       "fire"
     ],
     "source": "B",
-    "original": "namaD'"
+    "original": "namaD'",
+    "audio": {
+      "slug": "namadx",
+      "ipay": "dictionary/audio/ipay/namadx.mp3",
+      "hokkien": "dictionary/audio/hokkien/namadx.mp3"
+    }
   },
   {
     "id": "0532",
@@ -486,7 +641,12 @@
       "lightning"
     ],
     "source": "B",
-    "original": "nameD"
+    "original": "nameD",
+    "audio": {
+      "slug": "named",
+      "ipay": "dictionary/audio/ipay/named.mp3",
+      "hokkien": "dictionary/audio/hokkien/named.mp3"
+    }
   },
   {
     "id": "0533",
@@ -549,7 +709,12 @@
       "rich"
     ],
     "source": "B",
-    "original": "naŋala > manaŋala"
+    "original": "naŋala > manaŋala",
+    "audio": {
+      "slug": "nanxala_mananxala",
+      "ipay": "dictionary/audio/ipay/nanxala_mananxala.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanxala_mananxala.mp3"
+    }
   },
   {
     "id": "1666",
@@ -562,7 +727,12 @@
       "name"
     ],
     "source": "M",
-    "original": "naŋan (M)"
+    "original": "naŋan (M)",
+    "audio": {
+      "slug": "nanxan",
+      "ipay": "dictionary/audio/ipay/nanxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanxan.mp3"
+    }
   },
   {
     "id": "0536",
@@ -578,7 +748,12 @@
       "tongue (??) movement of tongue (??)"
     ],
     "source": "B",
-    "original": "naŋanaŋat'"
+    "original": "naŋanaŋat'",
+    "audio": {
+      "slug": "nanxananxatx",
+      "ipay": "dictionary/audio/ipay/nanxananxatx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanxananxatx.mp3"
+    }
   },
   {
     "id": "1667",
@@ -591,7 +766,12 @@
       "swim"
     ],
     "source": "M",
-    "original": "naŋui (M)"
+    "original": "naŋui (M)",
+    "audio": {
+      "slug": "nanxui",
+      "ipay": "dictionary/audio/ipay/nanxui.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanxui.mp3"
+    }
   },
   {
     "id": "0537",
@@ -607,7 +787,12 @@
       "water"
     ],
     "source": "B",
-    "original": "nanom"
+    "original": "nanom",
+    "audio": {
+      "slug": "nanom",
+      "ipay": "dictionary/audio/ipay/nanom.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanom.mp3"
+    }
   },
   {
     "id": "0538",
@@ -623,7 +808,12 @@
       "swim"
     ],
     "source": "B",
-    "original": "nanui"
+    "original": "nanui",
+    "audio": {
+      "slug": "nanui",
+      "ipay": "dictionary/audio/ipay/nanui.mp3",
+      "hokkien": "dictionary/audio/hokkien/nanui.mp3"
+    }
   },
   {
     "id": "0539",
@@ -639,7 +829,12 @@
       "tomb"
     ],
     "source": "B",
-    "original": "napuŋ. ninapuŋan. ninapuŋ"
+    "original": "napuŋ. ninapuŋan. ninapuŋ",
+    "audio": {
+      "slug": "napunx_ninapunxan_ninapunx",
+      "ipay": "dictionary/audio/ipay/napunx_ninapunxan_ninapunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/napunx_ninapunxan_ninapunx.mp3"
+    }
   },
   {
     "id": "1668",
@@ -652,7 +847,12 @@
       "outside, garden"
     ],
     "source": "M",
-    "original": "nasan (M)"
+    "original": "nasan (M)",
+    "audio": {
+      "slug": "nasan",
+      "ipay": "dictionary/audio/ipay/nasan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nasan.mp3"
+    }
   },
   {
     "id": "1669",
@@ -665,7 +865,12 @@
       "relatives"
     ],
     "source": "M",
-    "original": "nasoani (M)"
+    "original": "nasoani (M)",
+    "audio": {
+      "slug": "nasoani",
+      "ipay": "dictionary/audio/ipay/nasoani.mp3",
+      "hokkien": "dictionary/audio/hokkien/nasoani.mp3"
+    }
   },
   {
     "id": "0540",
@@ -682,7 +887,12 @@
       "beads, glass.ball"
     ],
     "source": "B",
-    "original": "natəŋ"
+    "original": "natəŋ",
+    "audio": {
+      "slug": "natoxnx",
+      "ipay": "dictionary/audio/ipay/natoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/natoxnx.mp3"
+    }
   },
   {
     "id": "0541",
@@ -698,7 +908,12 @@
       "light (in weight)"
     ],
     "source": "B",
-    "original": "natsaŋ"
+    "original": "natsaŋ",
+    "audio": {
+      "slug": "natsanx",
+      "ipay": "dictionary/audio/ipay/natsanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/natsanx.mp3"
+    }
   },
   {
     "id": "0542",
@@ -715,7 +930,12 @@
       "light, so, so far"
     ],
     "source": "B",
-    "original": "natsaŋ"
+    "original": "natsaŋ",
+    "audio": {
+      "slug": "natsanx",
+      "ipay": "dictionary/audio/ipay/natsanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/natsanx.mp3"
+    }
   },
   {
     "id": "1643",
@@ -728,7 +948,12 @@
       "light (in weight)"
     ],
     "source": "M",
-    "original": "munatsaŋ (M), natsaŋ (M)"
+    "original": "munatsaŋ (M), natsaŋ (M)",
+    "audio": {
+      "slug": "natsanx",
+      "ipay": "dictionary/audio/ipay/natsanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/natsanx.mp3"
+    }
   },
   {
     "id": "1670",
@@ -741,7 +966,12 @@
       "wanton (man)"
     ],
     "source": "M",
-    "original": "natswan (M)"
+    "original": "natswan (M)",
+    "audio": {
+      "slug": "natswan",
+      "ipay": "dictionary/audio/ipay/natswan.mp3",
+      "hokkien": "dictionary/audio/hokkien/natswan.mp3"
+    }
   },
   {
     "id": "1671",
@@ -754,7 +984,12 @@
       "pity"
     ],
     "source": "T",
-    "original": "nawaika"
+    "original": "nawaika",
+    "audio": {
+      "slug": "nawaika",
+      "ipay": "dictionary/audio/ipay/nawaika.mp3",
+      "hokkien": "dictionary/audio/hokkien/nawaika.mp3"
+    }
   },
   {
     "id": "1672",
@@ -767,7 +1002,12 @@
       "what’s up"
     ],
     "source": "S",
-    "original": "nazaunii (S)"
+    "original": "nazaunii (S)",
+    "audio": {
+      "slug": "nazaunii",
+      "ipay": "dictionary/audio/ipay/nazaunii.mp3",
+      "hokkien": "dictionary/audio/hokkien/nazaunii.mp3"
+    }
   },
   {
     "id": "1673",
@@ -780,7 +1020,12 @@
       "if"
     ],
     "source": "S",
-    "original": "ne (S)"
+    "original": "ne (S)",
+    "audio": {
+      "slug": "ne",
+      "ipay": "dictionary/audio/ipay/ne.mp3",
+      "hokkien": "dictionary/audio/hokkien/ne.mp3"
+    }
   },
   {
     "id": "0543",
@@ -796,7 +1041,12 @@
       "brick"
     ],
     "source": "B",
-    "original": "nemal' a batu"
+    "original": "nemal' a batu",
+    "audio": {
+      "slug": "nemalx_a_batu",
+      "ipay": "dictionary/audio/ipay/nemalx_a_batu.mp3",
+      "hokkien": "dictionary/audio/hokkien/nemalx_a_batu.mp3"
+    }
   },
   {
     "id": "0546",
@@ -812,7 +1062,12 @@
       "red dog"
     ],
     "source": "B",
-    "original": "nemen uatsu"
+    "original": "nemen uatsu",
+    "audio": {
+      "slug": "nemen_uatsu",
+      "ipay": "dictionary/audio/ipay/nemen_uatsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/nemen_uatsu.mp3"
+    }
   },
   {
     "id": "0544",
@@ -828,7 +1083,12 @@
       "betel nut"
     ],
     "source": "B",
-    "original": "neməŋ"
+    "original": "neməŋ",
+    "audio": {
+      "slug": "nemoxnx",
+      "ipay": "dictionary/audio/ipay/nemoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nemoxnx.mp3"
+    }
   },
   {
     "id": "0545",
@@ -844,7 +1104,12 @@
       "Europeans"
     ],
     "source": "B",
-    "original": "neməŋ basai"
+    "original": "neməŋ basai",
+    "audio": {
+      "slug": "nemoxnx_basai",
+      "ipay": "dictionary/audio/ipay/nemoxnx_basai.mp3",
+      "hokkien": "dictionary/audio/hokkien/nemoxnx_basai.mp3"
+    }
   },
   {
     "id": "0547",
@@ -876,7 +1141,12 @@
       "testicle"
     ],
     "source": "B",
-    "original": "netel'"
+    "original": "netel'",
+    "audio": {
+      "slug": "netelx",
+      "ipay": "dictionary/audio/ipay/netelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/netelx.mp3"
+    }
   },
   {
     "id": "0549",
@@ -892,7 +1162,12 @@
       "testicle"
     ],
     "source": "B",
-    "original": "netel'"
+    "original": "netel'",
+    "audio": {
+      "slug": "netelx",
+      "ipay": "dictionary/audio/ipay/netelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/netelx.mp3"
+    }
   },
   {
     "id": "1674",
@@ -905,7 +1180,12 @@
       "catch"
     ],
     "source": "T",
-    "original": "niaɭa"
+    "original": "niaɭa",
+    "audio": {
+      "slug": "nialxa",
+      "ipay": "dictionary/audio/ipay/nialxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/nialxa.mp3"
+    }
   },
   {
     "id": "1675",
@@ -918,7 +1198,12 @@
       "what"
     ],
     "source": "S",
-    "original": "niana (S)"
+    "original": "niana (S)",
+    "audio": {
+      "slug": "niana",
+      "ipay": "dictionary/audio/ipay/niana.mp3",
+      "hokkien": "dictionary/audio/hokkien/niana.mp3"
+    }
   },
   {
     "id": "0564",
@@ -934,7 +1219,12 @@
       "bear (animal)"
     ],
     "source": "B",
-    "original": "nianai"
+    "original": "nianai",
+    "audio": {
+      "slug": "nianai",
+      "ipay": "dictionary/audio/ipay/nianai.mp3",
+      "hokkien": "dictionary/audio/hokkien/nianai.mp3"
+    }
   },
   {
     "id": "1676",
@@ -947,7 +1237,12 @@
       "six people"
     ],
     "source": "T",
-    "original": "nianəm"
+    "original": "nianəm",
+    "audio": {
+      "slug": "nianoxm",
+      "ipay": "dictionary/audio/ipay/nianoxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/nianoxm.mp3"
+    }
   },
   {
     "id": "1677",
@@ -960,7 +1255,12 @@
       "three people"
     ],
     "source": "T",
-    "original": "niatsu"
+    "original": "niatsu",
+    "audio": {
+      "slug": "niatsu",
+      "ipay": "dictionary/audio/ipay/niatsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/niatsu.mp3"
+    }
   },
   {
     "id": "1678",
@@ -973,7 +1273,12 @@
       "two people"
     ],
     "source": "T",
-    "original": "niazusa"
+    "original": "niazusa",
+    "audio": {
+      "slug": "niazusa",
+      "ipay": "dictionary/audio/ipay/niazusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/niazusa.mp3"
+    }
   },
   {
     "id": "1548",
@@ -986,7 +1291,12 @@
       "revive, alive"
     ],
     "source": "T",
-    "original": "niiuits"
+    "original": "niiuits",
+    "audio": {
+      "slug": "niiuits",
+      "ipay": "dictionary/audio/ipay/niiuits.mp3",
+      "hokkien": "dictionary/audio/hokkien/niiuits.mp3"
+    }
   },
   {
     "id": "0567",
@@ -1015,7 +1325,12 @@
       "shadow"
     ],
     "source": "M",
-    "original": "niŋu (M)"
+    "original": "niŋu (M)",
+    "audio": {
+      "slug": "ninxu",
+      "ipay": "dictionary/audio/ipay/ninxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/ninxu.mp3"
+    }
   },
   {
     "id": "0565",
@@ -1032,7 +1347,12 @@
       "intimate"
     ],
     "source": "B",
-    "original": "ninamunan"
+    "original": "ninamunan",
+    "audio": {
+      "slug": "ninamunan",
+      "ipay": "dictionary/audio/ipay/ninamunan.mp3",
+      "hokkien": "dictionary/audio/hokkien/ninamunan.mp3"
+    }
   },
   {
     "id": "0566",
@@ -1048,7 +1368,12 @@
       "cemetery"
     ],
     "source": "B",
-    "original": "ninaupuŋ"
+    "original": "ninaupuŋ",
+    "audio": {
+      "slug": "ninaupunx",
+      "ipay": "dictionary/audio/ipay/ninaupunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/ninaupunx.mp3"
+    }
   },
   {
     "id": "0568",
@@ -1064,7 +1389,12 @@
       "cape"
     ],
     "source": "B",
-    "original": "nippe"
+    "original": "nippe",
+    "audio": {
+      "slug": "nippe",
+      "ipay": "dictionary/audio/ipay/nippe.mp3",
+      "hokkien": "dictionary/audio/hokkien/nippe.mp3"
+    }
   },
   {
     "id": "1680",
@@ -1077,7 +1407,12 @@
       "dry"
     ],
     "source": "M",
-    "original": "nitsaŋ (M)"
+    "original": "nitsaŋ (M)",
+    "audio": {
+      "slug": "nitsanx",
+      "ipay": "dictionary/audio/ipay/nitsanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nitsanx.mp3"
+    }
   },
   {
     "id": "0569",
@@ -1094,7 +1429,12 @@
       "callosity. corn"
     ],
     "source": "B",
-    "original": "nitsau a mata"
+    "original": "nitsau a mata",
+    "audio": {
+      "slug": "nitsau_a_mata",
+      "ipay": "dictionary/audio/ipay/nitsau_a_mata.mp3",
+      "hokkien": "dictionary/audio/hokkien/nitsau_a_mata.mp3"
+    }
   },
   {
     "id": "0570",
@@ -1110,7 +1450,12 @@
       "simlar, just like"
     ],
     "source": "B",
-    "original": "nitsawa"
+    "original": "nitsawa",
+    "audio": {
+      "slug": "nitsawa",
+      "ipay": "dictionary/audio/ipay/nitsawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/nitsawa.mp3"
+    }
   },
   {
     "id": "0571",
@@ -1127,7 +1472,12 @@
       "stoop, give birth to"
     ],
     "source": "B",
-    "original": "nituŋuD'"
+    "original": "nituŋuD'",
+    "audio": {
+      "slug": "nitunxudx",
+      "ipay": "dictionary/audio/ipay/nitunxudx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nitunxudx.mp3"
+    }
   },
   {
     "id": "0572",
@@ -1156,7 +1506,12 @@
       "split one's hair"
     ],
     "source": "M",
-    "original": "njaŋuzinan (M)"
+    "original": "njaŋuzinan (M)",
+    "audio": {
+      "slug": "njanxuzinan",
+      "ipay": "dictionary/audio/ipay/njanxuzinan.mp3",
+      "hokkien": "dictionary/audio/hokkien/njanxuzinan.mp3"
+    }
   },
   {
     "id": "0573",
@@ -1172,7 +1527,12 @@
       "fish (to)"
     ],
     "source": "B",
-    "original": "njatsan baute"
+    "original": "njatsan baute",
+    "audio": {
+      "slug": "njatsan_baute",
+      "ipay": "dictionary/audio/ipay/njatsan_baute.mp3",
+      "hokkien": "dictionary/audio/hokkien/njatsan_baute.mp3"
+    }
   },
   {
     "id": "1682",
@@ -1185,7 +1545,12 @@
       "question marker"
     ],
     "source": "T",
-    "original": "nu"
+    "original": "nu",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/nu.mp3"
+    }
   },
   {
     "id": "1683",
@@ -1198,7 +1563,12 @@
       "foot-binding"
     ],
     "source": "M",
-    "original": "nukanan (M)"
+    "original": "nukanan (M)",
+    "audio": {
+      "slug": "nukanan",
+      "ipay": "dictionary/audio/ipay/nukanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nukanan.mp3"
+    }
   },
   {
     "id": "1684",
@@ -1211,7 +1581,12 @@
       "deserve"
     ],
     "source": "T",
-    "original": "nuɭatsuŋ"
+    "original": "nuɭatsuŋ",
+    "audio": {
+      "slug": "nulxatsunx",
+      "ipay": "dictionary/audio/ipay/nulxatsunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nulxatsunx.mp3"
+    }
   },
   {
     "id": "0520",
@@ -1227,7 +1602,12 @@
       "bad"
     ],
     "source": "B",
-    "original": "nulate"
+    "original": "nulate",
+    "audio": {
+      "slug": "nulate",
+      "ipay": "dictionary/audio/ipay/nulate.mp3",
+      "hokkien": "dictionary/audio/hokkien/nulate.mp3"
+    }
   },
   {
     "id": "0574",
@@ -1243,7 +1623,12 @@
       "see (to)"
     ],
     "source": "B",
-    "original": "numaD'"
+    "original": "numaD'",
+    "audio": {
+      "slug": "numadx",
+      "ipay": "dictionary/audio/ipay/numadx.mp3",
+      "hokkien": "dictionary/audio/hokkien/numadx.mp3"
+    }
   },
   {
     "id": "0576",
@@ -1260,7 +1645,12 @@
       "die. see"
     ],
     "source": "B",
-    "original": "numaD'. <jaku numaD'>"
+    "original": "numaD'. <jaku numaD'>",
+    "audio": {
+      "slug": "numadx",
+      "ipay": "dictionary/audio/ipay/numadx.mp3",
+      "hokkien": "dictionary/audio/hokkien/numadx.mp3"
+    }
   },
   {
     "id": "0575",
@@ -1276,7 +1666,12 @@
       "forward, front"
     ],
     "source": "B",
-    "original": "numaD'. <mita numaD'>"
+    "original": "numaD'. <mita numaD'>",
+    "audio": {
+      "slug": "numadx",
+      "ipay": "dictionary/audio/ipay/numadx.mp3",
+      "hokkien": "dictionary/audio/hokkien/numadx.mp3"
+    }
   },
   {
     "id": "0577",
@@ -1292,7 +1687,12 @@
       "true"
     ],
     "source": "B",
-    "original": "numakən"
+    "original": "numakən",
+    "audio": {
+      "slug": "numakoxn",
+      "ipay": "dictionary/audio/ipay/numakoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/numakoxn.mp3"
+    }
   },
   {
     "id": "0578",
@@ -1305,7 +1705,12 @@
       "(??)"
     ],
     "source": "B",
-    "original": "numal lasse >numalasse"
+    "original": "numal lasse >numalasse",
+    "audio": {
+      "slug": "numal_lasse_numalasse",
+      "ipay": "dictionary/audio/ipay/numal_lasse_numalasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/numal_lasse_numalasse.mp3"
+    }
   },
   {
     "id": "1686",
@@ -1318,7 +1723,12 @@
       "bamboo shoot"
     ],
     "source": "M",
-    "original": "nunai (M)"
+    "original": "nunai (M)",
+    "audio": {
+      "slug": "nunai",
+      "ipay": "dictionary/audio/ipay/nunai.mp3",
+      "hokkien": "dictionary/audio/hokkien/nunai.mp3"
+    }
   },
   {
     "id": "1687",
@@ -1331,7 +1741,12 @@
       "half"
     ],
     "source": "T",
-    "original": "nunuan"
+    "original": "nunuan",
+    "audio": {
+      "slug": "nunuan",
+      "ipay": "dictionary/audio/ipay/nunuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/nunuan.mp3"
+    }
   },
   {
     "id": "0579",
@@ -1347,7 +1762,12 @@
       "vigorous"
     ],
     "source": "B",
-    "original": "nununuŋusse"
+    "original": "nununuŋusse",
+    "audio": {
+      "slug": "nunununxusse",
+      "ipay": "dictionary/audio/ipay/nunununxusse.mp3",
+      "hokkien": "dictionary/audio/hokkien/nunununxusse.mp3"
+    }
   },
   {
     "id": "0580",
@@ -1363,7 +1783,12 @@
       "netbag"
     ],
     "source": "B",
-    "original": "nupuŋ"
+    "original": "nupuŋ",
+    "audio": {
+      "slug": "nupunx",
+      "ipay": "dictionary/audio/ipay/nupunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nupunx.mp3"
+    }
   },
   {
     "id": "1688",
@@ -1376,7 +1801,12 @@
       "gamble (to)"
     ],
     "source": "M",
-    "original": "nurvi (M)"
+    "original": "nurvi (M)",
+    "audio": {
+      "slug": "nurvi",
+      "ipay": "dictionary/audio/ipay/nurvi.mp3",
+      "hokkien": "dictionary/audio/hokkien/nurvi.mp3"
+    }
   },
   {
     "id": "0581",
@@ -1392,7 +1822,12 @@
       "dried cuttlefish"
     ],
     "source": "B",
-    "original": "nusunuse"
+    "original": "nusunuse",
+    "audio": {
+      "slug": "nusunuse",
+      "ipay": "dictionary/audio/ipay/nusunuse.mp3",
+      "hokkien": "dictionary/audio/hokkien/nusunuse.mp3"
+    }
   },
   {
     "id": "0582",
@@ -1409,7 +1844,12 @@
       "octopus. squid"
     ],
     "source": "B",
-    "original": "nutse"
+    "original": "nutse",
+    "audio": {
+      "slug": "nutse",
+      "ipay": "dictionary/audio/ipay/nutse.mp3",
+      "hokkien": "dictionary/audio/hokkien/nutse.mp3"
+    }
   },
   {
     "id": "1689",
@@ -1422,7 +1862,12 @@
       "Indian corn"
     ],
     "source": "M",
-    "original": "nuvasai (M)"
+    "original": "nuvasai (M)",
+    "audio": {
+      "slug": "nuvasai",
+      "ipay": "dictionary/audio/ipay/nuvasai.mp3",
+      "hokkien": "dictionary/audio/hokkien/nuvasai.mp3"
+    }
   },
   {
     "id": "1690",
@@ -1435,6 +1880,11 @@
       "rice cookies"
     ],
     "source": "S",
-    "original": "nuzuŋ (S)"
+    "original": "nuzuŋ (S)",
+    "audio": {
+      "slug": "nuzunx",
+      "ipay": "dictionary/audio/ipay/nuzunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/nuzunx.mp3"
+    }
   }
 ]

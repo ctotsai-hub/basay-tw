@@ -10,7 +10,12 @@
       "ligature"
     ],
     "source": "T",
-    "original": "ya"
+    "original": "ya",
+    "audio": {
+      "slug": "ya",
+      "ipay": "dictionary/audio/ipay/ya.mp3",
+      "hokkien": "dictionary/audio/hokkien/ya.mp3"
+    }
   },
   {
     "id": "2329",
@@ -23,7 +28,12 @@
       "small"
     ],
     "source": "T",
-    "original": "yakilu"
+    "original": "yakilu",
+    "audio": {
+      "slug": "yakilu",
+      "ipay": "dictionary/audio/ipay/yakilu.mp3",
+      "hokkien": "dictionary/audio/hokkien/yakilu.mp3"
+    }
   },
   {
     "id": "2330",
@@ -36,7 +46,12 @@
       "I (Nom)"
     ],
     "source": "T",
-    "original": "yaku"
+    "original": "yaku",
+    "audio": {
+      "slug": "yaku",
+      "ipay": "dictionary/audio/ipay/yaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/yaku.mp3"
+    }
   },
   {
     "id": "2331",
@@ -49,7 +64,12 @@
       "get in"
     ],
     "source": "T",
-    "original": "yaɭavu"
+    "original": "yaɭavu",
+    "audio": {
+      "slug": "yalxavu",
+      "ipay": "dictionary/audio/ipay/yalxavu.mp3",
+      "hokkien": "dictionary/audio/hokkien/yalxavu.mp3"
+    }
   },
   {
     "id": "2332",
@@ -62,7 +82,12 @@
       "hello"
     ],
     "source": "T",
-    "original": "yao"
+    "original": "yao",
+    "audio": {
+      "slug": "yao",
+      "ipay": "dictionary/audio/ipay/yao.mp3",
+      "hokkien": "dictionary/audio/hokkien/yao.mp3"
+    }
   },
   {
     "id": "2333",
@@ -75,7 +100,12 @@
       "enter a house"
     ],
     "source": "T",
-    "original": "yapana"
+    "original": "yapana",
+    "audio": {
+      "slug": "yapana",
+      "ipay": "dictionary/audio/ipay/yapana.mp3",
+      "hokkien": "dictionary/audio/hokkien/yapana.mp3"
+    }
   },
   {
     "id": "2334",
@@ -88,7 +118,12 @@
       "indeed, what on earth"
     ],
     "source": "T",
-    "original": "yataw"
+    "original": "yataw",
+    "audio": {
+      "slug": "yataw",
+      "ipay": "dictionary/audio/ipay/yataw.mp3",
+      "hokkien": "dictionary/audio/hokkien/yataw.mp3"
+    }
   },
   {
     "id": "2335",
@@ -101,7 +136,12 @@
       "come down"
     ],
     "source": "T",
-    "original": "yatəman"
+    "original": "yatəman",
+    "audio": {
+      "slug": "yatoxman",
+      "ipay": "dictionary/audio/ipay/yatoxman.mp3",
+      "hokkien": "dictionary/audio/hokkien/yatoxman.mp3"
+    }
   },
   {
     "id": "2336",
@@ -114,7 +154,12 @@
       "put"
     ],
     "source": "T",
-    "original": "yatəmnan"
+    "original": "yatəmnan",
+    "audio": {
+      "slug": "yatoxmnan",
+      "ipay": "dictionary/audio/ipay/yatoxmnan.mp3",
+      "hokkien": "dictionary/audio/hokkien/yatoxmnan.mp3"
+    }
   },
   {
     "id": "2337",
@@ -127,7 +172,12 @@
       "stay"
     ],
     "source": "S",
-    "original": "yau (S)"
+    "original": "yau (S)",
+    "audio": {
+      "slug": "yau",
+      "ipay": "dictionary/audio/ipay/yau.mp3",
+      "hokkien": "dictionary/audio/hokkien/yau.mp3"
+    }
   },
   {
     "id": "1365",
@@ -140,7 +190,12 @@
       "sail, put out to sea"
     ],
     "source": "T",
-    "original": "ɭajaɭ vawa (M), yawale"
+    "original": "ɭajaɭ vawa (M), yawale",
+    "audio": {
+      "slug": "yawale",
+      "ipay": "dictionary/audio/ipay/yawale.mp3",
+      "hokkien": "dictionary/audio/hokkien/yawale.mp3"
+    }
   },
   {
     "id": "2338",
@@ -153,6 +208,11 @@
       "bring"
     ],
     "source": "T",
-    "original": "yazas"
+    "original": "yazas",
+    "audio": {
+      "slug": "yazas",
+      "ipay": "dictionary/audio/ipay/yazas.mp3",
+      "hokkien": "dictionary/audio/hokkien/yazas.mp3"
+    }
   }
 ]

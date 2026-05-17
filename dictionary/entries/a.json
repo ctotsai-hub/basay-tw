@@ -10,7 +10,12 @@
       "my (GEN)"
     ],
     "source": "T",
-    "original": "-aku"
+    "original": "-aku",
+    "audio": {
+      "slug": "aku",
+      "ipay": "dictionary/audio/ipay/aku.mp3",
+      "hokkien": "dictionary/audio/hokkien/aku.mp3"
+    }
   },
   {
     "id": "1150",
@@ -23,7 +28,12 @@
       "future"
     ],
     "source": "T",
-    "original": "-ay"
+    "original": "-ay",
+    "audio": {
+      "slug": "ay",
+      "ipay": "dictionary/audio/ipay/ay.mp3",
+      "hokkien": "dictionary/audio/hokkien/ay.mp3"
+    }
   },
   {
     "id": "1116",
@@ -36,7 +46,12 @@
       "ligature"
     ],
     "source": "T",
-    "original": "a"
+    "original": "a",
+    "audio": {
+      "slug": "a",
+      "ipay": "dictionary/audio/ipay/a.mp3",
+      "hokkien": "dictionary/audio/hokkien/a.mp3"
+    }
   },
   {
     "id": "0001",
@@ -53,7 +68,12 @@
       "mute. dumb"
     ],
     "source": "B",
-    "original": "abal'"
+    "original": "abal'",
+    "audio": {
+      "slug": "abalx",
+      "ipay": "dictionary/audio/ipay/abalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/abalx.mp3"
+    }
   },
   {
     "id": "0002",
@@ -69,7 +89,30 @@
       "stutter (to)"
     ],
     "source": "B",
-    "original": "abal'"
+    "original": "abal'",
+    "audio": {
+      "slug": "abalx",
+      "ipay": "dictionary/audio/ipay/abalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/abalx.mp3"
+    }
+  },
+  {
+    "id": "2363",
+    "basay": "aba₁",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father"
+    ],
+    "source": "PAN",
+    "original": "aba₁",
+    "audio": {
+      "slug": "aba",
+      "ipay": "dictionary/audio/ipay/aba.mp3",
+      "hokkien": "dictionary/audio/hokkien/aba.mp3"
+    }
   },
   {
     "id": "0003",
@@ -85,7 +128,12 @@
       "ash"
     ],
     "source": "B",
-    "original": "abu"
+    "original": "abu",
+    "audio": {
+      "slug": "abu",
+      "ipay": "dictionary/audio/ipay/abu.mp3",
+      "hokkien": "dictionary/audio/hokkien/abu.mp3"
+    }
   },
   {
     "id": "1117",
@@ -98,7 +146,12 @@
       "sad"
     ],
     "source": "T",
-    "original": "aikaku"
+    "original": "aikaku",
+    "audio": {
+      "slug": "aikaku",
+      "ipay": "dictionary/audio/ipay/aikaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/aikaku.mp3"
+    }
   },
   {
     "id": "0004",
@@ -114,7 +167,12 @@
       "here"
     ],
     "source": "B",
-    "original": "aila"
+    "original": "aila",
+    "audio": {
+      "slug": "aila",
+      "ipay": "dictionary/audio/ipay/aila.mp3",
+      "hokkien": "dictionary/audio/hokkien/aila.mp3"
+    }
   },
   {
     "id": "0005",
@@ -130,7 +188,12 @@
       "where to"
     ],
     "source": "B",
-    "original": "ainu"
+    "original": "ainu",
+    "audio": {
+      "slug": "ainu",
+      "ipay": "dictionary/audio/ipay/ainu.mp3",
+      "hokkien": "dictionary/audio/hokkien/ainu.mp3"
+    }
   },
   {
     "id": "1119",
@@ -143,7 +206,12 @@
       "Don't !"
     ],
     "source": "T",
-    "original": "akuan!"
+    "original": "akuan!",
+    "audio": {
+      "slug": "akuan",
+      "ipay": "dictionary/audio/ipay/akuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/akuan.mp3"
+    }
   },
   {
     "id": "1120",
@@ -156,7 +224,12 @@
       "see"
     ],
     "source": "T",
-    "original": "al"
+    "original": "al",
+    "audio": {
+      "slug": "al",
+      "ipay": "dictionary/audio/ipay/al.mp3",
+      "hokkien": "dictionary/audio/hokkien/al.mp3"
+    }
   },
   {
     "id": "1123",
@@ -169,7 +242,12 @@
       "move"
     ],
     "source": "S",
-    "original": "alaiqani (S)"
+    "original": "alaiqani (S)",
+    "audio": {
+      "slug": "alaiqani",
+      "ipay": "dictionary/audio/ipay/alaiqani.mp3",
+      "hokkien": "dictionary/audio/hokkien/alaiqani.mp3"
+    }
   },
   {
     "id": "1121",
@@ -195,7 +273,12 @@
       "drift"
     ],
     "source": "T",
-    "original": "alasa"
+    "original": "alasa",
+    "audio": {
+      "slug": "alasa",
+      "ipay": "dictionary/audio/ipay/alasa.mp3",
+      "hokkien": "dictionary/audio/hokkien/alasa.mp3"
+    }
   },
   {
     "id": "0006",
@@ -211,7 +294,12 @@
       "luncheon"
     ],
     "source": "B",
-    "original": "alase sumai"
+    "original": "alase sumai",
+    "audio": {
+      "slug": "alase_sumai",
+      "ipay": "dictionary/audio/ipay/alase_sumai.mp3",
+      "hokkien": "dictionary/audio/hokkien/alase_sumai.mp3"
+    }
   },
   {
     "id": "0007",
@@ -245,7 +333,12 @@
       "north. west"
     ],
     "source": "B",
-    "original": "amis"
+    "original": "amis",
+    "audio": {
+      "slug": "amis",
+      "ipay": "dictionary/audio/ipay/amis.mp3",
+      "hokkien": "dictionary/audio/hokkien/amis.mp3"
+    }
   },
   {
     "id": "1124",
@@ -258,7 +351,12 @@
       "wake up"
     ],
     "source": "S",
-    "original": "amənən (S)"
+    "original": "amənən (S)",
+    "audio": {
+      "slug": "amoxnoxn",
+      "ipay": "dictionary/audio/ipay/amoxnoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/amoxnoxn.mp3"
+    }
   },
   {
     "id": "1131",
@@ -271,7 +369,12 @@
       "wealthy, rich"
     ],
     "source": "T",
-    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
+    "audio": {
+      "slug": "anxalxi",
+      "ipay": "dictionary/audio/ipay/anxalxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/anxalxi.mp3"
+    }
   },
   {
     "id": "1132",
@@ -284,7 +387,12 @@
       "wealthy, rich"
     ],
     "source": "S",
-    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
+    "audio": {
+      "slug": "anxale",
+      "ipay": "dictionary/audio/ipay/anxale.mp3",
+      "hokkien": "dictionary/audio/hokkien/anxale.mp3"
+    }
   },
   {
     "id": "1133",
@@ -297,7 +405,12 @@
       "wealthy, rich"
     ],
     "source": "T",
-    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza"
+    "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
+    "audio": {
+      "slug": "anxari",
+      "ipay": "dictionary/audio/ipay/anxari.mp3",
+      "hokkien": "dictionary/audio/hokkien/anxari.mp3"
+    }
   },
   {
     "id": "1125",
@@ -310,7 +423,12 @@
       "make feather"
     ],
     "source": "T",
-    "original": "anaiɭan"
+    "original": "anaiɭan",
+    "audio": {
+      "slug": "anailxan",
+      "ipay": "dictionary/audio/ipay/anailxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/anailxan.mp3"
+    }
   },
   {
     "id": "1126",
@@ -323,7 +441,12 @@
       "malaria"
     ],
     "source": "M",
-    "original": "aneŋan (M)"
+    "original": "aneŋan (M)",
+    "audio": {
+      "slug": "anenxan",
+      "ipay": "dictionary/audio/ipay/anenxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/anenxan.mp3"
+    }
   },
   {
     "id": "1129",
@@ -336,7 +459,12 @@
       "then"
     ],
     "source": "S",
-    "original": "ani (S), anu"
+    "original": "ani (S), anu",
+    "audio": {
+      "slug": "ani",
+      "ipay": "dictionary/audio/ipay/ani.mp3",
+      "hokkien": "dictionary/audio/hokkien/ani.mp3"
+    }
   },
   {
     "id": "0009",
@@ -352,7 +480,12 @@
       "heart"
     ],
     "source": "B",
-    "original": "anəm"
+    "original": "anəm",
+    "audio": {
+      "slug": "anoxm",
+      "ipay": "dictionary/audio/ipay/anoxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm.mp3"
+    }
   },
   {
     "id": "0010",
@@ -368,7 +501,12 @@
       "six"
     ],
     "source": "B",
-    "original": "anəm"
+    "original": "anəm",
+    "audio": {
+      "slug": "anoxm",
+      "ipay": "dictionary/audio/ipay/anoxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm.mp3"
+    }
   },
   {
     "id": "0011",
@@ -384,7 +522,12 @@
       "liver"
     ],
     "source": "B",
-    "original": "anəm"
+    "original": "anəm",
+    "audio": {
+      "slug": "anoxm",
+      "ipay": "dictionary/audio/ipay/anoxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm.mp3"
+    }
   },
   {
     "id": "1127",
@@ -397,7 +540,12 @@
       "heart"
     ],
     "source": "M",
-    "original": "anəm (M)"
+    "original": "anəm (M)",
+    "audio": {
+      "slug": "anoxm",
+      "ipay": "dictionary/audio/ipay/anoxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm.mp3"
+    }
   },
   {
     "id": "0012",
@@ -413,7 +561,12 @@
       "rib"
     ],
     "source": "B",
-    "original": "anəm a tolal'"
+    "original": "anəm a tolal'",
+    "audio": {
+      "slug": "anoxm_a_tolalx",
+      "ipay": "dictionary/audio/ipay/anoxm_a_tolalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm_a_tolalx.mp3"
+    }
   },
   {
     "id": "0013",
@@ -429,7 +582,12 @@
       "worry"
     ],
     "source": "B",
-    "original": "anəm lebosan"
+    "original": "anəm lebosan",
+    "audio": {
+      "slug": "anoxm_lebosan",
+      "ipay": "dictionary/audio/ipay/anoxm_lebosan.mp3",
+      "hokkien": "dictionary/audio/hokkien/anoxm_lebosan.mp3"
+    }
   },
   {
     "id": "1130",
@@ -442,7 +600,12 @@
       "then"
     ],
     "source": "T",
-    "original": "ani (S), anu"
+    "original": "ani (S), anu",
+    "audio": {
+      "slug": "anu",
+      "ipay": "dictionary/audio/ipay/anu.mp3",
+      "hokkien": "dictionary/audio/hokkien/anu.mp3"
+    }
   },
   {
     "id": "1135",
@@ -455,7 +618,12 @@
       "make wings"
     ],
     "source": "T",
-    "original": "apakuzan"
+    "original": "apakuzan",
+    "audio": {
+      "slug": "apakuzan",
+      "ipay": "dictionary/audio/ipay/apakuzan.mp3",
+      "hokkien": "dictionary/audio/hokkien/apakuzan.mp3"
+    }
   },
   {
     "id": "1136",
@@ -468,7 +636,12 @@
       "help"
     ],
     "source": "T",
-    "original": "apanmu"
+    "original": "apanmu",
+    "audio": {
+      "slug": "apanmu",
+      "ipay": "dictionary/audio/ipay/apanmu.mp3",
+      "hokkien": "dictionary/audio/hokkien/apanmu.mp3"
+    }
   },
   {
     "id": "0014",
@@ -484,7 +657,12 @@
       "chopstick"
     ],
     "source": "B",
-    "original": "apel'"
+    "original": "apel'",
+    "audio": {
+      "slug": "apelx",
+      "ipay": "dictionary/audio/ipay/apelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/apelx.mp3"
+    }
   },
   {
     "id": "1137",
@@ -497,7 +675,12 @@
       "chopsticks"
     ],
     "source": "M",
-    "original": "apet (M)"
+    "original": "apet (M)",
+    "audio": {
+      "slug": "apet",
+      "ipay": "dictionary/audio/ipay/apet.mp3",
+      "hokkien": "dictionary/audio/hokkien/apet.mp3"
+    }
   },
   {
     "id": "1128",
@@ -523,7 +706,12 @@
       "don't"
     ],
     "source": "T",
-    "original": "asi"
+    "original": "asi",
+    "audio": {
+      "slug": "asi",
+      "ipay": "dictionary/audio/ipay/asi.mp3",
+      "hokkien": "dictionary/audio/hokkien/asi.mp3"
+    }
   },
   {
     "id": "1139",
@@ -536,7 +724,12 @@
       "make rice balls"
     ],
     "source": "T",
-    "original": "asmayan"
+    "original": "asmayan",
+    "audio": {
+      "slug": "asmayan",
+      "ipay": "dictionary/audio/ipay/asmayan.mp3",
+      "hokkien": "dictionary/audio/hokkien/asmayan.mp3"
+    }
   },
   {
     "id": "0015",
@@ -552,7 +745,12 @@
       "fish (to) with rod"
     ],
     "source": "B",
-    "original": "atsa baute"
+    "original": "atsa baute",
+    "audio": {
+      "slug": "atsa_baute",
+      "ipay": "dictionary/audio/ipay/atsa_baute.mp3",
+      "hokkien": "dictionary/audio/hokkien/atsa_baute.mp3"
+    }
   },
   {
     "id": "0016",
@@ -568,7 +766,12 @@
       "fetch (to)"
     ],
     "source": "B",
-    "original": "atsap"
+    "original": "atsap",
+    "audio": {
+      "slug": "atsap",
+      "ipay": "dictionary/audio/ipay/atsap.mp3",
+      "hokkien": "dictionary/audio/hokkien/atsap.mp3"
+    }
   },
   {
     "id": "0017",
@@ -584,7 +787,12 @@
       "this"
     ],
     "source": "B",
-    "original": "atsou"
+    "original": "atsou",
+    "audio": {
+      "slug": "atsou",
+      "ipay": "dictionary/audio/ipay/atsou.mp3",
+      "hokkien": "dictionary/audio/hokkien/atsou.mp3"
+    }
   },
   {
     "id": "1140",
@@ -597,7 +805,12 @@
       "sacrifice(pig)"
     ],
     "source": "M",
-    "original": "atuvanan (M)"
+    "original": "atuvanan (M)",
+    "audio": {
+      "slug": "atuvanan",
+      "ipay": "dictionary/audio/ipay/atuvanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/atuvanan.mp3"
+    }
   },
   {
     "id": "1141",
@@ -610,7 +823,12 @@
       "come"
     ],
     "source": "S",
-    "original": "au (S)"
+    "original": "au (S)",
+    "audio": {
+      "slug": "au",
+      "ipay": "dictionary/audio/ipay/au.mp3",
+      "hokkien": "dictionary/audio/hokkien/au.mp3"
+    }
   },
   {
     "id": "0018",
@@ -626,7 +844,12 @@
       "go (to)"
     ],
     "source": "B",
-    "original": "aui"
+    "original": "aui",
+    "audio": {
+      "slug": "aui",
+      "ipay": "dictionary/audio/ipay/aui.mp3",
+      "hokkien": "dictionary/audio/hokkien/aui.mp3"
+    }
   },
   {
     "id": "0019",
@@ -642,7 +865,12 @@
       "go"
     ],
     "source": "B",
-    "original": "aui na"
+    "original": "aui na",
+    "audio": {
+      "slug": "aui_na",
+      "ipay": "dictionary/audio/ipay/aui_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/aui_na.mp3"
+    }
   },
   {
     "id": "1142",
@@ -655,7 +883,12 @@
       "go"
     ],
     "source": "M",
-    "original": "auit na (M)"
+    "original": "auit na (M)",
+    "audio": {
+      "slug": "auit_na",
+      "ipay": "dictionary/audio/ipay/auit_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/auit_na.mp3"
+    }
   },
   {
     "id": "1143",
@@ -668,7 +901,12 @@
       "hurry"
     ],
     "source": "T",
-    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
+    "audio": {
+      "slug": "aukalxina",
+      "ipay": "dictionary/audio/ipay/aukalxina.mp3",
+      "hokkien": "dictionary/audio/hokkien/aukalxina.mp3"
+    }
   },
   {
     "id": "1144",
@@ -681,7 +919,12 @@
       "hurry"
     ],
     "source": "T",
-    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
+    "audio": {
+      "slug": "aukalxinalxina",
+      "ipay": "dictionary/audio/ipay/aukalxinalxina.mp3",
+      "hokkien": "dictionary/audio/hokkien/aukalxinalxina.mp3"
+    }
   },
   {
     "id": "1145",
@@ -694,7 +937,12 @@
       "hurry"
     ],
     "source": "S",
-    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)"
+    "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
+    "audio": {
+      "slug": "aukanina",
+      "ipay": "dictionary/audio/ipay/aukanina.mp3",
+      "hokkien": "dictionary/audio/hokkien/aukanina.mp3"
+    }
   },
   {
     "id": "0020",
@@ -710,7 +958,12 @@
       "why"
     ],
     "source": "B",
-    "original": "aukmua"
+    "original": "aukmua",
+    "audio": {
+      "slug": "aukmua",
+      "ipay": "dictionary/audio/ipay/aukmua.mp3",
+      "hokkien": "dictionary/audio/hokkien/aukmua.mp3"
+    }
   },
   {
     "id": "1146",
@@ -723,7 +976,12 @@
       "depart, leave"
     ],
     "source": "T",
-    "original": "auni"
+    "original": "auni",
+    "audio": {
+      "slug": "auni",
+      "ipay": "dictionary/audio/ipay/auni.mp3",
+      "hokkien": "dictionary/audio/hokkien/auni.mp3"
+    }
   },
   {
     "id": "1147",
@@ -736,7 +994,12 @@
       "pound rice"
     ],
     "source": "T",
-    "original": "avlas"
+    "original": "avlas",
+    "audio": {
+      "slug": "avlas",
+      "ipay": "dictionary/audio/ipay/avlas.mp3",
+      "hokkien": "dictionary/audio/hokkien/avlas.mp3"
+    }
   },
   {
     "id": "1148",
@@ -749,7 +1012,12 @@
       "ash"
     ],
     "source": "M",
-    "original": "avu (M)"
+    "original": "avu (M)",
+    "audio": {
+      "slug": "avu",
+      "ipay": "dictionary/audio/ipay/avu.mp3",
+      "hokkien": "dictionary/audio/hokkien/avu.mp3"
+    }
   },
   {
     "id": "1149",
@@ -762,7 +1030,12 @@
       "go"
     ],
     "source": "T",
-    "original": "awi"
+    "original": "awi",
+    "audio": {
+      "slug": "awi",
+      "ipay": "dictionary/audio/ipay/awi.mp3",
+      "hokkien": "dictionary/audio/hokkien/awi.mp3"
+    }
   },
   {
     "id": "1151",
@@ -775,7 +1048,12 @@
       "cultivate"
     ],
     "source": "T",
-    "original": "ayam"
+    "original": "ayam",
+    "audio": {
+      "slug": "ayam",
+      "ipay": "dictionary/audio/ipay/ayam.mp3",
+      "hokkien": "dictionary/audio/hokkien/ayam.mp3"
+    }
   },
   {
     "id": "1152",

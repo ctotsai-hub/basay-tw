@@ -13,7 +13,12 @@
       "scornful laugh"
     ],
     "source": "B",
-    "original": "t-um-ataŋa"
+    "original": "t-um-ataŋa",
+    "audio": {
+      "slug": "t_um_atanxa",
+      "ipay": "dictionary/audio/ipay/t_um_atanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t_um_atanxa.mp3"
+    }
   },
   {
     "id": "0924",
@@ -29,7 +34,12 @@
       "tobacco"
     ],
     "source": "B",
-    "original": "tabaku"
+    "original": "tabaku",
+    "audio": {
+      "slug": "tabaku",
+      "ipay": "dictionary/audio/ipay/tabaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/tabaku.mp3"
+    }
   },
   {
     "id": "0926",
@@ -45,7 +55,12 @@
       "cut trees"
     ],
     "source": "B",
-    "original": "tabu"
+    "original": "tabu",
+    "audio": {
+      "slug": "tabu",
+      "ipay": "dictionary/audio/ipay/tabu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tabu.mp3"
+    }
   },
   {
     "id": "0925",
@@ -62,7 +77,12 @@
       "dump. cast away"
     ],
     "source": "B",
-    "original": "tabǝl'"
+    "original": "tabǝl'",
+    "audio": {
+      "slug": "tab_lx",
+      "ipay": "dictionary/audio/ipay/tab_lx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tab_lx.mp3"
+    }
   },
   {
     "id": "0927",
@@ -91,7 +111,12 @@
       "cottage, hut"
     ],
     "source": "T",
-    "original": "matael (M), tael"
+    "original": "matael (M), tael",
+    "audio": {
+      "slug": "tael",
+      "ipay": "dictionary/audio/ipay/tael.mp3",
+      "hokkien": "dictionary/audio/hokkien/tael.mp3"
+    }
   },
   {
     "id": "0928",
@@ -107,7 +132,12 @@
       "mud"
     ],
     "source": "B",
-    "original": "taitai (?)"
+    "original": "taitai (?)",
+    "audio": {
+      "slug": "taitai",
+      "ipay": "dictionary/audio/ipay/taitai.mp3",
+      "hokkien": "dictionary/audio/hokkien/taitai.mp3"
+    }
   },
   {
     "id": "2024",
@@ -120,7 +150,12 @@
       "I will"
     ],
     "source": "T",
-    "original": "tak pay"
+    "original": "tak pay",
+    "audio": {
+      "slug": "tak_pay",
+      "ipay": "dictionary/audio/ipay/tak_pay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tak_pay.mp3"
+    }
   },
   {
     "id": "0929",
@@ -136,7 +171,12 @@
       "bench"
     ],
     "source": "B",
-    "original": "takan"
+    "original": "takan",
+    "audio": {
+      "slug": "takan",
+      "ipay": "dictionary/audio/ipay/takan.mp3",
+      "hokkien": "dictionary/audio/hokkien/takan.mp3"
+    }
   },
   {
     "id": "0930",
@@ -154,7 +194,12 @@
       "cut. chop. chaff"
     ],
     "source": "B",
-    "original": "taktak"
+    "original": "taktak",
+    "audio": {
+      "slug": "taktak",
+      "ipay": "dictionary/audio/ipay/taktak.mp3",
+      "hokkien": "dictionary/audio/hokkien/taktak.mp3"
+    }
   },
   {
     "id": "2025",
@@ -167,7 +212,12 @@
       "chaff"
     ],
     "source": "M",
-    "original": "taktak (M)"
+    "original": "taktak (M)",
+    "audio": {
+      "slug": "taktak",
+      "ipay": "dictionary/audio/ipay/taktak.mp3",
+      "hokkien": "dictionary/audio/hokkien/taktak.mp3"
+    }
   },
   {
     "id": "0932",
@@ -184,7 +234,12 @@
       "cover (to). put the lid on"
     ],
     "source": "B",
-    "original": "takup > tsumakup"
+    "original": "takup > tsumakup",
+    "audio": {
+      "slug": "takup_tsumakup",
+      "ipay": "dictionary/audio/ipay/takup_tsumakup.mp3",
+      "hokkien": "dictionary/audio/hokkien/takup_tsumakup.mp3"
+    }
   },
   {
     "id": "0931",
@@ -201,7 +256,12 @@
       "cover (to). put the lid on"
     ],
     "source": "B",
-    "original": "takup> panukup"
+    "original": "takup> panukup",
+    "audio": {
+      "slug": "takup_panukup",
+      "ipay": "dictionary/audio/ipay/takup_panukup.mp3",
+      "hokkien": "dictionary/audio/hokkien/takup_panukup.mp3"
+    }
   },
   {
     "id": "2031",
@@ -214,7 +274,12 @@
       "receive"
     ],
     "source": "M",
-    "original": "taɭaan (M)"
+    "original": "taɭaan (M)",
+    "audio": {
+      "slug": "talxaan",
+      "ipay": "dictionary/audio/ipay/talxaan.mp3",
+      "hokkien": "dictionary/audio/hokkien/talxaan.mp3"
+    }
   },
   {
     "id": "2032",
@@ -227,7 +292,12 @@
       "fish basket"
     ],
     "source": "M",
-    "original": "taɭese (M)"
+    "original": "taɭese (M)",
+    "audio": {
+      "slug": "talxese",
+      "ipay": "dictionary/audio/ipay/talxese.mp3",
+      "hokkien": "dictionary/audio/hokkien/talxese.mp3"
+    }
   },
   {
     "id": "0933",
@@ -243,7 +313,12 @@
       "quean"
     ],
     "source": "B",
-    "original": "talahitakke"
+    "original": "talahitakke",
+    "audio": {
+      "slug": "talahitakke",
+      "ipay": "dictionary/audio/ipay/talahitakke.mp3",
+      "hokkien": "dictionary/audio/hokkien/talahitakke.mp3"
+    }
   },
   {
     "id": "0934",
@@ -259,7 +334,12 @@
       "doctor"
     ],
     "source": "B",
-    "original": "talainatte"
+    "original": "talainatte",
+    "audio": {
+      "slug": "talainatte",
+      "ipay": "dictionary/audio/ipay/talainatte.mp3",
+      "hokkien": "dictionary/audio/hokkien/talainatte.mp3"
+    }
   },
   {
     "id": "2026",
@@ -272,7 +352,12 @@
       "doctor"
     ],
     "source": "M",
-    "original": "talainatte (M)"
+    "original": "talainatte (M)",
+    "audio": {
+      "slug": "talainatte",
+      "ipay": "dictionary/audio/ipay/talainatte.mp3",
+      "hokkien": "dictionary/audio/hokkien/talainatte.mp3"
+    }
   },
   {
     "id": "0935",
@@ -290,7 +375,12 @@
       "cut. chop. chaff"
     ],
     "source": "B",
-    "original": "talaktak"
+    "original": "talaktak",
+    "audio": {
+      "slug": "talaktak",
+      "ipay": "dictionary/audio/ipay/talaktak.mp3",
+      "hokkien": "dictionary/audio/hokkien/talaktak.mp3"
+    }
   },
   {
     "id": "2027",
@@ -303,7 +393,12 @@
       "taro, potato"
     ],
     "source": "M",
-    "original": "tale (M)"
+    "original": "tale (M)",
+    "audio": {
+      "slug": "tale",
+      "ipay": "dictionary/audio/ipay/tale.mp3",
+      "hokkien": "dictionary/audio/hokkien/tale.mp3"
+    }
   },
   {
     "id": "2029",
@@ -316,7 +411,12 @@
       "center"
     ],
     "source": "M",
-    "original": "talinunuan (M)"
+    "original": "talinunuan (M)",
+    "audio": {
+      "slug": "talinunuan",
+      "ipay": "dictionary/audio/ipay/talinunuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/talinunuan.mp3"
+    }
   },
   {
     "id": "0939",
@@ -332,7 +432,12 @@
       "wet (to get wet because of rain)"
     ],
     "source": "B",
-    "original": "talisusu"
+    "original": "talisusu",
+    "audio": {
+      "slug": "talisusu",
+      "ipay": "dictionary/audio/ipay/talisusu.mp3",
+      "hokkien": "dictionary/audio/hokkien/talisusu.mp3"
+    }
   },
   {
     "id": "0940",
@@ -348,7 +453,12 @@
       "tears"
     ],
     "source": "B",
-    "original": "talisusu"
+    "original": "talisusu",
+    "audio": {
+      "slug": "talisusu",
+      "ipay": "dictionary/audio/ipay/talisusu.mp3",
+      "hokkien": "dictionary/audio/hokkien/talisusu.mp3"
+    }
   },
   {
     "id": "0941",
@@ -364,7 +474,12 @@
       "pour (to)"
     ],
     "source": "B",
-    "original": "talisusu"
+    "original": "talisusu",
+    "audio": {
+      "slug": "talisusu",
+      "ipay": "dictionary/audio/ipay/talisusu.mp3",
+      "hokkien": "dictionary/audio/hokkien/talisusu.mp3"
+    }
   },
   {
     "id": "0942",
@@ -380,7 +495,12 @@
       "hide"
     ],
     "source": "B",
-    "original": "talo"
+    "original": "talo",
+    "audio": {
+      "slug": "talo",
+      "ipay": "dictionary/audio/ipay/talo.mp3",
+      "hokkien": "dictionary/audio/hokkien/talo.mp3"
+    }
   },
   {
     "id": "2030",
@@ -393,7 +513,12 @@
       "hide"
     ],
     "source": "M",
-    "original": "talo(M)"
+    "original": "talo(M)",
+    "audio": {
+      "slug": "talo",
+      "ipay": "dictionary/audio/ipay/talo.mp3",
+      "hokkien": "dictionary/audio/hokkien/talo.mp3"
+    }
   },
   {
     "id": "0936",
@@ -409,7 +534,12 @@
       "salty"
     ],
     "source": "B",
-    "original": "taləm"
+    "original": "taləm",
+    "audio": {
+      "slug": "taloxm",
+      "ipay": "dictionary/audio/ipay/taloxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/taloxm.mp3"
+    }
   },
   {
     "id": "0937",
@@ -425,7 +555,12 @@
       "salt water"
     ],
     "source": "B",
-    "original": "taləm"
+    "original": "taləm",
+    "audio": {
+      "slug": "taloxm",
+      "ipay": "dictionary/audio/ipay/taloxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/taloxm.mp3"
+    }
   },
   {
     "id": "2028",
@@ -438,7 +573,12 @@
       "salty, salt water"
     ],
     "source": "M",
-    "original": "taləm (M)"
+    "original": "taləm (M)",
+    "audio": {
+      "slug": "taloxm",
+      "ipay": "dictionary/audio/ipay/taloxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/taloxm.mp3"
+    }
   },
   {
     "id": "0938",
@@ -454,7 +594,12 @@
       "salted fish"
     ],
     "source": "B",
-    "original": "taləm a baute"
+    "original": "taləm a baute",
+    "audio": {
+      "slug": "taloxm_a_baute",
+      "ipay": "dictionary/audio/ipay/taloxm_a_baute.mp3",
+      "hokkien": "dictionary/audio/hokkien/taloxm_a_baute.mp3"
+    }
   },
   {
     "id": "0943",
@@ -471,7 +616,12 @@
       "swing, trapeze"
     ],
     "source": "B",
-    "original": "talukitin"
+    "original": "talukitin",
+    "audio": {
+      "slug": "talukitin",
+      "ipay": "dictionary/audio/ipay/talukitin.mp3",
+      "hokkien": "dictionary/audio/hokkien/talukitin.mp3"
+    }
   },
   {
     "id": "2037",
@@ -484,7 +634,12 @@
       "we will"
     ],
     "source": "T",
-    "original": "tam pay"
+    "original": "tam pay",
+    "audio": {
+      "slug": "tam_pay",
+      "ipay": "dictionary/audio/ipay/tam_pay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tam_pay.mp3"
+    }
   },
   {
     "id": "0944",
@@ -500,7 +655,12 @@
       "father"
     ],
     "source": "B",
-    "original": "tama"
+    "original": "tama",
+    "audio": {
+      "slug": "tama",
+      "ipay": "dictionary/audio/ipay/tama.mp3",
+      "hokkien": "dictionary/audio/hokkien/tama.mp3"
+    }
   },
   {
     "id": "2034",
@@ -513,7 +673,12 @@
       "father (reference),uncle"
     ],
     "source": "T",
-    "original": "tama"
+    "original": "tama",
+    "audio": {
+      "slug": "tama",
+      "ipay": "dictionary/audio/ipay/tama.mp3",
+      "hokkien": "dictionary/audio/hokkien/tama.mp3"
+    }
   },
   {
     "id": "0945",
@@ -529,7 +694,12 @@
       "uncle"
     ],
     "source": "B",
-    "original": "tama suani"
+    "original": "tama suani",
+    "audio": {
+      "slug": "tama_suani",
+      "ipay": "dictionary/audio/ipay/tama_suani.mp3",
+      "hokkien": "dictionary/audio/hokkien/tama_suani.mp3"
+    }
   },
   {
     "id": "2035",
@@ -542,7 +712,12 @@
       "recover completely"
     ],
     "source": "T",
-    "original": "tamaan"
+    "original": "tamaan",
+    "audio": {
+      "slug": "tamaan",
+      "ipay": "dictionary/audio/ipay/tamaan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamaan.mp3"
+    }
   },
   {
     "id": "2036",
@@ -555,7 +730,12 @@
       "take a gun"
     ],
     "source": "T",
-    "original": "tamipapitsaan"
+    "original": "tamipapitsaan",
+    "audio": {
+      "slug": "tamipapitsaan",
+      "ipay": "dictionary/audio/ipay/tamipapitsaan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamipapitsaan.mp3"
+    }
   },
   {
     "id": "0946",
@@ -571,7 +751,12 @@
       "side-dish"
     ],
     "source": "B",
-    "original": "tamun"
+    "original": "tamun",
+    "audio": {
+      "slug": "tamun",
+      "ipay": "dictionary/audio/ipay/tamun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamun.mp3"
+    }
   },
   {
     "id": "2038",
@@ -584,7 +769,12 @@
       "side dish"
     ],
     "source": "T",
-    "original": "tamun"
+    "original": "tamun",
+    "audio": {
+      "slug": "tamun",
+      "ipay": "dictionary/audio/ipay/tamun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamun.mp3"
+    }
   },
   {
     "id": "0947",
@@ -600,7 +790,12 @@
       "coffin"
     ],
     "source": "B",
-    "original": "tamuŋau"
+    "original": "tamuŋau",
+    "audio": {
+      "slug": "tamunxau",
+      "ipay": "dictionary/audio/ipay/tamunxau.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamunxau.mp3"
+    }
   },
   {
     "id": "0948",
@@ -616,7 +811,12 @@
       "finger"
     ],
     "source": "B",
-    "original": "tamus"
+    "original": "tamus",
+    "audio": {
+      "slug": "tamus",
+      "ipay": "dictionary/audio/ipay/tamus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamus.mp3"
+    }
   },
   {
     "id": "2039",
@@ -629,7 +829,12 @@
       "fìnger"
     ],
     "source": "M",
-    "original": "tamus (M)"
+    "original": "tamus (M)",
+    "audio": {
+      "slug": "tamus",
+      "ipay": "dictionary/audio/ipay/tamus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tamus.mp3"
+    }
   },
   {
     "id": "0950",
@@ -645,7 +850,12 @@
       "open"
     ],
     "source": "B",
-    "original": "taŋa"
+    "original": "taŋa",
+    "audio": {
+      "slug": "tanxa",
+      "ipay": "dictionary/audio/ipay/tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxa.mp3"
+    }
   },
   {
     "id": "0951",
@@ -661,7 +871,12 @@
       "open"
     ],
     "source": "B",
-    "original": "taŋa"
+    "original": "taŋa",
+    "audio": {
+      "slug": "tanxa",
+      "ipay": "dictionary/audio/ipay/tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxa.mp3"
+    }
   },
   {
     "id": "0952",
@@ -677,7 +892,12 @@
       "lock (to) < open"
     ],
     "source": "B",
-    "original": "taŋa"
+    "original": "taŋa",
+    "audio": {
+      "slug": "tanxa",
+      "ipay": "dictionary/audio/ipay/tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxa.mp3"
+    }
   },
   {
     "id": "2041",
@@ -690,7 +910,12 @@
       "corpse"
     ],
     "source": "S",
-    "original": "taŋa (S)"
+    "original": "taŋa (S)",
+    "audio": {
+      "slug": "tanxa",
+      "ipay": "dictionary/audio/ipay/tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxa.mp3"
+    }
   },
   {
     "id": "2042",
@@ -703,7 +928,12 @@
       "dig up"
     ],
     "source": "T",
-    "original": "taŋa. tŋai"
+    "original": "taŋa. tŋai",
+    "audio": {
+      "slug": "tanxa_tnxai",
+      "ipay": "dictionary/audio/ipay/tanxa_tnxai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxa_tnxai.mp3"
+    }
   },
   {
     "id": "0953",
@@ -719,7 +949,12 @@
       "laugh"
     ],
     "source": "B",
-    "original": "taŋataŋa"
+    "original": "taŋataŋa",
+    "audio": {
+      "slug": "tanxatanxa",
+      "ipay": "dictionary/audio/ipay/tanxatanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxatanxa.mp3"
+    }
   },
   {
     "id": "2043",
@@ -732,7 +967,12 @@
       "laughing, joke (to)"
     ],
     "source": "T",
-    "original": "taŋtaŋa"
+    "original": "taŋtaŋa",
+    "audio": {
+      "slug": "tanxtanxa",
+      "ipay": "dictionary/audio/ipay/tanxtanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanxtanxa.mp3"
+    }
   },
   {
     "id": "0949",
@@ -748,7 +988,12 @@
       "departed"
     ],
     "source": "B",
-    "original": "tanaŋ-na"
+    "original": "tanaŋ-na",
+    "audio": {
+      "slug": "tananx_na",
+      "ipay": "dictionary/audio/ipay/tananx_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/tananx_na.mp3"
+    }
   },
   {
     "id": "2068",
@@ -761,7 +1006,12 @@
       "lizard, insects"
     ],
     "source": "M",
-    "original": "tanas (M)"
+    "original": "tanas (M)",
+    "audio": {
+      "slug": "tanas",
+      "ipay": "dictionary/audio/ipay/tanas.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanas.mp3"
+    }
   },
   {
     "id": "0954",
@@ -777,7 +1027,12 @@
       "no desire"
     ],
     "source": "B",
-    "original": "tanha"
+    "original": "tanha",
+    "audio": {
+      "slug": "tanha",
+      "ipay": "dictionary/audio/ipay/tanha.mp3",
+      "hokkien": "dictionary/audio/hokkien/tanha.mp3"
+    }
   },
   {
     "id": "2040",
@@ -806,7 +1061,12 @@
       "mend open seam"
     ],
     "source": "B",
-    "original": "tapjeŋ"
+    "original": "tapjeŋ",
+    "audio": {
+      "slug": "tapjenx",
+      "ipay": "dictionary/audio/ipay/tapjenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tapjenx.mp3"
+    }
   },
   {
     "id": "0955",
@@ -822,7 +1082,12 @@
       "sand"
     ],
     "source": "B",
-    "original": "tapəl'"
+    "original": "tapəl'",
+    "audio": {
+      "slug": "tapoxlx",
+      "ipay": "dictionary/audio/ipay/tapoxlx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tapoxlx.mp3"
+    }
   },
   {
     "id": "0956",
@@ -856,7 +1121,12 @@
       "spit (to)"
     ],
     "source": "B",
-    "original": "tapəs"
+    "original": "tapəs",
+    "audio": {
+      "slug": "tapoxs",
+      "ipay": "dictionary/audio/ipay/tapoxs.mp3",
+      "hokkien": "dictionary/audio/hokkien/tapoxs.mp3"
+    }
   },
   {
     "id": "2045",
@@ -869,7 +1139,12 @@
       "spit (to), spit"
     ],
     "source": "M",
-    "original": "tapəs (M)"
+    "original": "tapəs (M)",
+    "audio": {
+      "slug": "tapoxs",
+      "ipay": "dictionary/audio/ipay/tapoxs.mp3",
+      "hokkien": "dictionary/audio/hokkien/tapoxs.mp3"
+    }
   },
   {
     "id": "0958",
@@ -885,7 +1160,12 @@
       "portion out (to)"
     ],
     "source": "B",
-    "original": "tapəse"
+    "original": "tapəse",
+    "audio": {
+      "slug": "tapoxse",
+      "ipay": "dictionary/audio/ipay/tapoxse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tapoxse.mp3"
+    }
   },
   {
     "id": "0960",
@@ -914,7 +1194,12 @@
       "branch, therefore"
     ],
     "source": "T",
-    "original": "taqan"
+    "original": "taqan",
+    "audio": {
+      "slug": "taqan",
+      "ipay": "dictionary/audio/ipay/taqan.mp3",
+      "hokkien": "dictionary/audio/hokkien/taqan.mp3"
+    }
   },
   {
     "id": "2047",
@@ -927,7 +1212,12 @@
       "mouniain, top"
     ],
     "source": "T",
-    "original": "taqəl"
+    "original": "taqəl",
+    "audio": {
+      "slug": "taqoxl",
+      "ipay": "dictionary/audio/ipay/taqoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/taqoxl.mp3"
+    }
   },
   {
     "id": "2048",
@@ -940,7 +1230,12 @@
       "yarn"
     ],
     "source": "M",
-    "original": "taqəl (M)"
+    "original": "taqəl (M)",
+    "audio": {
+      "slug": "taqoxl",
+      "ipay": "dictionary/audio/ipay/taqoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/taqoxl.mp3"
+    }
   },
   {
     "id": "2049",
@@ -953,7 +1248,12 @@
       "chicken"
     ],
     "source": "S",
-    "original": "tarakok (S)"
+    "original": "tarakok (S)",
+    "audio": {
+      "slug": "tarakok",
+      "ipay": "dictionary/audio/ipay/tarakok.mp3",
+      "hokkien": "dictionary/audio/hokkien/tarakok.mp3"
+    }
   },
   {
     "id": "0961",
@@ -969,7 +1269,12 @@
       "answer"
     ],
     "source": "B",
-    "original": "taram"
+    "original": "taram",
+    "audio": {
+      "slug": "taram",
+      "ipay": "dictionary/audio/ipay/taram.mp3",
+      "hokkien": "dictionary/audio/hokkien/taram.mp3"
+    }
   },
   {
     "id": "0962",
@@ -985,7 +1290,12 @@
       "fish basket"
     ],
     "source": "B",
-    "original": "tarisi"
+    "original": "tarisi",
+    "audio": {
+      "slug": "tarisi",
+      "ipay": "dictionary/audio/ipay/tarisi.mp3",
+      "hokkien": "dictionary/audio/hokkien/tarisi.mp3"
+    }
   },
   {
     "id": "0963",
@@ -1002,7 +1312,12 @@
       "ornamental hairpin"
     ],
     "source": "B",
-    "original": "tarukitin"
+    "original": "tarukitin",
+    "audio": {
+      "slug": "tarukitin",
+      "ipay": "dictionary/audio/ipay/tarukitin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tarukitin.mp3"
+    }
   },
   {
     "id": "1751",
@@ -1015,7 +1330,12 @@
       "transplant rice"
     ],
     "source": "T",
-    "original": "patazuq (S), taruq, taruqa, tazuk"
+    "original": "patazuq (S), taruq, taruqa, tazuk",
+    "audio": {
+      "slug": "taruq",
+      "ipay": "dictionary/audio/ipay/taruq.mp3",
+      "hokkien": "dictionary/audio/hokkien/taruq.mp3"
+    }
   },
   {
     "id": "1752",
@@ -1028,7 +1348,12 @@
       "transplant rice"
     ],
     "source": "T",
-    "original": "patazuq (S), taruq, taruqa, tazuk"
+    "original": "patazuq (S), taruq, taruqa, tazuk",
+    "audio": {
+      "slug": "taruqa",
+      "ipay": "dictionary/audio/ipay/taruqa.mp3",
+      "hokkien": "dictionary/audio/hokkien/taruqa.mp3"
+    }
   },
   {
     "id": "0964",
@@ -1077,7 +1402,12 @@
       "salt"
     ],
     "source": "B",
-    "original": "tasse"
+    "original": "tasse",
+    "audio": {
+      "slug": "tasse",
+      "ipay": "dictionary/audio/ipay/tasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tasse.mp3"
+    }
   },
   {
     "id": "0967",
@@ -1093,7 +1423,12 @@
       "salt"
     ],
     "source": "B",
-    "original": "tasse"
+    "original": "tasse",
+    "audio": {
+      "slug": "tasse",
+      "ipay": "dictionary/audio/ipay/tasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tasse.mp3"
+    }
   },
   {
     "id": "0968",
@@ -1109,7 +1444,12 @@
       "fall"
     ],
     "source": "B",
-    "original": "tata"
+    "original": "tata",
+    "audio": {
+      "slug": "tata",
+      "ipay": "dictionary/audio/ipay/tata.mp3",
+      "hokkien": "dictionary/audio/hokkien/tata.mp3"
+    }
   },
   {
     "id": "0969",
@@ -1125,7 +1465,12 @@
       "fall (to)"
     ],
     "source": "B",
-    "original": "tata"
+    "original": "tata",
+    "audio": {
+      "slug": "tata",
+      "ipay": "dictionary/audio/ipay/tata.mp3",
+      "hokkien": "dictionary/audio/hokkien/tata.mp3"
+    }
   },
   {
     "id": "2050",
@@ -1138,7 +1483,12 @@
       "drop, fall"
     ],
     "source": "T",
-    "original": "tata, tatatan"
+    "original": "tata, tatatan",
+    "audio": {
+      "slug": "tata",
+      "ipay": "dictionary/audio/ipay/tata.mp3",
+      "hokkien": "dictionary/audio/hokkien/tata.mp3"
+    }
   },
   {
     "id": "0970",
@@ -1167,7 +1517,12 @@
       "hoe"
     ],
     "source": "T",
-    "original": "tatakka"
+    "original": "tatakka",
+    "audio": {
+      "slug": "tatakka",
+      "ipay": "dictionary/audio/ipay/tatakka.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatakka.mp3"
+    }
   },
   {
     "id": "0971",
@@ -1183,7 +1538,12 @@
       "next year"
     ],
     "source": "B",
-    "original": "tatasawai"
+    "original": "tatasawai",
+    "audio": {
+      "slug": "tatasawai",
+      "ipay": "dictionary/audio/ipay/tatasawai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatasawai.mp3"
+    }
   },
   {
     "id": "0972",
@@ -1201,7 +1561,12 @@
       "belt, wear (to)"
     ],
     "source": "B",
-    "original": "tatisib"
+    "original": "tatisib",
+    "audio": {
+      "slug": "tatisib",
+      "ipay": "dictionary/audio/ipay/tatisib.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatisib.mp3"
+    }
   },
   {
     "id": "0973",
@@ -1220,7 +1585,12 @@
       "totter. unstable"
     ],
     "source": "B",
-    "original": "tatisin"
+    "original": "tatisin",
+    "audio": {
+      "slug": "tatisin",
+      "ipay": "dictionary/audio/ipay/tatisin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatisin.mp3"
+    }
   },
   {
     "id": "0974",
@@ -1237,7 +1607,12 @@
       "collide. hit"
     ],
     "source": "B",
-    "original": "tatoŋ-pet"
+    "original": "tatoŋ-pet",
+    "audio": {
+      "slug": "tatonx_pet",
+      "ipay": "dictionary/audio/ipay/tatonx_pet.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatonx_pet.mp3"
+    }
   },
   {
     "id": "0975",
@@ -1254,7 +1629,12 @@
       "hit against. run against"
     ],
     "source": "B",
-    "original": "tatoŋpel'"
+    "original": "tatoŋpel'",
+    "audio": {
+      "slug": "tatonxpelx",
+      "ipay": "dictionary/audio/ipay/tatonxpelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatonxpelx.mp3"
+    }
   },
   {
     "id": "0976",
@@ -1270,7 +1650,12 @@
       "stumble (to)"
     ],
     "source": "B",
-    "original": "tatoŋpet"
+    "original": "tatoŋpet",
+    "audio": {
+      "slug": "tatonxpet",
+      "ipay": "dictionary/audio/ipay/tatonxpet.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatonxpet.mp3"
+    }
   },
   {
     "id": "2052",
@@ -1283,7 +1668,12 @@
       "yesterday"
     ],
     "source": "T",
-    "original": "tatvan, tavan (M)"
+    "original": "tatvan, tavan (M)",
+    "audio": {
+      "slug": "tatvan",
+      "ipay": "dictionary/audio/ipay/tatvan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tatvan.mp3"
+    }
   },
   {
     "id": "0977",
@@ -1299,7 +1689,12 @@
       "human being"
     ],
     "source": "B",
-    "original": "tau"
+    "original": "tau",
+    "audio": {
+      "slug": "tau",
+      "ipay": "dictionary/audio/ipay/tau.mp3",
+      "hokkien": "dictionary/audio/hokkien/tau.mp3"
+    }
   },
   {
     "id": "0978",
@@ -1315,7 +1710,12 @@
       "guest"
     ],
     "source": "B",
-    "original": "tau-tau"
+    "original": "tau-tau",
+    "audio": {
+      "slug": "tau_tau",
+      "ipay": "dictionary/audio/ipay/tau_tau.mp3",
+      "hokkien": "dictionary/audio/hokkien/tau_tau.mp3"
+    }
   },
   {
     "id": "0979",
@@ -1357,7 +1757,12 @@
       "yesterday"
     ],
     "source": "M",
-    "original": "tatvan, tavan (M)"
+    "original": "tatvan, tavan (M)",
+    "audio": {
+      "slug": "tavan",
+      "ipay": "dictionary/audio/ipay/tavan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tavan.mp3"
+    }
   },
   {
     "id": "2055",
@@ -1370,7 +1775,12 @@
       "throw"
     ],
     "source": "T",
-    "original": "tavli"
+    "original": "tavli",
+    "audio": {
+      "slug": "tavli",
+      "ipay": "dictionary/audio/ipay/tavli.mp3",
+      "hokkien": "dictionary/audio/hokkien/tavli.mp3"
+    }
   },
   {
     "id": "1782",
@@ -1383,7 +1793,12 @@
       "lose"
     ],
     "source": "M",
-    "original": "pqamiamia, tavəl (M)"
+    "original": "pqamiamia, tavəl (M)",
+    "audio": {
+      "slug": "tavoxl",
+      "ipay": "dictionary/audio/ipay/tavoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/tavoxl.mp3"
+    }
   },
   {
     "id": "0980",
@@ -1399,7 +1814,12 @@
       "throw away"
     ],
     "source": "B",
-    "original": "tavəl'"
+    "original": "tavəl'",
+    "audio": {
+      "slug": "tavoxlx",
+      "ipay": "dictionary/audio/ipay/tavoxlx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tavoxlx.mp3"
+    }
   },
   {
     "id": "2057",
@@ -1412,7 +1832,12 @@
       "chop, cut"
     ],
     "source": "T",
-    "original": "tavotavo"
+    "original": "tavotavo",
+    "audio": {
+      "slug": "tavotavo",
+      "ipay": "dictionary/audio/ipay/tavotavo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tavotavo.mp3"
+    }
   },
   {
     "id": "2058",
@@ -1425,7 +1850,12 @@
       "entertain"
     ],
     "source": "T",
-    "original": "tawan"
+    "original": "tawan",
+    "audio": {
+      "slug": "tawan",
+      "ipay": "dictionary/audio/ipay/tawan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tawan.mp3"
+    }
   },
   {
     "id": "2056",
@@ -1438,7 +1868,12 @@
       "button"
     ],
     "source": "M",
-    "original": "tawiz (M)"
+    "original": "tawiz (M)",
+    "audio": {
+      "slug": "tawiz",
+      "ipay": "dictionary/audio/ipay/tawiz.mp3",
+      "hokkien": "dictionary/audio/hokkien/tawiz.mp3"
+    }
   },
   {
     "id": "2059",
@@ -1451,7 +1886,12 @@
       "look"
     ],
     "source": "S",
-    "original": "tayta (S)"
+    "original": "tayta (S)",
+    "audio": {
+      "slug": "tayta",
+      "ipay": "dictionary/audio/ipay/tayta.mp3",
+      "hokkien": "dictionary/audio/hokkien/tayta.mp3"
+    }
   },
   {
     "id": "2033",
@@ -1464,7 +1904,12 @@
       "store (to)"
     ],
     "source": "M",
-    "original": "taɮi mau (M)"
+    "original": "taɮi mau (M)",
+    "audio": {
+      "slug": "tazxi_mau",
+      "ipay": "dictionary/audio/ipay/tazxi_mau.mp3",
+      "hokkien": "dictionary/audio/hokkien/tazxi_mau.mp3"
+    }
   },
   {
     "id": "2060",
@@ -1477,7 +1922,12 @@
       "here"
     ],
     "source": "S",
-    "original": "tazian (S), zaay, zala"
+    "original": "tazian (S), zaay, zala",
+    "audio": {
+      "slug": "tazian",
+      "ipay": "dictionary/audio/ipay/tazian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tazian.mp3"
+    }
   },
   {
     "id": "1753",
@@ -1490,7 +1940,12 @@
       "transplant rice"
     ],
     "source": "T",
-    "original": "patazuq (S), taruq, taruqa, tazuk"
+    "original": "patazuq (S), taruq, taruqa, tazuk",
+    "audio": {
+      "slug": "tazuk",
+      "ipay": "dictionary/audio/ipay/tazuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/tazuk.mp3"
+    }
   },
   {
     "id": "2063",
@@ -1503,7 +1958,12 @@
       "soul"
     ],
     "source": "M",
-    "original": "tazusa tao (M)"
+    "original": "tazusa tao (M)",
+    "audio": {
+      "slug": "tazusa_tao",
+      "ipay": "dictionary/audio/ipay/tazusa_tao.mp3",
+      "hokkien": "dictionary/audio/hokkien/tazusa_tao.mp3"
+    }
   },
   {
     "id": "0981",
@@ -1521,7 +1981,12 @@
       "south, east"
     ],
     "source": "B",
-    "original": "tebol'"
+    "original": "tebol'",
+    "audio": {
+      "slug": "tebolx",
+      "ipay": "dictionary/audio/ipay/tebolx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tebolx.mp3"
+    }
   },
   {
     "id": "2064",
@@ -1534,7 +1999,12 @@
       "reverse, back"
     ],
     "source": "M",
-    "original": "teen (M)"
+    "original": "teen (M)",
+    "audio": {
+      "slug": "teen",
+      "ipay": "dictionary/audio/ipay/teen.mp3",
+      "hokkien": "dictionary/audio/hokkien/teen.mp3"
+    }
   },
   {
     "id": "0982",
@@ -1550,7 +2020,12 @@
       "walking stick"
     ],
     "source": "B",
-    "original": "tehol'"
+    "original": "tehol'",
+    "audio": {
+      "slug": "teholx",
+      "ipay": "dictionary/audio/ipay/teholx.mp3",
+      "hokkien": "dictionary/audio/hokkien/teholx.mp3"
+    }
   },
   {
     "id": "2065",
@@ -1563,7 +2038,12 @@
       "eggs of fish"
     ],
     "source": "M",
-    "original": "teɭoɭu vautu (M)"
+    "original": "teɭoɭu vautu (M)",
+    "audio": {
+      "slug": "telxolxu_vautu",
+      "ipay": "dictionary/audio/ipay/telxolxu_vautu.mp3",
+      "hokkien": "dictionary/audio/hokkien/telxolxu_vautu.mp3"
+    }
   },
   {
     "id": "1956",
@@ -1576,7 +2056,12 @@
       "omen bird"
     ],
     "source": "M",
-    "original": "sisiŋ, teɭotsa (M)"
+    "original": "sisiŋ, teɭotsa (M)",
+    "audio": {
+      "slug": "telxotsa",
+      "ipay": "dictionary/audio/ipay/telxotsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/telxotsa.mp3"
+    }
   },
   {
     "id": "0983",
@@ -1592,7 +2077,12 @@
       "egg"
     ],
     "source": "B",
-    "original": "telod'"
+    "original": "telod'",
+    "audio": {
+      "slug": "telodx",
+      "ipay": "dictionary/audio/ipay/telodx.mp3",
+      "hokkien": "dictionary/audio/hokkien/telodx.mp3"
+    }
   },
   {
     "id": "0984",
@@ -1608,7 +2098,12 @@
       "fortune telling bird"
     ],
     "source": "B",
-    "original": "telotsa"
+    "original": "telotsa",
+    "audio": {
+      "slug": "telotsa",
+      "ipay": "dictionary/audio/ipay/telotsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/telotsa.mp3"
+    }
   },
   {
     "id": "0985",
@@ -1624,7 +2119,12 @@
       "back"
     ],
     "source": "B",
-    "original": "ten"
+    "original": "ten",
+    "audio": {
+      "slug": "ten",
+      "ipay": "dictionary/audio/ipay/ten.mp3",
+      "hokkien": "dictionary/audio/hokkien/ten.mp3"
+    }
   },
   {
     "id": "0986",
@@ -1640,7 +2140,12 @@
       "back"
     ],
     "source": "B",
-    "original": "ten"
+    "original": "ten",
+    "audio": {
+      "slug": "ten",
+      "ipay": "dictionary/audio/ipay/ten.mp3",
+      "hokkien": "dictionary/audio/hokkien/ten.mp3"
+    }
   },
   {
     "id": "0991",
@@ -1656,7 +2161,12 @@
       "noon"
     ],
     "source": "B",
-    "original": "teŋ"
+    "original": "teŋ",
+    "audio": {
+      "slug": "tenx",
+      "ipay": "dictionary/audio/ipay/tenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tenx.mp3"
+    }
   },
   {
     "id": "0987",
@@ -1673,7 +2183,12 @@
       "backward. back"
     ],
     "source": "B",
-    "original": "ten. <mita ten>"
+    "original": "ten. <mita ten>",
+    "audio": {
+      "slug": "ten",
+      "ipay": "dictionary/audio/ipay/ten.mp3",
+      "hokkien": "dictionary/audio/hokkien/ten.mp3"
+    }
   },
   {
     "id": "0988",
@@ -1689,7 +2204,12 @@
       "intestines"
     ],
     "source": "B",
-    "original": "tenai"
+    "original": "tenai",
+    "audio": {
+      "slug": "tenai",
+      "ipay": "dictionary/audio/ipay/tenai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tenai.mp3"
+    }
   },
   {
     "id": "0989",
@@ -1706,7 +2226,12 @@
       "bamboo, bamboo fence"
     ],
     "source": "B",
-    "original": "tenajen"
+    "original": "tenajen",
+    "audio": {
+      "slug": "tenajen",
+      "ipay": "dictionary/audio/ipay/tenajen.mp3",
+      "hokkien": "dictionary/audio/hokkien/tenajen.mp3"
+    }
   },
   {
     "id": "2066",
@@ -1735,7 +2260,12 @@
       "palanquin"
     ],
     "source": "B",
-    "original": "tetenan"
+    "original": "tetenan",
+    "audio": {
+      "slug": "tetenan",
+      "ipay": "dictionary/audio/ipay/tetenan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tetenan.mp3"
+    }
   },
   {
     "id": "2067",
@@ -1748,7 +2278,12 @@
       "palankeen, sedan"
     ],
     "source": "M",
-    "original": "tetenan < teten (M)"
+    "original": "tetenan < teten (M)",
+    "audio": {
+      "slug": "tetenan_teten",
+      "ipay": "dictionary/audio/ipay/tetenan_teten.mp3",
+      "hokkien": "dictionary/audio/hokkien/tetenan_teten.mp3"
+    }
   },
   {
     "id": "0993",
@@ -1777,7 +2312,12 @@
       "belly"
     ],
     "source": "T",
-    "original": "tian"
+    "original": "tian",
+    "audio": {
+      "slug": "tian",
+      "ipay": "dictionary/audio/ipay/tian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tian.mp3"
+    }
   },
   {
     "id": "2070",
@@ -1790,7 +2330,12 @@
       "us (inclusive)"
     ],
     "source": "T",
-    "original": "tianan"
+    "original": "tianan",
+    "audio": {
+      "slug": "tianan",
+      "ipay": "dictionary/audio/ipay/tianan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tianan.mp3"
+    }
   },
   {
     "id": "0994",
@@ -1806,7 +2351,12 @@
       "too good to do"
     ],
     "source": "B",
-    "original": "tibasa"
+    "original": "tibasa",
+    "audio": {
+      "slug": "tibasa",
+      "ipay": "dictionary/audio/ipay/tibasa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tibasa.mp3"
+    }
   },
   {
     "id": "0995",
@@ -1822,7 +2372,12 @@
       "tile (on the roof)"
     ],
     "source": "B",
-    "original": "tiha"
+    "original": "tiha",
+    "audio": {
+      "slug": "tiha",
+      "ipay": "dictionary/audio/ipay/tiha.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiha.mp3"
+    }
   },
   {
     "id": "2071",
@@ -1835,7 +2390,12 @@
       "candle, set fire"
     ],
     "source": "M",
-    "original": "tiik (M)(< Taiwanese)"
+    "original": "tiik (M)(< Taiwanese)",
+    "audio": {
+      "slug": "tiik",
+      "ipay": "dictionary/audio/ipay/tiik.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiik.mp3"
+    }
   },
   {
     "id": "0996",
@@ -1852,7 +2412,12 @@
       "belly. abdomen"
     ],
     "source": "B",
-    "original": "tijan"
+    "original": "tijan",
+    "audio": {
+      "slug": "tijan",
+      "ipay": "dictionary/audio/ipay/tijan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tijan.mp3"
+    }
   },
   {
     "id": "0997",
@@ -1868,7 +2433,12 @@
       "belly"
     ],
     "source": "B",
-    "original": "tijan, tjɛn"
+    "original": "tijan, tjɛn",
+    "audio": {
+      "slug": "tijan",
+      "ipay": "dictionary/audio/ipay/tijan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tijan.mp3"
+    }
   },
   {
     "id": "0998",
@@ -1884,7 +2454,12 @@
       "belly"
     ],
     "source": "B",
-    "original": "tijen"
+    "original": "tijen",
+    "audio": {
+      "slug": "tijen",
+      "ipay": "dictionary/audio/ipay/tijen.mp3",
+      "hokkien": "dictionary/audio/hokkien/tijen.mp3"
+    }
   },
   {
     "id": "2072",
@@ -1897,7 +2472,12 @@
       "entrap"
     ],
     "source": "T",
-    "original": "tikas, tumikas (M)"
+    "original": "tikas, tumikas (M)",
+    "audio": {
+      "slug": "tikas",
+      "ipay": "dictionary/audio/ipay/tikas.mp3",
+      "hokkien": "dictionary/audio/hokkien/tikas.mp3"
+    }
   },
   {
     "id": "0999",
@@ -1930,7 +2510,12 @@
       "old woman. posture of weaving"
     ],
     "source": "B",
-    "original": "tili"
+    "original": "tili",
+    "audio": {
+      "slug": "tili",
+      "ipay": "dictionary/audio/ipay/tili.mp3",
+      "hokkien": "dictionary/audio/hokkien/tili.mp3"
+    }
   },
   {
     "id": "1001",
@@ -1946,7 +2531,12 @@
       "trot"
     ],
     "source": "B",
-    "original": "tiliptilip"
+    "original": "tiliptilip",
+    "audio": {
+      "slug": "tiliptilip",
+      "ipay": "dictionary/audio/ipay/tiliptilip.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiliptilip.mp3"
+    }
   },
   {
     "id": "1002",
@@ -1963,7 +2553,12 @@
       "dance (man). jump"
     ],
     "source": "B",
-    "original": "tiliptip"
+    "original": "tiliptip",
+    "audio": {
+      "slug": "tiliptip",
+      "ipay": "dictionary/audio/ipay/tiliptip.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiliptip.mp3"
+    }
   },
   {
     "id": "1003",
@@ -1980,7 +2575,12 @@
       "leak (to)"
     ],
     "source": "B",
-    "original": "tiliptip"
+    "original": "tiliptip",
+    "audio": {
+      "slug": "tiliptip",
+      "ipay": "dictionary/audio/ipay/tiliptip.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiliptip.mp3"
+    }
   },
   {
     "id": "2074",
@@ -1993,7 +2593,12 @@
       "search"
     ],
     "source": "S",
-    "original": "timalmal (S)"
+    "original": "timalmal (S)",
+    "audio": {
+      "slug": "timalmal",
+      "ipay": "dictionary/audio/ipay/timalmal.mp3",
+      "hokkien": "dictionary/audio/hokkien/timalmal.mp3"
+    }
   },
   {
     "id": "1004",
@@ -2009,7 +2614,12 @@
       "leftover food"
     ],
     "source": "B",
-    "original": "timase sumai"
+    "original": "timase sumai",
+    "audio": {
+      "slug": "timase_sumai",
+      "ipay": "dictionary/audio/ipay/timase_sumai.mp3",
+      "hokkien": "dictionary/audio/hokkien/timase_sumai.mp3"
+    }
   },
   {
     "id": "1005",
@@ -2026,7 +2636,12 @@
       "remain. left over"
     ],
     "source": "B",
-    "original": "timasse"
+    "original": "timasse",
+    "audio": {
+      "slug": "timasse",
+      "ipay": "dictionary/audio/ipay/timasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/timasse.mp3"
+    }
   },
   {
     "id": "2075",
@@ -2039,7 +2654,12 @@
       "1 (obl)"
     ],
     "source": "T",
-    "original": "timayku"
+    "original": "timayku",
+    "audio": {
+      "slug": "timayku",
+      "ipay": "dictionary/audio/ipay/timayku.mp3",
+      "hokkien": "dictionary/audio/hokkien/timayku.mp3"
+    }
   },
   {
     "id": "2076",
@@ -2052,7 +2672,12 @@
       "you (OBL)"
     ],
     "source": "T",
-    "original": "timaysu"
+    "original": "timaysu",
+    "audio": {
+      "slug": "timaysu",
+      "ipay": "dictionary/audio/ipay/timaysu.mp3",
+      "hokkien": "dictionary/audio/hokkien/timaysu.mp3"
+    }
   },
   {
     "id": "2077",
@@ -2065,7 +2690,12 @@
       "flea"
     ],
     "source": "M",
-    "original": "timɭa (M)"
+    "original": "timɭa (M)",
+    "audio": {
+      "slug": "timlxa",
+      "ipay": "dictionary/audio/ipay/timlxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/timlxa.mp3"
+    }
   },
   {
     "id": "2078",
@@ -2078,7 +2708,12 @@
       "you (pl)"
     ],
     "source": "T",
-    "original": "timu"
+    "original": "timu",
+    "audio": {
+      "slug": "timu",
+      "ipay": "dictionary/audio/ipay/timu.mp3",
+      "hokkien": "dictionary/audio/hokkien/timu.mp3"
+    }
   },
   {
     "id": "1009",
@@ -2095,7 +2730,12 @@
       "neck. throat"
     ],
     "source": "B",
-    "original": "tiŋ-nan"
+    "original": "tiŋ-nan",
+    "audio": {
+      "slug": "tinx_nan",
+      "ipay": "dictionary/audio/ipay/tinx_nan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tinx_nan.mp3"
+    }
   },
   {
     "id": "2079",
@@ -2108,7 +2748,12 @@
       "mother (reference)"
     ],
     "source": "T",
-    "original": "tina"
+    "original": "tina",
+    "audio": {
+      "slug": "tina",
+      "ipay": "dictionary/audio/ipay/tina.mp3",
+      "hokkien": "dictionary/audio/hokkien/tina.mp3"
+    }
   },
   {
     "id": "1006",
@@ -2124,7 +2769,12 @@
       "mother"
     ],
     "source": "B",
-    "original": "tina (palatalize セズ)"
+    "original": "tina (palatalize セズ)",
+    "audio": {
+      "slug": "tina",
+      "ipay": "dictionary/audio/ipay/tina.mp3",
+      "hokkien": "dictionary/audio/hokkien/tina.mp3"
+    }
   },
   {
     "id": "1007",
@@ -2140,7 +2790,12 @@
       "rice cake"
     ],
     "source": "B",
-    "original": "tinalikke"
+    "original": "tinalikke",
+    "audio": {
+      "slug": "tinalikke",
+      "ipay": "dictionary/audio/ipay/tinalikke.mp3",
+      "hokkien": "dictionary/audio/hokkien/tinalikke.mp3"
+    }
   },
   {
     "id": "1008",
@@ -2156,7 +2811,12 @@
       "vagina"
     ],
     "source": "B",
-    "original": "tinaune"
+    "original": "tinaune",
+    "audio": {
+      "slug": "tinaune",
+      "ipay": "dictionary/audio/ipay/tinaune.mp3",
+      "hokkien": "dictionary/audio/hokkien/tinaune.mp3"
+    }
   },
   {
     "id": "2080",
@@ -2169,7 +2829,12 @@
       "spinal cord"
     ],
     "source": "M",
-    "original": "tinəs (M)"
+    "original": "tinəs (M)",
+    "audio": {
+      "slug": "tinoxs",
+      "ipay": "dictionary/audio/ipay/tinoxs.mp3",
+      "hokkien": "dictionary/audio/hokkien/tinoxs.mp3"
+    }
   },
   {
     "id": "2081",
@@ -2182,7 +2847,12 @@
       "stick (S)"
     ],
     "source": "T",
-    "original": "tiqul"
+    "original": "tiqul",
+    "audio": {
+      "slug": "tiqul",
+      "ipay": "dictionary/audio/ipay/tiqul.mp3",
+      "hokkien": "dictionary/audio/hokkien/tiqul.mp3"
+    }
   },
   {
     "id": "2082",
@@ -2195,7 +2865,12 @@
       "half"
     ],
     "source": "T",
-    "original": "tisin"
+    "original": "tisin",
+    "audio": {
+      "slug": "tisin",
+      "ipay": "dictionary/audio/ipay/tisin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tisin.mp3"
+    }
   },
   {
     "id": "2083",
@@ -2208,7 +2883,12 @@
       "across the river"
     ],
     "source": "M",
-    "original": "tisin (M)"
+    "original": "tisin (M)",
+    "audio": {
+      "slug": "tisin",
+      "ipay": "dictionary/audio/ipay/tisin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tisin.mp3"
+    }
   },
   {
     "id": "1010",
@@ -2225,7 +2905,12 @@
       "belt"
     ],
     "source": "B",
-    "original": "tisup"
+    "original": "tisup",
+    "audio": {
+      "slug": "tisup",
+      "ipay": "dictionary/audio/ipay/tisup.mp3",
+      "hokkien": "dictionary/audio/hokkien/tisup.mp3"
+    }
   },
   {
     "id": "2084",
@@ -2238,7 +2923,12 @@
       "loincloth"
     ],
     "source": "M",
-    "original": "tivai (M)"
+    "original": "tivai (M)",
+    "audio": {
+      "slug": "tivai",
+      "ipay": "dictionary/audio/ipay/tivai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tivai.mp3"
+    }
   },
   {
     "id": "1011",
@@ -2254,7 +2944,12 @@
       "who"
     ],
     "source": "B",
-    "original": "tjajatsoa"
+    "original": "tjajatsoa",
+    "audio": {
+      "slug": "tjajatsoa",
+      "ipay": "dictionary/audio/ipay/tjajatsoa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tjajatsoa.mp3"
+    }
   },
   {
     "id": "2085",
@@ -2267,7 +2962,12 @@
       "dance"
     ],
     "source": "T",
-    "original": "tlail"
+    "original": "tlail",
+    "audio": {
+      "slug": "tlail",
+      "ipay": "dictionary/audio/ipay/tlail.mp3",
+      "hokkien": "dictionary/audio/hokkien/tlail.mp3"
+    }
   },
   {
     "id": "2089",
@@ -2280,7 +2980,12 @@
       "make rice cake"
     ],
     "source": "T",
-    "original": "tmalik"
+    "original": "tmalik",
+    "audio": {
+      "slug": "tmalik",
+      "ipay": "dictionary/audio/ipay/tmalik.mp3",
+      "hokkien": "dictionary/audio/hokkien/tmalik.mp3"
+    }
   },
   {
     "id": "2090",
@@ -2306,7 +3011,12 @@
       "seed"
     ],
     "source": "M",
-    "original": "tmaqsam (M)"
+    "original": "tmaqsam (M)",
+    "audio": {
+      "slug": "tmaqsam",
+      "ipay": "dictionary/audio/ipay/tmaqsam.mp3",
+      "hokkien": "dictionary/audio/hokkien/tmaqsam.mp3"
+    }
   },
   {
     "id": "2092",
@@ -2319,7 +3029,12 @@
       "throw"
     ],
     "source": "T",
-    "original": "tmavəli"
+    "original": "tmavəli",
+    "audio": {
+      "slug": "tmavoxli",
+      "ipay": "dictionary/audio/ipay/tmavoxli.mp3",
+      "hokkien": "dictionary/audio/hokkien/tmavoxli.mp3"
+    }
   },
   {
     "id": "2093",
@@ -2332,7 +3047,12 @@
       "storm"
     ],
     "source": "M",
-    "original": "tmawal (M)"
+    "original": "tmawal (M)",
+    "audio": {
+      "slug": "tmawal",
+      "ipay": "dictionary/audio/ipay/tmawal.mp3",
+      "hokkien": "dictionary/audio/hokkien/tmawal.mp3"
+    }
   },
   {
     "id": "2095",
@@ -2345,7 +3065,12 @@
       "cook glutinous rice"
     ],
     "source": "T",
-    "original": "tmuzun"
+    "original": "tmuzun",
+    "audio": {
+      "slug": "tmuzun",
+      "ipay": "dictionary/audio/ipay/tmuzun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tmuzun.mp3"
+    }
   },
   {
     "id": "2096",
@@ -2358,7 +3083,12 @@
       "bamboo"
     ],
     "source": "M",
-    "original": "tnajan (M), tnayan"
+    "original": "tnajan (M), tnayan",
+    "audio": {
+      "slug": "tnajan",
+      "ipay": "dictionary/audio/ipay/tnajan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tnajan.mp3"
+    }
   },
   {
     "id": "2097",
@@ -2371,7 +3101,12 @@
       "bamboo"
     ],
     "source": "T",
-    "original": "tnajan (M), tnayan"
+    "original": "tnajan (M), tnayan",
+    "audio": {
+      "slug": "tnayan",
+      "ipay": "dictionary/audio/ipay/tnayan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tnayan.mp3"
+    }
   },
   {
     "id": "0990",
@@ -2390,7 +3125,12 @@
       "sap. soup"
     ],
     "source": "B",
-    "original": "tənasse"
+    "original": "tənasse",
+    "audio": {
+      "slug": "toxnasse",
+      "ipay": "dictionary/audio/ipay/toxnasse.mp3",
+      "hokkien": "dictionary/audio/hokkien/toxnasse.mp3"
+    }
   },
   {
     "id": "2044",
@@ -2403,7 +3143,12 @@
       "earth, soil, gravel"
     ],
     "source": "T",
-    "original": "təpəl"
+    "original": "təpəl",
+    "audio": {
+      "slug": "toxpoxl",
+      "ipay": "dictionary/audio/ipay/toxpoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/toxpoxl.mp3"
+    }
   },
   {
     "id": "1012",
@@ -2419,7 +3164,12 @@
       "tomorrow"
     ],
     "source": "B",
-    "original": "toban"
+    "original": "toban",
+    "audio": {
+      "slug": "toban",
+      "ipay": "dictionary/audio/ipay/toban.mp3",
+      "hokkien": "dictionary/audio/hokkien/toban.mp3"
+    }
   },
   {
     "id": "1013",
@@ -2435,7 +3185,12 @@
       "iron"
     ],
     "source": "B",
-    "original": "toktogan"
+    "original": "toktogan",
+    "audio": {
+      "slug": "toktogan",
+      "ipay": "dictionary/audio/ipay/toktogan.mp3",
+      "hokkien": "dictionary/audio/hokkien/toktogan.mp3"
+    }
   },
   {
     "id": "1014",
@@ -2451,7 +3206,12 @@
       "hit (to)"
     ],
     "source": "B",
-    "original": "toktok"
+    "original": "toktok",
+    "audio": {
+      "slug": "toktok",
+      "ipay": "dictionary/audio/ipay/toktok.mp3",
+      "hokkien": "dictionary/audio/hokkien/toktok.mp3"
+    }
   },
   {
     "id": "2099",
@@ -2464,7 +3224,12 @@
       "noise"
     ],
     "source": "M",
-    "original": "toɭus (M)"
+    "original": "toɭus (M)",
+    "audio": {
+      "slug": "tolxus",
+      "ipay": "dictionary/audio/ipay/tolxus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tolxus.mp3"
+    }
   },
   {
     "id": "2098",
@@ -2477,7 +3242,12 @@
       "bone"
     ],
     "source": "M",
-    "original": "tolan (M)"
+    "original": "tolan (M)",
+    "audio": {
+      "slug": "tolan",
+      "ipay": "dictionary/audio/ipay/tolan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tolan.mp3"
+    }
   },
   {
     "id": "1015",
@@ -2493,7 +3263,12 @@
       "bone"
     ],
     "source": "B",
-    "original": "tolan, tolal"
+    "original": "tolan, tolal",
+    "audio": {
+      "slug": "tolan",
+      "ipay": "dictionary/audio/ipay/tolan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tolan.mp3"
+    }
   },
   {
     "id": "1016",
@@ -2509,7 +3284,12 @@
       "drum"
     ],
     "source": "B",
-    "original": "toloŋtoŋ"
+    "original": "toloŋtoŋ",
+    "audio": {
+      "slug": "tolonxtonx",
+      "ipay": "dictionary/audio/ipay/tolonxtonx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tolonxtonx.mp3"
+    }
   },
   {
     "id": "1017",
@@ -2525,7 +3305,12 @@
       "deaf."
     ],
     "source": "B",
-    "original": "toluse"
+    "original": "toluse",
+    "audio": {
+      "slug": "toluse",
+      "ipay": "dictionary/audio/ipay/toluse.mp3",
+      "hokkien": "dictionary/audio/hokkien/toluse.mp3"
+    }
   },
   {
     "id": "1018",
@@ -2541,7 +3326,12 @@
       "noisily (to speak)"
     ],
     "source": "B",
-    "original": "tolusse"
+    "original": "tolusse",
+    "audio": {
+      "slug": "tolusse",
+      "ipay": "dictionary/audio/ipay/tolusse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tolusse.mp3"
+    }
   },
   {
     "id": "1019",
@@ -2557,7 +3347,12 @@
       "bear (animal)"
     ],
     "source": "B",
-    "original": "tomai"
+    "original": "tomai",
+    "audio": {
+      "slug": "tomai",
+      "ipay": "dictionary/audio/ipay/tomai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tomai.mp3"
+    }
   },
   {
     "id": "1020",
@@ -2574,7 +3369,12 @@
       "weep. cry"
     ],
     "source": "B",
-    "original": "tomaŋetse"
+    "original": "tomaŋetse",
+    "audio": {
+      "slug": "tomanxetse",
+      "ipay": "dictionary/audio/ipay/tomanxetse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tomanxetse.mp3"
+    }
   },
   {
     "id": "1021",
@@ -2591,7 +3391,12 @@
       "cry, tears"
     ],
     "source": "B",
-    "original": "tomaŋetse"
+    "original": "tomaŋetse",
+    "audio": {
+      "slug": "tomanxetse",
+      "ipay": "dictionary/audio/ipay/tomanxetse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tomanxetse.mp3"
+    }
   },
   {
     "id": "1022",
@@ -2607,7 +3412,12 @@
       "ax"
     ],
     "source": "B",
-    "original": "toptop (?)"
+    "original": "toptop (?)",
+    "audio": {
+      "slug": "toptop",
+      "ipay": "dictionary/audio/ipay/toptop.mp3",
+      "hokkien": "dictionary/audio/hokkien/toptop.mp3"
+    }
   },
   {
     "id": "1023",
@@ -2623,7 +3433,12 @@
       "chicken, cock"
     ],
     "source": "B",
-    "original": "tor-hok"
+    "original": "tor-hok",
+    "audio": {
+      "slug": "tor_hok",
+      "ipay": "dictionary/audio/ipay/tor_hok.mp3",
+      "hokkien": "dictionary/audio/hokkien/tor_hok.mp3"
+    }
   },
   {
     "id": "1024",
@@ -2640,7 +3455,12 @@
       "wanton woman/man"
     ],
     "source": "B",
-    "original": "toraŋ"
+    "original": "toraŋ",
+    "audio": {
+      "slug": "toranx",
+      "ipay": "dictionary/audio/ipay/toranx.mp3",
+      "hokkien": "dictionary/audio/hokkien/toranx.mp3"
+    }
   },
   {
     "id": "2100",
@@ -2653,7 +3473,12 @@
       "helpless"
     ],
     "source": "T",
-    "original": "tosaipola"
+    "original": "tosaipola",
+    "audio": {
+      "slug": "tosaipola",
+      "ipay": "dictionary/audio/ipay/tosaipola.mp3",
+      "hokkien": "dictionary/audio/hokkien/tosaipola.mp3"
+    }
   },
   {
     "id": "1025",
@@ -2669,7 +3494,12 @@
       "ditch"
     ],
     "source": "B",
-    "original": "totolan"
+    "original": "totolan",
+    "audio": {
+      "slug": "totolan",
+      "ipay": "dictionary/audio/ipay/totolan.mp3",
+      "hokkien": "dictionary/audio/hokkien/totolan.mp3"
+    }
   },
   {
     "id": "2101",
@@ -2682,7 +3512,12 @@
       "leak (to)"
     ],
     "source": "M",
-    "original": "tozo (M)"
+    "original": "tozo (M)",
+    "audio": {
+      "slug": "tozo",
+      "ipay": "dictionary/audio/ipay/tozo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tozo.mp3"
+    }
   },
   {
     "id": "2102",
@@ -2695,7 +3530,12 @@
       "paper"
     ],
     "source": "M",
-    "original": "tpurukka (M)"
+    "original": "tpurukka (M)",
+    "audio": {
+      "slug": "tpurukka",
+      "ipay": "dictionary/audio/ipay/tpurukka.mp3",
+      "hokkien": "dictionary/audio/hokkien/tpurukka.mp3"
+    }
   },
   {
     "id": "2087",
@@ -2708,7 +3548,12 @@
       "ancient"
     ],
     "source": "S",
-    "original": "tɮai, trai (S), trayazay"
+    "original": "tɮai, trai (S), trayazay",
+    "audio": {
+      "slug": "trai",
+      "ipay": "dictionary/audio/ipay/trai.mp3",
+      "hokkien": "dictionary/audio/hokkien/trai.mp3"
+    }
   },
   {
     "id": "2088",
@@ -2721,7 +3566,12 @@
       "ancient"
     ],
     "source": "T",
-    "original": "tɮai, trai (S), trayazay"
+    "original": "tɮai, trai (S), trayazay",
+    "audio": {
+      "slug": "trayazay",
+      "ipay": "dictionary/audio/ipay/trayazay.mp3",
+      "hokkien": "dictionary/audio/hokkien/trayazay.mp3"
+    }
   },
   {
     "id": "2103",
@@ -2734,7 +3584,12 @@
       "meat"
     ],
     "source": "M",
-    "original": "trena (M)"
+    "original": "trena (M)",
+    "audio": {
+      "slug": "trena",
+      "ipay": "dictionary/audio/ipay/trena.mp3",
+      "hokkien": "dictionary/audio/hokkien/trena.mp3"
+    }
   },
   {
     "id": "2104",
@@ -2747,7 +3602,12 @@
       "bamboo basket"
     ],
     "source": "M",
-    "original": "trese (M)"
+    "original": "trese (M)",
+    "audio": {
+      "slug": "trese",
+      "ipay": "dictionary/audio/ipay/trese.mp3",
+      "hokkien": "dictionary/audio/hokkien/trese.mp3"
+    }
   },
   {
     "id": "1054",
@@ -2763,7 +3623,12 @@
       "field"
     ],
     "source": "B",
-    "original": "tʃepotʃepo"
+    "original": "tʃepotʃepo",
+    "audio": {
+      "slug": "tsxepotsxepo",
+      "ipay": "dictionary/audio/ipay/tsxepotsxepo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxepotsxepo.mp3"
+    }
   },
   {
     "id": "1055",
@@ -2779,7 +3644,12 @@
       "lick"
     ],
     "source": "B",
-    "original": "tʃilatʃilakke"
+    "original": "tʃilatʃilakke",
+    "audio": {
+      "slug": "tsxilatsxilakke",
+      "ipay": "dictionary/audio/ipay/tsxilatsxilakke.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxilatsxilakke.mp3"
+    }
   },
   {
     "id": "1057",
@@ -2795,7 +3665,12 @@
       "fin"
     ],
     "source": "B",
-    "original": "tʃimaija"
+    "original": "tʃimaija",
+    "audio": {
+      "slug": "tsximaija",
+      "ipay": "dictionary/audio/ipay/tsximaija.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsximaija.mp3"
+    }
   },
   {
     "id": "1058",
@@ -2812,7 +3687,12 @@
       "flea"
     ],
     "source": "B",
-    "original": "tʃimtsa"
+    "original": "tʃimtsa",
+    "audio": {
+      "slug": "tsximtsa",
+      "ipay": "dictionary/audio/ipay/tsximtsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsximtsa.mp3"
+    }
   },
   {
     "id": "1059",
@@ -2828,7 +3708,12 @@
       "kiss"
     ],
     "source": "B",
-    "original": "tʃip-tʃippe"
+    "original": "tʃip-tʃippe",
+    "audio": {
+      "slug": "tsxip_tsxippe",
+      "ipay": "dictionary/audio/ipay/tsxip_tsxippe.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxip_tsxippe.mp3"
+    }
   },
   {
     "id": "1060",
@@ -2844,7 +3729,12 @@
       "understand"
     ],
     "source": "B",
-    "original": "tʃipaŋ"
+    "original": "tʃipaŋ",
+    "audio": {
+      "slug": "tsxipanx",
+      "ipay": "dictionary/audio/ipay/tsxipanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxipanx.mp3"
+    }
   },
   {
     "id": "1061",
@@ -2861,7 +3751,12 @@
       "ignorant, unskillful"
     ],
     "source": "B",
-    "original": "tʃipaŋ"
+    "original": "tʃipaŋ",
+    "audio": {
+      "slug": "tsxipanx",
+      "ipay": "dictionary/audio/ipay/tsxipanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxipanx.mp3"
+    }
   },
   {
     "id": "1062",
@@ -2877,7 +3772,12 @@
       "forget"
     ],
     "source": "B",
-    "original": "tʃipaŋ na"
+    "original": "tʃipaŋ na",
+    "audio": {
+      "slug": "tsxipanx_na",
+      "ipay": "dictionary/audio/ipay/tsxipanx_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxipanx_na.mp3"
+    }
   },
   {
     "id": "1063",
@@ -2894,7 +3794,12 @@
       "ignorant"
     ],
     "source": "B",
-    "original": "tʃipaŋ unu-unu"
+    "original": "tʃipaŋ unu-unu",
+    "audio": {
+      "slug": "tsxipanx_unu_unu",
+      "ipay": "dictionary/audio/ipay/tsxipanx_unu_unu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxipanx_unu_unu.mp3"
+    }
   },
   {
     "id": "1064",
@@ -2910,7 +3815,12 @@
       "spear"
     ],
     "source": "B",
-    "original": "tʃiul'"
+    "original": "tʃiul'",
+    "audio": {
+      "slug": "tsxiulx",
+      "ipay": "dictionary/audio/ipay/tsxiulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsxiulx.mp3"
+    }
   },
   {
     "id": "1026",
@@ -2926,7 +3836,12 @@
       "one"
     ],
     "source": "B",
-    "original": "tsa"
+    "original": "tsa",
+    "audio": {
+      "slug": "tsa",
+      "ipay": "dictionary/audio/ipay/tsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsa.mp3"
+    }
   },
   {
     "id": "1027",
@@ -2942,7 +3857,12 @@
       "one-hundred"
     ],
     "source": "B",
-    "original": "tsa latsebo"
+    "original": "tsa latsebo",
+    "audio": {
+      "slug": "tsa_latsebo",
+      "ipay": "dictionary/audio/ipay/tsa_latsebo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsa_latsebo.mp3"
+    }
   },
   {
     "id": "2147",
@@ -2955,7 +3875,12 @@
       "day after tomorrow"
     ],
     "source": "M",
-    "original": "tsa u ɮian (M)"
+    "original": "tsa u ɮian (M)",
+    "audio": {
+      "slug": "tsa_u_zxian",
+      "ipay": "dictionary/audio/ipay/tsa_u_zxian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsa_u_zxian.mp3"
+    }
   },
   {
     "id": "2146",
@@ -2968,7 +3893,12 @@
       "one (person, animal, month)"
     ],
     "source": "T",
-    "original": "tsa, uttsa, utsa"
+    "original": "tsa, uttsa, utsa",
+    "audio": {
+      "slug": "tsa",
+      "ipay": "dictionary/audio/ipay/tsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsa.mp3"
+    }
   },
   {
     "id": "2148",
@@ -2981,7 +3911,12 @@
       "who"
     ],
     "source": "M",
-    "original": "tsaai (M), tsay"
+    "original": "tsaai (M), tsay",
+    "audio": {
+      "slug": "tsaai",
+      "ipay": "dictionary/audio/ipay/tsaai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaai.mp3"
+    }
   },
   {
     "id": "1028",
@@ -2997,7 +3932,12 @@
       "this month"
     ],
     "source": "B",
-    "original": "tsabutsan"
+    "original": "tsabutsan",
+    "audio": {
+      "slug": "tsabutsan",
+      "ipay": "dictionary/audio/ipay/tsabutsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsabutsan.mp3"
+    }
   },
   {
     "id": "1029",
@@ -3013,7 +3953,12 @@
       "spade"
     ],
     "source": "B",
-    "original": "tsahu"
+    "original": "tsahu",
+    "audio": {
+      "slug": "tsahu",
+      "ipay": "dictionary/audio/ipay/tsahu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsahu.mp3"
+    }
   },
   {
     "id": "1030",
@@ -3029,7 +3974,12 @@
       "who"
     ],
     "source": "B",
-    "original": "tsaikaila"
+    "original": "tsaikaila",
+    "audio": {
+      "slug": "tsaikaila",
+      "ipay": "dictionary/audio/ipay/tsaikaila.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaikaila.mp3"
+    }
   },
   {
     "id": "2150",
@@ -3042,7 +3992,12 @@
       "return"
     ],
     "source": "T",
-    "original": "tsakay"
+    "original": "tsakay",
+    "audio": {
+      "slug": "tsakay",
+      "ipay": "dictionary/audio/ipay/tsakay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsakay.mp3"
+    }
   },
   {
     "id": "1031",
@@ -3058,7 +4013,12 @@
       "dirt"
     ],
     "source": "B",
-    "original": "tsaki"
+    "original": "tsaki",
+    "audio": {
+      "slug": "tsaki",
+      "ipay": "dictionary/audio/ipay/tsaki.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaki.mp3"
+    }
   },
   {
     "id": "2151",
@@ -3071,7 +4031,12 @@
       "rust (to)"
     ],
     "source": "M",
-    "original": "tsaki (M)"
+    "original": "tsaki (M)",
+    "audio": {
+      "slug": "tsaki",
+      "ipay": "dictionary/audio/ipay/tsaki.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaki.mp3"
+    }
   },
   {
     "id": "1032",
@@ -3087,7 +4052,12 @@
       "cat"
     ],
     "source": "B",
-    "original": "tsaku"
+    "original": "tsaku",
+    "audio": {
+      "slug": "tsaku",
+      "ipay": "dictionary/audio/ipay/tsaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaku.mp3"
+    }
   },
   {
     "id": "1033",
@@ -3103,7 +4073,12 @@
       "dig"
     ],
     "source": "B",
-    "original": "tsaku"
+    "original": "tsaku",
+    "audio": {
+      "slug": "tsaku",
+      "ipay": "dictionary/audio/ipay/tsaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaku.mp3"
+    }
   },
   {
     "id": "2152",
@@ -3116,7 +4091,12 @@
       "anus"
     ],
     "source": "M",
-    "original": "tsakulan (M)"
+    "original": "tsakulan (M)",
+    "audio": {
+      "slug": "tsakulan",
+      "ipay": "dictionary/audio/ipay/tsakulan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsakulan.mp3"
+    }
   },
   {
     "id": "1034",
@@ -3132,7 +4112,12 @@
       "wear bamboo hat (to)"
     ],
     "source": "B",
-    "original": "tsakup > tsumakup"
+    "original": "tsakup > tsumakup",
+    "audio": {
+      "slug": "tsakup_tsumakup",
+      "ipay": "dictionary/audio/ipay/tsakup_tsumakup.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsakup_tsumakup.mp3"
+    }
   },
   {
     "id": "1035",
@@ -3181,7 +4166,12 @@
       "one night"
     ],
     "source": "B",
-    "original": "tsalabe"
+    "original": "tsalabe",
+    "audio": {
+      "slug": "tsalabe",
+      "ipay": "dictionary/audio/ipay/tsalabe.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsalabe.mp3"
+    }
   },
   {
     "id": "1038",
@@ -3197,7 +4187,12 @@
       "yesterday (1) went to the river."
     ],
     "source": "B",
-    "original": "tsalabe, <tsalabe aui ŋapan>"
+    "original": "tsalabe, <tsalabe aui ŋapan>",
+    "audio": {
+      "slug": "tsalabe",
+      "ipay": "dictionary/audio/ipay/tsalabe.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsalabe.mp3"
+    }
   },
   {
     "id": "1039",
@@ -3213,7 +4208,12 @@
       "bracelet"
     ],
     "source": "B",
-    "original": "tsalin"
+    "original": "tsalin",
+    "audio": {
+      "slug": "tsalin",
+      "ipay": "dictionary/audio/ipay/tsalin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsalin.mp3"
+    }
   },
   {
     "id": "2153",
@@ -3226,7 +4226,12 @@
       "mouth of river"
     ],
     "source": "T",
-    "original": "tsanul"
+    "original": "tsanul",
+    "audio": {
+      "slug": "tsanul",
+      "ipay": "dictionary/audio/ipay/tsanul.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsanul.mp3"
+    }
   },
   {
     "id": "1040",
@@ -3243,7 +4248,12 @@
       "pile up (to)"
     ],
     "source": "B",
-    "original": "tsapa"
+    "original": "tsapa",
+    "audio": {
+      "slug": "tsapa",
+      "ipay": "dictionary/audio/ipay/tsapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsapa.mp3"
+    }
   },
   {
     "id": "1041",
@@ -3259,7 +4269,12 @@
       "carry on shoulder (to)"
     ],
     "source": "B",
-    "original": "tsapa"
+    "original": "tsapa",
+    "audio": {
+      "slug": "tsapa",
+      "ipay": "dictionary/audio/ipay/tsapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsapa.mp3"
+    }
   },
   {
     "id": "1042",
@@ -3275,7 +4290,12 @@
       "trousers"
     ],
     "source": "B",
-    "original": "tsapa"
+    "original": "tsapa",
+    "audio": {
+      "slug": "tsapa",
+      "ipay": "dictionary/audio/ipay/tsapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsapa.mp3"
+    }
   },
   {
     "id": "2154",
@@ -3288,7 +4308,12 @@
       "hold in one's arms"
     ],
     "source": "T",
-    "original": "tsapa"
+    "original": "tsapa",
+    "audio": {
+      "slug": "tsapa",
+      "ipay": "dictionary/audio/ipay/tsapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsapa.mp3"
+    }
   },
   {
     "id": "2155",
@@ -3314,7 +4339,12 @@
       "next"
     ],
     "source": "T",
-    "original": "tsaprisi"
+    "original": "tsaprisi",
+    "audio": {
+      "slug": "tsaprisi",
+      "ipay": "dictionary/audio/ipay/tsaprisi.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaprisi.mp3"
+    }
   },
   {
     "id": "2157",
@@ -3327,7 +4357,12 @@
       "smelly, liar"
     ],
     "source": "M",
-    "original": "tsaqoŋqoŋa (M)"
+    "original": "tsaqoŋqoŋa (M)",
+    "audio": {
+      "slug": "tsaqonxqonxa",
+      "ipay": "dictionary/audio/ipay/tsaqonxqonxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaqonxqonxa.mp3"
+    }
   },
   {
     "id": "2158",
@@ -3340,7 +4375,12 @@
       "roof"
     ],
     "source": "M",
-    "original": "tsaquy(M)"
+    "original": "tsaquy(M)",
+    "audio": {
+      "slug": "tsaquy",
+      "ipay": "dictionary/audio/ipay/tsaquy.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaquy.mp3"
+    }
   },
   {
     "id": "1043",
@@ -3356,7 +4396,12 @@
       "insert flower (to)"
     ],
     "source": "B",
-    "original": "tsaru"
+    "original": "tsaru",
+    "audio": {
+      "slug": "tsaru",
+      "ipay": "dictionary/audio/ipay/tsaru.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsaru.mp3"
+    }
   },
   {
     "id": "1046",
@@ -3372,7 +4417,12 @@
       "wave"
     ],
     "source": "B",
-    "original": "tsatʃin"
+    "original": "tsatʃin",
+    "audio": {
+      "slug": "tsatsxin",
+      "ipay": "dictionary/audio/ipay/tsatsxin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsxin.mp3"
+    }
   },
   {
     "id": "1044",
@@ -3388,7 +4438,12 @@
       "road"
     ],
     "source": "B",
-    "original": "tsatsan"
+    "original": "tsatsan",
+    "audio": {
+      "slug": "tsatsan",
+      "ipay": "dictionary/audio/ipay/tsatsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsan.mp3"
+    }
   },
   {
     "id": "1045",
@@ -3405,7 +4460,12 @@
       "road, stairway"
     ],
     "source": "B",
-    "original": "tsatsan"
+    "original": "tsatsan",
+    "audio": {
+      "slug": "tsatsan",
+      "ipay": "dictionary/audio/ipay/tsatsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsan.mp3"
+    }
   },
   {
     "id": "2159",
@@ -3418,7 +4478,12 @@
       "road"
     ],
     "source": "M",
-    "original": "tsatsan (M)"
+    "original": "tsatsan (M)",
+    "audio": {
+      "slug": "tsatsan",
+      "ipay": "dictionary/audio/ipay/tsatsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsan.mp3"
+    }
   },
   {
     "id": "2160",
@@ -3431,7 +4496,12 @@
       "red dog"
     ],
     "source": "M",
-    "original": "tsatsaq(ə) (M)"
+    "original": "tsatsaq(ə) (M)",
+    "audio": {
+      "slug": "tsatsaq_ox",
+      "ipay": "dictionary/audio/ipay/tsatsaq_ox.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsaq_ox.mp3"
+    }
   },
   {
     "id": "2161",
@@ -3444,7 +4514,12 @@
       "fear"
     ],
     "source": "S",
-    "original": "tsatsaw (S)"
+    "original": "tsatsaw (S)",
+    "audio": {
+      "slug": "tsatsaw",
+      "ipay": "dictionary/audio/ipay/tsatsaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsaw.mp3"
+    }
   },
   {
     "id": "2162",
@@ -3457,7 +4532,12 @@
       "reach out"
     ],
     "source": "T",
-    "original": "tsatsawe"
+    "original": "tsatsawe",
+    "audio": {
+      "slug": "tsatsawe",
+      "ipay": "dictionary/audio/ipay/tsatsawe.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsawe.mp3"
+    }
   },
   {
     "id": "2163",
@@ -3470,7 +4550,12 @@
       "sea, ocean, wave"
     ],
     "source": "T",
-    "original": "tsatsin"
+    "original": "tsatsin",
+    "audio": {
+      "slug": "tsatsin",
+      "ipay": "dictionary/audio/ipay/tsatsin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsin.mp3"
+    }
   },
   {
     "id": "1047",
@@ -3486,7 +4571,12 @@
       "weigh (to)"
     ],
     "source": "B",
-    "original": "tsatsui"
+    "original": "tsatsui",
+    "audio": {
+      "slug": "tsatsui",
+      "ipay": "dictionary/audio/ipay/tsatsui.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsui.mp3"
+    }
   },
   {
     "id": "2165",
@@ -3499,7 +4589,12 @@
       "balance"
     ],
     "source": "M",
-    "original": "tsatsujan (M)"
+    "original": "tsatsujan (M)",
+    "audio": {
+      "slug": "tsatsujan",
+      "ipay": "dictionary/audio/ipay/tsatsujan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsujan.mp3"
+    }
   },
   {
     "id": "1048",
@@ -3515,7 +4610,12 @@
       "balance"
     ],
     "source": "B",
-    "original": "tsatsujen < ian"
+    "original": "tsatsujen < ian",
+    "audio": {
+      "slug": "tsatsujen_ian",
+      "ipay": "dictionary/audio/ipay/tsatsujen_ian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsujen_ian.mp3"
+    }
   },
   {
     "id": "2164",
@@ -3528,7 +4628,12 @@
       "soon"
     ],
     "source": "T",
-    "original": "tsatsuk"
+    "original": "tsatsuk",
+    "audio": {
+      "slug": "tsatsuk",
+      "ipay": "dictionary/audio/ipay/tsatsuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsatsuk.mp3"
+    }
   },
   {
     "id": "2166",
@@ -3541,7 +4646,12 @@
       "sickle"
     ],
     "source": "V",
-    "original": "tsauki (< Taiwanese) (M)"
+    "original": "tsauki (< Taiwanese) (M)",
+    "audio": {
+      "slug": "tsauki",
+      "ipay": "dictionary/audio/ipay/tsauki.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsauki.mp3"
+    }
   },
   {
     "id": "1049",
@@ -3570,7 +4680,12 @@
       "who"
     ],
     "source": "T",
-    "original": "tsaai (M), tsay"
+    "original": "tsaai (M), tsay",
+    "audio": {
+      "slug": "tsay",
+      "ipay": "dictionary/audio/ipay/tsay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsay.mp3"
+    }
   },
   {
     "id": "1051",
@@ -3586,7 +4701,12 @@
       "yesterday"
     ],
     "source": "B",
-    "original": "tselap"
+    "original": "tselap",
+    "audio": {
+      "slug": "tselap",
+      "ipay": "dictionary/audio/ipay/tselap.mp3",
+      "hokkien": "dictionary/audio/hokkien/tselap.mp3"
+    }
   },
   {
     "id": "2167",
@@ -3599,7 +4719,12 @@
       "sun"
     ],
     "source": "M",
-    "original": "tsenal (M)"
+    "original": "tsenal (M)",
+    "audio": {
+      "slug": "tsenal",
+      "ipay": "dictionary/audio/ipay/tsenal.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsenal.mp3"
+    }
   },
   {
     "id": "1052",
@@ -3615,7 +4740,12 @@
       "sun"
     ],
     "source": "B",
-    "original": "tsenal'、 tseniat"
+    "original": "tsenal'、 tseniat",
+    "audio": {
+      "slug": "tsenalx_tseniat",
+      "ipay": "dictionary/audio/ipay/tsenalx_tseniat.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsenalx_tseniat.mp3"
+    }
   },
   {
     "id": "2169",
@@ -3628,7 +4758,12 @@
       "day"
     ],
     "source": "T",
-    "original": "tsian"
+    "original": "tsian",
+    "audio": {
+      "slug": "tsian",
+      "ipay": "dictionary/audio/ipay/tsian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsian.mp3"
+    }
   },
   {
     "id": "2094",
@@ -3641,7 +4776,12 @@
       "stab, stick"
     ],
     "source": "M",
-    "original": "tsikka (M)"
+    "original": "tsikka (M)",
+    "audio": {
+      "slug": "tsikka",
+      "ipay": "dictionary/audio/ipay/tsikka.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsikka.mp3"
+    }
   },
   {
     "id": "2170",
@@ -3654,7 +4794,12 @@
       "tear (to)"
     ],
     "source": "T",
-    "original": "tsilitsilian"
+    "original": "tsilitsilian",
+    "audio": {
+      "slug": "tsilitsilian",
+      "ipay": "dictionary/audio/ipay/tsilitsilian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsilitsilian.mp3"
+    }
   },
   {
     "id": "1056",
@@ -3670,7 +4815,12 @@
       "arm"
     ],
     "source": "B",
-    "original": "tsima"
+    "original": "tsima",
+    "audio": {
+      "slug": "tsima",
+      "ipay": "dictionary/audio/ipay/tsima.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsima.mp3"
+    }
   },
   {
     "id": "2171",
@@ -3683,7 +4833,12 @@
       "hand"
     ],
     "source": "T",
-    "original": "tsima"
+    "original": "tsima",
+    "audio": {
+      "slug": "tsima",
+      "ipay": "dictionary/audio/ipay/tsima.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsima.mp3"
+    }
   },
   {
     "id": "2172",
@@ -3696,7 +4851,12 @@
       "very"
     ],
     "source": "S",
-    "original": "tsinpalaa (S)"
+    "original": "tsinpalaa (S)",
+    "audio": {
+      "slug": "tsinpalaa",
+      "ipay": "dictionary/audio/ipay/tsinpalaa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsinpalaa.mp3"
+    }
   },
   {
     "id": "2173",
@@ -3709,7 +4869,12 @@
       "forget"
     ],
     "source": "M",
-    "original": "tsipaŋ > marqatsipaŋ (M)"
+    "original": "tsipaŋ > marqatsipaŋ (M)",
+    "audio": {
+      "slug": "tsipanx_marqatsipanx",
+      "ipay": "dictionary/audio/ipay/tsipanx_marqatsipanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsipanx_marqatsipanx.mp3"
+    }
   },
   {
     "id": "2174",
@@ -3722,7 +4887,12 @@
       "thunderbolt"
     ],
     "source": "M",
-    "original": "tsitsap (M)"
+    "original": "tsitsap (M)",
+    "audio": {
+      "slug": "tsitsap",
+      "ipay": "dictionary/audio/ipay/tsitsap.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsitsap.mp3"
+    }
   },
   {
     "id": "2175",
@@ -3735,7 +4905,12 @@
       "thread"
     ],
     "source": "M",
-    "original": "tsitsən (M)"
+    "original": "tsitsən (M)",
+    "audio": {
+      "slug": "tsitsoxn",
+      "ipay": "dictionary/audio/ipay/tsitsoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsitsoxn.mp3"
+    }
   },
   {
     "id": "2176",
@@ -3748,7 +4923,12 @@
       "breast"
     ],
     "source": "M",
-    "original": "tsitsu (M)"
+    "original": "tsitsu (M)",
+    "audio": {
+      "slug": "tsitsu",
+      "ipay": "dictionary/audio/ipay/tsitsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsitsu.mp3"
+    }
   },
   {
     "id": "2177",
@@ -3761,7 +4941,12 @@
       "dirt"
     ],
     "source": "M",
-    "original": "tsjaki (M)"
+    "original": "tsjaki (M)",
+    "audio": {
+      "slug": "tsjaki",
+      "ipay": "dictionary/audio/ipay/tsjaki.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjaki.mp3"
+    }
   },
   {
     "id": "2178",
@@ -3774,7 +4959,12 @@
       "many"
     ],
     "source": "S",
-    "original": "tsjamuaza (S)"
+    "original": "tsjamuaza (S)",
+    "audio": {
+      "slug": "tsjamuaza",
+      "ipay": "dictionary/audio/ipay/tsjamuaza.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjamuaza.mp3"
+    }
   },
   {
     "id": "1065",
@@ -3790,7 +4980,12 @@
       "wave"
     ],
     "source": "B",
-    "original": "tsjatsjin"
+    "original": "tsjatsjin",
+    "audio": {
+      "slug": "tsjatsjin",
+      "ipay": "dictionary/audio/ipay/tsjatsjin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjatsjin.mp3"
+    }
   },
   {
     "id": "1066",
@@ -3806,7 +5001,12 @@
       "tomb"
     ],
     "source": "B",
-    "original": "tsjepotsjepo"
+    "original": "tsjepotsjepo",
+    "audio": {
+      "slug": "tsjepotsjepo",
+      "ipay": "dictionary/audio/ipay/tsjepotsjepo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjepotsjepo.mp3"
+    }
   },
   {
     "id": "1068",
@@ -3822,7 +5022,12 @@
       "five"
     ],
     "source": "B",
-    "original": "tsjima"
+    "original": "tsjima",
+    "audio": {
+      "slug": "tsjima",
+      "ipay": "dictionary/audio/ipay/tsjima.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjima.mp3"
+    }
   },
   {
     "id": "1069",
@@ -3839,7 +5044,12 @@
       "breast. milk"
     ],
     "source": "B",
-    "original": "tsjitsu"
+    "original": "tsjitsu",
+    "audio": {
+      "slug": "tsjitsu",
+      "ipay": "dictionary/audio/ipay/tsjitsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsjitsu.mp3"
+    }
   },
   {
     "id": "1070",
@@ -3855,7 +5065,12 @@
       "bow (& arrow)"
     ],
     "source": "B",
-    "original": "tsju: wuDº"
+    "original": "tsju: wuDº",
+    "audio": {
+      "slug": "tsju_wud",
+      "ipay": "dictionary/audio/ipay/tsju_wud.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsju_wud.mp3"
+    }
   },
   {
     "id": "1071",
@@ -3872,7 +5087,12 @@
       "stab, stick"
     ],
     "source": "B",
-    "original": "tska"
+    "original": "tska",
+    "audio": {
+      "slug": "tska",
+      "ipay": "dictionary/audio/ipay/tska.mp3",
+      "hokkien": "dictionary/audio/hokkien/tska.mp3"
+    }
   },
   {
     "id": "1050",
@@ -3888,7 +5108,12 @@
       "stick (to)"
     ],
     "source": "B",
-    "original": "tsəkka"
+    "original": "tsəkka",
+    "audio": {
+      "slug": "tsoxkka",
+      "ipay": "dictionary/audio/ipay/tsoxkka.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsoxkka.mp3"
+    }
   },
   {
     "id": "2168",
@@ -3901,7 +5126,12 @@
       "chop"
     ],
     "source": "T",
-    "original": "tsəktsək. tsumaktsak"
+    "original": "tsəktsək. tsumaktsak",
+    "audio": {
+      "slug": "tsoxktsoxk_tsumaktsak",
+      "ipay": "dictionary/audio/ipay/tsoxktsoxk_tsumaktsak.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsoxktsoxk_tsumaktsak.mp3"
+    }
   },
   {
     "id": "1053",
@@ -3917,7 +5147,12 @@
       "headache"
     ],
     "source": "B",
-    "original": "tsəŋ-tsəŋ"
+    "original": "tsəŋ-tsəŋ",
+    "audio": {
+      "slug": "tsoxnx_tsoxnx",
+      "ipay": "dictionary/audio/ipay/tsoxnx_tsoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsoxnx_tsoxnx.mp3"
+    }
   },
   {
     "id": "1072",
@@ -3933,7 +5168,12 @@
       "three"
     ],
     "source": "B",
-    "original": "tsu"
+    "original": "tsu",
+    "audio": {
+      "slug": "tsu",
+      "ipay": "dictionary/audio/ipay/tsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsu.mp3"
+    }
   },
   {
     "id": "1073",
@@ -3949,7 +5189,12 @@
       "two days after tomorrow"
     ],
     "source": "B",
-    "original": "tsu lijen"
+    "original": "tsu lijen",
+    "audio": {
+      "slug": "tsu_lijen",
+      "ipay": "dictionary/audio/ipay/tsu_lijen.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsu_lijen.mp3"
+    }
   },
   {
     "id": "2179",
@@ -3962,7 +5207,12 @@
       "wear"
     ],
     "source": "M",
-    "original": "tsuaqai (M)"
+    "original": "tsuaqai (M)",
+    "audio": {
+      "slug": "tsuaqai",
+      "ipay": "dictionary/audio/ipay/tsuaqai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuaqai.mp3"
+    }
   },
   {
     "id": "2180",
@@ -3975,7 +5225,12 @@
       "this, that"
     ],
     "source": "T",
-    "original": "tsuay. tsumuay"
+    "original": "tsuay. tsumuay",
+    "audio": {
+      "slug": "tsuay_tsumuay",
+      "ipay": "dictionary/audio/ipay/tsuay_tsumuay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuay_tsumuay.mp3"
+    }
   },
   {
     "id": "2181",
@@ -3988,7 +5243,12 @@
       "urine"
     ],
     "source": "M",
-    "original": "tsubu (M)"
+    "original": "tsubu (M)",
+    "audio": {
+      "slug": "tsubu",
+      "ipay": "dictionary/audio/ipay/tsubu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsubu.mp3"
+    }
   },
   {
     "id": "1074",
@@ -4004,7 +5264,12 @@
       "key"
     ],
     "source": "B",
-    "original": "tsuktsuk"
+    "original": "tsuktsuk",
+    "audio": {
+      "slug": "tsuktsuk",
+      "ipay": "dictionary/audio/ipay/tsuktsuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuktsuk.mp3"
+    }
   },
   {
     "id": "2182",
@@ -4017,7 +5282,12 @@
       "key, lock"
     ],
     "source": "M",
-    "original": "tsuktsuk (M)"
+    "original": "tsuktsuk (M)",
+    "audio": {
+      "slug": "tsuktsuk",
+      "ipay": "dictionary/audio/ipay/tsuktsuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuktsuk.mp3"
+    }
   },
   {
     "id": "2185",
@@ -4030,7 +5300,12 @@
       "order"
     ],
     "source": "T",
-    "original": "tsuɭuŋ"
+    "original": "tsuɭuŋ",
+    "audio": {
+      "slug": "tsulxunx",
+      "ipay": "dictionary/audio/ipay/tsulxunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsulxunx.mp3"
+    }
   },
   {
     "id": "1075",
@@ -4059,7 +5334,12 @@
       "work"
     ],
     "source": "T",
-    "original": "tsulaktsakay"
+    "original": "tsulaktsakay",
+    "audio": {
+      "slug": "tsulaktsakay",
+      "ipay": "dictionary/audio/ipay/tsulaktsakay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsulaktsakay.mp3"
+    }
   },
   {
     "id": "2184",
@@ -4072,7 +5352,12 @@
       "promise, letter"
     ],
     "source": "M",
-    "original": "tsulal (M)"
+    "original": "tsulal (M)",
+    "audio": {
+      "slug": "tsulal",
+      "ipay": "dictionary/audio/ipay/tsulal.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsulal.mp3"
+    }
   },
   {
     "id": "1076",
@@ -4089,7 +5374,12 @@
       "letter, write (to)"
     ],
     "source": "B",
-    "original": "tsulat"
+    "original": "tsulat",
+    "audio": {
+      "slug": "tsulat",
+      "ipay": "dictionary/audio/ipay/tsulat.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsulat.mp3"
+    }
   },
   {
     "id": "1077",
@@ -4105,7 +5395,12 @@
       "dig"
     ],
     "source": "B",
-    "original": "tsumahu"
+    "original": "tsumahu",
+    "audio": {
+      "slug": "tsumahu",
+      "ipay": "dictionary/audio/ipay/tsumahu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumahu.mp3"
+    }
   },
   {
     "id": "2187",
@@ -4118,7 +5413,12 @@
       "walk"
     ],
     "source": "M",
-    "original": "tsumakai (M)"
+    "original": "tsumakai (M)",
+    "audio": {
+      "slug": "tsumakai",
+      "ipay": "dictionary/audio/ipay/tsumakai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumakai.mp3"
+    }
   },
   {
     "id": "1078",
@@ -4134,7 +5434,12 @@
       "arrive"
     ],
     "source": "B",
-    "original": "tsumakai na"
+    "original": "tsumakai na",
+    "audio": {
+      "slug": "tsumakai_na",
+      "ipay": "dictionary/audio/ipay/tsumakai_na.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumakai_na.mp3"
+    }
   },
   {
     "id": "1079",
@@ -4166,7 +5471,12 @@
       "morning sickness"
     ],
     "source": "B",
-    "original": "tsumakau"
+    "original": "tsumakau",
+    "audio": {
+      "slug": "tsumakau",
+      "ipay": "dictionary/audio/ipay/tsumakau.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumakau.mp3"
+    }
   },
   {
     "id": "2188",
@@ -4179,7 +5489,12 @@
       "chop"
     ],
     "source": "T",
-    "original": "tsumaktsak"
+    "original": "tsumaktsak",
+    "audio": {
+      "slug": "tsumaktsak",
+      "ipay": "dictionary/audio/ipay/tsumaktsak.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumaktsak.mp3"
+    }
   },
   {
     "id": "2190",
@@ -4192,7 +5507,12 @@
       "walk around"
     ],
     "source": "T",
-    "original": "tsumaktsakay"
+    "original": "tsumaktsakay",
+    "audio": {
+      "slug": "tsumaktsakay",
+      "ipay": "dictionary/audio/ipay/tsumaktsakay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumaktsakay.mp3"
+    }
   },
   {
     "id": "2189",
@@ -4205,7 +5525,12 @@
       "comet"
     ],
     "source": "M",
-    "original": "tsumaktsdkai na burtlan (M)"
+    "original": "tsumaktsdkai na burtlan (M)",
+    "audio": {
+      "slug": "tsumaktsdkai_na_burtlan",
+      "ipay": "dictionary/audio/ipay/tsumaktsdkai_na_burtlan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumaktsdkai_na_burtlan.mp3"
+    }
   },
   {
     "id": "2192",
@@ -4218,7 +5543,12 @@
       "dawn"
     ],
     "source": "T",
-    "original": "tsumaɭappa"
+    "original": "tsumaɭappa",
+    "audio": {
+      "slug": "tsumalxappa",
+      "ipay": "dictionary/audio/ipay/tsumalxappa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumalxappa.mp3"
+    }
   },
   {
     "id": "2191",
@@ -4231,7 +5561,12 @@
       "write a letter"
     ],
     "source": "M",
-    "original": "tsumalal (M)"
+    "original": "tsumalal (M)",
+    "audio": {
+      "slug": "tsumalal",
+      "ipay": "dictionary/audio/ipay/tsumalal.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumalal.mp3"
+    }
   },
   {
     "id": "2193",
@@ -4244,7 +5579,12 @@
       "pinch (to)"
     ],
     "source": "M",
-    "original": "tsumapepet (M)"
+    "original": "tsumapepet (M)",
+    "audio": {
+      "slug": "tsumapepet",
+      "ipay": "dictionary/audio/ipay/tsumapepet.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumapepet.mp3"
+    }
   },
   {
     "id": "2194",
@@ -4257,7 +5597,12 @@
       "fill up the crevice"
     ],
     "source": "M",
-    "original": "tsumaptsap (M)"
+    "original": "tsumaptsap (M)",
+    "audio": {
+      "slug": "tsumaptsap",
+      "ipay": "dictionary/audio/ipay/tsumaptsap.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumaptsap.mp3"
+    }
   },
   {
     "id": "2195",
@@ -4270,7 +5615,12 @@
       "anxious"
     ],
     "source": "T",
-    "original": "tsumatnaq"
+    "original": "tsumatnaq",
+    "audio": {
+      "slug": "tsumatnaq",
+      "ipay": "dictionary/audio/ipay/tsumatnaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumatnaq.mp3"
+    }
   },
   {
     "id": "2196",
@@ -4283,7 +5633,12 @@
       "weigh"
     ],
     "source": "M",
-    "original": "tsumatsui (M)"
+    "original": "tsumatsui (M)",
+    "audio": {
+      "slug": "tsumatsui",
+      "ipay": "dictionary/audio/ipay/tsumatsui.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumatsui.mp3"
+    }
   },
   {
     "id": "2197",
@@ -4296,7 +5651,12 @@
       "stumping"
     ],
     "source": "M",
-    "original": "tsumawakk(ə)(M)"
+    "original": "tsumawakk(ə)(M)",
+    "audio": {
+      "slug": "tsumawakk_ox",
+      "ipay": "dictionary/audio/ipay/tsumawakk_ox.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumawakk_ox.mp3"
+    }
   },
   {
     "id": "2198",
@@ -4309,7 +5669,12 @@
       "worry, doubt"
     ],
     "source": "T",
-    "original": "tsumay"
+    "original": "tsumay",
+    "audio": {
+      "slug": "tsumay",
+      "ipay": "dictionary/audio/ipay/tsumay.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumay.mp3"
+    }
   },
   {
     "id": "2199",
@@ -4322,7 +5687,12 @@
       "lick"
     ],
     "source": "M",
-    "original": "tsumilam (M)"
+    "original": "tsumilam (M)",
+    "audio": {
+      "slug": "tsumilam",
+      "ipay": "dictionary/audio/ipay/tsumilam.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumilam.mp3"
+    }
   },
   {
     "id": "2200",
@@ -4335,7 +5705,12 @@
       "ugly"
     ],
     "source": "M",
-    "original": "tsuminam (M)"
+    "original": "tsuminam (M)",
+    "audio": {
+      "slug": "tsuminam",
+      "ipay": "dictionary/audio/ipay/tsuminam.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuminam.mp3"
+    }
   },
   {
     "id": "2201",
@@ -4348,7 +5723,12 @@
       "cry"
     ],
     "source": "S",
-    "original": "tsumisin (S)"
+    "original": "tsumisin (S)",
+    "audio": {
+      "slug": "tsumisin",
+      "ipay": "dictionary/audio/ipay/tsumisin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumisin.mp3"
+    }
   },
   {
     "id": "2202",
@@ -4361,7 +5741,12 @@
       "speculate"
     ],
     "source": "T",
-    "original": "tsumiunata"
+    "original": "tsumiunata",
+    "audio": {
+      "slug": "tsumiunata",
+      "ipay": "dictionary/audio/ipay/tsumiunata.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumiunata.mp3"
+    }
   },
   {
     "id": "1081",
@@ -4377,7 +5762,12 @@
       "write (to)"
     ],
     "source": "B",
-    "original": "tsumulat"
+    "original": "tsumulat",
+    "audio": {
+      "slug": "tsumulat",
+      "ipay": "dictionary/audio/ipay/tsumulat.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumulat.mp3"
+    }
   },
   {
     "id": "1082",
@@ -4393,7 +5783,12 @@
       "smoke tobacco (to)"
     ],
     "source": "B",
-    "original": "tsumupa"
+    "original": "tsumupa",
+    "audio": {
+      "slug": "tsumupa",
+      "ipay": "dictionary/audio/ipay/tsumupa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumupa.mp3"
+    }
   },
   {
     "id": "1083",
@@ -4409,7 +5804,12 @@
       "smoke tobacco"
     ],
     "source": "B",
-    "original": "tsumupa"
+    "original": "tsumupa",
+    "audio": {
+      "slug": "tsumupa",
+      "ipay": "dictionary/audio/ipay/tsumupa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumupa.mp3"
+    }
   },
   {
     "id": "2204",
@@ -4422,7 +5822,12 @@
       "burn, broil"
     ],
     "source": "M",
-    "original": "tutsik (M), tsumutsikka (M)"
+    "original": "tutsik (M), tsumutsikka (M)",
+    "audio": {
+      "slug": "tsumutsikka",
+      "ipay": "dictionary/audio/ipay/tsumutsikka.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsumutsikka.mp3"
+    }
   },
   {
     "id": "2205",
@@ -4435,7 +5840,12 @@
       "call, riverside"
     ],
     "source": "T",
-    "original": "tsuŋan"
+    "original": "tsuŋan",
+    "audio": {
+      "slug": "tsunxan",
+      "ipay": "dictionary/audio/ipay/tsunxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsunxan.mp3"
+    }
   },
   {
     "id": "2206",
@@ -4448,7 +5858,12 @@
       "split"
     ],
     "source": "T",
-    "original": "tsuppe"
+    "original": "tsuppe",
+    "audio": {
+      "slug": "tsuppe",
+      "ipay": "dictionary/audio/ipay/tsuppe.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuppe.mp3"
+    }
   },
   {
     "id": "1084",
@@ -4465,7 +5880,12 @@
       "suck (to)"
     ],
     "source": "B",
-    "original": "tsuptsup"
+    "original": "tsuptsup",
+    "audio": {
+      "slug": "tsuptsup",
+      "ipay": "dictionary/audio/ipay/tsuptsup.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuptsup.mp3"
+    }
   },
   {
     "id": "2207",
@@ -4478,7 +5898,12 @@
       "leu of deer"
     ],
     "source": "T",
-    "original": "tsupu"
+    "original": "tsupu",
+    "audio": {
+      "slug": "tsupu",
+      "ipay": "dictionary/audio/ipay/tsupu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsupu.mp3"
+    }
   },
   {
     "id": "2208",
@@ -4491,7 +5916,12 @@
       "trousers"
     ],
     "source": "M",
-    "original": "tsurukun (M)"
+    "original": "tsurukun (M)",
+    "audio": {
+      "slug": "tsurukun",
+      "ipay": "dictionary/audio/ipay/tsurukun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsurukun.mp3"
+    }
   },
   {
     "id": "2209",
@@ -4504,7 +5934,12 @@
       "rin"
     ],
     "source": "M",
-    "original": "tsutsuvaqqa (M)"
+    "original": "tsutsuvaqqa (M)",
+    "audio": {
+      "slug": "tsutsuvaqqa",
+      "ipay": "dictionary/audio/ipay/tsutsuvaqqa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsutsuvaqqa.mp3"
+    }
   },
   {
     "id": "2186",
@@ -4517,7 +5952,12 @@
       "order"
     ],
     "source": "T",
-    "original": "tsuɮuŋ"
+    "original": "tsuɮuŋ",
+    "audio": {
+      "slug": "tsuzxunx",
+      "ipay": "dictionary/audio/ipay/tsuzxunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuzxunx.mp3"
+    }
   },
   {
     "id": "2210",
@@ -4530,7 +5970,12 @@
       "throw to"
     ],
     "source": "T",
-    "original": "tsuzuan"
+    "original": "tsuzuan",
+    "audio": {
+      "slug": "tsuzuan",
+      "ipay": "dictionary/audio/ipay/tsuzuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsuzuan.mp3"
+    }
   },
   {
     "id": "2211",
@@ -4543,7 +5988,12 @@
       "rubber"
     ],
     "source": "T",
-    "original": "tsyuliŋ"
+    "original": "tsyuliŋ",
+    "audio": {
+      "slug": "tsyulinx",
+      "ipay": "dictionary/audio/ipay/tsyulinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tsyulinx.mp3"
+    }
   },
   {
     "id": "2105",
@@ -4556,7 +6006,12 @@
       "cough"
     ],
     "source": "M",
-    "original": "tuava (M)"
+    "original": "tuava (M)",
+    "audio": {
+      "slug": "tuava",
+      "ipay": "dictionary/audio/ipay/tuava.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuava.mp3"
+    }
   },
   {
     "id": "1085",
@@ -4572,7 +6027,12 @@
       "needle"
     ],
     "source": "B",
-    "original": "tubu"
+    "original": "tubu",
+    "audio": {
+      "slug": "tubu",
+      "ipay": "dictionary/audio/ipay/tubu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tubu.mp3"
+    }
   },
   {
     "id": "2106",
@@ -4585,7 +6045,12 @@
       "earth worm"
     ],
     "source": "V",
-    "original": "tukin (< Taiwanese) (M)"
+    "original": "tukin (< Taiwanese) (M)",
+    "audio": {
+      "slug": "tukin",
+      "ipay": "dictionary/audio/ipay/tukin.mp3",
+      "hokkien": "dictionary/audio/hokkien/tukin.mp3"
+    }
   },
   {
     "id": "2107",
@@ -4598,7 +6063,12 @@
       "shoulder"
     ],
     "source": "M",
-    "original": "tukuaz (M)"
+    "original": "tukuaz (M)",
+    "audio": {
+      "slug": "tukuaz",
+      "ipay": "dictionary/audio/ipay/tukuaz.mp3",
+      "hokkien": "dictionary/audio/hokkien/tukuaz.mp3"
+    }
   },
   {
     "id": "2109",
@@ -4611,7 +6081,12 @@
       "nose flute"
     ],
     "source": "T",
-    "original": "tuɭian"
+    "original": "tuɭian",
+    "audio": {
+      "slug": "tulxian",
+      "ipay": "dictionary/audio/ipay/tulxian.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulxian.mp3"
+    }
   },
   {
     "id": "2110",
@@ -4624,7 +6099,12 @@
       "play nose flute"
     ],
     "source": "T",
-    "original": "tuɭnian. tumuɭani"
+    "original": "tuɭnian. tumuɭani",
+    "audio": {
+      "slug": "tulxnian_tumulxani",
+      "ipay": "dictionary/audio/ipay/tulxnian_tumulxani.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulxnian_tumulxani.mp3"
+    }
   },
   {
     "id": "2111",
@@ -4637,7 +6117,12 @@
       "get close"
     ],
     "source": "T",
-    "original": "tuɭpi"
+    "original": "tuɭpi",
+    "audio": {
+      "slug": "tulxpi",
+      "ipay": "dictionary/audio/ipay/tulxpi.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulxpi.mp3"
+    }
   },
   {
     "id": "2108",
@@ -4650,7 +6135,12 @@
       "bone"
     ],
     "source": "T",
-    "original": "tulan"
+    "original": "tulan",
+    "audio": {
+      "slug": "tulan",
+      "ipay": "dictionary/audio/ipay/tulan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulan.mp3"
+    }
   },
   {
     "id": "1086",
@@ -4666,7 +6156,12 @@
       "thumb"
     ],
     "source": "B",
-    "original": "tulis a utsu"
+    "original": "tulis a utsu",
+    "audio": {
+      "slug": "tulis_a_utsu",
+      "ipay": "dictionary/audio/ipay/tulis_a_utsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulis_a_utsu.mp3"
+    }
   },
   {
     "id": "1087",
@@ -4683,7 +6178,12 @@
       "toe. finger"
     ],
     "source": "B",
-    "original": "tulisse"
+    "original": "tulisse",
+    "audio": {
+      "slug": "tulisse",
+      "ipay": "dictionary/audio/ipay/tulisse.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulisse.mp3"
+    }
   },
   {
     "id": "1088",
@@ -4699,7 +6199,12 @@
       "drum"
     ],
     "source": "B",
-    "original": "tuluŋtuŋ"
+    "original": "tuluŋtuŋ",
+    "audio": {
+      "slug": "tulunxtunx",
+      "ipay": "dictionary/audio/ipay/tulunxtunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tulunxtunx.mp3"
+    }
   },
   {
     "id": "2112",
@@ -4712,7 +6217,12 @@
       "taste (to)"
     ],
     "source": "M",
-    "original": "tumalam (M)"
+    "original": "tumalam (M)",
+    "audio": {
+      "slug": "tumalam",
+      "ipay": "dictionary/audio/ipay/tumalam.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumalam.mp3"
+    }
   },
   {
     "id": "1089",
@@ -4728,7 +6238,12 @@
       "name of a village"
     ],
     "source": "B",
-    "original": "tuman"
+    "original": "tuman",
+    "audio": {
+      "slug": "tuman",
+      "ipay": "dictionary/audio/ipay/tuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuman.mp3"
+    }
   },
   {
     "id": "1090",
@@ -4744,7 +6259,12 @@
       "downstream"
     ],
     "source": "B",
-    "original": "tuman"
+    "original": "tuman",
+    "audio": {
+      "slug": "tuman",
+      "ipay": "dictionary/audio/ipay/tuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuman.mp3"
+    }
   },
   {
     "id": "1091",
@@ -4760,7 +6280,12 @@
       "worship"
     ],
     "source": "B",
-    "original": "tuman"
+    "original": "tuman",
+    "audio": {
+      "slug": "tuman",
+      "ipay": "dictionary/audio/ipay/tuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuman.mp3"
+    }
   },
   {
     "id": "2113",
@@ -4773,7 +6298,12 @@
       "name of a village"
     ],
     "source": "M",
-    "original": "tuman (M)"
+    "original": "tuman (M)",
+    "audio": {
+      "slug": "tuman",
+      "ipay": "dictionary/audio/ipay/tuman.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuman.mp3"
+    }
   },
   {
     "id": "1092",
@@ -4789,7 +6319,12 @@
       "worship (to)"
     ],
     "source": "B",
-    "original": "tuman u samiai"
+    "original": "tuman u samiai",
+    "audio": {
+      "slug": "tuman_u_samiai",
+      "ipay": "dictionary/audio/ipay/tuman_u_samiai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuman_u_samiai.mp3"
+    }
   },
   {
     "id": "2115",
@@ -4802,7 +6337,12 @@
       "cry"
     ],
     "source": "T",
-    "original": "tumaŋits"
+    "original": "tumaŋits",
+    "audio": {
+      "slug": "tumanxits",
+      "ipay": "dictionary/audio/ipay/tumanxits.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumanxits.mp3"
+    }
   },
   {
     "id": "2114",
@@ -4815,7 +6355,12 @@
       "leave behind"
     ],
     "source": "T",
-    "original": "tumanan"
+    "original": "tumanan",
+    "audio": {
+      "slug": "tumanan",
+      "ipay": "dictionary/audio/ipay/tumanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumanan.mp3"
+    }
   },
   {
     "id": "2116",
@@ -4828,7 +6373,12 @@
       "sympathize"
     ],
     "source": "T",
-    "original": "tumasa"
+    "original": "tumasa",
+    "audio": {
+      "slug": "tumasa",
+      "ipay": "dictionary/audio/ipay/tumasa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumasa.mp3"
+    }
   },
   {
     "id": "2117",
@@ -4841,7 +6391,12 @@
       "cut trees, wrap"
     ],
     "source": "T",
-    "original": "tumavu"
+    "original": "tumavu",
+    "audio": {
+      "slug": "tumavu",
+      "ipay": "dictionary/audio/ipay/tumavu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumavu.mp3"
+    }
   },
   {
     "id": "2118",
@@ -4854,7 +6409,12 @@
       "to ship cargo"
     ],
     "source": "T",
-    "original": "tumavuli"
+    "original": "tumavuli",
+    "audio": {
+      "slug": "tumavuli",
+      "ipay": "dictionary/audio/ipay/tumavuli.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumavuli.mp3"
+    }
   },
   {
     "id": "2073",
@@ -4867,7 +6427,12 @@
       "entrap"
     ],
     "source": "M",
-    "original": "tikas, tumikas (M)"
+    "original": "tikas, tumikas (M)",
+    "audio": {
+      "slug": "tumikas",
+      "ipay": "dictionary/audio/ipay/tumikas.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumikas.mp3"
+    }
   },
   {
     "id": "2119",
@@ -4880,7 +6445,12 @@
       "kick"
     ],
     "source": "M",
-    "original": "tumikzon (M)"
+    "original": "tumikzon (M)",
+    "audio": {
+      "slug": "tumikzon",
+      "ipay": "dictionary/audio/ipay/tumikzon.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumikzon.mp3"
+    }
   },
   {
     "id": "1346",
@@ -4893,7 +6463,12 @@
       "cloth"
     ],
     "source": "T",
-    "original": "lawa (M), tuminun"
+    "original": "lawa (M), tuminun",
+    "audio": {
+      "slug": "tuminun",
+      "ipay": "dictionary/audio/ipay/tuminun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuminun.mp3"
+    }
   },
   {
     "id": "2120",
@@ -4906,7 +6481,12 @@
       "bleed"
     ],
     "source": "T",
-    "original": "tumitsa"
+    "original": "tumitsa",
+    "audio": {
+      "slug": "tumitsa",
+      "ipay": "dictionary/audio/ipay/tumitsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumitsa.mp3"
+    }
   },
   {
     "id": "1262",
@@ -4919,7 +6499,12 @@
       "bite"
     ],
     "source": "T",
-    "original": "klatan, mqalat (M), tumozo"
+    "original": "klatan, mqalat (M), tumozo",
+    "audio": {
+      "slug": "tumozo",
+      "ipay": "dictionary/audio/ipay/tumozo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumozo.mp3"
+    }
   },
   {
     "id": "1093",
@@ -4935,7 +6520,12 @@
       "walk with a cane (to)"
     ],
     "source": "B",
-    "original": "tumuhol'"
+    "original": "tumuhol'",
+    "audio": {
+      "slug": "tumuholx",
+      "ipay": "dictionary/audio/ipay/tumuholx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumuholx.mp3"
+    }
   },
   {
     "id": "1094",
@@ -4953,7 +6543,12 @@
       "support (to). lean on a stick"
     ],
     "source": "B",
-    "original": "tumuhul'"
+    "original": "tumuhul'",
+    "audio": {
+      "slug": "tumuhulx",
+      "ipay": "dictionary/audio/ipay/tumuhulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumuhulx.mp3"
+    }
   },
   {
     "id": "2121",
@@ -4966,7 +6561,12 @@
       "hall"
     ],
     "source": "T",
-    "original": "tumunaw"
+    "original": "tumunaw",
+    "audio": {
+      "slug": "tumunaw",
+      "ipay": "dictionary/audio/ipay/tumunaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumunaw.mp3"
+    }
   },
   {
     "id": "2122",
@@ -4979,7 +6579,12 @@
       "kiss"
     ],
     "source": "M",
-    "original": "tumunu (M)"
+    "original": "tumunu (M)",
+    "audio": {
+      "slug": "tumunu",
+      "ipay": "dictionary/audio/ipay/tumunu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumunu.mp3"
+    }
   },
   {
     "id": "1095",
@@ -4995,7 +6600,12 @@
       "bamboo shoot"
     ],
     "source": "B",
-    "original": "tumusun"
+    "original": "tumusun",
+    "audio": {
+      "slug": "tumusun",
+      "ipay": "dictionary/audio/ipay/tumusun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumusun.mp3"
+    }
   },
   {
     "id": "1096",
@@ -5011,7 +6621,12 @@
       "bud (to)"
     ],
     "source": "B",
-    "original": "tumusun"
+    "original": "tumusun",
+    "audio": {
+      "slug": "tumusun",
+      "ipay": "dictionary/audio/ipay/tumusun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumusun.mp3"
+    }
   },
   {
     "id": "2123",
@@ -5024,7 +6639,12 @@
       "pour"
     ],
     "source": "M",
-    "original": "tumutoɭo (M)"
+    "original": "tumutoɭo (M)",
+    "audio": {
+      "slug": "tumutolxo",
+      "ipay": "dictionary/audio/ipay/tumutolxo.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumutolxo.mp3"
+    }
   },
   {
     "id": "2124",
@@ -5037,7 +6657,12 @@
       "pluck"
     ],
     "source": "T",
-    "original": "tumutus"
+    "original": "tumutus",
+    "audio": {
+      "slug": "tumutus",
+      "ipay": "dictionary/audio/ipay/tumutus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumutus.mp3"
+    }
   },
   {
     "id": "2125",
@@ -5050,7 +6675,12 @@
       "worship"
     ],
     "source": "M",
-    "original": "tumuvan (M)"
+    "original": "tumuvan (M)",
+    "audio": {
+      "slug": "tumuvan",
+      "ipay": "dictionary/audio/ipay/tumuvan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumuvan.mp3"
+    }
   },
   {
     "id": "2127",
@@ -5076,7 +6706,12 @@
       "ask"
     ],
     "source": "T",
-    "original": "tumuzu"
+    "original": "tumuzu",
+    "audio": {
+      "slug": "tumuzu",
+      "ipay": "dictionary/audio/ipay/tumuzu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tumuzu.mp3"
+    }
   },
   {
     "id": "2129",
@@ -5089,7 +6724,12 @@
       "coffin ."
     ],
     "source": "M",
-    "original": "tuŋuran (M)"
+    "original": "tuŋuran (M)",
+    "audio": {
+      "slug": "tunxuran",
+      "ipay": "dictionary/audio/ipay/tunxuran.mp3",
+      "hokkien": "dictionary/audio/hokkien/tunxuran.mp3"
+    }
   },
   {
     "id": "2128",
@@ -5102,7 +6742,12 @@
       "glutinous rice"
     ],
     "source": "T",
-    "original": "tunuzun"
+    "original": "tunuzun",
+    "audio": {
+      "slug": "tunuzun",
+      "ipay": "dictionary/audio/ipay/tunuzun.mp3",
+      "hokkien": "dictionary/audio/hokkien/tunuzun.mp3"
+    }
   },
   {
     "id": "2130",
@@ -5115,7 +6760,12 @@
       "fall, drop ."
     ],
     "source": "T",
-    "original": "tupiq"
+    "original": "tupiq",
+    "audio": {
+      "slug": "tupiq",
+      "ipay": "dictionary/audio/ipay/tupiq.mp3",
+      "hokkien": "dictionary/audio/hokkien/tupiq.mp3"
+    }
   },
   {
     "id": "2131",
@@ -5128,7 +6778,12 @@
       "chop"
     ],
     "source": "T",
-    "original": "tupuqan"
+    "original": "tupuqan",
+    "audio": {
+      "slug": "tupuqan",
+      "ipay": "dictionary/audio/ipay/tupuqan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tupuqan.mp3"
+    }
   },
   {
     "id": "1659",
@@ -5141,7 +6796,12 @@
       "idle"
     ],
     "source": "M",
-    "original": "mvaɭa, tupus (M)"
+    "original": "mvaɭa, tupus (M)",
+    "audio": {
+      "slug": "tupus",
+      "ipay": "dictionary/audio/ipay/tupus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tupus.mp3"
+    }
   },
   {
     "id": "2132",
@@ -5154,7 +6814,12 @@
       "turn around"
     ],
     "source": "T",
-    "original": "tuqinilan"
+    "original": "tuqinilan",
+    "audio": {
+      "slug": "tuqinilan",
+      "ipay": "dictionary/audio/ipay/tuqinilan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuqinilan.mp3"
+    }
   },
   {
     "id": "2133",
@@ -5167,7 +6832,12 @@
       "chicken"
     ],
     "source": "T",
-    "original": "tuquqa"
+    "original": "tuquqa",
+    "audio": {
+      "slug": "tuquqa",
+      "ipay": "dictionary/audio/ipay/tuquqa.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuquqa.mp3"
+    }
   },
   {
     "id": "2203",
@@ -5180,7 +6850,12 @@
       "burn, broil"
     ],
     "source": "M",
-    "original": "tutsik (M), tsumutsikka (M)"
+    "original": "tutsik (M), tsumutsikka (M)",
+    "audio": {
+      "slug": "tutsik",
+      "ipay": "dictionary/audio/ipay/tutsik.mp3",
+      "hokkien": "dictionary/audio/hokkien/tutsik.mp3"
+    }
   },
   {
     "id": "2134",
@@ -5193,7 +6868,12 @@
       "pour"
     ],
     "source": "T",
-    "original": "tutu"
+    "original": "tutu",
+    "audio": {
+      "slug": "tutu",
+      "ipay": "dictionary/audio/ipay/tutu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tutu.mp3"
+    }
   },
   {
     "id": "2135",
@@ -5206,7 +6886,12 @@
       "bald"
     ],
     "source": "M",
-    "original": "tutus (M)"
+    "original": "tutus (M)",
+    "audio": {
+      "slug": "tutus",
+      "ipay": "dictionary/audio/ipay/tutus.mp3",
+      "hokkien": "dictionary/audio/hokkien/tutus.mp3"
+    }
   },
   {
     "id": "2136",
@@ -5219,7 +6904,12 @@
       "force, compel"
     ],
     "source": "T",
-    "original": "tututuan"
+    "original": "tututuan",
+    "audio": {
+      "slug": "tututuan",
+      "ipay": "dictionary/audio/ipay/tututuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tututuan.mp3"
+    }
   },
   {
     "id": "2137",
@@ -5232,7 +6922,12 @@
       "mausoleum"
     ],
     "source": "M",
-    "original": "tuvanan u sumiai (M)"
+    "original": "tuvanan u sumiai (M)",
+    "audio": {
+      "slug": "tuvanan_u_sumiai",
+      "ipay": "dictionary/audio/ipay/tuvanan_u_sumiai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvanan_u_sumiai.mp3"
+    }
   },
   {
     "id": "2138",
@@ -5245,7 +6940,12 @@
       "last until the next day"
     ],
     "source": "T",
-    "original": "tuvanania"
+    "original": "tuvanania",
+    "audio": {
+      "slug": "tuvanania",
+      "ipay": "dictionary/audio/ipay/tuvanania.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvanania.mp3"
+    }
   },
   {
     "id": "2139",
@@ -5258,7 +6958,12 @@
       "next day"
     ],
     "source": "T",
-    "original": "tuvania"
+    "original": "tuvania",
+    "audio": {
+      "slug": "tuvania",
+      "ipay": "dictionary/audio/ipay/tuvania.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvania.mp3"
+    }
   },
   {
     "id": "2140",
@@ -5271,7 +6976,12 @@
       "next morning"
     ],
     "source": "M",
-    "original": "tuvanumtaval (M)"
+    "original": "tuvanumtaval (M)",
+    "audio": {
+      "slug": "tuvanumtaval",
+      "ipay": "dictionary/audio/ipay/tuvanumtaval.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvanumtaval.mp3"
+    }
   },
   {
     "id": "2141",
@@ -5284,7 +6994,12 @@
       "needle"
     ],
     "source": "M",
-    "original": "tuvu (M)"
+    "original": "tuvu (M)",
+    "audio": {
+      "slug": "tuvu",
+      "ipay": "dictionary/audio/ipay/tuvu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvu.mp3"
+    }
   },
   {
     "id": "2142",
@@ -5297,7 +7012,12 @@
       "sew"
     ],
     "source": "T",
-    "original": "tuvu, tuvutuvu"
+    "original": "tuvu, tuvutuvu",
+    "audio": {
+      "slug": "tuvu",
+      "ipay": "dictionary/audio/ipay/tuvu.mp3",
+      "hokkien": "dictionary/audio/hokkien/tuvu.mp3"
+    }
   },
   {
     "id": "2143",
@@ -5323,7 +7043,12 @@
       "tobacco"
     ],
     "source": "M",
-    "original": "tvaku (M)"
+    "original": "tvaku (M)",
+    "audio": {
+      "slug": "tvaku",
+      "ipay": "dictionary/audio/ipay/tvaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/tvaku.mp3"
+    }
   },
   {
     "id": "2145",
@@ -5336,7 +7061,12 @@
       "tomorrow"
     ],
     "source": "M",
-    "original": "tvan (M)"
+    "original": "tvan (M)",
+    "audio": {
+      "slug": "tvan",
+      "ipay": "dictionary/audio/ipay/tvan.mp3",
+      "hokkien": "dictionary/audio/hokkien/tvan.mp3"
+    }
   },
   {
     "id": "2086",
@@ -5349,6 +7079,11 @@
       "ancient"
     ],
     "source": "T",
-    "original": "tɮai, trai (S), trayazay"
+    "original": "tɮai, trai (S), trayazay",
+    "audio": {
+      "slug": "tzxai",
+      "ipay": "dictionary/audio/ipay/tzxai.mp3",
+      "hokkien": "dictionary/audio/hokkien/tzxai.mp3"
+    }
   }
 ]

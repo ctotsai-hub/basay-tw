@@ -10,7 +10,12 @@
       "leg"
     ],
     "source": "T",
-    "original": "qaay"
+    "original": "qaay",
+    "audio": {
+      "slug": "qaay",
+      "ipay": "dictionary/audio/ipay/qaay.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaay.mp3"
+    }
   },
   {
     "id": "1815",
@@ -23,7 +28,12 @@
       "stiff"
     ],
     "source": "T",
-    "original": "qabsən"
+    "original": "qabsən",
+    "audio": {
+      "slug": "qabsoxn",
+      "ipay": "dictionary/audio/ipay/qabsoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/qabsoxn.mp3"
+    }
   },
   {
     "id": "1816",
@@ -36,7 +46,12 @@
       "abalone"
     ],
     "source": "M",
-    "original": "qael (M)"
+    "original": "qael (M)",
+    "audio": {
+      "slug": "qael",
+      "ipay": "dictionary/audio/ipay/qael.mp3",
+      "hokkien": "dictionary/audio/hokkien/qael.mp3"
+    }
   },
   {
     "id": "1817",
@@ -49,7 +64,12 @@
       "tile (on the roof)"
     ],
     "source": "M",
-    "original": "qaia (M)"
+    "original": "qaia (M)",
+    "audio": {
+      "slug": "qaia",
+      "ipay": "dictionary/audio/ipay/qaia.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaia.mp3"
+    }
   },
   {
     "id": "1818",
@@ -62,7 +82,12 @@
       "edge"
     ],
     "source": "M",
-    "original": "qainil (M)"
+    "original": "qainil (M)",
+    "audio": {
+      "slug": "qainil",
+      "ipay": "dictionary/audio/ipay/qainil.mp3",
+      "hokkien": "dictionary/audio/hokkien/qainil.mp3"
+    }
   },
   {
     "id": "1819",
@@ -75,7 +100,12 @@
       "rib"
     ],
     "source": "M",
-    "original": "qainil u taŋa (M)"
+    "original": "qainil u taŋa (M)",
+    "audio": {
+      "slug": "qainil_u_tanxa",
+      "ipay": "dictionary/audio/ipay/qainil_u_tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qainil_u_tanxa.mp3"
+    }
   },
   {
     "id": "1820",
@@ -88,7 +118,12 @@
       "ridgepole"
     ],
     "source": "M",
-    "original": "qainulos (M)"
+    "original": "qainulos (M)",
+    "audio": {
+      "slug": "qainulos",
+      "ipay": "dictionary/audio/ipay/qainulos.mp3",
+      "hokkien": "dictionary/audio/hokkien/qainulos.mp3"
+    }
   },
   {
     "id": "1821",
@@ -101,7 +136,12 @@
       "sleep"
     ],
     "source": "S",
-    "original": "qainup (S)"
+    "original": "qainup (S)",
+    "audio": {
+      "slug": "qainup",
+      "ipay": "dictionary/audio/ipay/qainup.mp3",
+      "hokkien": "dictionary/audio/hokkien/qainup.mp3"
+    }
   },
   {
     "id": "1822",
@@ -114,7 +154,12 @@
       "kite, black-eared kite (bird)"
     ],
     "source": "M",
-    "original": "qaio[a (M)"
+    "original": "qaio[a (M)",
+    "audio": {
+      "slug": "qaio_a",
+      "ipay": "dictionary/audio/ipay/qaio_a.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaio_a.mp3"
+    }
   },
   {
     "id": "1823",
@@ -127,7 +172,12 @@
       "harvest"
     ],
     "source": "S",
-    "original": "qaipanay (S), qmavil (M)"
+    "original": "qaipanay (S), qmavil (M)",
+    "audio": {
+      "slug": "qaipanay",
+      "ipay": "dictionary/audio/ipay/qaipanay.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaipanay.mp3"
+    }
   },
   {
     "id": "1825",
@@ -153,7 +203,12 @@
       "rainbow"
     ],
     "source": "M",
-    "original": "qaitsatsa (M)"
+    "original": "qaitsatsa (M)",
+    "audio": {
+      "slug": "qaitsatsa",
+      "ipay": "dictionary/audio/ipay/qaitsatsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaitsatsa.mp3"
+    }
   },
   {
     "id": "1829",
@@ -166,7 +221,12 @@
       "ant"
     ],
     "source": "M",
-    "original": "qaɭuna (M)"
+    "original": "qaɭuna (M)",
+    "audio": {
+      "slug": "qalxuna",
+      "ipay": "dictionary/audio/ipay/qalxuna.mp3",
+      "hokkien": "dictionary/audio/hokkien/qalxuna.mp3"
+    }
   },
   {
     "id": "1827",
@@ -179,7 +239,12 @@
       "clothes"
     ],
     "source": "T",
-    "original": "qalivu"
+    "original": "qalivu",
+    "audio": {
+      "slug": "qalivu",
+      "ipay": "dictionary/audio/ipay/qalivu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qalivu.mp3"
+    }
   },
   {
     "id": "1828",
@@ -192,7 +257,12 @@
       "quean"
     ],
     "source": "M",
-    "original": "qalqalat (M)"
+    "original": "qalqalat (M)",
+    "audio": {
+      "slug": "qalqalat",
+      "ipay": "dictionary/audio/ipay/qalqalat.mp3",
+      "hokkien": "dictionary/audio/hokkien/qalqalat.mp3"
+    }
   },
   {
     "id": "1204",
@@ -205,7 +275,12 @@
       "beautiful, pretty"
     ],
     "source": "S",
-    "original": "kaman, kamman, qaman (S)"
+    "original": "kaman, kamman, qaman (S)",
+    "audio": {
+      "slug": "qaman",
+      "ipay": "dictionary/audio/ipay/qaman.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaman.mp3"
+    }
   },
   {
     "id": "1210",
@@ -218,7 +293,12 @@
       "food"
     ],
     "source": "T",
-    "original": "kanan,qanan, qonnan (S)"
+    "original": "kanan,qanan, qonnan (S)",
+    "audio": {
+      "slug": "qanan",
+      "ipay": "dictionary/audio/ipay/qanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qanan.mp3"
+    }
   },
   {
     "id": "1831",
@@ -231,7 +311,12 @@
       "tie"
     ],
     "source": "T",
-    "original": "qanit"
+    "original": "qanit",
+    "audio": {
+      "slug": "qanit",
+      "ipay": "dictionary/audio/ipay/qanit.mp3",
+      "hokkien": "dictionary/audio/hokkien/qanit.mp3"
+    }
   },
   {
     "id": "1832",
@@ -244,7 +329,12 @@
       "dead"
     ],
     "source": "T",
-    "original": "qapatay"
+    "original": "qapatay",
+    "audio": {
+      "slug": "qapatay",
+      "ipay": "dictionary/audio/ipay/qapatay.mp3",
+      "hokkien": "dictionary/audio/hokkien/qapatay.mp3"
+    }
   },
   {
     "id": "1830",
@@ -257,7 +347,12 @@
       "stiff"
     ],
     "source": "S",
-    "original": "qapnelan (S)"
+    "original": "qapnelan (S)",
+    "audio": {
+      "slug": "qapnelan",
+      "ipay": "dictionary/audio/ipay/qapnelan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qapnelan.mp3"
+    }
   },
   {
     "id": "1833",
@@ -270,7 +365,12 @@
       "dead"
     ],
     "source": "S",
-    "original": "qapsen (S)"
+    "original": "qapsen (S)",
+    "audio": {
+      "slug": "qapsen",
+      "ipay": "dictionary/audio/ipay/qapsen.mp3",
+      "hokkien": "dictionary/audio/hokkien/qapsen.mp3"
+    }
   },
   {
     "id": "1834",
@@ -283,7 +383,12 @@
       "elder sibling"
     ],
     "source": "S",
-    "original": "qaqa (S)"
+    "original": "qaqa (S)",
+    "audio": {
+      "slug": "qaqa",
+      "ipay": "dictionary/audio/ipay/qaqa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaqa.mp3"
+    }
   },
   {
     "id": "1835",
@@ -296,7 +401,12 @@
       "unsavory"
     ],
     "source": "M",
-    "original": "qaqoja (M)"
+    "original": "qaqoja (M)",
+    "audio": {
+      "slug": "qaqoja",
+      "ipay": "dictionary/audio/ipay/qaqoja.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaqoja.mp3"
+    }
   },
   {
     "id": "1836",
@@ -309,7 +419,12 @@
       "get worse"
     ],
     "source": "T",
-    "original": "qaquya"
+    "original": "qaquya",
+    "audio": {
+      "slug": "qaquya",
+      "ipay": "dictionary/audio/ipay/qaquya.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaquya.mp3"
+    }
   },
   {
     "id": "1837",
@@ -322,7 +437,12 @@
       "ache"
     ],
     "source": "T",
-    "original": "qaqvating"
+    "original": "qaqvating",
+    "audio": {
+      "slug": "qaqvatinx",
+      "ipay": "dictionary/audio/ipay/qaqvatinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaqvatinx.mp3"
+    }
   },
   {
     "id": "1838",
@@ -335,7 +455,12 @@
       "sloven"
     ],
     "source": "M",
-    "original": "qatal(M)"
+    "original": "qatal(M)",
+    "audio": {
+      "slug": "qatal",
+      "ipay": "dictionary/audio/ipay/qatal.mp3",
+      "hokkien": "dictionary/audio/hokkien/qatal.mp3"
+    }
   },
   {
     "id": "1839",
@@ -348,7 +473,12 @@
       "go"
     ],
     "source": "T",
-    "original": "qati, qmati (S)"
+    "original": "qati, qmati (S)",
+    "audio": {
+      "slug": "qati",
+      "ipay": "dictionary/audio/ipay/qati.mp3",
+      "hokkien": "dictionary/audio/hokkien/qati.mp3"
+    }
   },
   {
     "id": "1842",
@@ -361,7 +491,12 @@
       "gaze in the distance"
     ],
     "source": "M",
-    "original": "qatsau (M)"
+    "original": "qatsau (M)",
+    "audio": {
+      "slug": "qatsau",
+      "ipay": "dictionary/audio/ipay/qatsau.mp3",
+      "hokkien": "dictionary/audio/hokkien/qatsau.mp3"
+    }
   },
   {
     "id": "1841",
@@ -374,7 +509,12 @@
       "take off"
     ],
     "source": "T",
-    "original": "qatutsan"
+    "original": "qatutsan",
+    "audio": {
+      "slug": "qatutsan",
+      "ipay": "dictionary/audio/ipay/qatutsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qatutsan.mp3"
+    }
   },
   {
     "id": "1278",
@@ -387,7 +527,12 @@
       "rice bran"
     ],
     "source": "M",
-    "original": "knapəl, qavi (M)"
+    "original": "knapəl, qavi (M)",
+    "audio": {
+      "slug": "qavi",
+      "ipay": "dictionary/audio/ipay/qavi.mp3",
+      "hokkien": "dictionary/audio/hokkien/qavi.mp3"
+    }
   },
   {
     "id": "1843",
@@ -400,7 +545,12 @@
       "also"
     ],
     "source": "S",
-    "original": "qaya (S)"
+    "original": "qaya (S)",
+    "audio": {
+      "slug": "qaya",
+      "ipay": "dictionary/audio/ipay/qaya.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaya.mp3"
+    }
   },
   {
     "id": "1844",
@@ -426,7 +576,12 @@
       "bowl"
     ],
     "source": "S",
-    "original": "qaysing (S)"
+    "original": "qaysing (S)",
+    "audio": {
+      "slug": "qaysinx",
+      "ipay": "dictionary/audio/ipay/qaysinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/qaysinx.mp3"
+    }
   },
   {
     "id": "1846",
@@ -439,7 +594,12 @@
       "baffle"
     ],
     "source": "T",
-    "original": "qazas"
+    "original": "qazas",
+    "audio": {
+      "slug": "qazas",
+      "ipay": "dictionary/audio/ipay/qazas.mp3",
+      "hokkien": "dictionary/audio/hokkien/qazas.mp3"
+    }
   },
   {
     "id": "1847",
@@ -452,7 +612,12 @@
       "big fish"
     ],
     "source": "M",
-    "original": "qazauna (M)"
+    "original": "qazauna (M)",
+    "audio": {
+      "slug": "qazauna",
+      "ipay": "dictionary/audio/ipay/qazauna.mp3",
+      "hokkien": "dictionary/audio/hokkien/qazauna.mp3"
+    }
   },
   {
     "id": "1848",
@@ -465,7 +630,12 @@
       "big"
     ],
     "source": "T",
-    "original": "qazauzau"
+    "original": "qazauzau",
+    "audio": {
+      "slug": "qazauzau",
+      "ipay": "dictionary/audio/ipay/qazauzau.mp3",
+      "hokkien": "dictionary/audio/hokkien/qazauzau.mp3"
+    }
   },
   {
     "id": "1849",
@@ -478,7 +648,12 @@
       "carry on shoulder"
     ],
     "source": "S",
-    "original": "qazaw (S)"
+    "original": "qazaw (S)",
+    "audio": {
+      "slug": "qazaw",
+      "ipay": "dictionary/audio/ipay/qazaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/qazaw.mp3"
+    }
   },
   {
     "id": "1850",
@@ -491,7 +666,12 @@
       "coarse"
     ],
     "source": "M",
-    "original": "qazouzouja (M)"
+    "original": "qazouzouja (M)",
+    "audio": {
+      "slug": "qazouzouja",
+      "ipay": "dictionary/audio/ipay/qazouzouja.mp3",
+      "hokkien": "dictionary/audio/hokkien/qazouzouja.mp3"
+    }
   },
   {
     "id": "1851",
@@ -504,7 +684,12 @@
       "hang oneself'"
     ],
     "source": "T",
-    "original": "qemtel"
+    "original": "qemtel",
+    "audio": {
+      "slug": "qemtel",
+      "ipay": "dictionary/audio/ipay/qemtel.mp3",
+      "hokkien": "dictionary/audio/hokkien/qemtel.mp3"
+    }
   },
   {
     "id": "1852",
@@ -517,7 +702,12 @@
       "retain"
     ],
     "source": "T",
-    "original": "qezqezan"
+    "original": "qezqezan",
+    "audio": {
+      "slug": "qezqezan",
+      "ipay": "dictionary/audio/ipay/qezqezan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qezqezan.mp3"
+    }
   },
   {
     "id": "1853",
@@ -530,7 +720,12 @@
       "brick"
     ],
     "source": "M",
-    "original": "qia (M) hya (< Taiwanese)"
+    "original": "qia (M) hya (< Taiwanese)",
+    "audio": {
+      "slug": "qia",
+      "ipay": "dictionary/audio/ipay/qia.mp3",
+      "hokkien": "dictionary/audio/hokkien/qia.mp3"
+    }
   },
   {
     "id": "1855",
@@ -543,7 +738,12 @@
       "pick fruit of toog tree"
     ],
     "source": "T",
-    "original": "qisaqul"
+    "original": "qisaqul",
+    "audio": {
+      "slug": "qisaqul",
+      "ipay": "dictionary/audio/ipay/qisaqul.mp3",
+      "hokkien": "dictionary/audio/hokkien/qisaqul.mp3"
+    }
   },
   {
     "id": "1840",
@@ -556,7 +756,12 @@
       "go"
     ],
     "source": "S",
-    "original": "qati, qmati (S)"
+    "original": "qati, qmati (S)",
+    "audio": {
+      "slug": "qmati",
+      "ipay": "dictionary/audio/ipay/qmati.mp3",
+      "hokkien": "dictionary/audio/hokkien/qmati.mp3"
+    }
   },
   {
     "id": "1824",
@@ -569,7 +774,12 @@
       "harvest"
     ],
     "source": "M",
-    "original": "qaipanay (S), qmavil (M)"
+    "original": "qaipanay (S), qmavil (M)",
+    "audio": {
+      "slug": "qmavil",
+      "ipay": "dictionary/audio/ipay/qmavil.mp3",
+      "hokkien": "dictionary/audio/hokkien/qmavil.mp3"
+    }
   },
   {
     "id": "1856",
@@ -582,7 +792,12 @@
       "afterbirth"
     ],
     "source": "M",
-    "original": "qnaiipan (M)"
+    "original": "qnaiipan (M)",
+    "audio": {
+      "slug": "qnaiipan",
+      "ipay": "dictionary/audio/ipay/qnaiipan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qnaiipan.mp3"
+    }
   },
   {
     "id": "1857",
@@ -595,7 +810,12 @@
       "relative"
     ],
     "source": "T",
-    "original": "qnasuani"
+    "original": "qnasuani",
+    "audio": {
+      "slug": "qnasuani",
+      "ipay": "dictionary/audio/ipay/qnasuani.mp3",
+      "hokkien": "dictionary/audio/hokkien/qnasuani.mp3"
+    }
   },
   {
     "id": "1858",
@@ -608,7 +828,12 @@
       "bad"
     ],
     "source": "M",
-    "original": "qoe (M)"
+    "original": "qoe (M)",
+    "audio": {
+      "slug": "qoe",
+      "ipay": "dictionary/audio/ipay/qoe.mp3",
+      "hokkien": "dictionary/audio/hokkien/qoe.mp3"
+    }
   },
   {
     "id": "1859",
@@ -621,7 +846,12 @@
       "echo"
     ],
     "source": "M",
-    "original": "qojeqojaqqa (M)"
+    "original": "qojeqojaqqa (M)",
+    "audio": {
+      "slug": "qojeqojaqqa",
+      "ipay": "dictionary/audio/ipay/qojeqojaqqa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qojeqojaqqa.mp3"
+    }
   },
   {
     "id": "1860",
@@ -634,7 +864,12 @@
       "lizard, insects"
     ],
     "source": "M",
-    "original": "qoloqot (M)"
+    "original": "qoloqot (M)",
+    "audio": {
+      "slug": "qoloqot",
+      "ipay": "dictionary/audio/ipay/qoloqot.mp3",
+      "hokkien": "dictionary/audio/hokkien/qoloqot.mp3"
+    }
   },
   {
     "id": "1861",
@@ -647,7 +882,12 @@
       "worm"
     ],
     "source": "M",
-    "original": "qoloqotu svanus (M)"
+    "original": "qoloqotu svanus (M)",
+    "audio": {
+      "slug": "qoloqotu_svanus",
+      "ipay": "dictionary/audio/ipay/qoloqotu_svanus.mp3",
+      "hokkien": "dictionary/audio/hokkien/qoloqotu_svanus.mp3"
+    }
   },
   {
     "id": "1464",
@@ -660,7 +900,12 @@
       "old days"
     ],
     "source": "T",
-    "original": "masaŋ (M), qomnipa"
+    "original": "masaŋ (M), qomnipa",
+    "audio": {
+      "slug": "qomnipa",
+      "ipay": "dictionary/audio/ipay/qomnipa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qomnipa.mp3"
+    }
   },
   {
     "id": "1862",
@@ -673,7 +918,12 @@
       "angry"
     ],
     "source": "M",
-    "original": "qomunota (M)"
+    "original": "qomunota (M)",
+    "audio": {
+      "slug": "qomunota",
+      "ipay": "dictionary/audio/ipay/qomunota.mp3",
+      "hokkien": "dictionary/audio/hokkien/qomunota.mp3"
+    }
   },
   {
     "id": "1991",
@@ -686,7 +936,12 @@
       "angry"
     ],
     "source": "M",
-    "original": "qomunota (M)"
+    "original": "qomunota (M)",
+    "audio": {
+      "slug": "qomunota",
+      "ipay": "dictionary/audio/ipay/qomunota.mp3",
+      "hokkien": "dictionary/audio/hokkien/qomunota.mp3"
+    }
   },
   {
     "id": "1211",
@@ -699,7 +954,12 @@
       "food"
     ],
     "source": "S",
-    "original": "kanan,qanan, qonnan (S)"
+    "original": "kanan,qanan, qonnan (S)",
+    "audio": {
+      "slug": "qonnan",
+      "ipay": "dictionary/audio/ipay/qonnan.mp3",
+      "hokkien": "dictionary/audio/hokkien/qonnan.mp3"
+    }
   },
   {
     "id": "1863",
@@ -712,7 +972,12 @@
       "throat"
     ],
     "source": "M",
-    "original": "qoroqoŋ (M)"
+    "original": "qoroqoŋ (M)",
+    "audio": {
+      "slug": "qoroqonx",
+      "ipay": "dictionary/audio/ipay/qoroqonx.mp3",
+      "hokkien": "dictionary/audio/hokkien/qoroqonx.mp3"
+    }
   },
   {
     "id": "1992",
@@ -725,7 +990,12 @@
       "throat"
     ],
     "source": "M",
-    "original": "qoroqoŋ (M)"
+    "original": "qoroqoŋ (M)",
+    "audio": {
+      "slug": "qoroqonx",
+      "ipay": "dictionary/audio/ipay/qoroqonx.mp3",
+      "hokkien": "dictionary/audio/hokkien/qoroqonx.mp3"
+    }
   },
   {
     "id": "1864",
@@ -738,7 +1008,12 @@
       "come"
     ],
     "source": "S",
-    "original": "qua (S)"
+    "original": "qua (S)",
+    "audio": {
+      "slug": "qua",
+      "ipay": "dictionary/audio/ipay/qua.mp3",
+      "hokkien": "dictionary/audio/hokkien/qua.mp3"
+    }
   },
   {
     "id": "1993",
@@ -751,7 +1026,12 @@
       "come"
     ],
     "source": "S",
-    "original": "qua (S)"
+    "original": "qua (S)",
+    "audio": {
+      "slug": "qua",
+      "ipay": "dictionary/audio/ipay/qua.mp3",
+      "hokkien": "dictionary/audio/hokkien/qua.mp3"
+    }
   },
   {
     "id": "1865",
@@ -764,7 +1044,12 @@
       "ugly"
     ],
     "source": "T",
-    "original": "qui"
+    "original": "qui",
+    "audio": {
+      "slug": "qui",
+      "ipay": "dictionary/audio/ipay/qui.mp3",
+      "hokkien": "dictionary/audio/hokkien/qui.mp3"
+    }
   },
   {
     "id": "1994",
@@ -777,7 +1062,12 @@
       "ugly"
     ],
     "source": "T",
-    "original": "qui"
+    "original": "qui",
+    "audio": {
+      "slug": "qui",
+      "ipay": "dictionary/audio/ipay/qui.mp3",
+      "hokkien": "dictionary/audio/hokkien/qui.mp3"
+    }
   },
   {
     "id": "1866",
@@ -790,7 +1080,12 @@
       "urn"
     ],
     "source": "T",
-    "original": "quɭmeka"
+    "original": "quɭmeka",
+    "audio": {
+      "slug": "qulxmeka",
+      "ipay": "dictionary/audio/ipay/qulxmeka.mp3",
+      "hokkien": "dictionary/audio/hokkien/qulxmeka.mp3"
+    }
   },
   {
     "id": "1995",
@@ -803,7 +1098,12 @@
       "urn"
     ],
     "source": "T",
-    "original": "quɭmeka"
+    "original": "quɭmeka",
+    "audio": {
+      "slug": "qulxmeka",
+      "ipay": "dictionary/audio/ipay/qulxmeka.mp3",
+      "hokkien": "dictionary/audio/hokkien/qulxmeka.mp3"
+    }
   },
   {
     "id": "1867",
@@ -816,7 +1116,12 @@
       "put"
     ],
     "source": "T",
-    "original": "quɭpa"
+    "original": "quɭpa",
+    "audio": {
+      "slug": "qulxpa",
+      "ipay": "dictionary/audio/ipay/qulxpa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qulxpa.mp3"
+    }
   },
   {
     "id": "1996",
@@ -829,7 +1134,12 @@
       "put"
     ],
     "source": "T",
-    "original": "quɭpa"
+    "original": "quɭpa",
+    "audio": {
+      "slug": "qulxpa",
+      "ipay": "dictionary/audio/ipay/qulxpa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qulxpa.mp3"
+    }
   },
   {
     "id": "1868",
@@ -842,7 +1152,12 @@
       "bail out"
     ],
     "source": "M",
-    "original": "qumaɭu (M)"
+    "original": "qumaɭu (M)",
+    "audio": {
+      "slug": "qumalxu",
+      "ipay": "dictionary/audio/ipay/qumalxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumalxu.mp3"
+    }
   },
   {
     "id": "1997",
@@ -855,7 +1170,12 @@
       "bail out"
     ],
     "source": "M",
-    "original": "qumaɭu (M)"
+    "original": "qumaɭu (M)",
+    "audio": {
+      "slug": "qumalxu",
+      "ipay": "dictionary/audio/ipay/qumalxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumalxu.mp3"
+    }
   },
   {
     "id": "1530",
@@ -868,7 +1188,12 @@
       "stumble (to)"
     ],
     "source": "M",
-    "original": "miksun, qumapiz (M)"
+    "original": "miksun, qumapiz (M)",
+    "audio": {
+      "slug": "qumapiz",
+      "ipay": "dictionary/audio/ipay/qumapiz.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumapiz.mp3"
+    }
   },
   {
     "id": "1869",
@@ -881,7 +1206,12 @@
       "adhere"
     ],
     "source": "M",
-    "original": "qumapiz (M), zupetta"
+    "original": "qumapiz (M), zupetta",
+    "audio": {
+      "slug": "qumapiz",
+      "ipay": "dictionary/audio/ipay/qumapiz.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumapiz.mp3"
+    }
   },
   {
     "id": "1998",
@@ -894,7 +1224,12 @@
       "adhere"
     ],
     "source": "M",
-    "original": "qumapiz (M), zupetta"
+    "original": "qumapiz (M), zupetta",
+    "audio": {
+      "slug": "qumapiz",
+      "ipay": "dictionary/audio/ipay/qumapiz.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumapiz.mp3"
+    }
   },
   {
     "id": "1871",
@@ -907,7 +1242,12 @@
       "rice"
     ],
     "source": "M",
-    "original": "qumavit (M)"
+    "original": "qumavit (M)",
+    "audio": {
+      "slug": "qumavit",
+      "ipay": "dictionary/audio/ipay/qumavit.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumavit.mp3"
+    }
   },
   {
     "id": "2000",
@@ -920,7 +1260,12 @@
       "rice"
     ],
     "source": "M",
-    "original": "qumavit (M)"
+    "original": "qumavit (M)",
+    "audio": {
+      "slug": "qumavit",
+      "ipay": "dictionary/audio/ipay/qumavit.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumavit.mp3"
+    }
   },
   {
     "id": "1872",
@@ -933,7 +1278,12 @@
       "search"
     ],
     "source": "M",
-    "original": "qumilim (M)"
+    "original": "qumilim (M)",
+    "audio": {
+      "slug": "qumilim",
+      "ipay": "dictionary/audio/ipay/qumilim.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumilim.mp3"
+    }
   },
   {
     "id": "2001",
@@ -946,7 +1296,12 @@
       "search"
     ],
     "source": "M",
-    "original": "qumilim (M)"
+    "original": "qumilim (M)",
+    "audio": {
+      "slug": "qumilim",
+      "ipay": "dictionary/audio/ipay/qumilim.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumilim.mp3"
+    }
   },
   {
     "id": "1873",
@@ -959,7 +1314,12 @@
       "ancient"
     ],
     "source": "T",
-    "original": "qumnipa"
+    "original": "qumnipa",
+    "audio": {
+      "slug": "qumnipa",
+      "ipay": "dictionary/audio/ipay/qumnipa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumnipa.mp3"
+    }
   },
   {
     "id": "2002",
@@ -972,7 +1332,12 @@
       "ancient"
     ],
     "source": "T",
-    "original": "qumnipa"
+    "original": "qumnipa",
+    "audio": {
+      "slug": "qumnipa",
+      "ipay": "dictionary/audio/ipay/qumnipa.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumnipa.mp3"
+    }
   },
   {
     "id": "1874",
@@ -985,7 +1350,12 @@
       "angry, can’t bear it"
     ],
     "source": "T",
-    "original": "qumnut"
+    "original": "qumnut",
+    "audio": {
+      "slug": "qumnut",
+      "ipay": "dictionary/audio/ipay/qumnut.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumnut.mp3"
+    }
   },
   {
     "id": "2003",
@@ -998,7 +1368,12 @@
       "angry, can’t bear it"
     ],
     "source": "T",
-    "original": "qumnut"
+    "original": "qumnut",
+    "audio": {
+      "slug": "qumnut",
+      "ipay": "dictionary/audio/ipay/qumnut.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumnut.mp3"
+    }
   },
   {
     "id": "1875",
@@ -1011,7 +1386,12 @@
       "support"
     ],
     "source": "T",
-    "original": "qumulu"
+    "original": "qumulu",
+    "audio": {
+      "slug": "qumulu",
+      "ipay": "dictionary/audio/ipay/qumulu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumulu.mp3"
+    }
   },
   {
     "id": "2004",
@@ -1024,7 +1404,12 @@
       "support"
     ],
     "source": "T",
-    "original": "qumulu"
+    "original": "qumulu",
+    "audio": {
+      "slug": "qumulu",
+      "ipay": "dictionary/audio/ipay/qumulu.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumulu.mp3"
+    }
   },
   {
     "id": "1876",
@@ -1037,7 +1422,12 @@
       "stick (to)"
     ],
     "source": "T",
-    "original": "qumupit"
+    "original": "qumupit",
+    "audio": {
+      "slug": "qumupit",
+      "ipay": "dictionary/audio/ipay/qumupit.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumupit.mp3"
+    }
   },
   {
     "id": "2005",
@@ -1050,7 +1440,12 @@
       "stick (to)"
     ],
     "source": "T",
-    "original": "qumupit"
+    "original": "qumupit",
+    "audio": {
+      "slug": "qumupit",
+      "ipay": "dictionary/audio/ipay/qumupit.mp3",
+      "hokkien": "dictionary/audio/hokkien/qumupit.mp3"
+    }
   },
   {
     "id": "1877",
@@ -1063,7 +1458,12 @@
       "how"
     ],
     "source": "S",
-    "original": "quni (S),qunia (S)"
+    "original": "quni (S),qunia (S)",
+    "audio": {
+      "slug": "quni",
+      "ipay": "dictionary/audio/ipay/quni.mp3",
+      "hokkien": "dictionary/audio/hokkien/quni.mp3"
+    }
   },
   {
     "id": "2006",
@@ -1076,7 +1476,12 @@
       "how"
     ],
     "source": "S",
-    "original": "quni (S),qunia (S)"
+    "original": "quni (S),qunia (S)",
+    "audio": {
+      "slug": "quni",
+      "ipay": "dictionary/audio/ipay/quni.mp3",
+      "hokkien": "dictionary/audio/hokkien/quni.mp3"
+    }
   },
   {
     "id": "1878",
@@ -1089,7 +1494,12 @@
       "how"
     ],
     "source": "S",
-    "original": "quni (S),qunia (S)"
+    "original": "quni (S),qunia (S)",
+    "audio": {
+      "slug": "qunia",
+      "ipay": "dictionary/audio/ipay/qunia.mp3",
+      "hokkien": "dictionary/audio/hokkien/qunia.mp3"
+    }
   },
   {
     "id": "2007",
@@ -1102,7 +1512,12 @@
       "how"
     ],
     "source": "S",
-    "original": "quni (S),qunia (S)"
+    "original": "quni (S),qunia (S)",
+    "audio": {
+      "slug": "qunia",
+      "ipay": "dictionary/audio/ipay/qunia.mp3",
+      "hokkien": "dictionary/audio/hokkien/qunia.mp3"
+    }
   },
   {
     "id": "1879",
@@ -1115,7 +1530,12 @@
       "umbrella"
     ],
     "source": "T",
-    "original": "qusua"
+    "original": "qusua",
+    "audio": {
+      "slug": "qusua",
+      "ipay": "dictionary/audio/ipay/qusua.mp3",
+      "hokkien": "dictionary/audio/hokkien/qusua.mp3"
+    }
   },
   {
     "id": "2008",
@@ -1128,7 +1548,12 @@
       "umbrella"
     ],
     "source": "T",
-    "original": "qusua"
+    "original": "qusua",
+    "audio": {
+      "slug": "qusua",
+      "ipay": "dictionary/audio/ipay/qusua.mp3",
+      "hokkien": "dictionary/audio/hokkien/qusua.mp3"
+    }
   },
   {
     "id": "1880",
@@ -1141,7 +1566,12 @@
       "ill-omened"
     ],
     "source": "T",
-    "original": "quvanian"
+    "original": "quvanian",
+    "audio": {
+      "slug": "quvanian",
+      "ipay": "dictionary/audio/ipay/quvanian.mp3",
+      "hokkien": "dictionary/audio/hokkien/quvanian.mp3"
+    }
   },
   {
     "id": "2009",
@@ -1154,6 +1584,11 @@
       "ill-omened"
     ],
     "source": "T",
-    "original": "quvanian"
+    "original": "quvanian",
+    "audio": {
+      "slug": "quvanian",
+      "ipay": "dictionary/audio/ipay/quvanian.mp3",
+      "hokkien": "dictionary/audio/hokkien/quvanian.mp3"
+    }
   }
 ]

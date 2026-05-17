@@ -14,7 +14,12 @@
       "regrettable. pitiful"
     ],
     "source": "B",
-    "original": "jaku"
+    "original": "jaku",
+    "audio": {
+      "slug": "jaku",
+      "ipay": "dictionary/audio/ipay/jaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/jaku.mp3"
+    }
   },
   {
     "id": "0207",
@@ -30,7 +35,12 @@
       "our (Exc.)"
     ],
     "source": "B",
-    "original": "jakumo"
+    "original": "jakumo",
+    "audio": {
+      "slug": "jakumo",
+      "ipay": "dictionary/audio/ipay/jakumo.mp3",
+      "hokkien": "dictionary/audio/hokkien/jakumo.mp3"
+    }
   },
   {
     "id": "0208",
@@ -46,6 +56,11 @@
       "our dogs"
     ],
     "source": "B",
-    "original": "jami(?) uatsu"
+    "original": "jami(?) uatsu",
+    "audio": {
+      "slug": "jami_uatsu",
+      "ipay": "dictionary/audio/ipay/jami_uatsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/jami_uatsu.mp3"
+    }
   }
 ]

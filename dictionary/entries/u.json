@@ -10,7 +10,12 @@
       "oblique"
     ],
     "source": "T",
-    "original": "u"
+    "original": "u",
+    "audio": {
+      "slug": "u",
+      "ipay": "dictionary/audio/ipay/u.mp3",
+      "hokkien": "dictionary/audio/hokkien/u.mp3"
+    }
   },
   {
     "id": "1097",
@@ -39,7 +44,12 @@
       "rattan"
     ],
     "source": "M",
-    "original": "uai(M)"
+    "original": "uai(M)",
+    "audio": {
+      "slug": "uai",
+      "ipay": "dictionary/audio/ipay/uai.mp3",
+      "hokkien": "dictionary/audio/hokkien/uai.mp3"
+    }
   },
   {
     "id": "1099",
@@ -55,7 +65,12 @@
       "child"
     ],
     "source": "B",
-    "original": "uanake"
+    "original": "uanake",
+    "audio": {
+      "slug": "uanake",
+      "ipay": "dictionary/audio/ipay/uanake.mp3",
+      "hokkien": "dictionary/audio/hokkien/uanake.mp3"
+    }
   },
   {
     "id": "1100",
@@ -71,7 +86,12 @@
       "dog"
     ],
     "source": "B",
-    "original": "uatsu"
+    "original": "uatsu",
+    "audio": {
+      "slug": "uatsu",
+      "ipay": "dictionary/audio/ipay/uatsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/uatsu.mp3"
+    }
   },
   {
     "id": "1101",
@@ -89,7 +109,12 @@
       "ee. snake"
     ],
     "source": "B",
-    "original": "ul"
+    "original": "ul",
+    "audio": {
+      "slug": "ul",
+      "ipay": "dictionary/audio/ipay/ul.mp3",
+      "hokkien": "dictionary/audio/hokkien/ul.mp3"
+    }
   },
   {
     "id": "2214",
@@ -102,7 +127,12 @@
       "rain"
     ],
     "source": "S",
-    "original": "uɭan (S)"
+    "original": "uɭan (S)",
+    "audio": {
+      "slug": "ulxan",
+      "ipay": "dictionary/audio/ipay/ulxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/ulxan.mp3"
+    }
   },
   {
     "id": "1637",
@@ -115,7 +145,12 @@
       "dew (?)"
     ],
     "source": "T",
-    "original": "muɭas (M), uɭas"
+    "original": "muɭas (M), uɭas",
+    "audio": {
+      "slug": "ulxas",
+      "ipay": "dictionary/audio/ipay/ulxas.mp3",
+      "hokkien": "dictionary/audio/hokkien/ulxas.mp3"
+    }
   },
   {
     "id": "2215",
@@ -128,7 +163,12 @@
       "again"
     ],
     "source": "S",
-    "original": "uman (S)"
+    "original": "uman (S)",
+    "audio": {
+      "slug": "uman",
+      "ipay": "dictionary/audio/ipay/uman.mp3",
+      "hokkien": "dictionary/audio/hokkien/uman.mp3"
+    }
   },
   {
     "id": "1987",
@@ -141,7 +181,12 @@
       "rice"
     ],
     "source": "S",
-    "original": "sumay (M), umay (S)"
+    "original": "sumay (M), umay (S)",
+    "audio": {
+      "slug": "umay",
+      "ipay": "dictionary/audio/ipay/umay.mp3",
+      "hokkien": "dictionary/audio/hokkien/umay.mp3"
+    }
   },
   {
     "id": "2216",
@@ -154,7 +199,12 @@
       "what"
     ],
     "source": "S",
-    "original": "uni (S)"
+    "original": "uni (S)",
+    "audio": {
+      "slug": "uni",
+      "ipay": "dictionary/audio/ipay/uni.mp3",
+      "hokkien": "dictionary/audio/hokkien/uni.mp3"
+    }
   },
   {
     "id": "1102",
@@ -170,7 +220,12 @@
       "what"
     ],
     "source": "B",
-    "original": "unu"
+    "original": "unu",
+    "audio": {
+      "slug": "unu",
+      "ipay": "dictionary/audio/ipay/unu.mp3",
+      "hokkien": "dictionary/audio/hokkien/unu.mp3"
+    }
   },
   {
     "id": "2217",
@@ -183,7 +238,12 @@
       "what"
     ],
     "source": "T",
-    "original": "unu"
+    "original": "unu",
+    "audio": {
+      "slug": "unu",
+      "ipay": "dictionary/audio/ipay/unu.mp3",
+      "hokkien": "dictionary/audio/hokkien/unu.mp3"
+    }
   },
   {
     "id": "2218",
@@ -196,7 +256,12 @@
       "why"
     ],
     "source": "M",
-    "original": "ununia (M)"
+    "original": "ununia (M)",
+    "audio": {
+      "slug": "ununia",
+      "ipay": "dictionary/audio/ipay/ununia.mp3",
+      "hokkien": "dictionary/audio/hokkien/ununia.mp3"
+    }
   },
   {
     "id": "1103",
@@ -212,7 +277,12 @@
       "goods"
     ],
     "source": "B",
-    "original": "unuunu"
+    "original": "unuunu",
+    "audio": {
+      "slug": "unuunu",
+      "ipay": "dictionary/audio/ipay/unuunu.mp3",
+      "hokkien": "dictionary/audio/hokkien/unuunu.mp3"
+    }
   },
   {
     "id": "2219",
@@ -225,7 +295,12 @@
       "extinguish (to)"
     ],
     "source": "M",
-    "original": "usupi (M)"
+    "original": "usupi (M)",
+    "audio": {
+      "slug": "usupi",
+      "ipay": "dictionary/audio/ipay/usupi.mp3",
+      "hokkien": "dictionary/audio/hokkien/usupi.mp3"
+    }
   },
   {
     "id": "1104",
@@ -241,7 +316,12 @@
       "vomit"
     ],
     "source": "B",
-    "original": "uta"
+    "original": "uta",
+    "audio": {
+      "slug": "uta",
+      "ipay": "dictionary/audio/ipay/uta.mp3",
+      "hokkien": "dictionary/audio/hokkien/uta.mp3"
+    }
   },
   {
     "id": "1105",
@@ -257,7 +337,12 @@
       "head"
     ],
     "source": "B",
-    "original": "utsu"
+    "original": "utsu",
+    "audio": {
+      "slug": "utsu",
+      "ipay": "dictionary/audio/ipay/utsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/utsu.mp3"
+    }
   },
   {
     "id": "2222",
@@ -270,7 +355,12 @@
       "head"
     ],
     "source": "T",
-    "original": "utsu"
+    "original": "utsu",
+    "audio": {
+      "slug": "utsu",
+      "ipay": "dictionary/audio/ipay/utsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/utsu.mp3"
+    }
   },
   {
     "id": "2220",
@@ -283,7 +373,12 @@
       "noon"
     ],
     "source": "T",
-    "original": "uttəŋ"
+    "original": "uttəŋ",
+    "audio": {
+      "slug": "uttoxnx",
+      "ipay": "dictionary/audio/ipay/uttoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/uttoxnx.mp3"
+    }
   },
   {
     "id": "2221",
@@ -310,7 +405,12 @@
       "sugar-cane"
     ],
     "source": "M",
-    "original": "uutsa (M)"
+    "original": "uutsa (M)",
+    "audio": {
+      "slug": "uutsa",
+      "ipay": "dictionary/audio/ipay/uutsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/uutsa.mp3"
+    }
   },
   {
     "id": "2224",
@@ -323,7 +423,12 @@
       "chop, cut"
     ],
     "source": "T",
-    "original": "uvaut"
+    "original": "uvaut",
+    "audio": {
+      "slug": "uvaut",
+      "ipay": "dictionary/audio/ipay/uvaut.mp3",
+      "hokkien": "dictionary/audio/hokkien/uvaut.mp3"
+    }
   },
   {
     "id": "2225",
@@ -336,7 +441,12 @@
       "carry on back"
     ],
     "source": "M",
-    "original": "uvava (M)"
+    "original": "uvava (M)",
+    "audio": {
+      "slug": "uvava",
+      "ipay": "dictionary/audio/ipay/uvava.mp3",
+      "hokkien": "dictionary/audio/hokkien/uvava.mp3"
+    }
   },
   {
     "id": "2226",
@@ -349,7 +459,12 @@
       "untie"
     ],
     "source": "M",
-    "original": "uvuka (M)"
+    "original": "uvuka (M)",
+    "audio": {
+      "slug": "uvuka",
+      "ipay": "dictionary/audio/ipay/uvuka.mp3",
+      "hokkien": "dictionary/audio/hokkien/uvuka.mp3"
+    }
   },
   {
     "id": "2227",
@@ -362,7 +477,12 @@
       "ginger"
     ],
     "source": "M",
-    "original": "uzip (M)"
+    "original": "uzip (M)",
+    "audio": {
+      "slug": "uzip",
+      "ipay": "dictionary/audio/ipay/uzip.mp3",
+      "hokkien": "dictionary/audio/hokkien/uzip.mp3"
+    }
   },
   {
     "id": "2228",
@@ -375,7 +495,12 @@
       "there"
     ],
     "source": "T",
-    "original": "uzuay"
+    "original": "uzuay",
+    "audio": {
+      "slug": "uzuay",
+      "ipay": "dictionary/audio/ipay/uzuay.mp3",
+      "hokkien": "dictionary/audio/hokkien/uzuay.mp3"
+    }
   },
   {
     "id": "2229",
@@ -388,7 +513,12 @@
       "exist"
     ],
     "source": "M",
-    "original": "uzuay (M)"
+    "original": "uzuay (M)",
+    "audio": {
+      "slug": "uzuay",
+      "ipay": "dictionary/audio/ipay/uzuay.mp3",
+      "hokkien": "dictionary/audio/hokkien/uzuay.mp3"
+    }
   },
   {
     "id": "1098",
@@ -404,6 +534,11 @@
       "sugar-cane"
     ],
     "source": "B",
-    "original": "uːts"
+    "original": "uːts",
+    "audio": {
+      "slug": "u_ts",
+      "ipay": "dictionary/audio/ipay/u_ts.mp3",
+      "hokkien": "dictionary/audio/hokkien/u_ts.mp3"
+    }
   }
 ]

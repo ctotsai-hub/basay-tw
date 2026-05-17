@@ -10,7 +10,12 @@
       "liquor"
     ],
     "source": "M",
-    "original": "raaq(ə) (M)"
+    "original": "raaq(ə) (M)",
+    "audio": {
+      "slug": "raaq_ox",
+      "ipay": "dictionary/audio/ipay/raaq_ox.mp3",
+      "hokkien": "dictionary/audio/hokkien/raaq_ox.mp3"
+    }
   },
   {
     "id": "2010",
@@ -23,7 +28,12 @@
       "liquor"
     ],
     "source": "M",
-    "original": "raaq(ə) (M)"
+    "original": "raaq(ə) (M)",
+    "audio": {
+      "slug": "raaq_ox",
+      "ipay": "dictionary/audio/ipay/raaq_ox.mp3",
+      "hokkien": "dictionary/audio/hokkien/raaq_ox.mp3"
+    }
   },
   {
     "id": "0722",
@@ -39,7 +49,12 @@
       "roof (??) / roop (??)"
     ],
     "source": "B",
-    "original": "rabel'"
+    "original": "rabel'",
+    "audio": {
+      "slug": "rabelx",
+      "ipay": "dictionary/audio/ipay/rabelx.mp3",
+      "hokkien": "dictionary/audio/hokkien/rabelx.mp3"
+    }
   },
   {
     "id": "0723",
@@ -57,7 +72,12 @@
       "curl (to). miserly.stingy"
     ],
     "source": "B",
-    "original": "rakit"
+    "original": "rakit",
+    "audio": {
+      "slug": "rakit",
+      "ipay": "dictionary/audio/ipay/rakit.mp3",
+      "hokkien": "dictionary/audio/hokkien/rakit.mp3"
+    }
   },
   {
     "id": "0724",
@@ -74,7 +94,12 @@
       "oyster. clam"
     ],
     "source": "B",
-    "original": "ram/lam"
+    "original": "ram/lam",
+    "audio": {
+      "slug": "ram_lam",
+      "ipay": "dictionary/audio/ipay/ram_lam.mp3",
+      "hokkien": "dictionary/audio/hokkien/ram_lam.mp3"
+    }
   },
   {
     "id": "0725",
@@ -91,7 +116,12 @@
       "broken, die out (to) (fire)"
     ],
     "source": "B",
-    "original": "rapetse"
+    "original": "rapetse",
+    "audio": {
+      "slug": "rapetse",
+      "ipay": "dictionary/audio/ipay/rapetse.mp3",
+      "hokkien": "dictionary/audio/hokkien/rapetse.mp3"
+    }
   },
   {
     "id": "0726",
@@ -108,7 +138,12 @@
       "rob (to). snatch away"
     ],
     "source": "B",
-    "original": "rebokke"
+    "original": "rebokke",
+    "audio": {
+      "slug": "rebokke",
+      "ipay": "dictionary/audio/ipay/rebokke.mp3",
+      "hokkien": "dictionary/audio/hokkien/rebokke.mp3"
+    }
   },
   {
     "id": "1882",
@@ -121,7 +156,12 @@
       "fool"
     ],
     "source": "M",
-    "original": "remazok (M)"
+    "original": "remazok (M)",
+    "audio": {
+      "slug": "remazok",
+      "ipay": "dictionary/audio/ipay/remazok.mp3",
+      "hokkien": "dictionary/audio/hokkien/remazok.mp3"
+    }
   },
   {
     "id": "2011",
@@ -134,7 +174,12 @@
       "fool"
     ],
     "source": "M",
-    "original": "remazok (M)"
+    "original": "remazok (M)",
+    "audio": {
+      "slug": "remazok",
+      "ipay": "dictionary/audio/ipay/remazok.mp3",
+      "hokkien": "dictionary/audio/hokkien/remazok.mp3"
+    }
   },
   {
     "id": "1606",
@@ -147,7 +192,12 @@
       "wind (to)"
     ],
     "source": "T",
-    "original": "mrepot (M), repotan"
+    "original": "mrepot (M), repotan",
+    "audio": {
+      "slug": "repotan",
+      "ipay": "dictionary/audio/ipay/repotan.mp3",
+      "hokkien": "dictionary/audio/hokkien/repotan.mp3"
+    }
   },
   {
     "id": "0727",
@@ -164,7 +214,12 @@
       "edge"
     ],
     "source": "B",
-    "original": "ri pipisse"
+    "original": "ri pipisse",
+    "audio": {
+      "slug": "ri_pipisse",
+      "ipay": "dictionary/audio/ipay/ri_pipisse.mp3",
+      "hokkien": "dictionary/audio/hokkien/ri_pipisse.mp3"
+    }
   },
   {
     "id": "0728",
@@ -180,7 +235,12 @@
       "stay inside the house (to)"
     ],
     "source": "B",
-    "original": "rimotsomotso"
+    "original": "rimotsomotso",
+    "audio": {
+      "slug": "rimotsomotso",
+      "ipay": "dictionary/audio/ipay/rimotsomotso.mp3",
+      "hokkien": "dictionary/audio/hokkien/rimotsomotso.mp3"
+    }
   },
   {
     "id": "0729",
@@ -196,7 +256,12 @@
       "center"
     ],
     "source": "B",
-    "original": "rirabu"
+    "original": "rirabu",
+    "audio": {
+      "slug": "rirabu",
+      "ipay": "dictionary/audio/ipay/rirabu.mp3",
+      "hokkien": "dictionary/audio/hokkien/rirabu.mp3"
+    }
   },
   {
     "id": "0730",
@@ -212,7 +277,12 @@
       "pepper"
     ],
     "source": "B",
-    "original": "rirum"
+    "original": "rirum",
+    "audio": {
+      "slug": "rirum",
+      "ipay": "dictionary/audio/ipay/rirum.mp3",
+      "hokkien": "dictionary/audio/hokkien/rirum.mp3"
+    }
   },
   {
     "id": "0731",
@@ -229,7 +299,12 @@
       "here, near"
     ],
     "source": "B",
-    "original": "ritsaila"
+    "original": "ritsaila",
+    "audio": {
+      "slug": "ritsaila",
+      "ipay": "dictionary/audio/ipay/ritsaila.mp3",
+      "hokkien": "dictionary/audio/hokkien/ritsaila.mp3"
+    }
   },
   {
     "id": "0732",
@@ -245,7 +320,12 @@
       "heavy"
     ],
     "source": "B",
-    "original": "ritsuŋ"
+    "original": "ritsuŋ",
+    "audio": {
+      "slug": "ritsunx",
+      "ipay": "dictionary/audio/ipay/ritsunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/ritsunx.mp3"
+    }
   },
   {
     "id": "1883",
@@ -259,7 +339,12 @@
       "knead"
     ],
     "source": "M",
-    "original": "romuɭ (M)"
+    "original": "romuɭ (M)",
+    "audio": {
+      "slug": "romulx",
+      "ipay": "dictionary/audio/ipay/romulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/romulx.mp3"
+    }
   },
   {
     "id": "2012",
@@ -273,7 +358,12 @@
       "knead"
     ],
     "source": "M",
-    "original": "romuɭ (M)"
+    "original": "romuɭ (M)",
+    "audio": {
+      "slug": "romulx",
+      "ipay": "dictionary/audio/ipay/romulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/romulx.mp3"
+    }
   },
   {
     "id": "1884",
@@ -286,7 +376,12 @@
       "netbag"
     ],
     "source": "M",
-    "original": "rubos (M)"
+    "original": "rubos (M)",
+    "audio": {
+      "slug": "rubos",
+      "ipay": "dictionary/audio/ipay/rubos.mp3",
+      "hokkien": "dictionary/audio/hokkien/rubos.mp3"
+    }
   },
   {
     "id": "2013",
@@ -299,7 +394,12 @@
       "netbag"
     ],
     "source": "M",
-    "original": "rubos (M)"
+    "original": "rubos (M)",
+    "audio": {
+      "slug": "rubos",
+      "ipay": "dictionary/audio/ipay/rubos.mp3",
+      "hokkien": "dictionary/audio/hokkien/rubos.mp3"
+    }
   },
   {
     "id": "0733",
@@ -315,7 +415,12 @@
       "pestle"
     ],
     "source": "B",
-    "original": "rugrukke"
+    "original": "rugrukke",
+    "audio": {
+      "slug": "rugrukke",
+      "ipay": "dictionary/audio/ipay/rugrukke.mp3",
+      "hokkien": "dictionary/audio/hokkien/rugrukke.mp3"
+    }
   },
   {
     "id": "1885",
@@ -328,7 +433,12 @@
       "wrinkle"
     ],
     "source": "M",
-    "original": "rupurup (M)"
+    "original": "rupurup (M)",
+    "audio": {
+      "slug": "rupurup",
+      "ipay": "dictionary/audio/ipay/rupurup.mp3",
+      "hokkien": "dictionary/audio/hokkien/rupurup.mp3"
+    }
   },
   {
     "id": "2014",
@@ -341,7 +451,12 @@
       "wrinkle"
     ],
     "source": "M",
-    "original": "rupurup (M)"
+    "original": "rupurup (M)",
+    "audio": {
+      "slug": "rupurup",
+      "ipay": "dictionary/audio/ipay/rupurup.mp3",
+      "hokkien": "dictionary/audio/hokkien/rupurup.mp3"
+    }
   },
   {
     "id": "1886",
@@ -354,7 +469,12 @@
       "rain coar (straw)"
     ],
     "source": "M",
-    "original": "ruqappa (M)"
+    "original": "ruqappa (M)",
+    "audio": {
+      "slug": "ruqappa",
+      "ipay": "dictionary/audio/ipay/ruqappa.mp3",
+      "hokkien": "dictionary/audio/hokkien/ruqappa.mp3"
+    }
   },
   {
     "id": "2015",
@@ -367,7 +487,12 @@
       "rain coar (straw)"
     ],
     "source": "M",
-    "original": "ruqappa (M)"
+    "original": "ruqappa (M)",
+    "audio": {
+      "slug": "ruqappa",
+      "ipay": "dictionary/audio/ipay/ruqappa.mp3",
+      "hokkien": "dictionary/audio/hokkien/ruqappa.mp3"
+    }
   },
   {
     "id": "0734",
@@ -385,7 +510,12 @@
       "taro, potato"
     ],
     "source": "B",
-    "original": "rutaretare"
+    "original": "rutaretare",
+    "audio": {
+      "slug": "rutaretare",
+      "ipay": "dictionary/audio/ipay/rutaretare.mp3",
+      "hokkien": "dictionary/audio/hokkien/rutaretare.mp3"
+    }
   },
   {
     "id": "1887",
@@ -398,7 +528,12 @@
       "hole"
     ],
     "source": "M",
-    "original": "ruvu (M)"
+    "original": "ruvu (M)",
+    "audio": {
+      "slug": "ruvu",
+      "ipay": "dictionary/audio/ipay/ruvu.mp3",
+      "hokkien": "dictionary/audio/hokkien/ruvu.mp3"
+    }
   },
   {
     "id": "2016",
@@ -411,6 +546,11 @@
       "hole"
     ],
     "source": "M",
-    "original": "ruvu (M)"
+    "original": "ruvu (M)",
+    "audio": {
+      "slug": "ruvu",
+      "ipay": "dictionary/audio/ipay/ruvu.mp3",
+      "hokkien": "dictionary/audio/hokkien/ruvu.mp3"
+    }
   }
 ]

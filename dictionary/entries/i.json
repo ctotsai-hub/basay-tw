@@ -10,7 +10,12 @@
       "his, her, their (GEN)"
     ],
     "source": "T",
-    "original": "-ia"
+    "original": "-ia",
+    "audio": {
+      "slug": "ia",
+      "ipay": "dictionary/audio/ipay/ia.mp3",
+      "hokkien": "dictionary/audio/hokkien/ia.mp3"
+    }
   },
   {
     "id": "1169",
@@ -23,7 +28,12 @@
       "your (GEN)"
     ],
     "source": "T",
-    "original": "-imu"
+    "original": "-imu",
+    "audio": {
+      "slug": "imu",
+      "ipay": "dictionary/audio/ipay/imu.mp3",
+      "hokkien": "dictionary/audio/hokkien/imu.mp3"
+    }
   },
   {
     "id": "1177",
@@ -36,7 +46,12 @@
       "your (SG, GEN)"
     ],
     "source": "T",
-    "original": "-isu"
+    "original": "-isu",
+    "audio": {
+      "slug": "isu",
+      "ipay": "dictionary/audio/ipay/isu.mp3",
+      "hokkien": "dictionary/audio/hokkien/isu.mp3"
+    }
   },
   {
     "id": "1180",
@@ -49,7 +64,12 @@
       "our (GÊN)"
     ],
     "source": "T",
-    "original": "-ita"
+    "original": "-ita",
+    "audio": {
+      "slug": "ita",
+      "ipay": "dictionary/audio/ipay/ita.mp3",
+      "hokkien": "dictionary/audio/hokkien/ita.mp3"
+    }
   },
   {
     "id": "1329",
@@ -62,7 +82,12 @@
       "heaven"
     ],
     "source": "S",
-    "original": "Ian (S)"
+    "original": "Ian (S)",
+    "audio": {
+      "slug": "ian",
+      "ipay": "dictionary/audio/ipay/ian.mp3",
+      "hokkien": "dictionary/audio/hokkien/ian.mp3"
+    }
   },
   {
     "id": "0334",
@@ -79,7 +104,12 @@
       "spill over"
     ],
     "source": "B",
-    "original": "Iapoŋpoŋ"
+    "original": "Iapoŋpoŋ",
+    "audio": {
+      "slug": "iaponxponx",
+      "ipay": "dictionary/audio/ipay/iaponxponx.mp3",
+      "hokkien": "dictionary/audio/hokkien/iaponxponx.mp3"
+    }
   },
   {
     "id": "1187",
@@ -92,7 +122,12 @@
       "go out"
     ],
     "source": "M",
-    "original": "iasiŋas (M)"
+    "original": "iasiŋas (M)",
+    "audio": {
+      "slug": "iasinxas",
+      "ipay": "dictionary/audio/ipay/iasinxas.mp3",
+      "hokkien": "dictionary/audio/hokkien/iasinxas.mp3"
+    }
   },
   {
     "id": "1344",
@@ -119,7 +154,12 @@
       "tree, wood, stick"
     ],
     "source": "T",
-    "original": "Iesaw"
+    "original": "Iesaw",
+    "audio": {
+      "slug": "iesaw",
+      "ipay": "dictionary/audio/ipay/iesaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/iesaw.mp3"
+    }
   },
   {
     "id": "1168",
@@ -132,7 +172,12 @@
       "discard"
     ],
     "source": "T",
-    "original": "iɭapus"
+    "original": "iɭapus",
+    "audio": {
+      "slug": "ilxapus",
+      "ipay": "dictionary/audio/ipay/ilxapus.mp3",
+      "hokkien": "dictionary/audio/hokkien/ilxapus.mp3"
+    }
   },
   {
     "id": "1167",
@@ -145,7 +190,12 @@
       "neck"
     ],
     "source": "T",
-    "original": "ilaqəzan"
+    "original": "ilaqəzan",
+    "audio": {
+      "slug": "ilaqoxzan",
+      "ipay": "dictionary/audio/ipay/ilaqoxzan.mp3",
+      "hokkien": "dictionary/audio/hokkien/ilaqoxzan.mp3"
+    }
   },
   {
     "id": "1170",
@@ -158,7 +208,12 @@
       "you (OBL)"
     ],
     "source": "T",
-    "original": "imuanan"
+    "original": "imuanan",
+    "audio": {
+      "slug": "imuanan",
+      "ipay": "dictionary/audio/ipay/imuanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/imuanan.mp3"
+    }
   },
   {
     "id": "1171",
@@ -184,7 +239,12 @@
       "endure, put up with"
     ],
     "source": "M",
-    "original": "ipzi (M), sul"
+    "original": "ipzi (M), sul",
+    "audio": {
+      "slug": "ipzi",
+      "ipay": "dictionary/audio/ipay/ipzi.mp3",
+      "hokkien": "dictionary/audio/hokkien/ipzi.mp3"
+    }
   },
   {
     "id": "1174",
@@ -197,7 +257,12 @@
       "waist"
     ],
     "source": "T",
-    "original": "isavutan"
+    "original": "isavutan",
+    "audio": {
+      "slug": "isavutan",
+      "ipay": "dictionary/audio/ipay/isavutan.mp3",
+      "hokkien": "dictionary/audio/hokkien/isavutan.mp3"
+    }
   },
   {
     "id": "1175",
@@ -210,7 +275,12 @@
       "sweet wine"
     ],
     "source": "S",
-    "original": "ise (S)"
+    "original": "ise (S)",
+    "audio": {
+      "slug": "ise",
+      "ipay": "dictionary/audio/ipay/ise.mp3",
+      "hokkien": "dictionary/audio/hokkien/ise.mp3"
+    }
   },
   {
     "id": "1176",
@@ -223,7 +293,12 @@
       "doctor"
     ],
     "source": "V",
-    "original": "isiŋ (< Taiwanese)"
+    "original": "isiŋ (< Taiwanese)",
+    "audio": {
+      "slug": "isinx",
+      "ipay": "dictionary/audio/ipay/isinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/isinx.mp3"
+    }
   },
   {
     "id": "0202",
@@ -239,7 +314,12 @@
       "your"
     ],
     "source": "B",
-    "original": "isu"
+    "original": "isu",
+    "audio": {
+      "slug": "isu",
+      "ipay": "dictionary/audio/ipay/isu.mp3",
+      "hokkien": "dictionary/audio/hokkien/isu.mp3"
+    }
   },
   {
     "id": "0203",
@@ -255,7 +335,12 @@
       "you"
     ],
     "source": "B",
-    "original": "isu"
+    "original": "isu",
+    "audio": {
+      "slug": "isu",
+      "ipay": "dictionary/audio/ipay/isu.mp3",
+      "hokkien": "dictionary/audio/hokkien/isu.mp3"
+    }
   },
   {
     "id": "0204",
@@ -271,7 +356,12 @@
       "medicine"
     ],
     "source": "B",
-    "original": "isu, <isu kuman u laŋ>"
+    "original": "isu, <isu kuman u laŋ>",
+    "audio": {
+      "slug": "isu",
+      "ipay": "dictionary/audio/ipay/isu.mp3",
+      "hokkien": "dictionary/audio/hokkien/isu.mp3"
+    }
   },
   {
     "id": "1178",
@@ -284,7 +374,12 @@
       "you (SG, OBL)"
     ],
     "source": "T",
-    "original": "isuanan"
+    "original": "isuanan",
+    "audio": {
+      "slug": "isuanan",
+      "ipay": "dictionary/audio/ipay/isuanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/isuanan.mp3"
+    }
   },
   {
     "id": "1179",
@@ -297,7 +392,12 @@
       "stay"
     ],
     "source": "T",
-    "original": "ita"
+    "original": "ita",
+    "audio": {
+      "slug": "ita",
+      "ipay": "dictionary/audio/ipay/ita.mp3",
+      "hokkien": "dictionary/audio/hokkien/ita.mp3"
+    }
   },
   {
     "id": "1181",
@@ -326,7 +426,12 @@
       "I"
     ],
     "source": "B",
-    "original": "iu"
+    "original": "iu",
+    "audio": {
+      "slug": "iu",
+      "ipay": "dictionary/audio/ipay/iu.mp3",
+      "hokkien": "dictionary/audio/hokkien/iu.mp3"
+    }
   },
   {
     "id": "1182",
@@ -339,7 +444,12 @@
       "medicine, drug"
     ],
     "source": "V",
-    "original": "iu (< Taiwanese)"
+    "original": "iu (< Taiwanese)",
+    "audio": {
+      "slug": "iu",
+      "ipay": "dictionary/audio/ipay/iu.mp3",
+      "hokkien": "dictionary/audio/hokkien/iu.mp3"
+    }
   },
   {
     "id": "1183",
@@ -352,7 +462,12 @@
       "above"
     ],
     "source": "T",
-    "original": "ivavaŋ"
+    "original": "ivavaŋ",
+    "audio": {
+      "slug": "ivavanx",
+      "ipay": "dictionary/audio/ipay/ivavanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/ivavanx.mp3"
+    }
   },
   {
     "id": "1361",
@@ -365,7 +480,12 @@
       "drag"
     ],
     "source": "T",
-    "original": "Ivilvisan"
+    "original": "Ivilvisan",
+    "audio": {
+      "slug": "ivilvisan",
+      "ipay": "dictionary/audio/ipay/ivilvisan.mp3",
+      "hokkien": "dictionary/audio/hokkien/ivilvisan.mp3"
+    }
   },
   {
     "id": "1184",
@@ -378,7 +498,12 @@
       "get here ."
     ],
     "source": "T",
-    "original": "izaay"
+    "original": "izaay",
+    "audio": {
+      "slug": "izaay",
+      "ipay": "dictionary/audio/ipay/izaay.mp3",
+      "hokkien": "dictionary/audio/hokkien/izaay.mp3"
+    }
   },
   {
     "id": "1185",
@@ -391,7 +516,12 @@
       "hang"
     ],
     "source": "T",
-    "original": "izawitian"
+    "original": "izawitian",
+    "audio": {
+      "slug": "izawitian",
+      "ipay": "dictionary/audio/ipay/izawitian.mp3",
+      "hokkien": "dictionary/audio/hokkien/izawitian.mp3"
+    }
   },
   {
     "id": "1186",
@@ -404,6 +534,11 @@
       "body"
     ],
     "source": "T",
-    "original": "izip"
+    "original": "izip",
+    "audio": {
+      "slug": "izip",
+      "ipay": "dictionary/audio/ipay/izip.mp3",
+      "hokkien": "dictionary/audio/hokkien/izip.mp3"
+    }
   }
 ]

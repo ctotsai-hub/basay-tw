@@ -26,6 +26,11 @@
       "push"
     ],
     "source": "M",
-    "original": "etsozo (M)"
+    "original": "etsozo (M)",
+    "audio": {
+      "slug": "etsozo",
+      "ipay": "dictionary/audio/ipay/etsozo.mp3",
+      "hokkien": "dictionary/audio/hokkien/etsozo.mp3"
+    }
   }
 ]

@@ -10,7 +10,12 @@
       "horn"
     ],
     "source": "M",
-    "original": "waki (M)"
+    "original": "waki (M)",
+    "audio": {
+      "slug": "waki",
+      "ipay": "dictionary/audio/ipay/waki.mp3",
+      "hokkien": "dictionary/audio/hokkien/waki.mp3"
+    }
   },
   {
     "id": "1108",
@@ -26,7 +31,12 @@
       "overseas"
     ],
     "source": "B",
-    "original": "wale-wale"
+    "original": "wale-wale",
+    "audio": {
+      "slug": "wale_wale",
+      "ipay": "dictionary/audio/ipay/wale_wale.mp3",
+      "hokkien": "dictionary/audio/hokkien/wale_wale.mp3"
+    }
   },
   {
     "id": "2317",
@@ -39,7 +49,12 @@
       "child"
     ],
     "source": "T",
-    "original": "wanak, wanake, wanaq (S)"
+    "original": "wanak, wanake, wanaq (S)",
+    "audio": {
+      "slug": "wanak",
+      "ipay": "dictionary/audio/ipay/wanak.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanak.mp3"
+    }
   },
   {
     "id": "2318",
@@ -52,7 +67,12 @@
       "child"
     ],
     "source": "T",
-    "original": "wanak, wanake, wanaq (S)"
+    "original": "wanak, wanake, wanaq (S)",
+    "audio": {
+      "slug": "wanake",
+      "ipay": "dictionary/audio/ipay/wanake.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanake.mp3"
+    }
   },
   {
     "id": "2319",
@@ -65,7 +85,12 @@
       "child"
     ],
     "source": "S",
-    "original": "wanak, wanake, wanaq (S)"
+    "original": "wanak, wanake, wanaq (S)",
+    "audio": {
+      "slug": "wanaq",
+      "ipay": "dictionary/audio/ipay/wanaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanaq.mp3"
+    }
   },
   {
     "id": "2320",
@@ -78,7 +103,12 @@
       "alright, good, only"
     ],
     "source": "T",
-    "original": "wanay ⑸"
+    "original": "wanay ⑸",
+    "audio": {
+      "slug": "wanay",
+      "ipay": "dictionary/audio/ipay/wanay.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanay.mp3"
+    }
   },
   {
     "id": "2321",
@@ -91,7 +121,12 @@
       "finish"
     ],
     "source": "T",
-    "original": "wanja"
+    "original": "wanja",
+    "audio": {
+      "slug": "wanja",
+      "ipay": "dictionary/audio/ipay/wanja.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanja.mp3"
+    }
   },
   {
     "id": "1109",
@@ -107,7 +142,12 @@
       "sugar"
     ],
     "source": "B",
-    "original": "wanəŋ"
+    "original": "wanəŋ",
+    "audio": {
+      "slug": "wanoxnx",
+      "ipay": "dictionary/audio/ipay/wanoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanoxnx.mp3"
+    }
   },
   {
     "id": "1110",
@@ -123,7 +163,12 @@
       "sugar"
     ],
     "source": "B",
-    "original": "wanuŋ"
+    "original": "wanuŋ",
+    "audio": {
+      "slug": "wanunx",
+      "ipay": "dictionary/audio/ipay/wanunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanunx.mp3"
+    }
   },
   {
     "id": "2322",
@@ -136,7 +181,12 @@
       "sugar"
     ],
     "source": "M",
-    "original": "wanuŋ (M)"
+    "original": "wanuŋ (M)",
+    "audio": {
+      "slug": "wanunx",
+      "ipay": "dictionary/audio/ipay/wanunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/wanunx.mp3"
+    }
   },
   {
     "id": "1111",
@@ -152,7 +202,12 @@
       "eight"
     ],
     "source": "B",
-    "original": "wasu"
+    "original": "wasu",
+    "audio": {
+      "slug": "wasu",
+      "ipay": "dictionary/audio/ipay/wasu.mp3",
+      "hokkien": "dictionary/audio/hokkien/wasu.mp3"
+    }
   },
   {
     "id": "2323",
@@ -165,7 +220,12 @@
       "before long"
     ],
     "source": "T",
-    "original": "watsikam"
+    "original": "watsikam",
+    "audio": {
+      "slug": "watsikam",
+      "ipay": "dictionary/audio/ipay/watsikam.mp3",
+      "hokkien": "dictionary/audio/hokkien/watsikam.mp3"
+    }
   },
   {
     "id": "2324",
@@ -178,7 +238,12 @@
       "dog"
     ],
     "source": "M",
-    "original": "watsu (M)"
+    "original": "watsu (M)",
+    "audio": {
+      "slug": "watsu",
+      "ipay": "dictionary/audio/ipay/watsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/watsu.mp3"
+    }
   },
   {
     "id": "2326",
@@ -191,7 +256,12 @@
       "finish, end"
     ],
     "source": "M",
-    "original": "watsuaina (M), watsuay"
+    "original": "watsuaina (M), watsuay",
+    "audio": {
+      "slug": "watsuaina",
+      "ipay": "dictionary/audio/ipay/watsuaina.mp3",
+      "hokkien": "dictionary/audio/hokkien/watsuaina.mp3"
+    }
   },
   {
     "id": "2325",
@@ -204,7 +274,12 @@
       "delicious"
     ],
     "source": "T",
-    "original": "watsuay"
+    "original": "watsuay",
+    "audio": {
+      "slug": "watsuay",
+      "ipay": "dictionary/audio/ipay/watsuay.mp3",
+      "hokkien": "dictionary/audio/hokkien/watsuay.mp3"
+    }
   },
   {
     "id": "2327",
@@ -217,7 +292,12 @@
       "finish, end"
     ],
     "source": "T",
-    "original": "watsuaina (M), watsuay"
+    "original": "watsuaina (M), watsuay",
+    "audio": {
+      "slug": "watsuay",
+      "ipay": "dictionary/audio/ipay/watsuay.mp3",
+      "hokkien": "dictionary/audio/hokkien/watsuay.mp3"
+    }
   },
   {
     "id": "1112",
@@ -233,7 +313,12 @@
       "insects"
     ],
     "source": "B",
-    "original": "wawai"
+    "original": "wawai",
+    "audio": {
+      "slug": "wawai",
+      "ipay": "dictionary/audio/ipay/wawai.mp3",
+      "hokkien": "dictionary/audio/hokkien/wawai.mp3"
+    }
   },
   {
     "id": "1113",
@@ -249,7 +334,12 @@
       "rattan"
     ],
     "source": "B",
-    "original": "wawai"
+    "original": "wawai",
+    "audio": {
+      "slug": "wawai",
+      "ipay": "dictionary/audio/ipay/wawai.mp3",
+      "hokkien": "dictionary/audio/hokkien/wawai.mp3"
+    }
   },
   {
     "id": "1114",
@@ -265,7 +355,12 @@
       "firefly"
     ],
     "source": "B",
-    "original": "wawai pasibsib"
+    "original": "wawai pasibsib",
+    "audio": {
+      "slug": "wawai_pasibsib",
+      "ipay": "dictionary/audio/ipay/wawai_pasibsib.mp3",
+      "hokkien": "dictionary/audio/hokkien/wawai_pasibsib.mp3"
+    }
   },
   {
     "id": "1115",
@@ -281,6 +376,11 @@
       "worm"
     ],
     "source": "B",
-    "original": "wawai satska"
+    "original": "wawai satska",
+    "audio": {
+      "slug": "wawai_satska",
+      "ipay": "dictionary/audio/ipay/wawai_satska.mp3",
+      "hokkien": "dictionary/audio/hokkien/wawai_satska.mp3"
+    }
   }
 ]

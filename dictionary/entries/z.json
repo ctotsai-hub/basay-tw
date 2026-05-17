@@ -10,7 +10,12 @@
       "cauldron"
     ],
     "source": "M",
-    "original": "ɮakop (M)"
+    "original": "ɮakop (M)",
+    "audio": {
+      "slug": "zxakop",
+      "ipay": "dictionary/audio/ipay/zxakop.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxakop.mp3"
+    }
   },
   {
     "id": "1388",
@@ -23,7 +28,12 @@
       "fire"
     ],
     "source": "T",
-    "original": "ɮamal"
+    "original": "ɮamal",
+    "audio": {
+      "slug": "zxamal",
+      "ipay": "dictionary/audio/ipay/zxamal.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxamal.mp3"
+    }
   },
   {
     "id": "1389",
@@ -36,7 +46,12 @@
       "tea"
     ],
     "source": "M",
-    "original": "ɮanum (M)"
+    "original": "ɮanum (M)",
+    "audio": {
+      "slug": "zxanum",
+      "ipay": "dictionary/audio/ipay/zxanum.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxanum.mp3"
+    }
   },
   {
     "id": "1390",
@@ -49,7 +64,12 @@
       "shoes"
     ],
     "source": "M",
-    "original": "ɮapu (M)"
+    "original": "ɮapu (M)",
+    "audio": {
+      "slug": "zxapu",
+      "ipay": "dictionary/audio/ipay/zxapu.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxapu.mp3"
+    }
   },
   {
     "id": "1391",
@@ -62,7 +82,12 @@
       "turtle"
     ],
     "source": "M",
-    "original": "ɮaqunu (M)"
+    "original": "ɮaqunu (M)",
+    "audio": {
+      "slug": "zxaqunu",
+      "ipay": "dictionary/audio/ipay/zxaqunu.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxaqunu.mp3"
+    }
   },
   {
     "id": "1387",
@@ -75,7 +100,12 @@
       "sweat"
     ],
     "source": "M",
-    "original": "ɮaɮaŋ (M)"
+    "original": "ɮaɮaŋ (M)",
+    "audio": {
+      "slug": "zxazxanx",
+      "ipay": "dictionary/audio/ipay/zxazxanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxazxanx.mp3"
+    }
   },
   {
     "id": "1386",
@@ -88,7 +118,12 @@
       "near"
     ],
     "source": "M",
-    "original": "ɮaɮani (M)"
+    "original": "ɮaɮani (M)",
+    "audio": {
+      "slug": "zxazxani",
+      "ipay": "dictionary/audio/ipay/zxazxani.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxazxani.mp3"
+    }
   },
   {
     "id": "1394",
@@ -101,7 +136,12 @@
       "today"
     ],
     "source": "M",
-    "original": "ɮian (M)"
+    "original": "ɮian (M)",
+    "audio": {
+      "slug": "zxian",
+      "ipay": "dictionary/audio/ipay/zxian.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxian.mp3"
+    }
   },
   {
     "id": "1395",
@@ -114,7 +154,12 @@
       "sour"
     ],
     "source": "M",
-    "original": "ɮiləm (M)"
+    "original": "ɮiləm (M)",
+    "audio": {
+      "slug": "zxiloxm",
+      "ipay": "dictionary/audio/ipay/zxiloxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxiloxm.mp3"
+    }
   },
   {
     "id": "1392",
@@ -127,7 +172,12 @@
       "thunderclap"
     ],
     "source": "M",
-    "original": "ɮəŋɮəŋ (M)"
+    "original": "ɮəŋɮəŋ (M)",
+    "audio": {
+      "slug": "zxoxnxzxoxnx",
+      "ipay": "dictionary/audio/ipay/zxoxnxzxoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxoxnxzxoxnx.mp3"
+    }
   },
   {
     "id": "1393",
@@ -153,7 +203,12 @@
       "climb"
     ],
     "source": "M",
-    "original": "ɮumakis (M)"
+    "original": "ɮumakis (M)",
+    "audio": {
+      "slug": "zxumakis",
+      "ipay": "dictionary/audio/ipay/zxumakis.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxumakis.mp3"
+    }
   },
   {
     "id": "1397",
@@ -166,7 +221,12 @@
       "scratch (to)"
     ],
     "source": "M",
-    "original": "ɮumakis (M)"
+    "original": "ɮumakis (M)",
+    "audio": {
+      "slug": "zxumakis",
+      "ipay": "dictionary/audio/ipay/zxumakis.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxumakis.mp3"
+    }
   },
   {
     "id": "1398",
@@ -179,7 +239,12 @@
       "see"
     ],
     "source": "M",
-    "original": "ɮumal (M)"
+    "original": "ɮumal (M)",
+    "audio": {
+      "slug": "zxumal",
+      "ipay": "dictionary/audio/ipay/zxumal.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxumal.mp3"
+    }
   },
   {
     "id": "1399",
@@ -192,7 +257,12 @@
       "toward seasliore"
     ],
     "source": "T",
-    "original": "ɮusapan"
+    "original": "ɮusapan",
+    "audio": {
+      "slug": "zxusapan",
+      "ipay": "dictionary/audio/ipay/zxusapan.mp3",
+      "hokkien": "dictionary/audio/hokkien/zxusapan.mp3"
+    }
   },
   {
     "id": "2061",
@@ -205,7 +275,12 @@
       "here"
     ],
     "source": "T",
-    "original": "tazian (S), zaay, zala"
+    "original": "tazian (S), zaay, zala",
+    "audio": {
+      "slug": "zaay",
+      "ipay": "dictionary/audio/ipay/zaay.mp3",
+      "hokkien": "dictionary/audio/hokkien/zaay.mp3"
+    }
   },
   {
     "id": "2339",
@@ -218,7 +293,12 @@
       "there"
     ],
     "source": "M",
-    "original": "zaizui (M)"
+    "original": "zaizui (M)",
+    "audio": {
+      "slug": "zaizui",
+      "ipay": "dictionary/audio/ipay/zaizui.mp3",
+      "hokkien": "dictionary/audio/hokkien/zaizui.mp3"
+    }
   },
   {
     "id": "2062",
@@ -231,7 +311,12 @@
       "here"
     ],
     "source": "T",
-    "original": "tazian (S), zaay, zala"
+    "original": "tazian (S), zaay, zala",
+    "audio": {
+      "slug": "zala",
+      "ipay": "dictionary/audio/ipay/zala.mp3",
+      "hokkien": "dictionary/audio/hokkien/zala.mp3"
+    }
   },
   {
     "id": "2340",
@@ -244,7 +329,12 @@
       "fire"
     ],
     "source": "M",
-    "original": "zamal (M)"
+    "original": "zamal (M)",
+    "audio": {
+      "slug": "zamal",
+      "ipay": "dictionary/audio/ipay/zamal.mp3",
+      "hokkien": "dictionary/audio/hokkien/zamal.mp3"
+    }
   },
   {
     "id": "2341",
@@ -257,7 +347,12 @@
       "rice paddy field"
     ],
     "source": "S",
-    "original": "zana (S)"
+    "original": "zana (S)",
+    "audio": {
+      "slug": "zana",
+      "ipay": "dictionary/audio/ipay/zana.mp3",
+      "hokkien": "dictionary/audio/hokkien/zana.mp3"
+    }
   },
   {
     "id": "2342",
@@ -270,7 +365,12 @@
       "water"
     ],
     "source": "T",
-    "original": "zanum"
+    "original": "zanum",
+    "audio": {
+      "slug": "zanum",
+      "ipay": "dictionary/audio/ipay/zanum.mp3",
+      "hokkien": "dictionary/audio/hokkien/zanum.mp3"
+    }
   },
   {
     "id": "2343",
@@ -283,7 +383,12 @@
       "this"
     ],
     "source": "T",
-    "original": "zau (loan from Kavalan)"
+    "original": "zau (loan from Kavalan)",
+    "audio": {
+      "slug": "zau_loan_from_kavalan",
+      "ipay": "dictionary/audio/ipay/zau_loan_from_kavalan.mp3",
+      "hokkien": "dictionary/audio/hokkien/zau_loan_from_kavalan.mp3"
+    }
   },
   {
     "id": "2344",
@@ -296,7 +401,12 @@
       "famous"
     ],
     "source": "T",
-    "original": "zawis"
+    "original": "zawis",
+    "audio": {
+      "slug": "zawis",
+      "ipay": "dictionary/audio/ipay/zawis.mp3",
+      "hokkien": "dictionary/audio/hokkien/zawis.mp3"
+    }
   },
   {
     "id": "2345",
@@ -309,7 +419,12 @@
       "keep looking"
     ],
     "source": "T",
-    "original": "zazal"
+    "original": "zazal",
+    "audio": {
+      "slug": "zazal",
+      "ipay": "dictionary/audio/ipay/zazal.mp3",
+      "hokkien": "dictionary/audio/hokkien/zazal.mp3"
+    }
   },
   {
     "id": "2347",
@@ -322,7 +437,12 @@
       "hot (weather)"
     ],
     "source": "M",
-    "original": "zazaŋ (M)"
+    "original": "zazaŋ (M)",
+    "audio": {
+      "slug": "zazanx",
+      "ipay": "dictionary/audio/ipay/zazanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/zazanx.mp3"
+    }
   },
   {
     "id": "2346",
@@ -335,7 +455,12 @@
       "meet"
     ],
     "source": "T",
-    "original": "zazanan"
+    "original": "zazanan",
+    "audio": {
+      "slug": "zazanan",
+      "ipay": "dictionary/audio/ipay/zazanan.mp3",
+      "hokkien": "dictionary/audio/hokkien/zazanan.mp3"
+    }
   },
   {
     "id": "2348",
@@ -348,7 +473,12 @@
       "so, in this way"
     ],
     "source": "T",
-    "original": "zazaw"
+    "original": "zazaw",
+    "audio": {
+      "slug": "zazaw",
+      "ipay": "dictionary/audio/ipay/zazaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/zazaw.mp3"
+    }
   },
   {
     "id": "2349",
@@ -361,7 +491,12 @@
       "day"
     ],
     "source": "T",
-    "original": "zian"
+    "original": "zian",
+    "audio": {
+      "slug": "zian",
+      "ipay": "dictionary/audio/ipay/zian.mp3",
+      "hokkien": "dictionary/audio/hokkien/zian.mp3"
+    }
   },
   {
     "id": "2350",
@@ -374,7 +509,12 @@
       "according to, also, it is said"
     ],
     "source": "T",
-    "original": "zina"
+    "original": "zina",
+    "audio": {
+      "slug": "zina",
+      "ipay": "dictionary/audio/ipay/zina.mp3",
+      "hokkien": "dictionary/audio/hokkien/zina.mp3"
+    }
   },
   {
     "id": "2352",
@@ -387,7 +527,12 @@
       "ascend, climb"
     ],
     "source": "T",
-    "original": "zmakis"
+    "original": "zmakis",
+    "audio": {
+      "slug": "zmakis",
+      "ipay": "dictionary/audio/ipay/zmakis.mp3",
+      "hokkien": "dictionary/audio/hokkien/zmakis.mp3"
+    }
   },
   {
     "id": "2351",
@@ -400,7 +545,12 @@
       "alright, really, right"
     ],
     "source": "T",
-    "original": "zmakən"
+    "original": "zmakən",
+    "audio": {
+      "slug": "zmakoxn",
+      "ipay": "dictionary/audio/ipay/zmakoxn.mp3",
+      "hokkien": "dictionary/audio/hokkien/zmakoxn.mp3"
+    }
   },
   {
     "id": "2353",
@@ -426,7 +576,12 @@
       "pound rice"
     ],
     "source": "T",
-    "original": "zmawakka"
+    "original": "zmawakka",
+    "audio": {
+      "slug": "zmawakka",
+      "ipay": "dictionary/audio/ipay/zmawakka.mp3",
+      "hokkien": "dictionary/audio/hokkien/zmawakka.mp3"
+    }
   },
   {
     "id": "2355",
@@ -439,7 +594,12 @@
       "oldest son"
     ],
     "source": "M",
-    "original": "zozao (M)"
+    "original": "zozao (M)",
+    "audio": {
+      "slug": "zozao",
+      "ipay": "dictionary/audio/ipay/zozao.mp3",
+      "hokkien": "dictionary/audio/hokkien/zozao.mp3"
+    }
   },
   {
     "id": "2356",
@@ -452,7 +612,12 @@
       "into"
     ],
     "source": "T",
-    "original": "zu"
+    "original": "zu",
+    "audio": {
+      "slug": "zu",
+      "ipay": "dictionary/audio/ipay/zu.mp3",
+      "hokkien": "dictionary/audio/hokkien/zu.mp3"
+    }
   },
   {
     "id": "2357",
@@ -478,7 +643,12 @@
       "someone (referential)"
     ],
     "source": "T",
-    "original": "zumaia"
+    "original": "zumaia",
+    "audio": {
+      "slug": "zumaia",
+      "ipay": "dictionary/audio/ipay/zumaia.mp3",
+      "hokkien": "dictionary/audio/hokkien/zumaia.mp3"
+    }
   },
   {
     "id": "2359",
@@ -491,7 +661,12 @@
       "really"
     ],
     "source": "S",
-    "original": "zumakinu (S)"
+    "original": "zumakinu (S)",
+    "audio": {
+      "slug": "zumakinu",
+      "ipay": "dictionary/audio/ipay/zumakinu.mp3",
+      "hokkien": "dictionary/audio/hokkien/zumakinu.mp3"
+    }
   },
   {
     "id": "2360",
@@ -504,7 +679,12 @@
       "arrive"
     ],
     "source": "T",
-    "original": "zumap"
+    "original": "zumap",
+    "audio": {
+      "slug": "zumap",
+      "ipay": "dictionary/audio/ipay/zumap.mp3",
+      "hokkien": "dictionary/audio/hokkien/zumap.mp3"
+    }
   },
   {
     "id": "2361",
@@ -517,7 +697,12 @@
       "hang"
     ],
     "source": "M",
-    "original": "zumaueta (M)"
+    "original": "zumaueta (M)",
+    "audio": {
+      "slug": "zumaueta",
+      "ipay": "dictionary/audio/ipay/zumaueta.mp3",
+      "hokkien": "dictionary/audio/hokkien/zumaueta.mp3"
+    }
   },
   {
     "id": "2362",
@@ -530,7 +715,12 @@
       "drum, gong"
     ],
     "source": "M",
-    "original": "zuŋzuŋan (M)"
+    "original": "zuŋzuŋan (M)",
+    "audio": {
+      "slug": "zunxzunxan",
+      "ipay": "dictionary/audio/ipay/zunxzunxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/zunxzunxan.mp3"
+    }
   },
   {
     "id": "1870",
@@ -543,7 +733,12 @@
       "adhere"
     ],
     "source": "T",
-    "original": "qumapiz (M), zupetta"
+    "original": "qumapiz (M), zupetta",
+    "audio": {
+      "slug": "zupetta",
+      "ipay": "dictionary/audio/ipay/zupetta.mp3",
+      "hokkien": "dictionary/audio/hokkien/zupetta.mp3"
+    }
   },
   {
     "id": "1999",
@@ -556,7 +751,12 @@
       "adhere"
     ],
     "source": "T",
-    "original": "qumapiz (M), zupetta"
+    "original": "qumapiz (M), zupetta",
+    "audio": {
+      "slug": "zupetta",
+      "ipay": "dictionary/audio/ipay/zupetta.mp3",
+      "hokkien": "dictionary/audio/hokkien/zupetta.mp3"
+    }
   },
   {
     "id": "1359",
@@ -569,6 +769,11 @@
       "two (nonhuman)"
     ],
     "source": "T",
-    "original": "lusa (S), zusa"
+    "original": "lusa (S), zusa",
+    "audio": {
+      "slug": "zusa",
+      "ipay": "dictionary/audio/ipay/zusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/zusa.mp3"
+    }
   }
 ]

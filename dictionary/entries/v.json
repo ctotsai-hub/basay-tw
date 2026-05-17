@@ -10,7 +10,12 @@
       "ditch"
     ],
     "source": "M",
-    "original": "vaaŋ (M)"
+    "original": "vaaŋ (M)",
+    "audio": {
+      "slug": "vaanx",
+      "ipay": "dictionary/audio/ipay/vaanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vaanx.mp3"
+    }
   },
   {
     "id": "2238",
@@ -23,7 +28,12 @@
       "wind"
     ],
     "source": "S",
-    "original": "vaɭi (S)，vaisi (S)"
+    "original": "vaɭi (S)，vaisi (S)",
+    "audio": {
+      "slug": "vaisi",
+      "ipay": "dictionary/audio/ipay/vaisi.mp3",
+      "hokkien": "dictionary/audio/hokkien/vaisi.mp3"
+    }
   },
   {
     "id": "2231",
@@ -36,7 +46,12 @@
       "strong"
     ],
     "source": "M",
-    "original": "vakət (M)"
+    "original": "vakət (M)",
+    "audio": {
+      "slug": "vakoxt",
+      "ipay": "dictionary/audio/ipay/vakoxt.mp3",
+      "hokkien": "dictionary/audio/hokkien/vakoxt.mp3"
+    }
   },
   {
     "id": "2232",
@@ -49,7 +64,12 @@
       "enough"
     ],
     "source": "M",
-    "original": "vakut (M)"
+    "original": "vakut (M)",
+    "audio": {
+      "slug": "vakut",
+      "ipay": "dictionary/audio/ipay/vakut.mp3",
+      "hokkien": "dictionary/audio/hokkien/vakut.mp3"
+    }
   },
   {
     "id": "2233",
@@ -62,7 +82,12 @@
       "old man"
     ],
     "source": "T",
-    "original": "vakvaki"
+    "original": "vakvaki",
+    "audio": {
+      "slug": "vakvaki",
+      "ipay": "dictionary/audio/ipay/vakvaki.mp3",
+      "hokkien": "dictionary/audio/hokkien/vakvaki.mp3"
+    }
   },
   {
     "id": "2237",
@@ -75,7 +100,12 @@
       "wind"
     ],
     "source": "S",
-    "original": "vaɭi (S)，vaisi (S)"
+    "original": "vaɭi (S)，vaisi (S)",
+    "audio": {
+      "slug": "valxi",
+      "ipay": "dictionary/audio/ipay/valxi.mp3",
+      "hokkien": "dictionary/audio/hokkien/valxi.mp3"
+    }
   },
   {
     "id": "2239",
@@ -88,7 +118,12 @@
       "seaweed"
     ],
     "source": "M",
-    "original": "vaɭiu (M)"
+    "original": "vaɭiu (M)",
+    "audio": {
+      "slug": "valxiu",
+      "ipay": "dictionary/audio/ipay/valxiu.mp3",
+      "hokkien": "dictionary/audio/hokkien/valxiu.mp3"
+    }
   },
   {
     "id": "2240",
@@ -101,7 +136,12 @@
       "drop into"
     ],
     "source": "T",
-    "original": "vaɭsi"
+    "original": "vaɭsi",
+    "audio": {
+      "slug": "valxsi",
+      "ipay": "dictionary/audio/ipay/valxsi.mp3",
+      "hokkien": "dictionary/audio/hokkien/valxsi.mp3"
+    }
   },
   {
     "id": "1106",
@@ -117,7 +157,12 @@
       "give"
     ],
     "source": "B",
-    "original": "valai"
+    "original": "valai",
+    "audio": {
+      "slug": "valai",
+      "ipay": "dictionary/audio/ipay/valai.mp3",
+      "hokkien": "dictionary/audio/hokkien/valai.mp3"
+    }
   },
   {
     "id": "2234",
@@ -130,7 +175,12 @@
       "door"
     ],
     "source": "T",
-    "original": "valat"
+    "original": "valat",
+    "audio": {
+      "slug": "valat",
+      "ipay": "dictionary/audio/ipay/valat.mp3",
+      "hokkien": "dictionary/audio/hokkien/valat.mp3"
+    }
   },
   {
     "id": "2235",
@@ -143,7 +193,12 @@
       "shut the door"
     ],
     "source": "M",
-    "original": "valata (M)"
+    "original": "valata (M)",
+    "audio": {
+      "slug": "valata",
+      "ipay": "dictionary/audio/ipay/valata.mp3",
+      "hokkien": "dictionary/audio/hokkien/valata.mp3"
+    }
   },
   {
     "id": "2236",
@@ -156,7 +211,12 @@
       "long (time)"
     ],
     "source": "T",
-    "original": "valuvaiuŋ"
+    "original": "valuvaiuŋ",
+    "audio": {
+      "slug": "valuvaiunx",
+      "ipay": "dictionary/audio/ipay/valuvaiunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/valuvaiunx.mp3"
+    }
   },
   {
     "id": "2246",
@@ -169,7 +229,12 @@
       "canoe"
     ],
     "source": "M",
-    "original": "vaŋka (M)"
+    "original": "vaŋka (M)",
+    "audio": {
+      "slug": "vanxka",
+      "ipay": "dictionary/audio/ipay/vanxka.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanxka.mp3"
+    }
   },
   {
     "id": "2247",
@@ -195,7 +260,12 @@
       "name of a village"
     ],
     "source": "M",
-    "original": "vaŋun (M)"
+    "original": "vaŋun (M)",
+    "audio": {
+      "slug": "vanxun",
+      "ipay": "dictionary/audio/ipay/vanxun.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanxun.mp3"
+    }
   },
   {
     "id": "2241",
@@ -208,7 +278,12 @@
       "field, land"
     ],
     "source": "T",
-    "original": "vanaŋ"
+    "original": "vanaŋ",
+    "audio": {
+      "slug": "vananx",
+      "ipay": "dictionary/audio/ipay/vananx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vananx.mp3"
+    }
   },
   {
     "id": "2242",
@@ -221,7 +296,12 @@
       "torn"
     ],
     "source": "M",
-    "original": "vanet (M)"
+    "original": "vanet (M)",
+    "audio": {
+      "slug": "vanet",
+      "ipay": "dictionary/audio/ipay/vanet.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanet.mp3"
+    }
   },
   {
     "id": "2244",
@@ -234,7 +314,12 @@
       "body hair"
     ],
     "source": "M",
-    "original": "vano (M)"
+    "original": "vano (M)",
+    "audio": {
+      "slug": "vano",
+      "ipay": "dictionary/audio/ipay/vano.mp3",
+      "hokkien": "dictionary/audio/hokkien/vano.mp3"
+    }
   },
   {
     "id": "2243",
@@ -247,7 +332,12 @@
       "feather"
     ],
     "source": "S",
-    "original": "vanəl (S)"
+    "original": "vanəl (S)",
+    "audio": {
+      "slug": "vanoxl",
+      "ipay": "dictionary/audio/ipay/vanoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanoxl.mp3"
+    }
   },
   {
     "id": "2245",
@@ -260,7 +350,12 @@
       "treasure"
     ],
     "source": "S",
-    "original": "vanuŋ (S)"
+    "original": "vanuŋ (S)",
+    "audio": {
+      "slug": "vanunx",
+      "ipay": "dictionary/audio/ipay/vanunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vanunx.mp3"
+    }
   },
   {
     "id": "2249",
@@ -273,7 +368,12 @@
       "iron"
     ],
     "source": "M",
-    "original": "varis (M)"
+    "original": "varis (M)",
+    "audio": {
+      "slug": "varis",
+      "ipay": "dictionary/audio/ipay/varis.mp3",
+      "hokkien": "dictionary/audio/hokkien/varis.mp3"
+    }
   },
   {
     "id": "2250",
@@ -286,7 +386,12 @@
       "sneeze"
     ],
     "source": "M",
-    "original": "vasiŋ (M)"
+    "original": "vasiŋ (M)",
+    "audio": {
+      "slug": "vasinx",
+      "ipay": "dictionary/audio/ipay/vasinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vasinx.mp3"
+    }
   },
   {
     "id": "2251",
@@ -299,7 +404,12 @@
       "throw away"
     ],
     "source": "T",
-    "original": "vasiw"
+    "original": "vasiw",
+    "audio": {
+      "slug": "vasiw",
+      "ipay": "dictionary/audio/ipay/vasiw.mp3",
+      "hokkien": "dictionary/audio/hokkien/vasiw.mp3"
+    }
   },
   {
     "id": "1446",
@@ -312,7 +422,12 @@
       "egret"
     ],
     "source": "M",
-    "original": "manuq (S), vate (M)"
+    "original": "manuq (S), vate (M)",
+    "audio": {
+      "slug": "vate",
+      "ipay": "dictionary/audio/ipay/vate.mp3",
+      "hokkien": "dictionary/audio/hokkien/vate.mp3"
+    }
   },
   {
     "id": "2252",
@@ -325,7 +440,12 @@
       "white"
     ],
     "source": "M",
-    "original": "vate (M)"
+    "original": "vate (M)",
+    "audio": {
+      "slug": "vate",
+      "ipay": "dictionary/audio/ipay/vate.mp3",
+      "hokkien": "dictionary/audio/hokkien/vate.mp3"
+    }
   },
   {
     "id": "2253",
@@ -338,7 +458,12 @@
       "ship"
     ],
     "source": "M",
-    "original": "vatsal (M)"
+    "original": "vatsal (M)",
+    "audio": {
+      "slug": "vatsal",
+      "ipay": "dictionary/audio/ipay/vatsal.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatsal.mp3"
+    }
   },
   {
     "id": "1107",
@@ -354,7 +479,12 @@
       "today"
     ],
     "source": "B",
-    "original": "vatsi"
+    "original": "vatsi",
+    "audio": {
+      "slug": "vatsi",
+      "ipay": "dictionary/audio/ipay/vatsi.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatsi.mp3"
+    }
   },
   {
     "id": "2255",
@@ -367,7 +497,12 @@
       "sell"
     ],
     "source": "M",
-    "original": "vatsiu (M)"
+    "original": "vatsiu (M)",
+    "audio": {
+      "slug": "vatsiu",
+      "ipay": "dictionary/audio/ipay/vatsiu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatsiu.mp3"
+    }
   },
   {
     "id": "2254",
@@ -380,7 +515,12 @@
       "smoke"
     ],
     "source": "M",
-    "original": "vatsəŋ (M)"
+    "original": "vatsəŋ (M)",
+    "audio": {
+      "slug": "vatsoxnx",
+      "ipay": "dictionary/audio/ipay/vatsoxnx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatsoxnx.mp3"
+    }
   },
   {
     "id": "2256",
@@ -393,7 +533,12 @@
       "dominate"
     ],
     "source": "T",
-    "original": "vatsun"
+    "original": "vatsun",
+    "audio": {
+      "slug": "vatsun",
+      "ipay": "dictionary/audio/ipay/vatsun.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatsun.mp3"
+    }
   },
   {
     "id": "2257",
@@ -406,7 +551,12 @@
       "stone"
     ],
     "source": "T",
-    "original": "vatu"
+    "original": "vatu",
+    "audio": {
+      "slug": "vatu",
+      "ipay": "dictionary/audio/ipay/vatu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatu.mp3"
+    }
   },
   {
     "id": "2258",
@@ -419,7 +569,12 @@
       "cut"
     ],
     "source": "T",
-    "original": "vatuk"
+    "original": "vatuk",
+    "audio": {
+      "slug": "vatuk",
+      "ipay": "dictionary/audio/ipay/vatuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/vatuk.mp3"
+    }
   },
   {
     "id": "2259",
@@ -432,7 +587,12 @@
       "fish"
     ],
     "source": "T",
-    "original": "vaut"
+    "original": "vaut",
+    "audio": {
+      "slug": "vaut",
+      "ipay": "dictionary/audio/ipay/vaut.mp3",
+      "hokkien": "dictionary/audio/hokkien/vaut.mp3"
+    }
   },
   {
     "id": "2260",
@@ -445,7 +605,12 @@
       "salted fish"
     ],
     "source": "M",
-    "original": "vautu mtaləm (M)"
+    "original": "vautu mtaləm (M)",
+    "audio": {
+      "slug": "vautu_mtaloxm",
+      "ipay": "dictionary/audio/ipay/vautu_mtaloxm.mp3",
+      "hokkien": "dictionary/audio/hokkien/vautu_mtaloxm.mp3"
+    }
   },
   {
     "id": "2261",
@@ -458,7 +623,12 @@
       "dry farm land (potato)"
     ],
     "source": "M",
-    "original": "vauvi (M)"
+    "original": "vauvi (M)",
+    "audio": {
+      "slug": "vauvi",
+      "ipay": "dictionary/audio/ipay/vauvi.mp3",
+      "hokkien": "dictionary/audio/hokkien/vauvi.mp3"
+    }
   },
   {
     "id": "2262",
@@ -471,7 +641,12 @@
       "carry on back"
     ],
     "source": "T",
-    "original": "vavaan"
+    "original": "vavaan",
+    "audio": {
+      "slug": "vavaan",
+      "ipay": "dictionary/audio/ipay/vavaan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vavaan.mp3"
+    }
   },
   {
     "id": "2263",
@@ -484,7 +659,12 @@
       "name of a village"
     ],
     "source": "M",
-    "original": "vavaŋ (M)"
+    "original": "vavaŋ (M)",
+    "audio": {
+      "slug": "vavanx",
+      "ipay": "dictionary/audio/ipay/vavanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vavanx.mp3"
+    }
   },
   {
     "id": "2264",
@@ -497,7 +677,12 @@
       "boat"
     ],
     "source": "T",
-    "original": "vawa"
+    "original": "vawa",
+    "audio": {
+      "slug": "vawa",
+      "ipay": "dictionary/audio/ipay/vawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/vawa.mp3"
+    }
   },
   {
     "id": "2265",
@@ -510,7 +695,12 @@
       "ancestor"
     ],
     "source": "T",
-    "original": "vayvalan"
+    "original": "vayvalan",
+    "audio": {
+      "slug": "vayvalan",
+      "ipay": "dictionary/audio/ipay/vayvalan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vayvalan.mp3"
+    }
   },
   {
     "id": "2266",
@@ -523,7 +713,12 @@
       "break"
     ],
     "source": "M",
-    "original": "vcqail (M)"
+    "original": "vcqail (M)",
+    "audio": {
+      "slug": "vcqail",
+      "ipay": "dictionary/audio/ipay/vcqail.mp3",
+      "hokkien": "dictionary/audio/hokkien/vcqail.mp3"
+    }
   },
   {
     "id": "2267",
@@ -536,7 +731,12 @@
       "bolt, bear of the door"
     ],
     "source": "M",
-    "original": "vesəl (M)"
+    "original": "vesəl (M)",
+    "audio": {
+      "slug": "vesoxl",
+      "ipay": "dictionary/audio/ipay/vesoxl.mp3",
+      "hokkien": "dictionary/audio/hokkien/vesoxl.mp3"
+    }
   },
   {
     "id": "2270",
@@ -549,7 +749,12 @@
       "cut open, split"
     ],
     "source": "S",
-    "original": "viate (S)"
+    "original": "viate (S)",
+    "audio": {
+      "slug": "viate",
+      "ipay": "dictionary/audio/ipay/viate.mp3",
+      "hokkien": "dictionary/audio/hokkien/viate.mp3"
+    }
   },
   {
     "id": "2271",
@@ -562,7 +767,12 @@
       "bend, curve"
     ],
     "source": "M",
-    "original": "viau (M)"
+    "original": "viau (M)",
+    "audio": {
+      "slug": "viau",
+      "ipay": "dictionary/audio/ipay/viau.mp3",
+      "hokkien": "dictionary/audio/hokkien/viau.mp3"
+    }
   },
   {
     "id": "2272",
@@ -575,7 +785,12 @@
       "calculate"
     ],
     "source": "M",
-    "original": "vilaŋ (M)"
+    "original": "vilaŋ (M)",
+    "audio": {
+      "slug": "vilanx",
+      "ipay": "dictionary/audio/ipay/vilanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vilanx.mp3"
+    }
   },
   {
     "id": "2273",
@@ -588,7 +803,12 @@
       "girl, woman, wile"
     ],
     "source": "T",
-    "original": "vinay"
+    "original": "vinay",
+    "audio": {
+      "slug": "vinay",
+      "ipay": "dictionary/audio/ipay/vinay.mp3",
+      "hokkien": "dictionary/audio/hokkien/vinay.mp3"
+    }
   },
   {
     "id": "2274",
@@ -601,7 +821,12 @@
       "latch"
     ],
     "source": "T",
-    "original": "vislan"
+    "original": "vislan",
+    "audio": {
+      "slug": "vislan",
+      "ipay": "dictionary/audio/ipay/vislan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vislan.mp3"
+    }
   },
   {
     "id": "2275",
@@ -614,7 +839,12 @@
       "cradle"
     ],
     "source": "M",
-    "original": "visun (M)"
+    "original": "visun (M)",
+    "audio": {
+      "slug": "visun",
+      "ipay": "dictionary/audio/ipay/visun.mp3",
+      "hokkien": "dictionary/audio/hokkien/visun.mp3"
+    }
   },
   {
     "id": "2276",
@@ -627,7 +857,12 @@
       "prop up"
     ],
     "source": "T",
-    "original": "vivis"
+    "original": "vivis",
+    "audio": {
+      "slug": "vivis",
+      "ipay": "dictionary/audio/ipay/vivis.mp3",
+      "hokkien": "dictionary/audio/hokkien/vivis.mp3"
+    }
   },
   {
     "id": "2277",
@@ -640,7 +875,12 @@
       "pinched by stones"
     ],
     "source": "T",
-    "original": "vivittu"
+    "original": "vivittu",
+    "audio": {
+      "slug": "vivittu",
+      "ipay": "dictionary/audio/ipay/vivittu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vivittu.mp3"
+    }
   },
   {
     "id": "2278",
@@ -653,7 +893,12 @@
       "swing, shake"
     ],
     "source": "T",
-    "original": "viwviwta"
+    "original": "viwviwta",
+    "audio": {
+      "slug": "viwviwta",
+      "ipay": "dictionary/audio/ipay/viwviwta.mp3",
+      "hokkien": "dictionary/audio/hokkien/viwviwta.mp3"
+    }
   },
   {
     "id": "2279",
@@ -666,7 +911,12 @@
       "cover with earth"
     ],
     "source": "T",
-    "original": "vkasan"
+    "original": "vkasan",
+    "audio": {
+      "slug": "vkasan",
+      "ipay": "dictionary/audio/ipay/vkasan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vkasan.mp3"
+    }
   },
   {
     "id": "2284",
@@ -679,7 +929,12 @@
       "give, return"
     ],
     "source": "M",
-    "original": "vɭajanimau < vlaj (M)"
+    "original": "vɭajanimau < vlaj (M)",
+    "audio": {
+      "slug": "vlxajanimau_vlaj",
+      "ipay": "dictionary/audio/ipay/vlxajanimau_vlaj.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlxajanimau_vlaj.mp3"
+    }
   },
   {
     "id": "2285",
@@ -692,7 +947,12 @@
       "firefly"
     ],
     "source": "M",
-    "original": "vɭaɭowan (M)"
+    "original": "vɭaɭowan (M)",
+    "audio": {
+      "slug": "vlxalxowan",
+      "ipay": "dictionary/audio/ipay/vlxalxowan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlxalxowan.mp3"
+    }
   },
   {
     "id": "2286",
@@ -705,7 +965,12 @@
       "dung beetle"
     ],
     "source": "T",
-    "original": "vɭaɭuan"
+    "original": "vɭaɭuan",
+    "audio": {
+      "slug": "vlxalxuan",
+      "ipay": "dictionary/audio/ipay/vlxalxuan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlxalxuan.mp3"
+    }
   },
   {
     "id": "2287",
@@ -718,7 +983,12 @@
       "clean"
     ],
     "source": "M",
-    "original": "vɭaməs tsaŋas uqu (?) (M)"
+    "original": "vɭaməs tsaŋas uqu (?) (M)",
+    "audio": {
+      "slug": "vlxamoxs_tsanxas_uqu",
+      "ipay": "dictionary/audio/ipay/vlxamoxs_tsanxas_uqu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlxamoxs_tsanxas_uqu.mp3"
+    }
   },
   {
     "id": "2280",
@@ -731,7 +1001,12 @@
       "unstable, totter"
     ],
     "source": "M",
-    "original": "vlailain (M)"
+    "original": "vlailain (M)",
+    "audio": {
+      "slug": "vlailain",
+      "ipay": "dictionary/audio/ipay/vlailain.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlailain.mp3"
+    }
   },
   {
     "id": "2281",
@@ -744,7 +1019,12 @@
       "embrace, hold"
     ],
     "source": "M",
-    "original": "vlaqu (M)"
+    "original": "vlaqu (M)",
+    "audio": {
+      "slug": "vlaqu",
+      "ipay": "dictionary/audio/ipay/vlaqu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlaqu.mp3"
+    }
   },
   {
     "id": "2282",
@@ -757,7 +1037,12 @@
       "receive plenty"
     ],
     "source": "T",
-    "original": "vlavlayan"
+    "original": "vlavlayan",
+    "audio": {
+      "slug": "vlavlayan",
+      "ipay": "dictionary/audio/ipay/vlavlayan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlavlayan.mp3"
+    }
   },
   {
     "id": "2283",
@@ -770,7 +1055,12 @@
       "give"
     ],
     "source": "T",
-    "original": "vlay"
+    "original": "vlay",
+    "audio": {
+      "slug": "vlay",
+      "ipay": "dictionary/audio/ipay/vlay.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlay.mp3"
+    }
   },
   {
     "id": "2288",
@@ -783,7 +1073,12 @@
       "suitable"
     ],
     "source": "T",
-    "original": "vluŋusan"
+    "original": "vluŋusan",
+    "audio": {
+      "slug": "vlunxusan",
+      "ipay": "dictionary/audio/ipay/vlunxusan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vlunxusan.mp3"
+    }
   },
   {
     "id": "2268",
@@ -796,7 +1091,12 @@
       "come down"
     ],
     "source": "T",
-    "original": "vədk"
+    "original": "vədk",
+    "audio": {
+      "slug": "voxdk",
+      "ipay": "dictionary/audio/ipay/voxdk.mp3",
+      "hokkien": "dictionary/audio/hokkien/voxdk.mp3"
+    }
   },
   {
     "id": "2269",
@@ -809,7 +1109,12 @@
       "untie"
     ],
     "source": "T",
-    "original": "vəqaan"
+    "original": "vəqaan",
+    "audio": {
+      "slug": "voxqaan",
+      "ipay": "dictionary/audio/ipay/voxqaan.mp3",
+      "hokkien": "dictionary/audio/hokkien/voxqaan.mp3"
+    }
   },
   {
     "id": "2289",
@@ -822,7 +1127,12 @@
       "bloom (to)"
     ],
     "source": "M",
-    "original": "vojeq (M)"
+    "original": "vojeq (M)",
+    "audio": {
+      "slug": "vojeq",
+      "ipay": "dictionary/audio/ipay/vojeq.mp3",
+      "hokkien": "dictionary/audio/hokkien/vojeq.mp3"
+    }
   },
   {
     "id": "2290",
@@ -835,7 +1145,12 @@
       "ear"
     ],
     "source": "M",
-    "original": "voɭoan (M)"
+    "original": "voɭoan (M)",
+    "audio": {
+      "slug": "volxoan",
+      "ipay": "dictionary/audio/ipay/volxoan.mp3",
+      "hokkien": "dictionary/audio/hokkien/volxoan.mp3"
+    }
   },
   {
     "id": "2291",
@@ -848,7 +1163,12 @@
       "under"
     ],
     "source": "M",
-    "original": "voŋoɭo (M)"
+    "original": "voŋoɭo (M)",
+    "audio": {
+      "slug": "vonxolxo",
+      "ipay": "dictionary/audio/ipay/vonxolxo.mp3",
+      "hokkien": "dictionary/audio/hokkien/vonxolxo.mp3"
+    }
   },
   {
     "id": "2292",
@@ -861,7 +1181,12 @@
       "testicle"
     ],
     "source": "M",
-    "original": "votol (M)"
+    "original": "votol (M)",
+    "audio": {
+      "slug": "votol",
+      "ipay": "dictionary/audio/ipay/votol.mp3",
+      "hokkien": "dictionary/audio/hokkien/votol.mp3"
+    }
   },
   {
     "id": "2293",
@@ -874,7 +1199,12 @@
       "hot water"
     ],
     "source": "M",
-    "original": "votse (M)"
+    "original": "votse (M)",
+    "audio": {
+      "slug": "votse",
+      "ipay": "dictionary/audio/ipay/votse.mp3",
+      "hokkien": "dictionary/audio/hokkien/votse.mp3"
+    }
   },
   {
     "id": "2294",
@@ -887,7 +1217,12 @@
       "bring home"
     ],
     "source": "M",
-    "original": "vozno (M)"
+    "original": "vozno (M)",
+    "audio": {
+      "slug": "vozno",
+      "ipay": "dictionary/audio/ipay/vozno.mp3",
+      "hokkien": "dictionary/audio/hokkien/vozno.mp3"
+    }
   },
   {
     "id": "2295",
@@ -900,7 +1235,12 @@
       "break, destroy"
     ],
     "source": "M",
-    "original": "vuiŋ (M), vuiŋan"
+    "original": "vuiŋ (M), vuiŋan",
+    "audio": {
+      "slug": "vuinx",
+      "ipay": "dictionary/audio/ipay/vuinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vuinx.mp3"
+    }
   },
   {
     "id": "2296",
@@ -913,7 +1253,12 @@
       "break, destroy"
     ],
     "source": "T",
-    "original": "vuiŋ (M), vuiŋan"
+    "original": "vuiŋ (M), vuiŋan",
+    "audio": {
+      "slug": "vuinxan",
+      "ipay": "dictionary/audio/ipay/vuinxan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vuinxan.mp3"
+    }
   },
   {
     "id": "2297",
@@ -939,7 +1284,12 @@
       "radish"
     ],
     "source": "M",
-    "original": "vuɭu (M)"
+    "original": "vuɭu (M)",
+    "audio": {
+      "slug": "vulxu",
+      "ipay": "dictionary/audio/ipay/vulxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/vulxu.mp3"
+    }
   },
   {
     "id": "2301",
@@ -952,7 +1302,12 @@
       "warm"
     ],
     "source": "T",
-    "original": "vuɭvuɭ"
+    "original": "vuɭvuɭ",
+    "audio": {
+      "slug": "vulxvulx",
+      "ipay": "dictionary/audio/ipay/vulxvulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/vulxvulx.mp3"
+    }
   },
   {
     "id": "2298",
@@ -965,7 +1320,12 @@
       "give"
     ],
     "source": "M",
-    "original": "vulai (M)"
+    "original": "vulai (M)",
+    "audio": {
+      "slug": "vulai",
+      "ipay": "dictionary/audio/ipay/vulai.mp3",
+      "hokkien": "dictionary/audio/hokkien/vulai.mp3"
+    }
   },
   {
     "id": "2299",
@@ -978,7 +1338,12 @@
       "rice"
     ],
     "source": "M",
-    "original": "vulats (M)"
+    "original": "vulats (M)",
+    "audio": {
+      "slug": "vulats",
+      "ipay": "dictionary/audio/ipay/vulats.mp3",
+      "hokkien": "dictionary/audio/hokkien/vulats.mp3"
+    }
   },
   {
     "id": "2302",
@@ -1004,7 +1369,12 @@
       "pig's feet"
     ],
     "source": "T",
-    "original": "vuqutta"
+    "original": "vuqutta",
+    "audio": {
+      "slug": "vuqutta",
+      "ipay": "dictionary/audio/ipay/vuqutta.mp3",
+      "hokkien": "dictionary/audio/hokkien/vuqutta.mp3"
+    }
   },
   {
     "id": "2304",
@@ -1017,7 +1387,12 @@
       "stars"
     ],
     "source": "M",
-    "original": "vurtlan (M)"
+    "original": "vurtlan (M)",
+    "audio": {
+      "slug": "vurtlan",
+      "ipay": "dictionary/audio/ipay/vurtlan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vurtlan.mp3"
+    }
   },
   {
     "id": "2305",
@@ -1030,7 +1405,12 @@
       "roast"
     ],
     "source": "M",
-    "original": "vurvur (M)"
+    "original": "vurvur (M)",
+    "audio": {
+      "slug": "vurvur",
+      "ipay": "dictionary/audio/ipay/vurvur.mp3",
+      "hokkien": "dictionary/audio/hokkien/vurvur.mp3"
+    }
   },
   {
     "id": "2306",
@@ -1043,7 +1423,12 @@
       "drunk"
     ],
     "source": "M",
-    "original": "vusuk (M)"
+    "original": "vusuk (M)",
+    "audio": {
+      "slug": "vusuk",
+      "ipay": "dictionary/audio/ipay/vusuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/vusuk.mp3"
+    }
   },
   {
     "id": "2309",
@@ -1056,7 +1441,12 @@
       "moon"
     ],
     "source": "M",
-    "original": "vutsan (M)"
+    "original": "vutsan (M)",
+    "audio": {
+      "slug": "vutsan",
+      "ipay": "dictionary/audio/ipay/vutsan.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutsan.mp3"
+    }
   },
   {
     "id": "2310",
@@ -1069,7 +1459,12 @@
       "next month"
     ],
     "source": "M",
-    "original": "vutsan u utsa (M)"
+    "original": "vutsan u utsa (M)",
+    "audio": {
+      "slug": "vutsan_u_utsa",
+      "ipay": "dictionary/audio/ipay/vutsan_u_utsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutsan_u_utsa.mp3"
+    }
   },
   {
     "id": "2311",
@@ -1082,7 +1477,12 @@
       "this month"
     ],
     "source": "M",
-    "original": "vutsanaɭai (M)"
+    "original": "vutsanaɭai (M)",
+    "audio": {
+      "slug": "vutsanalxai",
+      "ipay": "dictionary/audio/ipay/vutsanalxai.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutsanalxai.mp3"
+    }
   },
   {
     "id": "2312",
@@ -1108,7 +1508,12 @@
       "Taiwanese"
     ],
     "source": "M",
-    "original": "vutsuts (M)"
+    "original": "vutsuts (M)",
+    "audio": {
+      "slug": "vutsuts",
+      "ipay": "dictionary/audio/ipay/vutsuts.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutsuts.mp3"
+    }
   },
   {
     "id": "2314",
@@ -1121,7 +1526,12 @@
       "Chinese"
     ],
     "source": "T",
-    "original": "vutsutsa"
+    "original": "vutsutsa",
+    "audio": {
+      "slug": "vutsutsa",
+      "ipay": "dictionary/audio/ipay/vutsutsa.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutsutsa.mp3"
+    }
   },
   {
     "id": "2307",
@@ -1134,7 +1544,12 @@
       "cat"
     ],
     "source": "M",
-    "original": "vutun (M)"
+    "original": "vutun (M)",
+    "audio": {
+      "slug": "vutun",
+      "ipay": "dictionary/audio/ipay/vutun.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutun.mp3"
+    }
   },
   {
     "id": "2308",
@@ -1147,7 +1562,12 @@
       "fountain"
     ],
     "source": "M",
-    "original": "vutvutta (M)"
+    "original": "vutvutta (M)",
+    "audio": {
+      "slug": "vutvutta",
+      "ipay": "dictionary/audio/ipay/vutvutta.mp3",
+      "hokkien": "dictionary/audio/hokkien/vutvutta.mp3"
+    }
   },
   {
     "id": "2315",
@@ -1160,6 +1580,11 @@
       "accomplishment"
     ],
     "source": "M",
-    "original": "vuut (M)"
+    "original": "vuut (M)",
+    "audio": {
+      "slug": "vuut",
+      "ipay": "dictionary/audio/ipay/vuut.mp3",
+      "hokkien": "dictionary/audio/hokkien/vuut.mp3"
+    }
   }
 ]
