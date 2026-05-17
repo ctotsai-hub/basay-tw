@@ -20,6 +20,7 @@ basay_text.py — 表記から slug と TTS テキストを派生する（v3 / 2
 """
 import re
 import sys
+from pathlib import Path
 from typing import List, Optional, Tuple
 
 SPECIAL_CHAR_MAP = {
@@ -27,6 +28,63 @@ SPECIAL_CHAR_MAP = {
     "'": 'x', '’': 'x',
     'ə': 'e', 'ɨ': 'i',
 }
+
+
+# --- word_rewrites.tsv (HF Space と同じ仕組み) -----------------------
+# Format:  source<TAB>target  (タブ区切り推奨、スペース区切りも許容)
+#   source は小文字に正規化されてマッチ（case-insensitive）
+#   target にスペースが含まれていたら、結果が re-tokenize される
+# 配置: scripts/data/word_rewrites.tsv （リポジトリ管理、HF Space と同期）
+_BASAY_TEXT_DIR = Path(__file__).resolve().parent
+WORD_REWRITE_PATH = _BASAY_TEXT_DIR / 'data' / 'word_rewrites.tsv'
+
+
+def load_word_rewrites(path=WORD_REWRITE_PATH):
+    """Load TAB-separated source→target rewrites. Returns dict[str, str].
+    Source keys are lowercased. Empty / commented (#) lines are skipped.
+    """
+    rewrites = {}
+    if not path.exists():
+        return rewrites
+    for line_no, raw in enumerate(path.read_text(encoding='utf-8').splitlines(), 1):
+        line = raw.strip()
+        if not line or line.startswith('#'):
+            continue
+        if '\t' in line:
+            source, target = line.split('\t', 1)
+        else:
+            parts = line.split(None, 1)
+            if len(parts) != 2:
+                raise ValueError(
+                    f'{path}:{line_no}: expected SOURCE<TAB>TARGET (got {line!r})'
+                )
+            source, target = parts
+        source = source.strip().lower()
+        target = target.strip()
+        if not source or not target:
+            raise ValueError(
+                f'{path}:{line_no}: source and target must be non-empty'
+            )
+        rewrites[source] = target
+    return rewrites
+
+
+WORD_REWRITE_OVERRIDES = load_word_rewrites()
+
+
+def _apply_word_rewrites(text):
+    """Token-level literal override using word_rewrites.tsv.
+    Each whitespace-delimited token is looked up case-insensitively.
+    If the target itself contains whitespace, the result is naturally
+    re-tokenized when re-joined with space.
+    """
+    if not text or not WORD_REWRITE_OVERRIDES:
+        return text
+    out = []
+    for tok in text.split():
+        override = WORD_REWRITE_OVERRIDES.get(tok.lower())
+        out.append(override if override is not None else tok)
+    return ' '.join(out)
 
 
 _NG_AS_APOS_RE = re.compile(r'([nN])[gG]')
@@ -351,11 +409,41 @@ def _process_token(token, is_final):
     return (lead + rendered + trail).lower()
 
 
+# --- 音韻ルール（TTS 専用前処理：slug は変更しない） -----------------
+# 母音の直後にくる /b/ を /pb/ として発音させる。
+# 例: kubaban → kupbapban,  abu → apbu,  aba → apba
+# (語頭の /b/ は変換しない。"batu" → "batu" のまま)
+# 必要に応じて他の voiced 子音にも拡張可能：
+#   - /v/: vapvan, lapve のパターン
+#   - /d/ /g/ /z/ など
+_VOWEL_PB_RE = re.compile(r'([aeiouAEIOU])([bB])')
+
+def _apply_phonological_rules(text):
+    """TTS 入力テキストに音韻ルールを適用して返す。
+
+    現在のルール:
+      1. 母音 + b  →  母音 + pb   （kubaban → kupbapban）
+
+    slug 派生には影響させないため、tts_text の中だけで使う。
+    """
+    if not text:
+        return text
+    # rule 1: /b/ after vowel → /pb/
+    text = _VOWEL_PB_RE.sub(r'\1p\2', text)
+    return text
+
+
 def tts_text(display, manual=None):
     if manual is not None and manual != '':
         return manual
     if not display or not display.strip():
         return ''
+    # 適用順:
+    #   1. word_rewrites（個別語の literal override、HF Space と同じテーブル）
+    #   2. 音韻ルール（一般パターン、母音 + b → 母音 + pb 等）
+    # slug にはどちらの変換も反映させない（tts_text の中だけで使う）
+    display = _apply_word_rewrites(display)
+    display = _apply_phonological_rules(display)
     tokens = display.split()
     n = len(tokens)
     out = []
