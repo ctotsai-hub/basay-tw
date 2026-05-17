@@ -104,14 +104,32 @@ def derive_slug(basay: str) -> str:
     return _SIMPLE_SLUG_RE.sub("_", primary.lower()).strip("_")
 
 
+def _slug_letter(slug: str) -> str:
+    """First ASCII letter of slug, or '_misc'. Used for audio subfolder bucketing."""
+    if slug:
+        first = slug[0].lower()
+        if "a" <= first <= "z":
+            return first
+    return "_misc"
+
+
 def detect_audio(slug: str) -> dict[str, str] | None:
+    """Look for MP3 files in letter subfolders, with fallback to flat layout
+    for backward compatibility with the pre-migration audio directory."""
     if not slug:
         return None
+    letter = _slug_letter(slug)
     found: dict[str, str] = {"slug": slug}
     for variant in AUDIO_VARIANTS:
-        rel = Path("dictionary") / "audio" / variant / f"{slug}{AUDIO_EXT}"
+        # Preferred: dictionary/audio/<variant>/<letter>/<slug>.mp3
+        rel = Path("dictionary") / "audio" / variant / letter / f"{slug}{AUDIO_EXT}"
         if (REPO_ROOT / rel).is_file():
             found[variant] = str(rel).replace("\\", "/")
+            continue
+        # Backward-compat: old flat layout
+        rel_flat = Path("dictionary") / "audio" / variant / f"{slug}{AUDIO_EXT}"
+        if (REPO_ROOT / rel_flat).is_file():
+            found[variant] = str(rel_flat).replace("\\", "/")
     return found if len(found) > 1 else None
 
 

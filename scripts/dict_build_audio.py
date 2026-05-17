@@ -124,14 +124,29 @@ def _primary(display: str) -> str:
     return display.split("|")[0].strip()
 
 
+def _slug_letter(slug: str) -> str:
+    """Letter subfolder bucket for an audio MP3. Mirrors dict_excel_to_json._slug_letter."""
+    if slug:
+        first = slug[0].lower()
+        if "a" <= first <= "z":
+            return first
+    return "_misc"
+
+
+def _mp3_path(variant: str, slug: str) -> Path:
+    """New layout: dictionary/audio/<variant>/<letter>/<slug>.mp3."""
+    return AUDIO_ROOT / variant / _slug_letter(slug) / f"{slug}.mp3"
+
+
 def generate_one(
     display: str, variant: str, voice: str, slug: str,
     bitrate: str, tmpdir: Path, dry_run: bool,
 ) -> tuple[bool, str]:
     """Generate a single MP3. Returns (ok, message)."""
-    mp3 = AUDIO_ROOT / variant / f"{slug}.mp3"
+    mp3 = _mp3_path(variant, slug)
+    rel_label = f"{variant}/{_slug_letter(slug)}/{slug}.mp3"
     if dry_run:
-        return True, f"DRY  {variant}/{slug}.mp3"
+        return True, f"DRY  {rel_label}"
     try:
         # Synthesize ONLY the primary form (before '|'), matching the slug.
         # Otherwise we'd speak both variants in one file and the slug→filename
@@ -146,11 +161,11 @@ def generate_one(
             wav.unlink()
         except OSError:
             pass
-        return True, f"made {variant}/{slug}.mp3"
+        return True, f"made {rel_label}"
     except subprocess.CalledProcessError as e:
-        return False, f"FAIL {variant}/{slug}.mp3: {e}"
+        return False, f"FAIL {rel_label}: {e}"
     except Exception as e:
-        return False, f"FAIL {variant}/{slug}.mp3: {e!r}"
+        return False, f"FAIL {rel_label}: {e!r}"
 
 
 def load_entries() -> list[dict[str, Any]]:
@@ -182,13 +197,43 @@ def main() -> int:
                         help="Show what would be generated, write nothing")
     parser.add_argument("--limit", type=int, default=0,
                         help="Stop after N generations (useful for testing)")
+    parser.add_argument("--slug", nargs="+", metavar="SLUG", default=None,
+                        help="Only (re)generate audio for these specific slugs. "
+                             "Combine with --force to overwrite existing MP3s. "
+                             "Example: --slug ranum vatu siya")
+    parser.add_argument("--basay", nargs="+", metavar="BASAY", default=None,
+                        help="Same as --slug but accepts basay text; the script "
+                             "derives slug from each. Useful for ad-hoc updates. "
+                             "Example: --basay \"hihol'\" \"kul-apba\"")
     args = parser.parse_args()
 
     if not args.dry_run:
         check_tools()
 
+    # IMPORTANT: refresh JSON from the latest Excel FIRST so that planning
+    # uses the current basay forms. Otherwise edits in Excel since the last
+    # excel_to_json run won't trigger MP3 generation.
+    print("Refreshing JSON from Excel ...")
+    rc = subprocess.call(
+        [sys.executable, str(SCRIPT_DIR / "dict_excel_to_json.py")]
+    )
+    if rc != 0:
+        print("  ! excel_to_json failed; aborting audio build", file=sys.stderr)
+        return rc
+    print()
+
     entries = load_entries()
     variants = [args.only] if args.only else list(VOICE_MAP.keys())
+
+    # Build filter set from --slug / --basay (intersection semantics for clarity)
+    slug_filter: set[str] | None = None
+    if args.slug:
+        slug_filter = set(args.slug)
+    if args.basay:
+        derived = {basay_text.derive(_primary(b))["slug"] for b in args.basay}
+        slug_filter = (slug_filter | derived) if slug_filter else derived
+    if slug_filter:
+        print(f"Filtering by {len(slug_filter)} slug(s): {sorted(slug_filter)}")
 
     AUDIO_ROOT.mkdir(parents=True, exist_ok=True)
     for v in variants:
@@ -203,9 +248,14 @@ def main() -> int:
         # Derive slug from the PRIMARY form only (everything before '|'),
         # to match dict_excel_to_json.derive_slug().
         slug = basay_text.derive(_primary(display))["slug"]
+        if slug_filter is not None and slug not in slug_filter:
+            continue
         for variant in variants:
-            mp3 = AUDIO_ROOT / variant / f"{slug}.mp3"
-            if mp3.is_file() and not args.force:
+            mp3 = _mp3_path(variant, slug)
+            # Backward-compat: also count old flat-layout files as "already present"
+            # so an unmigrated repo doesn't re-generate everything on first run.
+            mp3_flat = AUDIO_ROOT / variant / f"{slug}.mp3"
+            if (mp3.is_file() or mp3_flat.is_file()) and not args.force:
                 skipped += 1
                 continue
             plan.append((display, slug, variant, VOICE_MAP[variant]))

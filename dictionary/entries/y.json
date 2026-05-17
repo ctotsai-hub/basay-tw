@@ -13,8 +13,8 @@
     "original": "ya",
     "audio": {
       "slug": "ya",
-      "ipay": "dictionary/audio/ipay/ya.mp3",
-      "hokkien": "dictionary/audio/hokkien/ya.mp3"
+      "ipay": "dictionary/audio/ipay/y/ya.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/ya.mp3"
     }
   },
   {
@@ -31,8 +31,8 @@
     "original": "yakilu",
     "audio": {
       "slug": "yakilu",
-      "ipay": "dictionary/audio/ipay/yakilu.mp3",
-      "hokkien": "dictionary/audio/hokkien/yakilu.mp3"
+      "ipay": "dictionary/audio/ipay/y/yakilu.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yakilu.mp3"
     }
   },
   {
@@ -49,8 +49,8 @@
     "original": "yaku",
     "audio": {
       "slug": "yaku",
-      "ipay": "dictionary/audio/ipay/yaku.mp3",
-      "hokkien": "dictionary/audio/hokkien/yaku.mp3"
+      "ipay": "dictionary/audio/ipay/y/yaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yaku.mp3"
     }
   },
   {
@@ -67,8 +67,8 @@
     "original": "yaɭavu",
     "audio": {
       "slug": "yalxavu",
-      "ipay": "dictionary/audio/ipay/yalxavu.mp3",
-      "hokkien": "dictionary/audio/hokkien/yalxavu.mp3"
+      "ipay": "dictionary/audio/ipay/y/yalxavu.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yalxavu.mp3"
     }
   },
   {
@@ -85,8 +85,8 @@
     "original": "yao",
     "audio": {
       "slug": "yao",
-      "ipay": "dictionary/audio/ipay/yao.mp3",
-      "hokkien": "dictionary/audio/hokkien/yao.mp3"
+      "ipay": "dictionary/audio/ipay/y/yao.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yao.mp3"
     }
   },
   {
@@ -103,8 +103,8 @@
     "original": "yapana",
     "audio": {
       "slug": "yapana",
-      "ipay": "dictionary/audio/ipay/yapana.mp3",
-      "hokkien": "dictionary/audio/hokkien/yapana.mp3"
+      "ipay": "dictionary/audio/ipay/y/yapana.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yapana.mp3"
     }
   },
   {
@@ -121,8 +121,8 @@
     "original": "yataw",
     "audio": {
       "slug": "yataw",
-      "ipay": "dictionary/audio/ipay/yataw.mp3",
-      "hokkien": "dictionary/audio/hokkien/yataw.mp3"
+      "ipay": "dictionary/audio/ipay/y/yataw.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yataw.mp3"
     }
   },
   {
@@ -139,8 +139,8 @@
     "original": "yatəman",
     "audio": {
       "slug": "yatoxman",
-      "ipay": "dictionary/audio/ipay/yatoxman.mp3",
-      "hokkien": "dictionary/audio/hokkien/yatoxman.mp3"
+      "ipay": "dictionary/audio/ipay/y/yatoxman.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yatoxman.mp3"
     }
   },
   {
@@ -157,8 +157,8 @@
     "original": "yatəmnan",
     "audio": {
       "slug": "yatoxmnan",
-      "ipay": "dictionary/audio/ipay/yatoxmnan.mp3",
-      "hokkien": "dictionary/audio/hokkien/yatoxmnan.mp3"
+      "ipay": "dictionary/audio/ipay/y/yatoxmnan.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yatoxmnan.mp3"
     }
   },
   {
@@ -175,8 +175,8 @@
     "original": "yau (S)",
     "audio": {
       "slug": "yau",
-      "ipay": "dictionary/audio/ipay/yau.mp3",
-      "hokkien": "dictionary/audio/hokkien/yau.mp3"
+      "ipay": "dictionary/audio/ipay/y/yau.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yau.mp3"
     }
   },
   {
@@ -193,8 +193,8 @@
     "original": "ɭajaɭ vawa (M), yawale",
     "audio": {
       "slug": "yawale",
-      "ipay": "dictionary/audio/ipay/yawale.mp3",
-      "hokkien": "dictionary/audio/hokkien/yawale.mp3"
+      "ipay": "dictionary/audio/ipay/y/yawale.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yawale.mp3"
     }
   },
   {
@@ -211,8 +211,8 @@
     "original": "yazas",
     "audio": {
       "slug": "yazas",
-      "ipay": "dictionary/audio/ipay/yazas.mp3",
-      "hokkien": "dictionary/audio/hokkien/yazas.mp3"
+      "ipay": "dictionary/audio/ipay/y/yazas.mp3",
+      "hokkien": "dictionary/audio/hokkien/y/yazas.mp3"
     }
   }
 ]

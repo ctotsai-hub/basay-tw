@@ -17,8 +17,8 @@
     "original": "jaku",
     "audio": {
       "slug": "jaku",
-      "ipay": "dictionary/audio/ipay/jaku.mp3",
-      "hokkien": "dictionary/audio/hokkien/jaku.mp3"
+      "ipay": "dictionary/audio/ipay/j/jaku.mp3",
+      "hokkien": "dictionary/audio/hokkien/j/jaku.mp3"
     }
   },
   {
@@ -38,8 +38,8 @@
     "original": "jakumo",
     "audio": {
       "slug": "jakumo",
-      "ipay": "dictionary/audio/ipay/jakumo.mp3",
-      "hokkien": "dictionary/audio/hokkien/jakumo.mp3"
+      "ipay": "dictionary/audio/ipay/j/jakumo.mp3",
+      "hokkien": "dictionary/audio/hokkien/j/jakumo.mp3"
     }
   },
   {
@@ -59,8 +59,8 @@
     "original": "jami(?) uatsu",
     "audio": {
       "slug": "jami_uatsu",
-      "ipay": "dictionary/audio/ipay/jami_uatsu.mp3",
-      "hokkien": "dictionary/audio/hokkien/jami_uatsu.mp3"
+      "ipay": "dictionary/audio/ipay/j/jami_uatsu.mp3",
+      "hokkien": "dictionary/audio/hokkien/j/jami_uatsu.mp3"
     }
   }
 ]

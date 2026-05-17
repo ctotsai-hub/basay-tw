@@ -159,7 +159,7 @@
       const zh = (e.zh || []).join("、");
       const ja = (e.ja || []).join("、");
       const en = (e.en || []).join(", ");
-      const showOriginal = e.original && e.original !== e.basay;
+      const showOriginal = !!e.original;
 
       return `
         <div class="dict-entry">

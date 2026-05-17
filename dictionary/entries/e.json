@@ -16,8 +16,8 @@
     "original": "ese, moese",
     "audio": {
       "slug": "ese",
-      "ipay": "dictionary/audio/ipay/ese.mp3",
-      "hokkien": "dictionary/audio/hokkien/ese.mp3"
+      "ipay": "dictionary/audio/ipay/e/ese.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/ese.mp3"
     }
   },
   {
@@ -34,8 +34,8 @@
     "original": "etsozo (M)",
     "audio": {
       "slug": "etsozo",
-      "ipay": "dictionary/audio/ipay/etsozo.mp3",
-      "hokkien": "dictionary/audio/hokkien/etsozo.mp3"
+      "ipay": "dictionary/audio/ipay/e/etsozo.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/etsozo.mp3"
     }
   }
 ]
