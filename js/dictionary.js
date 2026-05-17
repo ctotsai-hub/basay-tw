@@ -19,11 +19,12 @@
 
   const RESULT_LIMIT = 200;
   const SOURCE_LABEL = {
-    B: "Basay",
-    T: "Trobiawan",
-    M: "Trobiawan-m",
-    S: "Trobiawan-s",
-    V: "台語",
+    B:   "Basay",
+    T:   "Trobiawan",
+    M:   "Trobiawan-m",
+    S:   "Trobiawan-s",
+    V:   "台語",
+    PAN: "南島祖語 (Proto-Austronesian)",
   };
 
   let DATA = [];

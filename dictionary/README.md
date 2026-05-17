@@ -45,6 +45,7 @@ data/
 - `M` = Trobiawan-m
 - `S` = Trobiawan-s
 - `V` = 台語（Taiwanese）
+- `PAN` = 南島祖語（Proto-Austronesian、再構形）
 
 **正書法変換ルール**：`ŋ > n'`、`ʃ > s'`、`ɭ > l'`、`ɮ > z'`、`ə > o'`、`Dᵒ > z'`
 （`conversion_rules` シートに記載。`basay` 列は変換後の正規形、`original_entry` は変換前の原表記）

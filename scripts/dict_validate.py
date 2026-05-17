@@ -43,7 +43,7 @@ ENTRIES_DIR     = REPO_ROOT / "dictionary" / "entries"
 CATEGORIES_JSON = REPO_ROOT / "dictionary" / "categories.json"
 SITE_JSON       = REPO_ROOT / "data" / "dictionary.json"
 
-KNOWN_SOURCES = {"B", "T", "M", "S", "V", ""}
+KNOWN_SOURCES = {"B", "T", "M", "S", "V", "PAN", ""}
 
 
 def _derive_slug(basay: str) -> str:

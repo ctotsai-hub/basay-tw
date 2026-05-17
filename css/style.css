@@ -771,11 +771,13 @@ footer.site-footer .tagline {
   color: var(--color-drift);
   vertical-align: middle;
 }
-.dict-entry .src-B { background: var(--color-deep);   color: var(--color-mist); border-color: transparent; }
-.dict-entry .src-T { background: var(--color-brick);  color: var(--color-mist); border-color: transparent; }
-.dict-entry .src-M { background: var(--color-algae);  color: var(--color-mist); border-color: transparent; }
-.dict-entry .src-S { background: #8a6f4f;             color: var(--color-mist); border-color: transparent; }
-.dict-entry .src-V { background: var(--color-drift);  color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-B   { background: var(--color-deep);   color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-T   { background: var(--color-brick);  color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-M   { background: var(--color-algae);  color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-S   { background: #8a6f4f;             color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-V   { background: var(--color-drift);  color: var(--color-mist); border-color: transparent; }
+.dict-entry .src-PAN { background: #7a4f6b;             color: var(--color-mist); border-color: transparent;
+                       font-size: 0.68rem; padding: 0.1em 0.4em; }
 
 /* 音声再生ボタン */
 .dict-entry .audio-btn {
