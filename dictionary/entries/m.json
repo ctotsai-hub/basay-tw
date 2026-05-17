@@ -319,7 +319,7 @@
     "basay": "makila | makila kuman",
     "category": "01",
     "zh": [
-      "全部全部吃"
+      "全部, 全部吃"
     ],
     "ja": [
       "みんな,くみんな食べる>"
@@ -361,7 +361,7 @@
     "basay": "makl'isu",
     "category": "01",
     "zh": [
-      "周圍"
+      "圓周"
     ],
     "en": [
       "circumference"
@@ -479,7 +479,7 @@
   {
     "id": "0438",
     "basay": "maku kinijan",
-    "category": "02",
+    "category": "14",
     "zh": [
       "我的（我的家）"
     ],
@@ -3623,7 +3623,7 @@
   {
     "id": "1580",
     "basay": "ml'iqut",
-    "category": "01",
+    "category": "25",
     "zh": [
       "折斷"
     ],

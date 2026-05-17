@@ -630,7 +630,7 @@
     "basay": "sakalikalitsan'",
     "category": "01",
     "zh": [
-      "週長"
+      "圓周"
     ],
     "ja": [
       "周囲 < ritsəŋ"
@@ -660,7 +660,7 @@
   {
     "id": "0765",
     "basay": "sakalikalitso'n' balatse",
-    "category": "08",
+    "category": "25",
     "zh": [
       "搖晃以去除米糠"
     ],
@@ -2026,7 +2026,7 @@
   {
     "id": "0826",
     "basay": "satanitan'itse",
-    "category": "03",
+    "category": "28",
     "zh": [
       "唱歌時冷笑"
     ],
@@ -4059,7 +4059,7 @@
   {
     "id": "0905",
     "basay": "sulalabe",
-    "category": "01",
+    "category": "13",
     "zh": [
       "整個晚上",
       "每天晚上"
@@ -4154,7 +4154,7 @@
   {
     "id": "0910",
     "basay": "suman",
-    "category": "02",
+    "category": "01",
     "zh": [
       "仍然",
       "不僅如此"

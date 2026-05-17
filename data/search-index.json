@@ -47,7 +47,7 @@
     "basay": "aila",
     "category": "02",
     "zh": [
-      "這裡"
+      "這裡（我）"
     ],
     "ja": [
       "此処(私自身) ノ意あり"
@@ -872,7 +872,7 @@
   {
     "id": "0062",
     "basay": "basai",
-    "category": "02",
+    "category": "05",
     "zh": [
       "巴賽（本族自稱）(也含日本人）"
     ],
@@ -1113,7 +1113,7 @@
   {
     "id": "0079",
     "basay": "bela. | baute a bela",
-    "category": "01",
+    "category": "07",
     "zh": [
       "外殼",
       "鱗片"
@@ -2671,7 +2671,7 @@
   {
     "id": "0189",
     "basay": "hipihipite",
-    "category": "02",
+    "category": "29",
     "zh": [
       "忍受",
       "忍受"
@@ -2686,7 +2686,7 @@
   {
     "id": "0190",
     "basay": "hipihipitte",
-    "category": "02",
+    "category": "29",
     "zh": [
       "忍受",
       "忍受"
@@ -3596,7 +3596,7 @@
   {
     "id": "0254",
     "basay": "kuman | isu kuman",
-    "category": "02",
+    "category": "25",
     "zh": [
       "吃（你）"
     ],
@@ -3610,7 +3610,7 @@
   {
     "id": "0255",
     "basay": "kuman | jaku kuman",
-    "category": "02",
+    "category": "25",
     "zh": [
       "吃（我）"
     ],
@@ -4011,7 +4011,7 @@
   {
     "id": "0283",
     "basay": "lahete uatsu",
-    "category": "02",
+    "category": "07",
     "zh": [
       "你的狗，別人的狗"
     ],
@@ -4539,7 +4539,7 @@
   {
     "id": "0320",
     "basay": "lan' | jaku kuman lan'",
-    "category": "02",
+    "category": "27",
     "zh": [
       "酒",
       "我喝白酒"
@@ -5623,7 +5623,7 @@
     "basay": "lohot",
     "category": "01",
     "zh": [
-      "措施",
+      "量測道具",
       "規模"
     ],
     "ja": [
@@ -6212,7 +6212,7 @@
     "basay": "makila | makila kuman",
     "category": "01",
     "zh": [
-      "全部全部吃"
+      "全部, 全部吃"
     ],
     "ja": [
       "みんな,くみんな食べる>"
@@ -6238,7 +6238,7 @@
   {
     "id": "0438",
     "basay": "maku kinijan",
-    "category": "02",
+    "category": "14",
     "zh": [
       "我的（我的家）"
     ],
@@ -8207,7 +8207,7 @@
   {
     "id": "0576",
     "basay": "numaD'. | jaku numaD'",
-    "category": "02",
+    "category": "28",
     "zh": [
       "死",
       "看"
@@ -9858,7 +9858,7 @@
   {
     "id": "0692",
     "basay": "pinits'ima",
-    "category": "02",
+    "category": "09",
     "zh": [
       "寶石"
     ],
@@ -10422,7 +10422,7 @@
   {
     "id": "0731",
     "basay": "ritsaila",
-    "category": "02",
+    "category": "14",
     "zh": [
       "這裡，附近"
     ],
@@ -10895,7 +10895,7 @@
     "basay": "sakalikalitsan'",
     "category": "01",
     "zh": [
-      "週長"
+      "圓周"
     ],
     "ja": [
       "周囲 < ritsəŋ"
@@ -10907,7 +10907,7 @@
   {
     "id": "0765",
     "basay": "sakalikalitso'n' balatse",
-    "category": "08",
+    "category": "25",
     "zh": [
       "搖晃以去除米糠"
     ],
@@ -11787,7 +11787,7 @@
   {
     "id": "0826",
     "basay": "satanitan'itse",
-    "category": "03",
+    "category": "28",
     "zh": [
       "唱歌時冷笑"
     ],
@@ -12911,7 +12911,7 @@
   {
     "id": "0905",
     "basay": "sulalabe",
-    "category": "01",
+    "category": "13",
     "zh": [
       "整個晚上",
       "每天晚上"
@@ -12983,7 +12983,7 @@
   {
     "id": "0910",
     "basay": "suman",
-    "category": "02",
+    "category": "01",
     "zh": [
       "仍然",
       "不僅如此"
@@ -13774,7 +13774,7 @@
   {
     "id": "0965",
     "basay": "tasau | tatasau",
-    "category": "03",
+    "category": "13",
     "zh": [
       "年份",
       "年齡"
@@ -14442,7 +14442,7 @@
     "basay": "tjajatsoa",
     "category": "03",
     "zh": [
-      "世界衛生組織"
+      "誰"
     ],
     "ja": [
       "誰"
@@ -14681,7 +14681,7 @@
   {
     "id": "1028",
     "basay": "tsabutsan",
-    "category": "02",
+    "category": "13",
     "zh": [
       "本月"
     ],
@@ -14711,7 +14711,7 @@
     "basay": "tsaikaila",
     "category": "03",
     "zh": [
-      "世界衛生組織"
+      "誰"
     ],
     "ja": [
       "誰"
@@ -14808,7 +14808,7 @@
   {
     "id": "1037",
     "basay": "tsalabe",
-    "category": "01",
+    "category": "13",
     "zh": [
       "一晚"
     ],
@@ -14966,7 +14966,7 @@
     "basay": "tsatsujen < ian",
     "category": "01",
     "zh": [
-      "平衡"
+      "天秤"
     ],
     "ja": [
       "秤, アミ(ni-.a.y-an)"
@@ -14978,7 +14978,7 @@
   {
     "id": "1049",
     "basay": "tsawa | tsowa",
-    "category": "06",
+    "category": "25",
     "zh": [
       "前往"
     ],
@@ -15319,7 +15319,7 @@
   {
     "id": "1073",
     "basay": "tsu lijen",
-    "category": "01",
+    "category": "13",
     "zh": [
       "後兩天"
     ],
@@ -15404,7 +15404,7 @@
   {
     "id": "1079",
     "basay": "tsumakatsakai | isu tsumakatsakai",
-    "category": "02",
+    "category": "25",
     "zh": [
       "走（你）"
     ],
@@ -16676,7 +16676,7 @@
   {
     "id": "1184",
     "basay": "izaay",
-    "category": "02",
+    "category": "14",
     "zh": [
       "到這裡"
     ],
@@ -17116,7 +17116,7 @@
   {
     "id": "1224",
     "basay": "katsuna",
-    "category": "01",
+    "category": "13",
     "zh": [
       "三天"
     ],
@@ -17270,7 +17270,7 @@
   {
     "id": "1238",
     "basay": "kazayzaay",
-    "category": "02",
+    "category": "14",
     "zh": [
       "一直待在這裡"
     ],
@@ -17369,7 +17369,7 @@
   {
     "id": "1247",
     "basay": "kinausa",
-    "category": "01",
+    "category": "05",
     "zh": [
       "兩個人"
     ],
@@ -17666,7 +17666,7 @@
   {
     "id": "1274",
     "basay": "knalaqita | knalaqitta | qnazaqita",
-    "category": "01",
+    "category": "05",
     "zh": [
       "眾人"
     ],
@@ -18426,7 +18426,7 @@
   {
     "id": "1343",
     "basay": "lavelave",
-    "category": "01",
+    "category": "13",
     "zh": [
       "整夜"
     ],
@@ -18724,7 +18724,7 @@
   {
     "id": "1370",
     "basay": "l'al'auku",
-    "category": "02",
+    "category": "24",
     "zh": [
       "自求多福"
     ],
@@ -19221,7 +19221,7 @@
     "basay": "makl'isu",
     "category": "01",
     "zh": [
-      "周圍"
+      "圓周"
     ],
     "en": [
       "circumference"
@@ -21035,7 +21035,7 @@
   {
     "id": "1580",
     "basay": "ml'iqut",
-    "category": "01",
+    "category": "25",
     "zh": [
       "折斷"
     ],
@@ -22091,7 +22091,7 @@
   {
     "id": "1676",
     "basay": "niano'm",
-    "category": "01",
+    "category": "05",
     "zh": [
       "六個人"
     ],
@@ -22102,7 +22102,7 @@
   {
     "id": "1677",
     "basay": "niatsu",
-    "category": "01",
+    "category": "05",
     "zh": [
       "三個人"
     ],
@@ -22113,7 +22113,7 @@
   {
     "id": "1678",
     "basay": "niazusa",
-    "category": "01",
+    "category": "05",
     "zh": [
       "兩個人"
     ],
@@ -22586,7 +22586,7 @@
   {
     "id": "1721",
     "basay": "pal'man'",
-    "category": "02",
+    "category": "24",
     "zh": [
       "就這樣"
     ],
@@ -25925,7 +25925,7 @@
   {
     "id": "2024",
     "basay": "tak pay",
-    "category": "02",
+    "category": "29",
     "zh": [
       "我將要"
     ],
@@ -26068,7 +26068,7 @@
   {
     "id": "2037",
     "basay": "tam pay",
-    "category": "02",
+    "category": "29",
     "zh": [
       "我們將"
     ],
@@ -29490,7 +29490,7 @@
   {
     "id": "2348",
     "basay": "zazaw",
-    "category": "02",
+    "category": "24",
     "zh": [
       "如此"
     ],

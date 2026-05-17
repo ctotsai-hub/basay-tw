@@ -112,7 +112,7 @@
   {
     "id": "2024",
     "basay": "tak pay",
-    "category": "02",
+    "category": "29",
     "zh": [
       "我將要"
     ],
@@ -476,7 +476,7 @@
   {
     "id": "2037",
     "basay": "tam pay",
-    "category": "02",
+    "category": "29",
     "zh": [
       "我們將"
     ],
@@ -1049,7 +1049,7 @@
   {
     "id": "0965",
     "basay": "tasau | tatasau",
-    "category": "03",
+    "category": "13",
     "zh": [
       "年份",
       "年齡"
@@ -2245,7 +2245,7 @@
     "basay": "tjajatsoa",
     "category": "03",
     "zh": [
-      "世界衛生組織"
+      "誰"
     ],
     "ja": [
       "誰"
@@ -2986,7 +2986,7 @@
   {
     "id": "1028",
     "basay": "tsabutsan",
-    "category": "02",
+    "category": "13",
     "zh": [
       "本月"
     ],
@@ -3020,7 +3020,7 @@
     "basay": "tsaikaila",
     "category": "03",
     "zh": [
-      "世界衛生組織"
+      "誰"
     ],
     "ja": [
       "誰"
@@ -3170,7 +3170,7 @@
   {
     "id": "1037",
     "basay": "tsalabe",
-    "category": "01",
+    "category": "13",
     "zh": [
       "一晚"
     ],
@@ -3506,7 +3506,7 @@
     "basay": "tsatsujen < ian",
     "category": "01",
     "zh": [
-      "平衡"
+      "天秤"
     ],
     "ja": [
       "秤, アミ(ni-.a.y-an)"
@@ -3546,7 +3546,7 @@
   {
     "id": "1049",
     "basay": "tsawa | tsowa",
-    "category": "06",
+    "category": "25",
     "zh": [
       "前往"
     ],
@@ -3938,7 +3938,7 @@
   {
     "id": "1073",
     "basay": "tsu lijen",
-    "category": "01",
+    "category": "13",
     "zh": [
       "後兩天"
     ],
@@ -4139,7 +4139,7 @@
   {
     "id": "1079",
     "basay": "tsumakatsakai | isu tsumakatsakai",
-    "category": "02",
+    "category": "25",
     "zh": [
       "走（你）"
     ],
