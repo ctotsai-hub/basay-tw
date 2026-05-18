@@ -9,7 +9,6 @@
     "en": [
       "oblique"
     ],
-    "source": "T",
     "original": "u",
     "audio": {
       "slug": "u",
@@ -30,7 +29,6 @@
     "en": [
       "snake"
     ],
-    "source": "B",
     "original": "u:lᵒ , u:dᵒ",
     "audio": {
       "slug": "u_l",
@@ -48,7 +46,6 @@
     "en": [
       "rattan"
     ],
-    "source": "M",
     "original": "uai(M)",
     "audio": {
       "slug": "uai",
@@ -69,7 +66,6 @@
     "en": [
       "child"
     ],
-    "source": "B",
     "original": "uanake",
     "audio": {
       "slug": "uanake",
@@ -90,7 +86,6 @@
     "en": [
       "dog"
     ],
-    "source": "B",
     "original": "uatsu",
     "audio": {
       "slug": "uatsu",
@@ -113,7 +108,6 @@
     "en": [
       "ee. snake"
     ],
-    "source": "B",
     "original": "ul",
     "audio": {
       "slug": "ul",
@@ -131,7 +125,6 @@
     "en": [
       "rain"
     ],
-    "source": "S",
     "original": "uɭan (S)",
     "audio": {
       "slug": "ulxan",
@@ -149,7 +142,6 @@
     "en": [
       "dew (?)"
     ],
-    "source": "T",
     "original": "muɭas (M), uɭas",
     "audio": {
       "slug": "ulxas",
@@ -167,7 +159,6 @@
     "en": [
       "again"
     ],
-    "source": "S",
     "original": "uman (S)",
     "audio": {
       "slug": "uman",
@@ -185,7 +176,6 @@
     "en": [
       "rice"
     ],
-    "source": "S",
     "original": "sumay (M), umay (S)",
     "audio": {
       "slug": "umay",
@@ -203,7 +193,6 @@
     "en": [
       "what"
     ],
-    "source": "S",
     "original": "uni (S)",
     "audio": {
       "slug": "uni",
@@ -224,7 +213,6 @@
     "en": [
       "what"
     ],
-    "source": "B",
     "original": "unu",
     "audio": {
       "slug": "unu",
@@ -242,7 +230,6 @@
     "en": [
       "what"
     ],
-    "source": "T",
     "original": "unu",
     "audio": {
       "slug": "unu",
@@ -260,7 +247,6 @@
     "en": [
       "why"
     ],
-    "source": "M",
     "original": "ununia (M)",
     "audio": {
       "slug": "ununia",
@@ -281,7 +267,6 @@
     "en": [
       "goods"
     ],
-    "source": "B",
     "original": "unuunu",
     "audio": {
       "slug": "unuunu",
@@ -299,7 +284,6 @@
     "en": [
       "extinguish (to)"
     ],
-    "source": "M",
     "original": "usupi (M)",
     "audio": {
       "slug": "usupi",
@@ -320,7 +304,6 @@
     "en": [
       "vomit"
     ],
-    "source": "B",
     "original": "uta",
     "audio": {
       "slug": "uta",
@@ -341,7 +324,6 @@
     "en": [
       "head"
     ],
-    "source": "B",
     "original": "utsu",
     "audio": {
       "slug": "utsu",
@@ -359,7 +341,6 @@
     "en": [
       "head"
     ],
-    "source": "T",
     "original": "utsu",
     "audio": {
       "slug": "utsu",
@@ -377,7 +358,6 @@
     "en": [
       "noon"
     ],
-    "source": "T",
     "original": "uttəŋ",
     "audio": {
       "slug": "uttoxnx",
@@ -396,7 +376,6 @@
     "en": [
       "one (person, animal)"
     ],
-    "source": "T",
     "original": "uttsa, utsa",
     "audio": {
       "slug": "uttsa",
@@ -414,7 +393,6 @@
     "en": [
       "sugar-cane"
     ],
-    "source": "M",
     "original": "uutsa (M)",
     "audio": {
       "slug": "uutsa",
@@ -432,7 +410,6 @@
     "en": [
       "chop, cut"
     ],
-    "source": "T",
     "original": "uvaut",
     "audio": {
       "slug": "uvaut",
@@ -443,14 +420,13 @@
   {
     "id": "2225",
     "basay": "uvava",
-    "category": "06",
+    "category": "25",
     "zh": [
       "揹"
     ],
     "en": [
       "carry on back"
     ],
-    "source": "M",
     "original": "uvava (M)",
     "audio": {
       "slug": "uvava",
@@ -468,7 +444,6 @@
     "en": [
       "untie"
     ],
-    "source": "M",
     "original": "uvuka (M)",
     "audio": {
       "slug": "uvuka",
@@ -486,7 +461,6 @@
     "en": [
       "ginger"
     ],
-    "source": "M",
     "original": "uzip (M)",
     "audio": {
       "slug": "uzip",
@@ -504,7 +478,6 @@
     "en": [
       "there"
     ],
-    "source": "T",
     "original": "uzuay",
     "audio": {
       "slug": "uzuay",
@@ -522,7 +495,6 @@
     "en": [
       "exist"
     ],
-    "source": "M",
     "original": "uzuay (M)",
     "audio": {
       "slug": "uzuay",
@@ -543,7 +515,6 @@
     "en": [
       "sugar-cane"
     ],
-    "source": "B",
     "original": "uːts",
     "audio": {
       "slug": "u_ts",

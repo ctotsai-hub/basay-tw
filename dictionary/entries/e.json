@@ -1,5 +1,75 @@
 [
   {
+    "id": "2765",
+    "basay": "-en",
+    "category": "36",
+    "zh": [
+      "動詞後綴，標示受事焦點",
+      "名詞後綴，標示動作產物或受影響之物"
+    ],
+    "en": [
+      "verbal suffix marking patient or undergoer voice; nominal suffix marking product of an action or thing affected by an action 2381"
+    ],
+    "original": "-en",
+    "audio": {
+      "slug": "en",
+      "ipay": "dictionary/audio/ipay/e/en.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/en.mp3"
+    }
+  },
+  {
+    "id": "2764",
+    "basay": "edem",
+    "category": "34",
+    "zh": [
+      "浸泡",
+      "染色"
+    ],
+    "en": [
+      "soak, dye 2298"
+    ],
+    "original": "edem₂",
+    "audio": {
+      "slug": "edem",
+      "ipay": "dictionary/audio/ipay/e/edem.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/edem.mp3"
+    }
+  },
+  {
+    "id": "2766",
+    "basay": "enem",
+    "category": "01",
+    "zh": [
+      "六"
+    ],
+    "en": [
+      "six 2361"
+    ],
+    "original": "enem",
+    "audio": {
+      "slug": "enem",
+      "ipay": "dictionary/audio/ipay/e/enem.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/enem.mp3"
+    }
+  },
+  {
+    "id": "2767",
+    "basay": "esa",
+    "category": "01",
+    "zh": [
+      "一"
+    ],
+    "en": [
+      "one 2406"
+    ],
+    "original": "esa",
+    "audio": {
+      "slug": "esa",
+      "ipay": "dictionary/audio/ipay/e/esa.mp3",
+      "hokkien": "dictionary/audio/hokkien/e/esa.mp3"
+    }
+  },
+  {
     "id": "0120",
     "basay": "ese | moese",
     "category": "06",
@@ -12,7 +82,6 @@
     "en": [
       "urine"
     ],
-    "source": "B",
     "original": "ese, moese",
     "audio": {
       "slug": "ese",
@@ -30,7 +99,6 @@
     "en": [
       "push"
     ],
-    "source": "M",
     "original": "etsozo (M)",
     "audio": {
       "slug": "etsozo",

@@ -1,0 +1,1387 @@
+[
+  {
+    "id": "2757",
+    "basay": "d<um>akep",
+    "category": "25",
+    "zh": [
+      "捕捉",
+      "擁抱"
+    ],
+    "en": [
+      "to catch, capture; embrace 7079"
+    ],
+    "original": "d<um>akep",
+    "audio": {
+      "slug": "d_um_akep",
+      "ipay": "dictionary/audio/ipay/d/d_um_akep.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/d_um_akep.mp3"
+    }
+  },
+  {
+    "id": "2758",
+    "basay": "d<um>akis",
+    "category": "14",
+    "zh": [
+      "攀登",
+      "上升"
+    ],
+    "en": [
+      "climb, ascend 6613"
+    ],
+    "original": "d<um>akiS",
+    "audio": {
+      "slug": "d_um_akis",
+      "ipay": "dictionary/audio/ipay/d/d_um_akis.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/d_um_akis.mp3"
+    }
+  },
+  {
+    "id": "2759",
+    "basay": "d<um>ilaq",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "en": [
+      "to lick 7131"
+    ],
+    "original": "d<um>ilaq",
+    "audio": {
+      "slug": "d_um_ilaq",
+      "ipay": "dictionary/audio/ipay/d/d_um_ilaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/d_um_ilaq.mp3"
+    }
+  },
+  {
+    "id": "2685",
+    "basay": "da",
+    "category": "36",
+    "zh": [
+      "處格標記（可能用於複數人名",
+      "cf. *di, *du）"
+    ],
+    "en": [
+      "locative case marker (probably for plural personal names; cf. *di, *du) 8797"
+    ],
+    "original": "da",
+    "audio": {
+      "slug": "da",
+      "ipay": "dictionary/audio/ipay/d/da.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/da.mp3"
+    }
+  },
+  {
+    "id": "2686",
+    "basay": "da-amax",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father 135"
+    ],
+    "original": "da-amax",
+    "audio": {
+      "slug": "da_amax",
+      "ipay": "dictionary/audio/ipay/d/da_amax.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/da_amax.mp3"
+    }
+  },
+  {
+    "id": "2688",
+    "basay": "da-dusa",
+    "category": "01",
+    "zh": [
+      "兩人"
+    ],
+    "en": [
+      "two, of people 7877"
+    ],
+    "original": "da-duSa",
+    "audio": {
+      "slug": "da_dusa",
+      "ipay": "dictionary/audio/ipay/d/da_dusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/da_dusa.mp3"
+    }
+  },
+  {
+    "id": "2687",
+    "basay": "dadan",
+    "category": "06",
+    "zh": [
+      "舊的（指物）",
+      "古代"
+    ],
+    "en": [
+      "old, of things; ancient times 7018"
+    ],
+    "original": "dadaN",
+    "audio": {
+      "slug": "dadan",
+      "ipay": "dictionary/audio/ipay/d/dadan.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dadan.mp3"
+    }
+  },
+  {
+    "id": "2689",
+    "basay": "dajam",
+    "category": "25",
+    "zh": [
+      "馴服的",
+      "習慣的"
+    ],
+    "en": [
+      "accustomed to, tame 2181"
+    ],
+    "original": "dajam",
+    "audio": {
+      "slug": "dajam",
+      "ipay": "dictionary/audio/ipay/d/dajam.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dajam.mp3"
+    }
+  },
+  {
+    "id": "2690",
+    "basay": "dajem",
+    "category": "34",
+    "zh": [
+      "寒顫（如瘧疾症狀）"
+    ],
+    "en": [
+      "chills, as of malaria 2183"
+    ],
+    "original": "dajem",
+    "audio": {
+      "slug": "dajem",
+      "ipay": "dictionary/audio/ipay/d/dajem.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dajem.mp3"
+    }
+  },
+  {
+    "id": "2691",
+    "basay": "dakep",
+    "category": "34",
+    "zh": [
+      "抓住",
+      "擁抱"
+    ],
+    "en": [
+      "catch, seize; embrace 7077"
+    ],
+    "original": "dakep",
+    "audio": {
+      "slug": "dakep",
+      "ipay": "dictionary/audio/ipay/d/dakep.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dakep.mp3"
+    }
+  },
+  {
+    "id": "2692",
+    "basay": "dakep-en",
+    "category": "25",
+    "zh": [
+      "被捕",
+      "被抓"
+    ],
+    "en": [
+      "be caught, captured 7080"
+    ],
+    "original": "dakep-en",
+    "audio": {
+      "slug": "dakep_en",
+      "ipay": "dictionary/audio/ipay/d/dakep_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dakep_en.mp3"
+    }
+  },
+  {
+    "id": "2693",
+    "basay": "dakes",
+    "category": "08",
+    "zh": [
+      "樟樹（Cinnamomum spp.）"
+    ],
+    "en": [
+      "a tree: the camphor laurel: Cinnamomum spp. 6682"
+    ],
+    "original": "dakeS",
+    "audio": {
+      "slug": "dakes",
+      "ipay": "dictionary/audio/ipay/d/dakes.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dakes.mp3"
+    }
+  },
+  {
+    "id": "2694",
+    "basay": "daki",
+    "category": "06",
+    "zh": [
+      "皮膚上的垢",
+      "頭皮屑"
+    ],
+    "en": [
+      "dirt on skin; dandruff 6611"
+    ],
+    "original": "daki",
+    "audio": {
+      "slug": "daki",
+      "ipay": "dictionary/audio/ipay/d/daki.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daki.mp3"
+    }
+  },
+  {
+    "id": "2695",
+    "basay": "dakis",
+    "category": "14",
+    "zh": [
+      "爬",
+      "上升"
+    ],
+    "en": [
+      "climb, ascend 6612"
+    ],
+    "original": "dakiS",
+    "audio": {
+      "slug": "dakis",
+      "ipay": "dictionary/audio/ipay/d/dakis.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dakis.mp3"
+    }
+  },
+  {
+    "id": "2696",
+    "basay": "dakut",
+    "category": "34",
+    "zh": [
+      "搶奪",
+      "抓取"
+    ],
+    "en": [
+      "snatch, grab 2186"
+    ],
+    "original": "dakuC",
+    "audio": {
+      "slug": "dakut",
+      "ipay": "dictionary/audio/ipay/d/dakut.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dakut.mp3"
+    }
+  },
+  {
+    "id": "2697",
+    "basay": "dalayap",
+    "category": "08",
+    "zh": [
+      "柑橘類果樹及其果實"
+    ],
+    "en": [
+      "kind of citrus tree and fruit 6856"
+    ],
+    "original": "dalayap",
+    "audio": {
+      "slug": "dalayap",
+      "ipay": "dictionary/audio/ipay/d/dalayap.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dalayap.mp3"
+    }
+  },
+  {
+    "id": "2698",
+    "basay": "dalem",
+    "category": "14",
+    "zh": [
+      "在…之中",
+      "深處"
+    ],
+    "en": [
+      "in, inside; deep 7088"
+    ],
+    "original": "dalem",
+    "audio": {
+      "slug": "dalem",
+      "ipay": "dictionary/audio/ipay/d/dalem.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dalem.mp3"
+    }
+  },
+  {
+    "id": "2699",
+    "basay": "damaR",
+    "category": "08",
+    "zh": [
+      "火把用樹脂（？）"
+    ],
+    "en": [
+      "tree resin used in torches (?) 8079"
+    ],
+    "original": "damaR₁",
+    "audio": {
+      "slug": "damar",
+      "ipay": "dictionary/audio/ipay/d/damar.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/damar.mp3"
+    }
+  },
+  {
+    "id": "2700",
+    "basay": "damuq",
+    "category": "06",
+    "zh": [
+      "月經血（？）"
+    ],
+    "en": [
+      "menstrual blood? 6723"
+    ],
+    "original": "damuq₁",
+    "audio": {
+      "slug": "damuq",
+      "ipay": "dictionary/audio/ipay/d/damuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/damuq.mp3"
+    }
+  },
+  {
+    "id": "2701",
+    "basay": "damuq",
+    "category": "11",
+    "zh": [
+      "露水"
+    ],
+    "en": [
+      "dew 12776"
+    ],
+    "original": "damuq₂",
+    "audio": {
+      "slug": "damuq",
+      "ipay": "dictionary/audio/ipay/d/damuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/damuq.mp3"
+    }
+  },
+  {
+    "id": "2702",
+    "basay": "danaw",
+    "category": "10",
+    "zh": [
+      "湖泊"
+    ],
+    "en": [
+      "lake 7109"
+    ],
+    "original": "danaw",
+    "audio": {
+      "slug": "danaw",
+      "ipay": "dictionary/audio/ipay/d/danaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/danaw.mp3"
+    }
+  },
+  {
+    "id": "2706",
+    "basay": "dangdang",
+    "category": "11",
+    "zh": [
+      "烤火",
+      "靠火取暖或加熱"
+    ],
+    "en": [
+      "broil; warm oneself or something near a fire 6963"
+    ],
+    "original": "daŋdaŋ₁",
+    "audio": {
+      "slug": "danxdanx",
+      "ipay": "dictionary/audio/ipay/d/danxdanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/danxdanx.mp3"
+    }
+  },
+  {
+    "id": "2707",
+    "basay": "dangdang-an",
+    "category": "11",
+    "zh": [
+      "把物品靠近火堆"
+    ],
+    "en": [
+      "place something near a fire 6969"
+    ],
+    "original": "daŋdaŋ-an",
+    "audio": {
+      "slug": "danxdanx_an",
+      "ipay": "dictionary/audio/ipay/d/danxdanx_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/danxdanx_an.mp3"
+    }
+  },
+  {
+    "id": "2704",
+    "basay": "dani",
+    "category": "29",
+    "zh": [
+      "即將",
+      "快要",
+      "很快"
+    ],
+    "en": [
+      "soon, presently; almost 12187"
+    ],
+    "original": "daNi",
+    "audio": {
+      "slug": "dani",
+      "ipay": "dictionary/audio/ipay/d/dani.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dani.mp3"
+    }
+  },
+  {
+    "id": "2705",
+    "basay": "danum",
+    "category": "11",
+    "zh": [
+      "淡水"
+    ],
+    "en": [
+      "fresh water 7456"
+    ],
+    "original": "daNum",
+    "audio": {
+      "slug": "danum",
+      "ipay": "dictionary/audio/ipay/d/danum.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/danum.mp3"
+    }
+  },
+  {
+    "id": "2703",
+    "basay": "danum-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7463"
+    ],
+    "original": "danum-an",
+    "audio": {
+      "slug": "danum_an",
+      "ipay": "dictionary/audio/ipay/d/danum_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/danum_an.mp3"
+    }
+  },
+  {
+    "id": "2708",
+    "basay": "dapa",
+    "category": "06",
+    "zh": [
+      "手掌"
+    ],
+    "en": [
+      "palm of the hand 2210"
+    ],
+    "original": "dapa",
+    "audio": {
+      "slug": "dapa",
+      "ipay": "dictionary/audio/ipay/d/dapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dapa.mp3"
+    }
+  },
+  {
+    "id": "2709",
+    "basay": "dapan",
+    "category": "06",
+    "zh": [
+      "腳底",
+      "足跡（原始南島語）"
+    ],
+    "en": [
+      "PAN sole of the foot; footprint 6704"
+    ],
+    "original": "dapaN",
+    "audio": {
+      "slug": "dapan",
+      "ipay": "dictionary/audio/ipay/d/dapan.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dapan.mp3"
+    }
+  },
+  {
+    "id": "2710",
+    "basay": "dapuR",
+    "category": "06",
+    "zh": [
+      "堆疊（如石頭）"
+    ],
+    "en": [
+      "pile up, as stones 12082"
+    ],
+    "original": "dapuR₂",
+    "audio": {
+      "slug": "dapur",
+      "ipay": "dictionary/audio/ipay/d/dapur.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dapur.mp3"
+    }
+  },
+  {
+    "id": "2711",
+    "basay": "daqan",
+    "category": "32",
+    "zh": [
+      "古老的",
+      "古代的"
+    ],
+    "en": [
+      "old, ancient 7020"
+    ],
+    "original": "daqaN",
+    "audio": {
+      "slug": "daqan",
+      "ipay": "dictionary/audio/ipay/d/daqan.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daqan.mp3"
+    }
+  },
+  {
+    "id": "2712",
+    "basay": "daqani",
+    "category": "11",
+    "zh": [
+      "日",
+      "白天"
+    ],
+    "en": [
+      "day 2197"
+    ],
+    "original": "daqaNi",
+    "audio": {
+      "slug": "daqani",
+      "ipay": "dictionary/audio/ipay/d/daqani.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daqani.mp3"
+    }
+  },
+  {
+    "id": "2713",
+    "basay": "daqis",
+    "category": "06",
+    "zh": [
+      "額頭",
+      "臉"
+    ],
+    "en": [
+      "forehead; face 6464"
+    ],
+    "original": "daqiS",
+    "audio": {
+      "slug": "daqis",
+      "ipay": "dictionary/audio/ipay/d/daqis.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daqis.mp3"
+    }
+  },
+  {
+    "id": "2714",
+    "basay": "daqu",
+    "category": "35",
+    "zh": [
+      "無患子（Sapindus mukrossi 或 S. saponaria）"
+    ],
+    "en": [
+      "soapberry: Sapindus mukrossi, S. saponaria 6568"
+    ],
+    "original": "daqu₂",
+    "audio": {
+      "slug": "daqu",
+      "ipay": "dictionary/audio/ipay/d/daqu.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daqu.mp3"
+    }
+  },
+  {
+    "id": "2715",
+    "basay": "daRa",
+    "category": "34",
+    "zh": [
+      "台灣楓香（Liquidambar formosana）"
+    ],
+    "en": [
+      "Formosan maple: Liquidambar formosana 6569"
+    ],
+    "original": "daRa₁",
+    "audio": {
+      "slug": "dara",
+      "ipay": "dictionary/audio/ipay/d/dara.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dara.mp3"
+    }
+  },
+  {
+    "id": "2716",
+    "basay": "daRaq",
+    "category": "06",
+    "zh": [
+      "血",
+      "流血",
+      "月經"
+    ],
+    "en": [
+      "blood; to bleed; menstruate 7205"
+    ],
+    "original": "daRaq",
+    "audio": {
+      "slug": "daraq",
+      "ipay": "dictionary/audio/ipay/d/daraq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daraq.mp3"
+    }
+  },
+  {
+    "id": "2717",
+    "basay": "daReq",
+    "category": "34",
+    "zh": [
+      "泥土",
+      "黏土"
+    ],
+    "en": [
+      "soil, probably clay 2200"
+    ],
+    "original": "daReq",
+    "audio": {
+      "slug": "dareq",
+      "ipay": "dictionary/audio/ipay/d/dareq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dareq.mp3"
+    }
+  },
+  {
+    "id": "2718",
+    "basay": "daRing",
+    "category": "34",
+    "zh": [
+      "呻吟"
+    ],
+    "en": [
+      "groan, moan 2202"
+    ],
+    "original": "daRiŋ",
+    "audio": {
+      "slug": "darinx",
+      "ipay": "dictionary/audio/ipay/d/darinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/darinx.mp3"
+    }
+  },
+  {
+    "id": "2719",
+    "basay": "daRiq",
+    "category": "34",
+    "zh": [
+      "泥土",
+      "黏土"
+    ],
+    "en": [
+      "soil, probably clay 8900"
+    ],
+    "original": "daRiq",
+    "audio": {
+      "slug": "dariq",
+      "ipay": "dictionary/audio/ipay/d/dariq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dariq.mp3"
+    }
+  },
+  {
+    "id": "2720",
+    "basay": "dasdas",
+    "category": "34",
+    "zh": [
+      "胸部（解剖學）"
+    ],
+    "en": [
+      "chest (anat.) 2203"
+    ],
+    "original": "daSdaS",
+    "audio": {
+      "slug": "dasdas",
+      "ipay": "dictionary/audio/ipay/d/dasdas.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dasdas.mp3"
+    }
+  },
+  {
+    "id": "2721",
+    "basay": "dataR",
+    "category": "10",
+    "zh": [
+      "平坦的",
+      "平地"
+    ],
+    "en": [
+      "flat, flat or level land 7564"
+    ],
+    "original": "dataR",
+    "audio": {
+      "slug": "datar",
+      "ipay": "dictionary/audio/ipay/d/datar.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/datar.mp3"
+    }
+  },
+  {
+    "id": "2722",
+    "basay": "dawin",
+    "category": "14",
+    "zh": [
+      "遙遠的"
+    ],
+    "en": [
+      "far 6634"
+    ],
+    "original": "dawiN",
+    "audio": {
+      "slug": "dawin",
+      "ipay": "dictionary/audio/ipay/d/dawin.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dawin.mp3"
+    }
+  },
+  {
+    "id": "2723",
+    "basay": "daya",
+    "category": "14",
+    "zh": [
+      "上游",
+      "往內陸"
+    ],
+    "en": [
+      "upriver, toward the interior 7210"
+    ],
+    "original": "daya",
+    "audio": {
+      "slug": "daya",
+      "ipay": "dictionary/audio/ipay/d/daya.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/daya.mp3"
+    }
+  },
+  {
+    "id": "2724",
+    "basay": "debdeb",
+    "category": "34",
+    "zh": [
+      "胸膛"
+    ],
+    "en": [
+      "chest 2216"
+    ],
+    "original": "debdeb",
+    "audio": {
+      "slug": "debdeb",
+      "ipay": "dictionary/audio/ipay/d/debdeb.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/debdeb.mp3"
+    }
+  },
+  {
+    "id": "2725",
+    "basay": "dekdek",
+    "category": "25",
+    "zh": [
+      "壓實",
+      "拍打使緊密"
+    ],
+    "en": [
+      "to tamp down, compact something 12798"
+    ],
+    "original": "dekdek₂",
+    "audio": {
+      "slug": "dekdek",
+      "ipay": "dictionary/audio/ipay/d/dekdek.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dekdek.mp3"
+    }
+  },
+  {
+    "id": "2727",
+    "basay": "dekep",
+    "category": "34",
+    "zh": [
+      "擁抱"
+    ],
+    "en": [
+      "embrace 2222"
+    ],
+    "original": "dekep",
+    "audio": {
+      "slug": "dekep",
+      "ipay": "dictionary/audio/ipay/d/dekep.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dekep.mp3"
+    }
+  },
+  {
+    "id": "2726",
+    "basay": "deket",
+    "category": "27",
+    "zh": [
+      "漿糊",
+      "黏膠（可能由煮爛的米製成）"
+    ],
+    "en": [
+      "paste, adhesive (probably made of overcooked rice) 8087"
+    ],
+    "original": "dekeC",
+    "audio": {
+      "slug": "deket",
+      "ipay": "dictionary/audio/ipay/d/deket.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/deket.mp3"
+    }
+  },
+  {
+    "id": "2728",
+    "basay": "deking",
+    "category": "07",
+    "zh": [
+      "鳴叫（鹿）"
+    ],
+    "en": [
+      "to bark, of a deer 2223"
+    ],
+    "original": "dekiŋ",
+    "audio": {
+      "slug": "dekinx",
+      "ipay": "dictionary/audio/ipay/d/dekinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dekinx.mp3"
+    }
+  },
+  {
+    "id": "2729",
+    "basay": "deles",
+    "category": "09",
+    "zh": [
+      "弓弦"
+    ],
+    "en": [
+      "bowstring 2226"
+    ],
+    "original": "deles",
+    "audio": {
+      "slug": "deles",
+      "ipay": "dictionary/audio/ipay/d/deles.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/deles.mp3"
+    }
+  },
+  {
+    "id": "2730",
+    "basay": "demdem",
+    "category": "06",
+    "zh": [
+      "心懷怨恨",
+      "記仇",
+      "沈默"
+    ],
+    "en": [
+      "brood, hold a grudge, remember, keep still 2227"
+    ],
+    "original": "demdem₁",
+    "audio": {
+      "slug": "demdem",
+      "ipay": "dictionary/audio/ipay/d/demdem.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/demdem.mp3"
+    }
+  },
+  {
+    "id": "2731",
+    "basay": "demdem",
+    "category": "11",
+    "zh": [
+      "黑暗",
+      "陰鬱",
+      "陰天"
+    ],
+    "en": [
+      "gloom, darkness; dark, overcast, gloomy 7567"
+    ],
+    "original": "demdem₂",
+    "audio": {
+      "slug": "demdem",
+      "ipay": "dictionary/audio/ipay/d/demdem.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/demdem.mp3"
+    }
+  },
+  {
+    "id": "2732",
+    "basay": "dengdeng",
+    "category": "11",
+    "zh": [
+      "雷",
+      "隆隆聲"
+    ],
+    "en": [
+      "thunder; roaring or thunderous sound 12084"
+    ],
+    "original": "deŋdeŋ₂",
+    "audio": {
+      "slug": "denxdenx",
+      "ipay": "dictionary/audio/ipay/d/denxdenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/denxdenx.mp3"
+    }
+  },
+  {
+    "id": "2733",
+    "basay": "dengeR",
+    "category": "23",
+    "zh": [
+      "聽見",
+      "聲音"
+    ],
+    "en": [
+      "to hear; sound 8248"
+    ],
+    "original": "deŋeR",
+    "audio": {
+      "slug": "denxer",
+      "ipay": "dictionary/audio/ipay/d/denxer.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/denxer.mp3"
+    }
+  },
+  {
+    "id": "2734",
+    "basay": "depah",
+    "category": "11",
+    "zh": [
+      "測量（水深）"
+    ],
+    "en": [
+      "fathom 7748"
+    ],
+    "original": "depah",
+    "audio": {
+      "slug": "depah",
+      "ipay": "dictionary/audio/ipay/d/depah.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/depah.mp3"
+    }
+  },
+  {
+    "id": "2735",
+    "basay": "depung",
+    "category": "07",
+    "zh": [
+      "有毒蛇"
+    ],
+    "en": [
+      "venomous snake 2230"
+    ],
+    "original": "depuŋ",
+    "audio": {
+      "slug": "depunx",
+      "ipay": "dictionary/audio/ipay/d/depunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/depunx.mp3"
+    }
+  },
+  {
+    "id": "2737",
+    "basay": "deRdeR",
+    "category": "11",
+    "zh": [
+      "雷聲"
+    ],
+    "en": [
+      "thunder 2232"
+    ],
+    "original": "deRdeR",
+    "audio": {
+      "slug": "derder",
+      "ipay": "dictionary/audio/ipay/d/derder.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/derder.mp3"
+    }
+  },
+  {
+    "id": "2736",
+    "basay": "derung",
+    "category": "23",
+    "zh": [
+      "深沉的轟鳴聲"
+    ],
+    "en": [
+      "deep booming sound 2237"
+    ],
+    "original": "deruŋ",
+    "audio": {
+      "slug": "derunx",
+      "ipay": "dictionary/audio/ipay/d/derunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/derunx.mp3"
+    }
+  },
+  {
+    "id": "2738",
+    "basay": "deRung",
+    "category": "11",
+    "zh": [
+      "遙遠的雷聲"
+    ],
+    "en": [
+      "distant rolling thunder 2238"
+    ],
+    "original": "deRuŋ₁",
+    "audio": {
+      "slug": "derunx",
+      "ipay": "dictionary/audio/ipay/d/derunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/derunx.mp3"
+    }
+  },
+  {
+    "id": "2739",
+    "basay": "detdet",
+    "category": "14",
+    "zh": [
+      "密集擠在一起"
+    ],
+    "en": [
+      "packed tightly together 7329"
+    ],
+    "original": "detdet",
+    "audio": {
+      "slug": "detdet",
+      "ipay": "dictionary/audio/ipay/d/detdet.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/detdet.mp3"
+    }
+  },
+  {
+    "id": "2740",
+    "basay": "di",
+    "category": "36",
+    "zh": [
+      "處格標記（可能用於單數人名",
+      "cf. *da, *du）"
+    ],
+    "en": [
+      "locative case marker (probably for singular personal names; cf. *da, *du) 8796"
+    ],
+    "original": "di",
+    "audio": {
+      "slug": "di",
+      "ipay": "dictionary/audio/ipay/d/di.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/di.mp3"
+    }
+  },
+  {
+    "id": "2744",
+    "basay": "di-ni",
+    "category": "02",
+    "zh": [
+      "這裡"
+    ],
+    "en": [
+      "here 3678"
+    ],
+    "original": "di-ni",
+    "audio": {
+      "slug": "di_ni",
+      "ipay": "dictionary/audio/ipay/d/di_ni.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/di_ni.mp3"
+    }
+  },
+  {
+    "id": "2741",
+    "basay": "diket",
+    "category": "34",
+    "zh": [
+      "黏的",
+      "有黏性的"
+    ],
+    "en": [
+      "sticky, adhesive 2248"
+    ],
+    "original": "dikeC",
+    "audio": {
+      "slug": "diket",
+      "ipay": "dictionary/audio/ipay/d/diket.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/diket.mp3"
+    }
+  },
+  {
+    "id": "2742",
+    "basay": "dikit",
+    "category": "01",
+    "zh": [
+      "少",
+      "數量少"
+    ],
+    "en": [
+      "little, few, small in amount 2249"
+    ],
+    "original": "dikit",
+    "audio": {
+      "slug": "dikit",
+      "ipay": "dictionary/audio/ipay/d/dikit.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dikit.mp3"
+    }
+  },
+  {
+    "id": "2743",
+    "basay": "dilaq",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "en": [
+      "to lick 7129"
+    ],
+    "original": "dilaq₁",
+    "audio": {
+      "slug": "dilaq",
+      "ipay": "dictionary/audio/ipay/d/dilaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dilaq.mp3"
+    }
+  },
+  {
+    "id": "2745",
+    "basay": "dinang",
+    "category": "34",
+    "zh": [
+      "鐵鏽",
+      "赤鐵礦"
+    ],
+    "en": [
+      "rust; hematite 7117"
+    ],
+    "original": "diNaŋ",
+    "audio": {
+      "slug": "dinanx",
+      "ipay": "dictionary/audio/ipay/d/dinanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dinanx.mp3"
+    }
+  },
+  {
+    "id": "2746",
+    "basay": "diRi",
+    "category": "25",
+    "zh": [
+      "站立"
+    ],
+    "en": [
+      "to stand 7383"
+    ],
+    "original": "diRi",
+    "audio": {
+      "slug": "diri",
+      "ipay": "dictionary/audio/ipay/d/diri.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/diri.mp3"
+    }
+  },
+  {
+    "id": "2747",
+    "basay": "diRus",
+    "category": "25",
+    "zh": [
+      "洗澡"
+    ],
+    "en": [
+      "bathe 7330"
+    ],
+    "original": "diRus",
+    "audio": {
+      "slug": "dirus",
+      "ipay": "dictionary/audio/ipay/d/dirus.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dirus.mp3"
+    }
+  },
+  {
+    "id": "2748",
+    "basay": "disdis",
+    "category": "25",
+    "zh": [
+      "切",
+      "片"
+    ],
+    "en": [
+      "cut, slice 2256"
+    ],
+    "original": "disdis",
+    "audio": {
+      "slug": "disdis",
+      "ipay": "dictionary/audio/ipay/d/disdis.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/disdis.mp3"
+    }
+  },
+  {
+    "id": "2749",
+    "basay": "diteq",
+    "category": "09",
+    "zh": [
+      "黏性物質"
+    ],
+    "en": [
+      "sticky substance 2258"
+    ],
+    "original": "diteq",
+    "audio": {
+      "slug": "diteq",
+      "ipay": "dictionary/audio/ipay/d/diteq.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/diteq.mp3"
+    }
+  },
+  {
+    "id": "2755",
+    "basay": "du(ng)kung",
+    "category": "32",
+    "zh": [
+      "彎曲"
+    ],
+    "en": [
+      "bend, curve 2284"
+    ],
+    "original": "du(ŋ)kuŋ",
+    "audio": {
+      "slug": "du_nx_kunx",
+      "ipay": "dictionary/audio/ipay/d/du_nx_kunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/du_nx_kunx.mp3"
+    }
+  },
+  {
+    "id": "2751",
+    "basay": "du-dusa",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7879"
+    ],
+    "original": "du-duSa",
+    "audio": {
+      "slug": "du_dusa",
+      "ipay": "dictionary/audio/ipay/d/du_dusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/du_dusa.mp3"
+    }
+  },
+  {
+    "id": "2750",
+    "basay": "dua",
+    "category": "02",
+    "zh": [
+      "那裡",
+      "那邊"
+    ],
+    "en": [
+      "over there, yonder 7323"
+    ],
+    "original": "dua",
+    "audio": {
+      "slug": "dua",
+      "ipay": "dictionary/audio/ipay/d/dua.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dua.mp3"
+    }
+  },
+  {
+    "id": "2752",
+    "basay": "duhduh",
+    "category": "11",
+    "zh": [
+      "雷聲"
+    ],
+    "en": [
+      "thunder 2269"
+    ],
+    "original": "duhduh",
+    "audio": {
+      "slug": "duhduh",
+      "ipay": "dictionary/audio/ipay/d/duhduh.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/duhduh.mp3"
+    }
+  },
+  {
+    "id": "2753",
+    "basay": "dukduk",
+    "category": "34",
+    "zh": [
+      "薑"
+    ],
+    "en": [
+      "ginger 6708"
+    ],
+    "original": "dukduk₁",
+    "audio": {
+      "slug": "dukduk",
+      "ipay": "dictionary/audio/ipay/d/dukduk.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dukduk.mp3"
+    }
+  },
+  {
+    "id": "2754",
+    "basay": "dukduk",
+    "category": "07",
+    "zh": [
+      "插入洞中（如用棒捕蟹）"
+    ],
+    "en": [
+      "to thrust into a hole, as a stick to catch a crab 12793"
+    ],
+    "original": "dukduk₄",
+    "audio": {
+      "slug": "dukduk",
+      "ipay": "dictionary/audio/ipay/d/dukduk.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dukduk.mp3"
+    }
+  },
+  {
+    "id": "2756",
+    "basay": "duma",
+    "category": "35",
+    "zh": [
+      "某人",
+      "他人",
+      "不同"
+    ],
+    "en": [
+      "someone; other people; be different 7685"
+    ],
+    "original": "duma",
+    "audio": {
+      "slug": "duma",
+      "ipay": "dictionary/audio/ipay/d/duma.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/duma.mp3"
+    }
+  },
+  {
+    "id": "2760",
+    "basay": "duRi",
+    "category": "34",
+    "zh": [
+      "荊棘",
+      "刺"
+    ],
+    "en": [
+      "thorn 6825"
+    ],
+    "original": "duRi",
+    "audio": {
+      "slug": "duri",
+      "ipay": "dictionary/audio/ipay/d/duri.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/duri.mp3"
+    }
+  },
+  {
+    "id": "2761",
+    "basay": "dusa",
+    "category": "01",
+    "zh": [
+      "兩個"
+    ],
+    "en": [
+      "two 7874"
+    ],
+    "original": "duSa",
+    "audio": {
+      "slug": "dusa",
+      "ipay": "dictionary/audio/ipay/d/dusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dusa.mp3"
+    }
+  },
+  {
+    "id": "2762",
+    "basay": "dusa dusa",
+    "category": "01",
+    "zh": [
+      "成雙成對",
+      "每次兩個"
+    ],
+    "en": [
+      "two by two, two at a time; two each 7909"
+    ],
+    "original": "duSa duSa",
+    "audio": {
+      "slug": "dusa_dusa",
+      "ipay": "dictionary/audio/ipay/d/dusa_dusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dusa_dusa.mp3"
+    }
+  },
+  {
+    "id": "2763",
+    "basay": "dusa-en",
+    "category": "01",
+    "zh": [
+      "被分成兩個"
+    ],
+    "en": [
+      "be divided into two 7906"
+    ],
+    "original": "duSa-en",
+    "audio": {
+      "slug": "dusa_en",
+      "ipay": "dictionary/audio/ipay/d/dusa_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/d/dusa_en.mp3"
+    }
+  }
+]

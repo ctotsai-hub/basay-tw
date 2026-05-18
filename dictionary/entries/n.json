@@ -1,5 +1,75 @@
 [
   {
+    "id": "3245",
+    "basay": "-na",
+    "category": "02",
+    "zh": [
+      "指向遠處的時空指示詞：那裡",
+      "那時"
+    ],
+    "en": [
+      "distal spatio-temporal deixis: that, there; then 3655"
+    ],
+    "original": "-na",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/n/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3258",
+    "basay": "-ni",
+    "category": "02",
+    "zh": [
+      "指向近端的時空指示詞：這裡",
+      "現在"
+    ],
+    "en": [
+      "proximal spatio-temporal deixis: this, here; now 3677"
+    ],
+    "original": "-ni",
+    "audio": {
+      "slug": "ni",
+      "ipay": "dictionary/audio/ipay/n/ni.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/ni.mp3"
+    }
+  },
+  {
+    "id": "3267",
+    "basay": "-nu",
+    "category": "35",
+    "zh": [
+      "不確定標記"
+    ],
+    "en": [
+      "marker of uncertainty 3687"
+    ],
+    "original": "-nu₁",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/n/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
+    "id": "3269",
+    "basay": "-nu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數所有者及非主體施事"
+    ],
+    "en": [
+      "2sg possessor and non-subject agent 8790"
+    ],
+    "original": "-nu₂",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/n/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
     "id": "1685",
     "basay": "-numi",
     "category": "02",
@@ -9,7 +79,6 @@
     "en": [
       "your (GEN>"
     ],
-    "source": "S",
     "original": "-numi (S)",
     "audio": {
       "slug": "numi",
@@ -27,7 +96,6 @@
     "en": [
       "rice cake"
     ],
-    "source": "M",
     "original": "naɭik (S)> naɭikka (M)",
     "audio": {
       "slug": "nalxikka",
@@ -49,7 +117,6 @@
     "en": [
       "outside. garden"
     ],
-    "source": "B",
     "original": "ŋajau",
     "audio": {
       "slug": "nxajau",
@@ -70,7 +137,6 @@
     "en": [
       "chin (lower)"
     ],
-    "source": "B",
     "original": "ŋalau",
     "audio": {
       "slug": "nxalau",
@@ -92,7 +158,6 @@
     "en": [
       "lips. jaw"
     ],
-    "source": "B",
     "original": "ŋalau, ŋarau",
     "audio": {
       "slug": "nxalau",
@@ -113,7 +178,6 @@
     "en": [
       "mouth"
     ],
-    "source": "B",
     "original": "ŋaŋa",
     "audio": {
       "slug": "nxanxa",
@@ -135,7 +199,6 @@
     "en": [
       "beak. bill"
     ],
-    "source": "B",
     "original": "ŋaŋaja",
     "audio": {
       "slug": "nxanxaja",
@@ -156,7 +219,6 @@
     "en": [
       "name"
     ],
-    "source": "B",
     "original": "ŋanan",
     "audio": {
       "slug": "nxanan",
@@ -177,7 +239,6 @@
     "en": [
       "echo"
     ],
-    "source": "B",
     "original": "ŋanan",
     "audio": {
       "slug": "nxanan",
@@ -199,7 +260,6 @@
     "en": [
       "river, stream"
     ],
-    "source": "B",
     "original": "ŋapan",
     "audio": {
       "slug": "nxapan",
@@ -220,7 +280,6 @@
     "en": [
       "mustache"
     ],
-    "source": "B",
     "original": "ŋarau a bukəs",
     "audio": {
       "slug": "nxarau_a_bukoxs",
@@ -241,7 +300,6 @@
     "en": [
       "spit"
     ],
-    "source": "B",
     "original": "ŋatsai",
     "audio": {
       "slug": "nxatsai",
@@ -259,7 +317,6 @@
     "en": [
       "saliva, spit"
     ],
-    "source": "M",
     "original": "ŋatsdi (M)",
     "audio": {
       "slug": "nxatsdi",
@@ -280,7 +337,6 @@
     "en": [
       "rice harvest"
     ],
-    "source": "B",
     "original": "ŋatu",
     "audio": {
       "slug": "nxatu",
@@ -298,7 +354,6 @@
     "en": [
       "in front of"
     ],
-    "source": "T",
     "original": "ŋayaw",
     "audio": {
       "slug": "nxayaw",
@@ -316,7 +371,6 @@
     "en": [
       "stone god"
     ],
-    "source": "T",
     "original": "ŋazi",
     "audio": {
       "slug": "nxazi",
@@ -334,7 +388,6 @@
     "en": [
       "chin (lower)"
     ],
-    "source": "M",
     "original": "ŋazui (M)",
     "audio": {
       "slug": "nxazui",
@@ -352,7 +405,6 @@
     "en": [
       "too"
     ],
-    "source": "T",
     "original": "ŋkia, ŋkiia",
     "audio": {
       "slug": "nxkia",
@@ -373,7 +425,6 @@
     "en": [
       "mountain"
     ],
-    "source": "B",
     "original": "ŋonon",
     "audio": {
       "slug": "nxonon",
@@ -394,7 +445,6 @@
     "en": [
       "forest"
     ],
-    "source": "B",
     "original": "ŋonon",
     "audio": {
       "slug": "nxonon",
@@ -412,7 +462,6 @@
     "en": [
       "nose"
     ],
-    "source": "M",
     "original": "ŋorŋor (M)",
     "audio": {
       "slug": "nxornxor",
@@ -433,7 +482,6 @@
     "en": [
       "nose"
     ],
-    "source": "B",
     "original": "ŋutsutsje",
     "audio": {
       "slug": "nxutsutsje",
@@ -451,7 +499,6 @@
     "en": [
       "bow of the ship"
     ],
-    "source": "M",
     "original": "ŋuzus (M)",
     "audio": {
       "slug": "nxuzus",
@@ -469,7 +516,6 @@
     "en": [
       "cape"
     ],
-    "source": "T",
     "original": "ŋuzus, ŋuzus taqəl (M)",
     "audio": {
       "slug": "nxuzus",
@@ -487,12 +533,79 @@
     "en": [
       "cape"
     ],
-    "source": "M",
     "original": "ŋuzus, ŋuzus taqəl (M)",
     "audio": {
       "slug": "nxuzus_taqoxl",
       "ipay": "dictionary/audio/ipay/n/nxuzus_taqoxl.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nxuzus_taqoxl.mp3"
+    }
+  },
+  {
+    "id": "3249",
+    "basay": "n-ami",
+    "category": "36",
+    "zh": [
+      "我們的（1人稱複數排除型所有格）"
+    ],
+    "en": [
+      "1pl. excl. genitive, our 9707"
+    ],
+    "original": "n-ami",
+    "audio": {
+      "slug": "n_ami",
+      "ipay": "dictionary/audio/ipay/n/n_ami.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/n_ami.mp3"
+    }
+  },
+  {
+    "id": "3250",
+    "basay": "n-amu",
+    "category": "36",
+    "zh": [
+      "你們的（2人稱複數所有格）"
+    ],
+    "en": [
+      "2pl. genitive, your, by you 9711"
+    ],
+    "original": "n-amu",
+    "audio": {
+      "slug": "n_amu",
+      "ipay": "dictionary/audio/ipay/n/n_amu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/n_amu.mp3"
+    }
+  },
+  {
+    "id": "3265",
+    "basay": "n-ita",
+    "category": "36",
+    "zh": [
+      "我們的（1人稱包括型所有格）"
+    ],
+    "en": [
+      "1st pers. incl. genitive; our 7698"
+    ],
+    "original": "n-ita",
+    "audio": {
+      "slug": "n_ita",
+      "ipay": "dictionary/audio/ipay/n/n_ita.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/n_ita.mp3"
+    }
+  },
+  {
+    "id": "3295",
+    "basay": "n<um>anguy",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "en": [
+      "to swim 8382"
+    ],
+    "original": "N<um>aŋuy",
+    "audio": {
+      "slug": "n_um_anxuy",
+      "ipay": "dictionary/audio/ipay/n/n_um_anxuy.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/n_um_anxuy.mp3"
     }
   },
   {
@@ -505,8 +618,75 @@
     "en": [
       "aspect marker"
     ],
-    "source": "T",
     "original": "na",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/n/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3246",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "表強調屬性的連接標記"
+    ],
+    "en": [
+      "linker marking emphatic attribution 3654"
+    ],
+    "original": "na₂",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/n/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3247",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "複數人名的所有格標記"
+    ],
+    "en": [
+      "genitive of plural personal names 8693"
+    ],
+    "original": "na₃",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/n/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3274",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "連詞：和"
+    ],
+    "en": [
+      "conjunction: and 3652"
+    ],
+    "original": "Na₁",
+    "audio": {
+      "slug": "na",
+      "ipay": "dictionary/audio/ipay/n/na.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3275",
+    "basay": "na",
+    "category": "34",
+    "zh": [
+      "已經"
+    ],
+    "en": [
+      "already 8754"
+    ],
+    "original": "Na₂",
     "audio": {
       "slug": "na",
       "ipay": "dictionary/audio/ipay/n/na.mp3",
@@ -523,12 +703,28 @@
     "en": [
       "mother (address)"
     ],
-    "source": "T",
     "original": "na, na:na,. nai, nawie",
     "audio": {
       "slug": "na",
       "ipay": "dictionary/audio/ipay/n/na.mp3",
       "hokkien": "dictionary/audio/hokkien/n/na.mp3"
+    }
+  },
+  {
+    "id": "3251",
+    "basay": "na-nu",
+    "category": "03",
+    "zh": [
+      "什麼（？）"
+    ],
+    "en": [
+      "what(?) 3703"
+    ],
+    "original": "na-nu",
+    "audio": {
+      "slug": "na_nu",
+      "ipay": "dictionary/audio/ipay/n/na_nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na_nu.mp3"
     }
   },
   {
@@ -546,7 +742,6 @@
     "en": [
       "already (preterium)"
     ],
-    "source": "B",
     "original": "na. <kuman na>",
     "audio": {
       "slug": "na",
@@ -567,12 +762,47 @@
     "en": [
       "fire"
     ],
-    "source": "B",
     "original": "na:maD*",
     "audio": {
       "slug": "na_mad",
       "ipay": "dictionary/audio/ipay/n/na_mad.mp3",
       "hokkien": "dictionary/audio/hokkien/n/na_mad.mp3"
+    }
+  },
+  {
+    "id": "3276",
+    "basay": "nabek",
+    "category": "08",
+    "zh": [
+      "海浪",
+      "浪花"
+    ],
+    "en": [
+      "breakers, surf, waves 3639"
+    ],
+    "original": "Nabek",
+    "audio": {
+      "slug": "nabek",
+      "ipay": "dictionary/audio/ipay/n/nabek.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nabek.mp3"
+    }
+  },
+  {
+    "id": "3248",
+    "basay": "najam",
+    "category": "32",
+    "zh": [
+      "熟悉的",
+      "馴服的"
+    ],
+    "en": [
+      "accustomed to, familiar with; tame 3641"
+    ],
+    "original": "najam",
+    "audio": {
+      "slug": "najam",
+      "ipay": "dictionary/audio/ipay/n/najam.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/najam.mp3"
     }
   },
   {
@@ -585,7 +815,6 @@
     "en": [
       "rice cake"
     ],
-    "source": "S",
     "original": "naɭik (S)> naɭikka (M)",
     "audio": {
       "slug": "nalxik",
@@ -603,12 +832,28 @@
     "en": [
       "come"
     ],
-    "source": "S",
     "original": "naɭiɭi (S)",
     "audio": {
       "slug": "nalxilxi",
       "ipay": "dictionary/audio/ipay/n/nalxilxi.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nalxilxi.mp3"
+    }
+  },
+  {
+    "id": "3278",
+    "basay": "nali",
+    "category": "34",
+    "zh": [
+      "蟬"
+    ],
+    "en": [
+      "cicada 3644"
+    ],
+    "original": "Nali",
+    "audio": {
+      "slug": "nali",
+      "ipay": "dictionary/audio/ipay/n/nali.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nali.mp3"
     }
   },
   {
@@ -624,12 +869,28 @@
     "en": [
       "fire"
     ],
-    "source": "B",
     "original": "namaD'",
     "audio": {
       "slug": "namadx",
       "ipay": "dictionary/audio/ipay/n/namadx.mp3",
       "hokkien": "dictionary/audio/hokkien/n/namadx.mp3"
+    }
+  },
+  {
+    "id": "3279",
+    "basay": "namat",
+    "category": "34",
+    "zh": [
+      "鐵（金屬）"
+    ],
+    "en": [
+      "iron (metal) 7307"
+    ],
+    "original": "Namat",
+    "audio": {
+      "slug": "namat",
+      "ipay": "dictionary/audio/ipay/n/namat.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/namat.mp3"
     }
   },
   {
@@ -645,7 +906,6 @@
     "en": [
       "lightning"
     ],
-    "source": "B",
     "original": "nameD",
     "audio": {
       "slug": "named",
@@ -666,7 +926,6 @@
     "en": [
       "thunderbolt"
     ],
-    "source": "B",
     "original": "namel', nameD*",
     "audio": {
       "slug": "namelx",
@@ -684,7 +943,6 @@
     "en": [
       "we"
     ],
-    "source": "T",
     "original": "nami, yami",
     "audio": {
       "slug": "nami",
@@ -707,7 +965,6 @@
     "en": [
       "crack, gap"
     ],
-    "source": "B",
     "original": "naŋaja, laŋa",
     "audio": {
       "slug": "nanxaja",
@@ -728,7 +985,6 @@
     "en": [
       "rich"
     ],
-    "source": "B",
     "original": "naŋala > manaŋala",
     "audio": {
       "slug": "nanxala_mananxala",
@@ -746,7 +1002,6 @@
     "en": [
       "name"
     ],
-    "source": "M",
     "original": "naŋan (M)",
     "audio": {
       "slug": "nanxan",
@@ -767,7 +1022,6 @@
     "en": [
       "tongue (??) movement of tongue (??)"
     ],
-    "source": "B",
     "original": "naŋanaŋat'",
     "audio": {
       "slug": "nanxananxatx",
@@ -785,12 +1039,45 @@
     "en": [
       "swim"
     ],
-    "source": "M",
     "original": "naŋui (M)",
     "audio": {
       "slug": "nanxui",
       "ipay": "dictionary/audio/ipay/n/nanxui.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nanxui.mp3"
+    }
+  },
+  {
+    "id": "3252",
+    "basay": "nanaq",
+    "category": "34",
+    "zh": [
+      "膿"
+    ],
+    "en": [
+      "pus 7221"
+    ],
+    "original": "naNaq",
+    "audio": {
+      "slug": "nanaq",
+      "ipay": "dictionary/audio/ipay/n/nanaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nanaq.mp3"
+    }
+  },
+  {
+    "id": "3280",
+    "basay": "nanguy",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "en": [
+      "to swim 8380"
+    ],
+    "original": "Naŋuy",
+    "audio": {
+      "slug": "nanxuy",
+      "ipay": "dictionary/audio/ipay/n/nanxuy.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nanxuy.mp3"
     }
   },
   {
@@ -806,7 +1093,6 @@
     "en": [
       "water"
     ],
-    "source": "B",
     "original": "nanom",
     "audio": {
       "slug": "nanom",
@@ -827,7 +1113,6 @@
     "en": [
       "swim"
     ],
-    "source": "B",
     "original": "nanui",
     "audio": {
       "slug": "nanui",
@@ -848,12 +1133,45 @@
     "en": [
       "tomb"
     ],
-    "source": "B",
     "original": "napuŋ. ninapuŋan. ninapuŋ",
     "audio": {
       "slug": "napunx_ninapunxan_ninapunx",
       "ipay": "dictionary/audio/ipay/n/napunx_ninapunxan_ninapunx.mp3",
       "hokkien": "dictionary/audio/hokkien/n/napunx_ninapunxan_ninapunx.mp3"
+    }
+  },
+  {
+    "id": "3281",
+    "basay": "naqeji",
+    "category": "15",
+    "zh": [
+      "相鄰稻田間的界線"
+    ],
+    "en": [
+      "boundary between adjacent rice fields 7230"
+    ],
+    "original": "Naqeji",
+    "audio": {
+      "slug": "naqeji",
+      "ipay": "dictionary/audio/ipay/n/naqeji.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/naqeji.mp3"
+    }
+  },
+  {
+    "id": "3253",
+    "basay": "naRa",
+    "category": "25",
+    "zh": [
+      "等待"
+    ],
+    "en": [
+      "to wait 72"
+    ],
+    "original": "naRa",
+    "audio": {
+      "slug": "nara",
+      "ipay": "dictionary/audio/ipay/n/nara.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nara.mp3"
     }
   },
   {
@@ -866,7 +1184,6 @@
     "en": [
       "outside, garden"
     ],
-    "source": "M",
     "original": "nasan (M)",
     "audio": {
       "slug": "nasan",
@@ -884,12 +1201,79 @@
     "en": [
       "relatives"
     ],
-    "source": "M",
     "original": "nasoani (M)",
     "audio": {
       "slug": "nasoani",
       "ipay": "dictionary/audio/ipay/n/nasoani.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nasoani.mp3"
+    }
+  },
+  {
+    "id": "3282",
+    "basay": "nasu",
+    "category": "27",
+    "zh": [
+      "煮（以沸煮法）"
+    ],
+    "en": [
+      "cook by boiling 8110"
+    ],
+    "original": "Nasu",
+    "audio": {
+      "slug": "nasu",
+      "ipay": "dictionary/audio/ipay/n/nasu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nasu.mp3"
+    }
+  },
+  {
+    "id": "3254",
+    "basay": "nasuk",
+    "category": "11",
+    "zh": [
+      "用水煮"
+    ],
+    "en": [
+      "cook by boiling 3650"
+    ],
+    "original": "nasuk",
+    "audio": {
+      "slug": "nasuk",
+      "ipay": "dictionary/audio/ipay/n/nasuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nasuk.mp3"
+    }
+  },
+  {
+    "id": "3283",
+    "basay": "nataD",
+    "category": "14",
+    "zh": [
+      "外面"
+    ],
+    "en": [
+      "outside 7286"
+    ],
+    "original": "NataD",
+    "audio": {
+      "slug": "natad",
+      "ipay": "dictionary/audio/ipay/n/natad.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/natad.mp3"
+    }
+  },
+  {
+    "id": "3277",
+    "basay": "nateng",
+    "category": "34",
+    "zh": [
+      "蔬菜"
+    ],
+    "en": [
+      "vegetables 7284"
+    ],
+    "original": "NaCeŋ",
+    "audio": {
+      "slug": "natenx",
+      "ipay": "dictionary/audio/ipay/n/natenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/natenx.mp3"
     }
   },
   {
@@ -906,7 +1290,6 @@
     "en": [
       "beads, glass.ball"
     ],
-    "source": "B",
     "original": "natəŋ",
     "audio": {
       "slug": "natoxnx",
@@ -927,7 +1310,6 @@
     "en": [
       "light (in weight)"
     ],
-    "source": "B",
     "original": "natsaŋ",
     "audio": {
       "slug": "natsanx",
@@ -949,7 +1331,6 @@
     "en": [
       "light, so, so far"
     ],
-    "source": "B",
     "original": "natsaŋ",
     "audio": {
       "slug": "natsanx",
@@ -967,7 +1348,6 @@
     "en": [
       "light (in weight)"
     ],
-    "source": "M",
     "original": "munatsaŋ (M), natsaŋ (M)",
     "audio": {
       "slug": "natsanx",
@@ -985,7 +1365,6 @@
     "en": [
       "wanton (man)"
     ],
-    "source": "M",
     "original": "natswan (M)",
     "audio": {
       "slug": "natswan",
@@ -1003,12 +1382,45 @@
     "en": [
       "pity"
     ],
-    "source": "T",
     "original": "nawaika",
     "audio": {
       "slug": "nawaika",
       "ipay": "dictionary/audio/ipay/n/nawaika.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nawaika.mp3"
+    }
+  },
+  {
+    "id": "3255",
+    "basay": "nay",
+    "category": "36",
+    "zh": [
+      "指示詞：這"
+    ],
+    "en": [
+      "deictic particle: this 6644"
+    ],
+    "original": "nay",
+    "audio": {
+      "slug": "nay",
+      "ipay": "dictionary/audio/ipay/n/nay.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nay.mp3"
+    }
+  },
+  {
+    "id": "3284",
+    "basay": "nayad",
+    "category": "08",
+    "zh": [
+      "一種植物：接骨木（Sambucus formosana）"
+    ],
+    "en": [
+      "a plant: Sambucus formosana 12731"
+    ],
+    "original": "Nayad",
+    "audio": {
+      "slug": "nayad",
+      "ipay": "dictionary/audio/ipay/n/nayad.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nayad.mp3"
     }
   },
   {
@@ -1021,7 +1433,6 @@
     "en": [
       "what’s up"
     ],
-    "source": "S",
     "original": "nazaunii (S)",
     "audio": {
       "slug": "nazaunii",
@@ -1039,12 +1450,28 @@
     "en": [
       "if"
     ],
-    "source": "S",
     "original": "ne (S)",
     "audio": {
       "slug": "ne",
       "ipay": "dictionary/audio/ipay/n/ne.mp3",
       "hokkien": "dictionary/audio/hokkien/n/ne.mp3"
+    }
+  },
+  {
+    "id": "3256",
+    "basay": "nema",
+    "category": "03",
+    "zh": [
+      "什麼東西？"
+    ],
+    "en": [
+      "what thing? 7324"
+    ],
+    "original": "nema",
+    "audio": {
+      "slug": "nema",
+      "ipay": "dictionary/audio/ipay/n/nema.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nema.mp3"
     }
   },
   {
@@ -1060,7 +1487,6 @@
     "en": [
       "brick"
     ],
-    "source": "B",
     "original": "nemal' a batu",
     "audio": {
       "slug": "nemalx_a_batu",
@@ -1081,12 +1507,28 @@
     "en": [
       "red dog"
     ],
-    "source": "B",
     "original": "nemen uatsu",
     "audio": {
       "slug": "nemen_uatsu",
       "ipay": "dictionary/audio/ipay/n/nemen_uatsu.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nemen_uatsu.mp3"
+    }
+  },
+  {
+    "id": "3257",
+    "basay": "nemnem",
+    "category": "29",
+    "zh": [
+      "思考"
+    ],
+    "en": [
+      "think 3662"
+    ],
+    "original": "nemnem",
+    "audio": {
+      "slug": "nemnem",
+      "ipay": "dictionary/audio/ipay/n/nemnem.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nemnem.mp3"
     }
   },
   {
@@ -1102,7 +1544,6 @@
     "en": [
       "betel nut"
     ],
-    "source": "B",
     "original": "neməŋ",
     "audio": {
       "slug": "nemoxnx",
@@ -1123,7 +1564,6 @@
     "en": [
       "Europeans"
     ],
-    "source": "B",
     "original": "neməŋ basai",
     "audio": {
       "slug": "nemoxnx_basai",
@@ -1144,12 +1584,47 @@
     "en": [
       "bend (to)"
     ],
-    "source": "B",
     "original": "nenause, lawatse (?)",
     "audio": {
       "slug": "nenause",
       "ipay": "dictionary/audio/ipay/n/nenause.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nenause.mp3"
+    }
+  },
+  {
+    "id": "3285",
+    "basay": "neng",
+    "category": "28",
+    "zh": [
+      "看",
+      "視察"
+    ],
+    "en": [
+      "look, see 3666"
+    ],
+    "original": "Neŋ",
+    "audio": {
+      "slug": "nenx",
+      "ipay": "dictionary/audio/ipay/n/nenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nenx.mp3"
+    }
+  },
+  {
+    "id": "3286",
+    "basay": "nengneng",
+    "category": "28",
+    "zh": [
+      "凝視",
+      "盯著看"
+    ],
+    "en": [
+      "stare, look fixedly 3664"
+    ],
+    "original": "NeŋNeŋ",
+    "audio": {
+      "slug": "nenxnenx",
+      "ipay": "dictionary/audio/ipay/n/nenxnenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nenxnenx.mp3"
     }
   },
   {
@@ -1165,7 +1640,6 @@
     "en": [
       "testicle"
     ],
-    "source": "B",
     "original": "netel'",
     "audio": {
       "slug": "netelx",
@@ -1186,12 +1660,441 @@
     "en": [
       "testicle"
     ],
-    "source": "B",
     "original": "netel'",
     "audio": {
       "slug": "netelx",
       "ipay": "dictionary/audio/ipay/n/netelx.mp3",
       "hokkien": "dictionary/audio/hokkien/n/netelx.mp3"
+    }
+  },
+  {
+    "id": "3302",
+    "basay": "ngabngab",
+    "category": "34",
+    "zh": [
+      "咬掉表面"
+    ],
+    "en": [
+      "bite off the surface of something 6040"
+    ],
+    "original": "ŋabŋab",
+    "audio": {
+      "slug": "nxabnxab",
+      "ipay": "dictionary/audio/ipay/n/nxabnxab.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxabnxab.mp3"
+    }
+  },
+  {
+    "id": "3303",
+    "basay": "ngajan",
+    "category": "05",
+    "zh": [
+      "名字"
+    ],
+    "en": [
+      "name 7493"
+    ],
+    "original": "ŋajan",
+    "audio": {
+      "slug": "nxajan",
+      "ipay": "dictionary/audio/ipay/n/nxajan.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxajan.mp3"
+    }
+  },
+  {
+    "id": "3304",
+    "basay": "ngajay",
+    "category": "06",
+    "zh": [
+      "唾液",
+      "口水"
+    ],
+    "en": [
+      "saliva, drivel 10991"
+    ],
+    "original": "ŋajay",
+    "audio": {
+      "slug": "nxajay",
+      "ipay": "dictionary/audio/ipay/n/nxajay.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxajay.mp3"
+    }
+  },
+  {
+    "id": "3305",
+    "basay": "ngalngal",
+    "category": "27",
+    "zh": [
+      "咀嚼"
+    ],
+    "en": [
+      "to chew, masticate 8764"
+    ],
+    "original": "ŋalŋal",
+    "audio": {
+      "slug": "nxalnxal",
+      "ipay": "dictionary/audio/ipay/n/nxalnxal.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxalnxal.mp3"
+    }
+  },
+  {
+    "id": "3306",
+    "basay": "nganga",
+    "category": "06",
+    "zh": [
+      "張嘴"
+    ],
+    "en": [
+      "open the mouth 7984"
+    ],
+    "original": "ŋaŋa₂",
+    "audio": {
+      "slug": "nxanxa",
+      "ipay": "dictionary/audio/ipay/n/nxanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxanxa.mp3"
+    }
+  },
+  {
+    "id": "3307",
+    "basay": "ngawngaw",
+    "category": "35",
+    "zh": [
+      "動物發出的聲音",
+      "人類無法理解的嘟囔聲"
+    ],
+    "en": [
+      "sound produced by an animal; unintelligible muttering of a person 8594"
+    ],
+    "original": "ŋawŋaw",
+    "audio": {
+      "slug": "nxawnxaw",
+      "ipay": "dictionary/audio/ipay/n/nxawnxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxawnxaw.mp3"
+    }
+  },
+  {
+    "id": "3308",
+    "basay": "ngayaw",
+    "category": "34",
+    "zh": [
+      "獵首"
+    ],
+    "en": [
+      "headhunting 6526"
+    ],
+    "original": "ŋayaw",
+    "audio": {
+      "slug": "nxayaw",
+      "ipay": "dictionary/audio/ipay/n/nxayaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxayaw.mp3"
+    }
+  },
+  {
+    "id": "3310",
+    "basay": "ngernger",
+    "category": "32",
+    "zh": [
+      "低吼"
+    ],
+    "en": [
+      "growl 8546"
+    ],
+    "original": "ŋerŋer",
+    "audio": {
+      "slug": "nxernxer",
+      "ipay": "dictionary/audio/ipay/n/nxernxer.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxernxer.mp3"
+    }
+  },
+  {
+    "id": "3311",
+    "basay": "ngesnges",
+    "category": "25",
+    "zh": [
+      "喘氣，呼吸急促"
+    ],
+    "en": [
+      "to pant, be out of breath 8555"
+    ],
+    "original": "ŋesŋes",
+    "audio": {
+      "slug": "nxesnxes",
+      "ipay": "dictionary/audio/ipay/n/nxesnxes.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxesnxes.mp3"
+    }
+  },
+  {
+    "id": "3309",
+    "basay": "ngetnget",
+    "category": "06",
+    "zh": [
+      "咬牙切齒"
+    ],
+    "en": [
+      "gnash the teeth 8147"
+    ],
+    "original": "ŋeCŋeC",
+    "audio": {
+      "slug": "nxetnxet",
+      "ipay": "dictionary/audio/ipay/n/nxetnxet.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxetnxet.mp3"
+    }
+  },
+  {
+    "id": "3312",
+    "basay": "ngetnget",
+    "category": "32",
+    "zh": [
+      "啃咬，輕咬"
+    ],
+    "en": [
+      "gnaw, nibble 8556"
+    ],
+    "original": "ŋetŋet",
+    "audio": {
+      "slug": "nxetnxet",
+      "ipay": "dictionary/audio/ipay/n/nxetnxet.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxetnxet.mp3"
+    }
+  },
+  {
+    "id": "3314",
+    "basay": "ngidaw",
+    "category": "35",
+    "zh": [
+      "無牙的"
+    ],
+    "en": [
+      "toothless 8564"
+    ],
+    "original": "ŋidaw",
+    "audio": {
+      "slug": "nxidaw",
+      "ipay": "dictionary/audio/ipay/n/nxidaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxidaw.mp3"
+    }
+  },
+  {
+    "id": "3315",
+    "basay": "ngilu",
+    "category": "06",
+    "zh": [
+      "牙齒疼痛感（如吃酸物時）"
+    ],
+    "en": [
+      "painful sensation in teeth, as from eating something sour 7503"
+    ],
+    "original": "ŋilu",
+    "audio": {
+      "slug": "nxilu",
+      "ipay": "dictionary/audio/ipay/n/nxilu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxilu.mp3"
+    }
+  },
+  {
+    "id": "3316",
+    "basay": "ngipen",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "en": [
+      "tooth 7138"
+    ],
+    "original": "ŋipen",
+    "audio": {
+      "slug": "nxipen",
+      "ipay": "dictionary/audio/ipay/n/nxipen.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxipen.mp3"
+    }
+  },
+  {
+    "id": "3317",
+    "basay": "ngisngis",
+    "category": "34",
+    "zh": [
+      "鬍鬚"
+    ],
+    "en": [
+      "beard 6683"
+    ],
+    "original": "ŋiSŋiS",
+    "audio": {
+      "slug": "nxisnxis",
+      "ipay": "dictionary/audio/ipay/n/nxisnxis.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxisnxis.mp3"
+    }
+  },
+  {
+    "id": "3313",
+    "basay": "ngitngit",
+    "category": "35",
+    "zh": [
+      "顯示惱怒或不耐煩"
+    ],
+    "en": [
+      "show annoyance or irritation 8595"
+    ],
+    "original": "ŋiCŋiC",
+    "audio": {
+      "slug": "nxitnxit",
+      "ipay": "dictionary/audio/ipay/n/nxitnxit.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxitnxit.mp3"
+    }
+  },
+  {
+    "id": "3318",
+    "basay": "ngitngit",
+    "category": "34",
+    "zh": [
+      "啃咬"
+    ],
+    "en": [
+      "gnaw 6070"
+    ],
+    "original": "ŋitŋit₁",
+    "audio": {
+      "slug": "nxitnxit",
+      "ipay": "dictionary/audio/ipay/n/nxitnxit.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxitnxit.mp3"
+    }
+  },
+  {
+    "id": "3319",
+    "basay": "ngusngus",
+    "category": "23",
+    "zh": [
+      "打鼾，吼叫，呼嚕聲"
+    ],
+    "en": [
+      "to snore, growl, grunt 8598"
+    ],
+    "original": "ŋusŋus",
+    "audio": {
+      "slug": "nxusnxus",
+      "ipay": "dictionary/audio/ipay/n/nxusnxus.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxusnxus.mp3"
+    }
+  },
+  {
+    "id": "3321",
+    "basay": "ngusun",
+    "category": "06",
+    "zh": [
+      "流鼻血"
+    ],
+    "en": [
+      "nosebleed 6589"
+    ],
+    "original": "ŋuSuN",
+    "audio": {
+      "slug": "nxusun",
+      "ipay": "dictionary/audio/ipay/n/nxusun.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxusun.mp3"
+    }
+  },
+  {
+    "id": "3320",
+    "basay": "ngusuq",
+    "category": "06",
+    "zh": [
+      "鼻部區域",
+      "吻部"
+    ],
+    "en": [
+      "nasal area; snout 7553"
+    ],
+    "original": "ŋusuq",
+    "audio": {
+      "slug": "nxusuq",
+      "ipay": "dictionary/audio/ipay/n/nxusuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxusuq.mp3"
+    }
+  },
+  {
+    "id": "3322",
+    "basay": "ngusuR",
+    "category": "06",
+    "zh": [
+      "鼻涕"
+    ],
+    "en": [
+      "nasal mucus 6674"
+    ],
+    "original": "ŋuSuR",
+    "audio": {
+      "slug": "nxusur",
+      "ipay": "dictionary/audio/ipay/n/nxusur.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxusur.mp3"
+    }
+  },
+  {
+    "id": "3259",
+    "basay": "ni",
+    "category": "36",
+    "zh": [
+      "單數人名或代名詞的所有格標記",
+      "表示所有",
+      "部分關係或非主體動作的施事"
+    ],
+    "en": [
+      "genitive case marker for singular personal names and pronouns; marker of possession, part-to-whole relationships, and agency of a non-actor voice verb 8781"
+    ],
+    "original": "ni",
+    "audio": {
+      "slug": "ni",
+      "ipay": "dictionary/audio/ipay/n/ni.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/ni.mp3"
+    }
+  },
+  {
+    "id": "3260",
+    "basay": "ni-a",
+    "category": "02",
+    "zh": [
+      "他／她的（動作主或所有者）"
+    ],
+    "en": [
+      "3sg. agent/possessor 385"
+    ],
+    "original": "ni-a",
+    "audio": {
+      "slug": "ni_a",
+      "ipay": "dictionary/audio/ipay/n/ni_a.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/ni_a.mp3"
+    }
+  },
+  {
+    "id": "3261",
+    "basay": "ni-ia",
+    "category": "36",
+    "zh": [
+      "他／她的（所有格）"
+    ],
+    "en": [
+      "3sg. genitive, his, her 12619"
+    ],
+    "original": "ni-ia",
+    "audio": {
+      "slug": "ni_ia",
+      "ipay": "dictionary/audio/ipay/n/ni_ia.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/ni_ia.mp3"
+    }
+  },
+  {
+    "id": "3262",
+    "basay": "ni-ima",
+    "category": "03",
+    "zh": [
+      "誰的？"
+    ],
+    "en": [
+      "whose? 8840"
+    ],
+    "original": "ni-ima",
+    "audio": {
+      "slug": "ni_ima",
+      "ipay": "dictionary/audio/ipay/n/ni_ima.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/ni_ima.mp3"
     }
   },
   {
@@ -1204,7 +2107,6 @@
     "en": [
       "catch"
     ],
-    "source": "T",
     "original": "niaɭa",
     "audio": {
       "slug": "nialxa",
@@ -1222,7 +2124,6 @@
     "en": [
       "what"
     ],
-    "source": "S",
     "original": "niana (S)",
     "audio": {
       "slug": "niana",
@@ -1243,7 +2144,6 @@
     "en": [
       "bear (animal)"
     ],
-    "source": "B",
     "original": "nianai",
     "audio": {
       "slug": "nianai",
@@ -1254,14 +2154,13 @@
   {
     "id": "1676",
     "basay": "niano'm",
-    "category": "05",
+    "category": "01",
     "zh": [
       "六個人"
     ],
     "en": [
       "six people"
     ],
-    "source": "T",
     "original": "nianəm",
     "audio": {
       "slug": "nianoxm",
@@ -1272,14 +2171,13 @@
   {
     "id": "1677",
     "basay": "niatsu",
-    "category": "05",
+    "category": "01",
     "zh": [
       "三個人"
     ],
     "en": [
       "three people"
     ],
-    "source": "T",
     "original": "niatsu",
     "audio": {
       "slug": "niatsu",
@@ -1290,14 +2188,13 @@
   {
     "id": "1678",
     "basay": "niazusa",
-    "category": "05",
+    "category": "01",
     "zh": [
       "兩個人"
     ],
     "en": [
       "two people"
     ],
-    "source": "T",
     "original": "niazusa",
     "audio": {
       "slug": "niazusa",
@@ -1306,21 +2203,72 @@
     }
   },
   {
+    "id": "3287",
+    "basay": "nibu",
+    "category": "07",
+    "zh": [
+      "動物巢穴"
+    ],
+    "en": [
+      "lair, den of an animal 6588"
+    ],
+    "original": "Nibu",
+    "audio": {
+      "slug": "nibu",
+      "ipay": "dictionary/audio/ipay/n/nibu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nibu.mp3"
+    }
+  },
+  {
+    "id": "3288",
+    "basay": "nihib",
+    "category": "10",
+    "zh": [
+      "岩石遮蔽處",
+      "岩穴"
+    ],
+    "en": [
+      "rock shelter, cave under a rock 7123"
+    ],
+    "original": "Nihib",
+    "audio": {
+      "slug": "nihib",
+      "ipay": "dictionary/audio/ipay/n/nihib.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nihib.mp3"
+    }
+  },
+  {
     "id": "1548",
     "basay": "niiuits",
-    "category": "05",
+    "category": "28",
     "zh": [
       "甦醒，活著的"
     ],
     "en": [
       "revive, alive"
     ],
-    "source": "T",
     "original": "niiuits",
     "audio": {
       "slug": "niiuits",
       "ipay": "dictionary/audio/ipay/n/niiuits.mp3",
       "hokkien": "dictionary/audio/hokkien/n/niiuits.mp3"
+    }
+  },
+  {
+    "id": "3263",
+    "basay": "nimas",
+    "category": "08",
+    "zh": [
+      "獨木舟用舀水器"
+    ],
+    "en": [
+      "bailer in a canoe 8539"
+    ],
+    "original": "nimas",
+    "audio": {
+      "slug": "nimas",
+      "ipay": "dictionary/audio/ipay/n/nimas.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nimas.mp3"
     }
   },
   {
@@ -1336,7 +2284,6 @@
     "en": [
       "listen"
     ],
-    "source": "B",
     "original": "niŋal', manŋgal'. maniŋad'",
     "audio": {
       "slug": "ninxalx",
@@ -1354,7 +2301,6 @@
     "en": [
       "shadow"
     ],
-    "source": "M",
     "original": "niŋu (M)",
     "audio": {
       "slug": "ninxu",
@@ -1376,7 +2322,6 @@
     "en": [
       "intimate"
     ],
-    "source": "B",
     "original": "ninamunan",
     "audio": {
       "slug": "ninamunan",
@@ -1387,7 +2332,7 @@
   {
     "id": "0566",
     "basay": "ninaupun'",
-    "category": "05",
+    "category": "14",
     "zh": [
       "公墓"
     ],
@@ -1397,12 +2342,45 @@
     "en": [
       "cemetery"
     ],
-    "source": "B",
     "original": "ninaupuŋ",
     "audio": {
       "slug": "ninaupunx",
       "ipay": "dictionary/audio/ipay/n/ninaupunx.mp3",
       "hokkien": "dictionary/audio/hokkien/n/ninaupunx.mp3"
+    }
+  },
+  {
+    "id": "3264",
+    "basay": "nipen",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "en": [
+      "tooth 7136"
+    ],
+    "original": "nipen",
+    "audio": {
+      "slug": "nipen",
+      "ipay": "dictionary/audio/ipay/n/nipen.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nipen.mp3"
+    }
+  },
+  {
+    "id": "3289",
+    "basay": "nipis",
+    "category": "32",
+    "zh": [
+      "薄（物質）"
+    ],
+    "en": [
+      "thinness (of materials) 8860"
+    ],
+    "original": "Nipis",
+    "audio": {
+      "slug": "nipis",
+      "ipay": "dictionary/audio/ipay/n/nipis.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nipis.mp3"
     }
   },
   {
@@ -1418,12 +2396,63 @@
     "en": [
       "cape"
     ],
-    "source": "B",
     "original": "nippe",
     "audio": {
       "slug": "nippe",
       "ipay": "dictionary/audio/ipay/n/nippe.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nippe.mp3"
+    }
+  },
+  {
+    "id": "3290",
+    "basay": "nisawa",
+    "category": "25",
+    "zh": [
+      "呼吸",
+      "呼吸動作"
+    ],
+    "en": [
+      "breath; to breathe 7967"
+    ],
+    "original": "NiSawa",
+    "audio": {
+      "slug": "nisawa",
+      "ipay": "dictionary/audio/ipay/n/nisawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nisawa.mp3"
+    }
+  },
+  {
+    "id": "3291",
+    "basay": "nitaq",
+    "category": "10",
+    "zh": [
+      "一種土壤，黏土"
+    ],
+    "en": [
+      "type of soil, clay 12782"
+    ],
+    "original": "Nitaq",
+    "audio": {
+      "slug": "nitaq",
+      "ipay": "dictionary/audio/ipay/n/nitaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nitaq.mp3"
+    }
+  },
+  {
+    "id": "3292",
+    "basay": "niteq",
+    "category": "08",
+    "zh": [
+      "樹液或植物汁液"
+    ],
+    "en": [
+      "sap of a tree or plant 3674"
+    ],
+    "original": "Niteq",
+    "audio": {
+      "slug": "niteq",
+      "ipay": "dictionary/audio/ipay/n/niteq.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/niteq.mp3"
     }
   },
   {
@@ -1436,7 +2465,6 @@
     "en": [
       "dry"
     ],
-    "source": "M",
     "original": "nitsaŋ (M)",
     "audio": {
       "slug": "nitsanx",
@@ -1458,7 +2486,6 @@
     "en": [
       "callosity. corn"
     ],
-    "source": "B",
     "original": "nitsau a mata",
     "audio": {
       "slug": "nitsau_a_mata",
@@ -1479,7 +2506,6 @@
     "en": [
       "simlar, just like"
     ],
-    "source": "B",
     "original": "nitsawa",
     "audio": {
       "slug": "nitsawa",
@@ -1501,7 +2527,6 @@
     "en": [
       "stoop, give birth to"
     ],
-    "source": "B",
     "original": "nituŋuD'",
     "audio": {
       "slug": "nitunxudx",
@@ -1522,7 +2547,6 @@
     "en": [
       "sit (to)"
     ],
-    "source": "B",
     "original": "nituŋul', <nituŋul u takan>",
     "audio": {
       "slug": "nitunxulx",
@@ -1531,16 +2555,33 @@
     }
   },
   {
+    "id": "3293",
+    "basay": "niwang",
+    "category": "32",
+    "zh": [
+      "細長",
+      "纖細"
+    ],
+    "en": [
+      "thinness, slenderness 7050"
+    ],
+    "original": "Niwaŋ",
+    "audio": {
+      "slug": "niwanx",
+      "ipay": "dictionary/audio/ipay/n/niwanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/niwanx.mp3"
+    }
+  },
+  {
     "id": "1681",
     "basay": "njan'uzinan",
-    "category": "06",
+    "category": "14",
     "zh": [
       "散佈，分佈"
     ],
     "en": [
       "split one's hair"
     ],
-    "source": "M",
     "original": "njaŋuzinan (M)",
     "audio": {
       "slug": "njanxuzinan",
@@ -1561,7 +2602,6 @@
     "en": [
       "fish (to)"
     ],
-    "source": "B",
     "original": "njatsan baute",
     "audio": {
       "slug": "njatsan_baute",
@@ -1579,12 +2619,97 @@
     "en": [
       "question marker"
     ],
-    "source": "T",
     "original": "nu",
     "audio": {
       "slug": "nu",
       "ipay": "dictionary/audio/ipay/n/nu.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
+    "id": "3268",
+    "basay": "nu",
+    "category": "03",
+    "zh": [
+      "如果",
+      "當（未來時）"
+    ],
+    "en": [
+      "if, when (in future) 3715"
+    ],
+    "original": "nu₁",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/n/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
+    "id": "3270",
+    "basay": "nu",
+    "category": "36",
+    "zh": [
+      "普通名詞的所有格標記（參見 *na, *ni）"
+    ],
+    "en": [
+      "genitive case marker for common nouns (cf. *na, *ni) 8802"
+    ],
+    "original": "nu₃",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/n/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
+    "id": "3266",
+    "basay": "nu-",
+    "category": "36",
+    "zh": [
+      "未來標記（用於表示日子）"
+    ],
+    "en": [
+      "future marker with words for days 11638"
+    ],
+    "original": "nu-",
+    "audio": {
+      "slug": "nu",
+      "ipay": "dictionary/audio/ipay/n/nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nu.mp3"
+    }
+  },
+  {
+    "id": "3271",
+    "basay": "nuka",
+    "category": "18",
+    "zh": [
+      "製作大麻紗線"
+    ],
+    "en": [
+      "to make hemp yarn 12666"
+    ],
+    "original": "nuka",
+    "audio": {
+      "slug": "nuka",
+      "ipay": "dictionary/audio/ipay/n/nuka.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nuka.mp3"
+    }
+  },
+  {
+    "id": "3294",
+    "basay": "nuka",
+    "category": "06",
+    "zh": [
+      "傷口"
+    ],
+    "en": [
+      "wound 3707"
+    ],
+    "original": "Nuka",
+    "audio": {
+      "slug": "nuka",
+      "ipay": "dictionary/audio/ipay/n/nuka.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nuka.mp3"
     }
   },
   {
@@ -1597,7 +2722,6 @@
     "en": [
       "foot-binding"
     ],
-    "source": "M",
     "original": "nukanan (M)",
     "audio": {
       "slug": "nukanan",
@@ -1615,7 +2739,6 @@
     "en": [
       "deserve"
     ],
-    "source": "T",
     "original": "nuɭatsuŋ",
     "audio": {
       "slug": "nulxatsunx",
@@ -1636,12 +2759,28 @@
     "en": [
       "bad"
     ],
-    "source": "B",
     "original": "nulate",
     "audio": {
       "slug": "nulate",
       "ipay": "dictionary/audio/ipay/n/nulate.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nulate.mp3"
+    }
+  },
+  {
+    "id": "3272",
+    "basay": "numa",
+    "category": "03",
+    "zh": [
+      "如何？"
+    ],
+    "en": [
+      "how? 12730"
+    ],
+    "original": "numa",
+    "audio": {
+      "slug": "numa",
+      "ipay": "dictionary/audio/ipay/n/numa.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/numa.mp3"
     }
   },
   {
@@ -1657,7 +2796,6 @@
     "en": [
       "see (to)"
     ],
-    "source": "B",
     "original": "numaD'",
     "audio": {
       "slug": "numadx",
@@ -1679,7 +2817,6 @@
     "en": [
       "die. see"
     ],
-    "source": "B",
     "original": "numaD'. <jaku numaD'>",
     "audio": {
       "slug": "numadx",
@@ -1700,7 +2837,6 @@
     "en": [
       "forward, front"
     ],
-    "source": "B",
     "original": "numaD'. <mita numaD'>",
     "audio": {
       "slug": "numadx",
@@ -1721,7 +2857,6 @@
     "en": [
       "true"
     ],
-    "source": "B",
     "original": "numakən",
     "audio": {
       "slug": "numakoxn",
@@ -1739,7 +2874,6 @@
     "en": [
       "(??)"
     ],
-    "source": "B",
     "original": "numal lasse >numalasse",
     "audio": {
       "slug": "numal_lasse_numalasse",
@@ -1757,7 +2891,6 @@
     "en": [
       "bamboo shoot"
     ],
-    "source": "M",
     "original": "nunai (M)",
     "audio": {
       "slug": "nunai",
@@ -1775,12 +2908,28 @@
     "en": [
       "half"
     ],
-    "source": "T",
     "original": "nunuan",
     "audio": {
       "slug": "nunuan",
       "ipay": "dictionary/audio/ipay/n/nunuan.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nunuan.mp3"
+    }
+  },
+  {
+    "id": "3273",
+    "basay": "nunuh",
+    "category": "06",
+    "zh": [
+      "女性乳房"
+    ],
+    "en": [
+      "female breast 7789"
+    ],
+    "original": "nunuh",
+    "audio": {
+      "slug": "nunuh",
+      "ipay": "dictionary/audio/ipay/n/nunuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nunuh.mp3"
     }
   },
   {
@@ -1796,7 +2945,6 @@
     "en": [
       "vigorous"
     ],
-    "source": "B",
     "original": "nununuŋusse",
     "audio": {
       "slug": "nunununxusse",
@@ -1817,12 +2965,28 @@
     "en": [
       "netbag"
     ],
-    "source": "B",
     "original": "nupuŋ",
     "audio": {
       "slug": "nupunx",
       "ipay": "dictionary/audio/ipay/n/nupunx.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nupunx.mp3"
+    }
+  },
+  {
+    "id": "3296",
+    "basay": "nuqes",
+    "category": "06",
+    "zh": [
+      "骨髓"
+    ],
+    "en": [
+      "bone marrow 7124"
+    ],
+    "original": "NuqeS",
+    "audio": {
+      "slug": "nuqes",
+      "ipay": "dictionary/audio/ipay/n/nuqes.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nuqes.mp3"
     }
   },
   {
@@ -1835,12 +2999,28 @@
     "en": [
       "gamble (to)"
     ],
-    "source": "M",
     "original": "nurvi (M)",
     "audio": {
       "slug": "nurvi",
       "ipay": "dictionary/audio/ipay/n/nurvi.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nurvi.mp3"
+    }
+  },
+  {
+    "id": "3297",
+    "basay": "nusung",
+    "category": "34",
+    "zh": [
+      "擂米臼"
+    ],
+    "en": [
+      "rice mortar 3539"
+    ],
+    "original": "Nusuŋ",
+    "audio": {
+      "slug": "nusunx",
+      "ipay": "dictionary/audio/ipay/n/nusunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nusunx.mp3"
     }
   },
   {
@@ -1856,7 +3036,6 @@
     "en": [
       "dried cuttlefish"
     ],
-    "source": "B",
     "original": "nusunuse",
     "audio": {
       "slug": "nusunuse",
@@ -1878,12 +3057,29 @@
     "en": [
       "octopus. squid"
     ],
-    "source": "B",
     "original": "nutse",
     "audio": {
       "slug": "nutse",
       "ipay": "dictionary/audio/ipay/n/nutse.mp3",
       "hokkien": "dictionary/audio/hokkien/n/nutse.mp3"
+    }
+  },
+  {
+    "id": "3298",
+    "basay": "nutud",
+    "category": "01",
+    "zh": [
+      "連接兩物使加長（繩索",
+      "竹子等）"
+    ],
+    "en": [
+      "join two things to give added length (rope, bamboo, etc.) 7188"
+    ],
+    "original": "Nutud",
+    "audio": {
+      "slug": "nutud",
+      "ipay": "dictionary/audio/ipay/n/nutud.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nutud.mp3"
     }
   },
   {
@@ -1896,7 +3092,6 @@
     "en": [
       "Indian corn"
     ],
-    "source": "M",
     "original": "nuvasai (M)",
     "audio": {
       "slug": "nuvasai",
@@ -1914,7 +3109,6 @@
     "en": [
       "rice cookies"
     ],
-    "source": "S",
     "original": "nuzuŋ (S)",
     "audio": {
       "slug": "nuzunx",

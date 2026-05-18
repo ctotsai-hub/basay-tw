@@ -9,7 +9,6 @@
     "en": [
       "cauldron"
     ],
-    "source": "M",
     "original": "ɮakop (M)",
     "audio": {
       "slug": "zxakop",
@@ -27,7 +26,6 @@
     "en": [
       "fire"
     ],
-    "source": "T",
     "original": "ɮamal",
     "audio": {
       "slug": "zxamal",
@@ -45,7 +43,6 @@
     "en": [
       "tea"
     ],
-    "source": "M",
     "original": "ɮanum (M)",
     "audio": {
       "slug": "zxanum",
@@ -63,7 +60,6 @@
     "en": [
       "shoes"
     ],
-    "source": "M",
     "original": "ɮapu (M)",
     "audio": {
       "slug": "zxapu",
@@ -81,7 +77,6 @@
     "en": [
       "turtle"
     ],
-    "source": "M",
     "original": "ɮaqunu (M)",
     "audio": {
       "slug": "zxaqunu",
@@ -99,7 +94,6 @@
     "en": [
       "sweat"
     ],
-    "source": "M",
     "original": "ɮaɮaŋ (M)",
     "audio": {
       "slug": "zxazxanx",
@@ -117,7 +111,6 @@
     "en": [
       "near"
     ],
-    "source": "M",
     "original": "ɮaɮani (M)",
     "audio": {
       "slug": "zxazxani",
@@ -135,7 +128,6 @@
     "en": [
       "today"
     ],
-    "source": "M",
     "original": "ɮian (M)",
     "audio": {
       "slug": "zxian",
@@ -153,7 +145,6 @@
     "en": [
       "sour"
     ],
-    "source": "M",
     "original": "ɮiləm (M)",
     "audio": {
       "slug": "zxiloxm",
@@ -171,7 +162,6 @@
     "en": [
       "thunderclap"
     ],
-    "source": "M",
     "original": "ɮəŋɮəŋ (M)",
     "audio": {
       "slug": "zxoxnxzxoxnx",
@@ -189,7 +179,6 @@
     "en": [
       "press down"
     ],
-    "source": "T",
     "original": "ɮətsuɮətan, ɮəzɮətan",
     "audio": {
       "slug": "zxoxtsuzxoxtan",
@@ -207,7 +196,6 @@
     "en": [
       "climb"
     ],
-    "source": "M",
     "original": "ɮumakis (M)",
     "audio": {
       "slug": "zxumakis",
@@ -225,7 +213,6 @@
     "en": [
       "scratch (to)"
     ],
-    "source": "M",
     "original": "ɮumakis (M)",
     "audio": {
       "slug": "zxumakis",
@@ -243,7 +230,6 @@
     "en": [
       "see"
     ],
-    "source": "M",
     "original": "ɮumal (M)",
     "audio": {
       "slug": "zxumal",
@@ -261,7 +247,6 @@
     "en": [
       "toward seasliore"
     ],
-    "source": "T",
     "original": "ɮusapan",
     "audio": {
       "slug": "zxusapan",
@@ -279,7 +264,6 @@
     "en": [
       "here"
     ],
-    "source": "T",
     "original": "tazian (S), zaay, zala",
     "audio": {
       "slug": "zaay",
@@ -297,7 +281,6 @@
     "en": [
       "there"
     ],
-    "source": "M",
     "original": "zaizui (M)",
     "audio": {
       "slug": "zaizui",
@@ -315,7 +298,6 @@
     "en": [
       "here"
     ],
-    "source": "T",
     "original": "tazian (S), zaay, zala",
     "audio": {
       "slug": "zala",
@@ -333,7 +315,6 @@
     "en": [
       "fire"
     ],
-    "source": "M",
     "original": "zamal (M)",
     "audio": {
       "slug": "zamal",
@@ -351,7 +332,6 @@
     "en": [
       "rice paddy field"
     ],
-    "source": "S",
     "original": "zana (S)",
     "audio": {
       "slug": "zana",
@@ -369,7 +349,6 @@
     "en": [
       "water"
     ],
-    "source": "T",
     "original": "zanum",
     "audio": {
       "slug": "zanum",
@@ -387,7 +366,6 @@
     "en": [
       "this"
     ],
-    "source": "T",
     "original": "zau (loan from Kavalan)",
     "audio": {
       "slug": "zau_loan_from_kavalan",
@@ -398,14 +376,13 @@
   {
     "id": "2344",
     "basay": "zawis",
-    "category": "05",
+    "category": "24",
     "zh": [
       "出名的"
     ],
     "en": [
       "famous"
     ],
-    "source": "T",
     "original": "zawis",
     "audio": {
       "slug": "zawis",
@@ -423,7 +400,6 @@
     "en": [
       "keep looking"
     ],
-    "source": "T",
     "original": "zazal",
     "audio": {
       "slug": "zazal",
@@ -441,7 +417,6 @@
     "en": [
       "hot (weather)"
     ],
-    "source": "M",
     "original": "zazaŋ (M)",
     "audio": {
       "slug": "zazanx",
@@ -459,7 +434,6 @@
     "en": [
       "meet"
     ],
-    "source": "T",
     "original": "zazanan",
     "audio": {
       "slug": "zazanan",
@@ -477,7 +451,6 @@
     "en": [
       "so, in this way"
     ],
-    "source": "T",
     "original": "zazaw",
     "audio": {
       "slug": "zazaw",
@@ -495,7 +468,6 @@
     "en": [
       "day"
     ],
-    "source": "T",
     "original": "zian",
     "audio": {
       "slug": "zian",
@@ -513,7 +485,6 @@
     "en": [
       "according to, also, it is said"
     ],
-    "source": "T",
     "original": "zina",
     "audio": {
       "slug": "zina",
@@ -531,7 +502,6 @@
     "en": [
       "ascend, climb"
     ],
-    "source": "T",
     "original": "zmakis",
     "audio": {
       "slug": "zmakis",
@@ -549,7 +519,6 @@
     "en": [
       "alright, really, right"
     ],
-    "source": "T",
     "original": "zmakən",
     "audio": {
       "slug": "zmakoxn",
@@ -567,7 +536,6 @@
     "en": [
       "see"
     ],
-    "source": "T",
     "original": "zmal, zumal, zumaz",
     "audio": {
       "slug": "zmal",
@@ -585,7 +553,6 @@
     "en": [
       "pound rice"
     ],
-    "source": "T",
     "original": "zmawakka",
     "audio": {
       "slug": "zmawakka",
@@ -603,7 +570,6 @@
     "en": [
       "oldest son"
     ],
-    "source": "M",
     "original": "zozao (M)",
     "audio": {
       "slug": "zozao",
@@ -621,7 +587,6 @@
     "en": [
       "into"
     ],
-    "source": "T",
     "original": "zu",
     "audio": {
       "slug": "zu",
@@ -639,7 +604,6 @@
     "en": [
       "tired"
     ],
-    "source": "T",
     "original": "zukas, zukzukkas",
     "audio": {
       "slug": "zukas",
@@ -657,7 +621,6 @@
     "en": [
       "someone (referential)"
     ],
-    "source": "T",
     "original": "zumaia",
     "audio": {
       "slug": "zumaia",
@@ -675,7 +638,6 @@
     "en": [
       "really"
     ],
-    "source": "S",
     "original": "zumakinu (S)",
     "audio": {
       "slug": "zumakinu",
@@ -693,7 +655,6 @@
     "en": [
       "arrive"
     ],
-    "source": "T",
     "original": "zumap",
     "audio": {
       "slug": "zumap",
@@ -711,7 +672,6 @@
     "en": [
       "hang"
     ],
-    "source": "M",
     "original": "zumaueta (M)",
     "audio": {
       "slug": "zumaueta",
@@ -729,7 +689,6 @@
     "en": [
       "drum, gong"
     ],
-    "source": "M",
     "original": "zuŋzuŋan (M)",
     "audio": {
       "slug": "zunxzunxan",
@@ -747,7 +706,6 @@
     "en": [
       "adhere"
     ],
-    "source": "T",
     "original": "qumapiz (M), zupetta",
     "audio": {
       "slug": "zupetta",
@@ -765,7 +723,6 @@
     "en": [
       "adhere"
     ],
-    "source": "T",
     "original": "qumapiz (M), zupetta",
     "audio": {
       "slug": "zupetta",
@@ -783,7 +740,6 @@
     "en": [
       "two (nonhuman)"
     ],
-    "source": "T",
     "original": "lusa (S), zusa",
     "audio": {
       "slug": "zusa",

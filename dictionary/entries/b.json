@@ -1,5 +1,145 @@
 [
   {
+    "id": "2463",
+    "basay": "b<aR>engbeng",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "低鳴",
+      "嗡響聲"
+    ],
+    "en": [
+      "buzzing, droning, humming 1065"
+    ],
+    "original": "b<aR>eŋbeŋ",
+    "audio": {
+      "slug": "b_ar_enxbenx",
+      "ipay": "dictionary/audio/ipay/b/b_ar_enxbenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_ar_enxbenx.mp3"
+    }
+  },
+  {
+    "id": "2514",
+    "basay": "b<in>ahi",
+    "category": "04",
+    "zh": [
+      "女性，妻子"
+    ],
+    "en": [
+      "woman, wife 6941"
+    ],
+    "original": "b<in>ahi",
+    "audio": {
+      "slug": "b_in_ahi",
+      "ipay": "dictionary/audio/ipay/b/b_in_ahi.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_in_ahi.mp3"
+    }
+  },
+  {
+    "id": "2516",
+    "basay": "b<in>elaq",
+    "category": "01",
+    "zh": [
+      "被分裂，裂為兩半"
+    ],
+    "en": [
+      "to have been split, cloven in two 881"
+    ],
+    "original": "b<in>elaq",
+    "audio": {
+      "slug": "b_in_elaq",
+      "ipay": "dictionary/audio/ipay/b/b_in_elaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_in_elaq.mp3"
+    }
+  },
+  {
+    "id": "2515",
+    "basay": "b<in>etik",
+    "category": "34",
+    "zh": [
+      "有刺青的",
+      "有紋飾的"
+    ],
+    "en": [
+      "tattooed, marked with a design 815"
+    ],
+    "original": "b<in>eCik",
+    "audio": {
+      "slug": "b_in_etik",
+      "ipay": "dictionary/audio/ipay/b/b_in_etik.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_in_etik.mp3"
+    }
+  },
+  {
+    "id": "2518",
+    "basay": "b<in>uRuk",
+    "category": "25",
+    "zh": [
+      "腐爛了"
+    ],
+    "en": [
+      "to have become rotten 1771"
+    ],
+    "original": "b<in>uRuk",
+    "audio": {
+      "slug": "b_in_uruk",
+      "ipay": "dictionary/audio/ipay/b/b_in_uruk.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_in_uruk.mp3"
+    }
+  },
+  {
+    "id": "2567",
+    "basay": "b<um>aliw",
+    "category": "34",
+    "zh": [
+      "買"
+    ],
+    "en": [
+      "buy 6558"
+    ],
+    "original": "b<um>aliw",
+    "audio": {
+      "slug": "b_um_aliw",
+      "ipay": "dictionary/audio/ipay/b/b_um_aliw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_um_aliw.mp3"
+    }
+  },
+  {
+    "id": "2568",
+    "basay": "b<um>asuq",
+    "category": "25",
+    "zh": [
+      "洗滌"
+    ],
+    "en": [
+      "to wash 6456"
+    ],
+    "original": "b<um>asuq",
+    "audio": {
+      "slug": "b_um_asuq",
+      "ipay": "dictionary/audio/ipay/b/b_um_asuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/b_um_asuq.mp3"
+    }
+  },
+  {
+    "id": "2415",
+    "basay": "ba-bahi",
+    "category": "04",
+    "zh": [
+      "女人",
+      "女性"
+    ],
+    "en": [
+      "woman, female 6939"
+    ],
+    "original": "ba-bahi",
+    "audio": {
+      "slug": "ba_bahi",
+      "ipay": "dictionary/audio/ipay/b/ba_bahi.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/ba_bahi.mp3"
+    }
+  },
+  {
     "id": "0021",
     "basay": "baba",
     "category": "25",
@@ -12,8 +152,26 @@
     "en": [
       "carry on one's back"
     ],
-    "source": "B",
     "original": "baba",
+    "audio": {
+      "slug": "baba",
+      "ipay": "dictionary/audio/ipay/b/baba.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baba.mp3"
+    }
+  },
+  {
+    "id": "2414",
+    "basay": "baba",
+    "category": "25",
+    "zh": [
+      "背人",
+      "揹人走",
+      "揹騎"
+    ],
+    "en": [
+      "carry a person pick-a-back; ride pick-a-back 433"
+    ],
+    "original": "baba₁",
     "audio": {
       "slug": "baba",
       "ipay": "dictionary/audio/ipay/b/baba.mp3",
@@ -33,7 +191,6 @@
     "en": [
       "name of a village. Sinsha"
     ],
-    "source": "B",
     "original": "babaŋ",
     "audio": {
       "slug": "babanx",
@@ -54,7 +211,6 @@
     "en": [
       "upstream"
     ],
-    "source": "B",
     "original": "babaŋ",
     "audio": {
       "slug": "babanx",
@@ -75,12 +231,30 @@
     "en": [
       "wasteful"
     ],
-    "source": "B",
     "original": "babasa",
     "audio": {
       "slug": "babasa",
       "ipay": "dictionary/audio/ipay/b/babasa.mp3",
       "hokkien": "dictionary/audio/hokkien/b/babasa.mp3"
+    }
+  },
+  {
+    "id": "2416",
+    "basay": "babaw",
+    "category": "14",
+    "zh": [
+      "上面",
+      "高地",
+      "在上方"
+    ],
+    "en": [
+      "upper surface, top; highlands; on, upon, over, above 428"
+    ],
+    "original": "babaw₃",
+    "audio": {
+      "slug": "babaw",
+      "ipay": "dictionary/audio/ipay/b/babaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/babaw.mp3"
     }
   },
   {
@@ -96,12 +270,46 @@
     "en": [
       "pig"
     ],
-    "source": "B",
     "original": "babui",
     "audio": {
       "slug": "babui",
       "ipay": "dictionary/audio/ipay/b/babui.mp3",
       "hokkien": "dictionary/audio/hokkien/b/babui.mp3"
+    }
+  },
+  {
+    "id": "2417",
+    "basay": "babuy",
+    "category": "07",
+    "zh": [
+      "豬"
+    ],
+    "en": [
+      "pig 441"
+    ],
+    "original": "babuy₃",
+    "audio": {
+      "slug": "babuy",
+      "ipay": "dictionary/audio/ipay/b/babuy.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/babuy.mp3"
+    }
+  },
+  {
+    "id": "2418",
+    "basay": "babuy-an",
+    "category": "07",
+    "zh": [
+      "豬圈",
+      "豬舍"
+    ],
+    "en": [
+      "pigpen, pigsty, piggery 442"
+    ],
+    "original": "babuy-an",
+    "audio": {
+      "slug": "babuy_an",
+      "ipay": "dictionary/audio/ipay/b/babuy_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/babuy_an.mp3"
     }
   },
   {
@@ -117,12 +325,28 @@
     "en": [
       "basket"
     ],
-    "source": "B",
     "original": "bahal'",
     "audio": {
       "slug": "bahalx",
       "ipay": "dictionary/audio/ipay/b/bahalx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bahalx.mp3"
+    }
+  },
+  {
+    "id": "2420",
+    "basay": "bahi",
+    "category": "04",
+    "zh": [
+      "女性"
+    ],
+    "en": [
+      "female 6934"
+    ],
+    "original": "bahi",
+    "audio": {
+      "slug": "bahi",
+      "ipay": "dictionary/audio/ipay/b/bahi.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bahi.mp3"
     }
   },
   {
@@ -138,7 +362,6 @@
     "en": [
       "grand-mother"
     ],
-    "source": "B",
     "original": "bai",
     "audio": {
       "slug": "bai",
@@ -159,12 +382,117 @@
     "en": [
       "shadow in the moon"
     ],
-    "source": "B",
     "original": "baitili, (bai tili)",
     "audio": {
       "slug": "baitili",
       "ipay": "dictionary/audio/ipay/b/baitili.mp3",
       "hokkien": "dictionary/audio/hokkien/b/baitili.mp3"
+    }
+  },
+  {
+    "id": "2421",
+    "basay": "bajaq",
+    "category": "28",
+    "zh": [
+      "知道",
+      "了解",
+      "詢問"
+    ],
+    "en": [
+      "know, understand; ask, inquire 6439"
+    ],
+    "original": "bajaq₁",
+    "audio": {
+      "slug": "bajaq",
+      "ipay": "dictionary/audio/ipay/b/bajaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bajaq.mp3"
+    }
+  },
+  {
+    "id": "2422",
+    "basay": "bajiw",
+    "category": "34",
+    "zh": [
+      "可食用的菇類"
+    ],
+    "en": [
+      "edible mushroom sp. 7145"
+    ],
+    "original": "bajiw",
+    "audio": {
+      "slug": "bajiw",
+      "ipay": "dictionary/audio/ipay/b/bajiw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bajiw.mp3"
+    }
+  },
+  {
+    "id": "2423",
+    "basay": "bakang",
+    "category": "34",
+    "zh": [
+      "羅圈腿"
+    ],
+    "en": [
+      "bowlegged 9050"
+    ],
+    "original": "bakaŋ₁",
+    "audio": {
+      "slug": "bakanx",
+      "ipay": "dictionary/audio/ipay/b/bakanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bakanx.mp3"
+    }
+  },
+  {
+    "id": "2424",
+    "basay": "bakaR",
+    "category": "09",
+    "zh": [
+      "一種籃子"
+    ],
+    "en": [
+      "kind of basket 12662"
+    ],
+    "original": "bakaR",
+    "audio": {
+      "slug": "bakar",
+      "ipay": "dictionary/audio/ipay/b/bakar.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bakar.mp3"
+    }
+  },
+  {
+    "id": "2425",
+    "basay": "bakbak",
+    "category": "23",
+    "zh": [
+      "重擊聲",
+      "拍打聲"
+    ],
+    "en": [
+      "sound of heavy clapping or pounding, smacking sound 477"
+    ],
+    "original": "bakbak₂",
+    "audio": {
+      "slug": "bakbak",
+      "ipay": "dictionary/audio/ipay/b/bakbak.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bakbak.mp3"
+    }
+  },
+  {
+    "id": "2426",
+    "basay": "bakes",
+    "category": "18",
+    "zh": [
+      "腰帶",
+      "綁腰帶"
+    ],
+    "en": [
+      "belt; tie around the waist 480"
+    ],
+    "original": "bakes₁",
+    "audio": {
+      "slug": "bakes",
+      "ipay": "dictionary/audio/ipay/b/bakes.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bakes.mp3"
     }
   },
   {
@@ -180,7 +508,6 @@
     "en": [
       "grand-father"
     ],
-    "source": "B",
     "original": "baki",
     "audio": {
       "slug": "baki",
@@ -202,7 +529,6 @@
     "en": [
       "shark, whale"
     ],
-    "source": "B",
     "original": "baki",
     "audio": {
       "slug": "baki",
@@ -223,8 +549,24 @@
     "en": [
       "ancestor"
     ],
-    "source": "B",
     "original": "baki",
+    "audio": {
+      "slug": "baki",
+      "ipay": "dictionary/audio/ipay/b/baki.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baki.mp3"
+    }
+  },
+  {
+    "id": "2427",
+    "basay": "baki",
+    "category": "04",
+    "zh": [
+      "祖父"
+    ],
+    "en": [
+      "grandfather 6554"
+    ],
+    "original": "baki₂",
     "audio": {
       "slug": "baki",
       "ipay": "dictionary/audio/ipay/b/baki.mp3",
@@ -241,7 +583,6 @@
     "en": [
       "strong，tough"
     ],
-    "source": "M",
     "original": "bakəts (M)",
     "audio": {
       "slug": "bakoxts",
@@ -262,7 +603,6 @@
     "en": [
       "strong"
     ],
-    "source": "B",
     "original": "bakətse",
     "audio": {
       "slug": "bakoxtse",
@@ -286,7 +626,6 @@
     "en": [
       "hard, strong, tough"
     ],
-    "source": "B",
     "original": "bakətse",
     "audio": {
       "slug": "bakoxtse",
@@ -308,7 +647,6 @@
     "en": [
       "strong"
     ],
-    "source": "B",
     "original": "bakətse",
     "audio": {
       "slug": "bakoxtse",
@@ -330,12 +668,28 @@
     "en": [
       "thick, strong"
     ],
-    "source": "B",
     "original": "bakətse",
     "audio": {
       "slug": "bakoxtse",
       "ipay": "dictionary/audio/ipay/b/bakoxtse.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bakoxtse.mp3"
+    }
+  },
+  {
+    "id": "2428",
+    "basay": "bakung",
+    "category": "08",
+    "zh": [
+      "文殊蘭（Crinum asiaticum）"
+    ],
+    "en": [
+      "a lily-like plant: Crinum asiaticum L. 484"
+    ],
+    "original": "bakuŋ₁",
+    "audio": {
+      "slug": "bakunx",
+      "ipay": "dictionary/audio/ipay/b/bakunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bakunx.mp3"
     }
   },
   {
@@ -351,7 +705,6 @@
     "en": [
       "hide oneself"
     ],
-    "source": "B",
     "original": "bal'-məŋ",
     "audio": {
       "slug": "balx_moxnx",
@@ -372,7 +725,6 @@
     "en": [
       "give"
     ],
-    "source": "B",
     "original": "balai <valai suwan>",
     "audio": {
       "slug": "balai",
@@ -393,7 +745,6 @@
     "en": [
       "fox-tail millet (a kind)"
     ],
-    "source": "B",
     "original": "balaisan",
     "audio": {
       "slug": "balaisan",
@@ -414,7 +765,6 @@
     "en": [
       "pan"
     ],
-    "source": "B",
     "original": "balajen",
     "audio": {
       "slug": "balajen",
@@ -435,7 +785,6 @@
     "en": [
       "old woman"
     ],
-    "source": "B",
     "original": "balaki-bai",
     "audio": {
       "slug": "balaki_bai",
@@ -456,7 +805,6 @@
     "en": [
       "old (to get)"
     ],
-    "source": "B",
     "original": "balakibai",
     "audio": {
       "slug": "balakibai",
@@ -477,12 +825,45 @@
     "en": [
       "old man"
     ],
-    "source": "B",
     "original": "balakibaki",
     "audio": {
       "slug": "balakibaki",
       "ipay": "dictionary/audio/ipay/b/balakibaki.mp3",
       "hokkien": "dictionary/audio/hokkien/b/balakibaki.mp3"
+    }
+  },
+  {
+    "id": "2429",
+    "basay": "balalatuk",
+    "category": "07",
+    "zh": [
+      "啄木鳥"
+    ],
+    "en": [
+      "a bird: the woodpecker 496"
+    ],
+    "original": "balalaCuk",
+    "audio": {
+      "slug": "balalatuk",
+      "ipay": "dictionary/audio/ipay/b/balalatuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/balalatuk.mp3"
+    }
+  },
+  {
+    "id": "2430",
+    "basay": "balanga",
+    "category": "32",
+    "zh": [
+      "陶製淺鍋"
+    ],
+    "en": [
+      "shallow earthenware cooking pot or pan 519"
+    ],
+    "original": "balaŋa",
+    "audio": {
+      "slug": "balanxa",
+      "ipay": "dictionary/audio/ipay/b/balanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/balanxa.mp3"
     }
   },
   {
@@ -499,7 +880,6 @@
     "en": [
       "door, to shut"
     ],
-    "source": "B",
     "original": "balatai",
     "audio": {
       "slug": "balatai",
@@ -520,7 +900,6 @@
     "en": [
       "door"
     ],
-    "source": "B",
     "original": "balate",
     "audio": {
       "slug": "balate",
@@ -543,7 +922,6 @@
     "en": [
       "window, door"
     ],
-    "source": "B",
     "original": "balate",
     "audio": {
       "slug": "balate",
@@ -565,12 +943,117 @@
     "en": [
       "rice. <beras>"
     ],
-    "source": "B",
     "original": "balattse",
     "audio": {
       "slug": "balattse",
       "ipay": "dictionary/audio/ipay/b/balattse.mp3",
       "hokkien": "dictionary/audio/hokkien/b/balattse.mp3"
+    }
+  },
+  {
+    "id": "2431",
+    "basay": "balbal",
+    "category": "18",
+    "zh": [
+      "打衣棒",
+      "擊打（特別是洗衣服時）"
+    ],
+    "en": [
+      "beating stick; to hit, beat (esp. clothes in washing them) 528"
+    ],
+    "original": "balbal₁",
+    "audio": {
+      "slug": "balbal",
+      "ipay": "dictionary/audio/ipay/b/balbal.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/balbal.mp3"
+    }
+  },
+  {
+    "id": "2432",
+    "basay": "baleng",
+    "category": "21",
+    "zh": [
+      "用鹽醃肉"
+    ],
+    "en": [
+      "preserve meat in salt or brine 12648"
+    ],
+    "original": "baleŋ₂",
+    "audio": {
+      "slug": "balenx",
+      "ipay": "dictionary/audio/ipay/b/balenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/balenx.mp3"
+    }
+  },
+  {
+    "id": "2433",
+    "basay": "bales",
+    "category": "32",
+    "zh": [
+      "回答",
+      "報復",
+      "報恩或報仇"
+    ],
+    "en": [
+      "to answer, retaliate; reciprocate good or evil 531"
+    ],
+    "original": "bales₁",
+    "audio": {
+      "slug": "bales",
+      "ipay": "dictionary/audio/ipay/b/bales.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bales.mp3"
+    }
+  },
+  {
+    "id": "2434",
+    "basay": "bali",
+    "category": "11",
+    "zh": [
+      "風"
+    ],
+    "en": [
+      "wind 6555"
+    ],
+    "original": "bali₃",
+    "audio": {
+      "slug": "bali",
+      "ipay": "dictionary/audio/ipay/b/bali.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bali.mp3"
+    }
+  },
+  {
+    "id": "2435",
+    "basay": "baliw",
+    "category": "34",
+    "zh": [
+      "買",
+      "賣"
+    ],
+    "en": [
+      "buy, sell 6557"
+    ],
+    "original": "baliw",
+    "audio": {
+      "slug": "baliw",
+      "ipay": "dictionary/audio/ipay/b/baliw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baliw.mp3"
+    }
+  },
+  {
+    "id": "2436",
+    "basay": "baliw",
+    "category": "34",
+    "zh": [
+      "返回"
+    ],
+    "en": [
+      "return 559"
+    ],
+    "original": "baliw₂",
+    "audio": {
+      "slug": "baliw",
+      "ipay": "dictionary/audio/ipay/b/baliw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baliw.mp3"
     }
   },
   {
@@ -587,7 +1070,6 @@
     "en": [
       "give. return"
     ],
-    "source": "B",
     "original": "ballai, valaí, <valai isu>",
     "audio": {
       "slug": "ballai",
@@ -608,7 +1090,6 @@
     "en": [
       "dreaming"
     ],
-    "source": "B",
     "original": "balməŋ",
     "audio": {
       "slug": "balmoxnx",
@@ -629,7 +1110,6 @@
     "en": [
       "long-live"
     ],
-    "source": "B",
     "original": "baloŋ",
     "audio": {
       "slug": "balonx",
@@ -651,7 +1131,6 @@
     "en": [
       "long.straight"
     ],
-    "source": "B",
     "original": "baloŋ",
     "audio": {
       "slug": "balonx",
@@ -672,12 +1151,29 @@
     "en": [
       "high"
     ],
-    "source": "B",
     "original": "baloŋ, balloŋ(?)",
     "audio": {
       "slug": "balonx",
       "ipay": "dictionary/audio/ipay/b/balonx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/balonx.mp3"
+    }
+  },
+  {
+    "id": "2437",
+    "basay": "balun",
+    "category": "34",
+    "zh": [
+      "綁",
+      "打包"
+    ],
+    "en": [
+      "bind, bundle 578"
+    ],
+    "original": "baluN",
+    "audio": {
+      "slug": "balun",
+      "ipay": "dictionary/audio/ipay/b/balun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/balun.mp3"
     }
   },
   {
@@ -693,7 +1189,6 @@
     "en": [
       "canoe"
     ],
-    "source": "B",
     "original": "baŋka",
     "audio": {
       "slug": "banxka",
@@ -714,7 +1209,6 @@
     "en": [
       "smell good"
     ],
-    "source": "B",
     "original": "baŋsisse",
     "audio": {
       "slug": "banxsisse",
@@ -735,12 +1229,79 @@
     "en": [
       "cooking oil"
     ],
-    "source": "B",
     "original": "baŋsisse sete",
     "audio": {
       "slug": "banxsisse_sete",
       "ipay": "dictionary/audio/ipay/b/banxsisse_sete.mp3",
       "hokkien": "dictionary/audio/hokkien/b/banxsisse_sete.mp3"
+    }
+  },
+  {
+    "id": "2439",
+    "basay": "banaR",
+    "category": "08",
+    "zh": [
+      "刺藤（Smilax spp.）"
+    ],
+    "en": [
+      "a thorny vine: Smilax spp. 611"
+    ],
+    "original": "baNaR",
+    "audio": {
+      "slug": "banar",
+      "ipay": "dictionary/audio/ipay/b/banar.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banar.mp3"
+    }
+  },
+  {
+    "id": "2440",
+    "basay": "banas",
+    "category": "07",
+    "zh": [
+      "雄性（動物）"
+    ],
+    "en": [
+      "male (of animals) 614"
+    ],
+    "original": "baNaS",
+    "audio": {
+      "slug": "banas",
+      "ipay": "dictionary/audio/ipay/b/banas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banas.mp3"
+    }
+  },
+  {
+    "id": "2438",
+    "basay": "banaw",
+    "category": "10",
+    "zh": [
+      "湖"
+    ],
+    "en": [
+      "lake 9239"
+    ],
+    "original": "banaw",
+    "audio": {
+      "slug": "banaw",
+      "ipay": "dictionary/audio/ipay/b/banaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banaw.mp3"
+    }
+  },
+  {
+    "id": "2441",
+    "basay": "banaw",
+    "category": "08",
+    "zh": [
+      "刺藤（Smilax spp.）"
+    ],
+    "en": [
+      "a thorny vine: Smilax spp. 619"
+    ],
+    "original": "baNaw",
+    "audio": {
+      "slug": "banaw",
+      "ipay": "dictionary/audio/ipay/b/banaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banaw.mp3"
     }
   },
   {
@@ -756,7 +1317,6 @@
     "en": [
       "thunderclap"
     ],
-    "source": "B",
     "original": "baneŋneŋ",
     "audio": {
       "slug": "banenxnenx",
@@ -777,12 +1337,203 @@
     "en": [
       "thunder"
     ],
-    "source": "B",
     "original": "baneŋneŋ baki",
     "audio": {
       "slug": "banenxnenx_baki",
       "ipay": "dictionary/audio/ipay/b/banenxnenx_baki.mp3",
       "hokkien": "dictionary/audio/hokkien/b/banenxnenx_baki.mp3"
+    }
+  },
+  {
+    "id": "2449",
+    "basay": "bang(e)qeR",
+    "category": "28",
+    "zh": [
+      "腐臭味"
+    ],
+    "en": [
+      "rotten smell, stench 801"
+    ],
+    "original": "baŋ(e)qeR₁",
+    "audio": {
+      "slug": "banx_e_qer",
+      "ipay": "dictionary/audio/ipay/b/banx_e_qer.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banx_e_qer.mp3"
+    }
+  },
+  {
+    "id": "2444",
+    "basay": "bangas",
+    "category": "08",
+    "zh": [
+      "楝樹（Melia azedarach）"
+    ],
+    "en": [
+      "a tree: Melia azedarach 7114"
+    ],
+    "original": "baŋaS",
+    "audio": {
+      "slug": "banxas",
+      "ipay": "dictionary/audio/ipay/b/banxas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxas.mp3"
+    }
+  },
+  {
+    "id": "2445",
+    "basay": "bangaw",
+    "category": "07",
+    "zh": [
+      "稻象甲",
+      "稻田中的臭蟲"
+    ],
+    "en": [
+      "paddy bug, foul-smelling insect that preys on rice in the field 760"
+    ],
+    "original": "baŋaw",
+    "audio": {
+      "slug": "banxaw",
+      "ipay": "dictionary/audio/ipay/b/banxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxaw.mp3"
+    }
+  },
+  {
+    "id": "2446",
+    "basay": "bangbang",
+    "category": "34",
+    "zh": [
+      "蝴蝶",
+      "蛾"
+    ],
+    "en": [
+      "butterfly, moth 766"
+    ],
+    "original": "baŋbaŋ₂",
+    "audio": {
+      "slug": "banxbanx",
+      "ipay": "dictionary/audio/ipay/b/banxbanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxbanx.mp3"
+    }
+  },
+  {
+    "id": "2447",
+    "basay": "bangbang",
+    "category": "23",
+    "zh": [
+      "巨響",
+      "隆隆聲"
+    ],
+    "en": [
+      "loud resounding sound 773"
+    ],
+    "original": "baŋbaŋ₆",
+    "audio": {
+      "slug": "banxbanx",
+      "ipay": "dictionary/audio/ipay/b/banxbanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxbanx.mp3"
+    }
+  },
+  {
+    "id": "2448",
+    "basay": "bangelis",
+    "category": "06",
+    "zh": [
+      "獠牙",
+      "犬齒"
+    ],
+    "en": [
+      "tusk; canine tooth 776"
+    ],
+    "original": "baŋeliS",
+    "audio": {
+      "slug": "banxelis",
+      "ipay": "dictionary/audio/ipay/b/banxelis.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxelis.mp3"
+    }
+  },
+  {
+    "id": "2450",
+    "basay": "banges",
+    "category": "06",
+    "zh": [
+      "皮膚"
+    ],
+    "en": [
+      "skin 7227"
+    ],
+    "original": "baŋeS",
+    "audio": {
+      "slug": "banxes",
+      "ipay": "dictionary/audio/ipay/b/banxes.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxes.mp3"
+    }
+  },
+  {
+    "id": "2451",
+    "basay": "bangesis",
+    "category": "34",
+    "zh": [
+      "芳香的"
+    ],
+    "en": [
+      "fragrant 804"
+    ],
+    "original": "baŋeSiS",
+    "audio": {
+      "slug": "banxesis",
+      "ipay": "dictionary/audio/ipay/b/banxesis.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxesis.mp3"
+    }
+  },
+  {
+    "id": "2452",
+    "basay": "bangun",
+    "category": "11",
+    "zh": [
+      "日本扁柏（Chamaecyparis obtusa）"
+    ],
+    "en": [
+      "the Japanese cypress: Chamaecyparis obtusa7304"
+    ],
+    "original": "baŋun₁",
+    "audio": {
+      "slug": "banxun",
+      "ipay": "dictionary/audio/ipay/b/banxun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxun.mp3"
+    }
+  },
+  {
+    "id": "2453",
+    "basay": "bangun",
+    "category": "25",
+    "zh": [
+      "起床",
+      "醒來"
+    ],
+    "en": [
+      "wake up, get out of bed 787"
+    ],
+    "original": "baŋuN",
+    "audio": {
+      "slug": "banxun",
+      "ipay": "dictionary/audio/ipay/b/banxun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxun.mp3"
+    }
+  },
+  {
+    "id": "2442",
+    "basay": "banit",
+    "category": "27",
+    "zh": [
+      "剝皮"
+    ],
+    "en": [
+      "to skin, flay 627"
+    ],
+    "original": "baNiC",
+    "audio": {
+      "slug": "banit",
+      "ipay": "dictionary/audio/ipay/b/banit.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banit.mp3"
     }
   },
   {
@@ -799,7 +1550,6 @@
     "en": [
       "thick. fat"
     ],
-    "source": "B",
     "original": "banəŋ",
     "audio": {
       "slug": "banoxnx",
@@ -820,7 +1570,6 @@
     "en": [
       "teeth"
     ],
-    "source": "B",
     "original": "bantsau",
     "audio": {
       "slug": "bantsau",
@@ -841,12 +1590,115 @@
     "en": [
       "rabbit"
     ],
-    "source": "B",
     "original": "baokke",
     "audio": {
       "slug": "baokke",
       "ipay": "dictionary/audio/ipay/b/baokke.mp3",
       "hokkien": "dictionary/audio/hokkien/b/baokke.mp3"
+    }
+  },
+  {
+    "id": "2454",
+    "basay": "baqeRuh",
+    "category": "32",
+    "zh": [
+      "新的",
+      "單身男子"
+    ],
+    "en": [
+      "new; bachelor 645"
+    ],
+    "original": "baqeRuh",
+    "audio": {
+      "slug": "baqeruh",
+      "ipay": "dictionary/audio/ipay/b/baqeruh.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baqeruh.mp3"
+    }
+  },
+  {
+    "id": "2455",
+    "basay": "baqesing",
+    "category": "34",
+    "zh": [
+      "打噴嚏"
+    ],
+    "en": [
+      "sneeze 7146"
+    ],
+    "original": "baqeSiŋ",
+    "audio": {
+      "slug": "baqesinx",
+      "ipay": "dictionary/audio/ipay/b/baqesinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baqesinx.mp3"
+    }
+  },
+  {
+    "id": "2456",
+    "basay": "baqi",
+    "category": "04",
+    "zh": [
+      "祖母"
+    ],
+    "en": [
+      "grandmother 6438"
+    ],
+    "original": "baqi",
+    "audio": {
+      "slug": "baqi",
+      "ipay": "dictionary/audio/ipay/b/baqi.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baqi.mp3"
+    }
+  },
+  {
+    "id": "2458",
+    "basay": "baRah",
+    "category": "11",
+    "zh": [
+      "餘燼",
+      "火炭"
+    ],
+    "en": [
+      "ember, glowing coal 652"
+    ],
+    "original": "baRah",
+    "audio": {
+      "slug": "barah",
+      "ipay": "dictionary/audio/ipay/b/barah.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barah.mp3"
+    }
+  },
+  {
+    "id": "2459",
+    "basay": "baRang",
+    "category": "06",
+    "zh": [
+      "肋骨（？）"
+    ],
+    "en": [
+      "rib (?) 9176"
+    ],
+    "original": "baRaŋ",
+    "audio": {
+      "slug": "baranx",
+      "ipay": "dictionary/audio/ipay/b/baranx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baranx.mp3"
+    }
+  },
+  {
+    "id": "2460",
+    "basay": "baRaq",
+    "category": "34",
+    "zh": [
+      "肺"
+    ],
+    "en": [
+      "lung 662"
+    ],
+    "original": "baRaq₁",
+    "audio": {
+      "slug": "baraq",
+      "ipay": "dictionary/audio/ipay/b/baraq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baraq.mp3"
     }
   },
   {
@@ -862,12 +1714,132 @@
     "en": [
       "no"
     ],
-    "source": "B",
     "original": "barasse",
     "audio": {
       "slug": "barasse",
       "ipay": "dictionary/audio/ipay/b/barasse.mp3",
       "hokkien": "dictionary/audio/hokkien/b/barasse.mp3"
+    }
+  },
+  {
+    "id": "2457",
+    "basay": "barat",
+    "category": "34",
+    "zh": [
+      "橫樑"
+    ],
+    "en": [
+      "crossbeam 668"
+    ],
+    "original": "barat₁",
+    "audio": {
+      "slug": "barat",
+      "ipay": "dictionary/audio/ipay/b/barat.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barat.mp3"
+    }
+  },
+  {
+    "id": "2461",
+    "basay": "baRat",
+    "category": "34",
+    "zh": [
+      "橫樑"
+    ],
+    "en": [
+      "crossbeam 666"
+    ],
+    "original": "baRat₁",
+    "audio": {
+      "slug": "barat",
+      "ipay": "dictionary/audio/ipay/b/barat.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barat.mp3"
+    }
+  },
+  {
+    "id": "2462",
+    "basay": "baRat",
+    "category": "22",
+    "zh": [
+      "黃瓜（Cucumis sativus）"
+    ],
+    "en": [
+      "cucumber: Cucumis sativus 6620"
+    ],
+    "original": "baRat₂",
+    "audio": {
+      "slug": "barat",
+      "ipay": "dictionary/audio/ipay/b/barat.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barat.mp3"
+    }
+  },
+  {
+    "id": "2464",
+    "basay": "baReq",
+    "category": "06",
+    "zh": [
+      "膿腫",
+      "癤子",
+      "身體上的腫塊"
+    ],
+    "en": [
+      "abscess, boil, swelling on the body 696"
+    ],
+    "original": "baReq",
+    "audio": {
+      "slug": "bareq",
+      "ipay": "dictionary/audio/ipay/b/bareq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bareq.mp3"
+    }
+  },
+  {
+    "id": "2465",
+    "basay": "baRija",
+    "category": "18",
+    "zh": [
+      "織布用劍棒（用來打緊緯線的工具）"
+    ],
+    "en": [
+      "weaver's sword (lath used to beat in and tighten the woof) 698"
+    ],
+    "original": "baRija",
+    "audio": {
+      "slug": "barija",
+      "ipay": "dictionary/audio/ipay/b/barija.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barija.mp3"
+    }
+  },
+  {
+    "id": "2466",
+    "basay": "baRius",
+    "category": "11",
+    "zh": [
+      "颱風"
+    ],
+    "en": [
+      "typhoon 702"
+    ],
+    "original": "baRiuS",
+    "audio": {
+      "slug": "barius",
+      "ipay": "dictionary/audio/ipay/b/barius.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/barius.mp3"
+    }
+  },
+  {
+    "id": "2467",
+    "basay": "baRuj",
+    "category": "07",
+    "zh": [
+      "鳥類：斑鳩屬的鳩鳥"
+    ],
+    "en": [
+      "a dove: probably Ducula spp. 709"
+    ],
+    "original": "baRuj",
+    "audio": {
+      "slug": "baruj",
+      "ipay": "dictionary/audio/ipay/b/baruj.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baruj.mp3"
     }
   },
   {
@@ -883,7 +1855,6 @@
     "en": [
       "indian corn"
     ],
-    "source": "B",
     "original": "basa, masa",
     "audio": {
       "slug": "basa",
@@ -904,7 +1875,6 @@
     "en": [
       "Basal (Name of this tribe)"
     ],
-    "source": "B",
     "original": "basai",
     "audio": {
       "slug": "basai",
@@ -925,12 +1895,117 @@
     "en": [
       "match"
     ],
-    "source": "B",
     "original": "basai na:maDᵒ",
     "audio": {
       "slug": "basai_na_mazx",
       "ipay": "dictionary/audio/ipay/b/basai_na_mazx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/basai_na_mazx.mp3"
+    }
+  },
+  {
+    "id": "2472",
+    "basay": "basaq",
+    "category": "11",
+    "zh": [
+      "洪水",
+      "氾濫",
+      "泛濫"
+    ],
+    "en": [
+      "a flood; to overflow, be in flood 461"
+    ],
+    "original": "baSaq",
+    "audio": {
+      "slug": "basaq",
+      "ipay": "dictionary/audio/ipay/b/basaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basaq.mp3"
+    }
+  },
+  {
+    "id": "2473",
+    "basay": "basaw",
+    "category": "32",
+    "zh": [
+      "冷的（指剩飯）",
+      "剩菜"
+    ],
+    "en": [
+      "cold, of leftover food; leftovers from a meal 7066"
+    ],
+    "original": "baSaw",
+    "audio": {
+      "slug": "basaw",
+      "ipay": "dictionary/audio/ipay/b/basaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basaw.mp3"
+    }
+  },
+  {
+    "id": "2474",
+    "basay": "basay",
+    "category": "08",
+    "zh": [
+      "多毛藤本植物：Pueraria hirsuta"
+    ],
+    "en": [
+      "a hairy vine: Pueraria hirsuta 7070"
+    ],
+    "original": "baSay",
+    "audio": {
+      "slug": "basay",
+      "ipay": "dictionary/audio/ipay/b/basay.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basay.mp3"
+    }
+  },
+  {
+    "id": "2468",
+    "basay": "basbas",
+    "category": "25",
+    "zh": [
+      "打，擊"
+    ],
+    "en": [
+      "hit, strike 720"
+    ],
+    "original": "basbas₁",
+    "audio": {
+      "slug": "basbas",
+      "ipay": "dictionary/audio/ipay/b/basbas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basbas.mp3"
+    }
+  },
+  {
+    "id": "2469",
+    "basay": "basbas",
+    "category": "34",
+    "zh": [
+      "灑",
+      "噴灑"
+    ],
+    "en": [
+      "sprinkle 721"
+    ],
+    "original": "basbas₂",
+    "audio": {
+      "slug": "basbas",
+      "ipay": "dictionary/audio/ipay/b/basbas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basbas.mp3"
+    }
+  },
+  {
+    "id": "2470",
+    "basay": "baseq",
+    "category": "18",
+    "zh": [
+      "洗衣服"
+    ],
+    "en": [
+      "wash clothes 6444"
+    ],
+    "original": "baseq",
+    "audio": {
+      "slug": "baseq",
+      "ipay": "dictionary/audio/ipay/b/baseq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/baseq.mp3"
     }
   },
   {
@@ -946,12 +2021,28 @@
     "en": [
       "sneeze"
     ],
-    "source": "B",
     "original": "basiŋ",
     "audio": {
       "slug": "basinx",
       "ipay": "dictionary/audio/ipay/b/basinx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/basinx.mp3"
+    }
+  },
+  {
+    "id": "2471",
+    "basay": "basuq",
+    "category": "25",
+    "zh": [
+      "洗滌"
+    ],
+    "en": [
+      "to wash 6455"
+    ],
+    "original": "basuq",
+    "audio": {
+      "slug": "basuq",
+      "ipay": "dictionary/audio/ipay/b/basuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/basuq.mp3"
     }
   },
   {
@@ -967,12 +2058,28 @@
     "en": [
       "net"
     ],
-    "source": "B",
     "original": "bataŋ",
     "audio": {
       "slug": "batanx",
       "ipay": "dictionary/audio/ipay/b/batanx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/batanx.mp3"
+    }
+  },
+  {
+    "id": "2419",
+    "basay": "bataR",
+    "category": "08",
+    "zh": [
+      "黍（Panicum miliaceum）"
+    ],
+    "en": [
+      "broomcorn millet: Panicum miliaceum 8795"
+    ],
+    "original": "baCaR",
+    "audio": {
+      "slug": "batar",
+      "ipay": "dictionary/audio/ipay/b/batar.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/batar.mp3"
     }
   },
   {
@@ -988,7 +2095,6 @@
     "en": [
       "heron"
     ],
-    "source": "B",
     "original": "bate a manukke",
     "audio": {
       "slug": "bate_a_manukke",
@@ -1009,7 +2115,6 @@
     "en": [
       "white dog"
     ],
-    "source": "B",
     "original": "bate uatsu",
     "audio": {
       "slug": "bate_uatsu",
@@ -1030,7 +2135,6 @@
     "en": [
       "white"
     ],
-    "source": "B",
     "original": "bate, batɛ",
     "audio": {
       "slug": "bate",
@@ -1048,7 +2152,6 @@
     "en": [
       "cut"
     ],
-    "source": "T",
     "original": "batis",
     "audio": {
       "slug": "batis",
@@ -1069,7 +2172,6 @@
     "en": [
       "sell (to)"
     ],
-    "source": "B",
     "original": "batʃiu",
     "audio": {
       "slug": "batsxiu",
@@ -1090,7 +2192,6 @@
     "en": [
       "ship"
     ],
-    "source": "B",
     "original": "batsat'",
     "audio": {
       "slug": "batsatx",
@@ -1101,19 +2202,53 @@
   {
     "id": "1155",
     "basay": "batu",
-    "category": "06",
+    "category": "10",
     "zh": [
       "石頭"
     ],
     "en": [
       "stone"
     ],
-    "source": "T",
     "original": "batu",
     "audio": {
       "slug": "batu",
       "ipay": "dictionary/audio/ipay/b/batu.mp3",
       "hokkien": "dictionary/audio/hokkien/b/batu.mp3"
+    }
+  },
+  {
+    "id": "2475",
+    "basay": "batu",
+    "category": "25",
+    "zh": [
+      "丟擲"
+    ],
+    "en": [
+      "to throw 6501"
+    ],
+    "original": "batu₃",
+    "audio": {
+      "slug": "batu",
+      "ipay": "dictionary/audio/ipay/b/batu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/batu.mp3"
+    }
+  },
+  {
+    "id": "2476",
+    "basay": "batux",
+    "category": "06",
+    "zh": [
+      "石頭",
+      "睪丸"
+    ],
+    "en": [
+      "stone; testicle 6485"
+    ],
+    "original": "batux",
+    "audio": {
+      "slug": "batux",
+      "ipay": "dictionary/audio/ipay/b/batux.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/batux.mp3"
     }
   },
   {
@@ -1129,7 +2264,6 @@
     "en": [
       "flying fish"
     ],
-    "source": "B",
     "original": "bauta sitʃima",
     "audio": {
       "slug": "bauta_sitsxima",
@@ -1150,7 +2284,6 @@
     "en": [
       "fish"
     ],
-    "source": "B",
     "original": "baute",
     "audio": {
       "slug": "baute",
@@ -1173,12 +2306,45 @@
     "en": [
       "fish. <eat fish>"
     ],
-    "source": "B",
     "original": "baute, <kuman (su)baute>",
     "audio": {
       "slug": "baute",
       "ipay": "dictionary/audio/ipay/b/baute.mp3",
       "hokkien": "dictionary/audio/hokkien/b/baute.mp3"
+    }
+  },
+  {
+    "id": "2477",
+    "basay": "bayu",
+    "category": "25",
+    "zh": [
+      "舂米"
+    ],
+    "en": [
+      "to pound rice 6785"
+    ],
+    "original": "bayu",
+    "audio": {
+      "slug": "bayu",
+      "ipay": "dictionary/audio/ipay/b/bayu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bayu.mp3"
+    }
+  },
+  {
+    "id": "2443",
+    "basay": "bañaw",
+    "category": "25",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 754"
+    ],
+    "original": "bañaw",
+    "audio": {
+      "slug": "ba_aw",
+      "ipay": "dictionary/audio/ipay/b/ba_aw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/ba_aw.mp3"
     }
   },
   {
@@ -1195,7 +2361,6 @@
     "en": [
       "fish with net"
     ],
-    "source": "B",
     "original": "bebete",
     "audio": {
       "slug": "bebete",
@@ -1206,7 +2371,7 @@
   {
     "id": "0075",
     "basay": "bebete",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手引導"
     ],
@@ -1216,12 +2381,117 @@
     "en": [
       "lead by the hand"
     ],
-    "source": "B",
     "original": "bebete",
     "audio": {
       "slug": "bebete",
       "ipay": "dictionary/audio/ipay/b/bebete.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bebete.mp3"
+    }
+  },
+  {
+    "id": "2481",
+    "basay": "bedul",
+    "category": "06",
+    "zh": [
+      "身體腫脹"
+    ],
+    "en": [
+      "swelling of the body 824"
+    ],
+    "original": "bedul",
+    "audio": {
+      "slug": "bedul",
+      "ipay": "dictionary/audio/ipay/b/bedul.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bedul.mp3"
+    }
+  },
+  {
+    "id": "2482",
+    "basay": "bejbej",
+    "category": "14",
+    "zh": [
+      "繞纏",
+      "包裹",
+      "成捆物"
+    ],
+    "en": [
+      "wrap around repeatedly, bind by wrapping; bundle of wrapped material 830"
+    ],
+    "original": "bejbej₁",
+    "audio": {
+      "slug": "bejbej",
+      "ipay": "dictionary/audio/ipay/b/bejbej.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bejbej.mp3"
+    }
+  },
+  {
+    "id": "2483",
+    "basay": "bekas",
+    "category": "15",
+    "zh": [
+      "啟動陷阱"
+    ],
+    "en": [
+      "to spring a trap 842"
+    ],
+    "original": "bekas₁",
+    "audio": {
+      "slug": "bekas",
+      "ipay": "dictionary/audio/ipay/b/bekas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bekas.mp3"
+    }
+  },
+  {
+    "id": "2484",
+    "basay": "bekas",
+    "category": "34",
+    "zh": [
+      "快速的"
+    ],
+    "en": [
+      "swift, fast 843"
+    ],
+    "original": "bekas₂",
+    "audio": {
+      "slug": "bekas",
+      "ipay": "dictionary/audio/ipay/b/bekas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bekas.mp3"
+    }
+  },
+  {
+    "id": "2485",
+    "basay": "bekbek",
+    "category": "23",
+    "zh": [
+      "破裂聲"
+    ],
+    "en": [
+      "sound of breaking, etc. 855"
+    ],
+    "original": "bekbek₂",
+    "audio": {
+      "slug": "bekbek",
+      "ipay": "dictionary/audio/ipay/b/bekbek.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bekbek.mp3"
+    }
+  },
+  {
+    "id": "2486",
+    "basay": "bekut",
+    "category": "06",
+    "zh": [
+      "彎腰",
+      "彎下（人）",
+      "駝背"
+    ],
+    "en": [
+      "to bend over, bend down (of a person); hunchbacked 868"
+    ],
+    "original": "bekuC",
+    "audio": {
+      "slug": "bekut",
+      "ipay": "dictionary/audio/ipay/b/bekut.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bekut.mp3"
     }
   },
   {
@@ -1237,7 +2507,6 @@
     "en": [
       "leaf"
     ],
-    "source": "B",
     "original": "bela",
     "audio": {
       "slug": "bela",
@@ -1258,7 +2527,6 @@
     "en": [
       "nail"
     ],
-    "source": "B",
     "original": "bela",
     "audio": {
       "slug": "bela",
@@ -1279,7 +2547,6 @@
     "en": [
       "paper"
     ],
-    "source": "B",
     "original": "bela",
     "audio": {
       "slug": "bela",
@@ -1302,7 +2569,6 @@
     "en": [
       "shell, scale"
     ],
-    "source": "B",
     "original": "bela. <baute a bela>",
     "audio": {
       "slug": "bela",
@@ -1323,12 +2589,45 @@
     "en": [
       "calculate (to)"
     ],
-    "source": "B",
     "original": "belaŋ",
     "audio": {
       "slug": "belanx",
       "ipay": "dictionary/audio/ipay/b/belanx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/belanx.mp3"
+    }
+  },
+  {
+    "id": "2487",
+    "basay": "belaq",
+    "category": "01",
+    "zh": [
+      "被分裂的一部分"
+    ],
+    "en": [
+      "part of something split 879"
+    ],
+    "original": "belaq",
+    "audio": {
+      "slug": "belaq",
+      "ipay": "dictionary/audio/ipay/b/belaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/belaq.mp3"
+    }
+  },
+  {
+    "id": "2488",
+    "basay": "beli",
+    "category": "25",
+    "zh": [
+      "購買"
+    ],
+    "en": [
+      "to buy 909"
+    ],
+    "original": "beli",
+    "audio": {
+      "slug": "beli",
+      "ipay": "dictionary/audio/ipay/b/beli.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beli.mp3"
     }
   },
   {
@@ -1344,7 +2643,6 @@
     "en": [
       "dead person's country"
     ],
-    "source": "B",
     "original": "beloa laliŋ",
     "audio": {
       "slug": "beloa_lalinx",
@@ -1365,12 +2663,116 @@
     "en": [
       "soul"
     ],
-    "source": "B",
     "original": "beluwa",
     "audio": {
       "slug": "beluwa",
       "ipay": "dictionary/audio/ipay/b/beluwa.mp3",
       "hokkien": "dictionary/audio/hokkien/b/beluwa.mp3"
+    }
+  },
+  {
+    "id": "2489",
+    "basay": "benan",
+    "category": "07",
+    "zh": [
+      "鹿（Cervus 屬，如梅花鹿或水鹿）"
+    ],
+    "en": [
+      "deer of the genus Cervus, either the sika deer or sambar deer 7228"
+    ],
+    "original": "benan",
+    "audio": {
+      "slug": "benan",
+      "ipay": "dictionary/audio/ipay/b/benan.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benan.mp3"
+    }
+  },
+  {
+    "id": "2490",
+    "basay": "benben",
+    "category": "08",
+    "zh": [
+      "香蕉（Musa sapientum）"
+    ],
+    "en": [
+      "banana: Musa sapientum L. 6559"
+    ],
+    "original": "beNbeN",
+    "audio": {
+      "slug": "benben",
+      "ipay": "dictionary/audio/ipay/b/benben.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benben.mp3"
+    }
+  },
+  {
+    "id": "2491",
+    "basay": "benelem",
+    "category": "11",
+    "zh": [
+      "陰天",
+      "暮色"
+    ],
+    "en": [
+      "overcast, twilight 10931"
+    ],
+    "original": "beNelem",
+    "audio": {
+      "slug": "benelem",
+      "ipay": "dictionary/audio/ipay/b/benelem.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benelem.mp3"
+    }
+  },
+  {
+    "id": "2493",
+    "basay": "bengbeng",
+    "category": "12",
+    "zh": [
+      "被牆或布幕擋住"
+    ],
+    "en": [
+      "blocked, as by a wall or curtain 1061"
+    ],
+    "original": "beŋbeŋ₁",
+    "audio": {
+      "slug": "benxbenx",
+      "ipay": "dictionary/audio/ipay/b/benxbenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benxbenx.mp3"
+    }
+  },
+  {
+    "id": "2494",
+    "basay": "bengbeng",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "嗡鳴"
+    ],
+    "en": [
+      "buzz, hum 1064"
+    ],
+    "original": "beŋbeŋ₂",
+    "audio": {
+      "slug": "benxbenx",
+      "ipay": "dictionary/audio/ipay/b/benxbenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benxbenx.mp3"
+    }
+  },
+  {
+    "id": "2492",
+    "basay": "benut",
+    "category": "25",
+    "zh": [
+      "拔出",
+      "抽出"
+    ],
+    "en": [
+      "pull out, extract 945"
+    ],
+    "original": "beNuC",
+    "audio": {
+      "slug": "benut",
+      "ipay": "dictionary/audio/ipay/b/benut.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/benut.mp3"
     }
   },
   {
@@ -1386,7 +2788,6 @@
     "en": [
       "ash"
     ],
-    "source": "B",
     "original": "bera",
     "audio": {
       "slug": "bera",
@@ -1395,11 +2796,236 @@
     }
   },
   {
+    "id": "2496",
+    "basay": "beRas",
+    "category": "14",
+    "zh": [
+      "去殼後的稻米（介於收割和煮食之間）"
+    ],
+    "en": [
+      "rice between harvesting and cooking; husked rice 950"
+    ],
+    "original": "beRas",
+    "audio": {
+      "slug": "beras",
+      "ipay": "dictionary/audio/ipay/b/beras.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beras.mp3"
+    }
+  },
+  {
+    "id": "2497",
+    "basay": "beRas-an",
+    "category": "09",
+    "zh": [
+      "儲米容器"
+    ],
+    "en": [
+      "container in which rice is stored 952"
+    ],
+    "original": "beRas-an",
+    "audio": {
+      "slug": "beras_an",
+      "ipay": "dictionary/audio/ipay/b/beras_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beras_an.mp3"
+    }
+  },
+  {
+    "id": "2498",
+    "basay": "beRay",
+    "category": "25",
+    "zh": [
+      "給予"
+    ],
+    "en": [
+      "give 957"
+    ],
+    "original": "beRay",
+    "audio": {
+      "slug": "beray",
+      "ipay": "dictionary/audio/ipay/b/beray.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beray.mp3"
+    }
+  },
+  {
+    "id": "2499",
+    "basay": "beRek",
+    "category": "07",
+    "zh": [
+      "家豬"
+    ],
+    "en": [
+      "domesticated pig 965"
+    ],
+    "original": "beRek",
+    "audio": {
+      "slug": "berek",
+      "ipay": "dictionary/audio/ipay/b/berek.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/berek.mp3"
+    }
+  },
+  {
+    "id": "2500",
+    "basay": "beReqang",
+    "category": "06",
+    "zh": [
+      "臼齒"
+    ],
+    "en": [
+      "molar tooth 970"
+    ],
+    "original": "beReqaŋ",
+    "audio": {
+      "slug": "bereqanx",
+      "ipay": "dictionary/audio/ipay/b/bereqanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bereqanx.mp3"
+    }
+  },
+  {
+    "id": "2495",
+    "basay": "beriq",
+    "category": "25",
+    "zh": [
+      "裂開",
+      "撕開"
+    ],
+    "en": [
+      "split, tear open 973"
+    ],
+    "original": "beriq",
+    "audio": {
+      "slug": "beriq",
+      "ipay": "dictionary/audio/ipay/b/beriq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beriq.mp3"
+    }
+  },
+  {
+    "id": "2501",
+    "basay": "beRngaw",
+    "category": "07",
+    "zh": [
+      "青蠅",
+      "大蒼蠅"
+    ],
+    "en": [
+      "bluebottle, large fly 993"
+    ],
+    "original": "beRŋaw",
+    "audio": {
+      "slug": "bernxaw",
+      "ipay": "dictionary/audio/ipay/b/bernxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bernxaw.mp3"
+    }
+  },
+  {
+    "id": "2502",
+    "basay": "beRngi-n",
+    "category": "13",
+    "zh": [
+      "夜晚"
+    ],
+    "en": [
+      "night 998"
+    ],
+    "original": "beRŋi-n",
+    "audio": {
+      "slug": "bernxi_n",
+      "ipay": "dictionary/audio/ipay/b/bernxi_n.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bernxi_n.mp3"
+    }
+  },
+  {
+    "id": "2503",
+    "basay": "beRus",
+    "category": "08",
+    "zh": [
+      "植物：黃連木（Rhus semialata）"
+    ],
+    "en": [
+      "a plant: Rhus semialata 6560"
+    ],
+    "original": "beRuS",
+    "audio": {
+      "slug": "berus",
+      "ipay": "dictionary/audio/ipay/b/berus.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/berus.mp3"
+    }
+  },
+  {
+    "id": "2504",
+    "basay": "bes",
+    "category": "23",
+    "zh": [
+      "呼嘯聲"
+    ],
+    "en": [
+      "whizzing sound 1019"
+    ],
+    "original": "bes",
+    "audio": {
+      "slug": "bes",
+      "ipay": "dictionary/audio/ipay/b/bes.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bes.mp3"
+    }
+  },
+  {
+    "id": "2505",
+    "basay": "besuR",
+    "category": "27",
+    "zh": [
+      "飽足的",
+      "吃得滿意的"
+    ],
+    "en": [
+      "satisfied from having eaten enough, satiated 1011"
+    ],
+    "original": "besuR",
+    "audio": {
+      "slug": "besur",
+      "ipay": "dictionary/audio/ipay/b/besur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/besur.mp3"
+    }
+  },
+  {
+    "id": "2506",
+    "basay": "betak",
+    "category": "18",
+    "zh": [
+      "裂縫",
+      "如乾地裂開"
+    ],
+    "en": [
+      "crack, split open (as dry ground) 1020"
+    ],
+    "original": "betak",
+    "audio": {
+      "slug": "betak",
+      "ipay": "dictionary/audio/ipay/b/betak.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betak.mp3"
+    }
+  },
+  {
+    "id": "2478",
+    "basay": "beteng",
+    "category": "08",
+    "zh": [
+      "一種小米，可能是黍（Setaria italica）"
+    ],
+    "en": [
+      "millet sp., probably foxtail millet: Setaria italica 811"
+    ],
+    "original": "beCeŋ",
+    "audio": {
+      "slug": "betenx",
+      "ipay": "dictionary/audio/ipay/b/betenx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betenx.mp3"
+    }
+  },
+  {
     "id": "0084",
     "basay": "betetse",
     "category": "06",
     "zh": [
-      "唯一"
+      "足底"
     ],
     "ja": [
       "甲裏"
@@ -1407,12 +3033,133 @@
     "en": [
       "sole"
     ],
-    "source": "B",
     "original": "betetse",
     "audio": {
       "slug": "betetse",
       "ipay": "dictionary/audio/ipay/b/betetse.mp3",
       "hokkien": "dictionary/audio/hokkien/b/betetse.mp3"
+    }
+  },
+  {
+    "id": "2507",
+    "basay": "beties",
+    "category": "06",
+    "zh": [
+      "小腿肚"
+    ],
+    "en": [
+      "calf of the leg 1035"
+    ],
+    "original": "beties",
+    "audio": {
+      "slug": "beties",
+      "ipay": "dictionary/audio/ipay/b/beties.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/beties.mp3"
+    }
+  },
+  {
+    "id": "2479",
+    "basay": "betik",
+    "category": "34",
+    "zh": [
+      "刺青"
+    ],
+    "en": [
+      "tattoo 813"
+    ],
+    "original": "beCik",
+    "audio": {
+      "slug": "betik",
+      "ipay": "dictionary/audio/ipay/b/betik.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betik.mp3"
+    }
+  },
+  {
+    "id": "2508",
+    "basay": "betik",
+    "category": "25",
+    "zh": [
+      "彈指",
+      "用指頭彈"
+    ],
+    "en": [
+      "snap the fingers; flick with the finger, fillip 1037"
+    ],
+    "original": "betik₁",
+    "audio": {
+      "slug": "betik",
+      "ipay": "dictionary/audio/ipay/b/betik.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betik.mp3"
+    }
+  },
+  {
+    "id": "2480",
+    "basay": "betu",
+    "category": "11",
+    "zh": [
+      "水泡",
+      "繭"
+    ],
+    "en": [
+      "callus, blister 820"
+    ],
+    "original": "beCu",
+    "audio": {
+      "slug": "betu",
+      "ipay": "dictionary/audio/ipay/b/betu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betu.mp3"
+    }
+  },
+  {
+    "id": "2509",
+    "basay": "betung",
+    "category": "08",
+    "zh": [
+      "粗大竹子，可能為Dendrocalamus屬"
+    ],
+    "en": [
+      "bamboo of very large diameter, probably Dendrocalamus sp. 1046"
+    ],
+    "original": "betuŋ₁",
+    "audio": {
+      "slug": "betunx",
+      "ipay": "dictionary/audio/ipay/b/betunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/betunx.mp3"
+    }
+  },
+  {
+    "id": "2510",
+    "basay": "biat",
+    "category": "09",
+    "zh": [
+      "拉滿弓"
+    ],
+    "en": [
+      "draw a bow to its full extent 1096"
+    ],
+    "original": "biaC",
+    "audio": {
+      "slug": "biat",
+      "ipay": "dictionary/audio/ipay/b/biat.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biat.mp3"
+    }
+  },
+  {
+    "id": "2512",
+    "basay": "bilang",
+    "category": "01",
+    "zh": [
+      "計算",
+      "珍視"
+    ],
+    "en": [
+      "to count, calculate; hold valuable 1148"
+    ],
+    "original": "bilaŋ₁",
+    "audio": {
+      "slug": "bilanx",
+      "ipay": "dictionary/audio/ipay/b/bilanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bilanx.mp3"
     }
   },
   {
@@ -1428,12 +3175,237 @@
     "en": [
       "corner"
     ],
-    "source": "B",
     "original": "bili",
     "audio": {
       "slug": "bili",
       "ipay": "dictionary/audio/ipay/b/bili.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bili.mp3"
+    }
+  },
+  {
+    "id": "2513",
+    "basay": "bilin",
+    "category": "25",
+    "zh": [
+      "跟隨，走在某人後面"
+    ],
+    "en": [
+      "to follow after someone, walk behind 7115"
+    ],
+    "original": "biliN",
+    "audio": {
+      "slug": "bilin",
+      "ipay": "dictionary/audio/ipay/b/bilin.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bilin.mp3"
+    }
+  },
+  {
+    "id": "2517",
+    "basay": "binesiq",
+    "category": "08",
+    "zh": [
+      "留種用的種子"
+    ],
+    "en": [
+      "seed set aside for the next planting 1190"
+    ],
+    "original": "bineSiq",
+    "audio": {
+      "slug": "binesiq",
+      "ipay": "dictionary/audio/ipay/b/binesiq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/binesiq.mp3"
+    }
+  },
+  {
+    "id": "2520",
+    "basay": "bingit",
+    "category": "35",
+    "zh": [
+      "情緒不穩",
+      "煩躁"
+    ],
+    "en": [
+      "moody, irritable 1309"
+    ],
+    "original": "biŋiC",
+    "audio": {
+      "slug": "binxit",
+      "ipay": "dictionary/audio/ipay/b/binxit.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/binxit.mp3"
+    }
+  },
+  {
+    "id": "2519",
+    "basay": "binit",
+    "category": "25",
+    "zh": [
+      "手中握持"
+    ],
+    "en": [
+      "hold in the hand 1194"
+    ],
+    "original": "biNiC",
+    "audio": {
+      "slug": "binit",
+      "ipay": "dictionary/audio/ipay/b/binit.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/binit.mp3"
+    }
+  },
+  {
+    "id": "2521",
+    "basay": "biqel",
+    "category": "34",
+    "zh": [
+      "甲狀腺腫"
+    ],
+    "en": [
+      "goiter 6463"
+    ],
+    "original": "biqel",
+    "audio": {
+      "slug": "biqel",
+      "ipay": "dictionary/audio/ipay/b/biqel.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biqel.mp3"
+    }
+  },
+  {
+    "id": "2522",
+    "basay": "biqiR",
+    "category": "35",
+    "zh": [
+      "傾斜",
+      "不平衡"
+    ],
+    "en": [
+      "lopsided, off-balance 1213"
+    ],
+    "original": "biqiR",
+    "audio": {
+      "slug": "biqir",
+      "ipay": "dictionary/audio/ipay/b/biqir.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biqir.mp3"
+    }
+  },
+  {
+    "id": "2523",
+    "basay": "biqut",
+    "category": "32",
+    "zh": [
+      "彎曲的"
+    ],
+    "en": [
+      "curved, crooked, bent 1215"
+    ],
+    "original": "biqut",
+    "audio": {
+      "slug": "biqut",
+      "ipay": "dictionary/audio/ipay/b/biqut.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biqut.mp3"
+    }
+  },
+  {
+    "id": "2524",
+    "basay": "birang",
+    "category": "29",
+    "zh": [
+      "生氣",
+      "憤怒"
+    ],
+    "en": [
+      "anger, angry 1234"
+    ],
+    "original": "biraŋ",
+    "audio": {
+      "slug": "biranx",
+      "ipay": "dictionary/audio/ipay/b/biranx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biranx.mp3"
+    }
+  },
+  {
+    "id": "2527",
+    "basay": "biRaq",
+    "category": "08",
+    "zh": [
+      "野芋（Alocasia spp.），又名象耳芋",
+      "刺人芋"
+    ],
+    "en": [
+      "wild taro, elephant's ear or itching taro, Alocasiaspp. 1218"
+    ],
+    "original": "biRaq₁",
+    "audio": {
+      "slug": "biraq",
+      "ipay": "dictionary/audio/ipay/b/biraq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biraq.mp3"
+    }
+  },
+  {
+    "id": "2528",
+    "basay": "biRas",
+    "category": "07",
+    "zh": [
+      "魚卵"
+    ],
+    "en": [
+      "roe, fish eggs 1224"
+    ],
+    "original": "biRaS",
+    "audio": {
+      "slug": "biras",
+      "ipay": "dictionary/audio/ipay/b/biras.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/biras.mp3"
+    }
+  },
+  {
+    "id": "2529",
+    "basay": "biRasu",
+    "category": "08",
+    "zh": [
+      "芒草（Miscanthus sp.）"
+    ],
+    "en": [
+      "cane grass, Miscanthus sp. 1223"
+    ],
+    "original": "biRaSu",
+    "audio": {
+      "slug": "birasu",
+      "ipay": "dictionary/audio/ipay/b/birasu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/birasu.mp3"
+    }
+  },
+  {
+    "id": "2525",
+    "basay": "birbir",
+    "category": "34",
+    "zh": [
+      "顫抖",
+      "發抖"
+    ],
+    "en": [
+      "shiver, shake, tremble 1240"
+    ],
+    "original": "birbir₂",
+    "audio": {
+      "slug": "birbir",
+      "ipay": "dictionary/audio/ipay/b/birbir.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/birbir.mp3"
+    }
+  },
+  {
+    "id": "2530",
+    "basay": "biRbiR",
+    "category": "34",
+    "zh": [
+      "嘴唇"
+    ],
+    "en": [
+      "lip 1235"
+    ],
+    "original": "biRbiR",
+    "audio": {
+      "slug": "birbir",
+      "ipay": "dictionary/audio/ipay/b/birbir.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/birbir.mp3"
     }
   },
   {
@@ -1449,12 +3421,63 @@
     "en": [
       "neighbour"
     ],
-    "source": "B",
     "original": "biri",
     "audio": {
       "slug": "biri",
       "ipay": "dictionary/audio/ipay/b/biri.mp3",
       "hokkien": "dictionary/audio/hokkien/b/biri.mp3"
+    }
+  },
+  {
+    "id": "2526",
+    "basay": "birit",
+    "category": "25",
+    "zh": [
+      "撕裂"
+    ],
+    "en": [
+      "to tear, rip 1242"
+    ],
+    "original": "biriC",
+    "audio": {
+      "slug": "birit",
+      "ipay": "dictionary/audio/ipay/b/birit.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/birit.mp3"
+    }
+  },
+  {
+    "id": "2531",
+    "basay": "bisuR",
+    "category": "27",
+    "zh": [
+      "飽足的",
+      "吃得滿意的"
+    ],
+    "en": [
+      "satisfied from having eaten enough, satiated 1269"
+    ],
+    "original": "bisuR",
+    "audio": {
+      "slug": "bisur",
+      "ipay": "dictionary/audio/ipay/b/bisur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bisur.mp3"
+    }
+  },
+  {
+    "id": "2532",
+    "basay": "bitbit",
+    "category": "25",
+    "zh": [
+      "拉扯身體某部位"
+    ],
+    "en": [
+      "pull at some part of the body 1278"
+    ],
+    "original": "bitbit₁",
+    "audio": {
+      "slug": "bitbit",
+      "ipay": "dictionary/audio/ipay/b/bitbit.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bitbit.mp3"
     }
   },
   {
@@ -1470,12 +3493,45 @@
     "en": [
       "earring"
     ],
-    "source": "B",
     "original": "bitin",
     "audio": {
       "slug": "bitin",
       "ipay": "dictionary/audio/ipay/b/bitin.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bitin.mp3"
+    }
+  },
+  {
+    "id": "2511",
+    "basay": "bituka",
+    "category": "06",
+    "zh": [
+      "胃"
+    ],
+    "en": [
+      "stomach 1106"
+    ],
+    "original": "biCuka",
+    "audio": {
+      "slug": "bituka",
+      "ipay": "dictionary/audio/ipay/b/bituka.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bituka.mp3"
+    }
+  },
+  {
+    "id": "2533",
+    "basay": "bituqen",
+    "category": "11",
+    "zh": [
+      "星星"
+    ],
+    "en": [
+      "star 1295"
+    ],
+    "original": "bituqen",
+    "audio": {
+      "slug": "bituqen",
+      "ipay": "dictionary/audio/ipay/b/bituqen.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bituqen.mp3"
     }
   },
   {
@@ -1488,7 +3544,6 @@
     "en": [
       "give"
     ],
-    "source": "S",
     "original": "bla, bɭa (S)",
     "audio": {
       "slug": "blxa",
@@ -1506,7 +3561,6 @@
     "en": [
       "give a lot"
     ],
-    "source": "S",
     "original": "bɭabuɭa (S)",
     "audio": {
       "slug": "blxabulxa",
@@ -1524,7 +3578,6 @@
     "en": [
       "give"
     ],
-    "source": "T",
     "original": "bla, bɭa (S)",
     "audio": {
       "slug": "bla",
@@ -1545,7 +3598,6 @@
     "en": [
       "farming field"
     ],
-    "source": "B",
     "original": "bobe",
     "audio": {
       "slug": "bobe",
@@ -1566,7 +3618,6 @@
     "en": [
       "go to the field"
     ],
-    "source": "B",
     "original": "bobe <aui sali bobe>",
     "audio": {
       "slug": "bobe",
@@ -1587,7 +3638,6 @@
     "en": [
       "lower abdomen"
     ],
-    "source": "B",
     "original": "bohoŋ",
     "audio": {
       "slug": "bohonx",
@@ -1608,7 +3658,6 @@
     "en": [
       "ear"
     ],
-    "source": "B",
     "original": "bolo",
     "audio": {
       "slug": "bolo",
@@ -1629,7 +3678,6 @@
     "en": [
       "ear"
     ],
-    "source": "B",
     "original": "bolo",
     "audio": {
       "slug": "bolo",
@@ -1650,7 +3698,6 @@
     "en": [
       "wash"
     ],
-    "source": "B",
     "original": "bolo",
     "audio": {
       "slug": "bolo",
@@ -1671,7 +3718,6 @@
     "en": [
       "wash"
     ],
-    "source": "B",
     "original": "bolo, bolobolo",
     "audio": {
       "slug": "bolo",
@@ -1692,7 +3738,6 @@
     "en": [
       "filled with water"
     ],
-    "source": "B",
     "original": "boŋboŋ",
     "audio": {
       "slug": "bonxbonx",
@@ -1714,7 +3759,6 @@
     "en": [
       "wrap (to). bind"
     ],
-    "source": "B",
     "original": "boto",
     "audio": {
       "slug": "boto",
@@ -1735,7 +3779,6 @@
     "en": [
       "foot-binding"
     ],
-    "source": "B",
     "original": "boto hai",
     "audio": {
       "slug": "boto_hai",
@@ -1756,7 +3799,6 @@
     "en": [
       "hot water"
     ],
-    "source": "B",
     "original": "botse",
     "audio": {
       "slug": "botse",
@@ -1777,7 +3819,6 @@
     "en": [
       "hot"
     ],
-    "source": "B",
     "original": "botse",
     "audio": {
       "slug": "botse",
@@ -1798,7 +3839,6 @@
     "en": [
       "fever"
     ],
-    "source": "B",
     "original": "botse",
     "audio": {
       "slug": "botse",
@@ -1819,7 +3859,6 @@
     "en": [
       "field (potato)"
     ],
-    "source": "B",
     "original": "bove",
     "audio": {
       "slug": "bove",
@@ -1837,12 +3876,185 @@
     "en": [
       "silver"
     ],
-    "source": "T",
     "original": "btsawan, pila (M)",
     "audio": {
       "slug": "btsawan",
       "ipay": "dictionary/audio/ipay/b/btsawan.mp3",
       "hokkien": "dictionary/audio/hokkien/b/btsawan.mp3"
+    }
+  },
+  {
+    "id": "2534",
+    "basay": "bua",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "泡泡",
+      "浮沫"
+    ],
+    "en": [
+      "foam, bubbles, froth 1356"
+    ],
+    "original": "bua₁",
+    "audio": {
+      "slug": "bua",
+      "ipay": "dictionary/audio/ipay/b/bua.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bua.mp3"
+    }
+  },
+  {
+    "id": "2535",
+    "basay": "buak",
+    "category": "11",
+    "zh": [
+      "冒泡（如泉水）"
+    ],
+    "en": [
+      "bubbling up (as spring water) 1325"
+    ],
+    "original": "buak",
+    "audio": {
+      "slug": "buak",
+      "ipay": "dictionary/audio/ipay/b/buak.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buak.mp3"
+    }
+  },
+  {
+    "id": "2536",
+    "basay": "bual",
+    "category": "11",
+    "zh": [
+      "泉水",
+      "淡水源"
+    ],
+    "en": [
+      "spring, source of fresh water 1327"
+    ],
+    "original": "bual₁",
+    "audio": {
+      "slug": "bual",
+      "ipay": "dictionary/audio/ipay/b/bual.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bual.mp3"
+    }
+  },
+  {
+    "id": "2537",
+    "basay": "buaq",
+    "category": "08",
+    "zh": [
+      "果實"
+    ],
+    "en": [
+      "fruit 1329"
+    ],
+    "original": "buaq",
+    "audio": {
+      "slug": "buaq",
+      "ipay": "dictionary/audio/ipay/b/buaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buaq.mp3"
+    }
+  },
+  {
+    "id": "2538",
+    "basay": "buay",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 1355"
+    ],
+    "original": "buay₂",
+    "audio": {
+      "slug": "buay",
+      "ipay": "dictionary/audio/ipay/b/buay.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buay.mp3"
+    }
+  },
+  {
+    "id": "2539",
+    "basay": "bubu",
+    "category": "07",
+    "zh": [
+      "錐形竹魚籠"
+    ],
+    "en": [
+      "conical bamboo basket trap for fish 1366"
+    ],
+    "original": "bubu₂",
+    "audio": {
+      "slug": "bubu",
+      "ipay": "dictionary/audio/ipay/b/bubu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bubu.mp3"
+    }
+  },
+  {
+    "id": "2540",
+    "basay": "bubu",
+    "category": "04",
+    "zh": [
+      "祖孫（互稱用語）"
+    ],
+    "en": [
+      "grandparent/grandchild (reciprocal term of address) 1370"
+    ],
+    "original": "bubu₆",
+    "audio": {
+      "slug": "bubu",
+      "ipay": "dictionary/audio/ipay/b/bubu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bubu.mp3"
+    }
+  },
+  {
+    "id": "2541",
+    "basay": "bubuR",
+    "category": "04",
+    "zh": [
+      "水母"
+    ],
+    "en": [
+      "jellyfish 1365"
+    ],
+    "original": "bubuR₁",
+    "audio": {
+      "slug": "bubur",
+      "ipay": "dictionary/audio/ipay/b/bubur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bubur.mp3"
+    }
+  },
+  {
+    "id": "2548",
+    "basay": "buhang",
+    "category": "10",
+    "zh": [
+      "洞",
+      "坑"
+    ],
+    "en": [
+      "hole, pit 1449"
+    ],
+    "original": "buhaŋ",
+    "audio": {
+      "slug": "buhanx",
+      "ipay": "dictionary/audio/ipay/b/buhanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buhanx.mp3"
+    }
+  },
+  {
+    "id": "2549",
+    "basay": "buhet",
+    "category": "07",
+    "zh": [
+      "松鼠"
+    ],
+    "en": [
+      "squirrel 1450"
+    ],
+    "original": "buhet",
+    "audio": {
+      "slug": "buhet",
+      "ipay": "dictionary/audio/ipay/b/buhet.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buhet.mp3"
     }
   },
   {
@@ -1858,7 +4070,6 @@
     "en": [
       "break"
     ],
-    "source": "B",
     "original": "buiŋ",
     "audio": {
       "slug": "buinx",
@@ -1879,12 +4090,84 @@
     "en": [
       "torn"
     ],
-    "source": "B",
     "original": "buiŋ",
     "audio": {
       "slug": "buinx",
       "ipay": "dictionary/audio/ipay/b/buinx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/buinx.mp3"
+    }
+  },
+  {
+    "id": "2550",
+    "basay": "bujeq",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "泡泡",
+      "皂沫",
+      "浮渣"
+    ],
+    "en": [
+      "foam, bubbles, lather, scum, froth 1466"
+    ],
+    "original": "bujeq₁",
+    "audio": {
+      "slug": "bujeq",
+      "ipay": "dictionary/audio/ipay/b/bujeq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bujeq.mp3"
+    }
+  },
+  {
+    "id": "2551",
+    "basay": "bukas",
+    "category": "34",
+    "zh": [
+      "解開",
+      "釋放"
+    ],
+    "en": [
+      "release, undo 6713"
+    ],
+    "original": "bukas",
+    "audio": {
+      "slug": "bukas",
+      "ipay": "dictionary/audio/ipay/b/bukas.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bukas.mp3"
+    }
+  },
+  {
+    "id": "2552",
+    "basay": "bukes",
+    "category": "06",
+    "zh": [
+      "頭髮"
+    ],
+    "en": [
+      "head hair 1499"
+    ],
+    "original": "bukeS",
+    "audio": {
+      "slug": "bukes",
+      "ipay": "dictionary/audio/ipay/b/bukes.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bukes.mp3"
+    }
+  },
+  {
+    "id": "2553",
+    "basay": "bukij",
+    "category": "10",
+    "zh": [
+      "山",
+      "山林地區"
+    ],
+    "en": [
+      "mountain; forested inland mountain areas 1506"
+    ],
+    "original": "bukij",
+    "audio": {
+      "slug": "bukij",
+      "ipay": "dictionary/audio/ipay/b/bukij.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bukij.mp3"
     }
   },
   {
@@ -1900,7 +4183,6 @@
     "en": [
       "hair"
     ],
-    "source": "B",
     "original": "bukəs",
     "audio": {
       "slug": "bukoxs",
@@ -1921,12 +4203,28 @@
     "en": [
       "seaweed"
     ],
-    "source": "B",
     "original": "bukəs",
     "audio": {
       "slug": "bukoxs",
       "ipay": "dictionary/audio/ipay/b/bukoxs.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bukoxs.mp3"
+    }
+  },
+  {
+    "id": "2554",
+    "basay": "bukun",
+    "category": "06",
+    "zh": [
+      "背部（解剖學）"
+    ],
+    "en": [
+      "back (anat.) 9177"
+    ],
+    "original": "bukuN",
+    "audio": {
+      "slug": "bukun",
+      "ipay": "dictionary/audio/ipay/b/bukun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bukun.mp3"
     }
   },
   {
@@ -1944,7 +4242,6 @@
     "en": [
       "hair, pubic hair"
     ],
-    "source": "B",
     "original": "bukusse",
     "audio": {
       "slug": "bukusse",
@@ -1965,12 +4262,185 @@
     "en": [
       "hunchback"
     ],
-    "source": "B",
     "original": "bukutte",
     "audio": {
       "slug": "bukutte",
       "ipay": "dictionary/audio/ipay/b/bukutte.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bukutte.mp3"
+    }
+  },
+  {
+    "id": "2555",
+    "basay": "bula",
+    "category": "25",
+    "zh": [
+      "給予"
+    ],
+    "en": [
+      "to give 7305"
+    ],
+    "original": "bula₂",
+    "audio": {
+      "slug": "bula",
+      "ipay": "dictionary/audio/ipay/b/bula.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bula.mp3"
+    }
+  },
+  {
+    "id": "2556",
+    "basay": "bulan",
+    "category": "11",
+    "zh": [
+      "月亮",
+      "月份",
+      "月經"
+    ],
+    "en": [
+      "moon, month; menstruation 1533"
+    ],
+    "original": "bulaN",
+    "audio": {
+      "slug": "bulan",
+      "ipay": "dictionary/audio/ipay/b/bulan.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulan.mp3"
+    }
+  },
+  {
+    "id": "2557",
+    "basay": "bulaR",
+    "category": "06",
+    "zh": [
+      "白內障",
+      "視力模糊"
+    ],
+    "en": [
+      "cataract of the eye; hazy or blurred vision 1552"
+    ],
+    "original": "bulaR₁",
+    "audio": {
+      "slug": "bular",
+      "ipay": "dictionary/audio/ipay/b/bular.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bular.mp3"
+    }
+  },
+  {
+    "id": "2558",
+    "basay": "bulaw",
+    "category": "22",
+    "zh": [
+      "金黃色"
+    ],
+    "en": [
+      "golden colored 1560"
+    ],
+    "original": "bulaw",
+    "audio": {
+      "slug": "bulaw",
+      "ipay": "dictionary/audio/ipay/b/bulaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulaw.mp3"
+    }
+  },
+  {
+    "id": "2559",
+    "basay": "bulaw-an",
+    "category": "22",
+    "zh": [
+      "黃金"
+    ],
+    "en": [
+      "gold 1561"
+    ],
+    "original": "bulaw-an",
+    "audio": {
+      "slug": "bulaw_an",
+      "ipay": "dictionary/audio/ipay/b/bulaw_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulaw_an.mp3"
+    }
+  },
+  {
+    "id": "2560",
+    "basay": "bulbul",
+    "category": "10",
+    "zh": [
+      "灰塵",
+      "碎石粉末"
+    ],
+    "en": [
+      "dust, pulverized stone 1568"
+    ],
+    "original": "bulbul",
+    "audio": {
+      "slug": "bulbul",
+      "ipay": "dictionary/audio/ipay/b/bulbul.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulbul.mp3"
+    }
+  },
+  {
+    "id": "2561",
+    "basay": "buled",
+    "category": "10",
+    "zh": [
+      "山"
+    ],
+    "en": [
+      "mountain 1570"
+    ],
+    "original": "buled₁",
+    "audio": {
+      "slug": "buled",
+      "ipay": "dictionary/audio/ipay/b/buled.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buled.mp3"
+    }
+  },
+  {
+    "id": "2562",
+    "basay": "bules",
+    "category": "08",
+    "zh": [
+      "樹種：中國或菲律賓桃花心木（Shorea albus）"
+    ],
+    "en": [
+      "a tree, the Chinese or Philippine mahogany: Shorea albus Foxw. 12773"
+    ],
+    "original": "buleS",
+    "audio": {
+      "slug": "bules",
+      "ipay": "dictionary/audio/ipay/b/bules.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bules.mp3"
+    }
+  },
+  {
+    "id": "2563",
+    "basay": "buli-",
+    "category": "36",
+    "zh": [
+      "qali / kali- 系列的前綴"
+    ],
+    "en": [
+      "prefix of the *qali, *kali- series 1591"
+    ],
+    "original": "buli-",
+    "audio": {
+      "slug": "buli",
+      "ipay": "dictionary/audio/ipay/b/buli.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buli.mp3"
+    }
+  },
+  {
+    "id": "2564",
+    "basay": "bulilik",
+    "category": "07",
+    "zh": [
+      "蜥蜴（一種）"
+    ],
+    "en": [
+      "lizard sp. 1580"
+    ],
+    "original": "bulilik",
+    "audio": {
+      "slug": "bulilik",
+      "ipay": "dictionary/audio/ipay/b/bulilik.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulilik.mp3"
     }
   },
   {
@@ -1986,12 +4456,46 @@
     "en": [
       "radish"
     ],
-    "source": "B",
     "original": "bulu",
     "audio": {
       "slug": "bulu",
       "ipay": "dictionary/audio/ipay/b/bulu.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bulu.mp3"
+    }
+  },
+  {
+    "id": "2565",
+    "basay": "bulun",
+    "category": "34",
+    "zh": [
+      "同伴者",
+      "夥伴"
+    ],
+    "en": [
+      "companion 1597"
+    ],
+    "original": "buluN",
+    "audio": {
+      "slug": "bulun",
+      "ipay": "dictionary/audio/ipay/b/bulun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bulun.mp3"
+    }
+  },
+  {
+    "id": "2566",
+    "basay": "buluq",
+    "category": "08",
+    "zh": [
+      "一種細竹（Schizostachyum 屬）"
+    ],
+    "en": [
+      "type of slender bamboo; Schizostachyum spp. 1601"
+    ],
+    "original": "buluq₂",
+    "audio": {
+      "slug": "buluq",
+      "ipay": "dictionary/audio/ipay/b/buluq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buluq.mp3"
     }
   },
   {
@@ -2004,12 +4508,222 @@
     "en": [
       "miscanthus"
     ],
-    "source": "S",
     "original": "buŋbuŋ (S)",
     "audio": {
       "slug": "bunxbunx",
       "ipay": "dictionary/audio/ipay/b/bunxbunx.mp3",
       "hokkien": "dictionary/audio/hokkien/b/bunxbunx.mp3"
+    }
+  },
+  {
+    "id": "2569",
+    "basay": "bunabun",
+    "category": "34",
+    "zh": [
+      "稻苗"
+    ],
+    "en": [
+      "rice seedling 1632"
+    ],
+    "original": "bunabun",
+    "audio": {
+      "slug": "bunabun",
+      "ipay": "dictionary/audio/ipay/b/bunabun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunabun.mp3"
+    }
+  },
+  {
+    "id": "2570",
+    "basay": "bunaj",
+    "category": "10",
+    "zh": [
+      "沙",
+      "砂"
+    ],
+    "en": [
+      "sand 11687"
+    ],
+    "original": "bunaj",
+    "audio": {
+      "slug": "bunaj",
+      "ipay": "dictionary/audio/ipay/b/bunaj.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunaj.mp3"
+    }
+  },
+  {
+    "id": "2573",
+    "basay": "bunbun",
+    "category": "06",
+    "zh": [
+      "囟門",
+      "頭頂"
+    ],
+    "en": [
+      "fontanelle; crown of the head 1638"
+    ],
+    "original": "buNbuN",
+    "audio": {
+      "slug": "bunbun",
+      "ipay": "dictionary/audio/ipay/b/bunbun.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunbun.mp3"
+    }
+  },
+  {
+    "id": "2577",
+    "basay": "bunga",
+    "category": "08",
+    "zh": [
+      "花",
+      "開花"
+    ],
+    "en": [
+      "flower, blossom 7349"
+    ],
+    "original": "buŋa",
+    "audio": {
+      "slug": "bunxa",
+      "ipay": "dictionary/audio/ipay/b/bunxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunxa.mp3"
+    }
+  },
+  {
+    "id": "2578",
+    "basay": "bunguh",
+    "category": "06",
+    "zh": [
+      "頭"
+    ],
+    "en": [
+      "head 12775"
+    ],
+    "original": "buŋuh",
+    "audio": {
+      "slug": "bunxuh",
+      "ipay": "dictionary/audio/ipay/b/bunxuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunxuh.mp3"
+    }
+  },
+  {
+    "id": "2579",
+    "basay": "bunguR",
+    "category": "08",
+    "zh": [
+      "樹木（一種）"
+    ],
+    "en": [
+      "tree sp. 1913"
+    ],
+    "original": "buŋuR",
+    "audio": {
+      "slug": "bunxur",
+      "ipay": "dictionary/audio/ipay/b/bunxur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunxur.mp3"
+    }
+  },
+  {
+    "id": "2574",
+    "basay": "buni",
+    "category": "25",
+    "zh": [
+      "藏起來",
+      "隱藏"
+    ],
+    "en": [
+      "to hide, conceal 1647"
+    ],
+    "original": "buNi",
+    "audio": {
+      "slug": "buni",
+      "ipay": "dictionary/audio/ipay/b/buni.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buni.mp3"
+    }
+  },
+  {
+    "id": "2575",
+    "basay": "bunuq",
+    "category": "11",
+    "zh": [
+      "星座：昴宿（Pleiades）"
+    ],
+    "en": [
+      "a constellation: the Pleiades 1681"
+    ],
+    "original": "buNuq₁",
+    "audio": {
+      "slug": "bunuq",
+      "ipay": "dictionary/audio/ipay/b/bunuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunuq.mp3"
+    }
+  },
+  {
+    "id": "2576",
+    "basay": "bunuq",
+    "category": "09",
+    "zh": [
+      "投擲",
+      "用拋射物打"
+    ],
+    "en": [
+      "throw at, hit with a projectile 1684"
+    ],
+    "original": "buNuq₂",
+    "audio": {
+      "slug": "bunuq",
+      "ipay": "dictionary/audio/ipay/b/bunuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunuq.mp3"
+    }
+  },
+  {
+    "id": "2571",
+    "basay": "bunuR",
+    "category": "25",
+    "zh": [
+      "腫脹",
+      "腫了"
+    ],
+    "en": [
+      "to swell; swollen 7293"
+    ],
+    "original": "bunuR₁",
+    "audio": {
+      "slug": "bunur",
+      "ipay": "dictionary/audio/ipay/b/bunur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunur.mp3"
+    }
+  },
+  {
+    "id": "2572",
+    "basay": "bunus",
+    "category": "10",
+    "zh": [
+      "山刀",
+      "開山刀"
+    ],
+    "en": [
+      "machete 6561"
+    ],
+    "original": "bunuS",
+    "audio": {
+      "slug": "bunus",
+      "ipay": "dictionary/audio/ipay/b/bunus.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bunus.mp3"
+    }
+  },
+  {
+    "id": "2580",
+    "basay": "buqaya",
+    "category": "07",
+    "zh": [
+      "鱷魚"
+    ],
+    "en": [
+      "crocodile 1710"
+    ],
+    "original": "buqaya",
+    "audio": {
+      "slug": "buqaya",
+      "ipay": "dictionary/audio/ipay/b/buqaya.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buqaya.mp3"
     }
   },
   {
@@ -2025,12 +4739,64 @@
     "en": [
       "sea-shell"
     ],
-    "source": "B",
     "original": "burau",
     "audio": {
       "slug": "burau",
       "ipay": "dictionary/audio/ipay/b/burau.mp3",
       "hokkien": "dictionary/audio/hokkien/b/burau.mp3"
+    }
+  },
+  {
+    "id": "2581",
+    "basay": "buRaw",
+    "category": "34",
+    "zh": [
+      "趕走",
+      "驅逐",
+      "驅趕"
+    ],
+    "en": [
+      "drive off, chase away, expel 1737"
+    ],
+    "original": "buRaw",
+    "audio": {
+      "slug": "buraw",
+      "ipay": "dictionary/audio/ipay/b/buraw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buraw.mp3"
+    }
+  },
+  {
+    "id": "2582",
+    "basay": "buRay",
+    "category": "08",
+    "zh": [
+      "花朵"
+    ],
+    "en": [
+      "flower 7417"
+    ],
+    "original": "buRay",
+    "audio": {
+      "slug": "buray",
+      "ipay": "dictionary/audio/ipay/b/buray.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buray.mp3"
+    }
+  },
+  {
+    "id": "2583",
+    "basay": "buRes",
+    "category": "06",
+    "zh": [
+      "噴水（從嘴中）"
+    ],
+    "en": [
+      "spray water from the mouth 1751"
+    ],
+    "original": "buReS",
+    "audio": {
+      "slug": "bures",
+      "ipay": "dictionary/audio/ipay/b/bures.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/bures.mp3"
     }
   },
   {
@@ -2046,12 +4812,48 @@
     "en": [
       "radish"
     ],
-    "source": "B",
     "original": "buru",
     "audio": {
       "slug": "buru",
       "ipay": "dictionary/audio/ipay/b/buru.mp3",
       "hokkien": "dictionary/audio/hokkien/b/buru.mp3"
+    }
+  },
+  {
+    "id": "2584",
+    "basay": "buRuk",
+    "category": "21",
+    "zh": [
+      "腐肉",
+      "壞掉的蛋",
+      "敗壞品性"
+    ],
+    "en": [
+      "rotten meat; addled eggs; bad character 1770"
+    ],
+    "original": "buRuk",
+    "audio": {
+      "slug": "buruk",
+      "ipay": "dictionary/audio/ipay/b/buruk.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buruk.mp3"
+    }
+  },
+  {
+    "id": "2587",
+    "basay": "busuk",
+    "category": "34",
+    "zh": [
+      "醉酒",
+      "陶醉狀態"
+    ],
+    "en": [
+      "drunkenness, intoxication 1786"
+    ],
+    "original": "buSuk",
+    "audio": {
+      "slug": "busuk",
+      "ipay": "dictionary/audio/ipay/b/busuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/busuk.mp3"
     }
   },
   {
@@ -2067,7 +4869,6 @@
     "en": [
       "cloth"
     ],
-    "source": "B",
     "original": "busuk'",
     "audio": {
       "slug": "busukx",
@@ -2089,12 +4890,45 @@
     "en": [
       "drunk. intoxicated"
     ],
-    "source": "B",
     "original": "busukke",
     "audio": {
       "slug": "busukke",
       "ipay": "dictionary/audio/ipay/b/busukke.mp3",
       "hokkien": "dictionary/audio/hokkien/b/busukke.mp3"
+    }
+  },
+  {
+    "id": "2585",
+    "basay": "busuR",
+    "category": "05",
+    "zh": [
+      "敵人"
+    ],
+    "en": [
+      "enemy 1796"
+    ],
+    "original": "busuR₁",
+    "audio": {
+      "slug": "busur",
+      "ipay": "dictionary/audio/ipay/b/busur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/busur.mp3"
+    }
+  },
+  {
+    "id": "2586",
+    "basay": "busuR",
+    "category": "09",
+    "zh": [
+      "獵弓"
+    ],
+    "en": [
+      "hunting bow 1797"
+    ],
+    "original": "busuR₂",
+    "audio": {
+      "slug": "busur",
+      "ipay": "dictionary/audio/ipay/b/busur.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/busur.mp3"
     }
   },
   {
@@ -2110,7 +4944,6 @@
     "en": [
       "go out"
     ],
-    "source": "B",
     "original": "busutse",
     "audio": {
       "slug": "busutse",
@@ -2131,7 +4964,6 @@
     "en": [
       "go out"
     ],
-    "source": "B",
     "original": "busutse",
     "audio": {
       "slug": "busutse",
@@ -2152,12 +4984,82 @@
     "en": [
       "bloom"
     ],
-    "source": "B",
     "original": "busutse <munain busutse>",
     "audio": {
       "slug": "busutse",
       "ipay": "dictionary/audio/ipay/b/busutse.mp3",
       "hokkien": "dictionary/audio/hokkien/b/busutse.mp3"
+    }
+  },
+  {
+    "id": "2542",
+    "basay": "buta",
+    "category": "06",
+    "zh": [
+      "眼中的微粒",
+      "失明",
+      "盲"
+    ],
+    "en": [
+      "mote in the eye; blind; blindness 1381"
+    ],
+    "original": "buCa",
+    "audio": {
+      "slug": "buta",
+      "ipay": "dictionary/audio/ipay/b/buta.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buta.mp3"
+    }
+  },
+  {
+    "id": "2543",
+    "basay": "buta-en mata",
+    "category": "06",
+    "zh": [
+      "眼中進微粒"
+    ],
+    "en": [
+      "get a mote in the eye 1386"
+    ],
+    "original": "buCa-en maCa",
+    "audio": {
+      "slug": "buta_en_mata",
+      "ipay": "dictionary/audio/ipay/b/buta_en_mata.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buta_en_mata.mp3"
+    }
+  },
+  {
+    "id": "2544",
+    "basay": "butaq",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "浮沫"
+    ],
+    "en": [
+      "foam, froth 1380"
+    ],
+    "original": "buCaq",
+    "audio": {
+      "slug": "butaq",
+      "ipay": "dictionary/audio/ipay/b/butaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/butaq.mp3"
+    }
+  },
+  {
+    "id": "2545",
+    "basay": "butbut",
+    "category": "08",
+    "zh": [
+      "拔除（如雜草），拔掉（如羽毛）"
+    ],
+    "en": [
+      "pull up (as weeds), pluck (as feathers) 1393"
+    ],
+    "original": "buCbuC",
+    "audio": {
+      "slug": "butbut",
+      "ipay": "dictionary/audio/ipay/b/butbut.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/butbut.mp3"
     }
   },
   {
@@ -2173,7 +5075,6 @@
     "en": [
       "moon"
     ],
-    "source": "B",
     "original": "butsan",
     "audio": {
       "slug": "butsan",
@@ -2191,7 +5092,6 @@
     "en": [
       "month"
     ],
-    "source": "T",
     "original": "butsan",
     "audio": {
       "slug": "butsan",
@@ -2212,7 +5112,6 @@
     "en": [
       "gold"
     ],
-    "source": "B",
     "original": "butsawan",
     "audio": {
       "slug": "butsawan",
@@ -2230,7 +5129,6 @@
     "en": [
       "warm water"
     ],
-    "source": "T",
     "original": "butse, vutse",
     "audio": {
       "slug": "butse",
@@ -2251,7 +5149,6 @@
     "en": [
       "whip"
     ],
-    "source": "B",
     "original": "butsutse",
     "audio": {
       "slug": "butsutse",
@@ -2272,12 +5169,64 @@
     "en": [
       "Taiwanese"
     ],
-    "source": "B",
     "original": "butsutse. butsut",
     "audio": {
       "slug": "butsutse_butsut",
       "ipay": "dictionary/audio/ipay/b/butsutse_butsut.mp3",
       "hokkien": "dictionary/audio/hokkien/b/butsutse_butsut.mp3"
+    }
+  },
+  {
+    "id": "2546",
+    "basay": "butu",
+    "category": "11",
+    "zh": [
+      "水泡",
+      "繭"
+    ],
+    "en": [
+      "callus, corn; blister 1405"
+    ],
+    "original": "buCu",
+    "audio": {
+      "slug": "butu",
+      "ipay": "dictionary/audio/ipay/b/butu.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/butu.mp3"
+    }
+  },
+  {
+    "id": "2547",
+    "basay": "butuq",
+    "category": "34",
+    "zh": [
+      "睪丸"
+    ],
+    "en": [
+      "testicles 1401"
+    ],
+    "original": "buCuq",
+    "audio": {
+      "slug": "butuq",
+      "ipay": "dictionary/audio/ipay/b/butuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/butuq.mp3"
+    }
+  },
+  {
+    "id": "2588",
+    "basay": "buung",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "低鳴"
+    ],
+    "en": [
+      "buzzing or humming sound 1850"
+    ],
+    "original": "buuŋ",
+    "audio": {
+      "slug": "buunx",
+      "ipay": "dictionary/audio/ipay/b/buunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/buunx.mp3"
     }
   }
 ]

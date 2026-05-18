@@ -1057,7 +1057,7 @@
   {
     "id": "0075",
     "basay": "bebete",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手引導"
     ],
@@ -1187,7 +1187,7 @@
     "basay": "betetse",
     "category": "06",
     "zh": [
-      "唯一"
+      "足底"
     ],
     "ja": [
       "甲裏"
@@ -2065,7 +2065,10 @@
   {
     "id": "0146",
     "basay": "haliuhiu",
-    "category": "06",
+    "category": "05",
+    "zh": [
+      "助理？"
+    ],
     "ja": [
       "助手",
       "不見轉 (??)"
@@ -2077,7 +2080,7 @@
   {
     "id": "0147",
     "basay": "haliuhn'ute",
-    "category": "06",
+    "category": "05",
     "zh": [
       "助理"
     ],
@@ -2162,9 +2165,9 @@
   {
     "id": "0153",
     "basay": "hanette",
-    "category": "06",
+    "category": "27",
     "zh": [
-      "果皮"
+      "剝果皮"
     ],
     "ja": [
       "(皮ヲ）ムク"
@@ -2498,7 +2501,7 @@
   {
     "id": "0177",
     "basay": "hauite",
-    "category": "06",
+    "category": "15",
     "zh": [
       "收集草"
     ],
@@ -2583,9 +2586,9 @@
   {
     "id": "0183",
     "basay": "heten",
-    "category": "06",
+    "category": "12",
     "zh": [
-      "處理"
+      "把手"
     ],
     "ja": [
       "把手"
@@ -3268,9 +3271,9 @@
   {
     "id": "0231",
     "basay": "kararl",
-    "category": "06",
+    "category": "08",
     "zh": [
-      "蠡"
+      "葫蘆？"
     ],
     "ja": [
       "夕顔 (?)"
@@ -4056,7 +4059,7 @@
   {
     "id": "0286",
     "basay": "laho",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手握住"
     ],
@@ -4226,7 +4229,7 @@
   {
     "id": "0298",
     "basay": "lakikitte",
-    "category": "06",
+    "category": "14",
     "zh": [
       "捲髮",
       "破爛的小屋"
@@ -4647,7 +4650,7 @@
     "basay": "lapo'n",
     "category": "06",
     "zh": [
-      "胞衣"
+      "胎盤"
     ],
     "ja": [
       "胞衣"
@@ -5408,7 +5411,7 @@
   {
     "id": "0380",
     "basay": "lipuluke | ripurukke",
-    "category": "06",
+    "category": "08",
     "zh": [
       "龍眼"
     ],
@@ -5466,7 +5469,7 @@
     "basay": "lisus",
     "category": "06",
     "zh": [
-      "尾巴"
+      "尾巴, 嬰兒頭部可以活動的部位。"
     ],
     "ja": [
       "尾,赤坊ノ頭ノ動ク個所"
@@ -5478,7 +5481,7 @@
   {
     "id": "0385",
     "basay": "lisusse",
-    "category": "04",
+    "category": "06",
     "zh": [
       "頭頂柔軟的地方"
     ],
@@ -6081,7 +6084,7 @@
   {
     "id": "0427",
     "basay": "mailatse",
-    "category": "05",
+    "category": "28",
     "zh": [
       "活"
     ],
@@ -6123,7 +6126,7 @@
   {
     "id": "0430",
     "basay": "maitsa",
-    "category": "06",
+    "category": "29",
     "zh": [
       "爭議"
     ],
@@ -6280,7 +6283,7 @@
   {
     "id": "0441",
     "basay": "malalau lalin'",
-    "category": "05",
+    "category": "14",
     "zh": [
       "死者的地方"
     ],
@@ -6294,7 +6297,7 @@
   {
     "id": "0442",
     "basay": "malauise",
-    "category": "05",
+    "category": "32",
     "zh": [
       "著名的"
     ],
@@ -6875,7 +6878,7 @@
   {
     "id": "0483",
     "basay": "masan'. | masan' a tau",
-    "category": "05",
+    "category": "13",
     "zh": [
       "舊時光"
     ],
@@ -6903,7 +6906,7 @@
   {
     "id": "0485",
     "basay": "masiano'm",
-    "category": "05",
+    "category": "24",
     "zh": [
       "偉人"
     ],
@@ -7018,7 +7021,7 @@
   {
     "id": "0493",
     "basay": "masukut",
-    "category": "06",
+    "category": "25",
     "zh": [
       "戳",
       "推力"
@@ -7047,7 +7050,7 @@
   {
     "id": "0495",
     "basay": "mata numalᵒ | numaz'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "看到"
     ],
@@ -7365,7 +7368,7 @@
   {
     "id": "0517",
     "basay": "motso",
-    "category": "05",
+    "category": "14",
     "zh": [
       "地名"
     ],
@@ -7466,7 +7469,7 @@
   {
     "id": "0524",
     "basay": "munan'in",
-    "category": "05",
+    "category": "08",
     "zh": [
       "科西嘉島雜草"
     ],
@@ -8065,7 +8068,7 @@
   {
     "id": "0566",
     "basay": "ninaupun'",
-    "category": "05",
+    "category": "14",
     "zh": [
       "公墓"
     ],
@@ -8375,7 +8378,7 @@
   {
     "id": "0588",
     "basay": "otoi",
-    "category": "06",
+    "category": "25",
     "zh": [
       "扛在肩上"
     ],
@@ -8462,7 +8465,7 @@
   {
     "id": "0594",
     "basay": "paipail'",
-    "category": "06",
+    "category": "25",
     "zh": [
       "招手，扇動"
     ],
@@ -8703,7 +8706,7 @@
   {
     "id": "0611",
     "basay": "pakjak",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用拳頭敲"
     ],
@@ -8858,7 +8861,7 @@
   {
     "id": "0622",
     "basay": "palase",
-    "category": "06",
+    "category": "24",
     "zh": [
       "致函"
     ],
@@ -9087,7 +9090,7 @@
   {
     "id": "0638",
     "basay": "panippe",
-    "category": "06",
+    "category": "25",
     "zh": [
       "踐踏"
     ],
@@ -9115,7 +9118,7 @@
   {
     "id": "0640",
     "basay": "pantiti",
-    "category": "05",
+    "category": "09",
     "zh": [
       "玩具娃娃"
     ],
@@ -9379,7 +9382,7 @@
   {
     "id": "0659",
     "basay": "patala",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手接收"
     ],
@@ -9541,9 +9544,9 @@
   {
     "id": "0670",
     "basay": "patitse",
-    "category": "06",
+    "category": "25",
     "zh": [
-      "旋"
+      "（用毛巾）捏緊，（用手指）捏緊"
     ],
     "ja": [
       "(タオルヲ) シボル",
@@ -10189,7 +10192,7 @@
   {
     "id": "0715",
     "basay": "punod'",
-    "category": "06",
+    "category": "25",
     "zh": [
       "後退"
     ],
@@ -10580,7 +10583,7 @@
   {
     "id": "0742",
     "basay": "sabelala",
-    "category": "06",
+    "category": "25",
     "zh": [
       "仰臥"
     ],
@@ -10879,7 +10882,7 @@
   {
     "id": "0763",
     "basay": "sakalikalitso'n'",
-    "category": "05",
+    "category": "19",
     "zh": [
       "女子舞蹈"
     ],
@@ -10893,7 +10896,7 @@
   {
     "id": "0764",
     "basay": "sakalikalitsan'",
-    "category": "01",
+    "category": "14",
     "zh": [
       "圓周"
     ],
@@ -11063,7 +11066,7 @@
   {
     "id": "0776",
     "basay": "salake a tau",
-    "category": "05",
+    "category": "24",
     "zh": [
       "好人"
     ],
@@ -11225,7 +11228,7 @@
   {
     "id": "0787",
     "basay": "saloten",
-    "category": "06",
+    "category": "28",
     "zh": [
       "回顧"
     ],
@@ -11426,7 +11429,7 @@
   {
     "id": "0801",
     "basay": "san'ajau | minai san'ajau",
-    "category": "05",
+    "category": "32",
     "zh": [
       "美麗的"
     ],
@@ -11456,7 +11459,7 @@
     "basay": "san'atsai <n'atsai",
     "category": "06",
     "zh": [
-      "唾液"
+      "唾液(流口水)"
     ],
     "ja": [
       "(美味ナルモノヲ見ルトキニ)口ニ水が出ル"
@@ -12087,7 +12090,7 @@
   {
     "id": "0847",
     "basay": "sikalape baute",
-    "category": "06",
+    "category": "15",
     "zh": [
       "用手抓魚"
     ],
@@ -12740,7 +12743,7 @@
   {
     "id": "0893",
     "basay": "somelau",
-    "category": "06",
+    "category": "28",
     "zh": [
       "飢餓的"
     ],
@@ -12854,9 +12857,11 @@
   {
     "id": "0901",
     "basay": "subatte",
-    "category": "06",
+    "category": "25",
     "zh": [
-      "點點頭"
+      "點頭",
+      "鞠躬",
+      "微微點頭"
     ],
     "ja": [
       "ユックリをする"
@@ -12868,7 +12873,7 @@
   {
     "id": "0902",
     "basay": "suin",
-    "category": "06",
+    "category": "28",
     "zh": [
       "吃飽",
       "滿足"
@@ -12883,7 +12888,7 @@
   {
     "id": "0903",
     "basay": "suin na. sujinna",
-    "category": "06",
+    "category": "28",
     "zh": [
       "吃飽"
     ],
@@ -13042,7 +13047,7 @@
   {
     "id": "0914",
     "basay": "sumukul'",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用拳頭擊打"
     ],
@@ -13322,7 +13327,7 @@
     "basay": "talahitakke",
     "category": "05",
     "zh": [
-      "奎恩"
+      "蕩婦"
     ],
     "ja": [
       "アバズレ女"
@@ -13644,7 +13649,7 @@
   },
   {
     "id": "0956",
-    "basay": "tapo'lᵒ | tapo't",
+    "basay": "tapo't | tapo'lᵒ",
     "category": "10",
     "zh": [
       "土壤",
@@ -14064,7 +14069,7 @@
   {
     "id": "0985",
     "basay": "ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "後退"
     ],
@@ -14078,7 +14083,7 @@
   {
     "id": "0986",
     "basay": "ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "後退"
     ],
@@ -14092,7 +14097,7 @@
   {
     "id": "0987",
     "basay": "ten. | mita ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "落後",
       "後退"
@@ -14280,7 +14285,7 @@
   {
     "id": "1000",
     "basay": "tili",
-    "category": "05",
+    "category": "19",
     "zh": [
       "老婦人",
       "編織姿勢"
@@ -14309,7 +14314,7 @@
   {
     "id": "1002",
     "basay": "tiliptip",
-    "category": "05",
+    "category": "19",
     "zh": [
       "男子舞蹈",
       "跳躍"
@@ -14396,7 +14401,7 @@
   {
     "id": "1008",
     "basay": "tinaune",
-    "category": "05",
+    "category": "06",
     "zh": [
       "陰道"
     ],
@@ -14865,7 +14870,7 @@
   {
     "id": "1041",
     "basay": "tsapa",
-    "category": "06",
+    "category": "25",
     "zh": [
       "扛在肩上"
     ],
@@ -15034,7 +15039,7 @@
   {
     "id": "1053",
     "basay": "tso'n'-tso'n'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "頭痛"
     ],
@@ -15092,7 +15097,7 @@
     "basay": "ts'imaija",
     "category": "06",
     "zh": [
-      "鰭"
+      "鰭（形狀似手）"
     ],
     "ja": [
       "ヒレ (手ニ似タル)"
@@ -15147,7 +15152,7 @@
   {
     "id": "1061",
     "basay": "ts'ipan'",
-    "category": "06",
+    "category": "24",
     "zh": [
       "無知的，不熟練的"
     ],
@@ -15347,7 +15352,7 @@
   {
     "id": "1075",
     "basay": "tsulaD' | -t",
-    "category": "06",
+    "category": "24",
     "zh": [
       "信"
     ],
@@ -15546,7 +15551,7 @@
   {
     "id": "1089",
     "basay": "tuman",
-    "category": "05",
+    "category": "14",
     "zh": [
       "村莊名稱"
     ],
@@ -16357,7 +16362,7 @@
   {
     "id": "1155",
     "basay": "batu",
-    "category": "06",
+    "category": "10",
     "zh": [
       "石頭"
     ],
@@ -16929,7 +16934,7 @@
   {
     "id": "1207",
     "basay": "kame",
-    "category": "06",
+    "category": "25",
     "zh": [
       "回來"
     ],
@@ -17094,7 +17099,7 @@
   {
     "id": "1222",
     "basay": "katavan | qatavan",
-    "category": "05",
+    "category": "19",
     "zh": [
       "慶祝獵到人頭"
     ],
@@ -17237,7 +17242,7 @@
   {
     "id": "1235",
     "basay": "kazawan. klaw",
-    "category": "06",
+    "category": "25",
     "zh": [
       "挑"
     ],
@@ -17248,7 +17253,7 @@
   {
     "id": "1236",
     "basay": "kmalau",
-    "category": "06",
+    "category": "25",
     "zh": [
       "挑"
     ],
@@ -17259,7 +17264,7 @@
   {
     "id": "1237",
     "basay": "kzaw",
-    "category": "06",
+    "category": "25",
     "zh": [
       "挑"
     ],
@@ -17292,7 +17297,7 @@
   {
     "id": "1240",
     "basay": "ko'lmakmaz",
-    "category": "06",
+    "category": "28",
     "zh": [
       "眨眼"
     ],
@@ -17303,7 +17308,7 @@
   {
     "id": "1241",
     "basay": "kial'a | kilay",
-    "category": "06",
+    "category": "25",
     "zh": [
       "採，摘，砍（頭）"
     ],
@@ -17369,7 +17374,7 @@
   {
     "id": "1247",
     "basay": "kinausa",
-    "category": "05",
+    "category": "01",
     "zh": [
       "兩個人"
     ],
@@ -17567,7 +17572,7 @@
   {
     "id": "1265",
     "basay": "kl'aus",
-    "category": "06",
+    "category": "09",
     "zh": [
       "耳環"
     ],
@@ -17622,7 +17627,7 @@
   {
     "id": "1270",
     "basay": "kmaukaul",
-    "category": "06",
+    "category": "25",
     "zh": [
       "招手"
     ],
@@ -18570,7 +18575,7 @@
   {
     "id": "1356",
     "basay": "liwtsuan",
-    "category": "06",
+    "category": "25",
     "zh": [
       "砍頭"
     ],
@@ -18581,7 +18586,7 @@
   {
     "id": "1357",
     "basay": "lulu mata",
-    "category": "06",
+    "category": "05",
     "zh": [
       "學生"
     ],
@@ -18693,7 +18698,9 @@
     "basay": "l'akuku",
     "category": "06",
     "zh": [
-      "點頭"
+      "點頭",
+      "鞠躬",
+      "微微點頭"
     ],
     "en": [
       "nodding of tlie head"
@@ -19098,7 +19105,7 @@
   {
     "id": "1404",
     "basay": "mail'ase",
-    "category": "06",
+    "category": "24",
     "zh": [
       "分手"
     ],
@@ -19219,7 +19226,7 @@
   {
     "id": "1415",
     "basay": "makl'isu",
-    "category": "01",
+    "category": "14",
     "zh": [
       "圓周"
     ],
@@ -19307,7 +19314,7 @@
   {
     "id": "1423",
     "basay": "malsawsaw",
-    "category": "05",
+    "category": "28",
     "zh": [
       "活著的"
     ],
@@ -19406,7 +19413,7 @@
   {
     "id": "1432",
     "basay": "mal'ose",
-    "category": "06",
+    "category": "28",
     "zh": [
       "哭，眼淚"
     ],
@@ -20045,7 +20052,7 @@
   {
     "id": "1490",
     "basay": "matsin'tso'n'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "頭痛"
     ],
@@ -20078,7 +20085,7 @@
   {
     "id": "1493",
     "basay": "matuzusan",
-    "category": "06",
+    "category": "29",
     "zh": [
       "滿足"
     ],
@@ -20683,7 +20690,7 @@
   {
     "id": "1548",
     "basay": "niiuits",
-    "category": "05",
+    "category": "28",
     "zh": [
       "甦醒，活著的"
     ],
@@ -20738,7 +20745,7 @@
   {
     "id": "1553",
     "basay": "mitsitsin'",
-    "category": "06",
+    "category": "25",
     "zh": [
       "轉頭看"
     ],
@@ -21079,7 +21086,7 @@
   {
     "id": "1584",
     "basay": "mz'ala",
-    "category": "05",
+    "category": "32",
     "zh": [
       "短•矮人"
     ],
@@ -21090,7 +21097,7 @@
   {
     "id": "1585",
     "basay": "mzata",
-    "category": "05",
+    "category": "32",
     "zh": [
       "短•矮人"
     ],
@@ -22091,7 +22098,7 @@
   {
     "id": "1676",
     "basay": "niano'm",
-    "category": "05",
+    "category": "01",
     "zh": [
       "六個人"
     ],
@@ -22102,7 +22109,7 @@
   {
     "id": "1677",
     "basay": "niatsu",
-    "category": "05",
+    "category": "01",
     "zh": [
       "三個人"
     ],
@@ -22113,7 +22120,7 @@
   {
     "id": "1678",
     "basay": "niazusa",
-    "category": "05",
+    "category": "01",
     "zh": [
       "兩個人"
     ],
@@ -22146,7 +22153,7 @@
   {
     "id": "1681",
     "basay": "njan'uzinan",
-    "category": "06",
+    "category": "14",
     "zh": [
       "散佈，分佈"
     ],
@@ -22487,7 +22494,7 @@
   {
     "id": "1712",
     "basay": "palaqunna",
-    "category": "05",
+    "category": "24",
     "zh": [
       "好人"
     ],
@@ -22575,7 +22582,7 @@
   {
     "id": "1720",
     "basay": "pal'isi tsatsin",
-    "category": "05",
+    "category": "08",
     "zh": [
       "海人草"
     ],
@@ -22763,7 +22770,7 @@
   {
     "id": "1737",
     "basay": "parin",
-    "category": "06",
+    "category": "12",
     "zh": [
       "把手"
     ],
@@ -23437,7 +23444,7 @@
   {
     "id": "1798",
     "basay": "puncl",
-    "category": "06",
+    "category": "01",
     "zh": [
       "足夠"
     ],
@@ -23536,7 +23543,7 @@
   {
     "id": "1807",
     "basay": "putaw",
-    "category": "06",
+    "category": "15",
     "zh": [
       "斧頭"
     ],
@@ -23580,7 +23587,7 @@
   {
     "id": "1811",
     "basay": "putsu",
-    "category": "06",
+    "category": "09",
     "zh": [
       "枕頭，長椅"
     ],
@@ -23998,9 +24005,9 @@
   {
     "id": "1849",
     "basay": "qazaw",
-    "category": "06",
+    "category": "25",
     "zh": [
-      "桃"
+      "背在肩上"
     ],
     "en": [
       "carry on shoulder"
@@ -24978,7 +24985,7 @@
   {
     "id": "1938",
     "basay": "silit",
-    "category": "06",
+    "category": "09",
     "zh": [
       "頭巾"
     ],
@@ -25011,7 +25018,7 @@
   {
     "id": "1941",
     "basay": "sil'uq",
-    "category": "06",
+    "category": "27",
     "zh": [
       "用手吃"
     ],
@@ -26002,7 +26009,7 @@
   {
     "id": "2031",
     "basay": "tal'aan",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手接"
     ],
@@ -26299,7 +26306,7 @@
   {
     "id": "2058",
     "basay": "tawan",
-    "category": "05",
+    "category": "25",
     "zh": [
       "請客•招待"
     ],
@@ -26365,7 +26372,7 @@
   {
     "id": "2064",
     "basay": "teen",
-    "category": "06",
+    "category": "14",
     "zh": [
       "相反的，背面"
     ],
@@ -26387,7 +26394,7 @@
   {
     "id": "2066",
     "basay": "teten | tumeten",
-    "category": "06",
+    "category": "25",
     "zh": [
       "背，扛"
     ],
@@ -26552,7 +26559,7 @@
   {
     "id": "2081",
     "basay": "tiqul",
-    "category": "06",
+    "category": "09",
     "zh": [
       "手杖"
     ],
@@ -26860,7 +26867,7 @@
   {
     "id": "2109",
     "basay": "tul'ian",
-    "category": "06",
+    "category": "19",
     "zh": [
       "鼻笛"
     ],
@@ -26871,7 +26878,7 @@
   {
     "id": "2110",
     "basay": "tul'nian. tumul'ani",
-    "category": "06",
+    "category": "19",
     "zh": [
       "吹鼻笛"
     ],
@@ -27146,7 +27153,7 @@
   {
     "id": "2135",
     "basay": "tutus",
-    "category": "06",
+    "category": "32",
     "zh": [
       "禿頭的"
     ],
@@ -27344,7 +27351,7 @@
   {
     "id": "2153",
     "basay": "tsanul",
-    "category": "06",
+    "category": "10",
     "zh": [
       "河口"
     ],
@@ -27421,7 +27428,7 @@
   {
     "id": "2160",
     "basay": "tsatsaq(o')",
-    "category": "06",
+    "category": "07",
     "zh": [
       "紅狗 (應指黃紅紅狗)"
     ],
@@ -27443,7 +27450,7 @@
   {
     "id": "2162",
     "basay": "tsatsawe",
-    "category": "06",
+    "category": "25",
     "zh": [
       "伸手勾"
     ],
@@ -27476,7 +27483,7 @@
   {
     "id": "2165",
     "basay": "tsatsujan",
-    "category": "01",
+    "category": "14",
     "zh": [
       "平衡"
     ],
@@ -27982,7 +27989,7 @@
   {
     "id": "2211",
     "basay": "tsyulin'",
-    "category": "06",
+    "category": "09",
     "zh": [
       "橡皮"
     ],
@@ -28137,7 +28144,7 @@
   {
     "id": "2225",
     "basay": "uvava",
-    "category": "06",
+    "category": "25",
     "zh": [
       "揹"
     ],
@@ -28214,7 +28221,7 @@
   {
     "id": "2232",
     "basay": "vakut",
-    "category": "06",
+    "category": "01",
     "zh": [
       "足夠"
     ],
@@ -28489,7 +28496,7 @@
   {
     "id": "2257",
     "basay": "vatu",
-    "category": "06",
+    "category": "10",
     "zh": [
       "石頭"
     ],
@@ -28544,7 +28551,7 @@
   {
     "id": "2262",
     "basay": "vavaan",
-    "category": "06",
+    "category": "25",
     "zh": [
       "揹"
     ],
@@ -28588,12 +28595,12 @@
   {
     "id": "2266",
     "basay": "vcqail",
-    "category": "06",
+    "category": "07",
     "zh": [
       "鳥嘴"
     ],
     "en": [
-      "break"
+      "beak"
     ]
   },
   {
@@ -28709,7 +28716,7 @@
   {
     "id": "2277",
     "basay": "vivittu",
-    "category": "06",
+    "category": "25",
     "zh": [
       "夾在石頭"
     ],
@@ -29446,7 +29453,7 @@
   {
     "id": "2344",
     "basay": "zawis",
-    "category": "05",
+    "category": "24",
     "zh": [
       "出名的"
     ],
@@ -29661,6 +29668,11018 @@
     ],
     "en": [
       "father"
+    ]
+  },
+  {
+    "id": "2364",
+    "basay": "-a",
+    "category": "36",
+    "zh": [
+      "祈使句後綴 383"
+    ],
+    "en": [
+      "imperative suffix 383"
+    ]
+  },
+  {
+    "id": "2365",
+    "basay": "-a",
+    "category": "36",
+    "zh": [
+      "虛擬語氣詞尾"
+    ],
+    "en": [
+      "subjunctive suffix 387"
+    ]
+  },
+  {
+    "id": "2366",
+    "basay": "a",
+    "category": "36",
+    "zh": [
+      "遲疑助詞"
+    ],
+    "en": [
+      "hesitation particle 381"
+    ]
+  },
+  {
+    "id": "2367",
+    "basay": "a",
+    "category": "36",
+    "zh": [
+      "連字符"
+    ],
+    "en": [
+      "ligature 382"
+    ]
+  },
+  {
+    "id": "2368",
+    "basay": "atab",
+    "category": "09",
+    "zh": [
+      "蓋子",
+      "覆蓋物"
+    ],
+    "en": [
+      "a cover 25"
+    ]
+  },
+  {
+    "id": "2369",
+    "basay": "atas",
+    "category": "32",
+    "zh": [
+      "高的",
+      "高聳的"
+    ],
+    "en": [
+      "high, tall 26"
+    ]
+  },
+  {
+    "id": "2370",
+    "basay": "atay",
+    "category": "24",
+    "zh": [
+      "死亡"
+    ],
+    "en": [
+      "death 33"
+    ]
+  },
+  {
+    "id": "2371",
+    "basay": "adas",
+    "category": "25",
+    "zh": [
+      "帶來",
+      "帶著走"
+    ],
+    "en": [
+      "bring, take along 6632"
+    ]
+  },
+  {
+    "id": "2372",
+    "basay": "adi",
+    "category": "35",
+    "zh": [
+      "不",
+      "不是"
+    ],
+    "en": [
+      "no, not 7326"
+    ]
+  },
+  {
+    "id": "2373",
+    "basay": "a-enem",
+    "category": "01",
+    "zh": [
+      "六人"
+    ],
+    "en": [
+      "six (of humans) 2376"
+    ]
+  },
+  {
+    "id": "2374",
+    "basay": "a-esa",
+    "category": "01",
+    "zh": [
+      "一人"
+    ],
+    "en": [
+      "one (of humans) 2407"
+    ]
+  },
+  {
+    "id": "2375",
+    "basay": "ai",
+    "category": "36",
+    "zh": [
+      "感嘆詞（表示驚訝",
+      "懷疑等）"
+    ],
+    "en": [
+      "interjection, exclamation of surprise, incredulity, etc. 83"
+    ]
+  },
+  {
+    "id": "2376",
+    "basay": "ai",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "en": [
+      "come 7828"
+    ]
+  },
+  {
+    "id": "2377",
+    "basay": "ajem",
+    "category": "29",
+    "zh": [
+      "心",
+      "思想"
+    ],
+    "en": [
+      "heart; mind 6619"
+    ]
+  },
+  {
+    "id": "2378",
+    "basay": "aken",
+    "category": "36",
+    "zh": [
+      "第一人稱單數賓格"
+    ],
+    "en": [
+      "1sg oblique 7960"
+    ]
+  },
+  {
+    "id": "2379",
+    "basay": "aki",
+    "category": "04",
+    "zh": [
+      "祖父",
+      "祖先"
+    ],
+    "en": [
+      "grandfather, ancestor 6552"
+    ]
+  },
+  {
+    "id": "2380",
+    "basay": "aku",
+    "category": "36",
+    "zh": [
+      "第一人稱單數主格",
+      "我"
+    ],
+    "en": [
+      "1sg nominative; I 90"
+    ]
+  },
+  {
+    "id": "2381",
+    "basay": "ala",
+    "category": "19",
+    "zh": [
+      "拿",
+      "取得",
+      "迎娶"
+    ],
+    "en": [
+      "take, get, fetch, obtain; marry 118"
+    ]
+  },
+  {
+    "id": "2382",
+    "basay": "ala-en",
+    "category": "25",
+    "zh": [
+      "被拿走"
+    ],
+    "en": [
+      "be taken 7768"
+    ]
+  },
+  {
+    "id": "2383",
+    "basay": "alap",
+    "category": "25",
+    "zh": [
+      "拿",
+      "取得"
+    ],
+    "en": [
+      "fetch, get, take 96"
+    ]
+  },
+  {
+    "id": "2384",
+    "basay": "alaq",
+    "category": "25",
+    "zh": [
+      "拿",
+      "取得"
+    ],
+    "en": [
+      "fetch, get, take 108"
+    ]
+  },
+  {
+    "id": "2385",
+    "basay": "alaq-en",
+    "category": "25",
+    "zh": [
+      "被拿走"
+    ],
+    "en": [
+      "be taken 114"
+    ]
+  },
+  {
+    "id": "2386",
+    "basay": "alikas",
+    "category": "34",
+    "zh": [
+      "快速的",
+      "迅速的"
+    ],
+    "en": [
+      "quick, fast 11787"
+    ]
+  },
+  {
+    "id": "2387",
+    "basay": "alim",
+    "category": "28",
+    "zh": [
+      "忘記"
+    ],
+    "en": [
+      "forget 7144"
+    ]
+  },
+  {
+    "id": "2388",
+    "basay": "a(lR)im",
+    "category": "34",
+    "zh": [
+      "胰臟",
+      "脾臟"
+    ],
+    "en": [
+      "pancreas, spleen 12781"
+    ]
+  },
+  {
+    "id": "2389",
+    "basay": "aluja",
+    "category": "20",
+    "zh": [
+      "划船"
+    ],
+    "en": [
+      "to paddle 126"
+    ]
+  },
+  {
+    "id": "2390",
+    "basay": "alujah",
+    "category": "07",
+    "zh": [
+      "螞蟻（一種）"
+    ],
+    "en": [
+      "ant sp. 7226"
+    ]
+  },
+  {
+    "id": "2391",
+    "basay": "amax",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father 134"
+    ]
+  },
+  {
+    "id": "2392",
+    "basay": "amen",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他賓格"
+    ],
+    "en": [
+      "1pl ex oblique 7962"
+    ]
+  },
+  {
+    "id": "2393",
+    "basay": "ami",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他主格代詞「我們」"
+    ],
+    "en": [
+      "1pl. excl. nominative pronoun, we (exclusive) 9702"
+    ]
+  },
+  {
+    "id": "2394",
+    "basay": "amin",
+    "category": "01",
+    "zh": [
+      "全部",
+      "完成"
+    ],
+    "en": [
+      "all; finished 180"
+    ]
+  },
+  {
+    "id": "2395",
+    "basay": "amu",
+    "category": "36",
+    "zh": [
+      "第二人稱複數主格代詞「你們」"
+    ],
+    "en": [
+      "2pl. nominative pronoun 9708"
+    ]
+  },
+  {
+    "id": "2396",
+    "basay": "-an",
+    "category": "36",
+    "zh": [
+      "動詞後綴表示處所態",
+      "名詞後綴表示地點"
+    ],
+    "en": [
+      "verbal suffix marking locative voice; nominal suffix marking location 254"
+    ]
+  },
+  {
+    "id": "2397",
+    "basay": "anak",
+    "category": "04",
+    "zh": [
+      "孩子",
+      "子女",
+      "利息"
+    ],
+    "en": [
+      "child, offspring; son, daughter; interest on a loan 183"
+    ]
+  },
+  {
+    "id": "2398",
+    "basay": "an-anak",
+    "category": "05",
+    "zh": [
+      "孩子"
+    ],
+    "en": [
+      "child 186"
+    ]
+  },
+  {
+    "id": "2399",
+    "basay": "anay",
+    "category": "07",
+    "zh": [
+      "白蟻"
+    ],
+    "en": [
+      "insect of the order Isoptera: termite, white ant 234"
+    ]
+  },
+  {
+    "id": "2400",
+    "basay": "angay",
+    "category": "34",
+    "zh": [
+      "出發（？）"
+    ],
+    "en": [
+      "departure (?) 9146"
+    ]
+  },
+  {
+    "id": "2401",
+    "basay": "apa",
+    "category": "25",
+    "zh": [
+      "背負",
+      "背在背上"
+    ],
+    "en": [
+      "carry on the back 6553"
+    ]
+  },
+  {
+    "id": "2402",
+    "basay": "apu",
+    "category": "04",
+    "zh": [
+      "祖孫（互稱）"
+    ],
+    "en": [
+      "grandparent/grandchild (reciprocal) 273"
+    ]
+  },
+  {
+    "id": "2403",
+    "basay": "apuR",
+    "category": "27",
+    "zh": [
+      "嚼食檳榔"
+    ],
+    "en": [
+      "betel chew 272"
+    ]
+  },
+  {
+    "id": "2404",
+    "basay": "aRi",
+    "category": "23",
+    "zh": [
+      "來",
+      "朝說話者來",
+      "走吧"
+    ],
+    "en": [
+      "come; toward the speaker; let’s go! 297"
+    ]
+  },
+  {
+    "id": "2405",
+    "basay": "asa",
+    "category": "01",
+    "zh": [
+      "一個"
+    ],
+    "en": [
+      "one 305"
+    ]
+  },
+  {
+    "id": "2406",
+    "basay": "asang",
+    "category": "12",
+    "zh": [
+      "村莊"
+    ],
+    "en": [
+      "village 7961"
+    ]
+  },
+  {
+    "id": "2407",
+    "basay": "asu",
+    "category": "07",
+    "zh": [
+      "狗"
+    ],
+    "en": [
+      "dog 320"
+    ]
+  },
+  {
+    "id": "2408",
+    "basay": "asik",
+    "category": "25",
+    "zh": [
+      "掃地",
+      "清除垃圾"
+    ],
+    "en": [
+      "to sweep, remove trash 12771"
+    ]
+  },
+  {
+    "id": "2409",
+    "basay": "ata",
+    "category": "36",
+    "zh": [
+      "第一人稱複數包括所有格代詞「我們的」"
+    ],
+    "en": [
+      "1pl. incl. possessive pronoun: our 333"
+    ]
+  },
+  {
+    "id": "2410",
+    "basay": "atuR",
+    "category": "12",
+    "zh": [
+      "石牆"
+    ],
+    "en": [
+      "stone wall 12104"
+    ]
+  },
+  {
+    "id": "2411",
+    "basay": "au",
+    "category": "34",
+    "zh": [
+      "是",
+      "對"
+    ],
+    "en": [
+      "yes 351"
+    ]
+  },
+  {
+    "id": "2412",
+    "basay": "aya",
+    "category": "36",
+    "zh": [
+      "表示惱怒",
+      "驚訝等的感嘆詞"
+    ],
+    "en": [
+      "exclamation of annoyance, surprise, etc. 369"
+    ]
+  },
+  {
+    "id": "2413",
+    "basay": "aya",
+    "category": "34",
+    "zh": [
+      "詞義未詳"
+    ],
+    "en": [
+      "(gloss uncertain) 370"
+    ]
+  },
+  {
+    "id": "2414",
+    "basay": "baba",
+    "category": "25",
+    "zh": [
+      "背人",
+      "揹人走",
+      "揹騎"
+    ],
+    "en": [
+      "carry a person pick-a-back; ride pick-a-back 433"
+    ]
+  },
+  {
+    "id": "2415",
+    "basay": "ba-bahi",
+    "category": "04",
+    "zh": [
+      "女人",
+      "女性"
+    ],
+    "en": [
+      "woman, female 6939"
+    ]
+  },
+  {
+    "id": "2416",
+    "basay": "babaw",
+    "category": "14",
+    "zh": [
+      "上面",
+      "高地",
+      "在上方"
+    ],
+    "en": [
+      "upper surface, top; highlands; on, upon, over, above 428"
+    ]
+  },
+  {
+    "id": "2417",
+    "basay": "babuy",
+    "category": "07",
+    "zh": [
+      "豬"
+    ],
+    "en": [
+      "pig 441"
+    ]
+  },
+  {
+    "id": "2418",
+    "basay": "babuy-an",
+    "category": "07",
+    "zh": [
+      "豬圈",
+      "豬舍"
+    ],
+    "en": [
+      "pigpen, pigsty, piggery 442"
+    ]
+  },
+  {
+    "id": "2419",
+    "basay": "bataR",
+    "category": "08",
+    "zh": [
+      "黍（Panicum miliaceum）"
+    ],
+    "en": [
+      "broomcorn millet: Panicum miliaceum 8795"
+    ]
+  },
+  {
+    "id": "2420",
+    "basay": "bahi",
+    "category": "04",
+    "zh": [
+      "女性"
+    ],
+    "en": [
+      "female 6934"
+    ]
+  },
+  {
+    "id": "2421",
+    "basay": "bajaq",
+    "category": "28",
+    "zh": [
+      "知道",
+      "了解",
+      "詢問"
+    ],
+    "en": [
+      "know, understand; ask, inquire 6439"
+    ]
+  },
+  {
+    "id": "2422",
+    "basay": "bajiw",
+    "category": "34",
+    "zh": [
+      "可食用的菇類"
+    ],
+    "en": [
+      "edible mushroom sp. 7145"
+    ]
+  },
+  {
+    "id": "2423",
+    "basay": "bakang",
+    "category": "34",
+    "zh": [
+      "羅圈腿"
+    ],
+    "en": [
+      "bowlegged 9050"
+    ]
+  },
+  {
+    "id": "2424",
+    "basay": "bakaR",
+    "category": "09",
+    "zh": [
+      "一種籃子"
+    ],
+    "en": [
+      "kind of basket 12662"
+    ]
+  },
+  {
+    "id": "2425",
+    "basay": "bakbak",
+    "category": "23",
+    "zh": [
+      "重擊聲",
+      "拍打聲"
+    ],
+    "en": [
+      "sound of heavy clapping or pounding, smacking sound 477"
+    ]
+  },
+  {
+    "id": "2426",
+    "basay": "bakes",
+    "category": "18",
+    "zh": [
+      "腰帶",
+      "綁腰帶"
+    ],
+    "en": [
+      "belt; tie around the waist 480"
+    ]
+  },
+  {
+    "id": "2427",
+    "basay": "baki",
+    "category": "04",
+    "zh": [
+      "祖父"
+    ],
+    "en": [
+      "grandfather 6554"
+    ]
+  },
+  {
+    "id": "2428",
+    "basay": "bakung",
+    "category": "08",
+    "zh": [
+      "文殊蘭（Crinum asiaticum）"
+    ],
+    "en": [
+      "a lily-like plant: Crinum asiaticum L. 484"
+    ]
+  },
+  {
+    "id": "2429",
+    "basay": "balalatuk",
+    "category": "07",
+    "zh": [
+      "啄木鳥"
+    ],
+    "en": [
+      "a bird: the woodpecker 496"
+    ]
+  },
+  {
+    "id": "2430",
+    "basay": "balanga",
+    "category": "32",
+    "zh": [
+      "陶製淺鍋"
+    ],
+    "en": [
+      "shallow earthenware cooking pot or pan 519"
+    ]
+  },
+  {
+    "id": "2431",
+    "basay": "balbal",
+    "category": "18",
+    "zh": [
+      "打衣棒",
+      "擊打（特別是洗衣服時）"
+    ],
+    "en": [
+      "beating stick; to hit, beat (esp. clothes in washing them) 528"
+    ]
+  },
+  {
+    "id": "2432",
+    "basay": "baleng",
+    "category": "21",
+    "zh": [
+      "用鹽醃肉"
+    ],
+    "en": [
+      "preserve meat in salt or brine 12648"
+    ]
+  },
+  {
+    "id": "2433",
+    "basay": "bales",
+    "category": "32",
+    "zh": [
+      "回答",
+      "報復",
+      "報恩或報仇"
+    ],
+    "en": [
+      "to answer, retaliate; reciprocate good or evil 531"
+    ]
+  },
+  {
+    "id": "2434",
+    "basay": "bali",
+    "category": "11",
+    "zh": [
+      "風"
+    ],
+    "en": [
+      "wind 6555"
+    ]
+  },
+  {
+    "id": "2435",
+    "basay": "baliw",
+    "category": "34",
+    "zh": [
+      "買",
+      "賣"
+    ],
+    "en": [
+      "buy, sell 6557"
+    ]
+  },
+  {
+    "id": "2436",
+    "basay": "baliw",
+    "category": "34",
+    "zh": [
+      "返回"
+    ],
+    "en": [
+      "return 559"
+    ]
+  },
+  {
+    "id": "2437",
+    "basay": "balun",
+    "category": "34",
+    "zh": [
+      "綁",
+      "打包"
+    ],
+    "en": [
+      "bind, bundle 578"
+    ]
+  },
+  {
+    "id": "2438",
+    "basay": "banaw",
+    "category": "10",
+    "zh": [
+      "湖"
+    ],
+    "en": [
+      "lake 9239"
+    ]
+  },
+  {
+    "id": "2439",
+    "basay": "banaR",
+    "category": "08",
+    "zh": [
+      "刺藤（Smilax spp.）"
+    ],
+    "en": [
+      "a thorny vine: Smilax spp. 611"
+    ]
+  },
+  {
+    "id": "2440",
+    "basay": "banas",
+    "category": "07",
+    "zh": [
+      "雄性（動物）"
+    ],
+    "en": [
+      "male (of animals) 614"
+    ]
+  },
+  {
+    "id": "2441",
+    "basay": "banaw",
+    "category": "08",
+    "zh": [
+      "刺藤（Smilax spp.）"
+    ],
+    "en": [
+      "a thorny vine: Smilax spp. 619"
+    ]
+  },
+  {
+    "id": "2442",
+    "basay": "banit",
+    "category": "27",
+    "zh": [
+      "剝皮"
+    ],
+    "en": [
+      "to skin, flay 627"
+    ]
+  },
+  {
+    "id": "2443",
+    "basay": "bañaw",
+    "category": "25",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 754"
+    ]
+  },
+  {
+    "id": "2444",
+    "basay": "bangas",
+    "category": "08",
+    "zh": [
+      "楝樹（Melia azedarach）"
+    ],
+    "en": [
+      "a tree: Melia azedarach 7114"
+    ]
+  },
+  {
+    "id": "2445",
+    "basay": "bangaw",
+    "category": "07",
+    "zh": [
+      "稻象甲",
+      "稻田中的臭蟲"
+    ],
+    "en": [
+      "paddy bug, foul-smelling insect that preys on rice in the field 760"
+    ]
+  },
+  {
+    "id": "2446",
+    "basay": "bangbang",
+    "category": "34",
+    "zh": [
+      "蝴蝶",
+      "蛾"
+    ],
+    "en": [
+      "butterfly, moth 766"
+    ]
+  },
+  {
+    "id": "2447",
+    "basay": "bangbang",
+    "category": "23",
+    "zh": [
+      "巨響",
+      "隆隆聲"
+    ],
+    "en": [
+      "loud resounding sound 773"
+    ]
+  },
+  {
+    "id": "2448",
+    "basay": "bangelis",
+    "category": "06",
+    "zh": [
+      "獠牙",
+      "犬齒"
+    ],
+    "en": [
+      "tusk; canine tooth 776"
+    ]
+  },
+  {
+    "id": "2449",
+    "basay": "bang(e)qeR",
+    "category": "28",
+    "zh": [
+      "腐臭味"
+    ],
+    "en": [
+      "rotten smell, stench 801"
+    ]
+  },
+  {
+    "id": "2450",
+    "basay": "banges",
+    "category": "06",
+    "zh": [
+      "皮膚"
+    ],
+    "en": [
+      "skin 7227"
+    ]
+  },
+  {
+    "id": "2451",
+    "basay": "bangesis",
+    "category": "34",
+    "zh": [
+      "芳香的"
+    ],
+    "en": [
+      "fragrant 804"
+    ]
+  },
+  {
+    "id": "2452",
+    "basay": "bangun",
+    "category": "11",
+    "zh": [
+      "日本扁柏（Chamaecyparis obtusa）"
+    ],
+    "en": [
+      "the Japanese cypress: Chamaecyparis obtusa7304"
+    ]
+  },
+  {
+    "id": "2453",
+    "basay": "bangun",
+    "category": "25",
+    "zh": [
+      "起床",
+      "醒來"
+    ],
+    "en": [
+      "wake up, get out of bed 787"
+    ]
+  },
+  {
+    "id": "2454",
+    "basay": "baqeRuh",
+    "category": "32",
+    "zh": [
+      "新的",
+      "單身男子"
+    ],
+    "en": [
+      "new; bachelor 645"
+    ]
+  },
+  {
+    "id": "2455",
+    "basay": "baqesing",
+    "category": "34",
+    "zh": [
+      "打噴嚏"
+    ],
+    "en": [
+      "sneeze 7146"
+    ]
+  },
+  {
+    "id": "2456",
+    "basay": "baqi",
+    "category": "04",
+    "zh": [
+      "祖母"
+    ],
+    "en": [
+      "grandmother 6438"
+    ]
+  },
+  {
+    "id": "2457",
+    "basay": "barat",
+    "category": "34",
+    "zh": [
+      "橫樑"
+    ],
+    "en": [
+      "crossbeam 668"
+    ]
+  },
+  {
+    "id": "2458",
+    "basay": "baRah",
+    "category": "11",
+    "zh": [
+      "餘燼",
+      "火炭"
+    ],
+    "en": [
+      "ember, glowing coal 652"
+    ]
+  },
+  {
+    "id": "2459",
+    "basay": "baRang",
+    "category": "06",
+    "zh": [
+      "肋骨（？）"
+    ],
+    "en": [
+      "rib (?) 9176"
+    ]
+  },
+  {
+    "id": "2460",
+    "basay": "baRaq",
+    "category": "34",
+    "zh": [
+      "肺"
+    ],
+    "en": [
+      "lung 662"
+    ]
+  },
+  {
+    "id": "2461",
+    "basay": "baRat",
+    "category": "34",
+    "zh": [
+      "橫樑"
+    ],
+    "en": [
+      "crossbeam 666"
+    ]
+  },
+  {
+    "id": "2462",
+    "basay": "baRat",
+    "category": "22",
+    "zh": [
+      "黃瓜（Cucumis sativus）"
+    ],
+    "en": [
+      "cucumber: Cucumis sativus 6620"
+    ]
+  },
+  {
+    "id": "2463",
+    "basay": "b<aR>engbeng",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "低鳴",
+      "嗡響聲"
+    ],
+    "en": [
+      "buzzing, droning, humming 1065"
+    ]
+  },
+  {
+    "id": "2464",
+    "basay": "baReq",
+    "category": "06",
+    "zh": [
+      "膿腫",
+      "癤子",
+      "身體上的腫塊"
+    ],
+    "en": [
+      "abscess, boil, swelling on the body 696"
+    ]
+  },
+  {
+    "id": "2465",
+    "basay": "baRija",
+    "category": "18",
+    "zh": [
+      "織布用劍棒（用來打緊緯線的工具）"
+    ],
+    "en": [
+      "weaver's sword (lath used to beat in and tighten the woof) 698"
+    ]
+  },
+  {
+    "id": "2466",
+    "basay": "baRius",
+    "category": "11",
+    "zh": [
+      "颱風"
+    ],
+    "en": [
+      "typhoon 702"
+    ]
+  },
+  {
+    "id": "2467",
+    "basay": "baRuj",
+    "category": "07",
+    "zh": [
+      "鳥類：斑鳩屬的鳩鳥"
+    ],
+    "en": [
+      "a dove: probably Ducula spp. 709"
+    ]
+  },
+  {
+    "id": "2468",
+    "basay": "basbas",
+    "category": "25",
+    "zh": [
+      "打，擊"
+    ],
+    "en": [
+      "hit, strike 720"
+    ]
+  },
+  {
+    "id": "2469",
+    "basay": "basbas",
+    "category": "34",
+    "zh": [
+      "灑",
+      "噴灑"
+    ],
+    "en": [
+      "sprinkle 721"
+    ]
+  },
+  {
+    "id": "2470",
+    "basay": "baseq",
+    "category": "18",
+    "zh": [
+      "洗衣服"
+    ],
+    "en": [
+      "wash clothes 6444"
+    ]
+  },
+  {
+    "id": "2471",
+    "basay": "basuq",
+    "category": "25",
+    "zh": [
+      "洗滌"
+    ],
+    "en": [
+      "to wash 6455"
+    ]
+  },
+  {
+    "id": "2472",
+    "basay": "basaq",
+    "category": "11",
+    "zh": [
+      "洪水",
+      "氾濫",
+      "泛濫"
+    ],
+    "en": [
+      "a flood; to overflow, be in flood 461"
+    ]
+  },
+  {
+    "id": "2473",
+    "basay": "basaw",
+    "category": "32",
+    "zh": [
+      "冷的（指剩飯）",
+      "剩菜"
+    ],
+    "en": [
+      "cold, of leftover food; leftovers from a meal 7066"
+    ]
+  },
+  {
+    "id": "2474",
+    "basay": "basay",
+    "category": "08",
+    "zh": [
+      "多毛藤本植物：Pueraria hirsuta"
+    ],
+    "en": [
+      "a hairy vine: Pueraria hirsuta 7070"
+    ]
+  },
+  {
+    "id": "2475",
+    "basay": "batu",
+    "category": "25",
+    "zh": [
+      "丟擲"
+    ],
+    "en": [
+      "to throw 6501"
+    ]
+  },
+  {
+    "id": "2476",
+    "basay": "batux",
+    "category": "06",
+    "zh": [
+      "石頭",
+      "睪丸"
+    ],
+    "en": [
+      "stone; testicle 6485"
+    ]
+  },
+  {
+    "id": "2477",
+    "basay": "bayu",
+    "category": "25",
+    "zh": [
+      "舂米"
+    ],
+    "en": [
+      "to pound rice 6785"
+    ]
+  },
+  {
+    "id": "2478",
+    "basay": "beteng",
+    "category": "08",
+    "zh": [
+      "一種小米，可能是黍（Setaria italica）"
+    ],
+    "en": [
+      "millet sp., probably foxtail millet: Setaria italica 811"
+    ]
+  },
+  {
+    "id": "2479",
+    "basay": "betik",
+    "category": "34",
+    "zh": [
+      "刺青"
+    ],
+    "en": [
+      "tattoo 813"
+    ]
+  },
+  {
+    "id": "2480",
+    "basay": "betu",
+    "category": "11",
+    "zh": [
+      "水泡",
+      "繭"
+    ],
+    "en": [
+      "callus, blister 820"
+    ]
+  },
+  {
+    "id": "2481",
+    "basay": "bedul",
+    "category": "06",
+    "zh": [
+      "身體腫脹"
+    ],
+    "en": [
+      "swelling of the body 824"
+    ]
+  },
+  {
+    "id": "2482",
+    "basay": "bejbej",
+    "category": "14",
+    "zh": [
+      "繞纏",
+      "包裹",
+      "成捆物"
+    ],
+    "en": [
+      "wrap around repeatedly, bind by wrapping; bundle of wrapped material 830"
+    ]
+  },
+  {
+    "id": "2483",
+    "basay": "bekas",
+    "category": "15",
+    "zh": [
+      "啟動陷阱"
+    ],
+    "en": [
+      "to spring a trap 842"
+    ]
+  },
+  {
+    "id": "2484",
+    "basay": "bekas",
+    "category": "34",
+    "zh": [
+      "快速的"
+    ],
+    "en": [
+      "swift, fast 843"
+    ]
+  },
+  {
+    "id": "2485",
+    "basay": "bekbek",
+    "category": "23",
+    "zh": [
+      "破裂聲"
+    ],
+    "en": [
+      "sound of breaking, etc. 855"
+    ]
+  },
+  {
+    "id": "2486",
+    "basay": "bekut",
+    "category": "06",
+    "zh": [
+      "彎腰",
+      "彎下（人）",
+      "駝背"
+    ],
+    "en": [
+      "to bend over, bend down (of a person); hunchbacked 868"
+    ]
+  },
+  {
+    "id": "2487",
+    "basay": "belaq",
+    "category": "01",
+    "zh": [
+      "被分裂的一部分"
+    ],
+    "en": [
+      "part of something split 879"
+    ]
+  },
+  {
+    "id": "2488",
+    "basay": "beli",
+    "category": "25",
+    "zh": [
+      "購買"
+    ],
+    "en": [
+      "to buy 909"
+    ]
+  },
+  {
+    "id": "2489",
+    "basay": "benan",
+    "category": "07",
+    "zh": [
+      "鹿（Cervus 屬，如梅花鹿或水鹿）"
+    ],
+    "en": [
+      "deer of the genus Cervus, either the sika deer or sambar deer 7228"
+    ]
+  },
+  {
+    "id": "2490",
+    "basay": "benben",
+    "category": "08",
+    "zh": [
+      "香蕉（Musa sapientum）"
+    ],
+    "en": [
+      "banana: Musa sapientum L. 6559"
+    ]
+  },
+  {
+    "id": "2491",
+    "basay": "benelem",
+    "category": "11",
+    "zh": [
+      "陰天",
+      "暮色"
+    ],
+    "en": [
+      "overcast, twilight 10931"
+    ]
+  },
+  {
+    "id": "2492",
+    "basay": "benut",
+    "category": "25",
+    "zh": [
+      "拔出",
+      "抽出"
+    ],
+    "en": [
+      "pull out, extract 945"
+    ]
+  },
+  {
+    "id": "2493",
+    "basay": "bengbeng",
+    "category": "12",
+    "zh": [
+      "被牆或布幕擋住"
+    ],
+    "en": [
+      "blocked, as by a wall or curtain 1061"
+    ]
+  },
+  {
+    "id": "2494",
+    "basay": "bengbeng",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "嗡鳴"
+    ],
+    "en": [
+      "buzz, hum 1064"
+    ]
+  },
+  {
+    "id": "2495",
+    "basay": "beriq",
+    "category": "25",
+    "zh": [
+      "裂開",
+      "撕開"
+    ],
+    "en": [
+      "split, tear open 973"
+    ]
+  },
+  {
+    "id": "2496",
+    "basay": "beRas",
+    "category": "14",
+    "zh": [
+      "去殼後的稻米（介於收割和煮食之間）"
+    ],
+    "en": [
+      "rice between harvesting and cooking; husked rice 950"
+    ]
+  },
+  {
+    "id": "2497",
+    "basay": "beRas-an",
+    "category": "09",
+    "zh": [
+      "儲米容器"
+    ],
+    "en": [
+      "container in which rice is stored 952"
+    ]
+  },
+  {
+    "id": "2498",
+    "basay": "beRay",
+    "category": "25",
+    "zh": [
+      "給予"
+    ],
+    "en": [
+      "give 957"
+    ]
+  },
+  {
+    "id": "2499",
+    "basay": "beRek",
+    "category": "07",
+    "zh": [
+      "家豬"
+    ],
+    "en": [
+      "domesticated pig 965"
+    ]
+  },
+  {
+    "id": "2500",
+    "basay": "beReqang",
+    "category": "06",
+    "zh": [
+      "臼齒"
+    ],
+    "en": [
+      "molar tooth 970"
+    ]
+  },
+  {
+    "id": "2501",
+    "basay": "beRngaw",
+    "category": "07",
+    "zh": [
+      "青蠅",
+      "大蒼蠅"
+    ],
+    "en": [
+      "bluebottle, large fly 993"
+    ]
+  },
+  {
+    "id": "2502",
+    "basay": "beRngi-n",
+    "category": "13",
+    "zh": [
+      "夜晚"
+    ],
+    "en": [
+      "night 998"
+    ]
+  },
+  {
+    "id": "2503",
+    "basay": "beRus",
+    "category": "08",
+    "zh": [
+      "植物：黃連木（Rhus semialata）"
+    ],
+    "en": [
+      "a plant: Rhus semialata 6560"
+    ]
+  },
+  {
+    "id": "2504",
+    "basay": "bes",
+    "category": "23",
+    "zh": [
+      "呼嘯聲"
+    ],
+    "en": [
+      "whizzing sound 1019"
+    ]
+  },
+  {
+    "id": "2505",
+    "basay": "besuR",
+    "category": "27",
+    "zh": [
+      "飽足的",
+      "吃得滿意的"
+    ],
+    "en": [
+      "satisfied from having eaten enough, satiated 1011"
+    ]
+  },
+  {
+    "id": "2506",
+    "basay": "betak",
+    "category": "18",
+    "zh": [
+      "裂縫",
+      "如乾地裂開"
+    ],
+    "en": [
+      "crack, split open (as dry ground) 1020"
+    ]
+  },
+  {
+    "id": "2507",
+    "basay": "beties",
+    "category": "06",
+    "zh": [
+      "小腿肚"
+    ],
+    "en": [
+      "calf of the leg 1035"
+    ]
+  },
+  {
+    "id": "2508",
+    "basay": "betik",
+    "category": "25",
+    "zh": [
+      "彈指",
+      "用指頭彈"
+    ],
+    "en": [
+      "snap the fingers; flick with the finger, fillip 1037"
+    ]
+  },
+  {
+    "id": "2509",
+    "basay": "betung",
+    "category": "08",
+    "zh": [
+      "粗大竹子，可能為Dendrocalamus屬"
+    ],
+    "en": [
+      "bamboo of very large diameter, probably Dendrocalamus sp. 1046"
+    ]
+  },
+  {
+    "id": "2510",
+    "basay": "biat",
+    "category": "09",
+    "zh": [
+      "拉滿弓"
+    ],
+    "en": [
+      "draw a bow to its full extent 1096"
+    ]
+  },
+  {
+    "id": "2511",
+    "basay": "bituka",
+    "category": "06",
+    "zh": [
+      "胃"
+    ],
+    "en": [
+      "stomach 1106"
+    ]
+  },
+  {
+    "id": "2512",
+    "basay": "bilang",
+    "category": "01",
+    "zh": [
+      "計算",
+      "珍視"
+    ],
+    "en": [
+      "to count, calculate; hold valuable 1148"
+    ]
+  },
+  {
+    "id": "2513",
+    "basay": "bilin",
+    "category": "25",
+    "zh": [
+      "跟隨，走在某人後面"
+    ],
+    "en": [
+      "to follow after someone, walk behind 7115"
+    ]
+  },
+  {
+    "id": "2514",
+    "basay": "b<in>ahi",
+    "category": "04",
+    "zh": [
+      "女性，妻子"
+    ],
+    "en": [
+      "woman, wife 6941"
+    ]
+  },
+  {
+    "id": "2515",
+    "basay": "b<in>etik",
+    "category": "34",
+    "zh": [
+      "有刺青的",
+      "有紋飾的"
+    ],
+    "en": [
+      "tattooed, marked with a design 815"
+    ]
+  },
+  {
+    "id": "2516",
+    "basay": "b<in>elaq",
+    "category": "01",
+    "zh": [
+      "被分裂，裂為兩半"
+    ],
+    "en": [
+      "to have been split, cloven in two 881"
+    ]
+  },
+  {
+    "id": "2517",
+    "basay": "binesiq",
+    "category": "08",
+    "zh": [
+      "留種用的種子"
+    ],
+    "en": [
+      "seed set aside for the next planting 1190"
+    ]
+  },
+  {
+    "id": "2518",
+    "basay": "b<in>uRuk",
+    "category": "25",
+    "zh": [
+      "腐爛了"
+    ],
+    "en": [
+      "to have become rotten 1771"
+    ]
+  },
+  {
+    "id": "2519",
+    "basay": "binit",
+    "category": "25",
+    "zh": [
+      "手中握持"
+    ],
+    "en": [
+      "hold in the hand 1194"
+    ]
+  },
+  {
+    "id": "2520",
+    "basay": "bingit",
+    "category": "35",
+    "zh": [
+      "情緒不穩",
+      "煩躁"
+    ],
+    "en": [
+      "moody, irritable 1309"
+    ]
+  },
+  {
+    "id": "2521",
+    "basay": "biqel",
+    "category": "34",
+    "zh": [
+      "甲狀腺腫"
+    ],
+    "en": [
+      "goiter 6463"
+    ]
+  },
+  {
+    "id": "2522",
+    "basay": "biqiR",
+    "category": "35",
+    "zh": [
+      "傾斜",
+      "不平衡"
+    ],
+    "en": [
+      "lopsided, off-balance 1213"
+    ]
+  },
+  {
+    "id": "2523",
+    "basay": "biqut",
+    "category": "32",
+    "zh": [
+      "彎曲的"
+    ],
+    "en": [
+      "curved, crooked, bent 1215"
+    ]
+  },
+  {
+    "id": "2524",
+    "basay": "birang",
+    "category": "29",
+    "zh": [
+      "生氣",
+      "憤怒"
+    ],
+    "en": [
+      "anger, angry 1234"
+    ]
+  },
+  {
+    "id": "2525",
+    "basay": "birbir",
+    "category": "34",
+    "zh": [
+      "顫抖",
+      "發抖"
+    ],
+    "en": [
+      "shiver, shake, tremble 1240"
+    ]
+  },
+  {
+    "id": "2526",
+    "basay": "birit",
+    "category": "25",
+    "zh": [
+      "撕裂"
+    ],
+    "en": [
+      "to tear, rip 1242"
+    ]
+  },
+  {
+    "id": "2527",
+    "basay": "biRaq",
+    "category": "08",
+    "zh": [
+      "野芋（Alocasia spp.），又名象耳芋",
+      "刺人芋"
+    ],
+    "en": [
+      "wild taro, elephant's ear or itching taro, Alocasiaspp. 1218"
+    ]
+  },
+  {
+    "id": "2528",
+    "basay": "biRas",
+    "category": "07",
+    "zh": [
+      "魚卵"
+    ],
+    "en": [
+      "roe, fish eggs 1224"
+    ]
+  },
+  {
+    "id": "2529",
+    "basay": "biRasu",
+    "category": "08",
+    "zh": [
+      "芒草（Miscanthus sp.）"
+    ],
+    "en": [
+      "cane grass, Miscanthus sp. 1223"
+    ]
+  },
+  {
+    "id": "2530",
+    "basay": "biRbiR",
+    "category": "34",
+    "zh": [
+      "嘴唇"
+    ],
+    "en": [
+      "lip 1235"
+    ]
+  },
+  {
+    "id": "2531",
+    "basay": "bisuR",
+    "category": "27",
+    "zh": [
+      "飽足的",
+      "吃得滿意的"
+    ],
+    "en": [
+      "satisfied from having eaten enough, satiated 1269"
+    ]
+  },
+  {
+    "id": "2532",
+    "basay": "bitbit",
+    "category": "25",
+    "zh": [
+      "拉扯身體某部位"
+    ],
+    "en": [
+      "pull at some part of the body 1278"
+    ]
+  },
+  {
+    "id": "2533",
+    "basay": "bituqen",
+    "category": "11",
+    "zh": [
+      "星星"
+    ],
+    "en": [
+      "star 1295"
+    ]
+  },
+  {
+    "id": "2534",
+    "basay": "bua",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "泡泡",
+      "浮沫"
+    ],
+    "en": [
+      "foam, bubbles, froth 1356"
+    ]
+  },
+  {
+    "id": "2535",
+    "basay": "buak",
+    "category": "11",
+    "zh": [
+      "冒泡（如泉水）"
+    ],
+    "en": [
+      "bubbling up (as spring water) 1325"
+    ]
+  },
+  {
+    "id": "2536",
+    "basay": "bual",
+    "category": "11",
+    "zh": [
+      "泉水",
+      "淡水源"
+    ],
+    "en": [
+      "spring, source of fresh water 1327"
+    ]
+  },
+  {
+    "id": "2537",
+    "basay": "buaq",
+    "category": "08",
+    "zh": [
+      "果實"
+    ],
+    "en": [
+      "fruit 1329"
+    ]
+  },
+  {
+    "id": "2538",
+    "basay": "buay",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 1355"
+    ]
+  },
+  {
+    "id": "2539",
+    "basay": "bubu",
+    "category": "07",
+    "zh": [
+      "錐形竹魚籠"
+    ],
+    "en": [
+      "conical bamboo basket trap for fish 1366"
+    ]
+  },
+  {
+    "id": "2540",
+    "basay": "bubu",
+    "category": "04",
+    "zh": [
+      "祖孫（互稱用語）"
+    ],
+    "en": [
+      "grandparent/grandchild (reciprocal term of address) 1370"
+    ]
+  },
+  {
+    "id": "2541",
+    "basay": "bubuR",
+    "category": "04",
+    "zh": [
+      "水母"
+    ],
+    "en": [
+      "jellyfish 1365"
+    ]
+  },
+  {
+    "id": "2542",
+    "basay": "buta",
+    "category": "06",
+    "zh": [
+      "眼中的微粒",
+      "失明",
+      "盲"
+    ],
+    "en": [
+      "mote in the eye; blind; blindness 1381"
+    ]
+  },
+  {
+    "id": "2543",
+    "basay": "buta-en mata",
+    "category": "06",
+    "zh": [
+      "眼中進微粒"
+    ],
+    "en": [
+      "get a mote in the eye 1386"
+    ]
+  },
+  {
+    "id": "2544",
+    "basay": "butaq",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "浮沫"
+    ],
+    "en": [
+      "foam, froth 1380"
+    ]
+  },
+  {
+    "id": "2545",
+    "basay": "butbut",
+    "category": "08",
+    "zh": [
+      "拔除（如雜草），拔掉（如羽毛）"
+    ],
+    "en": [
+      "pull up (as weeds), pluck (as feathers) 1393"
+    ]
+  },
+  {
+    "id": "2546",
+    "basay": "butu",
+    "category": "11",
+    "zh": [
+      "水泡",
+      "繭"
+    ],
+    "en": [
+      "callus, corn; blister 1405"
+    ]
+  },
+  {
+    "id": "2547",
+    "basay": "butuq",
+    "category": "34",
+    "zh": [
+      "睪丸"
+    ],
+    "en": [
+      "testicles 1401"
+    ]
+  },
+  {
+    "id": "2548",
+    "basay": "buhang",
+    "category": "10",
+    "zh": [
+      "洞",
+      "坑"
+    ],
+    "en": [
+      "hole, pit 1449"
+    ]
+  },
+  {
+    "id": "2549",
+    "basay": "buhet",
+    "category": "07",
+    "zh": [
+      "松鼠"
+    ],
+    "en": [
+      "squirrel 1450"
+    ]
+  },
+  {
+    "id": "2550",
+    "basay": "bujeq",
+    "category": "34",
+    "zh": [
+      "泡沫",
+      "泡泡",
+      "皂沫",
+      "浮渣"
+    ],
+    "en": [
+      "foam, bubbles, lather, scum, froth 1466"
+    ]
+  },
+  {
+    "id": "2551",
+    "basay": "bukas",
+    "category": "34",
+    "zh": [
+      "解開",
+      "釋放"
+    ],
+    "en": [
+      "release, undo 6713"
+    ]
+  },
+  {
+    "id": "2552",
+    "basay": "bukes",
+    "category": "06",
+    "zh": [
+      "頭髮"
+    ],
+    "en": [
+      "head hair 1499"
+    ]
+  },
+  {
+    "id": "2553",
+    "basay": "bukij",
+    "category": "10",
+    "zh": [
+      "山",
+      "山林地區"
+    ],
+    "en": [
+      "mountain; forested inland mountain areas 1506"
+    ]
+  },
+  {
+    "id": "2554",
+    "basay": "bukun",
+    "category": "06",
+    "zh": [
+      "背部（解剖學）"
+    ],
+    "en": [
+      "back (anat.) 9177"
+    ]
+  },
+  {
+    "id": "2555",
+    "basay": "bula",
+    "category": "25",
+    "zh": [
+      "給予"
+    ],
+    "en": [
+      "to give 7305"
+    ]
+  },
+  {
+    "id": "2556",
+    "basay": "bulan",
+    "category": "11",
+    "zh": [
+      "月亮",
+      "月份",
+      "月經"
+    ],
+    "en": [
+      "moon, month; menstruation 1533"
+    ]
+  },
+  {
+    "id": "2557",
+    "basay": "bulaR",
+    "category": "06",
+    "zh": [
+      "白內障",
+      "視力模糊"
+    ],
+    "en": [
+      "cataract of the eye; hazy or blurred vision 1552"
+    ]
+  },
+  {
+    "id": "2558",
+    "basay": "bulaw",
+    "category": "22",
+    "zh": [
+      "金黃色"
+    ],
+    "en": [
+      "golden colored 1560"
+    ]
+  },
+  {
+    "id": "2559",
+    "basay": "bulaw-an",
+    "category": "22",
+    "zh": [
+      "黃金"
+    ],
+    "en": [
+      "gold 1561"
+    ]
+  },
+  {
+    "id": "2560",
+    "basay": "bulbul",
+    "category": "10",
+    "zh": [
+      "灰塵",
+      "碎石粉末"
+    ],
+    "en": [
+      "dust, pulverized stone 1568"
+    ]
+  },
+  {
+    "id": "2561",
+    "basay": "buled",
+    "category": "10",
+    "zh": [
+      "山"
+    ],
+    "en": [
+      "mountain 1570"
+    ]
+  },
+  {
+    "id": "2562",
+    "basay": "bules",
+    "category": "08",
+    "zh": [
+      "樹種：中國或菲律賓桃花心木（Shorea albus）"
+    ],
+    "en": [
+      "a tree, the Chinese or Philippine mahogany: Shorea albus Foxw. 12773"
+    ]
+  },
+  {
+    "id": "2563",
+    "basay": "buli-",
+    "category": "36",
+    "zh": [
+      "qali / kali- 系列的前綴"
+    ],
+    "en": [
+      "prefix of the *qali, *kali- series 1591"
+    ]
+  },
+  {
+    "id": "2564",
+    "basay": "bulilik",
+    "category": "07",
+    "zh": [
+      "蜥蜴（一種）"
+    ],
+    "en": [
+      "lizard sp. 1580"
+    ]
+  },
+  {
+    "id": "2565",
+    "basay": "bulun",
+    "category": "34",
+    "zh": [
+      "同伴者",
+      "夥伴"
+    ],
+    "en": [
+      "companion 1597"
+    ]
+  },
+  {
+    "id": "2566",
+    "basay": "buluq",
+    "category": "08",
+    "zh": [
+      "一種細竹（Schizostachyum 屬）"
+    ],
+    "en": [
+      "type of slender bamboo; Schizostachyum spp. 1601"
+    ]
+  },
+  {
+    "id": "2567",
+    "basay": "b<um>aliw",
+    "category": "34",
+    "zh": [
+      "買"
+    ],
+    "en": [
+      "buy 6558"
+    ]
+  },
+  {
+    "id": "2568",
+    "basay": "b<um>asuq",
+    "category": "25",
+    "zh": [
+      "洗滌"
+    ],
+    "en": [
+      "to wash 6456"
+    ]
+  },
+  {
+    "id": "2569",
+    "basay": "bunabun",
+    "category": "34",
+    "zh": [
+      "稻苗"
+    ],
+    "en": [
+      "rice seedling 1632"
+    ]
+  },
+  {
+    "id": "2570",
+    "basay": "bunaj",
+    "category": "10",
+    "zh": [
+      "沙",
+      "砂"
+    ],
+    "en": [
+      "sand 11687"
+    ]
+  },
+  {
+    "id": "2571",
+    "basay": "bunuR",
+    "category": "25",
+    "zh": [
+      "腫脹",
+      "腫了"
+    ],
+    "en": [
+      "to swell; swollen 7293"
+    ]
+  },
+  {
+    "id": "2572",
+    "basay": "bunus",
+    "category": "10",
+    "zh": [
+      "山刀",
+      "開山刀"
+    ],
+    "en": [
+      "machete 6561"
+    ]
+  },
+  {
+    "id": "2573",
+    "basay": "bunbun",
+    "category": "06",
+    "zh": [
+      "囟門",
+      "頭頂"
+    ],
+    "en": [
+      "fontanelle; crown of the head 1638"
+    ]
+  },
+  {
+    "id": "2574",
+    "basay": "buni",
+    "category": "25",
+    "zh": [
+      "藏起來",
+      "隱藏"
+    ],
+    "en": [
+      "to hide, conceal 1647"
+    ]
+  },
+  {
+    "id": "2575",
+    "basay": "bunuq",
+    "category": "11",
+    "zh": [
+      "星座：昴宿（Pleiades）"
+    ],
+    "en": [
+      "a constellation: the Pleiades 1681"
+    ]
+  },
+  {
+    "id": "2576",
+    "basay": "bunuq",
+    "category": "09",
+    "zh": [
+      "投擲",
+      "用拋射物打"
+    ],
+    "en": [
+      "throw at, hit with a projectile 1684"
+    ]
+  },
+  {
+    "id": "2577",
+    "basay": "bunga",
+    "category": "08",
+    "zh": [
+      "花",
+      "開花"
+    ],
+    "en": [
+      "flower, blossom 7349"
+    ]
+  },
+  {
+    "id": "2578",
+    "basay": "bunguh",
+    "category": "06",
+    "zh": [
+      "頭"
+    ],
+    "en": [
+      "head 12775"
+    ]
+  },
+  {
+    "id": "2579",
+    "basay": "bunguR",
+    "category": "08",
+    "zh": [
+      "樹木（一種）"
+    ],
+    "en": [
+      "tree sp. 1913"
+    ]
+  },
+  {
+    "id": "2580",
+    "basay": "buqaya",
+    "category": "07",
+    "zh": [
+      "鱷魚"
+    ],
+    "en": [
+      "crocodile 1710"
+    ]
+  },
+  {
+    "id": "2581",
+    "basay": "buRaw",
+    "category": "34",
+    "zh": [
+      "趕走",
+      "驅逐",
+      "驅趕"
+    ],
+    "en": [
+      "drive off, chase away, expel 1737"
+    ]
+  },
+  {
+    "id": "2582",
+    "basay": "buRay",
+    "category": "08",
+    "zh": [
+      "花朵"
+    ],
+    "en": [
+      "flower 7417"
+    ]
+  },
+  {
+    "id": "2583",
+    "basay": "buRes",
+    "category": "06",
+    "zh": [
+      "噴水（從嘴中）"
+    ],
+    "en": [
+      "spray water from the mouth 1751"
+    ]
+  },
+  {
+    "id": "2584",
+    "basay": "buRuk",
+    "category": "21",
+    "zh": [
+      "腐肉",
+      "壞掉的蛋",
+      "敗壞品性"
+    ],
+    "en": [
+      "rotten meat; addled eggs; bad character 1770"
+    ]
+  },
+  {
+    "id": "2585",
+    "basay": "busuR",
+    "category": "05",
+    "zh": [
+      "敵人"
+    ],
+    "en": [
+      "enemy 1796"
+    ]
+  },
+  {
+    "id": "2586",
+    "basay": "busuR",
+    "category": "09",
+    "zh": [
+      "獵弓"
+    ],
+    "en": [
+      "hunting bow 1797"
+    ]
+  },
+  {
+    "id": "2587",
+    "basay": "busuk",
+    "category": "34",
+    "zh": [
+      "醉酒",
+      "陶醉狀態"
+    ],
+    "en": [
+      "drunkenness, intoxication 1786"
+    ]
+  },
+  {
+    "id": "2588",
+    "basay": "buung",
+    "category": "23",
+    "zh": [
+      "嗡嗡聲",
+      "低鳴"
+    ],
+    "en": [
+      "buzzing or humming sound 1850"
+    ]
+  },
+  {
+    "id": "2589",
+    "basay": "tabtab",
+    "category": "25",
+    "zh": [
+      "拍擊",
+      "敲打",
+      "砍劈"
+    ],
+    "en": [
+      "clap, beat, hack 1935"
+    ]
+  },
+  {
+    "id": "2590",
+    "basay": "tabu",
+    "category": "25",
+    "zh": [
+      "包裹",
+      "包起來"
+    ],
+    "en": [
+      "to wrap 6635"
+    ]
+  },
+  {
+    "id": "2591",
+    "basay": "ta-tapuh",
+    "category": "34",
+    "zh": [
+      "掃帚"
+    ],
+    "en": [
+      "broom 6563"
+    ]
+  },
+  {
+    "id": "2592",
+    "basay": "ta-taqis",
+    "category": "18",
+    "zh": [
+      "縫紉用線（？）"
+    ],
+    "en": [
+      "thread used for sewing (?) 1999"
+    ]
+  },
+  {
+    "id": "2593",
+    "basay": "tataw",
+    "category": "06",
+    "zh": [
+      "瞳孔"
+    ],
+    "en": [
+      "pupil of the eye 1936"
+    ]
+  },
+  {
+    "id": "2594",
+    "basay": "ta-tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2025"
+    ]
+  },
+  {
+    "id": "2595",
+    "basay": "takaw",
+    "category": "34",
+    "zh": [
+      "偷竊"
+    ],
+    "en": [
+      "steal 1937"
+    ]
+  },
+  {
+    "id": "2596",
+    "basay": "takaw-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 1950"
+    ]
+  },
+  {
+    "id": "2597",
+    "basay": "taki",
+    "category": "09",
+    "zh": [
+      "排泄物",
+      "糞便"
+    ],
+    "en": [
+      "feces, excreta 1955"
+    ]
+  },
+  {
+    "id": "2598",
+    "basay": "tali",
+    "category": "08",
+    "zh": [
+      "芋頭（栽培種，Colocasia esculenta）"
+    ],
+    "en": [
+      "cultivated taro: Colocasia esculenta 6621"
+    ]
+  },
+  {
+    "id": "2599",
+    "basay": "talinga",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "en": [
+      "ear 1973"
+    ]
+  },
+  {
+    "id": "2600",
+    "basay": "talinga nu kasiw",
+    "category": "08",
+    "zh": [
+      "木耳（一種生於樹幹上的半圓形食用菌）"
+    ],
+    "en": [
+      "wood ear, semicircular edible fungus which grows on tree trunks 1975"
+    ]
+  },
+  {
+    "id": "2601",
+    "basay": "talis",
+    "category": "18",
+    "zh": [
+      "繩子",
+      "細繩",
+      "線",
+      "繩索"
+    ],
+    "en": [
+      "rope, cord, twine, string 1959"
+    ]
+  },
+  {
+    "id": "2602",
+    "basay": "talun",
+    "category": "15",
+    "zh": [
+      "休耕地",
+      "次生林"
+    ],
+    "en": [
+      "fallow land; secondary forest 1977"
+    ]
+  },
+  {
+    "id": "2603",
+    "basay": "tanem",
+    "category": "25",
+    "zh": [
+      "墳墓",
+      "埋葬"
+    ],
+    "en": [
+      "grave; to bury 7437"
+    ]
+  },
+  {
+    "id": "2604",
+    "basay": "tanem-en",
+    "category": "15",
+    "zh": [
+      "所埋之物或所種之物"
+    ],
+    "en": [
+      "what is buried or planted 7451"
+    ]
+  },
+  {
+    "id": "2605",
+    "basay": "tanum",
+    "category": "11",
+    "zh": [
+      "提水",
+      "挑水"
+    ],
+    "en": [
+      "carry water 7454"
+    ]
+  },
+  {
+    "id": "2606",
+    "basay": "tangelaj",
+    "category": "08",
+    "zh": [
+      "象草",
+      "五節芒（Themeda gigantea）"
+    ],
+    "en": [
+      "elephant grass, miscanthus grass: Themeda gigantea 10710"
+    ]
+  },
+  {
+    "id": "2607",
+    "basay": "tangila",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "en": [
+      "ear 2037"
+    ]
+  },
+  {
+    "id": "2608",
+    "basay": "tangis",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "哀悼",
+      "懇求"
+    ],
+    "en": [
+      "weep, cry; mourn; to beseech 2039"
+    ]
+  },
+  {
+    "id": "2609",
+    "basay": "tangis-an",
+    "category": "05",
+    "zh": [
+      "為某事或某人而哭"
+    ],
+    "en": [
+      "to cry over something or someone 7774"
+    ]
+  },
+  {
+    "id": "2610",
+    "basay": "tapa",
+    "category": "07",
+    "zh": [
+      "燻魚或燻肉（保存用）"
+    ],
+    "en": [
+      "to smoke fish or meat for preservation 1981"
+    ]
+  },
+  {
+    "id": "2611",
+    "basay": "tapang",
+    "category": "34",
+    "zh": [
+      "補丁"
+    ],
+    "en": [
+      "a patch, as on clothing 1988"
+    ]
+  },
+  {
+    "id": "2612",
+    "basay": "tapel",
+    "category": "25",
+    "zh": [
+      "補丁",
+      "補綴"
+    ],
+    "en": [
+      "a patch; to patch 1990"
+    ]
+  },
+  {
+    "id": "2613",
+    "basay": "tapuh",
+    "category": "34",
+    "zh": [
+      "掃（地）"
+    ],
+    "en": [
+      "sweep 6562"
+    ]
+  },
+  {
+    "id": "2614",
+    "basay": "taqi",
+    "category": "09",
+    "zh": [
+      "排泄物",
+      "糞便"
+    ],
+    "en": [
+      "feces, excrement 2004"
+    ]
+  },
+  {
+    "id": "2615",
+    "basay": "taqis",
+    "category": "18",
+    "zh": [
+      "縫紉"
+    ],
+    "en": [
+      "to sew 1997"
+    ]
+  },
+  {
+    "id": "2616",
+    "basay": "taqis-an",
+    "category": "18",
+    "zh": [
+      "縫紉的場所"
+    ],
+    "en": [
+      "place of sewing 2000"
+    ]
+  },
+  {
+    "id": "2617",
+    "basay": "taqu",
+    "category": "24",
+    "zh": [
+      "會",
+      "能夠",
+      "擅長"
+    ],
+    "en": [
+      "to know how, be able to, be skilled at 7838"
+    ]
+  },
+  {
+    "id": "2618",
+    "basay": "taqu-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7843"
+    ]
+  },
+  {
+    "id": "2619",
+    "basay": "tasaw",
+    "category": "11",
+    "zh": [
+      "戶外",
+      "露天"
+    ],
+    "en": [
+      "open-air; outdoors 2011"
+    ]
+  },
+  {
+    "id": "2620",
+    "basay": "tau",
+    "category": "05",
+    "zh": [
+      "人",
+      "人類"
+    ],
+    "en": [
+      "person, human being 2014"
+    ]
+  },
+  {
+    "id": "2621",
+    "basay": "tau tau",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 2021"
+    ]
+  },
+  {
+    "id": "2622",
+    "basay": "tau nu mata",
+    "category": "06",
+    "zh": [
+      "瞳孔（直譯：「眼中之人」）"
+    ],
+    "en": [
+      "pupil of the eye (‘person of the eye’) 8614"
+    ]
+  },
+  {
+    "id": "2623",
+    "basay": "tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2023"
+    ]
+  },
+  {
+    "id": "2624",
+    "basay": "tawin",
+    "category": "13",
+    "zh": [
+      "年",
+      "歲"
+    ],
+    "en": [
+      "year 6564"
+    ]
+  },
+  {
+    "id": "2625",
+    "basay": "tazem",
+    "category": "32",
+    "zh": [
+      "鋒利（指刀刃等）"
+    ],
+    "en": [
+      "sharp (of point or blade) 2032"
+    ]
+  },
+  {
+    "id": "2626",
+    "basay": "tebak",
+    "category": "34",
+    "zh": [
+      "撞擊"
+    ],
+    "en": [
+      "smack against 2048"
+    ]
+  },
+  {
+    "id": "2627",
+    "basay": "tebej",
+    "category": "11",
+    "zh": [
+      "泉水",
+      "湧泉"
+    ],
+    "en": [
+      "spring of water, spring water 12122"
+    ]
+  },
+  {
+    "id": "2628",
+    "basay": "tebiq",
+    "category": "25",
+    "zh": [
+      "裂開",
+      "分裂",
+      "斷裂"
+    ],
+    "en": [
+      "split, divide, break off 6538"
+    ]
+  },
+  {
+    "id": "2629",
+    "basay": "tebuj",
+    "category": "11",
+    "zh": [
+      "天然湧泉",
+      "淡水泉源"
+    ],
+    "en": [
+      "natural spring, fresh water spring 2050"
+    ]
+  },
+  {
+    "id": "2630",
+    "basay": "tebuk",
+    "category": "23",
+    "zh": [
+      "重擊聲",
+      "咚咚聲"
+    ],
+    "en": [
+      "thud 2052"
+    ]
+  },
+  {
+    "id": "2631",
+    "basay": "tebun",
+    "category": "11",
+    "zh": [
+      "煙"
+    ],
+    "en": [
+      "smoke 6637"
+    ]
+  },
+  {
+    "id": "2632",
+    "basay": "tebung",
+    "category": "25",
+    "zh": [
+      "相遇",
+      "會合"
+    ],
+    "en": [
+      "to meet, come together 7116"
+    ]
+  },
+  {
+    "id": "2633",
+    "basay": "tebus",
+    "category": "34",
+    "zh": [
+      "甘蔗（Saccharum officinarum）"
+    ],
+    "en": [
+      "sugarcane: Saccharum officinarum 2054"
+    ]
+  },
+  {
+    "id": "2634",
+    "basay": "tegteg",
+    "category": "25",
+    "zh": [
+      "敲打",
+      "拍擊"
+    ],
+    "en": [
+      "beat, pound, hit 2056"
+    ]
+  },
+  {
+    "id": "2635",
+    "basay": "tegteg",
+    "category": "32",
+    "zh": [
+      "擊打",
+      "重擊"
+    ],
+    "en": [
+      "to beat, pound on 5459"
+    ]
+  },
+  {
+    "id": "2636",
+    "basay": "tektek",
+    "category": "18",
+    "zh": [
+      "穿透",
+      "刺入"
+    ],
+    "en": [
+      "pierce, penetrate 2059"
+    ]
+  },
+  {
+    "id": "2637",
+    "basay": "teked",
+    "category": "24",
+    "zh": [
+      "休息",
+      "暫停工作或活動"
+    ],
+    "en": [
+      "to rest, take a break from work or other activity 11688"
+    ]
+  },
+  {
+    "id": "2638",
+    "basay": "tekes",
+    "category": "08",
+    "zh": [
+      "一種非常細的竹子"
+    ],
+    "en": [
+      "kind of very slender bamboo 6622"
+    ]
+  },
+  {
+    "id": "2639",
+    "basay": "telaq",
+    "category": "18",
+    "zh": [
+      "裂縫",
+      "裂痕"
+    ],
+    "en": [
+      "crack, split, fissure 2063"
+    ]
+  },
+  {
+    "id": "2640",
+    "basay": "teltel",
+    "category": "25",
+    "zh": [
+      "敲打",
+      "拍打"
+    ],
+    "en": [
+      "beat, pound 2065"
+    ]
+  },
+  {
+    "id": "2641",
+    "basay": "teme-temel",
+    "category": "10",
+    "zh": [
+      "荒地"
+    ],
+    "en": [
+      "uncultivated land 6566"
+    ]
+  },
+  {
+    "id": "2642",
+    "basay": "temel",
+    "category": "08",
+    "zh": [
+      "草",
+      "草藥",
+      "藥物"
+    ],
+    "en": [
+      "grass, herbs; medicine 6565"
+    ]
+  },
+  {
+    "id": "2643",
+    "basay": "tenek",
+    "category": "34",
+    "zh": [
+      "荊棘",
+      "刺"
+    ],
+    "en": [
+      "thorn 2069"
+    ]
+  },
+  {
+    "id": "2644",
+    "basay": "teRab",
+    "category": "34",
+    "zh": [
+      "打嗝"
+    ],
+    "en": [
+      "a belch 2072"
+    ]
+  },
+  {
+    "id": "2645",
+    "basay": "tesek",
+    "category": "18",
+    "zh": [
+      "插入",
+      "穿刺",
+      "貫穿"
+    ],
+    "en": [
+      "insert, pierce, penetrate 2077"
+    ]
+  },
+  {
+    "id": "2646",
+    "basay": "tidu",
+    "category": "21",
+    "zh": [
+      "湯匙",
+      "勺子",
+      "舀子"
+    ],
+    "en": [
+      "spoon, ladle, dipper 2083"
+    ]
+  },
+  {
+    "id": "2647",
+    "basay": "tikel",
+    "category": "25",
+    "zh": [
+      "返回",
+      "回去"
+    ],
+    "en": [
+      "return, go back 2088"
+    ]
+  },
+  {
+    "id": "2648",
+    "basay": "t<in>akaw",
+    "category": "24",
+    "zh": [
+      "被偷之物",
+      "贓物",
+      "（被動過去）被偷了"
+    ],
+    "en": [
+      "what is stolen, stolen goods; was stolen (past tense of direct passive) 1948"
+    ]
+  },
+  {
+    "id": "2649",
+    "basay": "t<in>alis",
+    "category": "18",
+    "zh": [
+      "被編成繩的物品",
+      "製成繩索的東西"
+    ],
+    "en": [
+      "was made into rope; what was made into rope 1965"
+    ]
+  },
+  {
+    "id": "2650",
+    "basay": "t<in>apa",
+    "category": "07",
+    "zh": [
+      "燻魚或燻肉"
+    ],
+    "en": [
+      "smoked fish or meat 1986"
+    ]
+  },
+  {
+    "id": "2651",
+    "basay": "t<in>aqi",
+    "category": "32",
+    "zh": [
+      "小腸"
+    ],
+    "en": [
+      "small intestine 2006"
+    ]
+  },
+  {
+    "id": "2652",
+    "basay": "t<in>aqis",
+    "category": "18",
+    "zh": [
+      "縫製品",
+      "縫紉製成的物件"
+    ],
+    "en": [
+      "work produced by sewing or stitching 2003"
+    ]
+  },
+  {
+    "id": "2653",
+    "basay": "t<in>unuh",
+    "category": "27",
+    "zh": [
+      "被烤（被動語態）"
+    ],
+    "en": [
+      "be roasted (by someone) 2125"
+    ]
+  },
+  {
+    "id": "2654",
+    "basay": "tingas",
+    "category": "06",
+    "zh": [
+      "卡在牙縫中的食物殘渣"
+    ],
+    "en": [
+      "food particles caught between the teeth 2098"
+    ]
+  },
+  {
+    "id": "2655",
+    "basay": "tiqaw",
+    "category": "15",
+    "zh": [
+      "一種魚"
+    ],
+    "en": [
+      "fish sp. 2094"
+    ]
+  },
+  {
+    "id": "2656",
+    "basay": "-tu",
+    "category": "02",
+    "zh": [
+      "第二人稱複數指示詞與時空指涉：「那個」",
+      "「那裡」",
+      "「那時」"
+    ],
+    "en": [
+      "2pl deixis and spatio-temporal reference: that; there, then 2168"
+    ]
+  },
+  {
+    "id": "2657",
+    "basay": "tubuq",
+    "category": "08",
+    "zh": [
+      "植物幼芽"
+    ],
+    "en": [
+      "plant sprout 2106"
+    ]
+  },
+  {
+    "id": "2658",
+    "basay": "tugtug",
+    "category": "09",
+    "zh": [
+      "撞擊某物"
+    ],
+    "en": [
+      "hit something against something else 2113"
+    ]
+  },
+  {
+    "id": "2659",
+    "basay": "tugtug",
+    "category": "06",
+    "zh": [
+      "頭部碰撞"
+    ],
+    "en": [
+      "knock or bump the head 7931"
+    ]
+  },
+  {
+    "id": "2660",
+    "basay": "tukul",
+    "category": "06",
+    "zh": [
+      "蜷縮",
+      "低頭"
+    ],
+    "en": [
+      "huddle, bow the head 5706"
+    ]
+  },
+  {
+    "id": "2661",
+    "basay": "tuli",
+    "category": "34",
+    "zh": [
+      "聾"
+    ],
+    "en": [
+      "deaf 6917"
+    ]
+  },
+  {
+    "id": "2662",
+    "basay": "t<um>abu",
+    "category": "25",
+    "zh": [
+      "包裹",
+      "纏裹"
+    ],
+    "en": [
+      "to wrap 6636"
+    ]
+  },
+  {
+    "id": "2663",
+    "basay": "t<um>aki",
+    "category": "32",
+    "zh": [
+      "排便",
+      "大便"
+    ],
+    "en": [
+      "defecate 1957"
+    ]
+  },
+  {
+    "id": "2664",
+    "basay": "t<um>alis",
+    "category": "09",
+    "zh": [
+      "用繩子綁",
+      "繫緊"
+    ],
+    "en": [
+      "to tie with rope, fasten with rope 1967"
+    ]
+  },
+  {
+    "id": "2665",
+    "basay": "t<um>angis",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "哀悼"
+    ],
+    "en": [
+      "to weep, cry, mourn 7773"
+    ]
+  },
+  {
+    "id": "2666",
+    "basay": "t<um>apu",
+    "category": "25",
+    "zh": [
+      "掃除",
+      "打掃"
+    ],
+    "en": [
+      "to sweep 9609"
+    ]
+  },
+  {
+    "id": "2667",
+    "basay": "t<um>aqi",
+    "category": "25",
+    "zh": [
+      "排便"
+    ],
+    "en": [
+      "to defecate 2008"
+    ]
+  },
+  {
+    "id": "2668",
+    "basay": "t<um>aqis",
+    "category": "18",
+    "zh": [
+      "縫紉"
+    ],
+    "en": [
+      "to sew 2002"
+    ]
+  },
+  {
+    "id": "2669",
+    "basay": "tumay",
+    "category": "22",
+    "zh": [
+      "台灣黑熊"
+    ],
+    "en": [
+      "Formosan black bear 6567"
+    ]
+  },
+  {
+    "id": "2670",
+    "basay": "tumek",
+    "category": "34",
+    "zh": [
+      "磨碎",
+      "壓碎"
+    ],
+    "en": [
+      "pulverize; crumble 2118"
+    ]
+  },
+  {
+    "id": "2671",
+    "basay": "tumes",
+    "category": "06",
+    "zh": [
+      "體虱",
+      "衣虱"
+    ],
+    "en": [
+      "clothes louse; body louse 2119"
+    ]
+  },
+  {
+    "id": "2672",
+    "basay": "t<um>ubuq",
+    "category": "32",
+    "zh": [
+      "發芽",
+      "生長"
+    ],
+    "en": [
+      "to sprout, to grow 2108"
+    ]
+  },
+  {
+    "id": "2673",
+    "basay": "t<um>ugtug",
+    "category": "06",
+    "zh": [
+      "頭部撞擊",
+      "撞頭"
+    ],
+    "en": [
+      "knock or bump the head 7933"
+    ]
+  },
+  {
+    "id": "2674",
+    "basay": "t<um>unuh",
+    "category": "35",
+    "zh": [
+      "烘烤（不及物）"
+    ],
+    "en": [
+      "to roast (intr.) 2127"
+    ]
+  },
+  {
+    "id": "2675",
+    "basay": "t<um>usuR",
+    "category": "25",
+    "zh": [
+      "串珠等"
+    ],
+    "en": [
+      "to string beads, etc. 2153"
+    ]
+  },
+  {
+    "id": "2676",
+    "basay": "tunuh",
+    "category": "11",
+    "zh": [
+      "火上烤食物"
+    ],
+    "en": [
+      "roast food over a fire 2122"
+    ]
+  },
+  {
+    "id": "2677",
+    "basay": "tunuh-an",
+    "category": "27",
+    "zh": [
+      "烘烤"
+    ],
+    "en": [
+      "to roast 2129"
+    ]
+  },
+  {
+    "id": "2678",
+    "basay": "tungtung",
+    "category": "23",
+    "zh": [
+      "發出轟隆聲"
+    ],
+    "en": [
+      "make a booming sound 10559"
+    ]
+  },
+  {
+    "id": "2679",
+    "basay": "tuqelan",
+    "category": "06",
+    "zh": [
+      "髁骨",
+      "魚類以外動物的骨頭"
+    ],
+    "en": [
+      "condylar bone; bone of fauna exclusive of fish 2143"
+    ]
+  },
+  {
+    "id": "2680",
+    "basay": "tuquR",
+    "category": "08",
+    "zh": [
+      "樹種：瑪瑙樹（Bischofia javanica）"
+    ],
+    "en": [
+      "a tree: Bischofia javanica 12726"
+    ]
+  },
+  {
+    "id": "2681",
+    "basay": "turis",
+    "category": "18",
+    "zh": [
+      "刻線"
+    ],
+    "en": [
+      "scratch a line 2146"
+    ]
+  },
+  {
+    "id": "2682",
+    "basay": "tusuR",
+    "category": "34",
+    "zh": [
+      "串聯（如珠子）"
+    ],
+    "en": [
+      "string together, as beads 2149"
+    ]
+  },
+  {
+    "id": "2683",
+    "basay": "tusuR-en",
+    "category": "18",
+    "zh": [
+      "被串起來",
+      "被穿起來"
+    ],
+    "en": [
+      "be strung, be skewered 2152"
+    ]
+  },
+  {
+    "id": "2684",
+    "basay": "tuzuq",
+    "category": "06",
+    "zh": [
+      "食指"
+    ],
+    "en": [
+      "index finger 10560"
+    ]
+  },
+  {
+    "id": "2685",
+    "basay": "da",
+    "category": "36",
+    "zh": [
+      "處格標記（可能用於複數人名",
+      "cf. *di, *du）"
+    ],
+    "en": [
+      "locative case marker (probably for plural personal names; cf. *di, *du) 8797"
+    ]
+  },
+  {
+    "id": "2686",
+    "basay": "da-amax",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father 135"
+    ]
+  },
+  {
+    "id": "2687",
+    "basay": "dadan",
+    "category": "06",
+    "zh": [
+      "舊的（指物）",
+      "古代"
+    ],
+    "en": [
+      "old, of things; ancient times 7018"
+    ]
+  },
+  {
+    "id": "2688",
+    "basay": "da-dusa",
+    "category": "01",
+    "zh": [
+      "兩人"
+    ],
+    "en": [
+      "two, of people 7877"
+    ]
+  },
+  {
+    "id": "2689",
+    "basay": "dajam",
+    "category": "25",
+    "zh": [
+      "馴服的",
+      "習慣的"
+    ],
+    "en": [
+      "accustomed to, tame 2181"
+    ]
+  },
+  {
+    "id": "2690",
+    "basay": "dajem",
+    "category": "34",
+    "zh": [
+      "寒顫（如瘧疾症狀）"
+    ],
+    "en": [
+      "chills, as of malaria 2183"
+    ]
+  },
+  {
+    "id": "2691",
+    "basay": "dakep",
+    "category": "34",
+    "zh": [
+      "抓住",
+      "擁抱"
+    ],
+    "en": [
+      "catch, seize; embrace 7077"
+    ]
+  },
+  {
+    "id": "2692",
+    "basay": "dakep-en",
+    "category": "25",
+    "zh": [
+      "被捕",
+      "被抓"
+    ],
+    "en": [
+      "be caught, captured 7080"
+    ]
+  },
+  {
+    "id": "2693",
+    "basay": "dakes",
+    "category": "08",
+    "zh": [
+      "樟樹（Cinnamomum spp.）"
+    ],
+    "en": [
+      "a tree: the camphor laurel: Cinnamomum spp. 6682"
+    ]
+  },
+  {
+    "id": "2694",
+    "basay": "daki",
+    "category": "06",
+    "zh": [
+      "皮膚上的垢",
+      "頭皮屑"
+    ],
+    "en": [
+      "dirt on skin; dandruff 6611"
+    ]
+  },
+  {
+    "id": "2695",
+    "basay": "dakis",
+    "category": "14",
+    "zh": [
+      "爬",
+      "上升"
+    ],
+    "en": [
+      "climb, ascend 6612"
+    ]
+  },
+  {
+    "id": "2696",
+    "basay": "dakut",
+    "category": "34",
+    "zh": [
+      "搶奪",
+      "抓取"
+    ],
+    "en": [
+      "snatch, grab 2186"
+    ]
+  },
+  {
+    "id": "2697",
+    "basay": "dalayap",
+    "category": "08",
+    "zh": [
+      "柑橘類果樹及其果實"
+    ],
+    "en": [
+      "kind of citrus tree and fruit 6856"
+    ]
+  },
+  {
+    "id": "2698",
+    "basay": "dalem",
+    "category": "14",
+    "zh": [
+      "在…之中",
+      "深處"
+    ],
+    "en": [
+      "in, inside; deep 7088"
+    ]
+  },
+  {
+    "id": "2699",
+    "basay": "damaR",
+    "category": "08",
+    "zh": [
+      "火把用樹脂（？）"
+    ],
+    "en": [
+      "tree resin used in torches (?) 8079"
+    ]
+  },
+  {
+    "id": "2700",
+    "basay": "damuq",
+    "category": "06",
+    "zh": [
+      "月經血（？）"
+    ],
+    "en": [
+      "menstrual blood? 6723"
+    ]
+  },
+  {
+    "id": "2701",
+    "basay": "damuq",
+    "category": "11",
+    "zh": [
+      "露水"
+    ],
+    "en": [
+      "dew 12776"
+    ]
+  },
+  {
+    "id": "2702",
+    "basay": "danaw",
+    "category": "10",
+    "zh": [
+      "湖泊"
+    ],
+    "en": [
+      "lake 7109"
+    ]
+  },
+  {
+    "id": "2703",
+    "basay": "danum-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7463"
+    ]
+  },
+  {
+    "id": "2704",
+    "basay": "dani",
+    "category": "29",
+    "zh": [
+      "即將",
+      "快要",
+      "很快"
+    ],
+    "en": [
+      "soon, presently; almost 12187"
+    ]
+  },
+  {
+    "id": "2705",
+    "basay": "danum",
+    "category": "11",
+    "zh": [
+      "淡水"
+    ],
+    "en": [
+      "fresh water 7456"
+    ]
+  },
+  {
+    "id": "2706",
+    "basay": "dangdang",
+    "category": "11",
+    "zh": [
+      "烤火",
+      "靠火取暖或加熱"
+    ],
+    "en": [
+      "broil; warm oneself or something near a fire 6963"
+    ]
+  },
+  {
+    "id": "2707",
+    "basay": "dangdang-an",
+    "category": "11",
+    "zh": [
+      "把物品靠近火堆"
+    ],
+    "en": [
+      "place something near a fire 6969"
+    ]
+  },
+  {
+    "id": "2708",
+    "basay": "dapa",
+    "category": "06",
+    "zh": [
+      "手掌"
+    ],
+    "en": [
+      "palm of the hand 2210"
+    ]
+  },
+  {
+    "id": "2709",
+    "basay": "dapan",
+    "category": "06",
+    "zh": [
+      "腳底",
+      "足跡（原始南島語）"
+    ],
+    "en": [
+      "PAN sole of the foot; footprint 6704"
+    ]
+  },
+  {
+    "id": "2710",
+    "basay": "dapuR",
+    "category": "06",
+    "zh": [
+      "堆疊（如石頭）"
+    ],
+    "en": [
+      "pile up, as stones 12082"
+    ]
+  },
+  {
+    "id": "2711",
+    "basay": "daqan",
+    "category": "32",
+    "zh": [
+      "古老的",
+      "古代的"
+    ],
+    "en": [
+      "old, ancient 7020"
+    ]
+  },
+  {
+    "id": "2712",
+    "basay": "daqani",
+    "category": "11",
+    "zh": [
+      "日",
+      "白天"
+    ],
+    "en": [
+      "day 2197"
+    ]
+  },
+  {
+    "id": "2713",
+    "basay": "daqis",
+    "category": "06",
+    "zh": [
+      "額頭",
+      "臉"
+    ],
+    "en": [
+      "forehead; face 6464"
+    ]
+  },
+  {
+    "id": "2714",
+    "basay": "daqu",
+    "category": "35",
+    "zh": [
+      "無患子（Sapindus mukrossi 或 S. saponaria）"
+    ],
+    "en": [
+      "soapberry: Sapindus mukrossi, S. saponaria 6568"
+    ]
+  },
+  {
+    "id": "2715",
+    "basay": "daRa",
+    "category": "34",
+    "zh": [
+      "台灣楓香（Liquidambar formosana）"
+    ],
+    "en": [
+      "Formosan maple: Liquidambar formosana 6569"
+    ]
+  },
+  {
+    "id": "2716",
+    "basay": "daRaq",
+    "category": "06",
+    "zh": [
+      "血",
+      "流血",
+      "月經"
+    ],
+    "en": [
+      "blood; to bleed; menstruate 7205"
+    ]
+  },
+  {
+    "id": "2717",
+    "basay": "daReq",
+    "category": "34",
+    "zh": [
+      "泥土",
+      "黏土"
+    ],
+    "en": [
+      "soil, probably clay 2200"
+    ]
+  },
+  {
+    "id": "2718",
+    "basay": "daRing",
+    "category": "34",
+    "zh": [
+      "呻吟"
+    ],
+    "en": [
+      "groan, moan 2202"
+    ]
+  },
+  {
+    "id": "2719",
+    "basay": "daRiq",
+    "category": "34",
+    "zh": [
+      "泥土",
+      "黏土"
+    ],
+    "en": [
+      "soil, probably clay 8900"
+    ]
+  },
+  {
+    "id": "2720",
+    "basay": "dasdas",
+    "category": "34",
+    "zh": [
+      "胸部（解剖學）"
+    ],
+    "en": [
+      "chest (anat.) 2203"
+    ]
+  },
+  {
+    "id": "2721",
+    "basay": "dataR",
+    "category": "10",
+    "zh": [
+      "平坦的",
+      "平地"
+    ],
+    "en": [
+      "flat, flat or level land 7564"
+    ]
+  },
+  {
+    "id": "2722",
+    "basay": "dawin",
+    "category": "14",
+    "zh": [
+      "遙遠的"
+    ],
+    "en": [
+      "far 6634"
+    ]
+  },
+  {
+    "id": "2723",
+    "basay": "daya",
+    "category": "14",
+    "zh": [
+      "上游",
+      "往內陸"
+    ],
+    "en": [
+      "upriver, toward the interior 7210"
+    ]
+  },
+  {
+    "id": "2724",
+    "basay": "debdeb",
+    "category": "34",
+    "zh": [
+      "胸膛"
+    ],
+    "en": [
+      "chest 2216"
+    ]
+  },
+  {
+    "id": "2725",
+    "basay": "dekdek",
+    "category": "25",
+    "zh": [
+      "壓實",
+      "拍打使緊密"
+    ],
+    "en": [
+      "to tamp down, compact something 12798"
+    ]
+  },
+  {
+    "id": "2726",
+    "basay": "deket",
+    "category": "27",
+    "zh": [
+      "漿糊",
+      "黏膠（可能由煮爛的米製成）"
+    ],
+    "en": [
+      "paste, adhesive (probably made of overcooked rice) 8087"
+    ]
+  },
+  {
+    "id": "2727",
+    "basay": "dekep",
+    "category": "34",
+    "zh": [
+      "擁抱"
+    ],
+    "en": [
+      "embrace 2222"
+    ]
+  },
+  {
+    "id": "2728",
+    "basay": "deking",
+    "category": "07",
+    "zh": [
+      "鳴叫（鹿）"
+    ],
+    "en": [
+      "to bark, of a deer 2223"
+    ]
+  },
+  {
+    "id": "2729",
+    "basay": "deles",
+    "category": "09",
+    "zh": [
+      "弓弦"
+    ],
+    "en": [
+      "bowstring 2226"
+    ]
+  },
+  {
+    "id": "2730",
+    "basay": "demdem",
+    "category": "06",
+    "zh": [
+      "心懷怨恨",
+      "記仇",
+      "沈默"
+    ],
+    "en": [
+      "brood, hold a grudge, remember, keep still 2227"
+    ]
+  },
+  {
+    "id": "2731",
+    "basay": "demdem",
+    "category": "11",
+    "zh": [
+      "黑暗",
+      "陰鬱",
+      "陰天"
+    ],
+    "en": [
+      "gloom, darkness; dark, overcast, gloomy 7567"
+    ]
+  },
+  {
+    "id": "2732",
+    "basay": "dengdeng",
+    "category": "11",
+    "zh": [
+      "雷",
+      "隆隆聲"
+    ],
+    "en": [
+      "thunder; roaring or thunderous sound 12084"
+    ]
+  },
+  {
+    "id": "2733",
+    "basay": "dengeR",
+    "category": "23",
+    "zh": [
+      "聽見",
+      "聲音"
+    ],
+    "en": [
+      "to hear; sound 8248"
+    ]
+  },
+  {
+    "id": "2734",
+    "basay": "depah",
+    "category": "11",
+    "zh": [
+      "測量（水深）"
+    ],
+    "en": [
+      "fathom 7748"
+    ]
+  },
+  {
+    "id": "2735",
+    "basay": "depung",
+    "category": "07",
+    "zh": [
+      "有毒蛇"
+    ],
+    "en": [
+      "venomous snake 2230"
+    ]
+  },
+  {
+    "id": "2736",
+    "basay": "derung",
+    "category": "23",
+    "zh": [
+      "深沉的轟鳴聲"
+    ],
+    "en": [
+      "deep booming sound 2237"
+    ]
+  },
+  {
+    "id": "2737",
+    "basay": "deRdeR",
+    "category": "11",
+    "zh": [
+      "雷聲"
+    ],
+    "en": [
+      "thunder 2232"
+    ]
+  },
+  {
+    "id": "2738",
+    "basay": "deRung",
+    "category": "11",
+    "zh": [
+      "遙遠的雷聲"
+    ],
+    "en": [
+      "distant rolling thunder 2238"
+    ]
+  },
+  {
+    "id": "2739",
+    "basay": "detdet",
+    "category": "14",
+    "zh": [
+      "密集擠在一起"
+    ],
+    "en": [
+      "packed tightly together 7329"
+    ]
+  },
+  {
+    "id": "2740",
+    "basay": "di",
+    "category": "36",
+    "zh": [
+      "處格標記（可能用於單數人名",
+      "cf. *da, *du）"
+    ],
+    "en": [
+      "locative case marker (probably for singular personal names; cf. *da, *du) 8796"
+    ]
+  },
+  {
+    "id": "2741",
+    "basay": "diket",
+    "category": "34",
+    "zh": [
+      "黏的",
+      "有黏性的"
+    ],
+    "en": [
+      "sticky, adhesive 2248"
+    ]
+  },
+  {
+    "id": "2742",
+    "basay": "dikit",
+    "category": "01",
+    "zh": [
+      "少",
+      "數量少"
+    ],
+    "en": [
+      "little, few, small in amount 2249"
+    ]
+  },
+  {
+    "id": "2743",
+    "basay": "dilaq",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "en": [
+      "to lick 7129"
+    ]
+  },
+  {
+    "id": "2744",
+    "basay": "di-ni",
+    "category": "02",
+    "zh": [
+      "這裡"
+    ],
+    "en": [
+      "here 3678"
+    ]
+  },
+  {
+    "id": "2745",
+    "basay": "dinang",
+    "category": "34",
+    "zh": [
+      "鐵鏽",
+      "赤鐵礦"
+    ],
+    "en": [
+      "rust; hematite 7117"
+    ]
+  },
+  {
+    "id": "2746",
+    "basay": "diRi",
+    "category": "25",
+    "zh": [
+      "站立"
+    ],
+    "en": [
+      "to stand 7383"
+    ]
+  },
+  {
+    "id": "2747",
+    "basay": "diRus",
+    "category": "25",
+    "zh": [
+      "洗澡"
+    ],
+    "en": [
+      "bathe 7330"
+    ]
+  },
+  {
+    "id": "2748",
+    "basay": "disdis",
+    "category": "25",
+    "zh": [
+      "切",
+      "片"
+    ],
+    "en": [
+      "cut, slice 2256"
+    ]
+  },
+  {
+    "id": "2749",
+    "basay": "diteq",
+    "category": "09",
+    "zh": [
+      "黏性物質"
+    ],
+    "en": [
+      "sticky substance 2258"
+    ]
+  },
+  {
+    "id": "2750",
+    "basay": "dua",
+    "category": "02",
+    "zh": [
+      "那裡",
+      "那邊"
+    ],
+    "en": [
+      "over there, yonder 7323"
+    ]
+  },
+  {
+    "id": "2751",
+    "basay": "du-dusa",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7879"
+    ]
+  },
+  {
+    "id": "2752",
+    "basay": "duhduh",
+    "category": "11",
+    "zh": [
+      "雷聲"
+    ],
+    "en": [
+      "thunder 2269"
+    ]
+  },
+  {
+    "id": "2753",
+    "basay": "dukduk",
+    "category": "34",
+    "zh": [
+      "薑"
+    ],
+    "en": [
+      "ginger 6708"
+    ]
+  },
+  {
+    "id": "2754",
+    "basay": "dukduk",
+    "category": "07",
+    "zh": [
+      "插入洞中（如用棒捕蟹）"
+    ],
+    "en": [
+      "to thrust into a hole, as a stick to catch a crab 12793"
+    ]
+  },
+  {
+    "id": "2755",
+    "basay": "du(ng)kung",
+    "category": "32",
+    "zh": [
+      "彎曲"
+    ],
+    "en": [
+      "bend, curve 2284"
+    ]
+  },
+  {
+    "id": "2756",
+    "basay": "duma",
+    "category": "35",
+    "zh": [
+      "某人",
+      "他人",
+      "不同"
+    ],
+    "en": [
+      "someone; other people; be different 7685"
+    ]
+  },
+  {
+    "id": "2757",
+    "basay": "d<um>akep",
+    "category": "25",
+    "zh": [
+      "捕捉",
+      "擁抱"
+    ],
+    "en": [
+      "to catch, capture; embrace 7079"
+    ]
+  },
+  {
+    "id": "2758",
+    "basay": "d<um>akis",
+    "category": "14",
+    "zh": [
+      "攀登",
+      "上升"
+    ],
+    "en": [
+      "climb, ascend 6613"
+    ]
+  },
+  {
+    "id": "2759",
+    "basay": "d<um>ilaq",
+    "category": "25",
+    "zh": [
+      "舔"
+    ],
+    "en": [
+      "to lick 7131"
+    ]
+  },
+  {
+    "id": "2760",
+    "basay": "duRi",
+    "category": "34",
+    "zh": [
+      "荊棘",
+      "刺"
+    ],
+    "en": [
+      "thorn 6825"
+    ]
+  },
+  {
+    "id": "2761",
+    "basay": "dusa",
+    "category": "01",
+    "zh": [
+      "兩個"
+    ],
+    "en": [
+      "two 7874"
+    ]
+  },
+  {
+    "id": "2762",
+    "basay": "dusa dusa",
+    "category": "01",
+    "zh": [
+      "成雙成對",
+      "每次兩個"
+    ],
+    "en": [
+      "two by two, two at a time; two each 7909"
+    ]
+  },
+  {
+    "id": "2763",
+    "basay": "dusa-en",
+    "category": "01",
+    "zh": [
+      "被分成兩個"
+    ],
+    "en": [
+      "be divided into two 7906"
+    ]
+  },
+  {
+    "id": "2764",
+    "basay": "edem",
+    "category": "34",
+    "zh": [
+      "浸泡",
+      "染色"
+    ],
+    "en": [
+      "soak, dye 2298"
+    ]
+  },
+  {
+    "id": "2765",
+    "basay": "-en",
+    "category": "36",
+    "zh": [
+      "動詞後綴，標示受事焦點",
+      "名詞後綴，標示動作產物或受影響之物"
+    ],
+    "en": [
+      "verbal suffix marking patient or undergoer voice; nominal suffix marking product of an action or thing affected by an action 2381"
+    ]
+  },
+  {
+    "id": "2766",
+    "basay": "enem",
+    "category": "01",
+    "zh": [
+      "六"
+    ],
+    "en": [
+      "six 2361"
+    ]
+  },
+  {
+    "id": "2767",
+    "basay": "esa",
+    "category": "01",
+    "zh": [
+      "一"
+    ],
+    "en": [
+      "one 2406"
+    ]
+  },
+  {
+    "id": "2768",
+    "basay": "gatel",
+    "category": "28",
+    "zh": [
+      "癢",
+      "發癢"
+    ],
+    "en": [
+      "itch, feel itchy 7150"
+    ]
+  },
+  {
+    "id": "2769",
+    "basay": "garang",
+    "category": "34",
+    "zh": [
+      "激烈的（如食慾或脾氣）"
+    ],
+    "en": [
+      "fierce, intense, as of appetite or temper 8842"
+    ]
+  },
+  {
+    "id": "2770",
+    "basay": "garut",
+    "category": "34",
+    "zh": [
+      "梳子"
+    ],
+    "en": [
+      "comb 8580"
+    ]
+  },
+  {
+    "id": "2771",
+    "basay": "gaRang",
+    "category": "07",
+    "zh": [
+      "小型可食淡水螃蟹"
+    ],
+    "en": [
+      "small edible freshwater crab 3069"
+    ]
+  },
+  {
+    "id": "2772",
+    "basay": "gayang",
+    "category": "09",
+    "zh": [
+      "獵矛"
+    ],
+    "en": [
+      "hunting spear 7611"
+    ]
+  },
+  {
+    "id": "2773",
+    "basay": "getel",
+    "category": "25",
+    "zh": [
+      "捏"
+    ],
+    "en": [
+      "to pinch 9002"
+    ]
+  },
+  {
+    "id": "2774",
+    "basay": "gemel",
+    "category": "25",
+    "zh": [
+      "拿在手中",
+      "握住",
+      "抓住"
+    ],
+    "en": [
+      "take in the hand, clasp, grasp 2489"
+    ]
+  },
+  {
+    "id": "2775",
+    "basay": "gemgem",
+    "category": "06",
+    "zh": [
+      "拳頭",
+      "握拳"
+    ],
+    "en": [
+      "fist; hold in the fist 7612"
+    ]
+  },
+  {
+    "id": "2776",
+    "basay": "geret",
+    "category": "07",
+    "zh": [
+      "割動物喉嚨"
+    ],
+    "en": [
+      "slit an animal's throat 2500"
+    ]
+  },
+  {
+    "id": "2777",
+    "basay": "gerger",
+    "category": "34",
+    "zh": [
+      "發抖",
+      "顫抖"
+    ],
+    "en": [
+      "shake, shiver, tremble 2501"
+    ]
+  },
+  {
+    "id": "2778",
+    "basay": "gerit",
+    "category": "27",
+    "zh": [
+      "撕裂聲",
+      "咬嚼聲等"
+    ],
+    "en": [
+      "sound of ripping, gnawing, etc. 2503"
+    ]
+  },
+  {
+    "id": "2779",
+    "basay": "getil",
+    "category": "25",
+    "zh": [
+      "捏"
+    ],
+    "en": [
+      "to pinch 9004"
+    ]
+  },
+  {
+    "id": "2780",
+    "basay": "gingging",
+    "category": "32",
+    "zh": [
+      "寒冷",
+      "顫抖"
+    ],
+    "en": [
+      "cold, shivering 8237"
+    ]
+  },
+  {
+    "id": "2781",
+    "basay": "giRing",
+    "category": "23",
+    "zh": [
+      "鈴響聲"
+    ],
+    "en": [
+      "ringing sound 2519"
+    ]
+  },
+  {
+    "id": "2782",
+    "basay": "gisgis",
+    "category": "25",
+    "zh": [
+      "摩擦",
+      "刮擦"
+    ],
+    "en": [
+      "rub, scrape against 2520"
+    ]
+  },
+  {
+    "id": "2783",
+    "basay": "gutgut",
+    "category": "25",
+    "zh": [
+      "拔",
+      "拉出"
+    ],
+    "en": [
+      "pluck, pull out 2523"
+    ]
+  },
+  {
+    "id": "2784",
+    "basay": "gutgut",
+    "category": "25",
+    "zh": [
+      "抓癢"
+    ],
+    "en": [
+      "to scratch, as an itch 12717"
+    ]
+  },
+  {
+    "id": "2785",
+    "basay": "gunggung",
+    "category": "23",
+    "zh": [
+      "深沉的轟鳴聲"
+    ],
+    "en": [
+      "deep resounding sound 2537"
+    ]
+  },
+  {
+    "id": "2786",
+    "basay": "g<um>arut",
+    "category": "06",
+    "zh": [
+      "梳理（頭髮）"
+    ],
+    "en": [
+      "to comb 8583"
+    ]
+  },
+  {
+    "id": "2787",
+    "basay": "gumun",
+    "category": "06",
+    "zh": [
+      "體毛"
+    ],
+    "en": [
+      "body hair 8876"
+    ]
+  },
+  {
+    "id": "2788",
+    "basay": "gurgur",
+    "category": "11",
+    "zh": [
+      "水沸騰聲"
+    ],
+    "en": [
+      "sound of boiling water 2526"
+    ]
+  },
+  {
+    "id": "2789",
+    "basay": "guris",
+    "category": "18",
+    "zh": [
+      "線",
+      "刻線"
+    ],
+    "en": [
+      "line; scratch a line 8265"
+    ]
+  },
+  {
+    "id": "2790",
+    "basay": "guRita",
+    "category": "07",
+    "zh": [
+      "章魚"
+    ],
+    "en": [
+      "octopus 7148"
+    ]
+  },
+  {
+    "id": "2791",
+    "basay": "gusgus",
+    "category": "25",
+    "zh": [
+      "刮",
+      "擦",
+      "搔"
+    ],
+    "en": [
+      "to scrape, scratch, rub 2531"
+    ]
+  },
+  {
+    "id": "2792",
+    "basay": "gusi",
+    "category": "06",
+    "zh": [
+      "牙齦"
+    ],
+    "en": [
+      "gums 2532"
+    ]
+  },
+  {
+    "id": "2793",
+    "basay": "gusam",
+    "category": "28",
+    "zh": [
+      "一種口腔真菌病：鵝口瘡"
+    ],
+    "en": [
+      "a fungal disease of the oral tract: thrush 7489"
+    ]
+  },
+  {
+    "id": "2794",
+    "basay": "gutgut",
+    "category": "06",
+    "zh": [
+      "門牙",
+      "切齒"
+    ],
+    "en": [
+      "front teeth, incisors 2524"
+    ]
+  },
+  {
+    "id": "2795",
+    "basay": "hangut",
+    "category": "28",
+    "zh": [
+      "氣味",
+      "臭味"
+    ],
+    "en": [
+      "smell, odor 2633"
+    ]
+  },
+  {
+    "id": "2796",
+    "basay": "hesek",
+    "category": "08",
+    "zh": [
+      "打樁",
+      "插木樁"
+    ],
+    "en": [
+      "drive in stakes or posts 12244"
+    ]
+  },
+  {
+    "id": "2797",
+    "basay": "hisep",
+    "category": "34",
+    "zh": [
+      "吸",
+      "吸入"
+    ],
+    "en": [
+      "suck, inhale 2705"
+    ]
+  },
+  {
+    "id": "2798",
+    "basay": "hukaq",
+    "category": "25",
+    "zh": [
+      "鬆開",
+      "解開"
+    ],
+    "en": [
+      "loosen, open 2730"
+    ]
+  },
+  {
+    "id": "2799",
+    "basay": "hulhul",
+    "category": "07",
+    "zh": [
+      "（狗）吠叫"
+    ],
+    "en": [
+      "to bark, of a dog 7237"
+    ]
+  },
+  {
+    "id": "2800",
+    "basay": "huRat",
+    "category": "06",
+    "zh": [
+      "動脈",
+      "血管",
+      "肌肉",
+      "神經",
+      "筋腱"
+    ],
+    "en": [
+      "artery, blood vessel, blood vein; muscle; nerve; sinew; tendon 5840"
+    ]
+  },
+  {
+    "id": "2801",
+    "basay": "i atas",
+    "category": "14",
+    "zh": [
+      "上方",
+      "上面"
+    ],
+    "en": [
+      "above, on top 28"
+    ]
+  },
+  {
+    "id": "2802",
+    "basay": "i babaw",
+    "category": "14",
+    "zh": [
+      "在…上方"
+    ],
+    "en": [
+      "above, on top of 430"
+    ]
+  },
+  {
+    "id": "2803",
+    "basay": "-i",
+    "category": "36",
+    "zh": [
+      "祈使語尾"
+    ],
+    "en": [
+      "imperative suffix 3033"
+    ]
+  },
+  {
+    "id": "2804",
+    "basay": "i",
+    "category": "36",
+    "zh": [
+      "驚訝",
+      "厭惡等的感嘆詞"
+    ],
+    "en": [
+      "exclamation of wonder, disgust, etc. 3029"
+    ]
+  },
+  {
+    "id": "2805",
+    "basay": "i",
+    "category": "36",
+    "zh": [
+      "表示空間或時間的位置標記"
+    ],
+    "en": [
+      "generic marker of location in space or time 3030"
+    ]
+  },
+  {
+    "id": "2806",
+    "basay": "i",
+    "category": "02",
+    "zh": [
+      "人稱限定詞（冠詞）"
+    ],
+    "en": [
+      "personal article 3031"
+    ]
+  },
+  {
+    "id": "2807",
+    "basay": "ia",
+    "category": "02",
+    "zh": [
+      "第三人稱單數人稱代詞：他",
+      "她",
+      "它"
+    ],
+    "en": [
+      "3sg. personal pronoun: he, she; him, her, it 2785"
+    ]
+  },
+  {
+    "id": "2808",
+    "basay": "i-aku",
+    "category": "02",
+    "zh": [
+      "第一人稱單數：我"
+    ],
+    "en": [
+      "1sg., I, me 11661"
+    ]
+  },
+  {
+    "id": "2809",
+    "basay": "i-amen",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他賓格"
+    ],
+    "en": [
+      "1pl.ex oblique 12091"
+    ]
+  },
+  {
+    "id": "2810",
+    "basay": "i-ami",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他主格：我們"
+    ],
+    "en": [
+      "1pl. excl. nominative, we 9703"
+    ]
+  },
+  {
+    "id": "2811",
+    "basay": "ian",
+    "category": "14",
+    "zh": [
+      "居住",
+      "住在某地"
+    ],
+    "en": [
+      "dwell, reside, live in a place 2775"
+    ]
+  },
+  {
+    "id": "2812",
+    "basay": "ia-ni",
+    "category": "02",
+    "zh": [
+      "這個",
+      "這裡"
+    ],
+    "en": [
+      "this; here 3680"
+    ]
+  },
+  {
+    "id": "2813",
+    "basay": "ibas",
+    "category": "05",
+    "zh": [
+      "伴侶",
+      "近親",
+      "另一方"
+    ],
+    "en": [
+      "companion, close relative, other one 2792"
+    ]
+  },
+  {
+    "id": "2814",
+    "basay": "i-tu",
+    "category": "02",
+    "zh": [
+      "那個（指第二人稱）"
+    ],
+    "en": [
+      "that (2p) 2172"
+    ]
+  },
+  {
+    "id": "2815",
+    "basay": "idas",
+    "category": "02",
+    "zh": [
+      "與自我同輩的姻親"
+    ],
+    "en": [
+      "affine of Ego's generation 2814"
+    ]
+  },
+  {
+    "id": "2816",
+    "basay": "ijan",
+    "category": "03",
+    "zh": [
+      "什麼時候？"
+    ],
+    "en": [
+      "when? 2827"
+    ]
+  },
+  {
+    "id": "2817",
+    "basay": "i-kasu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數：你"
+    ],
+    "en": [
+      "2sg., you 9766"
+    ]
+  },
+  {
+    "id": "2818",
+    "basay": "ikuD",
+    "category": "25",
+    "zh": [
+      "跟隨"
+    ],
+    "en": [
+      "to follow 2839"
+    ]
+  },
+  {
+    "id": "2819",
+    "basay": "ikud",
+    "category": "25",
+    "zh": [
+      "坐"
+    ],
+    "en": [
+      "to sit 10690"
+    ]
+  },
+  {
+    "id": "2820",
+    "basay": "ikuR",
+    "category": "34",
+    "zh": [
+      "尾巴"
+    ],
+    "en": [
+      "tail 2840"
+    ]
+  },
+  {
+    "id": "2821",
+    "basay": "iluR",
+    "category": "10",
+    "zh": [
+      "河道"
+    ],
+    "en": [
+      "river channel 2865"
+    ]
+  },
+  {
+    "id": "2822",
+    "basay": "ima",
+    "category": "03",
+    "zh": [
+      "誰？"
+    ],
+    "en": [
+      "who? 6624"
+    ]
+  },
+  {
+    "id": "2823",
+    "basay": "imah",
+    "category": "27",
+    "zh": [
+      "喝"
+    ],
+    "en": [
+      "drink 12644"
+    ]
+  },
+  {
+    "id": "2824",
+    "basay": "<in>",
+    "category": "36",
+    "zh": [
+      "完成體標記"
+    ],
+    "en": [
+      "perfective marker 2934"
+    ]
+  },
+  {
+    "id": "2825",
+    "basay": "ina",
+    "category": "04",
+    "zh": [
+      "母親",
+      "母親的姐妹"
+    ],
+    "en": [
+      "mother, mother's sister 2887"
+    ]
+  },
+  {
+    "id": "2826",
+    "basay": "in-alap",
+    "category": "24",
+    "zh": [
+      "被拿走的東西",
+      "被…所取"
+    ],
+    "en": [
+      "that which has been taken; was taken by 104"
+    ]
+  },
+  {
+    "id": "2827",
+    "basay": "iná-q",
+    "category": "04",
+    "zh": [
+      "母親",
+      "母親的姐妹（稱呼用）"
+    ],
+    "en": [
+      "mother, mother's sister (address, vocative) 2896"
+    ]
+  },
+  {
+    "id": "2828",
+    "basay": "i-ni",
+    "category": "02",
+    "zh": [
+      "這個",
+      "這裡"
+    ],
+    "en": [
+      "this, here 3679"
+    ]
+  },
+  {
+    "id": "2829",
+    "basay": "ini",
+    "category": "35",
+    "zh": [
+      "否定標記：不",
+      "不是"
+    ],
+    "en": [
+      "negative marker: no, not 6638"
+    ]
+  },
+  {
+    "id": "2830",
+    "basay": "inu",
+    "category": "03",
+    "zh": [
+      "哪裡？"
+    ],
+    "en": [
+      "where? 2930"
+    ]
+  },
+  {
+    "id": "2831",
+    "basay": "i-nu",
+    "category": "35",
+    "zh": [
+      "不知道或記不起的地方：哪裡？"
+    ],
+    "en": [
+      "place which is unknown or cannot be remembered: where? 3700"
+    ]
+  },
+  {
+    "id": "2832",
+    "basay": "ing(e)pis",
+    "category": "32",
+    "zh": [
+      "薄（物體材質）"
+    ],
+    "en": [
+      "thin (of material objects) 5341"
+    ]
+  },
+  {
+    "id": "2833",
+    "basay": "ingsung",
+    "category": "08",
+    "zh": [
+      "木製舂米臼"
+    ],
+    "en": [
+      "wooden rice mortar 3060"
+    ]
+  },
+  {
+    "id": "2834",
+    "basay": "ipit",
+    "category": "14",
+    "zh": [
+      "接近",
+      "靠近",
+      "邊緣"
+    ],
+    "en": [
+      "near, come near; edge, border 2941"
+    ]
+  },
+  {
+    "id": "2835",
+    "basay": "iRik",
+    "category": "25",
+    "zh": [
+      "用腳脫粒（如打稻）"
+    ],
+    "en": [
+      "thresh with the feet (as rice) 2956"
+    ]
+  },
+  {
+    "id": "2836",
+    "basay": "isa isa",
+    "category": "01",
+    "zh": [
+      "分配的",
+      "逐一的",
+      "一次一個的"
+    ],
+    "en": [
+      "distributive; one-by-one, one at a time 2969"
+    ]
+  },
+  {
+    "id": "2837",
+    "basay": "isa",
+    "category": "01",
+    "zh": [
+      "一個"
+    ],
+    "en": [
+      "one 2965"
+    ]
+  },
+  {
+    "id": "2838",
+    "basay": "isa-nga",
+    "category": "01",
+    "zh": [
+      "剩下的一個"
+    ],
+    "en": [
+      "the remaining one 2968"
+    ]
+  },
+  {
+    "id": "2839",
+    "basay": "isi",
+    "category": "06",
+    "zh": [
+      "肉（人",
+      "動物",
+      "水果",
+      "塊莖等）",
+      "內容物",
+      "刀刃",
+      "居民"
+    ],
+    "en": [
+      "flesh (of humans, animals, fruits, tubers); contents; blade of a knife; inhabitants, residents 2985"
+    ]
+  },
+  {
+    "id": "2840",
+    "basay": "iseq",
+    "category": "32",
+    "zh": [
+      "小便",
+      "尿尿"
+    ],
+    "en": [
+      "urine, urinate 2978"
+    ]
+  },
+  {
+    "id": "2841",
+    "basay": "isiq",
+    "category": "32",
+    "zh": [
+      "小便",
+      "尿尿"
+    ],
+    "en": [
+      "urine, urinate 2980"
+    ]
+  },
+  {
+    "id": "2842",
+    "basay": "isu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數人稱代詞：你"
+    ],
+    "en": [
+      "2sg. personal pronoun: you 2999"
+    ]
+  },
+  {
+    "id": "2843",
+    "basay": "ita",
+    "category": "02",
+    "zh": [
+      "我們（包含）"
+    ],
+    "en": [
+      "we (incl.) 3004"
+    ]
+  },
+  {
+    "id": "2844",
+    "basay": "iten",
+    "category": "36",
+    "zh": [
+      "第一人稱複數包含絕對所有格：我們的（包含）"
+    ],
+    "en": [
+      "1p plural absolute possessive pronoun: ours (incl.) 3008"
+    ]
+  },
+  {
+    "id": "2845",
+    "basay": "iten",
+    "category": "02",
+    "zh": [
+      "我們（包含）"
+    ],
+    "en": [
+      "we (incl.) 7699"
+    ]
+  },
+  {
+    "id": "2846",
+    "basay": "i-ti",
+    "category": "02",
+    "zh": [
+      "第一人稱指示與空間參照：這個",
+      "這裡"
+    ],
+    "en": [
+      "1p deixis and spatial reference: this; here 5635"
+    ]
+  },
+  {
+    "id": "2847",
+    "basay": "iuk",
+    "category": "08",
+    "zh": [
+      "柑橘類水果（橘子與柚子？）"
+    ],
+    "en": [
+      "citrus fruit (both orange and pomelo?) 7372"
+    ]
+  },
+  {
+    "id": "2848",
+    "basay": "ka- -an",
+    "category": "36",
+    "zh": [
+      "被動對立標記"
+    ],
+    "en": [
+      "marker of the adversative passive 9736"
+    ]
+  },
+  {
+    "id": "2849",
+    "basay": "ka- -an",
+    "category": "34",
+    "zh": [
+      "表示地點的名詞構詞詞綴"
+    ],
+    "en": [
+      "formative for nouns of location 9737"
+    ]
+  },
+  {
+    "id": "2850",
+    "basay": "ka- -an",
+    "category": "34",
+    "zh": [
+      "抽象名詞構詞詞綴（常由動詞轉成）"
+    ],
+    "en": [
+      "formative for abstract nouns (often deverbal) 9738"
+    ]
+  },
+  {
+    "id": "2851",
+    "basay": "ka-",
+    "category": "36",
+    "zh": [
+      "過去時間標記（時間表達中）"
+    ],
+    "en": [
+      "marker of past time in temporal expressions 3145"
+    ]
+  },
+  {
+    "id": "2852",
+    "basay": "ka",
+    "category": "36",
+    "zh": [
+      "連詞：和"
+    ],
+    "en": [
+      "conjunctive particle, and 3146"
+    ]
+  },
+  {
+    "id": "2853",
+    "basay": "ka",
+    "category": "36",
+    "zh": [
+      "條件語氣：如果"
+    ],
+    "en": [
+      "conditional, if 3147"
+    ]
+  },
+  {
+    "id": "2854",
+    "basay": "ka-",
+    "category": "36",
+    "zh": [
+      "非現實語氣中的靜態標記（與現實語氣中的 *ma- 相對）"
+    ],
+    "en": [
+      "stative marker in irrealis constructions, counterpart to *ma- in realis constructions 9727"
+    ]
+  },
+  {
+    "id": "2855",
+    "basay": "ka",
+    "category": "36",
+    "zh": [
+      "複數人名的賓格標記"
+    ],
+    "en": [
+      "oblique case marker for plural personal names 8800"
+    ]
+  },
+  {
+    "id": "2856",
+    "basay": "ka-",
+    "category": "34",
+    "zh": [
+      "品質的抽象名詞構詞詞綴"
+    ],
+    "en": [
+      "formative for abstract nouns of quality 9730"
+    ]
+  },
+  {
+    "id": "2857",
+    "basay": "ka-atay",
+    "category": "25",
+    "zh": [
+      "殺（？）"
+    ],
+    "en": [
+      "kill (?) 35"
+    ]
+  },
+  {
+    "id": "2858",
+    "basay": "ka-atay-an",
+    "category": "05",
+    "zh": [
+      "因死亡失去某人（？）"
+    ],
+    "en": [
+      "lose someone through death (?) 36"
+    ]
+  },
+  {
+    "id": "2859",
+    "basay": "ka-bajaq",
+    "category": "28",
+    "zh": [
+      "知道",
+      "理解"
+    ],
+    "en": [
+      "know, understand 6441"
+    ]
+  },
+  {
+    "id": "2860",
+    "basay": "kabal",
+    "category": "18",
+    "zh": [
+      "衣服"
+    ],
+    "en": [
+      "clothing 9746"
+    ]
+  },
+  {
+    "id": "2861",
+    "basay": "kabaR",
+    "category": "18",
+    "zh": [
+      "衣物"
+    ],
+    "en": [
+      "clothing 9748"
+    ]
+  },
+  {
+    "id": "2862",
+    "basay": "kabit",
+    "category": "34",
+    "zh": [
+      "鉤子"
+    ],
+    "en": [
+      "hook 7239"
+    ]
+  },
+  {
+    "id": "2863",
+    "basay": "kabus",
+    "category": "07",
+    "zh": [
+      "蝦",
+      "龍蝦"
+    ],
+    "en": [
+      "shrimp, lobster 9756"
+    ]
+  },
+  {
+    "id": "2864",
+    "basay": "ka-tasaw-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 2013"
+    ]
+  },
+  {
+    "id": "2865",
+    "basay": "ka-tau-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 2016"
+    ]
+  },
+  {
+    "id": "2866",
+    "basay": "katu",
+    "category": "25",
+    "zh": [
+      "攜帶",
+      "拿來"
+    ],
+    "en": [
+      "bring, carry 3067"
+    ]
+  },
+  {
+    "id": "2867",
+    "basay": "ka-dataR-an",
+    "category": "10",
+    "zh": [
+      "平原",
+      "平地"
+    ],
+    "en": [
+      "plain, region of level land 7566"
+    ]
+  },
+  {
+    "id": "2868",
+    "basay": "kaen",
+    "category": "27",
+    "zh": [
+      "吃"
+    ],
+    "en": [
+      "eat 8008"
+    ]
+  },
+  {
+    "id": "2869",
+    "basay": "kaen-an",
+    "category": "27",
+    "zh": [
+      "吃飯的地方",
+      "食物"
+    ],
+    "en": [
+      "place where one eats; food 8030"
+    ]
+  },
+  {
+    "id": "2870",
+    "basay": "kaen-ay",
+    "category": "27",
+    "zh": [
+      "將吃"
+    ],
+    "en": [
+      "will eat 8032"
+    ]
+  },
+  {
+    "id": "2871",
+    "basay": "kaen-en",
+    "category": "27",
+    "zh": [
+      "被吃",
+      "煮熟的飯"
+    ],
+    "en": [
+      "be eaten by someone; cooked rice 8033"
+    ]
+  },
+  {
+    "id": "2872",
+    "basay": "kaen-i",
+    "category": "27",
+    "zh": [
+      "吃吧！（命令）"
+    ],
+    "en": [
+      "eat it! 8036"
+    ]
+  },
+  {
+    "id": "2873",
+    "basay": "kahus",
+    "category": "34",
+    "zh": [
+      "撈取"
+    ],
+    "en": [
+      "scoop up 6571"
+    ]
+  },
+  {
+    "id": "2874",
+    "basay": "kahut",
+    "category": "01",
+    "zh": [
+      "手抓",
+      "一把的量"
+    ],
+    "en": [
+      "to take in one’s hand; handful 12794"
+    ]
+  },
+  {
+    "id": "2875",
+    "basay": "kaija",
+    "category": "03",
+    "zh": [
+      "什麼時候？（過去）"
+    ],
+    "en": [
+      "when? (in the past) 9787"
+    ]
+  },
+  {
+    "id": "2876",
+    "basay": "kak",
+    "category": "23",
+    "zh": [
+      "咯咯笑聲",
+      "大笑聲"
+    ],
+    "en": [
+      "sound of a cackle, loud laugh, etc. 3073"
+    ]
+  },
+  {
+    "id": "2877",
+    "basay": "kaka",
+    "category": "04",
+    "zh": [
+      "年長的兄弟姊妹"
+    ],
+    "en": [
+      "elder sibling 9742"
+    ]
+  },
+  {
+    "id": "2878",
+    "basay": "kakatu",
+    "category": "34",
+    "zh": [
+      "蜘蛛"
+    ],
+    "en": [
+      "spider 6570"
+    ]
+  },
+  {
+    "id": "2879",
+    "basay": "ka-kaen-an",
+    "category": "27",
+    "zh": [
+      "吃飯的地方"
+    ],
+    "en": [
+      "place where one eats 8023"
+    ]
+  },
+  {
+    "id": "2880",
+    "basay": "ka-kaen-en",
+    "category": "21",
+    "zh": [
+      "食物",
+      "可食之物"
+    ],
+    "en": [
+      "edible things, food 8024"
+    ]
+  },
+  {
+    "id": "2881",
+    "basay": "kakak",
+    "category": "23",
+    "zh": [
+      "咯咯叫聲",
+      "烏鴉叫聲"
+    ],
+    "en": [
+      "caw, cackle 8921"
+    ]
+  },
+  {
+    "id": "2882",
+    "basay": "ka-kalih",
+    "category": "08",
+    "zh": [
+      "掘土棒",
+      "挖根工具"
+    ],
+    "en": [
+      "digging stick 7705"
+    ]
+  },
+  {
+    "id": "2883",
+    "basay": "kangkang",
+    "category": "23",
+    "zh": [
+      "迴響聲"
+    ],
+    "en": [
+      "resounding sound 9079"
+    ]
+  },
+  {
+    "id": "2884",
+    "basay": "k-aku",
+    "category": "36",
+    "zh": [
+      "第一人稱單數賓格：給我，對我"
+    ],
+    "en": [
+      "1sg oblique: to me, for me 92"
+    ]
+  },
+  {
+    "id": "2885",
+    "basay": "ka-kuRi",
+    "category": "34",
+    "zh": [
+      "耙子"
+    ],
+    "en": [
+      "a rake 6581"
+    ]
+  },
+  {
+    "id": "2886",
+    "basay": "kalaw",
+    "category": "07",
+    "zh": [
+      "一種鳥類"
+    ],
+    "en": [
+      "bird sp. 3080"
+    ]
+  },
+  {
+    "id": "2887",
+    "basay": "kalaw",
+    "category": "34",
+    "zh": [
+      "眉毛"
+    ],
+    "en": [
+      "eyebrow 12777"
+    ]
+  },
+  {
+    "id": "2888",
+    "basay": "kali-",
+    "category": "36",
+    "zh": [
+      "表示與靈界有關詞彙的前綴（參見 *qali-）"
+    ],
+    "en": [
+      "prefix for words with a sensitive reference to the spirit world (cf. *qali-) 10073"
+    ]
+  },
+  {
+    "id": "2889",
+    "basay": "kali",
+    "category": "11",
+    "zh": [
+      "水道",
+      "溝渠"
+    ],
+    "en": [
+      "canal, ditch 3084"
+    ]
+  },
+  {
+    "id": "2890",
+    "basay": "kalih",
+    "category": "10",
+    "zh": [
+      "地洞",
+      "挖掘（如塊莖）"
+    ],
+    "en": [
+      "a hole in the ground; to dig up, excavate, as tubers 7702"
+    ]
+  },
+  {
+    "id": "2891",
+    "basay": "kalungkung",
+    "category": "23",
+    "zh": [
+      "深沉的迴響聲"
+    ],
+    "en": [
+      "deep resounding sound 10101"
+    ]
+  },
+  {
+    "id": "2892",
+    "basay": "kamay",
+    "category": "06",
+    "zh": [
+      "手"
+    ],
+    "en": [
+      "hand 3090"
+    ]
+  },
+  {
+    "id": "2893",
+    "basay": "kamaya",
+    "category": "08",
+    "zh": [
+      "樹種：柿樹（Diospyros discolor）"
+    ],
+    "en": [
+      "plant sp.: Diospyros discolor 3089"
+    ]
+  },
+  {
+    "id": "2894",
+    "basay": "k-ami",
+    "category": "35",
+    "zh": [
+      "第一人稱複數排他主格代詞：我們（不含聽話者）"
+    ],
+    "en": [
+      "1pl. excl. nominative pronoun, we (exclusive) 9705"
+    ]
+  },
+  {
+    "id": "2895",
+    "basay": "k-amu",
+    "category": "36",
+    "zh": [
+      "第二人稱複數主格：你們"
+    ],
+    "en": [
+      "2pl. nominative, you all 9709"
+    ]
+  },
+  {
+    "id": "2896",
+    "basay": "kamu-yu",
+    "category": "36",
+    "zh": [
+      "第二人稱複數主格：你們"
+    ],
+    "en": [
+      "2pl. nominative, you all 9712"
+    ]
+  },
+  {
+    "id": "2897",
+    "basay": "ka-nu",
+    "category": "03",
+    "zh": [
+      "疑問詞",
+      "可能是「什麼時候？」"
+    ],
+    "en": [
+      "interrogative; probably 'when?' 3701"
+    ]
+  },
+  {
+    "id": "2898",
+    "basay": "kanasay",
+    "category": "07",
+    "zh": [
+      "魚類：烏魚"
+    ],
+    "en": [
+      "a fish: the mullet 3101"
+    ]
+  },
+  {
+    "id": "2899",
+    "basay": "kanawas",
+    "category": "08",
+    "zh": [
+      "小喬木，結圓形綠果：Ehretia 屬"
+    ],
+    "en": [
+      "a small tree bearing round, green fruit: Ehretiaspp. 12683"
+    ]
+  },
+  {
+    "id": "2900",
+    "basay": "k<an>uskus",
+    "category": "06",
+    "zh": [
+      "爪",
+      "指甲"
+    ],
+    "en": [
+      "claw, talon, fingernail 7274"
+    ]
+  },
+  {
+    "id": "2901",
+    "basay": "ka-pajay-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7676"
+    ]
+  },
+  {
+    "id": "2902",
+    "basay": "ka-piliq-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8123"
+    ]
+  },
+  {
+    "id": "2903",
+    "basay": "kapit",
+    "category": "18",
+    "zh": [
+      "用縫或綁固定"
+    ],
+    "en": [
+      "fasten together by sewing or tying 8920"
+    ]
+  },
+  {
+    "id": "2904",
+    "basay": "ka-pitu-an",
+    "category": "13",
+    "zh": [
+      "第七個月（？）"
+    ],
+    "en": [
+      "seventh month (?) 8325"
+    ]
+  },
+  {
+    "id": "2905",
+    "basay": "kapkap",
+    "category": "22",
+    "zh": [
+      "摸索",
+      "在黑暗中尋找"
+    ],
+    "en": [
+      "feel in the dark, grope 3111"
+    ]
+  },
+  {
+    "id": "2906",
+    "basay": "kapua",
+    "category": "07",
+    "zh": [
+      "木棉",
+      "吉貝"
+    ],
+    "en": [
+      "silk cotton, kapok 7306"
+    ]
+  },
+  {
+    "id": "2907",
+    "basay": "ka-qudip-an",
+    "category": "32",
+    "zh": [
+      "生計"
+    ],
+    "en": [
+      "livelihood 4639"
+    ]
+  },
+  {
+    "id": "2908",
+    "basay": "karkar",
+    "category": "07",
+    "zh": [
+      "雞扒土",
+      "刨土（如雞）"
+    ],
+    "en": [
+      "scratch up the earth, as a fowl 3120"
+    ]
+  },
+  {
+    "id": "2909",
+    "basay": "karus",
+    "category": "25",
+    "zh": [
+      "抓",
+      "刮"
+    ],
+    "en": [
+      "to scratch, scrape 9829"
+    ]
+  },
+  {
+    "id": "2910",
+    "basay": "k<ar>uskus",
+    "category": "09",
+    "zh": [
+      "刮掉表面物"
+    ],
+    "en": [
+      "scrape, scratch something from a surface 3302"
+    ]
+  },
+  {
+    "id": "2911",
+    "basay": "karut",
+    "category": "25",
+    "zh": [
+      "擦",
+      "刮",
+      "搓"
+    ],
+    "en": [
+      "scrape, rasp 3124"
+    ]
+  },
+  {
+    "id": "2912",
+    "basay": "ka-Rabi-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7376"
+    ]
+  },
+  {
+    "id": "2913",
+    "basay": "kaRat",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "en": [
+      "to bite 7712"
+    ]
+  },
+  {
+    "id": "2914",
+    "basay": "kaRat-i",
+    "category": "34",
+    "zh": [
+      "咬吧！（命令）"
+    ],
+    "en": [
+      "bite (imperative) 7716"
+    ]
+  },
+  {
+    "id": "2915",
+    "basay": "kaRaw",
+    "category": "25",
+    "zh": [
+      "抓癢"
+    ],
+    "en": [
+      "to scratch an itch 7723"
+    ]
+  },
+  {
+    "id": "2916",
+    "basay": "kaRi",
+    "category": "23",
+    "zh": [
+      "話語",
+      "語言"
+    ],
+    "en": [
+      "word, speech, language 9794"
+    ]
+  },
+  {
+    "id": "2917",
+    "basay": "kaRus",
+    "category": "25",
+    "zh": [
+      "刮擦"
+    ],
+    "en": [
+      "scrape 3123"
+    ]
+  },
+  {
+    "id": "2918",
+    "basay": "kas(e)pal",
+    "category": "32",
+    "zh": [
+      "厚實（實體物）"
+    ],
+    "en": [
+      "thick, of solid objects 3130"
+    ]
+  },
+  {
+    "id": "2919",
+    "basay": "kasi-kasiw",
+    "category": "08",
+    "zh": [
+      "樹林繁茂的"
+    ],
+    "en": [
+      "wooded, having lots of trees 7808"
+    ]
+  },
+  {
+    "id": "2920",
+    "basay": "kasiw",
+    "category": "08",
+    "zh": [
+      "木材",
+      "樹"
+    ],
+    "en": [
+      "wood; tree 7794"
+    ]
+  },
+  {
+    "id": "2921",
+    "basay": "kasiw-en",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7806"
+    ]
+  },
+  {
+    "id": "2922",
+    "basay": "kaskas",
+    "category": "07",
+    "zh": [
+      "雞扒土找食物"
+    ],
+    "en": [
+      "scratch up the soil, as a chicken looking for food 6614"
+    ]
+  },
+  {
+    "id": "2923",
+    "basay": "kasu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數：你"
+    ],
+    "en": [
+      "2sg., you 9764"
+    ]
+  },
+  {
+    "id": "2924",
+    "basay": "ka-tanem-an",
+    "category": "14",
+    "zh": [
+      "被種植的地區（？）"
+    ],
+    "en": [
+      "area that is planted(?) 7447"
+    ]
+  },
+  {
+    "id": "2925",
+    "basay": "katawa",
+    "category": "34",
+    "zh": [
+      "蓖麻"
+    ],
+    "en": [
+      "castor bean: Ricinus communis L. 10249"
+    ]
+  },
+  {
+    "id": "2926",
+    "basay": "ka-telu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8420"
+    ]
+  },
+  {
+    "id": "2927",
+    "basay": "kati",
+    "category": "23",
+    "zh": [
+      "呼喚人或動物的勸誘語"
+    ],
+    "en": [
+      "exhortation to call a person or animal 7731"
+    ]
+  },
+  {
+    "id": "2928",
+    "basay": "katkat",
+    "category": "18",
+    "zh": [
+      "縫線脫落"
+    ],
+    "en": [
+      "come undone, of stitches 9799"
+    ]
+  },
+  {
+    "id": "2929",
+    "basay": "kaus",
+    "category": "07",
+    "zh": [
+      "撈取（如用魚網）"
+    ],
+    "en": [
+      "scoop up, as with a fish net 11654"
+    ]
+  },
+  {
+    "id": "2930",
+    "basay": "ka-wanan",
+    "category": "14",
+    "zh": [
+      "右邊",
+      "右手",
+      "右方"
+    ],
+    "en": [
+      "right (side, hand, direction) 9475"
+    ]
+  },
+  {
+    "id": "2931",
+    "basay": "kawas",
+    "category": "11",
+    "zh": [
+      "年",
+      "季節",
+      "天空",
+      "天"
+    ],
+    "en": [
+      "year, season; sky, heaven 6573"
+    ]
+  },
+  {
+    "id": "2932",
+    "basay": "kawas",
+    "category": "23",
+    "zh": [
+      "談話",
+      "討論"
+    ],
+    "en": [
+      "talk, talk about, discuss 7255"
+    ]
+  },
+  {
+    "id": "2933",
+    "basay": "kaway",
+    "category": "09",
+    "zh": [
+      "男人背物用的網袋"
+    ],
+    "en": [
+      "net bag used by men for carrying things on back 7118"
+    ]
+  },
+  {
+    "id": "2934",
+    "basay": "kawayan",
+    "category": "08",
+    "zh": [
+      "竹子（可能是刺竹 Bambusa spinosa）"
+    ],
+    "en": [
+      "bamboo, Bambusa spp., probably Bambusa spinosa 9776"
+    ]
+  },
+  {
+    "id": "2935",
+    "basay": "kawil",
+    "category": "07",
+    "zh": [
+      "魚鉤"
+    ],
+    "en": [
+      "fishhook 7240"
+    ]
+  },
+  {
+    "id": "2936",
+    "basay": "ka-wiRi",
+    "category": "14",
+    "zh": [
+      "左邊",
+      "左方"
+    ],
+    "en": [
+      "left side or direction 5999"
+    ]
+  },
+  {
+    "id": "2937",
+    "basay": "kawit",
+    "category": "34",
+    "zh": [
+      "鉤子"
+    ],
+    "en": [
+      "hook 7243"
+    ]
+  },
+  {
+    "id": "2938",
+    "basay": "kawkaw",
+    "category": "09",
+    "zh": [
+      "收割用鐮刀"
+    ],
+    "en": [
+      "sickle for harvesting grain 7119"
+    ]
+  },
+  {
+    "id": "2939",
+    "basay": "ka-zalan-an",
+    "category": "20",
+    "zh": [
+      "臨時小徑",
+      "踩出來的路徑（？）"
+    ],
+    "en": [
+      "improvised trail, trail made by passing through? 7593"
+    ]
+  },
+  {
+    "id": "2940",
+    "basay": "kebkeb",
+    "category": "25",
+    "zh": [
+      "趴著",
+      "臉朝下躺"
+    ],
+    "en": [
+      "to lie prone, face down 12873"
+    ]
+  },
+  {
+    "id": "2941",
+    "basay": "kedi",
+    "category": "01",
+    "zh": [
+      "小",
+      "少量"
+    ],
+    "en": [
+      "small in size or amount 3158"
+    ]
+  },
+  {
+    "id": "2942",
+    "basay": "kedip",
+    "category": "06",
+    "zh": [
+      "眨眼"
+    ],
+    "en": [
+      "to blink 3156"
+    ]
+  },
+  {
+    "id": "2943",
+    "basay": "kengkeng",
+    "category": "23",
+    "zh": [
+      "空心的",
+      "回音聲"
+    ],
+    "en": [
+      "hollow, resounding sound 3203"
+    ]
+  },
+  {
+    "id": "2944",
+    "basay": "kelem",
+    "category": "35",
+    "zh": [
+      "陰暗",
+      "天色昏沉",
+      "視覺不清"
+    ],
+    "en": [
+      "dark, overcast, visually obscure 8717"
+    ]
+  },
+  {
+    "id": "2945",
+    "basay": "kelip",
+    "category": "06",
+    "zh": [
+      "眨眼"
+    ],
+    "en": [
+      "to blink 3167"
+    ]
+  },
+  {
+    "id": "2946",
+    "basay": "kemkem",
+    "category": "32",
+    "zh": [
+      "咬緊"
+    ],
+    "en": [
+      "bite down hard 10079"
+    ]
+  },
+  {
+    "id": "2947",
+    "basay": "kena",
+    "category": "35",
+    "zh": [
+      "被困住",
+      "陷入陷阱",
+      "遭遇不幸",
+      "命中",
+      "正確"
+    ],
+    "en": [
+      "be ensnared, caught in a trap; suffer, undergo, be struck by something; be entrapped or deceived; hit the mark, be ‘on target’, correct, right, true 3173"
+    ]
+  },
+  {
+    "id": "2948",
+    "basay": "kepit",
+    "category": "14",
+    "zh": [
+      "緊壓",
+      "擠在一起"
+    ],
+    "en": [
+      "press together; pressed together 9180"
+    ]
+  },
+  {
+    "id": "2949",
+    "basay": "keret",
+    "category": "25",
+    "zh": [
+      "切斷",
+      "截斷"
+    ],
+    "en": [
+      "to sever, cut off 10116"
+    ]
+  },
+  {
+    "id": "2950",
+    "basay": "keriq",
+    "category": "07",
+    "zh": [
+      "猴子叫聲"
+    ],
+    "en": [
+      "chattering, crying of monkeys 3184"
+    ]
+  },
+  {
+    "id": "2951",
+    "basay": "keRan",
+    "category": "34",
+    "zh": [
+      "結痂"
+    ],
+    "en": [
+      "scab on a wound 8883"
+    ]
+  },
+  {
+    "id": "2952",
+    "basay": "keRang",
+    "category": "06",
+    "zh": [
+      "傷口上的痂"
+    ],
+    "en": [
+      "scab, crust on a wound 3182"
+    ]
+  },
+  {
+    "id": "2953",
+    "basay": "keRang",
+    "category": "32",
+    "zh": [
+      "乾燥"
+    ],
+    "en": [
+      "dry 8884"
+    ]
+  },
+  {
+    "id": "2954",
+    "basay": "keRet",
+    "category": "32",
+    "zh": [
+      "割軟物或細物",
+      "收割作物"
+    ],
+    "en": [
+      "cut something slender or soft; reap crops 7120"
+    ]
+  },
+  {
+    "id": "2955",
+    "basay": "keRet-en",
+    "category": "25",
+    "zh": [
+      "被割斷"
+    ],
+    "en": [
+      "be cut 7122"
+    ]
+  },
+  {
+    "id": "2956",
+    "basay": "keRiw",
+    "category": "08",
+    "zh": [
+      "麻類植物",
+      "大麻"
+    ],
+    "en": [
+      "hemp plant; hemp 6574"
+    ]
+  },
+  {
+    "id": "2957",
+    "basay": "keRkeR",
+    "category": "34",
+    "zh": [
+      "搖晃",
+      "顫抖"
+    ],
+    "en": [
+      "shake, tremble 3186"
+    ]
+  },
+  {
+    "id": "2958",
+    "basay": "keRung",
+    "category": "23",
+    "zh": [
+      "迴響聲"
+    ],
+    "en": [
+      "resounding sound 3190"
+    ]
+  },
+  {
+    "id": "2959",
+    "basay": "keseR",
+    "category": "34",
+    "zh": [
+      "力氣",
+      "體力",
+      "力量"
+    ],
+    "en": [
+      "strength, vigor, force 11019"
+    ]
+  },
+  {
+    "id": "2960",
+    "basay": "keskes",
+    "category": "25",
+    "zh": [
+      "抓",
+      "刮",
+      "擦"
+    ],
+    "en": [
+      "scratch, scrape 3192"
+    ]
+  },
+  {
+    "id": "2961",
+    "basay": "ketil",
+    "category": "34",
+    "zh": [
+      "掐掉"
+    ],
+    "en": [
+      "pinch off 3196"
+    ]
+  },
+  {
+    "id": "2962",
+    "basay": "ketun",
+    "category": "25",
+    "zh": [
+      "切斷",
+      "割開"
+    ],
+    "en": [
+      "cut, sever 6639"
+    ]
+  },
+  {
+    "id": "2963",
+    "basay": "kezem",
+    "category": "06",
+    "zh": [
+      "閉眼"
+    ],
+    "en": [
+      "close the eyes 3199"
+    ]
+  },
+  {
+    "id": "2964",
+    "basay": "kezut",
+    "category": "29",
+    "zh": [
+      "突然一震",
+      "受驚而跳躍"
+    ],
+    "en": [
+      "to jerk suddenly, jump when startled 9977"
+    ]
+  },
+  {
+    "id": "2965",
+    "basay": "ki-",
+    "category": "36",
+    "zh": [
+      "加於名詞前，表示「取得",
+      "收集",
+      "採集」的前綴"
+    ],
+    "en": [
+      "prefixed to a noun means ‘to get, obtain, collect, gather’ (noun) 8785"
+    ]
+  },
+  {
+    "id": "2966",
+    "basay": "ki",
+    "category": "36",
+    "zh": [
+      "人名的斜格標記"
+    ],
+    "en": [
+      "oblique case marker for personal nouns 8787"
+    ]
+  },
+  {
+    "id": "2967",
+    "basay": "kiaw",
+    "category": "07",
+    "zh": [
+      "鳥的啾叫聲"
+    ],
+    "en": [
+      "puling sound of a bird 3214"
+    ]
+  },
+  {
+    "id": "2968",
+    "basay": "kiting",
+    "category": "06",
+    "zh": [
+      "身體部位"
+    ],
+    "en": [
+      "body part 3215"
+    ]
+  },
+  {
+    "id": "2969",
+    "basay": "ki-tunuh",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 2131"
+    ]
+  },
+  {
+    "id": "2970",
+    "basay": "kidiq",
+    "category": "25",
+    "zh": [
+      "搔癢"
+    ],
+    "en": [
+      "to tickle 3217"
+    ]
+  },
+  {
+    "id": "2971",
+    "basay": "kingking",
+    "category": "23",
+    "zh": [
+      "鈴響聲"
+    ],
+    "en": [
+      "ringing sound 3248"
+    ]
+  },
+  {
+    "id": "2972",
+    "basay": "kikuR",
+    "category": "34",
+    "zh": [
+      "尾巴"
+    ],
+    "en": [
+      "tail 8891"
+    ]
+  },
+  {
+    "id": "2973",
+    "basay": "kilala",
+    "category": "29",
+    "zh": [
+      "認識",
+      "了解（人）",
+      "熟悉",
+      "感覺",
+      "察覺"
+    ],
+    "en": [
+      "to know (a person), recognize, be acquainted with; to feel, perceive 8773"
+    ]
+  },
+  {
+    "id": "2974",
+    "basay": "kilung",
+    "category": "10",
+    "zh": [
+      "彎曲",
+      "海灣"
+    ],
+    "en": [
+      "curved; bay 3229"
+    ]
+  },
+  {
+    "id": "2975",
+    "basay": "k<in>a-tau-an",
+    "category": "36",
+    "zh": [
+      "天性",
+      "性格"
+    ],
+    "en": [
+      "nature, character 2018"
+    ]
+  },
+  {
+    "id": "2976",
+    "basay": "k<in>atu",
+    "category": "24",
+    "zh": [
+      "被帶來的",
+      "帶來的東西"
+    ],
+    "en": [
+      "was brought; what was brought 6605"
+    ]
+  },
+  {
+    "id": "2977",
+    "basay": "k<in>aen",
+    "category": "27",
+    "zh": [
+      "被吃的",
+      "吃下的東西"
+    ],
+    "en": [
+      "was eaten; what was eaten 8025"
+    ]
+  },
+  {
+    "id": "2978",
+    "basay": "k<in>aen-an",
+    "category": "27",
+    "zh": [
+      "所吃之物",
+      "食物"
+    ],
+    "en": [
+      "what was eaten; food 8031"
+    ]
+  },
+  {
+    "id": "2979",
+    "basay": "k<in>alih-an",
+    "category": "14",
+    "zh": [
+      "被挖掘的地方"
+    ],
+    "en": [
+      "place that has been dug up 7709"
+    ]
+  },
+  {
+    "id": "2980",
+    "basay": "k<in>aRat-an",
+    "category": "07",
+    "zh": [
+      "動物咬傷的痕跡"
+    ],
+    "en": [
+      "the bite of an animal 7722"
+    ]
+  },
+  {
+    "id": "2981",
+    "basay": "k<in>uja",
+    "category": "28",
+    "zh": [
+      "引發反應的話語／行為（？）"
+    ],
+    "en": [
+      "what has been said/done (to cause someone to react)? 7469"
+    ]
+  },
+  {
+    "id": "2982",
+    "basay": "kingeR",
+    "category": "28",
+    "zh": [
+      "聽見"
+    ],
+    "en": [
+      "to hear 10059"
+    ]
+  },
+  {
+    "id": "2983",
+    "basay": "kipit",
+    "category": "14",
+    "zh": [
+      "狹窄",
+      "用夾子夾住"
+    ],
+    "en": [
+      "narrow; pinch between tongs, etc. 9932"
+    ]
+  },
+  {
+    "id": "2984",
+    "basay": "kiRim",
+    "category": "28",
+    "zh": [
+      "尋找",
+      "搜尋"
+    ],
+    "en": [
+      "seek, search, look for 6575"
+    ]
+  },
+  {
+    "id": "2985",
+    "basay": "kiRim-en",
+    "category": "25",
+    "zh": [
+      "被尋找"
+    ],
+    "en": [
+      "be looked for 6578"
+    ]
+  },
+  {
+    "id": "2986",
+    "basay": "kiRkiR",
+    "category": "09",
+    "zh": [
+      "銼刀",
+      "銼磨工具"
+    ],
+    "en": [
+      "rasp, file 6705"
+    ]
+  },
+  {
+    "id": "2987",
+    "basay": "kiRus",
+    "category": "25",
+    "zh": [
+      "刮",
+      "磨"
+    ],
+    "en": [
+      "scrape 3239"
+    ]
+  },
+  {
+    "id": "2988",
+    "basay": "kiskis",
+    "category": "25",
+    "zh": [
+      "刮除",
+      "刮掉"
+    ],
+    "en": [
+      "to shave, scrape off 9836"
+    ]
+  },
+  {
+    "id": "2989",
+    "basay": "kiskis",
+    "category": "02",
+    "zh": [
+      "我們（含聽話者）"
+    ],
+    "en": [
+      "scrape off 3240"
+    ]
+  },
+  {
+    "id": "2990",
+    "basay": "kita",
+    "category": "02",
+    "zh": [
+      "我們（含聽話者）"
+    ],
+    "en": [
+      "we (incl.) 7701"
+    ]
+  },
+  {
+    "id": "2991",
+    "basay": "k-ita",
+    "category": "28",
+    "zh": [
+      "看見"
+    ],
+    "en": [
+      "we (incl.) 11768"
+    ]
+  },
+  {
+    "id": "2992",
+    "basay": "kita",
+    "category": "28",
+    "zh": [
+      "被某人看見（？）"
+    ],
+    "en": [
+      "to see 8527"
+    ]
+  },
+  {
+    "id": "2993",
+    "basay": "kita-en",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "be seen by someone (?) 8533"
+    ]
+  },
+  {
+    "id": "2994",
+    "basay": "ki-tunuh",
+    "category": "25",
+    "zh": [
+      "搖動（尾巴）",
+      "煽動（人群）"
+    ],
+    "en": [
+      "(gloss uncertain) 2132"
+    ]
+  },
+  {
+    "id": "2995",
+    "basay": "kiwkiw",
+    "category": "36",
+    "zh": [
+      "第一人稱所有格標記（表示非主語的施事或所有）：我的",
+      "由我"
+    ],
+    "en": [
+      "to wave, wag (tail); to stir (people) up 9802"
+    ]
+  },
+  {
+    "id": "2996",
+    "basay": "-ku",
+    "category": "36",
+    "zh": [
+      "普通名詞的斜格標記（參見 *ki, *ka）"
+    ],
+    "en": [
+      "1sg genitive (marker of non-subject agency and possession; my; by me) 8769"
+    ]
+  },
+  {
+    "id": "2997",
+    "basay": "ku",
+    "category": "14",
+    "zh": [
+      "小村落",
+      "基於親屬的聚居單位"
+    ],
+    "en": [
+      "oblique of common nouns (cf. *ki, *ka) 8801"
+    ]
+  },
+  {
+    "id": "2998",
+    "basay": "kuan",
+    "category": "07",
+    "zh": [
+      "一種鳥及其叫聲"
+    ],
+    "en": [
+      "hamlet; kin-based residential unit 3257"
+    ]
+  },
+  {
+    "id": "2999",
+    "basay": "kuaw",
+    "category": "07",
+    "zh": [
+      "捲起",
+      "蜷縮"
+    ],
+    "en": [
+      "kind of bird and the sound of its call 3258"
+    ]
+  },
+  {
+    "id": "3000",
+    "basay": "kutkut",
+    "category": "06",
+    "zh": [
+      "頭蝨"
+    ],
+    "en": [
+      "roll up, curl up tightly 7295"
+    ]
+  },
+  {
+    "id": "3001",
+    "basay": "kutux",
+    "category": "11",
+    "zh": [
+      "陰天",
+      "雲層密布"
+    ],
+    "en": [
+      "head louse 7640"
+    ]
+  },
+  {
+    "id": "3002",
+    "basay": "kudem",
+    "category": "09",
+    "zh": [
+      "陶鍋"
+    ],
+    "en": [
+      "darkened by clouds, overcast 3259"
+    ]
+  },
+  {
+    "id": "3003",
+    "basay": "kuden",
+    "category": "09",
+    "zh": [
+      "陶鍋"
+    ],
+    "en": [
+      "clay cooking pot 6510"
+    ]
+  },
+  {
+    "id": "3004",
+    "basay": "kudeng",
+    "category": "06",
+    "zh": [
+      "鱗屑性皮膚病",
+      "疥瘡"
+    ],
+    "en": [
+      "clay cooking pot 9249"
+    ]
+  },
+  {
+    "id": "3005",
+    "basay": "kudis",
+    "category": "07",
+    "zh": [
+      "蹄",
+      "有蹄動物的下腿"
+    ],
+    "en": [
+      "scurfy skin disease; scabies 3260"
+    ]
+  },
+  {
+    "id": "3006",
+    "basay": "kudkud",
+    "category": "03",
+    "zh": [
+      "怎麼了？怎麼回事？"
+    ],
+    "en": [
+      "hoof, lower leg of an ungulate 3262"
+    ]
+  },
+  {
+    "id": "3007",
+    "basay": "kuja",
+    "category": "23",
+    "zh": [
+      "發出低沉叫聲的小鳥"
+    ],
+    "en": [
+      "how?, how is it? what is the matter? 7467"
+    ]
+  },
+  {
+    "id": "3008",
+    "basay": "kukung",
+    "category": "23",
+    "zh": [
+      "深沉響聲",
+      "木鼓",
+      "中空樹幹用作傳信"
+    ],
+    "en": [
+      "small bird that produces a deep resounding call 9183"
+    ]
+  },
+  {
+    "id": "3009",
+    "basay": "kungkung",
+    "category": "08",
+    "zh": [
+      "担子菌",
+      "多孔菌（如靈芝類）"
+    ],
+    "en": [
+      "deep resounding sound; slit-gong, hollowed tree trunk used to send messages 9184"
+    ]
+  },
+  {
+    "id": "3010",
+    "basay": "kulat",
+    "category": "07",
+    "zh": [
+      "蟲",
+      "昆蟲"
+    ],
+    "en": [
+      "bracket fungus, Polyporus spp. 8465"
+    ]
+  },
+  {
+    "id": "3011",
+    "basay": "kulay",
+    "category": "08",
+    "zh": [
+      "果皮",
+      "塊莖外皮"
+    ],
+    "en": [
+      "worm, insect 6641"
+    ]
+  },
+  {
+    "id": "3012",
+    "basay": "kulit",
+    "category": "34",
+    "zh": [
+      "攜帶",
+      "帶來"
+    ],
+    "en": [
+      "rind, peeling of fruits or tubers 7213"
+    ]
+  },
+  {
+    "id": "3013",
+    "basay": "k<um>atu",
+    "category": "27",
+    "zh": [
+      "吃"
+    ],
+    "en": [
+      "to bring, to carry along 6606"
+    ]
+  },
+  {
+    "id": "3014",
+    "basay": "k<um>aen",
+    "category": "27",
+    "zh": [
+      "撈取"
+    ],
+    "en": [
+      "to eat 8027"
+    ]
+  },
+  {
+    "id": "3015",
+    "basay": "k<um>ahus",
+    "category": "34",
+    "zh": [
+      "挖掘",
+      "掘出（如塊莖）"
+    ],
+    "en": [
+      "scoop up 6572"
+    ]
+  },
+  {
+    "id": "3016",
+    "basay": "k<um>ali",
+    "category": "25",
+    "zh": [
+      "咬"
+    ],
+    "en": [
+      "to dig up, excavate, as tubers 7708"
+    ]
+  },
+  {
+    "id": "3017",
+    "basay": "k<um>aRat",
+    "category": "25",
+    "zh": [
+      "抓癢"
+    ],
+    "en": [
+      "to bite 7720"
+    ]
+  },
+  {
+    "id": "3018",
+    "basay": "k<um>aRaw",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "to scratch an itch 7724"
+    ]
+  },
+  {
+    "id": "3019",
+    "basay": "k<um>asiw",
+    "category": "07",
+    "zh": [
+      "撈取（如魚網撈）"
+    ],
+    "en": [
+      "(gloss uncertain) 7802"
+    ]
+  },
+  {
+    "id": "3020",
+    "basay": "k<um>aus",
+    "category": "07",
+    "zh": [
+      "切割細長物"
+    ],
+    "en": [
+      "to scoop up, as with a fish net 11655"
+    ]
+  },
+  {
+    "id": "3021",
+    "basay": "k<um>eRet",
+    "category": "25",
+    "zh": [
+      "陰毛"
+    ],
+    "en": [
+      "cut something slender 7121"
+    ]
+  },
+  {
+    "id": "3022",
+    "basay": "kumes",
+    "category": "25",
+    "zh": [
+      "劈柴"
+    ],
+    "en": [
+      "pubic hair 9845"
+    ]
+  },
+  {
+    "id": "3023",
+    "basay": "k<um>etun",
+    "category": "34",
+    "zh": [
+      "尋找"
+    ],
+    "en": [
+      "chop up, as firewood 8245"
+    ]
+  },
+  {
+    "id": "3024",
+    "basay": "k<um>iRim",
+    "category": "28",
+    "zh": [
+      "陰毛"
+    ],
+    "en": [
+      "to seek, search, look for 6577"
+    ]
+  },
+  {
+    "id": "3025",
+    "basay": "kumis",
+    "category": "28",
+    "zh": [
+      "看見"
+    ],
+    "en": [
+      "pubic hair 8002"
+    ]
+  },
+  {
+    "id": "3026",
+    "basay": "k<um>ita",
+    "category": "28",
+    "zh": [
+      "去除蝨子"
+    ],
+    "en": [
+      "to see 8532"
+    ]
+  },
+  {
+    "id": "3027",
+    "basay": "k<um>utu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "to delouse 7649"
+    ]
+  },
+  {
+    "id": "3028",
+    "basay": "k<um>uja",
+    "category": "34",
+    "zh": [
+      "耙",
+      "耙土"
+    ],
+    "en": [
+      "(gloss uncertain) 7470"
+    ]
+  },
+  {
+    "id": "3029",
+    "basay": "k<um>uRi",
+    "category": "25",
+    "zh": [
+      "刮",
+      "搔"
+    ],
+    "en": [
+      "to rake 6582"
+    ]
+  },
+  {
+    "id": "3030",
+    "basay": "k<um>uskus",
+    "category": "10",
+    "zh": [
+      "台灣山鷓鴣"
+    ],
+    "en": [
+      "to scrape 7268"
+    ]
+  },
+  {
+    "id": "3031",
+    "basay": "kunkun",
+    "category": "23",
+    "zh": [
+      "低沉共鳴聲",
+      "一種低鳴鳥的名稱"
+    ],
+    "en": [
+      "Formosan hill partridge 6579"
+    ]
+  },
+  {
+    "id": "3032",
+    "basay": "ku(ng)kung",
+    "category": "25",
+    "zh": [
+      "緊壓",
+      "封緊"
+    ],
+    "en": [
+      "deep resonant sound; name of a bird with deep resonant cry 3322"
+    ]
+  },
+  {
+    "id": "3033",
+    "basay": "kupit",
+    "category": "25",
+    "zh": [
+      "金錢癬"
+    ],
+    "en": [
+      "press together, close tightly 3280"
+    ]
+  },
+  {
+    "id": "3034",
+    "basay": "kurap",
+    "category": "06",
+    "zh": [
+      "鱗屑性皮膚病",
+      "疥瘡"
+    ],
+    "en": [
+      "ringworm 9778"
+    ]
+  },
+  {
+    "id": "3035",
+    "basay": "kuris",
+    "category": "25",
+    "zh": [
+      "挖土"
+    ],
+    "en": [
+      "scurfy skin disease; scabies 3290"
+    ]
+  },
+  {
+    "id": "3036",
+    "basay": "kurkur",
+    "category": "34",
+    "zh": [
+      "耙子"
+    ],
+    "en": [
+      "dig in the soil 10020"
+    ]
+  },
+  {
+    "id": "3037",
+    "basay": "kuRi",
+    "category": "24",
+    "zh": [
+      "工作"
+    ],
+    "en": [
+      "rake 6580"
+    ]
+  },
+  {
+    "id": "3038",
+    "basay": "kusa",
+    "category": "06",
+    "zh": [
+      "爪",
+      "指甲"
+    ],
+    "en": [
+      "work 3299"
+    ]
+  },
+  {
+    "id": "3039",
+    "basay": "kuskus",
+    "category": "34",
+    "zh": [
+      "刮擦"
+    ],
+    "en": [
+      "claw, talon, fingernail 7272"
+    ]
+  },
+  {
+    "id": "3040",
+    "basay": "kuskus",
+    "category": "06",
+    "zh": [
+      "陰部（女性）",
+      "陰道"
+    ],
+    "en": [
+      "scrape 3301"
+    ]
+  },
+  {
+    "id": "3041",
+    "basay": "kuti",
+    "category": "25",
+    "zh": [
+      "刮除"
+    ],
+    "en": [
+      "vulva, vagina 7453"
+    ]
+  },
+  {
+    "id": "3042",
+    "basay": "kutkut",
+    "category": "32",
+    "zh": [
+      "壞的",
+      "有缺陷的"
+    ],
+    "en": [
+      "scrape off 9850"
+    ]
+  },
+  {
+    "id": "3043",
+    "basay": "kuya",
+    "category": "07",
+    "zh": [
+      "老鼠"
+    ],
+    "en": [
+      "bad, defective 6642"
+    ]
+  },
+  {
+    "id": "3044",
+    "basay": "labaw",
+    "category": "15",
+    "zh": [
+      "放養動物四處遊走"
+    ],
+    "en": [
+      "rat 8172"
+    ]
+  },
+  {
+    "id": "3045",
+    "basay": "labeR",
+    "category": "01",
+    "zh": [
+      "過多",
+      "盈餘"
+    ],
+    "en": [
+      "roam freely, of domesticated animals that are untethered 11771"
+    ]
+  },
+  {
+    "id": "3046",
+    "basay": "labiq",
+    "category": "08",
+    "zh": [
+      "咬人蕁麻（Laportea spp.）"
+    ],
+    "en": [
+      "excess, surplus 8759"
+    ]
+  },
+  {
+    "id": "3047",
+    "basay": "lateng",
+    "category": "10",
+    "zh": [
+      "下游",
+      "朝海方向"
+    ],
+    "en": [
+      "stinging nettle: Laportea spp. 7166"
+    ]
+  },
+  {
+    "id": "3048",
+    "basay": "lahud",
+    "category": "10",
+    "zh": [
+      "蒸汽",
+      "水氣"
+    ],
+    "en": [
+      "downstream, toward the sea 7039"
+    ]
+  },
+  {
+    "id": "3049",
+    "basay": "lahun",
+    "category": "32",
+    "zh": [
+      "熟悉",
+      "習慣"
+    ],
+    "en": [
+      "steam, vapor 8156"
+    ]
+  },
+  {
+    "id": "3050",
+    "basay": "lajam",
+    "category": "25",
+    "zh": [
+      "行走",
+      "踏步"
+    ],
+    "en": [
+      "familiar with, accustomed to 7492"
+    ]
+  },
+  {
+    "id": "3051",
+    "basay": "lakat",
+    "category": "09",
+    "zh": [
+      "包裹",
+      "覆蓋物"
+    ],
+    "en": [
+      "walk, take a step 11755"
+    ]
+  },
+  {
+    "id": "3052",
+    "basay": "lakup",
+    "category": "09",
+    "zh": [
+      "蟬"
+    ],
+    "en": [
+      "cover, wrapping 7872"
+    ]
+  },
+  {
+    "id": "3053",
+    "basay": "lalay",
+    "category": "01",
+    "zh": [
+      "五人（計數用法）"
+    ],
+    "en": [
+      "cicada 11727"
+    ]
+  },
+  {
+    "id": "3054",
+    "basay": "la-lima",
+    "category": "13",
+    "zh": [
+      "舊的",
+      "從前的"
+    ],
+    "en": [
+      "five (in counting people) 7390"
+    ]
+  },
+  {
+    "id": "3055",
+    "basay": "lama",
+    "category": "32",
+    "zh": [
+      "衝動的",
+      "性急的"
+    ],
+    "en": [
+      "old, former 3343"
+    ]
+  },
+  {
+    "id": "3056",
+    "basay": "lamlam",
+    "category": "34",
+    "zh": [
+      "家蠅"
+    ],
+    "en": [
+      "impetuous 3347"
+    ]
+  },
+  {
+    "id": "3057",
+    "basay": "langaw",
+    "category": "34",
+    "zh": [
+      "滿是蒼蠅",
+      "遭蠅擾"
+    ],
+    "en": [
+      "housefly 7573"
+    ]
+  },
+  {
+    "id": "3058",
+    "basay": "langaw-en",
+    "category": "28",
+    "zh": [
+      "難聞的氣味"
+    ],
+    "en": [
+      "infested with flies, covered with flies 7576"
+    ]
+  },
+  {
+    "id": "3059",
+    "basay": "lang(e)si",
+    "category": "11",
+    "zh": [
+      "天空"
+    ],
+    "en": [
+      "unpleasant odor 3395"
+    ]
+  },
+  {
+    "id": "3060",
+    "basay": "langit",
+    "category": "11",
+    "zh": [
+      "暈眩"
+    ],
+    "en": [
+      "sky 7528"
+    ]
+  },
+  {
+    "id": "3061",
+    "basay": "langu",
+    "category": "07",
+    "zh": [
+      "宰割動物",
+      "切塊"
+    ],
+    "en": [
+      "vertigo 3393"
+    ]
+  },
+  {
+    "id": "3062",
+    "basay": "lapaq",
+    "category": "07",
+    "zh": [
+      "飛鼠"
+    ],
+    "en": [
+      "to cut up, butcher, slaughter an animal 11425"
+    ]
+  },
+  {
+    "id": "3063",
+    "basay": "lapis",
+    "category": "18",
+    "zh": [
+      "鬆的（如衣服）"
+    ],
+    "en": [
+      "flying squirrel 6643"
+    ]
+  },
+  {
+    "id": "3064",
+    "basay": "laplap",
+    "category": "18",
+    "zh": [
+      "解開（繩結）",
+      "脫衣",
+      "去除衣物"
+    ],
+    "en": [
+      "loose (as of clothing) 3356"
+    ]
+  },
+  {
+    "id": "3065",
+    "basay": "lapus",
+    "category": "18",
+    "zh": [
+      "解開（繩結）",
+      "脫衣",
+      "除去衣物"
+    ],
+    "en": [
+      "untie (a knot), undress, remove clothes 12739"
+    ]
+  },
+  {
+    "id": "3066",
+    "basay": "laRang",
+    "category": "25",
+    "zh": [
+      "禁止"
+    ],
+    "en": [
+      "to forbid 3360"
+    ]
+  },
+  {
+    "id": "3067",
+    "basay": "laRiw",
+    "category": "25",
+    "zh": [
+      "跑",
+      "逃跑",
+      "逃走"
+    ],
+    "en": [
+      "run, run away, flee, escape 3361"
+    ]
+  },
+  {
+    "id": "3068",
+    "basay": "lasuq",
+    "category": "32",
+    "zh": [
+      "熱的",
+      "被熱氣灼傷的"
+    ],
+    "en": [
+      "hot; blistered by heat 11527"
+    ]
+  },
+  {
+    "id": "3069",
+    "basay": "la(n)tuk",
+    "category": "32",
+    "zh": [
+      "彎曲的"
+    ],
+    "en": [
+      "curved, bowed 3390"
+    ]
+  },
+  {
+    "id": "3070",
+    "basay": "lawa",
+    "category": "32",
+    "zh": [
+      "寬的"
+    ],
+    "en": [
+      "wide 3373"
+    ]
+  },
+  {
+    "id": "3071",
+    "basay": "lawaq",
+    "category": "09",
+    "zh": [
+      "蜘蛛",
+      "蜘蛛網"
+    ],
+    "en": [
+      "spider; spiderweb 8177"
+    ]
+  },
+  {
+    "id": "3072",
+    "basay": "lawaR",
+    "category": "07",
+    "zh": [
+      "飛鼠"
+    ],
+    "en": [
+      "flying squirrel 6583"
+    ]
+  },
+  {
+    "id": "3073",
+    "basay": "lawas",
+    "category": "32",
+    "zh": [
+      "寬廣的"
+    ],
+    "en": [
+      "wide, broad 3371"
+    ]
+  },
+  {
+    "id": "3074",
+    "basay": "lawas",
+    "category": "08",
+    "zh": [
+      "竹節",
+      "段落"
+    ],
+    "en": [
+      "internode of bamboo; section of something 11643"
+    ]
+  },
+  {
+    "id": "3075",
+    "basay": "laway",
+    "category": "18",
+    "zh": [
+      "線",
+      "紗"
+    ],
+    "en": [
+      "thread, yarn 11785"
+    ]
+  },
+  {
+    "id": "3076",
+    "basay": "layap",
+    "category": "07",
+    "zh": [
+      "飛"
+    ],
+    "en": [
+      "to fly 3378"
+    ]
+  },
+  {
+    "id": "3077",
+    "basay": "layaR",
+    "category": "20",
+    "zh": [
+      "帆"
+    ],
+    "en": [
+      "sail 7409"
+    ]
+  },
+  {
+    "id": "3078",
+    "basay": "layu",
+    "category": "34",
+    "zh": [
+      "枯萎",
+      "凋謝"
+    ],
+    "en": [
+      "wither, wilt 7111"
+    ]
+  },
+  {
+    "id": "3079",
+    "basay": "lebeng",
+    "category": "25",
+    "zh": [
+      "埋葬"
+    ],
+    "en": [
+      "to bury 7171"
+    ]
+  },
+  {
+    "id": "3080",
+    "basay": "lebleb",
+    "category": "11",
+    "zh": [
+      "多霧",
+      "陰霾",
+      "陰暗（雨前天氣）"
+    ],
+    "en": [
+      "foggy, misty, overcast, gloomy, of weather preceding rain 7256"
+    ]
+  },
+  {
+    "id": "3081",
+    "basay": "letik",
+    "category": "07",
+    "zh": [
+      "（固體碎片",
+      "水珠）飛濺"
+    ],
+    "en": [
+      "fly off, of solid bits or water droplets 3404"
+    ]
+  },
+  {
+    "id": "3082",
+    "basay": "ledep",
+    "category": "11",
+    "zh": [
+      "潛水",
+      "潛入水中"
+    ],
+    "en": [
+      "to dive, swim under water 11645"
+    ]
+  },
+  {
+    "id": "3083",
+    "basay": "ledled",
+    "category": "25",
+    "zh": [
+      "揉眼睛"
+    ],
+    "en": [
+      "to rub the eyes 11647"
+    ]
+  },
+  {
+    "id": "3084",
+    "basay": "lekab",
+    "category": "25",
+    "zh": [
+      "打開",
+      "揭開"
+    ],
+    "en": [
+      "open, uncover 3452"
+    ]
+  },
+  {
+    "id": "3085",
+    "basay": "lekuq",
+    "category": "32",
+    "zh": [
+      "彎處",
+      "關節"
+    ],
+    "en": [
+      "bend; bending part, joint 10897"
+    ]
+  },
+  {
+    "id": "3086",
+    "basay": "lemek",
+    "category": "32",
+    "zh": [
+      "柔軟的"
+    ],
+    "en": [
+      "soft 3412"
+    ]
+  },
+  {
+    "id": "3087",
+    "basay": "lemlem",
+    "category": "11",
+    "zh": [
+      "陰暗的（天氣）"
+    ],
+    "en": [
+      "dark, of weather; overcast 3418"
+    ]
+  },
+  {
+    "id": "3088",
+    "basay": "lepaw",
+    "category": "12",
+    "zh": [
+      "小屋"
+    ],
+    "en": [
+      "hut 3423"
+    ]
+  },
+  {
+    "id": "3089",
+    "basay": "lezep",
+    "category": "11",
+    "zh": [
+      "沉沒",
+      "水下消失"
+    ],
+    "en": [
+      "submerge, disappear under water 3438"
+    ]
+  },
+  {
+    "id": "3090",
+    "basay": "lidam",
+    "category": "06",
+    "zh": [
+      "舌頭"
+    ],
+    "en": [
+      "tongue 11663"
+    ]
+  },
+  {
+    "id": "3091",
+    "basay": "lidung",
+    "category": "09",
+    "zh": [
+      "庇護",
+      "遮蔽",
+      "陰影"
+    ],
+    "en": [
+      "shelter, cover, protection; shade 9153"
+    ]
+  },
+  {
+    "id": "3092",
+    "basay": "likat",
+    "category": "11",
+    "zh": [
+      "閃電"
+    ],
+    "en": [
+      "lightning 7276"
+    ]
+  },
+  {
+    "id": "3093",
+    "basay": "likaw",
+    "category": "18",
+    "zh": [
+      "曲線",
+      "彎曲",
+      "蜿蜒"
+    ],
+    "en": [
+      "curve, bend, winding 7531"
+    ]
+  },
+  {
+    "id": "3094",
+    "basay": "likes",
+    "category": "07",
+    "zh": [
+      "蚊子"
+    ],
+    "en": [
+      "mosquito 6584"
+    ]
+  },
+  {
+    "id": "3095",
+    "basay": "likud",
+    "category": "06",
+    "zh": [
+      "背部"
+    ],
+    "en": [
+      "back 7535"
+    ]
+  },
+  {
+    "id": "3096",
+    "basay": "likud-an",
+    "category": "14",
+    "zh": [
+      "後方地區（？）"
+    ],
+    "en": [
+      "back area, place at the back? 7539"
+    ]
+  },
+  {
+    "id": "3097",
+    "basay": "liku-likud",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7540"
+    ]
+  },
+  {
+    "id": "3098",
+    "basay": "liku-likud-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7541"
+    ]
+  },
+  {
+    "id": "3099",
+    "basay": "lima",
+    "category": "01",
+    "zh": [
+      "五"
+    ],
+    "en": [
+      "five 7384"
+    ]
+  },
+  {
+    "id": "3100",
+    "basay": "linuR",
+    "category": "34",
+    "zh": [
+      "地震"
+    ],
+    "en": [
+      "earthquake 3472"
+    ]
+  },
+  {
+    "id": "3101",
+    "basay": "linung",
+    "category": "11",
+    "zh": [
+      "平靜的（如水面）"
+    ],
+    "en": [
+      "calm, tranquil, of the surface of water 3475"
+    ]
+  },
+  {
+    "id": "3102",
+    "basay": "lingaw",
+    "category": "34",
+    "zh": [
+      "影子"
+    ],
+    "en": [
+      "shadow 3486"
+    ]
+  },
+  {
+    "id": "3103",
+    "basay": "lipas",
+    "category": "25",
+    "zh": [
+      "經過",
+      "通過"
+    ],
+    "en": [
+      "to pass, pass by 11541"
+    ]
+  },
+  {
+    "id": "3104",
+    "basay": "lipen",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "en": [
+      "tooth 7105"
+    ]
+  },
+  {
+    "id": "3105",
+    "basay": "lipet",
+    "category": "14",
+    "zh": [
+      "折疊",
+      "對摺"
+    ],
+    "en": [
+      "to fold, fold over 9031"
+    ]
+  },
+  {
+    "id": "3106",
+    "basay": "liput",
+    "category": "28",
+    "zh": [
+      "被遮住而消失於視線中"
+    ],
+    "en": [
+      "disappear behind something that envelops or blocks the view 11546"
+    ]
+  },
+  {
+    "id": "3107",
+    "basay": "liqeR",
+    "category": "06",
+    "zh": [
+      "頸部"
+    ],
+    "en": [
+      "neck 7356"
+    ]
+  },
+  {
+    "id": "3108",
+    "basay": "liseqes",
+    "category": "06",
+    "zh": [
+      "虱卵"
+    ],
+    "en": [
+      "nit, egg of a hair louse 7817"
+    ]
+  },
+  {
+    "id": "3109",
+    "basay": "litlit",
+    "category": "11",
+    "zh": [
+      "繞纏",
+      "纏繞綁起"
+    ],
+    "en": [
+      "wind around, bind by winding around 11460"
+    ]
+  },
+  {
+    "id": "3110",
+    "basay": "lius",
+    "category": "34",
+    "zh": [
+      "繞行",
+      "環繞"
+    ],
+    "en": [
+      "circumambulate, circumvent 3481"
+    ]
+  },
+  {
+    "id": "3111",
+    "basay": "lubang",
+    "category": "34",
+    "zh": [
+      "墓坑"
+    ],
+    "en": [
+      "burial pit 7311"
+    ]
+  },
+  {
+    "id": "3112",
+    "basay": "lubuk",
+    "category": "34",
+    "zh": [
+      "袋子",
+      "麻袋"
+    ],
+    "en": [
+      "bag, sack 12818"
+    ]
+  },
+  {
+    "id": "3113",
+    "basay": "lutung",
+    "category": "07",
+    "zh": [
+      "台灣獼猴（Macaca cyclopis）"
+    ],
+    "en": [
+      "the Formosan rock monkey: Macaca cyclopis 6845"
+    ]
+  },
+  {
+    "id": "3114",
+    "basay": "ludaq",
+    "category": "34",
+    "zh": [
+      "唾液"
+    ],
+    "en": [
+      "saliva 11788"
+    ]
+  },
+  {
+    "id": "3115",
+    "basay": "luem",
+    "category": "32",
+    "zh": [
+      "成熟的"
+    ],
+    "en": [
+      "ripe 3531"
+    ]
+  },
+  {
+    "id": "3116",
+    "basay": "lukenaw",
+    "category": "11",
+    "zh": [
+      "台灣雲豹"
+    ],
+    "en": [
+      "Formosan clouded leopard 6585"
+    ]
+  },
+  {
+    "id": "3117",
+    "basay": "lukut",
+    "category": "08",
+    "zh": [
+      "寄生植物"
+    ],
+    "en": [
+      "parasitic plant sp. 3518"
+    ]
+  },
+  {
+    "id": "3118",
+    "basay": "luluj",
+    "category": "06",
+    "zh": [
+      "脛骨",
+      "小腿前側"
+    ],
+    "en": [
+      "shin 7542"
+    ]
+  },
+  {
+    "id": "3119",
+    "basay": "lulun",
+    "category": "09",
+    "zh": [
+      "捲起（如蓆子）"
+    ],
+    "en": [
+      "to roll up, as a mat 7543"
+    ]
+  },
+  {
+    "id": "3120",
+    "basay": "l<um>edep",
+    "category": "11",
+    "zh": [
+      "潛水",
+      "水中游泳"
+    ],
+    "en": [
+      "to dive, swim under water 11646"
+    ]
+  },
+  {
+    "id": "3121",
+    "basay": "l<um>ubang",
+    "category": "14",
+    "zh": [
+      "埋進坑中",
+      "下葬"
+    ],
+    "en": [
+      "to bury, place in a pit or hole 7314"
+    ]
+  },
+  {
+    "id": "3122",
+    "basay": "l<um>udaq",
+    "category": "25",
+    "zh": [
+      "吐口水"
+    ],
+    "en": [
+      "to spit 11782"
+    ]
+  },
+  {
+    "id": "3123",
+    "basay": "lunung",
+    "category": "11",
+    "zh": [
+      "雲"
+    ],
+    "en": [
+      "cloud 11953"
+    ]
+  },
+  {
+    "id": "3124",
+    "basay": "lupas",
+    "category": "34",
+    "zh": [
+      "桃子"
+    ],
+    "en": [
+      "peach 7229"
+    ]
+  },
+  {
+    "id": "3125",
+    "basay": "lupas",
+    "category": "34",
+    "zh": [
+      "吐出"
+    ],
+    "en": [
+      "spit, spit out 3533"
+    ]
+  },
+  {
+    "id": "3126",
+    "basay": "luseq",
+    "category": "06",
+    "zh": [
+      "眼淚"
+    ],
+    "en": [
+      "tears 7667"
+    ]
+  },
+  {
+    "id": "3127",
+    "basay": "lutay",
+    "category": "34",
+    "zh": [
+      "虛弱",
+      "筋疲力盡"
+    ],
+    "en": [
+      "weak, exhausted 11589"
+    ]
+  },
+  {
+    "id": "3128",
+    "basay": "lutuk",
+    "category": "34",
+    "zh": [
+      "台灣兔（Lepus sinensis formosus）"
+    ],
+    "en": [
+      "the Formosan hare: Lepus sinensis formosus 6586"
+    ]
+  },
+  {
+    "id": "3129",
+    "basay": "ma-",
+    "category": "36",
+    "zh": [
+      "狀態前綴（表靜態）"
+    ],
+    "en": [
+      "stative prefix 8752"
+    ]
+  },
+  {
+    "id": "3130",
+    "basay": "ma-",
+    "category": "36",
+    "zh": [
+      "未來前綴"
+    ],
+    "en": [
+      "future prefix 8753"
+    ]
+  },
+  {
+    "id": "3131",
+    "basay": "ma-atay",
+    "category": "11",
+    "zh": [
+      "死亡",
+      "死去",
+      "日食／月食"
+    ],
+    "en": [
+      "die; dead; eclipse of sun or moon 37"
+    ]
+  },
+  {
+    "id": "3132",
+    "basay": "ma-ala",
+    "category": "25",
+    "zh": [
+      "被取走",
+      "被帶走"
+    ],
+    "en": [
+      "be fetched, be taken 7786"
+    ]
+  },
+  {
+    "id": "3133",
+    "basay": "ma-alap",
+    "category": "25",
+    "zh": [
+      "被帶走"
+    ],
+    "en": [
+      "be taken 99"
+    ]
+  },
+  {
+    "id": "3134",
+    "basay": "ma-anak",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 192"
+    ]
+  },
+  {
+    "id": "3135",
+    "basay": "ma-bajaq",
+    "category": "28",
+    "zh": [
+      "知道",
+      "理解"
+    ],
+    "en": [
+      "know, understand 6442"
+    ]
+  },
+  {
+    "id": "3136",
+    "basay": "ma-bali",
+    "category": "11",
+    "zh": [
+      "有風的"
+    ],
+    "en": [
+      "windy 6556"
+    ]
+  },
+  {
+    "id": "3137",
+    "basay": "ma-bañaw",
+    "category": "25",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 757"
+    ]
+  },
+  {
+    "id": "3138",
+    "basay": "ma-basaw",
+    "category": "32",
+    "zh": [
+      "冷掉的（如剩飯）"
+    ],
+    "en": [
+      "cooled off, as cooked food that has been left to sit too long 7068"
+    ]
+  },
+  {
+    "id": "3139",
+    "basay": "ma-belaq",
+    "category": "01",
+    "zh": [
+      "被劈開",
+      "分成兩半"
+    ],
+    "en": [
+      "be split, in two 882"
+    ]
+  },
+  {
+    "id": "3140",
+    "basay": "ma-besuR",
+    "category": "27",
+    "zh": [
+      "吃飽",
+      "滿足"
+    ],
+    "en": [
+      "satiated, full from eating 1016"
+    ]
+  },
+  {
+    "id": "3141",
+    "basay": "ma-b<in>ahi",
+    "category": "04",
+    "zh": [
+      "女性",
+      "女人"
+    ],
+    "en": [
+      "female, woman 11824"
+    ]
+  },
+  {
+    "id": "3142",
+    "basay": "ma-buta",
+    "category": "34",
+    "zh": [
+      "失明的"
+    ],
+    "en": [
+      "blind 1389"
+    ]
+  },
+  {
+    "id": "3143",
+    "basay": "ma-bunuR",
+    "category": "25",
+    "zh": [
+      "腫脹",
+      "膨脹"
+    ],
+    "en": [
+      "to swell; swollen 7294"
+    ]
+  },
+  {
+    "id": "3144",
+    "basay": "ma-buRaw",
+    "category": "34",
+    "zh": [
+      "被趕走"
+    ],
+    "en": [
+      "driven away, chased off 1741"
+    ]
+  },
+  {
+    "id": "3145",
+    "basay": "ma-busuk",
+    "category": "34",
+    "zh": [
+      "醉了",
+      "醉酒的"
+    ],
+    "en": [
+      "drunk, intoxicated 1788"
+    ]
+  },
+  {
+    "id": "3146",
+    "basay": "mata",
+    "category": "06",
+    "zh": [
+      "眼睛",
+      "焦點",
+      "中心",
+      "最明顯之處"
+    ],
+    "en": [
+      "eye, focal point, center or most prominent part 8601"
+    ]
+  },
+  {
+    "id": "3147",
+    "basay": "ma-takaw",
+    "category": "25",
+    "zh": [
+      "偷竊"
+    ],
+    "en": [
+      "to steal 1940"
+    ]
+  },
+  {
+    "id": "3148",
+    "basay": "ma-tangis",
+    "category": "29",
+    "zh": [
+      "愛哭",
+      "動輒流淚"
+    ],
+    "en": [
+      "tearful, crying easily 2041"
+    ]
+  },
+  {
+    "id": "3149",
+    "basay": "ma-taqu",
+    "category": "25",
+    "zh": [
+      "能幹",
+      "有知識",
+      "有能力"
+    ],
+    "en": [
+      "to be capable, able, knowledgeable 7841"
+    ]
+  },
+  {
+    "id": "3150",
+    "basay": "ma-tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2028"
+    ]
+  },
+  {
+    "id": "3151",
+    "basay": "ma-tunuh",
+    "category": "27",
+    "zh": [
+      "烤過的"
+    ],
+    "en": [
+      "roasted 2133"
+    ]
+  },
+  {
+    "id": "3152",
+    "basay": "ma-dajam",
+    "category": "25",
+    "zh": [
+      "馴服的",
+      "習慣的"
+    ],
+    "en": [
+      "accustomed to, tame 2182"
+    ]
+  },
+  {
+    "id": "3153",
+    "basay": "ma-dajem",
+    "category": "34",
+    "zh": [
+      "發寒",
+      "瘧疾寒顫"
+    ],
+    "en": [
+      "chills, as of malaria 2184"
+    ]
+  },
+  {
+    "id": "3154",
+    "basay": "ma-dalem",
+    "category": "32",
+    "zh": [
+      "深的"
+    ],
+    "en": [
+      "deep 7092"
+    ]
+  },
+  {
+    "id": "3155",
+    "basay": "ma-dalis",
+    "category": "34",
+    "zh": [
+      "光滑的",
+      "滑溜的"
+    ],
+    "en": [
+      "smooth, slippery 2192"
+    ]
+  },
+  {
+    "id": "3156",
+    "basay": "ma-daRaq",
+    "category": "06",
+    "zh": [
+      "流血",
+      "月經來"
+    ],
+    "en": [
+      "bloody, bleeding; to menstruate 7207"
+    ]
+  },
+  {
+    "id": "3157",
+    "basay": "ma-demdem",
+    "category": "11",
+    "zh": [
+      "陰天",
+      "陰暗",
+      "昏沉"
+    ],
+    "en": [
+      "dark, overcast, gloomy 7569"
+    ]
+  },
+  {
+    "id": "3158",
+    "basay": "ma-hemis",
+    "category": "34",
+    "zh": [
+      "甜的"
+    ],
+    "en": [
+      "sweet 2648"
+    ]
+  },
+  {
+    "id": "3159",
+    "basay": "ma-kaen",
+    "category": "27",
+    "zh": [
+      "將吃（？）"
+    ],
+    "en": [
+      "will eat (?) 8010"
+    ]
+  },
+  {
+    "id": "3160",
+    "basay": "maka-enem",
+    "category": "01",
+    "zh": [
+      "六次（重複表頻率）"
+    ],
+    "en": [
+      "six times (frequentative multiplicative) 2366"
+    ]
+  },
+  {
+    "id": "3161",
+    "basay": "maka-lima",
+    "category": "01",
+    "zh": [
+      "五次"
+    ],
+    "en": [
+      "five times 7391"
+    ]
+  },
+  {
+    "id": "3162",
+    "basay": "maka-pija",
+    "category": "03",
+    "zh": [
+      "幾天？（問天數）"
+    ],
+    "en": [
+      "(for) how many days? 8052"
+    ]
+  },
+  {
+    "id": "3163",
+    "basay": "maka-pitu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8314"
+    ]
+  },
+  {
+    "id": "3164",
+    "basay": "ma-kaRat",
+    "category": "25",
+    "zh": [
+      "被咬"
+    ],
+    "en": [
+      "to be bitten 7718"
+    ]
+  },
+  {
+    "id": "3165",
+    "basay": "maka-sepat",
+    "category": "01",
+    "zh": [
+      "四次"
+    ],
+    "en": [
+      "four times 5170"
+    ]
+  },
+  {
+    "id": "3166",
+    "basay": "maka-walu",
+    "category": "01",
+    "zh": [
+      "八次（重複表頻率）"
+    ],
+    "en": [
+      "eight times (frequentative, multiplicative) 5947"
+    ]
+  },
+  {
+    "id": "3167",
+    "basay": "ma-keseR",
+    "category": "34",
+    "zh": [
+      "強壯",
+      "有力",
+      "精力旺盛"
+    ],
+    "en": [
+      "strong, vigorous, energetic, forceful 11020"
+    ]
+  },
+  {
+    "id": "3168",
+    "basay": "ma-kiRim",
+    "category": "34",
+    "zh": [
+      "發現？"
+    ],
+    "en": [
+      "found? 6576"
+    ]
+  },
+  {
+    "id": "3169",
+    "basay": "ma-kutu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7642"
+    ]
+  },
+  {
+    "id": "3170",
+    "basay": "ma-kuja",
+    "category": "03",
+    "zh": [
+      "你在做什麼？發生什麼事？"
+    ],
+    "en": [
+      "what are you doing? what’s happening? 7471"
+    ]
+  },
+  {
+    "id": "3171",
+    "basay": "ma-kulit",
+    "category": "32",
+    "zh": [
+      "瘦的",
+      "纖細的",
+      "體重過輕的"
+    ],
+    "en": [
+      "skinny, thin, underweight 9145"
+    ]
+  },
+  {
+    "id": "3172",
+    "basay": "ma-langu",
+    "category": "34",
+    "zh": [
+      "暈眩的",
+      "醉的"
+    ],
+    "en": [
+      "dizzy, drunk 3394"
+    ]
+  },
+  {
+    "id": "3173",
+    "basay": "ma-laRiw",
+    "category": "25",
+    "zh": [
+      "跑",
+      "逃跑",
+      "逃走"
+    ],
+    "en": [
+      "run, run away, flee 3362"
+    ]
+  },
+  {
+    "id": "3174",
+    "basay": "ma-lebleb",
+    "category": "11",
+    "zh": [
+      "多霧",
+      "陰霾",
+      "陰暗（雨前天氣）"
+    ],
+    "en": [
+      "foggy, misty, overcast, gloomy, of weather preceding rain 7265"
+    ]
+  },
+  {
+    "id": "3175",
+    "basay": "ma-lima-n",
+    "category": "01",
+    "zh": [
+      "五十"
+    ],
+    "en": [
+      "fifty 7401"
+    ]
+  },
+  {
+    "id": "3176",
+    "basay": "maliqi",
+    "category": "34",
+    "zh": [
+      "懷孕的"
+    ],
+    "en": [
+      "pregnant 3563"
+    ]
+  },
+  {
+    "id": "3177",
+    "basay": "ma-litlit",
+    "category": "14",
+    "zh": [
+      "被纏繞",
+      "變得纏繞住"
+    ],
+    "en": [
+      "be or become wound around something 11461"
+    ]
+  },
+  {
+    "id": "3178",
+    "basay": "mamah",
+    "category": "04",
+    "zh": [
+      "父親的兄弟"
+    ],
+    "en": [
+      "father’s brother 8745"
+    ]
+  },
+  {
+    "id": "3179",
+    "basay": "ma-najam",
+    "category": "32",
+    "zh": [
+      "熟悉的",
+      "馴服的"
+    ],
+    "en": [
+      "accustomed to, familiar with; tame 3642"
+    ]
+  },
+  {
+    "id": "3180",
+    "basay": "manu",
+    "category": "03",
+    "zh": [
+      "疑問標記：哪一個？"
+    ],
+    "en": [
+      "interrogative marker: which? 3571"
+    ]
+  },
+  {
+    "id": "3181",
+    "basay": "manuk",
+    "category": "07",
+    "zh": [
+      "雞"
+    ],
+    "en": [
+      "chicken 6948"
+    ]
+  },
+  {
+    "id": "3182",
+    "basay": "manang",
+    "category": "32",
+    "zh": [
+      "鋒利的"
+    ],
+    "en": [
+      "sharp 7296"
+    ]
+  },
+  {
+    "id": "3183",
+    "basay": "ma-nipis",
+    "category": "32",
+    "zh": [
+      "薄的（材料）"
+    ],
+    "en": [
+      "thin (of materials) 8673"
+    ]
+  },
+  {
+    "id": "3184",
+    "basay": "ma-niwang",
+    "category": "32",
+    "zh": [
+      "瘦的（人或動物）"
+    ],
+    "en": [
+      "thin, of persons and animals 7051"
+    ]
+  },
+  {
+    "id": "3185",
+    "basay": "ma-nuka",
+    "category": "34",
+    "zh": [
+      "受傷的"
+    ],
+    "en": [
+      "wounded 3708"
+    ]
+  },
+  {
+    "id": "3186",
+    "basay": "ma-ngilu",
+    "category": "28",
+    "zh": [
+      "酸痛（如吃酸物時牙齒刺痛）"
+    ],
+    "en": [
+      "painful, as of teeth on edge from eating something very sour 7505"
+    ]
+  },
+  {
+    "id": "3187",
+    "basay": "ma-paqit",
+    "category": "34",
+    "zh": [
+      "苦的"
+    ],
+    "en": [
+      "bitter 6874"
+    ]
+  },
+  {
+    "id": "3188",
+    "basay": "ma-piliq",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8116"
+    ]
+  },
+  {
+    "id": "3189",
+    "basay": "ma-pinay",
+    "category": "34",
+    "zh": [
+      "跛的",
+      "有殘疾的"
+    ],
+    "en": [
+      "lame, crippled 10863"
+    ]
+  },
+  {
+    "id": "3190",
+    "basay": "ma-pizpiz",
+    "category": "25",
+    "zh": [
+      "密集的",
+      "排列緊密的"
+    ],
+    "en": [
+      "closely spaced, set close together 7415"
+    ]
+  },
+  {
+    "id": "3191",
+    "basay": "ma-pukaw",
+    "category": "34",
+    "zh": [
+      "模糊的（視力）"
+    ],
+    "en": [
+      "dim, of vision 7525"
+    ]
+  },
+  {
+    "id": "3192",
+    "basay": "ma-puni",
+    "category": "22",
+    "zh": [
+      "白色"
+    ],
+    "en": [
+      "white 6685"
+    ]
+  },
+  {
+    "id": "3193",
+    "basay": "ma-pusan",
+    "category": "01",
+    "zh": [
+      "二十"
+    ],
+    "en": [
+      "twenty 6647"
+    ]
+  },
+  {
+    "id": "3194",
+    "basay": "ma-qati",
+    "category": "11",
+    "zh": [
+      "水退",
+      "潮退"
+    ],
+    "en": [
+      "ebb, of water in streams; low tide 4144"
+    ]
+  },
+  {
+    "id": "3195",
+    "basay": "ma-qajaw",
+    "category": "32",
+    "zh": [
+      "晴朗",
+      "炎熱的"
+    ],
+    "en": [
+      "sunny, hot 4150"
+    ]
+  },
+  {
+    "id": "3196",
+    "basay": "ma-qataq",
+    "category": "32",
+    "zh": [
+      "生的",
+      "未熟的"
+    ],
+    "en": [
+      "raw, unripe 4341"
+    ]
+  },
+  {
+    "id": "3197",
+    "basay": "maqaw",
+    "category": "07",
+    "zh": [
+      "植物：山雞椒（Litsea cubeba）"
+    ],
+    "en": [
+      "a plant: Litsea cubeba (Lour.) 6587"
+    ]
+  },
+  {
+    "id": "3198",
+    "basay": "ma-qetaq",
+    "category": "08",
+    "zh": [
+      "生的",
+      "青的（果實）",
+      "未煮熟的"
+    ],
+    "en": [
+      "raw, unripe, green (fruit), uncooked 4488"
+    ]
+  },
+  {
+    "id": "3199",
+    "basay": "ma-qudem",
+    "category": "22",
+    "zh": [
+      "陰暗",
+      "昏沉"
+    ],
+    "en": [
+      "dark, cloudy 12890"
+    ]
+  },
+  {
+    "id": "3200",
+    "basay": "ma-qusaw",
+    "category": "28",
+    "zh": [
+      "口渴的"
+    ],
+    "en": [
+      "thirsty 4750"
+    ]
+  },
+  {
+    "id": "3201",
+    "basay": "ma-quzan",
+    "category": "11",
+    "zh": [
+      "多雨的"
+    ],
+    "en": [
+      "rainy 4783"
+    ]
+  },
+  {
+    "id": "3202",
+    "basay": "maR-amax",
+    "category": "04",
+    "zh": [
+      "父子關係"
+    ],
+    "en": [
+      "to be father and child 136"
+    ]
+  },
+  {
+    "id": "3203",
+    "basay": "maR-buaq",
+    "category": "08",
+    "zh": [
+      "結果實"
+    ],
+    "en": [
+      "bear fruit 1336"
+    ]
+  },
+  {
+    "id": "3204",
+    "basay": "maRe-anak",
+    "category": "04",
+    "zh": [
+      "親子關係"
+    ],
+    "en": [
+      "parent and child 199"
+    ]
+  },
+  {
+    "id": "3205",
+    "basay": "maR-ina",
+    "category": "04",
+    "zh": [
+      "母子關係"
+    ],
+    "en": [
+      "to be mother and child 2898"
+    ]
+  },
+  {
+    "id": "3206",
+    "basay": "maR-luseq",
+    "category": "25",
+    "zh": [
+      "流淚",
+      "哭泣"
+    ],
+    "en": [
+      "to shed tears, weep 7669"
+    ]
+  },
+  {
+    "id": "3207",
+    "basay": "maR-qani",
+    "category": "15",
+    "zh": [
+      "收成",
+      "收穫"
+    ],
+    "en": [
+      "harvest; to harvest 4227"
+    ]
+  },
+  {
+    "id": "3208",
+    "basay": "mas",
+    "category": "34",
+    "zh": [
+      "和",
+      "與"
+    ],
+    "en": [
+      "and 3572"
+    ]
+  },
+  {
+    "id": "3209",
+    "basay": "ma-sasak",
+    "category": "27",
+    "zh": [
+      "成熟的",
+      "煮熟的"
+    ],
+    "en": [
+      "ripe; cooked 5066"
+    ]
+  },
+  {
+    "id": "3210",
+    "basay": "ma-sateD",
+    "category": "34",
+    "zh": [
+      "陪伴",
+      "護送"
+    ],
+    "en": [
+      "escort, accompany 5079"
+    ]
+  },
+  {
+    "id": "3211",
+    "basay": "ma-sepat",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 5168"
+    ]
+  },
+  {
+    "id": "3212",
+    "basay": "ma-seRet",
+    "category": "34",
+    "zh": [
+      "緊的",
+      "牢固的"
+    ],
+    "en": [
+      "tight, firm 8210"
+    ]
+  },
+  {
+    "id": "3213",
+    "basay": "ma-seyaq",
+    "category": "29",
+    "zh": [
+      "害羞",
+      "尷尬",
+      "羞愧"
+    ],
+    "en": [
+      "shy, embarrassed; ashamed 5205"
+    ]
+  },
+  {
+    "id": "3214",
+    "basay": "ma-sikad",
+    "category": "29",
+    "zh": [
+      "害羞",
+      "謙虛",
+      "羞怯"
+    ],
+    "en": [
+      "ashamed; shy; modest 7263"
+    ]
+  },
+  {
+    "id": "3215",
+    "basay": "ma-suab",
+    "category": "25",
+    "zh": [
+      "打呵欠"
+    ],
+    "en": [
+      "to yawn, yawning 5361"
+    ]
+  },
+  {
+    "id": "3216",
+    "basay": "ma-suaw",
+    "category": "25",
+    "zh": [
+      "打呵欠"
+    ],
+    "en": [
+      "to yawn 6695"
+    ]
+  },
+  {
+    "id": "3217",
+    "basay": "ma-sulem",
+    "category": "22",
+    "zh": [
+      "昏暗的"
+    ],
+    "en": [
+      "dim, dark 5392"
+    ]
+  },
+  {
+    "id": "3218",
+    "basay": "mata nu qalejaw",
+    "category": "11",
+    "zh": [
+      "太陽（日之眼）"
+    ],
+    "en": [
+      "sun (‘eye of the day’) 8628"
+    ]
+  },
+  {
+    "id": "3219",
+    "basay": "ma-takut",
+    "category": "29",
+    "zh": [
+      "害怕的",
+      "恐懼的"
+    ],
+    "en": [
+      "fearful, afraid 7427"
+    ]
+  },
+  {
+    "id": "3220",
+    "basay": "ma-talaw",
+    "category": "29",
+    "zh": [
+      "膽小的",
+      "害怕的"
+    ],
+    "en": [
+      "fearful, cowardly 7421"
+    ]
+  },
+  {
+    "id": "3221",
+    "basay": "ma-tanga",
+    "category": "25",
+    "zh": [
+      "將打開？"
+    ],
+    "en": [
+      "will open? 6711"
+    ]
+  },
+  {
+    "id": "3222",
+    "basay": "-matek",
+    "category": "10",
+    "zh": [
+      "水蛭（山區）"
+    ],
+    "en": [
+      "jungle leech, Haemadipsa spp. 6861"
+    ]
+  },
+  {
+    "id": "3223",
+    "basay": "ma-telu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8424"
+    ]
+  },
+  {
+    "id": "3224",
+    "basay": "ma-tuduR",
+    "category": "25",
+    "zh": [
+      "睡覺"
+    ],
+    "en": [
+      "to sleep 8360"
+    ]
+  },
+  {
+    "id": "3225",
+    "basay": "ma-tunuh",
+    "category": "27",
+    "zh": [
+      "被烤過的"
+    ],
+    "en": [
+      "roasted 2134"
+    ]
+  },
+  {
+    "id": "3226",
+    "basay": "ma-tuqas",
+    "category": "32",
+    "zh": [
+      "年老的（人）"
+    ],
+    "en": [
+      "old, of people 11752"
+    ]
+  },
+  {
+    "id": "3227",
+    "basay": "ma-tuqas tuqas",
+    "category": "13",
+    "zh": [
+      "年長的",
+      "資深的"
+    ],
+    "en": [
+      "old, elder, senior 8514"
+    ]
+  },
+  {
+    "id": "3228",
+    "basay": "ma-ulaw",
+    "category": "34",
+    "zh": [
+      "恍惚的",
+      "迷糊的"
+    ],
+    "en": [
+      "dazed, confused 5765"
+    ]
+  },
+  {
+    "id": "3229",
+    "basay": "-metaq",
+    "category": "15",
+    "zh": [
+      "水蛭（水田）"
+    ],
+    "en": [
+      "paddy leech 10103"
+    ]
+  },
+  {
+    "id": "3230",
+    "basay": "-medaw",
+    "category": "28",
+    "zh": [
+      "頭暈",
+      "暈眩的"
+    ],
+    "en": [
+      "dizzy, giddy 11715"
+    ]
+  },
+  {
+    "id": "3231",
+    "basay": "mesmes",
+    "category": "34",
+    "zh": [
+      "抓緊",
+      "握緊",
+      "擠壓"
+    ],
+    "en": [
+      "grasp, grip, squeeze 3584"
+    ]
+  },
+  {
+    "id": "3232",
+    "basay": "metmet",
+    "category": "25",
+    "zh": [
+      "緊握"
+    ],
+    "en": [
+      "to hold tightly 12729"
+    ]
+  },
+  {
+    "id": "3233",
+    "basay": "mi-",
+    "category": "36",
+    "zh": [
+      "所屬前綴（標示某物之所屬）"
+    ],
+    "en": [
+      "prefix marking possession of some object 10846"
+    ]
+  },
+  {
+    "id": "3234",
+    "basay": "mi-da-dusa",
+    "category": "25",
+    "zh": [
+      "與人一起做某事",
+      "共同執行動作"
+    ],
+    "en": [
+      "do something with someone else, perform an action together 7892"
+    ]
+  },
+  {
+    "id": "3235",
+    "basay": "m<in>ata",
+    "category": "28",
+    "zh": [
+      "睜眼的（？）"
+    ],
+    "en": [
+      "open-eyed (?) 8606"
+    ]
+  },
+  {
+    "id": "3236",
+    "basay": "m<in>atay",
+    "category": "34",
+    "zh": [
+      "墓地（？）"
+    ],
+    "en": [
+      "burial ground (?) 64"
+    ]
+  },
+  {
+    "id": "3237",
+    "basay": "mu-",
+    "category": "36",
+    "zh": [
+      "動作前綴"
+    ],
+    "en": [
+      "movement prefix 8789"
+    ]
+  },
+  {
+    "id": "3238",
+    "basay": "mudaq",
+    "category": "08",
+    "zh": [
+      "幼果",
+      "未成熟的（果實）"
+    ],
+    "en": [
+      "young (of fruits); immature 12796"
+    ]
+  },
+  {
+    "id": "3239",
+    "basay": "mujing",
+    "category": "06",
+    "zh": [
+      "臉（人類）"
+    ],
+    "en": [
+      "face (human) 7282"
+    ]
+  },
+  {
+    "id": "3240",
+    "basay": "mujing-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7283"
+    ]
+  },
+  {
+    "id": "3241",
+    "basay": "mula",
+    "category": "08",
+    "zh": [
+      "種植"
+    ],
+    "en": [
+      "to plant 3630"
+    ]
+  },
+  {
+    "id": "3242",
+    "basay": "mulmul",
+    "category": "25",
+    "zh": [
+      "含住並吸吮"
+    ],
+    "en": [
+      "hold in the mouth and suck 3631"
+    ]
+  },
+  {
+    "id": "3243",
+    "basay": "mumu",
+    "category": "34",
+    "zh": [
+      "台灣盲鼴（Talpa micrura insularis）"
+    ],
+    "en": [
+      "Formosan blind mole: Talpa micrura insularis(Swinhoe) 7187"
+    ]
+  },
+  {
+    "id": "3244",
+    "basay": "muRmuR",
+    "category": "25",
+    "zh": [
+      "漱口",
+      "漱喉"
+    ],
+    "en": [
+      "gargle, rinse the mouth 3635"
+    ]
+  },
+  {
+    "id": "3245",
+    "basay": "-na",
+    "category": "02",
+    "zh": [
+      "指向遠處的時空指示詞：那裡",
+      "那時"
+    ],
+    "en": [
+      "distal spatio-temporal deixis: that, there; then 3655"
+    ]
+  },
+  {
+    "id": "3246",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "表強調屬性的連接標記"
+    ],
+    "en": [
+      "linker marking emphatic attribution 3654"
+    ]
+  },
+  {
+    "id": "3247",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "複數人名的所有格標記"
+    ],
+    "en": [
+      "genitive of plural personal names 8693"
+    ]
+  },
+  {
+    "id": "3248",
+    "basay": "najam",
+    "category": "32",
+    "zh": [
+      "熟悉的",
+      "馴服的"
+    ],
+    "en": [
+      "accustomed to, familiar with; tame 3641"
+    ]
+  },
+  {
+    "id": "3249",
+    "basay": "n-ami",
+    "category": "36",
+    "zh": [
+      "我們的（1人稱複數排除型所有格）"
+    ],
+    "en": [
+      "1pl. excl. genitive, our 9707"
+    ]
+  },
+  {
+    "id": "3250",
+    "basay": "n-amu",
+    "category": "36",
+    "zh": [
+      "你們的（2人稱複數所有格）"
+    ],
+    "en": [
+      "2pl. genitive, your, by you 9711"
+    ]
+  },
+  {
+    "id": "3251",
+    "basay": "na-nu",
+    "category": "03",
+    "zh": [
+      "什麼（？）"
+    ],
+    "en": [
+      "what(?) 3703"
+    ]
+  },
+  {
+    "id": "3252",
+    "basay": "nanaq",
+    "category": "34",
+    "zh": [
+      "膿"
+    ],
+    "en": [
+      "pus 7221"
+    ]
+  },
+  {
+    "id": "3253",
+    "basay": "naRa",
+    "category": "25",
+    "zh": [
+      "等待"
+    ],
+    "en": [
+      "to wait 72"
+    ]
+  },
+  {
+    "id": "3254",
+    "basay": "nasuk",
+    "category": "11",
+    "zh": [
+      "用水煮"
+    ],
+    "en": [
+      "cook by boiling 3650"
+    ]
+  },
+  {
+    "id": "3255",
+    "basay": "nay",
+    "category": "36",
+    "zh": [
+      "指示詞：這"
+    ],
+    "en": [
+      "deictic particle: this 6644"
+    ]
+  },
+  {
+    "id": "3256",
+    "basay": "nema",
+    "category": "03",
+    "zh": [
+      "什麼東西？"
+    ],
+    "en": [
+      "what thing? 7324"
+    ]
+  },
+  {
+    "id": "3257",
+    "basay": "nemnem",
+    "category": "29",
+    "zh": [
+      "思考"
+    ],
+    "en": [
+      "think 3662"
+    ]
+  },
+  {
+    "id": "3258",
+    "basay": "-ni",
+    "category": "02",
+    "zh": [
+      "指向近端的時空指示詞：這裡",
+      "現在"
+    ],
+    "en": [
+      "proximal spatio-temporal deixis: this, here; now 3677"
+    ]
+  },
+  {
+    "id": "3259",
+    "basay": "ni",
+    "category": "36",
+    "zh": [
+      "單數人名或代名詞的所有格標記",
+      "表示所有",
+      "部分關係或非主體動作的施事"
+    ],
+    "en": [
+      "genitive case marker for singular personal names and pronouns; marker of possession, part-to-whole relationships, and agency of a non-actor voice verb 8781"
+    ]
+  },
+  {
+    "id": "3260",
+    "basay": "ni-a",
+    "category": "02",
+    "zh": [
+      "他／她的（動作主或所有者）"
+    ],
+    "en": [
+      "3sg. agent/possessor 385"
+    ]
+  },
+  {
+    "id": "3261",
+    "basay": "ni-ia",
+    "category": "36",
+    "zh": [
+      "他／她的（所有格）"
+    ],
+    "en": [
+      "3sg. genitive, his, her 12619"
+    ]
+  },
+  {
+    "id": "3262",
+    "basay": "ni-ima",
+    "category": "03",
+    "zh": [
+      "誰的？"
+    ],
+    "en": [
+      "whose? 8840"
+    ]
+  },
+  {
+    "id": "3263",
+    "basay": "nimas",
+    "category": "08",
+    "zh": [
+      "獨木舟用舀水器"
+    ],
+    "en": [
+      "bailer in a canoe 8539"
+    ]
+  },
+  {
+    "id": "3264",
+    "basay": "nipen",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "en": [
+      "tooth 7136"
+    ]
+  },
+  {
+    "id": "3265",
+    "basay": "n-ita",
+    "category": "36",
+    "zh": [
+      "我們的（1人稱包括型所有格）"
+    ],
+    "en": [
+      "1st pers. incl. genitive; our 7698"
+    ]
+  },
+  {
+    "id": "3266",
+    "basay": "nu-",
+    "category": "36",
+    "zh": [
+      "未來標記（用於表示日子）"
+    ],
+    "en": [
+      "future marker with words for days 11638"
+    ]
+  },
+  {
+    "id": "3267",
+    "basay": "-nu",
+    "category": "35",
+    "zh": [
+      "不確定標記"
+    ],
+    "en": [
+      "marker of uncertainty 3687"
+    ]
+  },
+  {
+    "id": "3268",
+    "basay": "nu",
+    "category": "03",
+    "zh": [
+      "如果",
+      "當（未來時）"
+    ],
+    "en": [
+      "if, when (in future) 3715"
+    ]
+  },
+  {
+    "id": "3269",
+    "basay": "-nu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數所有者及非主體施事"
+    ],
+    "en": [
+      "2sg possessor and non-subject agent 8790"
+    ]
+  },
+  {
+    "id": "3270",
+    "basay": "nu",
+    "category": "36",
+    "zh": [
+      "普通名詞的所有格標記（參見 *na, *ni）"
+    ],
+    "en": [
+      "genitive case marker for common nouns (cf. *na, *ni) 8802"
+    ]
+  },
+  {
+    "id": "3271",
+    "basay": "nuka",
+    "category": "18",
+    "zh": [
+      "製作大麻紗線"
+    ],
+    "en": [
+      "to make hemp yarn 12666"
+    ]
+  },
+  {
+    "id": "3272",
+    "basay": "numa",
+    "category": "03",
+    "zh": [
+      "如何？"
+    ],
+    "en": [
+      "how? 12730"
+    ]
+  },
+  {
+    "id": "3273",
+    "basay": "nunuh",
+    "category": "06",
+    "zh": [
+      "女性乳房"
+    ],
+    "en": [
+      "female breast 7789"
+    ]
+  },
+  {
+    "id": "3274",
+    "basay": "na",
+    "category": "36",
+    "zh": [
+      "連詞：和"
+    ],
+    "en": [
+      "conjunction: and 3652"
+    ]
+  },
+  {
+    "id": "3275",
+    "basay": "na",
+    "category": "34",
+    "zh": [
+      "已經"
+    ],
+    "en": [
+      "already 8754"
+    ]
+  },
+  {
+    "id": "3276",
+    "basay": "nabek",
+    "category": "08",
+    "zh": [
+      "海浪",
+      "浪花"
+    ],
+    "en": [
+      "breakers, surf, waves 3639"
+    ]
+  },
+  {
+    "id": "3277",
+    "basay": "nateng",
+    "category": "34",
+    "zh": [
+      "蔬菜"
+    ],
+    "en": [
+      "vegetables 7284"
+    ]
+  },
+  {
+    "id": "3278",
+    "basay": "nali",
+    "category": "34",
+    "zh": [
+      "蟬"
+    ],
+    "en": [
+      "cicada 3644"
+    ]
+  },
+  {
+    "id": "3279",
+    "basay": "namat",
+    "category": "34",
+    "zh": [
+      "鐵（金屬）"
+    ],
+    "en": [
+      "iron (metal) 7307"
+    ]
+  },
+  {
+    "id": "3280",
+    "basay": "nanguy",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "en": [
+      "to swim 8380"
+    ]
+  },
+  {
+    "id": "3281",
+    "basay": "naqeji",
+    "category": "15",
+    "zh": [
+      "相鄰稻田間的界線"
+    ],
+    "en": [
+      "boundary between adjacent rice fields 7230"
+    ]
+  },
+  {
+    "id": "3282",
+    "basay": "nasu",
+    "category": "27",
+    "zh": [
+      "煮（以沸煮法）"
+    ],
+    "en": [
+      "cook by boiling 8110"
+    ]
+  },
+  {
+    "id": "3283",
+    "basay": "nataD",
+    "category": "14",
+    "zh": [
+      "外面"
+    ],
+    "en": [
+      "outside 7286"
+    ]
+  },
+  {
+    "id": "3284",
+    "basay": "nayad",
+    "category": "08",
+    "zh": [
+      "一種植物：接骨木（Sambucus formosana）"
+    ],
+    "en": [
+      "a plant: Sambucus formosana 12731"
+    ]
+  },
+  {
+    "id": "3285",
+    "basay": "neng",
+    "category": "28",
+    "zh": [
+      "看",
+      "視察"
+    ],
+    "en": [
+      "look, see 3666"
+    ]
+  },
+  {
+    "id": "3286",
+    "basay": "nengneng",
+    "category": "28",
+    "zh": [
+      "凝視",
+      "盯著看"
+    ],
+    "en": [
+      "stare, look fixedly 3664"
+    ]
+  },
+  {
+    "id": "3287",
+    "basay": "nibu",
+    "category": "07",
+    "zh": [
+      "動物巢穴"
+    ],
+    "en": [
+      "lair, den of an animal 6588"
+    ]
+  },
+  {
+    "id": "3288",
+    "basay": "nihib",
+    "category": "10",
+    "zh": [
+      "岩石遮蔽處",
+      "岩穴"
+    ],
+    "en": [
+      "rock shelter, cave under a rock 7123"
+    ]
+  },
+  {
+    "id": "3289",
+    "basay": "nipis",
+    "category": "32",
+    "zh": [
+      "薄（物質）"
+    ],
+    "en": [
+      "thinness (of materials) 8860"
+    ]
+  },
+  {
+    "id": "3290",
+    "basay": "nisawa",
+    "category": "25",
+    "zh": [
+      "呼吸",
+      "呼吸動作"
+    ],
+    "en": [
+      "breath; to breathe 7967"
+    ]
+  },
+  {
+    "id": "3291",
+    "basay": "nitaq",
+    "category": "10",
+    "zh": [
+      "一種土壤，黏土"
+    ],
+    "en": [
+      "type of soil, clay 12782"
+    ]
+  },
+  {
+    "id": "3292",
+    "basay": "niteq",
+    "category": "08",
+    "zh": [
+      "樹液或植物汁液"
+    ],
+    "en": [
+      "sap of a tree or plant 3674"
+    ]
+  },
+  {
+    "id": "3293",
+    "basay": "niwang",
+    "category": "32",
+    "zh": [
+      "細長",
+      "纖細"
+    ],
+    "en": [
+      "thinness, slenderness 7050"
+    ]
+  },
+  {
+    "id": "3294",
+    "basay": "nuka",
+    "category": "06",
+    "zh": [
+      "傷口"
+    ],
+    "en": [
+      "wound 3707"
+    ]
+  },
+  {
+    "id": "3295",
+    "basay": "n<um>anguy",
+    "category": "25",
+    "zh": [
+      "游泳"
+    ],
+    "en": [
+      "to swim 8382"
+    ]
+  },
+  {
+    "id": "3296",
+    "basay": "nuqes",
+    "category": "06",
+    "zh": [
+      "骨髓"
+    ],
+    "en": [
+      "bone marrow 7124"
+    ]
+  },
+  {
+    "id": "3297",
+    "basay": "nusung",
+    "category": "34",
+    "zh": [
+      "擂米臼"
+    ],
+    "en": [
+      "rice mortar 3539"
+    ]
+  },
+  {
+    "id": "3298",
+    "basay": "nutud",
+    "category": "01",
+    "zh": [
+      "連接兩物使加長（繩索",
+      "竹子等）"
+    ],
+    "en": [
+      "join two things to give added length (rope, bamboo, etc.) 7188"
+    ]
+  },
+  {
+    "id": "3299",
+    "basay": "ñamñam",
+    "category": "34",
+    "zh": [
+      "美味（？）"
+    ],
+    "en": [
+      "tasty, delicious (?) 6044"
+    ]
+  },
+  {
+    "id": "3300",
+    "basay": "ñamuR",
+    "category": "11",
+    "zh": [
+      "露水"
+    ],
+    "en": [
+      "dew 6885"
+    ]
+  },
+  {
+    "id": "3301",
+    "basay": "ñawñaw",
+    "category": "25",
+    "zh": [
+      "沖洗",
+      "清洗"
+    ],
+    "en": [
+      "rinse, wash 6049"
+    ]
+  },
+  {
+    "id": "3302",
+    "basay": "ngabngab",
+    "category": "34",
+    "zh": [
+      "咬掉表面"
+    ],
+    "en": [
+      "bite off the surface of something 6040"
+    ]
+  },
+  {
+    "id": "3303",
+    "basay": "ngajan",
+    "category": "05",
+    "zh": [
+      "名字"
+    ],
+    "en": [
+      "name 7493"
+    ]
+  },
+  {
+    "id": "3304",
+    "basay": "ngajay",
+    "category": "06",
+    "zh": [
+      "唾液",
+      "口水"
+    ],
+    "en": [
+      "saliva, drivel 10991"
+    ]
+  },
+  {
+    "id": "3305",
+    "basay": "ngalngal",
+    "category": "27",
+    "zh": [
+      "咀嚼"
+    ],
+    "en": [
+      "to chew, masticate 8764"
+    ]
+  },
+  {
+    "id": "3306",
+    "basay": "nganga",
+    "category": "06",
+    "zh": [
+      "張嘴"
+    ],
+    "en": [
+      "open the mouth 7984"
+    ]
+  },
+  {
+    "id": "3307",
+    "basay": "ngawngaw",
+    "category": "35",
+    "zh": [
+      "動物發出的聲音",
+      "人類無法理解的嘟囔聲"
+    ],
+    "en": [
+      "sound produced by an animal; unintelligible muttering of a person 8594"
+    ]
+  },
+  {
+    "id": "3308",
+    "basay": "ngayaw",
+    "category": "34",
+    "zh": [
+      "獵首"
+    ],
+    "en": [
+      "headhunting 6526"
+    ]
+  },
+  {
+    "id": "3309",
+    "basay": "ngetnget",
+    "category": "06",
+    "zh": [
+      "咬牙切齒"
+    ],
+    "en": [
+      "gnash the teeth 8147"
+    ]
+  },
+  {
+    "id": "3310",
+    "basay": "ngernger",
+    "category": "32",
+    "zh": [
+      "低吼"
+    ],
+    "en": [
+      "growl 8546"
+    ]
+  },
+  {
+    "id": "3311",
+    "basay": "ngesnges",
+    "category": "25",
+    "zh": [
+      "喘氣，呼吸急促"
+    ],
+    "en": [
+      "to pant, be out of breath 8555"
+    ]
+  },
+  {
+    "id": "3312",
+    "basay": "ngetnget",
+    "category": "32",
+    "zh": [
+      "啃咬，輕咬"
+    ],
+    "en": [
+      "gnaw, nibble 8556"
+    ]
+  },
+  {
+    "id": "3313",
+    "basay": "ngitngit",
+    "category": "35",
+    "zh": [
+      "顯示惱怒或不耐煩"
+    ],
+    "en": [
+      "show annoyance or irritation 8595"
+    ]
+  },
+  {
+    "id": "3314",
+    "basay": "ngidaw",
+    "category": "35",
+    "zh": [
+      "無牙的"
+    ],
+    "en": [
+      "toothless 8564"
+    ]
+  },
+  {
+    "id": "3315",
+    "basay": "ngilu",
+    "category": "06",
+    "zh": [
+      "牙齒疼痛感（如吃酸物時）"
+    ],
+    "en": [
+      "painful sensation in teeth, as from eating something sour 7503"
+    ]
+  },
+  {
+    "id": "3316",
+    "basay": "ngipen",
+    "category": "06",
+    "zh": [
+      "牙齒"
+    ],
+    "en": [
+      "tooth 7138"
+    ]
+  },
+  {
+    "id": "3317",
+    "basay": "ngisngis",
+    "category": "34",
+    "zh": [
+      "鬍鬚"
+    ],
+    "en": [
+      "beard 6683"
+    ]
+  },
+  {
+    "id": "3318",
+    "basay": "ngitngit",
+    "category": "34",
+    "zh": [
+      "啃咬"
+    ],
+    "en": [
+      "gnaw 6070"
+    ]
+  },
+  {
+    "id": "3319",
+    "basay": "ngusngus",
+    "category": "23",
+    "zh": [
+      "打鼾，吼叫，呼嚕聲"
+    ],
+    "en": [
+      "to snore, growl, grunt 8598"
+    ]
+  },
+  {
+    "id": "3320",
+    "basay": "ngusuq",
+    "category": "06",
+    "zh": [
+      "鼻部區域",
+      "吻部"
+    ],
+    "en": [
+      "nasal area; snout 7553"
+    ]
+  },
+  {
+    "id": "3321",
+    "basay": "ngusun",
+    "category": "06",
+    "zh": [
+      "流鼻血"
+    ],
+    "en": [
+      "nosebleed 6589"
+    ]
+  },
+  {
+    "id": "3322",
+    "basay": "ngusuR",
+    "category": "06",
+    "zh": [
+      "鼻涕"
+    ],
+    "en": [
+      "nasal mucus 6674"
     ]
   }
 ]

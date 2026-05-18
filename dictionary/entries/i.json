@@ -1,5 +1,22 @@
 [
   {
+    "id": "2803",
+    "basay": "-i",
+    "category": "36",
+    "zh": [
+      "祈使語尾"
+    ],
+    "en": [
+      "imperative suffix 3033"
+    ],
+    "original": "-i₁",
+    "audio": {
+      "slug": "i",
+      "ipay": "dictionary/audio/ipay/i/i.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i.mp3"
+    }
+  },
+  {
     "id": "1166",
     "basay": "-ia",
     "category": "02",
@@ -9,7 +26,6 @@
     "en": [
       "his, her, their (GEN)"
     ],
-    "source": "T",
     "original": "-ia",
     "audio": {
       "slug": "ia",
@@ -27,7 +43,6 @@
     "en": [
       "your (GEN)"
     ],
-    "source": "T",
     "original": "-imu",
     "audio": {
       "slug": "imu",
@@ -45,7 +60,6 @@
     "en": [
       "your (SG, GEN)"
     ],
-    "source": "T",
     "original": "-isu",
     "audio": {
       "slug": "isu",
@@ -63,12 +77,290 @@
     "en": [
       "our (GÊN)"
     ],
-    "source": "T",
     "original": "-ita",
     "audio": {
       "slug": "ita",
       "ipay": "dictionary/audio/ipay/i/ita.mp3",
       "hokkien": "dictionary/audio/hokkien/i/ita.mp3"
+    }
+  },
+  {
+    "id": "2824",
+    "basay": "<in>",
+    "category": "36",
+    "zh": [
+      "完成體標記"
+    ],
+    "en": [
+      "perfective marker 2934"
+    ],
+    "original": "<in>",
+    "audio": {
+      "slug": "in",
+      "ipay": "dictionary/audio/ipay/i/in.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/in.mp3"
+    }
+  },
+  {
+    "id": "2804",
+    "basay": "i",
+    "category": "36",
+    "zh": [
+      "驚訝",
+      "厭惡等的感嘆詞"
+    ],
+    "en": [
+      "exclamation of wonder, disgust, etc. 3029"
+    ],
+    "original": "i₁",
+    "audio": {
+      "slug": "i",
+      "ipay": "dictionary/audio/ipay/i/i.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i.mp3"
+    }
+  },
+  {
+    "id": "2805",
+    "basay": "i",
+    "category": "36",
+    "zh": [
+      "表示空間或時間的位置標記"
+    ],
+    "en": [
+      "generic marker of location in space or time 3030"
+    ],
+    "original": "i₂",
+    "audio": {
+      "slug": "i",
+      "ipay": "dictionary/audio/ipay/i/i.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i.mp3"
+    }
+  },
+  {
+    "id": "2806",
+    "basay": "i",
+    "category": "02",
+    "zh": [
+      "人稱限定詞（冠詞）"
+    ],
+    "en": [
+      "personal article 3031"
+    ],
+    "original": "i₃",
+    "audio": {
+      "slug": "i",
+      "ipay": "dictionary/audio/ipay/i/i.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i.mp3"
+    }
+  },
+  {
+    "id": "2801",
+    "basay": "i atas",
+    "category": "14",
+    "zh": [
+      "上方",
+      "上面"
+    ],
+    "en": [
+      "above, on top 28"
+    ],
+    "original": "i aCas",
+    "audio": {
+      "slug": "i_atas",
+      "ipay": "dictionary/audio/ipay/i/i_atas.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_atas.mp3"
+    }
+  },
+  {
+    "id": "2802",
+    "basay": "i babaw",
+    "category": "14",
+    "zh": [
+      "在…上方"
+    ],
+    "en": [
+      "above, on top of 430"
+    ],
+    "original": "i babaw",
+    "audio": {
+      "slug": "i_babaw",
+      "ipay": "dictionary/audio/ipay/i/i_babaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_babaw.mp3"
+    }
+  },
+  {
+    "id": "2808",
+    "basay": "i-aku",
+    "category": "02",
+    "zh": [
+      "第一人稱單數：我"
+    ],
+    "en": [
+      "1sg., I, me 11661"
+    ],
+    "original": "i-aku",
+    "audio": {
+      "slug": "i_aku",
+      "ipay": "dictionary/audio/ipay/i/i_aku.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_aku.mp3"
+    }
+  },
+  {
+    "id": "2809",
+    "basay": "i-amen",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他賓格"
+    ],
+    "en": [
+      "1pl.ex oblique 12091"
+    ],
+    "original": "i-amen",
+    "audio": {
+      "slug": "i_amen",
+      "ipay": "dictionary/audio/ipay/i/i_amen.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_amen.mp3"
+    }
+  },
+  {
+    "id": "2810",
+    "basay": "i-ami",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他主格：我們"
+    ],
+    "en": [
+      "1pl. excl. nominative, we 9703"
+    ],
+    "original": "i-ami",
+    "audio": {
+      "slug": "i_ami",
+      "ipay": "dictionary/audio/ipay/i/i_ami.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_ami.mp3"
+    }
+  },
+  {
+    "id": "2817",
+    "basay": "i-kasu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數：你"
+    ],
+    "en": [
+      "2sg., you 9766"
+    ],
+    "original": "i-kaSu",
+    "audio": {
+      "slug": "i_kasu",
+      "ipay": "dictionary/audio/ipay/i/i_kasu.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_kasu.mp3"
+    }
+  },
+  {
+    "id": "2828",
+    "basay": "i-ni",
+    "category": "02",
+    "zh": [
+      "這個",
+      "這裡"
+    ],
+    "en": [
+      "this, here 3679"
+    ],
+    "original": "i-ni",
+    "audio": {
+      "slug": "i_ni",
+      "ipay": "dictionary/audio/ipay/i/i_ni.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_ni.mp3"
+    }
+  },
+  {
+    "id": "2831",
+    "basay": "i-nu",
+    "category": "35",
+    "zh": [
+      "不知道或記不起的地方：哪裡？"
+    ],
+    "en": [
+      "place which is unknown or cannot be remembered: where? 3700"
+    ],
+    "original": "i-nu",
+    "audio": {
+      "slug": "i_nu",
+      "ipay": "dictionary/audio/ipay/i/i_nu.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_nu.mp3"
+    }
+  },
+  {
+    "id": "2846",
+    "basay": "i-ti",
+    "category": "02",
+    "zh": [
+      "第一人稱指示與空間參照：這個",
+      "這裡"
+    ],
+    "en": [
+      "1p deixis and spatial reference: this; here 5635"
+    ],
+    "original": "i-ti",
+    "audio": {
+      "slug": "i_ti",
+      "ipay": "dictionary/audio/ipay/i/i_ti.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_ti.mp3"
+    }
+  },
+  {
+    "id": "2814",
+    "basay": "i-tu",
+    "category": "02",
+    "zh": [
+      "那個（指第二人稱）"
+    ],
+    "en": [
+      "that (2p) 2172"
+    ],
+    "original": "i-Cu",
+    "audio": {
+      "slug": "i_tu",
+      "ipay": "dictionary/audio/ipay/i/i_tu.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/i_tu.mp3"
+    }
+  },
+  {
+    "id": "2807",
+    "basay": "ia",
+    "category": "02",
+    "zh": [
+      "第三人稱單數人稱代詞：他",
+      "她",
+      "它"
+    ],
+    "en": [
+      "3sg. personal pronoun: he, she; him, her, it 2785"
+    ],
+    "original": "ia₁",
+    "audio": {
+      "slug": "ia",
+      "ipay": "dictionary/audio/ipay/i/ia.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ia.mp3"
+    }
+  },
+  {
+    "id": "2812",
+    "basay": "ia-ni",
+    "category": "02",
+    "zh": [
+      "這個",
+      "這裡"
+    ],
+    "en": [
+      "this; here 3680"
+    ],
+    "original": "ia-ni",
+    "audio": {
+      "slug": "ia_ni",
+      "ipay": "dictionary/audio/ipay/i/ia_ni.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ia_ni.mp3"
     }
   },
   {
@@ -81,8 +373,25 @@
     "en": [
       "heaven"
     ],
-    "source": "S",
     "original": "Ian (S)",
+    "audio": {
+      "slug": "ian",
+      "ipay": "dictionary/audio/ipay/i/ian.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ian.mp3"
+    }
+  },
+  {
+    "id": "2811",
+    "basay": "ian",
+    "category": "14",
+    "zh": [
+      "居住",
+      "住在某地"
+    ],
+    "en": [
+      "dwell, reside, live in a place 2775"
+    ],
+    "original": "ian₂",
     "audio": {
       "slug": "ian",
       "ipay": "dictionary/audio/ipay/i/ian.mp3",
@@ -103,7 +412,6 @@
     "en": [
       "spill over"
     ],
-    "source": "B",
     "original": "Iapoŋpoŋ",
     "audio": {
       "slug": "iaponxponx",
@@ -121,7 +429,6 @@
     "en": [
       "go out"
     ],
-    "source": "M",
     "original": "iasiŋas (M)",
     "audio": {
       "slug": "iasinxas",
@@ -139,12 +446,47 @@
     "en": [
       "night"
     ],
-    "source": "T",
     "original": "Iavi, leania",
     "audio": {
       "slug": "iavi",
       "ipay": "dictionary/audio/ipay/i/iavi.mp3",
       "hokkien": "dictionary/audio/hokkien/i/iavi.mp3"
+    }
+  },
+  {
+    "id": "2813",
+    "basay": "ibas",
+    "category": "05",
+    "zh": [
+      "伴侶",
+      "近親",
+      "另一方"
+    ],
+    "en": [
+      "companion, close relative, other one 2792"
+    ],
+    "original": "ibaS",
+    "audio": {
+      "slug": "ibas",
+      "ipay": "dictionary/audio/ipay/i/ibas.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ibas.mp3"
+    }
+  },
+  {
+    "id": "2815",
+    "basay": "idas",
+    "category": "02",
+    "zh": [
+      "與自我同輩的姻親"
+    ],
+    "en": [
+      "affine of Ego's generation 2814"
+    ],
+    "original": "idas₁",
+    "audio": {
+      "slug": "idas",
+      "ipay": "dictionary/audio/ipay/i/idas.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/idas.mp3"
     }
   },
   {
@@ -158,12 +500,79 @@
     "en": [
       "tree, wood, stick"
     ],
-    "source": "T",
     "original": "Iesaw",
     "audio": {
       "slug": "iesaw",
       "ipay": "dictionary/audio/ipay/i/iesaw.mp3",
       "hokkien": "dictionary/audio/hokkien/i/iesaw.mp3"
+    }
+  },
+  {
+    "id": "2816",
+    "basay": "ijan",
+    "category": "03",
+    "zh": [
+      "什麼時候？"
+    ],
+    "en": [
+      "when? 2827"
+    ],
+    "original": "ijan",
+    "audio": {
+      "slug": "ijan",
+      "ipay": "dictionary/audio/ipay/i/ijan.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ijan.mp3"
+    }
+  },
+  {
+    "id": "2818",
+    "basay": "ikuD",
+    "category": "25",
+    "zh": [
+      "跟隨"
+    ],
+    "en": [
+      "to follow 2839"
+    ],
+    "original": "ikuD",
+    "audio": {
+      "slug": "ikud",
+      "ipay": "dictionary/audio/ipay/i/ikud.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ikud.mp3"
+    }
+  },
+  {
+    "id": "2819",
+    "basay": "ikud",
+    "category": "25",
+    "zh": [
+      "坐"
+    ],
+    "en": [
+      "to sit 10690"
+    ],
+    "original": "ikud",
+    "audio": {
+      "slug": "ikud",
+      "ipay": "dictionary/audio/ipay/i/ikud.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ikud.mp3"
+    }
+  },
+  {
+    "id": "2820",
+    "basay": "ikuR",
+    "category": "34",
+    "zh": [
+      "尾巴"
+    ],
+    "en": [
+      "tail 2840"
+    ],
+    "original": "ikuR",
+    "audio": {
+      "slug": "ikur",
+      "ipay": "dictionary/audio/ipay/i/ikur.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ikur.mp3"
     }
   },
   {
@@ -176,7 +585,6 @@
     "en": [
       "discard"
     ],
-    "source": "T",
     "original": "iɭapus",
     "audio": {
       "slug": "ilxapus",
@@ -194,12 +602,62 @@
     "en": [
       "neck"
     ],
-    "source": "T",
     "original": "ilaqəzan",
     "audio": {
       "slug": "ilaqoxzan",
       "ipay": "dictionary/audio/ipay/i/ilaqoxzan.mp3",
       "hokkien": "dictionary/audio/hokkien/i/ilaqoxzan.mp3"
+    }
+  },
+  {
+    "id": "2821",
+    "basay": "iluR",
+    "category": "10",
+    "zh": [
+      "河道"
+    ],
+    "en": [
+      "river channel 2865"
+    ],
+    "original": "iluR₂",
+    "audio": {
+      "slug": "ilur",
+      "ipay": "dictionary/audio/ipay/i/ilur.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ilur.mp3"
+    }
+  },
+  {
+    "id": "2822",
+    "basay": "ima",
+    "category": "03",
+    "zh": [
+      "誰？"
+    ],
+    "en": [
+      "who? 6624"
+    ],
+    "original": "ima",
+    "audio": {
+      "slug": "ima",
+      "ipay": "dictionary/audio/ipay/i/ima.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ima.mp3"
+    }
+  },
+  {
+    "id": "2823",
+    "basay": "imah",
+    "category": "27",
+    "zh": [
+      "喝"
+    ],
+    "en": [
+      "drink 12644"
+    ],
+    "original": "imah",
+    "audio": {
+      "slug": "imah",
+      "ipay": "dictionary/audio/ipay/i/imah.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/imah.mp3"
     }
   },
   {
@@ -212,12 +670,116 @@
     "en": [
       "you (OBL)"
     ],
-    "source": "T",
     "original": "imuanan",
     "audio": {
       "slug": "imuanan",
       "ipay": "dictionary/audio/ipay/i/imuanan.mp3",
       "hokkien": "dictionary/audio/hokkien/i/imuanan.mp3"
+    }
+  },
+  {
+    "id": "2826",
+    "basay": "in-alap",
+    "category": "24",
+    "zh": [
+      "被拿走的東西",
+      "被…所取"
+    ],
+    "en": [
+      "that which has been taken; was taken by 104"
+    ],
+    "original": "in-alap",
+    "audio": {
+      "slug": "in_alap",
+      "ipay": "dictionary/audio/ipay/i/in_alap.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/in_alap.mp3"
+    }
+  },
+  {
+    "id": "2825",
+    "basay": "ina",
+    "category": "04",
+    "zh": [
+      "母親",
+      "母親的姐妹"
+    ],
+    "en": [
+      "mother, mother's sister 2887"
+    ],
+    "original": "ina",
+    "audio": {
+      "slug": "ina",
+      "ipay": "dictionary/audio/ipay/i/ina.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ina.mp3"
+    }
+  },
+  {
+    "id": "2832",
+    "basay": "ing(e)pis",
+    "category": "32",
+    "zh": [
+      "薄（物體材質）"
+    ],
+    "en": [
+      "thin (of material objects) 5341"
+    ],
+    "original": "iŋ(e)pis",
+    "audio": {
+      "slug": "inx_e_pis",
+      "ipay": "dictionary/audio/ipay/i/inx_e_pis.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/inx_e_pis.mp3"
+    }
+  },
+  {
+    "id": "2833",
+    "basay": "ingsung",
+    "category": "08",
+    "zh": [
+      "木製舂米臼"
+    ],
+    "en": [
+      "wooden rice mortar 3060"
+    ],
+    "original": "iŋsuŋ",
+    "audio": {
+      "slug": "inxsunx",
+      "ipay": "dictionary/audio/ipay/i/inxsunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/inxsunx.mp3"
+    }
+  },
+  {
+    "id": "2829",
+    "basay": "ini",
+    "category": "35",
+    "zh": [
+      "否定標記：不",
+      "不是"
+    ],
+    "en": [
+      "negative marker: no, not 6638"
+    ],
+    "original": "ini",
+    "audio": {
+      "slug": "ini",
+      "ipay": "dictionary/audio/ipay/i/ini.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ini.mp3"
+    }
+  },
+  {
+    "id": "2830",
+    "basay": "inu",
+    "category": "03",
+    "zh": [
+      "哪裡？"
+    ],
+    "en": [
+      "where? 2930"
+    ],
+    "original": "inu",
+    "audio": {
+      "slug": "inu",
+      "ipay": "dictionary/audio/ipay/i/inu.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/inu.mp3"
     }
   },
   {
@@ -230,12 +792,48 @@
     "en": [
       "where"
     ],
-    "source": "T",
     "original": "inu, inuna",
     "audio": {
       "slug": "inu",
       "ipay": "dictionary/audio/ipay/i/inu.mp3",
       "hokkien": "dictionary/audio/hokkien/i/inu.mp3"
+    }
+  },
+  {
+    "id": "2827",
+    "basay": "iná-q",
+    "category": "04",
+    "zh": [
+      "母親",
+      "母親的姐妹（稱呼用）"
+    ],
+    "en": [
+      "mother, mother's sister (address, vocative) 2896"
+    ],
+    "original": "iná-q",
+    "audio": {
+      "slug": "in_q",
+      "ipay": "dictionary/audio/ipay/i/in_q.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/in_q.mp3"
+    }
+  },
+  {
+    "id": "2834",
+    "basay": "ipit",
+    "category": "14",
+    "zh": [
+      "接近",
+      "靠近",
+      "邊緣"
+    ],
+    "en": [
+      "near, come near; edge, border 2941"
+    ],
+    "original": "ipit",
+    "audio": {
+      "slug": "ipit",
+      "ipay": "dictionary/audio/ipay/i/ipit.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ipit.mp3"
     }
   },
   {
@@ -248,12 +846,81 @@
     "en": [
       "endure, put up with"
     ],
-    "source": "M",
     "original": "ipzi (M), sul",
     "audio": {
       "slug": "ipzi",
       "ipay": "dictionary/audio/ipay/i/ipzi.mp3",
       "hokkien": "dictionary/audio/hokkien/i/ipzi.mp3"
+    }
+  },
+  {
+    "id": "2835",
+    "basay": "iRik",
+    "category": "25",
+    "zh": [
+      "用腳脫粒（如打稻）"
+    ],
+    "en": [
+      "thresh with the feet (as rice) 2956"
+    ],
+    "original": "iRik",
+    "audio": {
+      "slug": "irik",
+      "ipay": "dictionary/audio/ipay/i/irik.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/irik.mp3"
+    }
+  },
+  {
+    "id": "2837",
+    "basay": "isa",
+    "category": "01",
+    "zh": [
+      "一個"
+    ],
+    "en": [
+      "one 2965"
+    ],
+    "original": "isa₁",
+    "audio": {
+      "slug": "isa",
+      "ipay": "dictionary/audio/ipay/i/isa.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isa.mp3"
+    }
+  },
+  {
+    "id": "2836",
+    "basay": "isa isa",
+    "category": "01",
+    "zh": [
+      "分配的",
+      "逐一的",
+      "一次一個的"
+    ],
+    "en": [
+      "distributive; one-by-one, one at a time 2969"
+    ],
+    "original": "isa isa",
+    "audio": {
+      "slug": "isa_isa",
+      "ipay": "dictionary/audio/ipay/i/isa_isa.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isa_isa.mp3"
+    }
+  },
+  {
+    "id": "2838",
+    "basay": "isa-nga",
+    "category": "01",
+    "zh": [
+      "剩下的一個"
+    ],
+    "en": [
+      "the remaining one 2968"
+    ],
+    "original": "isa-ŋa",
+    "audio": {
+      "slug": "isa_nxa",
+      "ipay": "dictionary/audio/ipay/i/isa_nxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isa_nxa.mp3"
     }
   },
   {
@@ -266,7 +933,6 @@
     "en": [
       "waist"
     ],
-    "source": "T",
     "original": "isavutan",
     "audio": {
       "slug": "isavutan",
@@ -284,12 +950,52 @@
     "en": [
       "sweet wine"
     ],
-    "source": "S",
     "original": "ise (S)",
     "audio": {
       "slug": "ise",
       "ipay": "dictionary/audio/ipay/i/ise.mp3",
       "hokkien": "dictionary/audio/hokkien/i/ise.mp3"
+    }
+  },
+  {
+    "id": "2840",
+    "basay": "iseq",
+    "category": "32",
+    "zh": [
+      "小便",
+      "尿尿"
+    ],
+    "en": [
+      "urine, urinate 2978"
+    ],
+    "original": "iSeq",
+    "audio": {
+      "slug": "iseq",
+      "ipay": "dictionary/audio/ipay/i/iseq.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/iseq.mp3"
+    }
+  },
+  {
+    "id": "2839",
+    "basay": "isi",
+    "category": "06",
+    "zh": [
+      "肉（人",
+      "動物",
+      "水果",
+      "塊莖等）",
+      "內容物",
+      "刀刃",
+      "居民"
+    ],
+    "en": [
+      "flesh (of humans, animals, fruits, tubers); contents; blade of a knife; inhabitants, residents 2985"
+    ],
+    "original": "isi₅",
+    "audio": {
+      "slug": "isi",
+      "ipay": "dictionary/audio/ipay/i/isi.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isi.mp3"
     }
   },
   {
@@ -302,12 +1008,29 @@
     "en": [
       "doctor"
     ],
-    "source": "V",
     "original": "isiŋ (< Taiwanese)",
     "audio": {
       "slug": "isinx",
       "ipay": "dictionary/audio/ipay/i/isinx.mp3",
       "hokkien": "dictionary/audio/hokkien/i/isinx.mp3"
+    }
+  },
+  {
+    "id": "2841",
+    "basay": "isiq",
+    "category": "32",
+    "zh": [
+      "小便",
+      "尿尿"
+    ],
+    "en": [
+      "urine, urinate 2980"
+    ],
+    "original": "iSiq",
+    "audio": {
+      "slug": "isiq",
+      "ipay": "dictionary/audio/ipay/i/isiq.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isiq.mp3"
     }
   },
   {
@@ -323,7 +1046,6 @@
     "en": [
       "your"
     ],
-    "source": "B",
     "original": "isu",
     "audio": {
       "slug": "isu",
@@ -344,8 +1066,24 @@
     "en": [
       "you"
     ],
-    "source": "B",
     "original": "isu",
+    "audio": {
+      "slug": "isu",
+      "ipay": "dictionary/audio/ipay/i/isu.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/isu.mp3"
+    }
+  },
+  {
+    "id": "2842",
+    "basay": "isu",
+    "category": "02",
+    "zh": [
+      "第二人稱單數人稱代詞：你"
+    ],
+    "en": [
+      "2sg. personal pronoun: you 2999"
+    ],
+    "original": "iSu",
     "audio": {
       "slug": "isu",
       "ipay": "dictionary/audio/ipay/i/isu.mp3",
@@ -365,7 +1103,6 @@
     "en": [
       "medicine"
     ],
-    "source": "B",
     "original": "isu, <isu kuman u laŋ>",
     "audio": {
       "slug": "isu",
@@ -383,7 +1120,6 @@
     "en": [
       "you (SG, OBL)"
     ],
-    "source": "T",
     "original": "isuanan",
     "audio": {
       "slug": "isuanan",
@@ -401,12 +1137,62 @@
     "en": [
       "stay"
     ],
-    "source": "T",
     "original": "ita",
     "audio": {
       "slug": "ita",
       "ipay": "dictionary/audio/ipay/i/ita.mp3",
       "hokkien": "dictionary/audio/hokkien/i/ita.mp3"
+    }
+  },
+  {
+    "id": "2843",
+    "basay": "ita",
+    "category": "02",
+    "zh": [
+      "我們（包含）"
+    ],
+    "en": [
+      "we (incl.) 3004"
+    ],
+    "original": "ita₁",
+    "audio": {
+      "slug": "ita",
+      "ipay": "dictionary/audio/ipay/i/ita.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/ita.mp3"
+    }
+  },
+  {
+    "id": "2844",
+    "basay": "iten",
+    "category": "36",
+    "zh": [
+      "第一人稱複數包含絕對所有格：我們的（包含）"
+    ],
+    "en": [
+      "1p plural absolute possessive pronoun: ours (incl.) 3008"
+    ],
+    "original": "iten",
+    "audio": {
+      "slug": "iten",
+      "ipay": "dictionary/audio/ipay/i/iten.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/iten.mp3"
+    }
+  },
+  {
+    "id": "2845",
+    "basay": "iten",
+    "category": "02",
+    "zh": [
+      "我們（包含）"
+    ],
+    "en": [
+      "we (incl.) 7699"
+    ],
+    "original": "iten₃",
+    "audio": {
+      "slug": "iten",
+      "ipay": "dictionary/audio/ipay/i/iten.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/iten.mp3"
     }
   },
   {
@@ -419,7 +1205,6 @@
     "en": [
       "below, down"
     ],
-    "source": "T",
     "original": "ituman, tuman",
     "audio": {
       "slug": "ituman",
@@ -440,7 +1225,6 @@
     "en": [
       "I"
     ],
-    "source": "B",
     "original": "iu",
     "audio": {
       "slug": "iu",
@@ -458,12 +1242,28 @@
     "en": [
       "medicine, drug"
     ],
-    "source": "V",
     "original": "iu (< Taiwanese)",
     "audio": {
       "slug": "iu",
       "ipay": "dictionary/audio/ipay/i/iu.mp3",
       "hokkien": "dictionary/audio/hokkien/i/iu.mp3"
+    }
+  },
+  {
+    "id": "2847",
+    "basay": "iuk",
+    "category": "08",
+    "zh": [
+      "柑橘類水果（橘子與柚子？）"
+    ],
+    "en": [
+      "citrus fruit (both orange and pomelo?) 7372"
+    ],
+    "original": "iuk",
+    "audio": {
+      "slug": "iuk",
+      "ipay": "dictionary/audio/ipay/i/iuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/i/iuk.mp3"
     }
   },
   {
@@ -476,7 +1276,6 @@
     "en": [
       "above"
     ],
-    "source": "T",
     "original": "ivavaŋ",
     "audio": {
       "slug": "ivavanx",
@@ -494,7 +1293,6 @@
     "en": [
       "drag"
     ],
-    "source": "T",
     "original": "Ivilvisan",
     "audio": {
       "slug": "ivilvisan",
@@ -512,7 +1310,6 @@
     "en": [
       "get here ."
     ],
-    "source": "T",
     "original": "izaay",
     "audio": {
       "slug": "izaay",
@@ -530,7 +1327,6 @@
     "en": [
       "hang"
     ],
-    "source": "T",
     "original": "izawitian",
     "audio": {
       "slug": "izawitian",
@@ -548,7 +1344,6 @@
     "en": [
       "body"
     ],
-    "source": "T",
     "original": "izip",
     "audio": {
       "slug": "izip",

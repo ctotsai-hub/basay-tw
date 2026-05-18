@@ -1,5 +1,1465 @@
 [
   {
+    "id": "3222",
+    "basay": "-matek",
+    "category": "10",
+    "zh": [
+      "水蛭（山區）"
+    ],
+    "en": [
+      "jungle leech, Haemadipsa spp. 6861"
+    ],
+    "original": "-matek",
+    "audio": {
+      "slug": "matek",
+      "ipay": "dictionary/audio/ipay/m/matek.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/matek.mp3"
+    }
+  },
+  {
+    "id": "3230",
+    "basay": "-medaw",
+    "category": "28",
+    "zh": [
+      "頭暈",
+      "暈眩的"
+    ],
+    "en": [
+      "dizzy, giddy 11715"
+    ],
+    "original": "-medaw",
+    "audio": {
+      "slug": "medaw",
+      "ipay": "dictionary/audio/ipay/m/medaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/medaw.mp3"
+    }
+  },
+  {
+    "id": "3229",
+    "basay": "-metaq",
+    "category": "15",
+    "zh": [
+      "水蛭（水田）"
+    ],
+    "en": [
+      "paddy leech 10103"
+    ],
+    "original": "-meCaq",
+    "audio": {
+      "slug": "metaq",
+      "ipay": "dictionary/audio/ipay/m/metaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/metaq.mp3"
+    }
+  },
+  {
+    "id": "3235",
+    "basay": "m<in>ata",
+    "category": "28",
+    "zh": [
+      "睜眼的（？）"
+    ],
+    "en": [
+      "open-eyed (?) 8606"
+    ],
+    "original": "m<in>aCa",
+    "audio": {
+      "slug": "m_in_ata",
+      "ipay": "dictionary/audio/ipay/m/m_in_ata.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/m_in_ata.mp3"
+    }
+  },
+  {
+    "id": "3236",
+    "basay": "m<in>atay",
+    "category": "34",
+    "zh": [
+      "墓地（？）"
+    ],
+    "en": [
+      "burial ground (?) 64"
+    ],
+    "original": "m<in>aCay",
+    "audio": {
+      "slug": "m_in_atay",
+      "ipay": "dictionary/audio/ipay/m/m_in_atay.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/m_in_atay.mp3"
+    }
+  },
+  {
+    "id": "3129",
+    "basay": "ma-",
+    "category": "36",
+    "zh": [
+      "狀態前綴（表靜態）"
+    ],
+    "en": [
+      "stative prefix 8752"
+    ],
+    "original": "ma-₁",
+    "audio": {
+      "slug": "ma",
+      "ipay": "dictionary/audio/ipay/m/ma.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma.mp3"
+    }
+  },
+  {
+    "id": "3130",
+    "basay": "ma-",
+    "category": "36",
+    "zh": [
+      "未來前綴"
+    ],
+    "en": [
+      "future prefix 8753"
+    ],
+    "original": "ma-₂",
+    "audio": {
+      "slug": "ma",
+      "ipay": "dictionary/audio/ipay/m/ma.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma.mp3"
+    }
+  },
+  {
+    "id": "3132",
+    "basay": "ma-ala",
+    "category": "25",
+    "zh": [
+      "被取走",
+      "被帶走"
+    ],
+    "en": [
+      "be fetched, be taken 7786"
+    ],
+    "original": "ma-ala",
+    "audio": {
+      "slug": "ma_ala",
+      "ipay": "dictionary/audio/ipay/m/ma_ala.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_ala.mp3"
+    }
+  },
+  {
+    "id": "3133",
+    "basay": "ma-alap",
+    "category": "25",
+    "zh": [
+      "被帶走"
+    ],
+    "en": [
+      "be taken 99"
+    ],
+    "original": "ma-alap",
+    "audio": {
+      "slug": "ma_alap",
+      "ipay": "dictionary/audio/ipay/m/ma_alap.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_alap.mp3"
+    }
+  },
+  {
+    "id": "3134",
+    "basay": "ma-anak",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 192"
+    ],
+    "original": "ma-anak",
+    "audio": {
+      "slug": "ma_anak",
+      "ipay": "dictionary/audio/ipay/m/ma_anak.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_anak.mp3"
+    }
+  },
+  {
+    "id": "3131",
+    "basay": "ma-atay",
+    "category": "11",
+    "zh": [
+      "死亡",
+      "死去",
+      "日食／月食"
+    ],
+    "en": [
+      "die; dead; eclipse of sun or moon 37"
+    ],
+    "original": "ma-aCay",
+    "audio": {
+      "slug": "ma_atay",
+      "ipay": "dictionary/audio/ipay/m/ma_atay.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_atay.mp3"
+    }
+  },
+  {
+    "id": "3141",
+    "basay": "ma-b<in>ahi",
+    "category": "04",
+    "zh": [
+      "女性",
+      "女人"
+    ],
+    "en": [
+      "female, woman 11824"
+    ],
+    "original": "ma-b<in>ahi",
+    "audio": {
+      "slug": "ma_b_in_ahi",
+      "ipay": "dictionary/audio/ipay/m/ma_b_in_ahi.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_b_in_ahi.mp3"
+    }
+  },
+  {
+    "id": "3135",
+    "basay": "ma-bajaq",
+    "category": "28",
+    "zh": [
+      "知道",
+      "理解"
+    ],
+    "en": [
+      "know, understand 6442"
+    ],
+    "original": "ma-bajaq",
+    "audio": {
+      "slug": "ma_bajaq",
+      "ipay": "dictionary/audio/ipay/m/ma_bajaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_bajaq.mp3"
+    }
+  },
+  {
+    "id": "3136",
+    "basay": "ma-bali",
+    "category": "11",
+    "zh": [
+      "有風的"
+    ],
+    "en": [
+      "windy 6556"
+    ],
+    "original": "ma-bali₁",
+    "audio": {
+      "slug": "ma_bali",
+      "ipay": "dictionary/audio/ipay/m/ma_bali.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_bali.mp3"
+    }
+  },
+  {
+    "id": "3138",
+    "basay": "ma-basaw",
+    "category": "32",
+    "zh": [
+      "冷掉的（如剩飯）"
+    ],
+    "en": [
+      "cooled off, as cooked food that has been left to sit too long 7068"
+    ],
+    "original": "ma-baSaw",
+    "audio": {
+      "slug": "ma_basaw",
+      "ipay": "dictionary/audio/ipay/m/ma_basaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_basaw.mp3"
+    }
+  },
+  {
+    "id": "3137",
+    "basay": "ma-bañaw",
+    "category": "25",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 757"
+    ],
+    "original": "ma-bañaw",
+    "audio": {
+      "slug": "ma_ba_aw",
+      "ipay": "dictionary/audio/ipay/m/ma_ba_aw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_ba_aw.mp3"
+    }
+  },
+  {
+    "id": "3139",
+    "basay": "ma-belaq",
+    "category": "01",
+    "zh": [
+      "被劈開",
+      "分成兩半"
+    ],
+    "en": [
+      "be split, in two 882"
+    ],
+    "original": "ma-belaq",
+    "audio": {
+      "slug": "ma_belaq",
+      "ipay": "dictionary/audio/ipay/m/ma_belaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_belaq.mp3"
+    }
+  },
+  {
+    "id": "3140",
+    "basay": "ma-besuR",
+    "category": "27",
+    "zh": [
+      "吃飽",
+      "滿足"
+    ],
+    "en": [
+      "satiated, full from eating 1016"
+    ],
+    "original": "ma-besuR",
+    "audio": {
+      "slug": "ma_besur",
+      "ipay": "dictionary/audio/ipay/m/ma_besur.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_besur.mp3"
+    }
+  },
+  {
+    "id": "3143",
+    "basay": "ma-bunuR",
+    "category": "25",
+    "zh": [
+      "腫脹",
+      "膨脹"
+    ],
+    "en": [
+      "to swell; swollen 7294"
+    ],
+    "original": "ma-bunuR",
+    "audio": {
+      "slug": "ma_bunur",
+      "ipay": "dictionary/audio/ipay/m/ma_bunur.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_bunur.mp3"
+    }
+  },
+  {
+    "id": "3144",
+    "basay": "ma-buRaw",
+    "category": "34",
+    "zh": [
+      "被趕走"
+    ],
+    "en": [
+      "driven away, chased off 1741"
+    ],
+    "original": "ma-buRaw",
+    "audio": {
+      "slug": "ma_buraw",
+      "ipay": "dictionary/audio/ipay/m/ma_buraw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_buraw.mp3"
+    }
+  },
+  {
+    "id": "3145",
+    "basay": "ma-busuk",
+    "category": "34",
+    "zh": [
+      "醉了",
+      "醉酒的"
+    ],
+    "en": [
+      "drunk, intoxicated 1788"
+    ],
+    "original": "ma-buSuk",
+    "audio": {
+      "slug": "ma_busuk",
+      "ipay": "dictionary/audio/ipay/m/ma_busuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_busuk.mp3"
+    }
+  },
+  {
+    "id": "3142",
+    "basay": "ma-buta",
+    "category": "34",
+    "zh": [
+      "失明的"
+    ],
+    "en": [
+      "blind 1389"
+    ],
+    "original": "ma-buCa",
+    "audio": {
+      "slug": "ma_buta",
+      "ipay": "dictionary/audio/ipay/m/ma_buta.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_buta.mp3"
+    }
+  },
+  {
+    "id": "3152",
+    "basay": "ma-dajam",
+    "category": "25",
+    "zh": [
+      "馴服的",
+      "習慣的"
+    ],
+    "en": [
+      "accustomed to, tame 2182"
+    ],
+    "original": "ma-dajam",
+    "audio": {
+      "slug": "ma_dajam",
+      "ipay": "dictionary/audio/ipay/m/ma_dajam.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_dajam.mp3"
+    }
+  },
+  {
+    "id": "3153",
+    "basay": "ma-dajem",
+    "category": "34",
+    "zh": [
+      "發寒",
+      "瘧疾寒顫"
+    ],
+    "en": [
+      "chills, as of malaria 2184"
+    ],
+    "original": "ma-dajem",
+    "audio": {
+      "slug": "ma_dajem",
+      "ipay": "dictionary/audio/ipay/m/ma_dajem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_dajem.mp3"
+    }
+  },
+  {
+    "id": "3154",
+    "basay": "ma-dalem",
+    "category": "32",
+    "zh": [
+      "深的"
+    ],
+    "en": [
+      "deep 7092"
+    ],
+    "original": "ma-dalem",
+    "audio": {
+      "slug": "ma_dalem",
+      "ipay": "dictionary/audio/ipay/m/ma_dalem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_dalem.mp3"
+    }
+  },
+  {
+    "id": "3155",
+    "basay": "ma-dalis",
+    "category": "34",
+    "zh": [
+      "光滑的",
+      "滑溜的"
+    ],
+    "en": [
+      "smooth, slippery 2192"
+    ],
+    "original": "ma-dalis",
+    "audio": {
+      "slug": "ma_dalis",
+      "ipay": "dictionary/audio/ipay/m/ma_dalis.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_dalis.mp3"
+    }
+  },
+  {
+    "id": "3156",
+    "basay": "ma-daRaq",
+    "category": "06",
+    "zh": [
+      "流血",
+      "月經來"
+    ],
+    "en": [
+      "bloody, bleeding; to menstruate 7207"
+    ],
+    "original": "ma-daRaq",
+    "audio": {
+      "slug": "ma_daraq",
+      "ipay": "dictionary/audio/ipay/m/ma_daraq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_daraq.mp3"
+    }
+  },
+  {
+    "id": "3157",
+    "basay": "ma-demdem",
+    "category": "11",
+    "zh": [
+      "陰天",
+      "陰暗",
+      "昏沉"
+    ],
+    "en": [
+      "dark, overcast, gloomy 7569"
+    ],
+    "original": "ma-demdem",
+    "audio": {
+      "slug": "ma_demdem",
+      "ipay": "dictionary/audio/ipay/m/ma_demdem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_demdem.mp3"
+    }
+  },
+  {
+    "id": "3158",
+    "basay": "ma-hemis",
+    "category": "34",
+    "zh": [
+      "甜的"
+    ],
+    "en": [
+      "sweet 2648"
+    ],
+    "original": "ma-hemis",
+    "audio": {
+      "slug": "ma_hemis",
+      "ipay": "dictionary/audio/ipay/m/ma_hemis.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_hemis.mp3"
+    }
+  },
+  {
+    "id": "3159",
+    "basay": "ma-kaen",
+    "category": "27",
+    "zh": [
+      "將吃（？）"
+    ],
+    "en": [
+      "will eat (?) 8010"
+    ],
+    "original": "ma-kaen",
+    "audio": {
+      "slug": "ma_kaen",
+      "ipay": "dictionary/audio/ipay/m/ma_kaen.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_kaen.mp3"
+    }
+  },
+  {
+    "id": "3164",
+    "basay": "ma-kaRat",
+    "category": "25",
+    "zh": [
+      "被咬"
+    ],
+    "en": [
+      "to be bitten 7718"
+    ],
+    "original": "ma-kaRaC",
+    "audio": {
+      "slug": "ma_karat",
+      "ipay": "dictionary/audio/ipay/m/ma_karat.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_karat.mp3"
+    }
+  },
+  {
+    "id": "3167",
+    "basay": "ma-keseR",
+    "category": "34",
+    "zh": [
+      "強壯",
+      "有力",
+      "精力旺盛"
+    ],
+    "en": [
+      "strong, vigorous, energetic, forceful 11020"
+    ],
+    "original": "ma-keseR",
+    "audio": {
+      "slug": "ma_keser",
+      "ipay": "dictionary/audio/ipay/m/ma_keser.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_keser.mp3"
+    }
+  },
+  {
+    "id": "3168",
+    "basay": "ma-kiRim",
+    "category": "34",
+    "zh": [
+      "發現？"
+    ],
+    "en": [
+      "found? 6576"
+    ],
+    "original": "ma-kiRim",
+    "audio": {
+      "slug": "ma_kirim",
+      "ipay": "dictionary/audio/ipay/m/ma_kirim.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_kirim.mp3"
+    }
+  },
+  {
+    "id": "3170",
+    "basay": "ma-kuja",
+    "category": "03",
+    "zh": [
+      "你在做什麼？發生什麼事？"
+    ],
+    "en": [
+      "what are you doing? what’s happening? 7471"
+    ],
+    "original": "ma-kuja",
+    "audio": {
+      "slug": "ma_kuja",
+      "ipay": "dictionary/audio/ipay/m/ma_kuja.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_kuja.mp3"
+    }
+  },
+  {
+    "id": "3171",
+    "basay": "ma-kulit",
+    "category": "32",
+    "zh": [
+      "瘦的",
+      "纖細的",
+      "體重過輕的"
+    ],
+    "en": [
+      "skinny, thin, underweight 9145"
+    ],
+    "original": "ma-kuliC",
+    "audio": {
+      "slug": "ma_kulit",
+      "ipay": "dictionary/audio/ipay/m/ma_kulit.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_kulit.mp3"
+    }
+  },
+  {
+    "id": "3169",
+    "basay": "ma-kutu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7642"
+    ],
+    "original": "ma-kuCu",
+    "audio": {
+      "slug": "ma_kutu",
+      "ipay": "dictionary/audio/ipay/m/ma_kutu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_kutu.mp3"
+    }
+  },
+  {
+    "id": "3172",
+    "basay": "ma-langu",
+    "category": "34",
+    "zh": [
+      "暈眩的",
+      "醉的"
+    ],
+    "en": [
+      "dizzy, drunk 3394"
+    ],
+    "original": "ma-laŋu",
+    "audio": {
+      "slug": "ma_lanxu",
+      "ipay": "dictionary/audio/ipay/m/ma_lanxu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_lanxu.mp3"
+    }
+  },
+  {
+    "id": "3173",
+    "basay": "ma-laRiw",
+    "category": "25",
+    "zh": [
+      "跑",
+      "逃跑",
+      "逃走"
+    ],
+    "en": [
+      "run, run away, flee 3362"
+    ],
+    "original": "ma-laRiw",
+    "audio": {
+      "slug": "ma_lariw",
+      "ipay": "dictionary/audio/ipay/m/ma_lariw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_lariw.mp3"
+    }
+  },
+  {
+    "id": "3174",
+    "basay": "ma-lebleb",
+    "category": "11",
+    "zh": [
+      "多霧",
+      "陰霾",
+      "陰暗（雨前天氣）"
+    ],
+    "en": [
+      "foggy, misty, overcast, gloomy, of weather preceding rain 7265"
+    ],
+    "original": "ma-lebleb",
+    "audio": {
+      "slug": "ma_lebleb",
+      "ipay": "dictionary/audio/ipay/m/ma_lebleb.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_lebleb.mp3"
+    }
+  },
+  {
+    "id": "3175",
+    "basay": "ma-lima-n",
+    "category": "01",
+    "zh": [
+      "五十"
+    ],
+    "en": [
+      "fifty 7401"
+    ],
+    "original": "ma-lima-N",
+    "audio": {
+      "slug": "ma_lima_n",
+      "ipay": "dictionary/audio/ipay/m/ma_lima_n.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_lima_n.mp3"
+    }
+  },
+  {
+    "id": "3177",
+    "basay": "ma-litlit",
+    "category": "14",
+    "zh": [
+      "被纏繞",
+      "變得纏繞住"
+    ],
+    "en": [
+      "be or become wound around something 11461"
+    ],
+    "original": "ma-litlit",
+    "audio": {
+      "slug": "ma_litlit",
+      "ipay": "dictionary/audio/ipay/m/ma_litlit.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_litlit.mp3"
+    }
+  },
+  {
+    "id": "3179",
+    "basay": "ma-najam",
+    "category": "32",
+    "zh": [
+      "熟悉的",
+      "馴服的"
+    ],
+    "en": [
+      "accustomed to, familiar with; tame 3642"
+    ],
+    "original": "ma-najam",
+    "audio": {
+      "slug": "ma_najam",
+      "ipay": "dictionary/audio/ipay/m/ma_najam.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_najam.mp3"
+    }
+  },
+  {
+    "id": "3186",
+    "basay": "ma-ngilu",
+    "category": "28",
+    "zh": [
+      "酸痛（如吃酸物時牙齒刺痛）"
+    ],
+    "en": [
+      "painful, as of teeth on edge from eating something very sour 7505"
+    ],
+    "original": "ma-ŋilu",
+    "audio": {
+      "slug": "ma_nxilu",
+      "ipay": "dictionary/audio/ipay/m/ma_nxilu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_nxilu.mp3"
+    }
+  },
+  {
+    "id": "3183",
+    "basay": "ma-nipis",
+    "category": "32",
+    "zh": [
+      "薄的（材料）"
+    ],
+    "en": [
+      "thin (of materials) 8673"
+    ],
+    "original": "ma-Nipis",
+    "audio": {
+      "slug": "ma_nipis",
+      "ipay": "dictionary/audio/ipay/m/ma_nipis.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_nipis.mp3"
+    }
+  },
+  {
+    "id": "3184",
+    "basay": "ma-niwang",
+    "category": "32",
+    "zh": [
+      "瘦的（人或動物）"
+    ],
+    "en": [
+      "thin, of persons and animals 7051"
+    ],
+    "original": "ma-Niwaŋ",
+    "audio": {
+      "slug": "ma_niwanx",
+      "ipay": "dictionary/audio/ipay/m/ma_niwanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_niwanx.mp3"
+    }
+  },
+  {
+    "id": "3185",
+    "basay": "ma-nuka",
+    "category": "34",
+    "zh": [
+      "受傷的"
+    ],
+    "en": [
+      "wounded 3708"
+    ],
+    "original": "ma-Nuka",
+    "audio": {
+      "slug": "ma_nuka",
+      "ipay": "dictionary/audio/ipay/m/ma_nuka.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_nuka.mp3"
+    }
+  },
+  {
+    "id": "3187",
+    "basay": "ma-paqit",
+    "category": "34",
+    "zh": [
+      "苦的"
+    ],
+    "en": [
+      "bitter 6874"
+    ],
+    "original": "ma-paqiC",
+    "audio": {
+      "slug": "ma_paqit",
+      "ipay": "dictionary/audio/ipay/m/ma_paqit.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_paqit.mp3"
+    }
+  },
+  {
+    "id": "3188",
+    "basay": "ma-piliq",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8116"
+    ],
+    "original": "ma-piliq",
+    "audio": {
+      "slug": "ma_piliq",
+      "ipay": "dictionary/audio/ipay/m/ma_piliq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_piliq.mp3"
+    }
+  },
+  {
+    "id": "3189",
+    "basay": "ma-pinay",
+    "category": "34",
+    "zh": [
+      "跛的",
+      "有殘疾的"
+    ],
+    "en": [
+      "lame, crippled 10863"
+    ],
+    "original": "ma-piNay",
+    "audio": {
+      "slug": "ma_pinay",
+      "ipay": "dictionary/audio/ipay/m/ma_pinay.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_pinay.mp3"
+    }
+  },
+  {
+    "id": "3190",
+    "basay": "ma-pizpiz",
+    "category": "25",
+    "zh": [
+      "密集的",
+      "排列緊密的"
+    ],
+    "en": [
+      "closely spaced, set close together 7415"
+    ],
+    "original": "ma-pizpiz",
+    "audio": {
+      "slug": "ma_pizpiz",
+      "ipay": "dictionary/audio/ipay/m/ma_pizpiz.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_pizpiz.mp3"
+    }
+  },
+  {
+    "id": "3191",
+    "basay": "ma-pukaw",
+    "category": "34",
+    "zh": [
+      "模糊的（視力）"
+    ],
+    "en": [
+      "dim, of vision 7525"
+    ],
+    "original": "ma-pukaw",
+    "audio": {
+      "slug": "ma_pukaw",
+      "ipay": "dictionary/audio/ipay/m/ma_pukaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_pukaw.mp3"
+    }
+  },
+  {
+    "id": "3192",
+    "basay": "ma-puni",
+    "category": "22",
+    "zh": [
+      "白色"
+    ],
+    "en": [
+      "white 6685"
+    ],
+    "original": "ma-puNi",
+    "audio": {
+      "slug": "ma_puni",
+      "ipay": "dictionary/audio/ipay/m/ma_puni.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_puni.mp3"
+    }
+  },
+  {
+    "id": "3193",
+    "basay": "ma-pusan",
+    "category": "01",
+    "zh": [
+      "二十"
+    ],
+    "en": [
+      "twenty 6647"
+    ],
+    "original": "ma-puSaN",
+    "audio": {
+      "slug": "ma_pusan",
+      "ipay": "dictionary/audio/ipay/m/ma_pusan.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_pusan.mp3"
+    }
+  },
+  {
+    "id": "3195",
+    "basay": "ma-qajaw",
+    "category": "32",
+    "zh": [
+      "晴朗",
+      "炎熱的"
+    ],
+    "en": [
+      "sunny, hot 4150"
+    ],
+    "original": "ma-qajaw",
+    "audio": {
+      "slug": "ma_qajaw",
+      "ipay": "dictionary/audio/ipay/m/ma_qajaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qajaw.mp3"
+    }
+  },
+  {
+    "id": "3196",
+    "basay": "ma-qataq",
+    "category": "32",
+    "zh": [
+      "生的",
+      "未熟的"
+    ],
+    "en": [
+      "raw, unripe 4341"
+    ],
+    "original": "ma-qataq",
+    "audio": {
+      "slug": "ma_qataq",
+      "ipay": "dictionary/audio/ipay/m/ma_qataq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qataq.mp3"
+    }
+  },
+  {
+    "id": "3194",
+    "basay": "ma-qati",
+    "category": "11",
+    "zh": [
+      "水退",
+      "潮退"
+    ],
+    "en": [
+      "ebb, of water in streams; low tide 4144"
+    ],
+    "original": "ma-qaCi",
+    "audio": {
+      "slug": "ma_qati",
+      "ipay": "dictionary/audio/ipay/m/ma_qati.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qati.mp3"
+    }
+  },
+  {
+    "id": "3198",
+    "basay": "ma-qetaq",
+    "category": "08",
+    "zh": [
+      "生的",
+      "青的（果實）",
+      "未煮熟的"
+    ],
+    "en": [
+      "raw, unripe, green (fruit), uncooked 4488"
+    ],
+    "original": "ma-qetaq",
+    "audio": {
+      "slug": "ma_qetaq",
+      "ipay": "dictionary/audio/ipay/m/ma_qetaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qetaq.mp3"
+    }
+  },
+  {
+    "id": "3199",
+    "basay": "ma-qudem",
+    "category": "22",
+    "zh": [
+      "陰暗",
+      "昏沉"
+    ],
+    "en": [
+      "dark, cloudy 12890"
+    ],
+    "original": "ma-qudem",
+    "audio": {
+      "slug": "ma_qudem",
+      "ipay": "dictionary/audio/ipay/m/ma_qudem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qudem.mp3"
+    }
+  },
+  {
+    "id": "3200",
+    "basay": "ma-qusaw",
+    "category": "28",
+    "zh": [
+      "口渴的"
+    ],
+    "en": [
+      "thirsty 4750"
+    ],
+    "original": "ma-quSaw",
+    "audio": {
+      "slug": "ma_qusaw",
+      "ipay": "dictionary/audio/ipay/m/ma_qusaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_qusaw.mp3"
+    }
+  },
+  {
+    "id": "3201",
+    "basay": "ma-quzan",
+    "category": "11",
+    "zh": [
+      "多雨的"
+    ],
+    "en": [
+      "rainy 4783"
+    ],
+    "original": "ma-quzaN",
+    "audio": {
+      "slug": "ma_quzan",
+      "ipay": "dictionary/audio/ipay/m/ma_quzan.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_quzan.mp3"
+    }
+  },
+  {
+    "id": "3209",
+    "basay": "ma-sasak",
+    "category": "27",
+    "zh": [
+      "成熟的",
+      "煮熟的"
+    ],
+    "en": [
+      "ripe; cooked 5066"
+    ],
+    "original": "ma-Sasak",
+    "audio": {
+      "slug": "ma_sasak",
+      "ipay": "dictionary/audio/ipay/m/ma_sasak.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_sasak.mp3"
+    }
+  },
+  {
+    "id": "3210",
+    "basay": "ma-sateD",
+    "category": "34",
+    "zh": [
+      "陪伴",
+      "護送"
+    ],
+    "en": [
+      "escort, accompany 5079"
+    ],
+    "original": "ma-SateD",
+    "audio": {
+      "slug": "ma_sated",
+      "ipay": "dictionary/audio/ipay/m/ma_sated.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_sated.mp3"
+    }
+  },
+  {
+    "id": "3211",
+    "basay": "ma-sepat",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 5168"
+    ],
+    "original": "ma-Sepat",
+    "audio": {
+      "slug": "ma_sepat",
+      "ipay": "dictionary/audio/ipay/m/ma_sepat.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_sepat.mp3"
+    }
+  },
+  {
+    "id": "3212",
+    "basay": "ma-seRet",
+    "category": "34",
+    "zh": [
+      "緊的",
+      "牢固的"
+    ],
+    "en": [
+      "tight, firm 8210"
+    ],
+    "original": "ma-SeReC",
+    "audio": {
+      "slug": "ma_seret",
+      "ipay": "dictionary/audio/ipay/m/ma_seret.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_seret.mp3"
+    }
+  },
+  {
+    "id": "3213",
+    "basay": "ma-seyaq",
+    "category": "29",
+    "zh": [
+      "害羞",
+      "尷尬",
+      "羞愧"
+    ],
+    "en": [
+      "shy, embarrassed; ashamed 5205"
+    ],
+    "original": "ma-Seyaq",
+    "audio": {
+      "slug": "ma_seyaq",
+      "ipay": "dictionary/audio/ipay/m/ma_seyaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_seyaq.mp3"
+    }
+  },
+  {
+    "id": "3214",
+    "basay": "ma-sikad",
+    "category": "29",
+    "zh": [
+      "害羞",
+      "謙虛",
+      "羞怯"
+    ],
+    "en": [
+      "ashamed; shy; modest 7263"
+    ],
+    "original": "ma-Sikad",
+    "audio": {
+      "slug": "ma_sikad",
+      "ipay": "dictionary/audio/ipay/m/ma_sikad.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_sikad.mp3"
+    }
+  },
+  {
+    "id": "3215",
+    "basay": "ma-suab",
+    "category": "25",
+    "zh": [
+      "打呵欠"
+    ],
+    "en": [
+      "to yawn, yawning 5361"
+    ],
+    "original": "ma-Suab",
+    "audio": {
+      "slug": "ma_suab",
+      "ipay": "dictionary/audio/ipay/m/ma_suab.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_suab.mp3"
+    }
+  },
+  {
+    "id": "3216",
+    "basay": "ma-suaw",
+    "category": "25",
+    "zh": [
+      "打呵欠"
+    ],
+    "en": [
+      "to yawn 6695"
+    ],
+    "original": "ma-Suaw",
+    "audio": {
+      "slug": "ma_suaw",
+      "ipay": "dictionary/audio/ipay/m/ma_suaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_suaw.mp3"
+    }
+  },
+  {
+    "id": "3217",
+    "basay": "ma-sulem",
+    "category": "22",
+    "zh": [
+      "昏暗的"
+    ],
+    "en": [
+      "dim, dark 5392"
+    ],
+    "original": "ma-Sulem",
+    "audio": {
+      "slug": "ma_sulem",
+      "ipay": "dictionary/audio/ipay/m/ma_sulem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_sulem.mp3"
+    }
+  },
+  {
+    "id": "3147",
+    "basay": "ma-takaw",
+    "category": "25",
+    "zh": [
+      "偷竊"
+    ],
+    "en": [
+      "to steal 1940"
+    ],
+    "original": "ma-Cakaw",
+    "audio": {
+      "slug": "ma_takaw",
+      "ipay": "dictionary/audio/ipay/m/ma_takaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_takaw.mp3"
+    }
+  },
+  {
+    "id": "3219",
+    "basay": "ma-takut",
+    "category": "29",
+    "zh": [
+      "害怕的",
+      "恐懼的"
+    ],
+    "en": [
+      "fearful, afraid 7427"
+    ],
+    "original": "ma-takut",
+    "audio": {
+      "slug": "ma_takut",
+      "ipay": "dictionary/audio/ipay/m/ma_takut.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_takut.mp3"
+    }
+  },
+  {
+    "id": "3220",
+    "basay": "ma-talaw",
+    "category": "29",
+    "zh": [
+      "膽小的",
+      "害怕的"
+    ],
+    "en": [
+      "fearful, cowardly 7421"
+    ],
+    "original": "ma-talaw",
+    "audio": {
+      "slug": "ma_talaw",
+      "ipay": "dictionary/audio/ipay/m/ma_talaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_talaw.mp3"
+    }
+  },
+  {
+    "id": "3221",
+    "basay": "ma-tanga",
+    "category": "25",
+    "zh": [
+      "將打開？"
+    ],
+    "en": [
+      "will open? 6711"
+    ],
+    "original": "ma-taŋa",
+    "audio": {
+      "slug": "ma_tanxa",
+      "ipay": "dictionary/audio/ipay/m/ma_tanxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tanxa.mp3"
+    }
+  },
+  {
+    "id": "3148",
+    "basay": "ma-tangis",
+    "category": "29",
+    "zh": [
+      "愛哭",
+      "動輒流淚"
+    ],
+    "en": [
+      "tearful, crying easily 2041"
+    ],
+    "original": "ma-Caŋis",
+    "audio": {
+      "slug": "ma_tanxis",
+      "ipay": "dictionary/audio/ipay/m/ma_tanxis.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tanxis.mp3"
+    }
+  },
+  {
+    "id": "3149",
+    "basay": "ma-taqu",
+    "category": "25",
+    "zh": [
+      "能幹",
+      "有知識",
+      "有能力"
+    ],
+    "en": [
+      "to be capable, able, knowledgeable 7841"
+    ],
+    "original": "ma-Caqu",
+    "audio": {
+      "slug": "ma_taqu",
+      "ipay": "dictionary/audio/ipay/m/ma_taqu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_taqu.mp3"
+    }
+  },
+  {
+    "id": "3150",
+    "basay": "ma-tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2028"
+    ],
+    "original": "ma-Cawa",
+    "audio": {
+      "slug": "ma_tawa",
+      "ipay": "dictionary/audio/ipay/m/ma_tawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tawa.mp3"
+    }
+  },
+  {
+    "id": "3223",
+    "basay": "ma-telu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8424"
+    ],
+    "original": "ma-telu",
+    "audio": {
+      "slug": "ma_telu",
+      "ipay": "dictionary/audio/ipay/m/ma_telu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_telu.mp3"
+    }
+  },
+  {
+    "id": "3224",
+    "basay": "ma-tuduR",
+    "category": "25",
+    "zh": [
+      "睡覺"
+    ],
+    "en": [
+      "to sleep 8360"
+    ],
+    "original": "ma-tuduR",
+    "audio": {
+      "slug": "ma_tudur",
+      "ipay": "dictionary/audio/ipay/m/ma_tudur.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tudur.mp3"
+    }
+  },
+  {
+    "id": "3151",
+    "basay": "ma-tunuh",
+    "category": "27",
+    "zh": [
+      "烤過的"
+    ],
+    "en": [
+      "roasted 2133"
+    ],
+    "original": "ma-CuNuh",
+    "audio": {
+      "slug": "ma_tunuh",
+      "ipay": "dictionary/audio/ipay/m/ma_tunuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tunuh.mp3"
+    }
+  },
+  {
+    "id": "3225",
+    "basay": "ma-tunuh",
+    "category": "27",
+    "zh": [
+      "被烤過的"
+    ],
+    "en": [
+      "roasted 2134"
+    ],
+    "original": "ma-tunuh",
+    "audio": {
+      "slug": "ma_tunuh",
+      "ipay": "dictionary/audio/ipay/m/ma_tunuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tunuh.mp3"
+    }
+  },
+  {
+    "id": "3226",
+    "basay": "ma-tuqas",
+    "category": "32",
+    "zh": [
+      "年老的（人）"
+    ],
+    "en": [
+      "old, of people 11752"
+    ],
+    "original": "ma-tuqaS",
+    "audio": {
+      "slug": "ma_tuqas",
+      "ipay": "dictionary/audio/ipay/m/ma_tuqas.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tuqas.mp3"
+    }
+  },
+  {
+    "id": "3227",
+    "basay": "ma-tuqas tuqas",
+    "category": "13",
+    "zh": [
+      "年長的",
+      "資深的"
+    ],
+    "en": [
+      "old, elder, senior 8514"
+    ],
+    "original": "ma-tuqaS tuqaS",
+    "audio": {
+      "slug": "ma_tuqas_tuqas",
+      "ipay": "dictionary/audio/ipay/m/ma_tuqas_tuqas.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_tuqas_tuqas.mp3"
+    }
+  },
+  {
+    "id": "3228",
+    "basay": "ma-ulaw",
+    "category": "34",
+    "zh": [
+      "恍惚的",
+      "迷糊的"
+    ],
+    "en": [
+      "dazed, confused 5765"
+    ],
+    "original": "ma-ulaw",
+    "audio": {
+      "slug": "ma_ulaw",
+      "ipay": "dictionary/audio/ipay/m/ma_ulaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_ulaw.mp3"
+    }
+  },
+  {
     "id": "1400",
     "basay": "maan",
     "category": "34",
@@ -9,7 +1469,6 @@
     "en": [
       "finish"
     ],
-    "source": "T",
     "original": "maan",
     "audio": {
       "slug": "maan",
@@ -27,7 +1486,6 @@
     "en": [
       "really"
     ],
-    "source": "S",
     "original": "maaqnu (S)",
     "audio": {
       "slug": "maaqnu",
@@ -48,7 +1506,6 @@
     "en": [
       "quarrel"
     ],
-    "source": "B",
     "original": "mabel'",
     "audio": {
       "slug": "mabelx",
@@ -69,7 +1526,6 @@
     "en": [
       "quarrel"
     ],
-    "source": "B",
     "original": "mabet, mabel",
     "audio": {
       "slug": "mabet",
@@ -90,7 +1546,6 @@
     "en": [
       "fry"
     ],
-    "source": "B",
     "original": "mahiuhiu",
     "audio": {
       "slug": "mahiuhiu",
@@ -108,7 +1563,6 @@
     "en": [
       "make"
     ],
-    "source": "M",
     "original": "maia (M)",
     "audio": {
       "slug": "maia",
@@ -129,7 +1583,6 @@
     "en": [
       "not to go to mountain"
     ],
-    "source": "B",
     "original": "maija-sjali ŋonon",
     "audio": {
       "slug": "maija_sjali_nxonon",
@@ -140,14 +1593,13 @@
   {
     "id": "1404",
     "basay": "mail'ase",
-    "category": "06",
+    "category": "24",
     "zh": [
       "分手"
     ],
     "en": [
       "depart"
     ],
-    "source": "S",
     "original": "maiɭase (S)",
     "audio": {
       "slug": "mailxase",
@@ -158,7 +1610,7 @@
   {
     "id": "0427",
     "basay": "mailatse",
-    "category": "05",
+    "category": "28",
     "zh": [
       "活"
     ],
@@ -168,7 +1620,6 @@
     "en": [
       "alive"
     ],
-    "source": "B",
     "original": "mailatse",
     "audio": {
       "slug": "mailatse",
@@ -186,7 +1637,6 @@
     "en": [
       "sick"
     ],
-    "source": "T",
     "original": "maiqvatiŋ",
     "audio": {
       "slug": "maiqvatinx",
@@ -204,7 +1654,6 @@
     "en": [
       "fear"
     ],
-    "source": "S",
     "original": "mais (S)",
     "audio": {
       "slug": "mais",
@@ -225,7 +1674,6 @@
     "en": [
       "live once more"
     ],
-    "source": "B",
     "original": "maitattse",
     "audio": {
       "slug": "maitattse",
@@ -246,7 +1694,6 @@
     "en": [
       "angry"
     ],
-    "source": "B",
     "original": "maitsa",
     "audio": {
       "slug": "maitsa",
@@ -257,7 +1704,7 @@
   {
     "id": "0430",
     "basay": "maitsa",
-    "category": "06",
+    "category": "29",
     "zh": [
       "爭議"
     ],
@@ -267,7 +1714,6 @@
     "en": [
       "dispute"
     ],
-    "source": "B",
     "original": "maitsa",
     "audio": {
       "slug": "maitsa",
@@ -288,7 +1734,6 @@
     "en": [
       "scold"
     ],
-    "source": "B",
     "original": "maitsa",
     "audio": {
       "slug": "maitsa",
@@ -309,7 +1754,6 @@
     "en": [
       "haven't yet eaten"
     ],
-    "source": "B",
     "original": "maju",
     "audio": {
       "slug": "maju",
@@ -330,12 +1774,113 @@
     "en": [
       "not"
     ],
-    "source": "B",
     "original": "maju, <maju nananem>, <maju koman(i) >",
     "audio": {
       "slug": "maju",
       "ipay": "dictionary/audio/ipay/m/maju.mp3",
       "hokkien": "dictionary/audio/hokkien/m/maju.mp3"
+    }
+  },
+  {
+    "id": "3160",
+    "basay": "maka-enem",
+    "category": "01",
+    "zh": [
+      "六次（重複表頻率）"
+    ],
+    "en": [
+      "six times (frequentative multiplicative) 2366"
+    ],
+    "original": "maka-enem",
+    "audio": {
+      "slug": "maka_enem",
+      "ipay": "dictionary/audio/ipay/m/maka_enem.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_enem.mp3"
+    }
+  },
+  {
+    "id": "3161",
+    "basay": "maka-lima",
+    "category": "01",
+    "zh": [
+      "五次"
+    ],
+    "en": [
+      "five times 7391"
+    ],
+    "original": "maka-lima",
+    "audio": {
+      "slug": "maka_lima",
+      "ipay": "dictionary/audio/ipay/m/maka_lima.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_lima.mp3"
+    }
+  },
+  {
+    "id": "3162",
+    "basay": "maka-pija",
+    "category": "03",
+    "zh": [
+      "幾天？（問天數）"
+    ],
+    "en": [
+      "(for) how many days? 8052"
+    ],
+    "original": "maka-pija",
+    "audio": {
+      "slug": "maka_pija",
+      "ipay": "dictionary/audio/ipay/m/maka_pija.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_pija.mp3"
+    }
+  },
+  {
+    "id": "3163",
+    "basay": "maka-pitu",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 8314"
+    ],
+    "original": "maka-pitu",
+    "audio": {
+      "slug": "maka_pitu",
+      "ipay": "dictionary/audio/ipay/m/maka_pitu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_pitu.mp3"
+    }
+  },
+  {
+    "id": "3165",
+    "basay": "maka-sepat",
+    "category": "01",
+    "zh": [
+      "四次"
+    ],
+    "en": [
+      "four times 5170"
+    ],
+    "original": "maka-Sepat",
+    "audio": {
+      "slug": "maka_sepat",
+      "ipay": "dictionary/audio/ipay/m/maka_sepat.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_sepat.mp3"
+    }
+  },
+  {
+    "id": "3166",
+    "basay": "maka-walu",
+    "category": "01",
+    "zh": [
+      "八次（重複表頻率）"
+    ],
+    "en": [
+      "eight times (frequentative, multiplicative) 5947"
+    ],
+    "original": "maka-walu",
+    "audio": {
+      "slug": "maka_walu",
+      "ipay": "dictionary/audio/ipay/m/maka_walu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maka_walu.mp3"
     }
   },
   {
@@ -348,7 +1893,6 @@
     "en": [
       "say"
     ],
-    "source": "T",
     "original": "makawas, sikaw (S)",
     "audio": {
       "slug": "makawas",
@@ -366,7 +1910,6 @@
     "en": [
       "return"
     ],
-    "source": "T",
     "original": "makay",
     "audio": {
       "slug": "makay",
@@ -389,7 +1932,6 @@
     "en": [
       "honest. true"
     ],
-    "source": "B",
     "original": "makeŋ",
     "audio": {
       "slug": "makenx",
@@ -411,7 +1953,6 @@
     "en": [
       "al. similar"
     ],
-    "source": "B",
     "original": "makila",
     "audio": {
       "slug": "makila",
@@ -432,7 +1973,6 @@
     "en": [
       "all, <all eat>"
     ],
-    "source": "B",
     "original": "makila, <makila kuman>",
     "audio": {
       "slug": "makila",
@@ -450,7 +1990,6 @@
     "en": [
       "flint (for striking sparks)"
     ],
-    "source": "M",
     "original": "makiŋ (M)",
     "audio": {
       "slug": "makinx",
@@ -468,7 +2007,6 @@
     "en": [
       "bench curve"
     ],
-    "source": "M",
     "original": "makɭi (M)",
     "audio": {
       "slug": "maklxi",
@@ -479,14 +2017,13 @@
   {
     "id": "1415",
     "basay": "makl'isu",
-    "category": "01",
+    "category": "14",
     "zh": [
       "圓周"
     ],
     "en": [
       "circumference"
     ],
-    "source": "M",
     "original": "makɭisu (M)",
     "audio": {
       "slug": "maklxisu",
@@ -504,7 +2041,6 @@
     "en": [
       "really"
     ],
-    "source": "S",
     "original": "makən (S)",
     "audio": {
       "slug": "makoxn",
@@ -522,7 +2058,6 @@
     "en": [
       "honest, true"
     ],
-    "source": "M",
     "original": "makəŋ (M)",
     "audio": {
       "slug": "makoxnx",
@@ -540,7 +2075,6 @@
     "en": [
       "low tide"
     ],
-    "source": "M",
     "original": "makti (M)",
     "audio": {
       "slug": "makti",
@@ -558,7 +2092,6 @@
     "en": [
       "eat lunch"
     ],
-    "source": "T",
     "original": "maktəŋ",
     "audio": {
       "slug": "maktoxnx",
@@ -576,7 +2109,6 @@
     "en": [
       "day (whole)"
     ],
-    "source": "T",
     "original": "maktsatsian",
     "audio": {
       "slug": "maktsatsian",
@@ -594,7 +2126,6 @@
     "en": [
       "night (whole)"
     ],
-    "source": "T",
     "original": "maktuzian",
     "audio": {
       "slug": "maktuzian",
@@ -615,7 +2146,6 @@
     "en": [
       "my"
     ],
-    "source": "B",
     "original": "maku",
     "audio": {
       "slug": "maku",
@@ -633,7 +2163,6 @@
     "en": [
       "my (GEB)"
     ],
-    "source": "T",
     "original": "maku",
     "audio": {
       "slug": "maku",
@@ -654,7 +2183,6 @@
     "en": [
       "my (my house)"
     ],
-    "source": "B",
     "original": "maku kinijan",
     "audio": {
       "slug": "maku_kinijan",
@@ -675,7 +2203,6 @@
     "en": [
       "bigger (to become)"
     ],
-    "source": "B",
     "original": "mal'",
     "audio": {
       "slug": "malx",
@@ -693,7 +2220,6 @@
     "en": [
       "catch, take"
     ],
-    "source": "T",
     "original": "maɭa",
     "audio": {
       "slug": "malxa",
@@ -711,7 +2237,6 @@
     "en": [
       "buy"
     ],
-    "source": "M",
     "original": "maɭa (M)",
     "audio": {
       "slug": "malxa",
@@ -729,7 +2254,6 @@
     "en": [
       "die"
     ],
-    "source": "M",
     "original": "maɭaɭau (M)",
     "audio": {
       "slug": "malxalxau",
@@ -747,7 +2271,6 @@
     "en": [
       "follow, run after"
     ],
-    "source": "M",
     "original": "maɭaɭau (M)",
     "audio": {
       "slug": "malxalxau",
@@ -765,7 +2288,6 @@
     "en": [
       "catch, insist"
     ],
-    "source": "T",
     "original": "maɭay",
     "audio": {
       "slug": "malxay",
@@ -783,7 +2305,6 @@
     "en": [
       "tie (to)"
     ],
-    "source": "M",
     "original": "maɭet (M)",
     "audio": {
       "slug": "malxet",
@@ -801,7 +2322,6 @@
     "en": [
       "come"
     ],
-    "source": "T",
     "original": "maɭi, mamali, naqi",
     "audio": {
       "slug": "malxi",
@@ -819,7 +2339,6 @@
     "en": [
       "guard"
     ],
-    "source": "M",
     "original": "maɭiŋi (M)",
     "audio": {
       "slug": "malxinxi",
@@ -830,14 +2349,13 @@
   {
     "id": "1432",
     "basay": "mal'ose",
-    "category": "06",
+    "category": "28",
     "zh": [
       "哭，眼淚"
     ],
     "en": [
       "cry, tears"
     ],
-    "source": "M",
     "original": "maɭose (M)",
     "audio": {
       "slug": "malxose",
@@ -855,7 +2373,6 @@
     "en": [
       "feed for pig"
     ],
-    "source": "M",
     "original": "maɭuaɭo (M)",
     "audio": {
       "slug": "malxualxo",
@@ -876,7 +2393,6 @@
     "en": [
       "eclipse of the moon"
     ],
-    "source": "B",
     "original": "malailana butsan",
     "audio": {
       "slug": "malailana_butsan",
@@ -887,7 +2403,7 @@
   {
     "id": "0441",
     "basay": "malalau lalin'",
-    "category": "05",
+    "category": "14",
     "zh": [
       "死者的地方"
     ],
@@ -897,7 +2413,6 @@
     "en": [
       "dead persons' place"
     ],
-    "source": "B",
     "original": "malalau laliŋ",
     "audio": {
       "slug": "malalau_lalinx",
@@ -915,7 +2430,6 @@
     "en": [
       "fall"
     ],
-    "source": "M",
     "original": "malata (M)",
     "audio": {
       "slug": "malata",
@@ -933,7 +2447,6 @@
     "en": [
       "interrupt, hinder"
     ],
-    "source": "M",
     "original": "malatsəŋ (M)",
     "audio": {
       "slug": "malatsoxnx",
@@ -944,7 +2457,7 @@
   {
     "id": "0442",
     "basay": "malauise",
-    "category": "05",
+    "category": "32",
     "zh": [
       "著名的"
     ],
@@ -954,7 +2467,6 @@
     "en": [
       "famous"
     ],
-    "source": "B",
     "original": "malauise",
     "audio": {
       "slug": "malauise",
@@ -975,7 +2487,6 @@
     "en": [
       "like"
     ],
-    "source": "B",
     "original": "malila",
     "audio": {
       "slug": "malila",
@@ -996,7 +2507,6 @@
     "en": [
       "love (to)"
     ],
-    "source": "B",
     "original": "malila",
     "audio": {
       "slug": "malila",
@@ -1017,12 +2527,28 @@
     "en": [
       "tabu, taboo"
     ],
-    "source": "B",
     "original": "malin",
     "audio": {
       "slug": "malin",
       "ipay": "dictionary/audio/ipay/m/malin.mp3",
       "hokkien": "dictionary/audio/hokkien/m/malin.mp3"
+    }
+  },
+  {
+    "id": "3176",
+    "basay": "maliqi",
+    "category": "34",
+    "zh": [
+      "懷孕的"
+    ],
+    "en": [
+      "pregnant 3563"
+    ],
+    "original": "maliqi",
+    "audio": {
+      "slug": "maliqi",
+      "ipay": "dictionary/audio/ipay/m/maliqi.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maliqi.mp3"
     }
   },
   {
@@ -1038,7 +2564,6 @@
     "en": [
       "fear"
     ],
-    "source": "B",
     "original": "malitsatsau",
     "audio": {
       "slug": "malitsatsau",
@@ -1059,7 +2584,6 @@
     "en": [
       "distorted, contorted"
     ],
-    "source": "B",
     "original": "malitsautsau",
     "audio": {
       "slug": "malitsautsau",
@@ -1077,7 +2601,6 @@
     "en": [
       "long, straight"
     ],
-    "source": "M",
     "original": "maloŋ (M)",
     "audio": {
       "slug": "malonx",
@@ -1088,14 +2611,13 @@
   {
     "id": "1423",
     "basay": "malsawsaw",
-    "category": "05",
+    "category": "28",
     "zh": [
       "活著的"
     ],
     "en": [
       "alive"
     ],
-    "source": "T",
     "original": "malsawsaw",
     "audio": {
       "slug": "malsawsaw",
@@ -1113,7 +2635,6 @@
     "en": [
       "steep, stumble"
     ],
-    "source": "M",
     "original": "malsuvun (M)",
     "audio": {
       "slug": "malsuvun",
@@ -1134,7 +2655,6 @@
     "en": [
       "idle"
     ],
-    "source": "B",
     "original": "malukas",
     "audio": {
       "slug": "malukas",
@@ -1157,7 +2677,6 @@
     "en": [
       "idle.weak-spirited"
     ],
-    "source": "B",
     "original": "malukasse",
     "audio": {
       "slug": "malukasse",
@@ -1178,7 +2697,6 @@
     "en": [
       "bark (dogs)"
     ],
-    "source": "B",
     "original": "malulu",
     "audio": {
       "slug": "malulu",
@@ -1199,7 +2717,6 @@
     "en": [
       "same family name"
     ],
-    "source": "B",
     "original": "malutsuŋ",
     "audio": {
       "slug": "malutsunx",
@@ -1220,7 +2737,6 @@
     "en": [
       "big fish"
     ],
-    "source": "B",
     "original": "malº baute",
     "audio": {
       "slug": "mal_baute",
@@ -1238,12 +2754,28 @@
     "en": [
       "person"
     ],
-    "source": "T",
     "original": "mamaan",
     "audio": {
       "slug": "mamaan",
       "ipay": "dictionary/audio/ipay/m/mamaan.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mamaan.mp3"
+    }
+  },
+  {
+    "id": "3178",
+    "basay": "mamah",
+    "category": "04",
+    "zh": [
+      "父親的兄弟"
+    ],
+    "en": [
+      "father’s brother 8745"
+    ],
+    "original": "mamah",
+    "audio": {
+      "slug": "mamah",
+      "ipay": "dictionary/audio/ipay/m/mamah.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mamah.mp3"
     }
   },
   {
@@ -1259,7 +2791,6 @@
     "en": [
       "quiet"
     ],
-    "source": "B",
     "original": "maman na",
     "audio": {
       "slug": "maman_na",
@@ -1281,7 +2812,6 @@
     "en": [
       "gentle, quiet"
     ],
-    "source": "B",
     "original": "mamana",
     "audio": {
       "slug": "mamana",
@@ -1299,7 +2829,6 @@
     "en": [
       "go"
     ],
-    "source": "T",
     "original": "mamatiwi",
     "audio": {
       "slug": "mamatiwi",
@@ -1321,7 +2850,6 @@
     "en": [
       "accomplishment, ripe"
     ],
-    "source": "B",
     "original": "mamin",
     "audio": {
       "slug": "mamin",
@@ -1339,7 +2867,6 @@
     "en": [
       "greedy"
     ],
-    "source": "T",
     "original": "mamis",
     "audio": {
       "slug": "mamis",
@@ -1357,7 +2884,6 @@
     "en": [
       "like"
     ],
-    "source": "M",
     "original": "mamjaku (M), muanum",
     "audio": {
       "slug": "mamjaku",
@@ -1375,7 +2901,6 @@
     "en": [
       "roll up"
     ],
-    "source": "M",
     "original": "mamtsuŋ (M)",
     "audio": {
       "slug": "mamtsunx",
@@ -1393,7 +2918,6 @@
     "en": [
       "stutter (to)"
     ],
-    "source": "M",
     "original": "mamurmur (M)",
     "audio": {
       "slug": "mamurmur",
@@ -1411,7 +2935,6 @@
     "en": [
       "harvest"
     ],
-    "source": "M",
     "original": "maŋatu (M)",
     "audio": {
       "slug": "manxatu",
@@ -1432,7 +2955,6 @@
     "en": [
       "strong"
     ],
-    "source": "B",
     "original": "maŋette",
     "audio": {
       "slug": "manxette",
@@ -1453,7 +2975,6 @@
     "en": [
       "ugly"
     ],
-    "source": "B",
     "original": "maŋote",
     "audio": {
       "slug": "manxote",
@@ -1474,7 +2995,6 @@
     "en": [
       "name of a vilage"
     ],
-    "source": "B",
     "original": "maŋun",
     "audio": {
       "slug": "manxun",
@@ -1495,7 +3015,6 @@
     "en": [
       "fresh, new"
     ],
-    "source": "B",
     "original": "maŋun",
     "audio": {
       "slug": "manxun",
@@ -1516,7 +3035,6 @@
     "en": [
       "don't"
     ],
-    "source": "B",
     "original": "manai",
     "audio": {
       "slug": "manai",
@@ -1537,7 +3055,6 @@
     "en": [
       "don't eat"
     ],
-    "source": "B",
     "original": "manai",
     "audio": {
       "slug": "manai",
@@ -1558,7 +3075,6 @@
     "en": [
       "don't go"
     ],
-    "source": "B",
     "original": "manai aui",
     "audio": {
       "slug": "manai_aui",
@@ -1579,7 +3095,6 @@
     "en": [
       "not go"
     ],
-    "source": "B",
     "original": "manai aui",
     "audio": {
       "slug": "manai_aui",
@@ -1600,7 +3115,6 @@
     "en": [
       "don't eat"
     ],
-    "source": "B",
     "original": "manai kuman",
     "audio": {
       "slug": "manai_kuman",
@@ -1622,7 +3136,6 @@
     "en": [
       "young man. male"
     ],
-    "source": "B",
     "original": "manaina",
     "audio": {
       "slug": "manaina",
@@ -1643,7 +3156,6 @@
     "en": [
       "male"
     ],
-    "source": "B",
     "original": "manaina",
     "audio": {
       "slug": "manaina",
@@ -1665,7 +3177,6 @@
     "en": [
       "fetting. thick/fat"
     ],
-    "source": "B",
     "original": "manaŋke",
     "audio": {
       "slug": "mananxke",
@@ -1686,12 +3197,28 @@
     "en": [
       "fat"
     ],
-    "source": "B",
     "original": "manaŋke",
     "audio": {
       "slug": "mananxke",
       "ipay": "dictionary/audio/ipay/m/mananxke.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mananxke.mp3"
+    }
+  },
+  {
+    "id": "3182",
+    "basay": "manang",
+    "category": "32",
+    "zh": [
+      "鋒利的"
+    ],
+    "en": [
+      "sharp 7296"
+    ],
+    "original": "maNaŋ",
+    "audio": {
+      "slug": "mananx",
+      "ipay": "dictionary/audio/ipay/m/mananx.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mananx.mp3"
     }
   },
   {
@@ -1707,7 +3234,6 @@
     "en": [
       "omen"
     ],
-    "source": "B",
     "original": "manatse",
     "audio": {
       "slug": "manatse",
@@ -1728,7 +3254,6 @@
     "en": [
       "chilly"
     ],
-    "source": "B",
     "original": "maneŋ",
     "audio": {
       "slug": "manenx",
@@ -1749,7 +3274,6 @@
     "en": [
       "malaria"
     ],
-    "source": "B",
     "original": "maneŋ",
     "audio": {
       "slug": "manenx",
@@ -1770,7 +3294,6 @@
     "en": [
       "torn"
     ],
-    "source": "B",
     "original": "manete",
     "audio": {
       "slug": "manete",
@@ -1791,7 +3314,6 @@
     "en": [
       "tear (to)"
     ],
-    "source": "B",
     "original": "manette",
     "audio": {
       "slug": "manette",
@@ -1809,7 +3331,6 @@
     "en": [
       "strong"
     ],
-    "source": "M",
     "original": "mani (M)",
     "audio": {
       "slug": "mani",
@@ -1827,7 +3348,6 @@
     "en": [
       "good"
     ],
-    "source": "S",
     "original": "mani (S)",
     "audio": {
       "slug": "mani",
@@ -1845,7 +3365,6 @@
     "en": [
       "younger brother"
     ],
-    "source": "T",
     "original": "maniana",
     "audio": {
       "slug": "maniana",
@@ -1866,7 +3385,6 @@
     "en": [
       "husband."
     ],
-    "source": "B",
     "original": "maninai",
     "audio": {
       "slug": "maninai",
@@ -1887,7 +3405,6 @@
     "en": [
       "come again"
     ],
-    "source": "B",
     "original": "maninakana",
     "audio": {
       "slug": "maninakana",
@@ -1908,12 +3425,28 @@
     "en": [
       "cold weather"
     ],
-    "source": "B",
     "original": "manəŋ",
     "audio": {
       "slug": "manoxnx",
       "ipay": "dictionary/audio/ipay/m/manoxnx.mp3",
       "hokkien": "dictionary/audio/hokkien/m/manoxnx.mp3"
+    }
+  },
+  {
+    "id": "3180",
+    "basay": "manu",
+    "category": "03",
+    "zh": [
+      "疑問標記：哪一個？"
+    ],
+    "en": [
+      "interrogative marker: which? 3571"
+    ],
+    "original": "manu",
+    "audio": {
+      "slug": "manu",
+      "ipay": "dictionary/audio/ipay/m/manu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/manu.mp3"
     }
   },
   {
@@ -1930,12 +3463,28 @@
     "en": [
       "summer (to). summering"
     ],
-    "source": "B",
     "original": "manu paju-i",
     "audio": {
       "slug": "manu_paju_i",
       "ipay": "dictionary/audio/ipay/m/manu_paju_i.mp3",
       "hokkien": "dictionary/audio/hokkien/m/manu_paju_i.mp3"
+    }
+  },
+  {
+    "id": "3181",
+    "basay": "manuk",
+    "category": "07",
+    "zh": [
+      "雞"
+    ],
+    "en": [
+      "chicken 6948"
+    ],
+    "original": "manuk",
+    "audio": {
+      "slug": "manuk",
+      "ipay": "dictionary/audio/ipay/m/manuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/manuk.mp3"
     }
   },
   {
@@ -1951,7 +3500,6 @@
     "en": [
       "bird"
     ],
-    "source": "B",
     "original": "manuk (ə)",
     "audio": {
       "slug": "manuk",
@@ -1969,7 +3517,6 @@
     "en": [
       "bird"
     ],
-    "source": "M",
     "original": "manukka (M)",
     "audio": {
       "slug": "manukka",
@@ -1990,7 +3537,6 @@
     "en": [
       "cloth"
     ],
-    "source": "B",
     "original": "manulan",
     "audio": {
       "slug": "manulan",
@@ -2008,7 +3554,6 @@
     "en": [
       "egret"
     ],
-    "source": "S",
     "original": "manuq (S), vate (M)",
     "audio": {
       "slug": "manuq",
@@ -2029,7 +3574,6 @@
     "en": [
       "naughty"
     ],
-    "source": "B",
     "original": "manutasse",
     "audio": {
       "slug": "manutasse",
@@ -2047,7 +3591,6 @@
     "en": [
       "quiet"
     ],
-    "source": "T",
     "original": "mapənəŋ",
     "audio": {
       "slug": "mapoxnoxnx",
@@ -2065,7 +3608,6 @@
     "en": [
       "white powder"
     ],
-    "source": "T",
     "original": "mapoɭ, marpaɭas (M)",
     "audio": {
       "slug": "mapolx",
@@ -2083,7 +3625,6 @@
     "en": [
       "smallpox"
     ],
-    "source": "M",
     "original": "mapoɭoŋ (M)",
     "audio": {
       "slug": "mapolxonx",
@@ -2101,7 +3642,6 @@
     "en": [
       "swelling, boil"
     ],
-    "source": "M",
     "original": "maportos (M)",
     "audio": {
       "slug": "maportos",
@@ -2119,7 +3659,6 @@
     "en": [
       "all"
     ],
-    "source": "T",
     "original": "maputs",
     "audio": {
       "slug": "maputs",
@@ -2137,12 +3676,28 @@
     "en": [
       "eager"
     ],
-    "source": "M",
     "original": "maputs (M)",
     "audio": {
       "slug": "maputs",
       "ipay": "dictionary/audio/ipay/m/maputs.mp3",
       "hokkien": "dictionary/audio/hokkien/m/maputs.mp3"
+    }
+  },
+  {
+    "id": "3197",
+    "basay": "maqaw",
+    "category": "07",
+    "zh": [
+      "植物：山雞椒（Litsea cubeba）"
+    ],
+    "en": [
+      "a plant: Litsea cubeba (Lour.) 6587"
+    ],
+    "original": "maqaw",
+    "audio": {
+      "slug": "maqaw",
+      "ipay": "dictionary/audio/ipay/m/maqaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/maqaw.mp3"
     }
   },
   {
@@ -2155,7 +3710,6 @@
     "en": [
       "eat"
     ],
-    "source": "S",
     "original": "maqman (S)",
     "audio": {
       "slug": "maqman",
@@ -2173,7 +3727,6 @@
     "en": [
       "really"
     ],
-    "source": "S",
     "original": "maqmwanay (S)",
     "audio": {
       "slug": "maqmwanay",
@@ -2194,7 +3747,6 @@
     "en": [
       "insects come in."
     ],
-    "source": "B",
     "original": "maqolqot",
     "audio": {
       "slug": "maqolqot",
@@ -2212,7 +3764,6 @@
     "en": [
       "hunchback"
     ],
-    "source": "M",
     "original": "maqozoŋ (M)",
     "audio": {
       "slug": "maqozonx",
@@ -2231,7 +3782,6 @@
     "en": [
       "elder sibling"
     ],
-    "source": "S",
     "original": "maqsumanta (S)",
     "audio": {
       "slug": "maqsumanta",
@@ -2249,7 +3799,6 @@
     "en": [
       "reach"
     ],
-    "source": "T",
     "original": "maqtu",
     "audio": {
       "slug": "maqtu",
@@ -2267,12 +3816,115 @@
     "en": [
       "really"
     ],
-    "source": "S",
     "original": "maquno (S)",
     "audio": {
       "slug": "maquno",
       "ipay": "dictionary/audio/ipay/m/maquno.mp3",
       "hokkien": "dictionary/audio/hokkien/m/maquno.mp3"
+    }
+  },
+  {
+    "id": "3202",
+    "basay": "maR-amax",
+    "category": "04",
+    "zh": [
+      "父子關係"
+    ],
+    "en": [
+      "to be father and child 136"
+    ],
+    "original": "maR-amax",
+    "audio": {
+      "slug": "mar_amax",
+      "ipay": "dictionary/audio/ipay/m/mar_amax.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mar_amax.mp3"
+    }
+  },
+  {
+    "id": "3203",
+    "basay": "maR-buaq",
+    "category": "08",
+    "zh": [
+      "結果實"
+    ],
+    "en": [
+      "bear fruit 1336"
+    ],
+    "original": "maR-buaq",
+    "audio": {
+      "slug": "mar_buaq",
+      "ipay": "dictionary/audio/ipay/m/mar_buaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mar_buaq.mp3"
+    }
+  },
+  {
+    "id": "3205",
+    "basay": "maR-ina",
+    "category": "04",
+    "zh": [
+      "母子關係"
+    ],
+    "en": [
+      "to be mother and child 2898"
+    ],
+    "original": "maR-ina",
+    "audio": {
+      "slug": "mar_ina",
+      "ipay": "dictionary/audio/ipay/m/mar_ina.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mar_ina.mp3"
+    }
+  },
+  {
+    "id": "3206",
+    "basay": "maR-luseq",
+    "category": "25",
+    "zh": [
+      "流淚",
+      "哭泣"
+    ],
+    "en": [
+      "to shed tears, weep 7669"
+    ],
+    "original": "maR-luSeq",
+    "audio": {
+      "slug": "mar_luseq",
+      "ipay": "dictionary/audio/ipay/m/mar_luseq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mar_luseq.mp3"
+    }
+  },
+  {
+    "id": "3207",
+    "basay": "maR-qani",
+    "category": "15",
+    "zh": [
+      "收成",
+      "收穫"
+    ],
+    "en": [
+      "harvest; to harvest 4227"
+    ],
+    "original": "maR-qani",
+    "audio": {
+      "slug": "mar_qani",
+      "ipay": "dictionary/audio/ipay/m/mar_qani.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mar_qani.mp3"
+    }
+  },
+  {
+    "id": "3204",
+    "basay": "maRe-anak",
+    "category": "04",
+    "zh": [
+      "親子關係"
+    ],
+    "en": [
+      "parent and child 199"
+    ],
+    "original": "maRe-anak",
+    "audio": {
+      "slug": "mare_anak",
+      "ipay": "dictionary/audio/ipay/m/mare_anak.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mare_anak.mp3"
     }
   },
   {
@@ -2285,7 +3937,6 @@
     "en": [
       "curly, (winding river/road)"
     ],
-    "source": "M",
     "original": "markaku (M)",
     "audio": {
       "slug": "markaku",
@@ -2303,7 +3954,6 @@
     "en": [
       "cooked"
     ],
-    "source": "T",
     "original": "marni",
     "audio": {
       "slug": "marni",
@@ -2321,7 +3971,6 @@
     "en": [
       "white powder"
     ],
-    "source": "M",
     "original": "mapoɭ, marpaɭas (M)",
     "audio": {
       "slug": "marpalxas",
@@ -2339,12 +3988,29 @@
     "en": [
       "quarrel"
     ],
-    "source": "M",
     "original": "marqaini (M)",
     "audio": {
       "slug": "marqaini",
       "ipay": "dictionary/audio/ipay/m/marqaini.mp3",
       "hokkien": "dictionary/audio/hokkien/m/marqaini.mp3"
+    }
+  },
+  {
+    "id": "3208",
+    "basay": "mas",
+    "category": "34",
+    "zh": [
+      "和",
+      "與"
+    ],
+    "en": [
+      "and 3572"
+    ],
+    "original": "maS",
+    "audio": {
+      "slug": "mas",
+      "ipay": "dictionary/audio/ipay/m/mas.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mas.mp3"
     }
   },
   {
@@ -2360,7 +4026,6 @@
     "en": [
       "old days"
     ],
-    "source": "B",
     "original": "masaŋ",
     "audio": {
       "slug": "masanx",
@@ -2378,7 +4043,6 @@
     "en": [
       "old days"
     ],
-    "source": "M",
     "original": "masaŋ (M), qomnipa",
     "audio": {
       "slug": "masanx",
@@ -2389,7 +4053,7 @@
   {
     "id": "0483",
     "basay": "masan'. | masan' a tau",
-    "category": "05",
+    "category": "13",
     "zh": [
       "舊時光"
     ],
@@ -2399,7 +4063,6 @@
     "en": [
       "old days"
     ],
-    "source": "B",
     "original": "masaŋ. <masaŋ a tau>",
     "audio": {
       "slug": "masanx",
@@ -2417,7 +4080,6 @@
     "en": [
       "fight"
     ],
-    "source": "T",
     "original": "masawa",
     "audio": {
       "slug": "masawa",
@@ -2435,7 +4097,6 @@
     "en": [
       "allow"
     ],
-    "source": "S",
     "original": "masazmakən (S)",
     "audio": {
       "slug": "masazmakoxn",
@@ -2456,7 +4117,6 @@
     "en": [
       "frost column"
     ],
-    "source": "B",
     "original": "masel' (?)",
     "audio": {
       "slug": "maselx",
@@ -2467,7 +4127,7 @@
   {
     "id": "0485",
     "basay": "masiano'm",
-    "category": "05",
+    "category": "24",
     "zh": [
       "偉人"
     ],
@@ -2477,7 +4137,6 @@
     "en": [
       "great man"
     ],
-    "source": "B",
     "original": "masianəm",
     "audio": {
       "slug": "masianoxm",
@@ -2498,7 +4157,6 @@
     "en": [
       "clever"
     ],
-    "source": "B",
     "original": "masianəm",
     "audio": {
       "slug": "masianoxm",
@@ -2519,7 +4177,6 @@
     "en": [
       "great"
     ],
-    "source": "B",
     "original": "masianum",
     "audio": {
       "slug": "masianum",
@@ -2540,7 +4197,6 @@
     "en": [
       "ashamed"
     ],
-    "source": "B",
     "original": "masikat",
     "audio": {
       "slug": "masikat",
@@ -2561,7 +4217,6 @@
     "en": [
       "dew (?)"
     ],
-    "source": "B",
     "original": "masol'",
     "audio": {
       "slug": "masolx",
@@ -2584,7 +4239,6 @@
     "en": [
       "praise (to). able"
     ],
-    "source": "B",
     "original": "masopəl'",
     "audio": {
       "slug": "masopoxlx",
@@ -2605,7 +4259,6 @@
     "en": [
       "know"
     ],
-    "source": "B",
     "original": "masopul'",
     "audio": {
       "slug": "masopulx",
@@ -2627,7 +4280,6 @@
     "en": [
       "drowned death by drowning"
     ],
-    "source": "B",
     "original": "masossot",
     "audio": {
       "slug": "masossot",
@@ -2645,7 +4297,6 @@
     "en": [
       "get up"
     ],
-    "source": "S",
     "original": "masua (S)",
     "audio": {
       "slug": "masua",
@@ -2656,7 +4307,7 @@
   {
     "id": "0493",
     "basay": "masukut",
-    "category": "06",
+    "category": "25",
     "zh": [
       "戳",
       "推力"
@@ -2667,7 +4318,6 @@
     "en": [
       "stick. thrust"
     ],
-    "source": "B",
     "original": "masukut",
     "audio": {
       "slug": "masukut",
@@ -2688,7 +4338,6 @@
     "en": [
       "eye"
     ],
-    "source": "B",
     "original": "mata",
     "audio": {
       "slug": "mata",
@@ -2706,7 +4355,6 @@
     "en": [
       "eye"
     ],
-    "source": "T",
     "original": "mata",
     "audio": {
       "slug": "mata",
@@ -2715,9 +4363,46 @@
     }
   },
   {
+    "id": "3146",
+    "basay": "mata",
+    "category": "06",
+    "zh": [
+      "眼睛",
+      "焦點",
+      "中心",
+      "最明顯之處"
+    ],
+    "en": [
+      "eye, focal point, center or most prominent part 8601"
+    ],
+    "original": "maCa",
+    "audio": {
+      "slug": "mata",
+      "ipay": "dictionary/audio/ipay/m/mata.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mata.mp3"
+    }
+  },
+  {
+    "id": "3218",
+    "basay": "mata nu qalejaw",
+    "category": "11",
+    "zh": [
+      "太陽（日之眼）"
+    ],
+    "en": [
+      "sun (‘eye of the day’) 8628"
+    ],
+    "original": "mata nu qalejaw",
+    "audio": {
+      "slug": "mata_nu_qalejaw",
+      "ipay": "dictionary/audio/ipay/m/mata_nu_qalejaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mata_nu_qalejaw.mp3"
+    }
+  },
+  {
     "id": "0495",
     "basay": "mata numalᵒ | numaz'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "看到"
     ],
@@ -2727,7 +4412,6 @@
     "en": [
       "seeing"
     ],
-    "source": "B",
     "original": "mata numalᵒ (numaDᵒ)",
     "audio": {
       "slug": "mata_numal",
@@ -2748,7 +4432,6 @@
     "en": [
       "eye mucus"
     ],
-    "source": "B",
     "original": "mata tae",
     "audio": {
       "slug": "mata_tae",
@@ -2766,7 +4449,6 @@
     "en": [
       "sun"
     ],
-    "source": "M",
     "original": "mata u ɮian (M)",
     "audio": {
       "slug": "mata_u_zxian",
@@ -2788,7 +4470,6 @@
     "en": [
       "raw. <eat food raw>"
     ],
-    "source": "B",
     "original": "mata, sumata, <kuman su mata>",
     "audio": {
       "slug": "mata",
@@ -2806,7 +4487,6 @@
     "en": [
       "cottage, hut"
     ],
-    "source": "M",
     "original": "matael (M), tael",
     "audio": {
       "slug": "matael",
@@ -2824,7 +4504,6 @@
     "en": [
       "strike (to)"
     ],
-    "source": "M",
     "original": "matai (M)",
     "audio": {
       "slug": "matai",
@@ -2842,7 +4521,6 @@
     "en": [
       "eclipse of the moon"
     ],
-    "source": "M",
     "original": "mataii vutsan (M)",
     "audio": {
       "slug": "mataii_vutsan",
@@ -2860,7 +4538,6 @@
     "en": [
       "migrate"
     ],
-    "source": "M",
     "original": "mataɭin (M)",
     "audio": {
       "slug": "matalxin",
@@ -2878,7 +4555,6 @@
     "en": [
       "work"
     ],
-    "source": "S",
     "original": "mataluna (S)",
     "audio": {
       "slug": "mataluna",
@@ -2899,7 +4575,6 @@
     "en": [
       "rejoice"
     ],
-    "source": "B",
     "original": "mataŋataŋa",
     "audio": {
       "slug": "matanxatanxa",
@@ -2917,7 +4592,6 @@
     "en": [
       "funeral"
     ],
-    "source": "M",
     "original": "matanəm (M)",
     "audio": {
       "slug": "matanoxm",
@@ -2935,7 +4609,6 @@
     "en": [
       "meet"
     ],
-    "source": "M",
     "original": "matara (M)",
     "audio": {
       "slug": "matara",
@@ -2953,7 +4626,6 @@
     "en": [
       "wrap"
     ],
-    "source": "T",
     "original": "matavo",
     "audio": {
       "slug": "matavo",
@@ -2971,7 +4643,6 @@
     "en": [
       "dead, die"
     ],
-    "source": "T",
     "original": "matay",
     "audio": {
       "slug": "matay",
@@ -2989,7 +4660,6 @@
     "en": [
       "egg"
     ],
-    "source": "M",
     "original": "materol (M)",
     "audio": {
       "slug": "materol",
@@ -3007,7 +4677,6 @@
     "en": [
       "go"
     ],
-    "source": "T",
     "original": "mati, matiw",
     "audio": {
       "slug": "mati",
@@ -3025,7 +4694,6 @@
     "en": [
       "embroider"
     ],
-    "source": "M",
     "original": "matik (M)",
     "audio": {
       "slug": "matik",
@@ -3047,7 +4715,6 @@
     "en": [
       "pinch (to), stiff"
     ],
-    "source": "B",
     "original": "matittse",
     "audio": {
       "slug": "matittse",
@@ -3065,7 +4732,6 @@
     "en": [
       "tread"
     ],
-    "source": "T",
     "original": "mativtivək",
     "audio": {
       "slug": "mativtivoxk",
@@ -3083,7 +4749,6 @@
     "en": [
       "set a date"
     ],
-    "source": "T",
     "original": "matnək",
     "audio": {
       "slug": "matnoxk",
@@ -3101,7 +4766,6 @@
     "en": [
       "arrange flowers"
     ],
-    "source": "M",
     "original": "matəktək (M)",
     "audio": {
       "slug": "matoxktoxk",
@@ -3119,7 +4783,6 @@
     "en": [
       "lunch"
     ],
-    "source": "T",
     "original": "matəŋ",
     "audio": {
       "slug": "matoxnx",
@@ -3137,7 +4800,6 @@
     "en": [
       "go between"
     ],
-    "source": "M",
     "original": "matowanai (M)",
     "audio": {
       "slug": "matowanai",
@@ -3155,7 +4817,6 @@
     "en": [
       "wear clothes"
     ],
-    "source": "T",
     "original": "matqalivu",
     "audio": {
       "slug": "matqalivu",
@@ -3176,7 +4837,6 @@
     "en": [
       "clean"
     ],
-    "source": "B",
     "original": "matsaŋasse",
     "audio": {
       "slug": "matsanxasse",
@@ -3197,7 +4857,6 @@
     "en": [
       "fear (to)"
     ],
-    "source": "B",
     "original": "matsatsau",
     "audio": {
       "slug": "matsatsau",
@@ -3218,7 +4877,6 @@
     "en": [
       "bright"
     ],
-    "source": "B",
     "original": "matsenal'",
     "audio": {
       "slug": "matsenalx",
@@ -3236,7 +4894,6 @@
     "en": [
       "awake (from sleep), get up"
     ],
-    "source": "T",
     "original": "matsin",
     "audio": {
       "slug": "matsin",
@@ -3247,14 +4904,13 @@
   {
     "id": "1490",
     "basay": "matsin'tso'n'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "頭痛"
     ],
     "en": [
       "headache"
     ],
-    "source": "M",
     "original": "matsiŋtsəŋ (M)",
     "audio": {
       "slug": "matsinxtsoxnx",
@@ -3275,7 +4931,6 @@
     "en": [
       "smoky"
     ],
-    "source": "B",
     "original": "matsəŋtsəŋ",
     "audio": {
       "slug": "matsoxnxtsoxnx",
@@ -3296,7 +4951,6 @@
     "en": [
       "smoke"
     ],
-    "source": "B",
     "original": "matsəŋtsəŋ",
     "audio": {
       "slug": "matsoxnxtsoxnx",
@@ -3319,7 +4973,6 @@
     "en": [
       "steep. stumble"
     ],
-    "source": "B",
     "original": "matsubun",
     "audio": {
       "slug": "matsubun",
@@ -3341,7 +4994,6 @@
     "en": [
       "topple. collapse"
     ],
-    "source": "B",
     "original": "matsubuŋ",
     "audio": {
       "slug": "matsubunx",
@@ -3363,7 +5015,6 @@
     "en": [
       "jump"
     ],
-    "source": "B",
     "original": "matsubuŋ",
     "audio": {
       "slug": "matsubunx",
@@ -3381,7 +5032,6 @@
     "en": [
       "sing"
     ],
-    "source": "T",
     "original": "matsulay",
     "audio": {
       "slug": "matsulay",
@@ -3392,14 +5042,13 @@
   {
     "id": "1493",
     "basay": "matuzusan",
-    "category": "06",
+    "category": "29",
     "zh": [
       "滿足"
     ],
     "en": [
       "contented"
     ],
-    "source": "T",
     "original": "matuzusan",
     "audio": {
       "slug": "matuzusan",
@@ -3417,7 +5066,6 @@
     "en": [
       "resurrection"
     ],
-    "source": "T",
     "original": "maumatay",
     "audio": {
       "slug": "maumatay",
@@ -3435,7 +5083,6 @@
     "en": [
       "why"
     ],
-    "source": "T",
     "original": "maunu",
     "audio": {
       "slug": "maunu",
@@ -3453,7 +5100,6 @@
     "en": [
       "go together"
     ],
-    "source": "S",
     "original": "mautut (S)",
     "audio": {
       "slug": "mautut",
@@ -3471,7 +5117,6 @@
     "en": [
       "pound rice"
     ],
-    "source": "T",
     "original": "mavalats",
     "audio": {
       "slug": "mavalats",
@@ -3489,7 +5134,6 @@
     "en": [
       "build a boat"
     ],
-    "source": "T",
     "original": "mavawa",
     "audio": {
       "slug": "mavawa",
@@ -3507,7 +5151,6 @@
     "en": [
       "exclamation"
     ],
-    "source": "T",
     "original": "maw",
     "audio": {
       "slug": "maw",
@@ -3525,7 +5168,6 @@
     "en": [
       "do, cook"
     ],
-    "source": "T",
     "original": "maya",
     "audio": {
       "slug": "maya",
@@ -3543,7 +5185,6 @@
     "en": [
       "idle"
     ],
-    "source": "M",
     "original": "maɮukas (M)",
     "audio": {
       "slug": "mazxukas",
@@ -3561,7 +5202,6 @@
     "en": [
       "go together"
     ],
-    "source": "T",
     "original": "mazinup",
     "audio": {
       "slug": "mazinup",
@@ -3579,7 +5219,6 @@
     "en": [
       "swing"
     ],
-    "source": "T",
     "original": "maziwziwun",
     "audio": {
       "slug": "maziwziwun",
@@ -3597,7 +5236,6 @@
     "en": [
       "grass grown tall"
     ],
-    "source": "T",
     "original": "melebus",
     "audio": {
       "slug": "melebus",
@@ -3615,7 +5253,6 @@
     "en": [
       "goat"
     ],
-    "source": "M",
     "original": "meme (M)",
     "audio": {
       "slug": "meme",
@@ -3633,7 +5270,6 @@
     "en": [
       "fin"
     ],
-    "source": "M",
     "original": "meŋajeɭ.(M)",
     "audio": {
       "slug": "menxajelx",
@@ -3656,7 +5292,6 @@
     "en": [
       "gourd. melon. cucumber"
     ],
-    "source": "B",
     "original": "mena-ol'",
     "audio": {
       "slug": "mena_olx",
@@ -3674,7 +5309,6 @@
     "en": [
       "awake (to)"
     ],
-    "source": "M",
     "original": "menaɮ (M)",
     "audio": {
       "slug": "menazx",
@@ -3692,7 +5326,6 @@
     "en": [
       "strength"
     ],
-    "source": "M",
     "original": "meolat (M)",
     "audio": {
       "slug": "meolat",
@@ -3710,12 +5343,47 @@
     "en": [
       "bathe"
     ],
-    "source": "M",
     "original": "merots (M)",
     "audio": {
       "slug": "merots",
       "ipay": "dictionary/audio/ipay/m/merots.mp3",
       "hokkien": "dictionary/audio/hokkien/m/merots.mp3"
+    }
+  },
+  {
+    "id": "3231",
+    "basay": "mesmes",
+    "category": "34",
+    "zh": [
+      "抓緊",
+      "握緊",
+      "擠壓"
+    ],
+    "en": [
+      "grasp, grip, squeeze 3584"
+    ],
+    "original": "mesmes",
+    "audio": {
+      "slug": "mesmes",
+      "ipay": "dictionary/audio/ipay/m/mesmes.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mesmes.mp3"
+    }
+  },
+  {
+    "id": "3232",
+    "basay": "metmet",
+    "category": "25",
+    "zh": [
+      "緊握"
+    ],
+    "en": [
+      "to hold tightly 12729"
+    ],
+    "original": "metmet",
+    "audio": {
+      "slug": "metmet",
+      "ipay": "dictionary/audio/ipay/m/metmet.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/metmet.mp3"
     }
   },
   {
@@ -3728,7 +5396,6 @@
     "en": [
       "debt, owe"
     ],
-    "source": "M",
     "original": "metəŋe (M)",
     "audio": {
       "slug": "metoxnxe",
@@ -3746,7 +5413,6 @@
     "en": [
       "cloth"
     ],
-    "source": "M",
     "original": "metones (M)",
     "audio": {
       "slug": "metones",
@@ -3764,7 +5430,6 @@
     "en": [
       "choose"
     ],
-    "source": "M",
     "original": "metse (M)",
     "audio": {
       "slug": "metse",
@@ -3782,12 +5447,46 @@
     "en": [
       "sleepy"
     ],
-    "source": "M",
     "original": "mezozo (M)",
     "audio": {
       "slug": "mezozo",
       "ipay": "dictionary/audio/ipay/m/mezozo.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mezozo.mp3"
+    }
+  },
+  {
+    "id": "3233",
+    "basay": "mi-",
+    "category": "36",
+    "zh": [
+      "所屬前綴（標示某物之所屬）"
+    ],
+    "en": [
+      "prefix marking possession of some object 10846"
+    ],
+    "original": "mi-",
+    "audio": {
+      "slug": "mi",
+      "ipay": "dictionary/audio/ipay/m/mi.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mi.mp3"
+    }
+  },
+  {
+    "id": "3234",
+    "basay": "mi-da-dusa",
+    "category": "25",
+    "zh": [
+      "與人一起做某事",
+      "共同執行動作"
+    ],
+    "en": [
+      "do something with someone else, perform an action together 7892"
+    ],
+    "original": "mi-da-duSa",
+    "audio": {
+      "slug": "mi_da_dusa",
+      "ipay": "dictionary/audio/ipay/m/mi_da_dusa.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mi_da_dusa.mp3"
     }
   },
   {
@@ -3800,7 +5499,6 @@
     "en": [
       "no, not"
     ],
-    "source": "T",
     "original": "mia",
     "audio": {
       "slug": "mia",
@@ -3818,7 +5516,6 @@
     "en": [
       "not yet"
     ],
-    "source": "T",
     "original": "mia pay",
     "audio": {
       "slug": "mia_pay",
@@ -3836,7 +5533,6 @@
     "en": [
       "or"
     ],
-    "source": "T",
     "original": "miakay",
     "audio": {
       "slug": "miakay",
@@ -3854,7 +5550,6 @@
     "en": [
       "adultery"
     ],
-    "source": "M",
     "original": "miakunatsawan (M)",
     "audio": {
       "slug": "miakunatsawan",
@@ -3872,7 +5567,6 @@
     "en": [
       "us (exclusive)"
     ],
-    "source": "T",
     "original": "mianan",
     "audio": {
       "slug": "mianan",
@@ -3890,7 +5584,6 @@
     "en": [
       "clever"
     ],
-    "source": "M",
     "original": "mianəm (M). sopəl",
     "audio": {
       "slug": "mianoxm_sopoxl",
@@ -3908,7 +5601,6 @@
     "en": [
       "great"
     ],
-    "source": "M",
     "original": "mianu (M)",
     "audio": {
       "slug": "mianu",
@@ -3926,7 +5618,6 @@
     "en": [
       "same family name"
     ],
-    "source": "M",
     "original": "miaquna soani (M)",
     "audio": {
       "slug": "miaquna_soani",
@@ -3944,7 +5635,6 @@
     "en": [
       "resemble (not)"
     ],
-    "source": "M",
     "original": "miasimusakai (M)",
     "audio": {
       "slug": "miasimusakai",
@@ -3962,7 +5652,6 @@
     "en": [
       "regret"
     ],
-    "source": "M",
     "original": "miatakvunai (M)",
     "audio": {
       "slug": "miatakvunai",
@@ -3980,7 +5669,6 @@
     "en": [
       "sleep, lie down"
     ],
-    "source": "T",
     "original": "miip",
     "audio": {
       "slug": "miip",
@@ -3998,7 +5686,6 @@
     "en": [
       "wear"
     ],
-    "source": "T",
     "original": "mikalumut",
     "audio": {
       "slug": "mikalumut",
@@ -4016,7 +5703,6 @@
     "en": [
       "stumble (to)"
     ],
-    "source": "T",
     "original": "miksun, qumapiz (M)",
     "audio": {
       "slug": "miksun",
@@ -4034,7 +5720,6 @@
     "en": [
       "scratch"
     ],
-    "source": "M",
     "original": "mikuskusan (M)",
     "audio": {
       "slug": "mikuskusan",
@@ -4052,7 +5737,6 @@
     "en": [
       "scabies"
     ],
-    "source": "M",
     "original": "mikuskusan (M)",
     "audio": {
       "slug": "mikuskusan",
@@ -4070,7 +5754,6 @@
     "en": [
       "have lice"
     ],
-    "source": "M",
     "original": "mikutu (M)",
     "audio": {
       "slug": "mikutu",
@@ -4088,7 +5771,6 @@
     "en": [
       "own field"
     ],
-    "source": "T",
     "original": "mikuva",
     "audio": {
       "slug": "mikuva",
@@ -4106,7 +5788,6 @@
     "en": [
       "boil"
     ],
-    "source": "T",
     "original": "miɭumus",
     "audio": {
       "slug": "milxumus",
@@ -4124,7 +5805,6 @@
     "en": [
       "naked"
     ],
-    "source": "M",
     "original": "milalaŋ (M)",
     "audio": {
       "slug": "milalanx",
@@ -4142,7 +5822,6 @@
     "en": [
       "search"
     ],
-    "source": "M",
     "original": "milim (M)",
     "audio": {
       "slug": "milim",
@@ -4160,7 +5839,6 @@
     "en": [
       "scatter"
     ],
-    "source": "T",
     "original": "mimsəl",
     "audio": {
       "slug": "mimsoxl",
@@ -4181,7 +5859,6 @@
     "en": [
       "wife"
     ],
-    "source": "B",
     "original": "minai",
     "audio": {
       "slug": "minai",
@@ -4202,7 +5879,6 @@
     "en": [
       "wife (to take)"
     ],
-    "source": "B",
     "original": "minai",
     "audio": {
       "slug": "minai",
@@ -4223,7 +5899,6 @@
     "en": [
       "unmarried woman"
     ],
-    "source": "B",
     "original": "minai rikinikinijan",
     "audio": {
       "slug": "minai_rikinikinijan",
@@ -4241,7 +5916,6 @@
     "en": [
       "named"
     ],
-    "source": "T",
     "original": "minaŋan",
     "audio": {
       "slug": "minanxan",
@@ -4259,7 +5933,6 @@
     "en": [
       "have savages"
     ],
-    "source": "T",
     "original": "mipusaɭum",
     "audio": {
       "slug": "mipusalxum",
@@ -4277,7 +5950,6 @@
     "en": [
       "wake up someone"
     ],
-    "source": "T",
     "original": "miqinaz",
     "audio": {
       "slug": "miqinaz",
@@ -4295,7 +5967,6 @@
     "en": [
       "fat"
     ],
-    "source": "M",
     "original": "misi (M)",
     "audio": {
       "slug": "misi",
@@ -4313,7 +5984,6 @@
     "en": [
       "spread a mat"
     ],
-    "source": "M",
     "original": "misikam (M)",
     "audio": {
       "slug": "misikam",
@@ -4331,7 +6001,6 @@
     "en": [
       "shave"
     ],
-    "source": "T",
     "original": "kiskis (M), misikis",
     "audio": {
       "slug": "misikis",
@@ -4349,7 +6018,6 @@
     "en": [
       "bring a spear"
     ],
-    "source": "T",
     "original": "misinuvuŋan",
     "audio": {
       "slug": "misinuvunxan",
@@ -4367,7 +6035,6 @@
     "en": [
       "lunch"
     ],
-    "source": "M",
     "original": "misumai (M)",
     "audio": {
       "slug": "misumai",
@@ -4388,7 +6055,6 @@
     "en": [
       "our (Inc.)"
     ],
-    "source": "B",
     "original": "mita",
     "audio": {
       "slug": "mita",
@@ -4406,7 +6072,6 @@
     "en": [
       "have shit"
     ],
-    "source": "T",
     "original": "mitai",
     "audio": {
       "slug": "mitai",
@@ -4424,7 +6089,6 @@
     "en": [
       "bring a side dish"
     ],
-    "source": "T",
     "original": "mitamun",
     "audio": {
       "slug": "mitamun",
@@ -4442,7 +6106,6 @@
     "en": [
       "leftover"
     ],
-    "source": "M",
     "original": "mitimats (M)",
     "audio": {
       "slug": "mitimats",
@@ -4460,7 +6123,6 @@
     "en": [
       "walk with a cane"
     ],
-    "source": "T",
     "original": "mitiquɭ",
     "audio": {
       "slug": "mitiqulx",
@@ -4471,14 +6133,13 @@
   {
     "id": "1553",
     "basay": "mitsitsin'",
-    "category": "06",
+    "category": "25",
     "zh": [
       "轉頭看"
     ],
     "en": [
       "look back"
     ],
-    "source": "M",
     "original": "mitsitsiŋ (M)",
     "audio": {
       "slug": "mitsitsinx",
@@ -4496,7 +6157,6 @@
     "en": [
       "wet (because of rain, tears)"
     ],
-    "source": "M",
     "original": "mitsəp (M)",
     "audio": {
       "slug": "mitsoxp",
@@ -4514,7 +6174,6 @@
     "en": [
       "wear bamboo hat"
     ],
-    "source": "M",
     "original": "mitsuku (M). tsuku",
     "audio": {
       "slug": "mitsuku_tsuku",
@@ -4532,7 +6191,6 @@
     "en": [
       "break wind"
     ],
-    "source": "M",
     "original": "mitut (M)",
     "audio": {
       "slug": "mitut",
@@ -4550,7 +6208,6 @@
     "en": [
       "own land"
     ],
-    "source": "T",
     "original": "mivanaŋ",
     "audio": {
       "slug": "mivananx",
@@ -4568,7 +6225,6 @@
     "en": [
       "ring (bell)"
     ],
-    "source": "T",
     "original": "mivukiata",
     "audio": {
       "slug": "mivukiata",
@@ -4586,7 +6242,6 @@
     "en": [
       "bear a baby"
     ],
-    "source": "M",
     "original": "miwanaqqa (M)",
     "audio": {
       "slug": "miwanaqqa",
@@ -4604,7 +6259,6 @@
     "en": [
       "drink"
     ],
-    "source": "T",
     "original": "mizanum, ptanqu",
     "audio": {
       "slug": "mizanum",
@@ -4622,7 +6276,6 @@
     "en": [
       "hard"
     ],
-    "source": "M",
     "original": "mkatar (M)",
     "audio": {
       "slug": "mkatar",
@@ -4640,7 +6293,6 @@
     "en": [
       "wake up"
     ],
-    "source": "T",
     "original": "mkits, mukits",
     "audio": {
       "slug": "mkits",
@@ -4658,7 +6310,6 @@
     "en": [
       "mud"
     ],
-    "source": "M",
     "original": "mɭaɭiluta (M)",
     "audio": {
       "slug": "mlxalxiluta",
@@ -4676,7 +6327,6 @@
     "en": [
       "bleed"
     ],
-    "source": "T",
     "original": "mɭanaŋ",
     "audio": {
       "slug": "mlxananx",
@@ -4694,7 +6344,6 @@
     "en": [
       "dreaming"
     ],
-    "source": "M",
     "original": "mɭaputoi (M)",
     "audio": {
       "slug": "mlxaputoi",
@@ -4712,7 +6361,6 @@
     "en": [
       "support"
     ],
-    "source": "M",
     "original": "mɭaqo (M)",
     "audio": {
       "slug": "mlxaqo",
@@ -4730,7 +6378,6 @@
     "en": [
       "sweep"
     ],
-    "source": "T",
     "original": "mɭasic|",
     "audio": {
       "slug": "mlxasic",
@@ -4748,7 +6395,6 @@
     "en": [
       "distribute"
     ],
-    "source": "M",
     "original": "mɭatu (M)",
     "audio": {
       "slug": "mlxatu",
@@ -4766,7 +6412,6 @@
     "en": [
       "fish with net"
     ],
-    "source": "M",
     "original": "mɭauis (M)",
     "audio": {
       "slug": "mlxauis",
@@ -4784,7 +6429,6 @@
     "en": [
       "curly hair"
     ],
-    "source": "M",
     "original": "mɭavokəɭ (M)",
     "audio": {
       "slug": "mlxavokoxlx",
@@ -4802,7 +6446,6 @@
     "en": [
       "dislike"
     ],
-    "source": "T",
     "original": "mɭavut",
     "audio": {
       "slug": "mlxavut",
@@ -4820,7 +6463,6 @@
     "en": [
       "fool"
     ],
-    "source": "M",
     "original": "mɭemazok (M)",
     "audio": {
       "slug": "mlxemazok",
@@ -4838,7 +6480,6 @@
     "en": [
       "dish"
     ],
-    "source": "M",
     "original": "mɭenaŋ (M)",
     "audio": {
       "slug": "mlxenanx",
@@ -4856,7 +6497,6 @@
     "en": [
       "rob (to), snatch away"
     ],
-    "source": "M",
     "original": "mɭevoqqa (M)",
     "audio": {
       "slug": "mlxevoqqa",
@@ -4874,7 +6514,6 @@
     "en": [
       "perform new year rituals"
     ],
-    "source": "T",
     "original": "mɭiɭiŋ",
     "audio": {
       "slug": "mlxilxinx",
@@ -4892,7 +6531,6 @@
     "en": [
       "silver coin"
     ],
-    "source": "M",
     "original": "mɭimtsu (M)",
     "audio": {
       "slug": "mlximtsu",
@@ -4910,7 +6548,6 @@
     "en": [
       "break into two pieces"
     ],
-    "source": "T",
     "original": "mɭiqut",
     "audio": {
       "slug": "mlxiqut",
@@ -4928,7 +6565,6 @@
     "en": [
       "ebb"
     ],
-    "source": "T",
     "original": "mɭivisi",
     "audio": {
       "slug": "mlxivisi",
@@ -4946,7 +6582,6 @@
     "en": [
       "happy"
     ],
-    "source": "T",
     "original": "mɭəsak",
     "audio": {
       "slug": "mlxoxsak",
@@ -4964,7 +6599,6 @@
     "en": [
       "open the mouth"
     ],
-    "source": "M",
     "original": "mɭoŋaŋa (M)",
     "audio": {
       "slug": "mlxonxanxa",
@@ -4982,7 +6616,6 @@
     "en": [
       "jump"
     ],
-    "source": "T",
     "original": "mɭtiq. murtiqqa",
     "audio": {
       "slug": "mlxtiq_murtiqqa",
@@ -5000,7 +6633,6 @@
     "en": [
       "retreat"
     ],
-    "source": "M",
     "original": "mlaleo (M)",
     "audio": {
       "slug": "mlaleo",
@@ -5018,7 +6650,6 @@
     "en": [
       "break off"
     ],
-    "source": "T",
     "original": "mlapet",
     "audio": {
       "slug": "mlapet",
@@ -5036,7 +6667,6 @@
     "en": [
       "smooth"
     ],
-    "source": "M",
     "original": "mlaselas (M)",
     "audio": {
       "slug": "mlaselas",
@@ -5054,7 +6684,6 @@
     "en": [
       "fishing net"
     ],
-    "source": "M",
     "original": "mli vauta (M)",
     "audio": {
       "slug": "mli_vauta",
@@ -5072,7 +6701,6 @@
     "en": [
       "jealous"
     ],
-    "source": "M",
     "original": "mŋava (M)",
     "audio": {
       "slug": "mnxava",
@@ -5090,7 +6718,6 @@
     "en": [
       "mute, dumb"
     ],
-    "source": "M",
     "original": "mŋoɭaɭ (M)",
     "audio": {
       "slug": "mnxolxalx",
@@ -5108,7 +6735,6 @@
     "en": [
       "pot"
     ],
-    "source": "M",
     "original": "mnaju (M)",
     "audio": {
       "slug": "mnaju",
@@ -5126,7 +6752,6 @@
     "en": [
       "intestines"
     ],
-    "source": "M",
     "original": "mnaɭutui (M)",
     "audio": {
       "slug": "mnalxutui",
@@ -5144,7 +6769,6 @@
     "en": [
       "gourd, melon, cucumber"
     ],
-    "source": "M",
     "original": "mnaol (M)",
     "audio": {
       "slug": "mnaol",
@@ -5162,7 +6786,6 @@
     "en": [
       "inform"
     ],
-    "source": "T",
     "original": "mnaquy",
     "audio": {
       "slug": "mnaquy",
@@ -5180,7 +6803,6 @@
     "en": [
       "noise"
     ],
-    "source": "M",
     "original": "mncjanejapa (M)",
     "audio": {
       "slug": "mncjanejapa",
@@ -5198,7 +6820,6 @@
     "en": [
       "mirror"
     ],
-    "source": "M",
     "original": "mniŋu (M)",
     "audio": {
       "slug": "mninxu",
@@ -5216,7 +6837,6 @@
     "en": [
       "husband"
     ],
-    "source": "M",
     "original": "mninai (M)",
     "audio": {
       "slug": "mninai",
@@ -5234,7 +6854,6 @@
     "en": [
       "snake"
     ],
-    "source": "M",
     "original": "mnukul (M)",
     "audio": {
       "slug": "mnukul",
@@ -5252,7 +6871,6 @@
     "en": [
       "hide oneself"
     ],
-    "source": "M",
     "original": "mnurvi (M)",
     "audio": {
       "slug": "mnurvi",
@@ -5270,7 +6888,6 @@
     "en": [
       "rotten"
     ],
-    "source": "M",
     "original": "məŋseta (M)",
     "audio": {
       "slug": "moxnxseta",
@@ -5288,7 +6905,6 @@
     "en": [
       "cold"
     ],
-    "source": "T",
     "original": "mənəŋ, qaniŋya",
     "audio": {
       "slug": "moxnoxnx",
@@ -5306,7 +6922,6 @@
     "en": [
       "arrive"
     ],
-    "source": "T",
     "original": "məsək",
     "audio": {
       "slug": "moxsoxk",
@@ -5324,7 +6939,6 @@
     "en": [
       "many"
     ],
-    "source": "T",
     "original": "məzuaɭes",
     "audio": {
       "slug": "moxzualxes",
@@ -5342,7 +6956,6 @@
     "en": [
       "dry in the sun"
     ],
-    "source": "M",
     "original": "moale (M)",
     "audio": {
       "slug": "moale",
@@ -5363,7 +6976,6 @@
     "en": [
       "come"
     ],
-    "source": "B",
     "original": "moali",
     "audio": {
       "slug": "moali",
@@ -5381,7 +6993,6 @@
     "en": [
       "still"
     ],
-    "source": "T",
     "original": "moanəm",
     "audio": {
       "slug": "moanoxm",
@@ -5399,7 +7010,6 @@
     "en": [
       "smoky"
     ],
-    "source": "M",
     "original": "moatsəŋ (M)",
     "audio": {
       "slug": "moatsoxnx",
@@ -5417,7 +7027,6 @@
     "en": [
       "crazy"
     ],
-    "source": "M",
     "original": "moɭeɭ (M)",
     "audio": {
       "slug": "molxelx",
@@ -5435,7 +7044,6 @@
     "en": [
       "bum, set fire"
     ],
-    "source": "M",
     "original": "moɭonat (M)",
     "audio": {
       "slug": "molxonat",
@@ -5453,7 +7061,6 @@
     "en": [
       "plow"
     ],
-    "source": "M",
     "original": "mormoq kuva (M)",
     "audio": {
       "slug": "mormoq_kuva",
@@ -5475,7 +7082,6 @@
     "en": [
       "rat. mouse"
     ],
-    "source": "B",
     "original": "moton",
     "audio": {
       "slug": "moton",
@@ -5497,7 +7103,6 @@
     "en": [
       "mouse, rat"
     ],
-    "source": "B",
     "original": "moton",
     "audio": {
       "slug": "moton",
@@ -5518,7 +7123,6 @@
     "en": [
       "under"
     ],
-    "source": "B",
     "original": "motso",
     "audio": {
       "slug": "motso",
@@ -5529,7 +7133,7 @@
   {
     "id": "0517",
     "basay": "motso",
-    "category": "05",
+    "category": "14",
     "zh": [
       "地名"
     ],
@@ -5539,7 +7143,6 @@
     "en": [
       "place name"
     ],
-    "source": "B",
     "original": "motso",
     "audio": {
       "slug": "motso",
@@ -5563,7 +7166,6 @@
     "en": [
       "interior. bottom of river/ sea"
     ],
-    "source": "B",
     "original": "motso",
     "audio": {
       "slug": "motso",
@@ -5581,7 +7183,6 @@
     "en": [
       "stay inside the house"
     ],
-    "source": "M",
     "original": "motso takəl (M)",
     "audio": {
       "slug": "motso_takoxl",
@@ -5599,7 +7200,6 @@
     "en": [
       "slender, thin"
     ],
-    "source": "M",
     "original": "mqaiwatu (M)",
     "audio": {
       "slug": "mqaiwatu",
@@ -5617,7 +7217,6 @@
     "en": [
       "bite"
     ],
-    "source": "M",
     "original": "klatan, mqalat (M), tumozo",
     "audio": {
       "slug": "mqalat",
@@ -5635,7 +7234,6 @@
     "en": [
       "wind (to)"
     ],
-    "source": "M",
     "original": "mrepot (M), repotan",
     "audio": {
       "slug": "mrepot",
@@ -5653,7 +7251,6 @@
     "en": [
       "roll up"
     ],
-    "source": "M",
     "original": "mriləŋ (M)",
     "audio": {
       "slug": "mriloxnx",
@@ -5671,7 +7268,6 @@
     "en": [
       "heavy"
     ],
-    "source": "M",
     "original": "mritsoŋ (M)",
     "audio": {
       "slug": "mritsonx",
@@ -5689,7 +7285,6 @@
     "en": [
       "drowned, death by drowning"
     ],
-    "source": "M",
     "original": "mrteqa zanum (M)",
     "audio": {
       "slug": "mrteqa_zanum",
@@ -5707,7 +7302,6 @@
     "en": [
       "plant (to)"
     ],
-    "source": "M",
     "original": "mruma (M)",
     "audio": {
       "slug": "mruma",
@@ -5725,7 +7319,6 @@
     "en": [
       "blue, green"
     ],
-    "source": "M",
     "original": "mrusirau (M)",
     "audio": {
       "slug": "mrusirau",
@@ -5743,7 +7336,6 @@
     "en": [
       "cheap"
     ],
-    "source": "M",
     "original": "msaiz (M)",
     "audio": {
       "slug": "msaiz",
@@ -5761,7 +7353,6 @@
     "en": [
       "flow"
     ],
-    "source": "T",
     "original": "msaɭjn, musaɭin",
     "audio": {
       "slug": "msalxjn",
@@ -5779,7 +7370,6 @@
     "en": [
       "hungry"
     ],
-    "source": "T",
     "original": "msava",
     "audio": {
       "slug": "msava",
@@ -5797,7 +7387,6 @@
     "en": [
       "ashamed"
     ],
-    "source": "T",
     "original": "msiqaz",
     "audio": {
       "slug": "msiqaz",
@@ -5815,7 +7404,6 @@
     "en": [
       "arrive"
     ],
-    "source": "M",
     "original": "msək (M)",
     "audio": {
       "slug": "msoxk",
@@ -5833,7 +7421,6 @@
     "en": [
       "full (eating), satisfied"
     ],
-    "source": "M",
     "original": "msuin (M)",
     "audio": {
       "slug": "msuin",
@@ -5851,7 +7438,6 @@
     "en": [
       "poor"
     ],
-    "source": "T",
     "original": "msupa",
     "audio": {
       "slug": "msupa",
@@ -5869,7 +7455,6 @@
     "en": [
       "know"
     ],
-    "source": "T",
     "original": "msupəl",
     "audio": {
       "slug": "msupoxl",
@@ -5887,7 +7472,6 @@
     "en": [
       "laugh"
     ],
-    "source": "T",
     "original": "mtaŋa",
     "audio": {
       "slug": "mtanxa",
@@ -5905,7 +7489,6 @@
     "en": [
       "scornful laugh"
     ],
-    "source": "M",
     "original": "mtaŋtaŋa (M), ptaŋa",
     "audio": {
       "slug": "mtanxtanxa",
@@ -5923,7 +7506,6 @@
     "en": [
       "pregnant"
     ],
-    "source": "M",
     "original": "mtian (M)",
     "audio": {
       "slug": "mtian",
@@ -5941,7 +7523,6 @@
     "en": [
       "deaf"
     ],
-    "source": "M",
     "original": "mtorots (M)",
     "audio": {
       "slug": "mtorots",
@@ -5959,7 +7540,6 @@
     "en": [
       "dispute"
     ],
-    "source": "M",
     "original": "mtsaŋatsa (M)",
     "audio": {
       "slug": "mtsanxatsa",
@@ -5977,7 +7557,6 @@
     "en": [
       "jump"
     ],
-    "source": "M",
     "original": "mtsuvuŋ (M)",
     "audio": {
       "slug": "mtsuvunx",
@@ -5995,12 +7574,28 @@
     "en": [
       "shake"
     ],
-    "source": "M",
     "original": "mturtur(M)",
     "audio": {
       "slug": "mturtur",
       "ipay": "dictionary/audio/ipay/m/mturtur.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mturtur.mp3"
+    }
+  },
+  {
+    "id": "3237",
+    "basay": "mu-",
+    "category": "36",
+    "zh": [
+      "動作前綴"
+    ],
+    "en": [
+      "movement prefix 8789"
+    ],
+    "original": "mu-",
+    "audio": {
+      "slug": "mu",
+      "ipay": "dictionary/audio/ipay/m/mu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mu.mp3"
     }
   },
   {
@@ -6013,7 +7608,6 @@
     "en": [
       "morning"
     ],
-    "source": "M",
     "original": "mua (M)",
     "audio": {
       "slug": "mua",
@@ -6031,7 +7625,6 @@
     "en": [
       "many"
     ],
-    "source": "S",
     "original": "muaɭa (S)",
     "audio": {
       "slug": "mualxa",
@@ -6049,7 +7642,6 @@
     "en": [
       "like"
     ],
-    "source": "T",
     "original": "mamjaku (M), muanum",
     "audio": {
       "slug": "muanum",
@@ -6067,12 +7659,63 @@
     "en": [
       "bring things"
     ],
-    "source": "T",
     "original": "muaziŋ",
     "audio": {
       "slug": "muazinx",
       "ipay": "dictionary/audio/ipay/m/muazinx.mp3",
       "hokkien": "dictionary/audio/hokkien/m/muazinx.mp3"
+    }
+  },
+  {
+    "id": "3238",
+    "basay": "mudaq",
+    "category": "08",
+    "zh": [
+      "幼果",
+      "未成熟的（果實）"
+    ],
+    "en": [
+      "young (of fruits); immature 12796"
+    ],
+    "original": "mudaq",
+    "audio": {
+      "slug": "mudaq",
+      "ipay": "dictionary/audio/ipay/m/mudaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mudaq.mp3"
+    }
+  },
+  {
+    "id": "3239",
+    "basay": "mujing",
+    "category": "06",
+    "zh": [
+      "臉（人類）"
+    ],
+    "en": [
+      "face (human) 7282"
+    ],
+    "original": "mujiŋ",
+    "audio": {
+      "slug": "mujinx",
+      "ipay": "dictionary/audio/ipay/m/mujinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mujinx.mp3"
+    }
+  },
+  {
+    "id": "3240",
+    "basay": "mujing-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7283"
+    ],
+    "original": "mujiŋ-an",
+    "audio": {
+      "slug": "mujinx_an",
+      "ipay": "dictionary/audio/ipay/m/mujinx_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mujinx_an.mp3"
     }
   },
   {
@@ -6085,7 +7728,6 @@
     "en": [
       "iron"
     ],
-    "source": "T",
     "original": "mukin",
     "audio": {
       "slug": "mukin",
@@ -6103,7 +7745,6 @@
     "en": [
       "twig, bow, seed of fruits"
     ],
-    "source": "M",
     "original": "muɭai u lesau (M)",
     "audio": {
       "slug": "mulxai_u_lesau",
@@ -6121,7 +7762,6 @@
     "en": [
       "dew (?)"
     ],
-    "source": "M",
     "original": "muɭas (M), uɭas",
     "audio": {
       "slug": "mulxas",
@@ -6139,7 +7779,6 @@
     "en": [
       "flirt"
     ],
-    "source": "T",
     "original": "muɭata",
     "audio": {
       "slug": "mulxata",
@@ -6157,7 +7796,6 @@
     "en": [
       "steal"
     ],
-    "source": "M",
     "original": "kiɭuɭits ，muɭuɭits (M)",
     "audio": {
       "slug": "mulxulxits",
@@ -6175,12 +7813,28 @@
     "en": [
       "bark (dogs)"
     ],
-    "source": "M",
     "original": "muɭuɭu (M)",
     "audio": {
       "slug": "mulxulxu",
       "ipay": "dictionary/audio/ipay/m/mulxulxu.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mulxulxu.mp3"
+    }
+  },
+  {
+    "id": "3241",
+    "basay": "mula",
+    "category": "08",
+    "zh": [
+      "種植"
+    ],
+    "en": [
+      "to plant 3630"
+    ],
+    "original": "mula",
+    "audio": {
+      "slug": "mula",
+      "ipay": "dictionary/audio/ipay/m/mula.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mula.mp3"
     }
   },
   {
@@ -6196,7 +7850,6 @@
     "en": [
       "rain"
     ],
-    "source": "B",
     "original": "mulan, maulan",
     "audio": {
       "slug": "mulan",
@@ -6214,12 +7867,28 @@
     "en": [
       "cough"
     ],
-    "source": "M",
     "original": "mulaqlaqai (M)",
     "audio": {
       "slug": "mulaqlaqai",
       "ipay": "dictionary/audio/ipay/m/mulaqlaqai.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mulaqlaqai.mp3"
+    }
+  },
+  {
+    "id": "3242",
+    "basay": "mulmul",
+    "category": "25",
+    "zh": [
+      "含住並吸吮"
+    ],
+    "en": [
+      "hold in the mouth and suck 3631"
+    ],
+    "original": "mulmul",
+    "audio": {
+      "slug": "mulmul",
+      "ipay": "dictionary/audio/ipay/m/mulmul.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mulmul.mp3"
     }
   },
   {
@@ -6235,12 +7904,28 @@
     "en": [
       "baby"
     ],
-    "source": "B",
     "original": "mulu",
     "audio": {
       "slug": "mulu",
       "ipay": "dictionary/audio/ipay/m/mulu.mp3",
       "hokkien": "dictionary/audio/hokkien/m/mulu.mp3"
+    }
+  },
+  {
+    "id": "3243",
+    "basay": "mumu",
+    "category": "34",
+    "zh": [
+      "台灣盲鼴（Talpa micrura insularis）"
+    ],
+    "en": [
+      "Formosan blind mole: Talpa micrura insularis(Swinhoe) 7187"
+    ],
+    "original": "mumu",
+    "audio": {
+      "slug": "mumu",
+      "ipay": "dictionary/audio/ipay/m/mumu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mumu.mp3"
     }
   },
   {
@@ -6253,7 +7938,6 @@
     "en": [
       "mustache"
     ],
-    "source": "M",
     "original": "mumus (M)",
     "audio": {
       "slug": "mumus",
@@ -6271,7 +7955,6 @@
     "en": [
       "fly"
     ],
-    "source": "T",
     "original": "munainaiɭ",
     "audio": {
       "slug": "munainailx",
@@ -6292,7 +7975,6 @@
     "en": [
       "flower"
     ],
-    "source": "B",
     "original": "munaŋin",
     "audio": {
       "slug": "munanxin",
@@ -6313,7 +7995,6 @@
     "en": [
       "lime"
     ],
-    "source": "B",
     "original": "munaŋin",
     "audio": {
       "slug": "munanxin",
@@ -6324,7 +8005,7 @@
   {
     "id": "0524",
     "basay": "munan'in",
-    "category": "05",
+    "category": "08",
     "zh": [
       "科西嘉島雜草"
     ],
@@ -6334,7 +8015,6 @@
     "en": [
       "corsican weed"
     ],
-    "source": "B",
     "original": "munaŋin",
     "audio": {
       "slug": "munanxin",
@@ -6355,7 +8035,6 @@
     "en": [
       "carvings"
     ],
-    "source": "B",
     "original": "munaŋin",
     "audio": {
       "slug": "munanxin",
@@ -6373,12 +8052,29 @@
     "en": [
       "light (in weight)"
     ],
-    "source": "M",
     "original": "munatsaŋ (M), natsaŋ (M)",
     "audio": {
       "slug": "munatsanx",
       "ipay": "dictionary/audio/ipay/m/munatsanx.mp3",
       "hokkien": "dictionary/audio/hokkien/m/munatsanx.mp3"
+    }
+  },
+  {
+    "id": "3244",
+    "basay": "muRmuR",
+    "category": "25",
+    "zh": [
+      "漱口",
+      "漱喉"
+    ],
+    "en": [
+      "gargle, rinse the mouth 3635"
+    ],
+    "original": "muRmuR",
+    "audio": {
+      "slug": "murmur",
+      "ipay": "dictionary/audio/ipay/m/murmur.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/murmur.mp3"
     }
   },
   {
@@ -6391,7 +8087,6 @@
     "en": [
       "finish"
     ],
-    "source": "T",
     "original": "murpun",
     "audio": {
       "slug": "murpun",
@@ -6409,7 +8104,6 @@
     "en": [
       "high tide"
     ],
-    "source": "M",
     "original": "mursapa (M)",
     "audio": {
       "slug": "mursapa",
@@ -6427,7 +8121,6 @@
     "en": [
       "chat"
     ],
-    "source": "M",
     "original": "murtav (M)",
     "audio": {
       "slug": "murtav",
@@ -6448,7 +8141,6 @@
     "en": [
       "first child"
     ],
-    "source": "B",
     "original": "muru",
     "audio": {
       "slug": "muru",
@@ -6466,7 +8158,6 @@
     "en": [
       "pomelo"
     ],
-    "source": "M",
     "original": "muru (M)",
     "audio": {
       "slug": "muru",
@@ -6484,7 +8175,6 @@
     "en": [
       "stoop, give birth to"
     ],
-    "source": "M",
     "original": "murukku (M)",
     "audio": {
       "slug": "murukku",
@@ -6502,7 +8192,6 @@
     "en": [
       "worry"
     ],
-    "source": "M",
     "original": "musaini (M)",
     "audio": {
       "slug": "musaini",
@@ -6520,7 +8209,6 @@
     "en": [
       "rub"
     ],
-    "source": "M",
     "original": "musipus (M)",
     "audio": {
       "slug": "musipus",
@@ -6538,7 +8226,6 @@
     "en": [
       "extinguish"
     ],
-    "source": "M",
     "original": "musup (M)",
     "audio": {
       "slug": "musup",
@@ -6556,7 +8243,6 @@
     "en": [
       "vomit"
     ],
-    "source": "M",
     "original": "muta (M)",
     "audio": {
       "slug": "muta",
@@ -6574,7 +8260,6 @@
     "en": [
       "rat, mouse"
     ],
-    "source": "M",
     "original": "muton (M)",
     "audio": {
       "slug": "muton",
@@ -6592,7 +8277,6 @@
     "en": [
       "under"
     ],
-    "source": "T",
     "original": "mutsu, vutsu",
     "audio": {
       "slug": "mutsu",
@@ -6613,7 +8297,6 @@
     "en": [
       "black dog"
     ],
-    "source": "B",
     "original": "mutsum uatsu",
     "audio": {
       "slug": "mutsum_uatsu",
@@ -6631,7 +8314,6 @@
     "en": [
       "kill"
     ],
-    "source": "T",
     "original": "muttuŋ",
     "audio": {
       "slug": "muttunx",
@@ -6652,7 +8334,6 @@
     "en": [
       "fart let's go to the mountain"
     ],
-    "source": "B",
     "original": "mututte. matul' na makila sjali ŋonon",
     "audio": {
       "slug": "mututte_matulx_na_makila_sjali_nxonon",
@@ -6670,7 +8351,6 @@
     "en": [
       "earthquake"
     ],
-    "source": "M",
     "original": "mutuz (M)",
     "audio": {
       "slug": "mutuz",
@@ -6688,7 +8368,6 @@
     "en": [
       "exist"
     ],
-    "source": "T",
     "original": "muzuay",
     "audio": {
       "slug": "muzuay",
@@ -6706,7 +8385,6 @@
     "en": [
       "idle"
     ],
-    "source": "T",
     "original": "mvaɭa, tupus (M)",
     "audio": {
       "slug": "mvalxa",
@@ -6717,14 +8395,13 @@
   {
     "id": "1584",
     "basay": "mz'ala",
-    "category": "05",
+    "category": "32",
     "zh": [
       "短•矮人"
     ],
     "en": [
       "short, dwarf"
     ],
-    "source": "T",
     "original": "mɮala, mzata (M)",
     "audio": {
       "slug": "mzxala",
@@ -6735,14 +8412,13 @@
   {
     "id": "1585",
     "basay": "mzata",
-    "category": "05",
+    "category": "32",
     "zh": [
       "短•矮人"
     ],
     "en": [
       "short, dwarf"
     ],
-    "source": "M",
     "original": "mɮala, mzata (M)",
     "audio": {
       "slug": "mzata",
@@ -6760,7 +8436,6 @@
     "en": [
       "exist"
     ],
-    "source": "T",
     "original": "mài",
     "audio": {
       "slug": "m_i",

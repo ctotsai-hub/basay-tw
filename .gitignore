@@ -15,3 +15,9 @@ __pycache__/
 
 # HF Space sources (managed separately)
 hf-space-daily-updater/
+
+# Excel auto-backup files
+dictionary/source/basay_dictionary.bak-*.xlsm
+
+# Excel auto-backup files
+dictionary/source/basay_dictionary.bak-*.xlsm

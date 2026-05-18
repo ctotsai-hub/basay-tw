@@ -12,7 +12,6 @@
     "en": [
       "now"
     ],
-    "source": "B",
     "original": "oatʃi",
     "audio": {
       "slug": "oatsxi",
@@ -34,7 +33,6 @@
     "en": [
       "today. Today (1) go to the river."
     ],
-    "source": "B",
     "original": "oatsji. <oatsji sjali ŋapan>",
     "audio": {
       "slug": "oatsji",
@@ -55,7 +53,6 @@
     "en": [
       "strength"
     ],
-    "source": "B",
     "original": "olatte",
     "audio": {
       "slug": "olatte",
@@ -73,7 +70,6 @@
     "en": [
       "sand"
     ],
-    "source": "M",
     "original": "orats (M)",
     "audio": {
       "slug": "orats",
@@ -94,7 +90,6 @@
     "en": [
       "penis"
     ],
-    "source": "B",
     "original": "oto",
     "audio": {
       "slug": "oto",
@@ -115,7 +110,6 @@
     "en": [
       "shoulder"
     ],
-    "source": "B",
     "original": "otoi",
     "audio": {
       "slug": "otoi",
@@ -126,7 +120,7 @@
   {
     "id": "0588",
     "basay": "otoi",
-    "category": "06",
+    "category": "25",
     "zh": [
       "扛在肩上"
     ],
@@ -136,7 +130,6 @@
     "en": [
       "carry on shoulder"
     ],
-    "source": "B",
     "original": "otoi",
     "audio": {
       "slug": "otoi",

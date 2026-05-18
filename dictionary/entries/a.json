@@ -1,5 +1,39 @@
 [
   {
+    "id": "2364",
+    "basay": "-a",
+    "category": "36",
+    "zh": [
+      "祈使句後綴 383"
+    ],
+    "en": [
+      "imperative suffix 383"
+    ],
+    "original": "-a₁",
+    "audio": {
+      "slug": "a",
+      "ipay": "dictionary/audio/ipay/a/a.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a.mp3"
+    }
+  },
+  {
+    "id": "2365",
+    "basay": "-a",
+    "category": "36",
+    "zh": [
+      "虛擬語氣詞尾"
+    ],
+    "en": [
+      "subjunctive suffix 387"
+    ],
+    "original": "-a₃",
+    "audio": {
+      "slug": "a",
+      "ipay": "dictionary/audio/ipay/a/a.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a.mp3"
+    }
+  },
+  {
     "id": "1118",
     "basay": "-aku",
     "category": "02",
@@ -9,12 +43,29 @@
     "en": [
       "my (GEN)"
     ],
-    "source": "T",
     "original": "-aku",
     "audio": {
       "slug": "aku",
       "ipay": "dictionary/audio/ipay/a/aku.mp3",
       "hokkien": "dictionary/audio/hokkien/a/aku.mp3"
+    }
+  },
+  {
+    "id": "2396",
+    "basay": "-an",
+    "category": "36",
+    "zh": [
+      "動詞後綴表示處所態",
+      "名詞後綴表示地點"
+    ],
+    "en": [
+      "verbal suffix marking locative voice; nominal suffix marking location 254"
+    ],
+    "original": "-an",
+    "audio": {
+      "slug": "an",
+      "ipay": "dictionary/audio/ipay/a/an.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/an.mp3"
     }
   },
   {
@@ -27,7 +78,6 @@
     "en": [
       "future"
     ],
-    "source": "T",
     "original": "-ay",
     "audio": {
       "slug": "ay",
@@ -45,12 +95,97 @@
     "en": [
       "ligature"
     ],
-    "source": "T",
     "original": "a",
     "audio": {
       "slug": "a",
       "ipay": "dictionary/audio/ipay/a/a.mp3",
       "hokkien": "dictionary/audio/hokkien/a/a.mp3"
+    }
+  },
+  {
+    "id": "2366",
+    "basay": "a",
+    "category": "36",
+    "zh": [
+      "遲疑助詞"
+    ],
+    "en": [
+      "hesitation particle 381"
+    ],
+    "original": "a₄",
+    "audio": {
+      "slug": "a",
+      "ipay": "dictionary/audio/ipay/a/a.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a.mp3"
+    }
+  },
+  {
+    "id": "2367",
+    "basay": "a",
+    "category": "36",
+    "zh": [
+      "連字符"
+    ],
+    "en": [
+      "ligature 382"
+    ],
+    "original": "a₅",
+    "audio": {
+      "slug": "a",
+      "ipay": "dictionary/audio/ipay/a/a.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a.mp3"
+    }
+  },
+  {
+    "id": "2388",
+    "basay": "a(lR)im",
+    "category": "34",
+    "zh": [
+      "胰臟",
+      "脾臟"
+    ],
+    "en": [
+      "pancreas, spleen 12781"
+    ],
+    "original": "a(lR)im",
+    "audio": {
+      "slug": "a_lr_im",
+      "ipay": "dictionary/audio/ipay/a/a_lr_im.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a_lr_im.mp3"
+    }
+  },
+  {
+    "id": "2373",
+    "basay": "a-enem",
+    "category": "01",
+    "zh": [
+      "六人"
+    ],
+    "en": [
+      "six (of humans) 2376"
+    ],
+    "original": "a-enem",
+    "audio": {
+      "slug": "a_enem",
+      "ipay": "dictionary/audio/ipay/a/a_enem.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a_enem.mp3"
+    }
+  },
+  {
+    "id": "2374",
+    "basay": "a-esa",
+    "category": "01",
+    "zh": [
+      "一人"
+    ],
+    "en": [
+      "one (of humans) 2407"
+    ],
+    "original": "a-esa",
+    "audio": {
+      "slug": "a_esa",
+      "ipay": "dictionary/audio/ipay/a/a_esa.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/a_esa.mp3"
     }
   },
   {
@@ -63,7 +198,6 @@
     "en": [
       "father"
     ],
-    "source": "PAN",
     "original": "aba₁",
     "audio": {
       "slug": "aba",
@@ -85,7 +219,6 @@
     "en": [
       "mute. dumb"
     ],
-    "source": "B",
     "original": "abal'",
     "audio": {
       "slug": "abalx",
@@ -106,7 +239,6 @@
     "en": [
       "stutter (to)"
     ],
-    "source": "B",
     "original": "abal'",
     "audio": {
       "slug": "abalx",
@@ -127,12 +259,82 @@
     "en": [
       "ash"
     ],
-    "source": "B",
     "original": "abu",
     "audio": {
       "slug": "abu",
       "ipay": "dictionary/audio/ipay/a/abu.mp3",
       "hokkien": "dictionary/audio/hokkien/a/abu.mp3"
+    }
+  },
+  {
+    "id": "2371",
+    "basay": "adas",
+    "category": "25",
+    "zh": [
+      "帶來",
+      "帶著走"
+    ],
+    "en": [
+      "bring, take along 6632"
+    ],
+    "original": "adaS",
+    "audio": {
+      "slug": "adas",
+      "ipay": "dictionary/audio/ipay/a/adas.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/adas.mp3"
+    }
+  },
+  {
+    "id": "2372",
+    "basay": "adi",
+    "category": "35",
+    "zh": [
+      "不",
+      "不是"
+    ],
+    "en": [
+      "no, not 7326"
+    ],
+    "original": "adi",
+    "audio": {
+      "slug": "adi",
+      "ipay": "dictionary/audio/ipay/a/adi.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/adi.mp3"
+    }
+  },
+  {
+    "id": "2375",
+    "basay": "ai",
+    "category": "36",
+    "zh": [
+      "感嘆詞（表示驚訝",
+      "懷疑等）"
+    ],
+    "en": [
+      "interjection, exclamation of surprise, incredulity, etc. 83"
+    ],
+    "original": "ai₂",
+    "audio": {
+      "slug": "ai",
+      "ipay": "dictionary/audio/ipay/a/ai.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ai.mp3"
+    }
+  },
+  {
+    "id": "2376",
+    "basay": "ai",
+    "category": "25",
+    "zh": [
+      "來"
+    ],
+    "en": [
+      "come 7828"
+    ],
+    "original": "ai₃",
+    "audio": {
+      "slug": "ai",
+      "ipay": "dictionary/audio/ipay/a/ai.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ai.mp3"
     }
   },
   {
@@ -145,7 +347,6 @@
     "en": [
       "sad"
     ],
-    "source": "T",
     "original": "aikaku",
     "audio": {
       "slug": "aikaku",
@@ -166,7 +367,6 @@
     "en": [
       "here"
     ],
-    "source": "B",
     "original": "aila",
     "audio": {
       "slug": "aila",
@@ -187,12 +387,82 @@
     "en": [
       "where to"
     ],
-    "source": "B",
     "original": "ainu",
     "audio": {
       "slug": "ainu",
       "ipay": "dictionary/audio/ipay/a/ainu.mp3",
       "hokkien": "dictionary/audio/hokkien/a/ainu.mp3"
+    }
+  },
+  {
+    "id": "2377",
+    "basay": "ajem",
+    "category": "29",
+    "zh": [
+      "心",
+      "思想"
+    ],
+    "en": [
+      "heart; mind 6619"
+    ],
+    "original": "ajem",
+    "audio": {
+      "slug": "ajem",
+      "ipay": "dictionary/audio/ipay/a/ajem.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ajem.mp3"
+    }
+  },
+  {
+    "id": "2378",
+    "basay": "aken",
+    "category": "36",
+    "zh": [
+      "第一人稱單數賓格"
+    ],
+    "en": [
+      "1sg oblique 7960"
+    ],
+    "original": "aken₁",
+    "audio": {
+      "slug": "aken",
+      "ipay": "dictionary/audio/ipay/a/aken.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aken.mp3"
+    }
+  },
+  {
+    "id": "2379",
+    "basay": "aki",
+    "category": "04",
+    "zh": [
+      "祖父",
+      "祖先"
+    ],
+    "en": [
+      "grandfather, ancestor 6552"
+    ],
+    "original": "aki",
+    "audio": {
+      "slug": "aki",
+      "ipay": "dictionary/audio/ipay/a/aki.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aki.mp3"
+    }
+  },
+  {
+    "id": "2380",
+    "basay": "aku",
+    "category": "36",
+    "zh": [
+      "第一人稱單數主格",
+      "我"
+    ],
+    "en": [
+      "1sg nominative; I 90"
+    ],
+    "original": "aku",
+    "audio": {
+      "slug": "aku",
+      "ipay": "dictionary/audio/ipay/a/aku.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aku.mp3"
     }
   },
   {
@@ -205,7 +475,6 @@
     "en": [
       "Don't !"
     ],
-    "source": "T",
     "original": "akuan!",
     "audio": {
       "slug": "akuan",
@@ -223,12 +492,47 @@
     "en": [
       "see"
     ],
-    "source": "T",
     "original": "al",
     "audio": {
       "slug": "al",
       "ipay": "dictionary/audio/ipay/a/al.mp3",
       "hokkien": "dictionary/audio/hokkien/a/al.mp3"
+    }
+  },
+  {
+    "id": "2381",
+    "basay": "ala",
+    "category": "19",
+    "zh": [
+      "拿",
+      "取得",
+      "迎娶"
+    ],
+    "en": [
+      "take, get, fetch, obtain; marry 118"
+    ],
+    "original": "ala",
+    "audio": {
+      "slug": "ala",
+      "ipay": "dictionary/audio/ipay/a/ala.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ala.mp3"
+    }
+  },
+  {
+    "id": "2382",
+    "basay": "ala-en",
+    "category": "25",
+    "zh": [
+      "被拿走"
+    ],
+    "en": [
+      "be taken 7768"
+    ],
+    "original": "ala-en",
+    "audio": {
+      "slug": "ala_en",
+      "ipay": "dictionary/audio/ipay/a/ala_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ala_en.mp3"
     }
   },
   {
@@ -241,7 +545,6 @@
     "en": [
       "move"
     ],
-    "source": "S",
     "original": "alaiqani (S)",
     "audio": {
       "slug": "alaiqani",
@@ -259,12 +562,64 @@
     "en": [
       "catch, take"
     ],
-    "source": "T",
     "original": "alan, aɭa, aɭan",
     "audio": {
       "slug": "alan",
       "ipay": "dictionary/audio/ipay/a/alan.mp3",
       "hokkien": "dictionary/audio/hokkien/a/alan.mp3"
+    }
+  },
+  {
+    "id": "2383",
+    "basay": "alap",
+    "category": "25",
+    "zh": [
+      "拿",
+      "取得"
+    ],
+    "en": [
+      "fetch, get, take 96"
+    ],
+    "original": "alap",
+    "audio": {
+      "slug": "alap",
+      "ipay": "dictionary/audio/ipay/a/alap.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alap.mp3"
+    }
+  },
+  {
+    "id": "2384",
+    "basay": "alaq",
+    "category": "25",
+    "zh": [
+      "拿",
+      "取得"
+    ],
+    "en": [
+      "fetch, get, take 108"
+    ],
+    "original": "alaq₁",
+    "audio": {
+      "slug": "alaq",
+      "ipay": "dictionary/audio/ipay/a/alaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alaq.mp3"
+    }
+  },
+  {
+    "id": "2385",
+    "basay": "alaq-en",
+    "category": "25",
+    "zh": [
+      "被拿走"
+    ],
+    "en": [
+      "be taken 114"
+    ],
+    "original": "alaq-en",
+    "audio": {
+      "slug": "alaq_en",
+      "ipay": "dictionary/audio/ipay/a/alaq_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alaq_en.mp3"
     }
   },
   {
@@ -277,7 +632,6 @@
     "en": [
       "drift"
     ],
-    "source": "T",
     "original": "alasa",
     "audio": {
       "slug": "alasa",
@@ -298,7 +652,6 @@
     "en": [
       "luncheon"
     ],
-    "source": "B",
     "original": "alase sumai",
     "audio": {
       "slug": "alase_sumai",
@@ -319,12 +672,149 @@
     "en": [
       "fire (to set)"
     ],
-    "source": "B",
     "original": "alase, <alase namal'>",
     "audio": {
       "slug": "alase",
       "ipay": "dictionary/audio/ipay/a/alase.mp3",
       "hokkien": "dictionary/audio/hokkien/a/alase.mp3"
+    }
+  },
+  {
+    "id": "2386",
+    "basay": "alikas",
+    "category": "34",
+    "zh": [
+      "快速的",
+      "迅速的"
+    ],
+    "en": [
+      "quick, fast 11787"
+    ],
+    "original": "alikas",
+    "audio": {
+      "slug": "alikas",
+      "ipay": "dictionary/audio/ipay/a/alikas.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alikas.mp3"
+    }
+  },
+  {
+    "id": "2387",
+    "basay": "alim",
+    "category": "28",
+    "zh": [
+      "忘記"
+    ],
+    "en": [
+      "forget 7144"
+    ],
+    "original": "alim",
+    "audio": {
+      "slug": "alim",
+      "ipay": "dictionary/audio/ipay/a/alim.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alim.mp3"
+    }
+  },
+  {
+    "id": "2389",
+    "basay": "aluja",
+    "category": "20",
+    "zh": [
+      "划船"
+    ],
+    "en": [
+      "to paddle 126"
+    ],
+    "original": "aluja",
+    "audio": {
+      "slug": "aluja",
+      "ipay": "dictionary/audio/ipay/a/aluja.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aluja.mp3"
+    }
+  },
+  {
+    "id": "2390",
+    "basay": "alujah",
+    "category": "07",
+    "zh": [
+      "螞蟻（一種）"
+    ],
+    "en": [
+      "ant sp. 7226"
+    ],
+    "original": "alujah",
+    "audio": {
+      "slug": "alujah",
+      "ipay": "dictionary/audio/ipay/a/alujah.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/alujah.mp3"
+    }
+  },
+  {
+    "id": "2391",
+    "basay": "amax",
+    "category": "04",
+    "zh": [
+      "父親"
+    ],
+    "en": [
+      "father 134"
+    ],
+    "original": "amax",
+    "audio": {
+      "slug": "amax",
+      "ipay": "dictionary/audio/ipay/a/amax.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/amax.mp3"
+    }
+  },
+  {
+    "id": "2392",
+    "basay": "amen",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他賓格"
+    ],
+    "en": [
+      "1pl ex oblique 7962"
+    ],
+    "original": "amen",
+    "audio": {
+      "slug": "amen",
+      "ipay": "dictionary/audio/ipay/a/amen.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/amen.mp3"
+    }
+  },
+  {
+    "id": "2393",
+    "basay": "ami",
+    "category": "36",
+    "zh": [
+      "第一人稱複數排他主格代詞「我們」"
+    ],
+    "en": [
+      "1pl. excl. nominative pronoun, we (exclusive) 9702"
+    ],
+    "original": "ami",
+    "audio": {
+      "slug": "ami",
+      "ipay": "dictionary/audio/ipay/a/ami.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ami.mp3"
+    }
+  },
+  {
+    "id": "2394",
+    "basay": "amin",
+    "category": "01",
+    "zh": [
+      "全部",
+      "完成"
+    ],
+    "en": [
+      "all; finished 180"
+    ],
+    "original": "amin",
+    "audio": {
+      "slug": "amin",
+      "ipay": "dictionary/audio/ipay/a/amin.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/amin.mp3"
     }
   },
   {
@@ -342,7 +832,6 @@
     "en": [
       "north. west"
     ],
-    "source": "B",
     "original": "amis",
     "audio": {
       "slug": "amis",
@@ -360,12 +849,28 @@
     "en": [
       "wake up"
     ],
-    "source": "S",
     "original": "amənən (S)",
     "audio": {
       "slug": "amoxnoxn",
       "ipay": "dictionary/audio/ipay/a/amoxnoxn.mp3",
       "hokkien": "dictionary/audio/hokkien/a/amoxnoxn.mp3"
+    }
+  },
+  {
+    "id": "2395",
+    "basay": "amu",
+    "category": "36",
+    "zh": [
+      "第二人稱複數主格代詞「你們」"
+    ],
+    "en": [
+      "2pl. nominative pronoun 9708"
+    ],
+    "original": "amu",
+    "audio": {
+      "slug": "amu",
+      "ipay": "dictionary/audio/ipay/a/amu.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/amu.mp3"
     }
   },
   {
@@ -378,7 +883,6 @@
     "en": [
       "wealthy, rich"
     ],
-    "source": "T",
     "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
     "audio": {
       "slug": "anxalxi",
@@ -396,7 +900,6 @@
     "en": [
       "wealthy, rich"
     ],
-    "source": "S",
     "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
     "audio": {
       "slug": "anxale",
@@ -414,12 +917,28 @@
     "en": [
       "wealthy, rich"
     ],
-    "source": "T",
     "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
     "audio": {
       "slug": "anxari",
       "ipay": "dictionary/audio/ipay/a/anxari.mp3",
       "hokkien": "dictionary/audio/hokkien/a/anxari.mp3"
+    }
+  },
+  {
+    "id": "2398",
+    "basay": "an-anak",
+    "category": "05",
+    "zh": [
+      "孩子"
+    ],
+    "en": [
+      "child 186"
+    ],
+    "original": "aN-aNak",
+    "audio": {
+      "slug": "an_anak",
+      "ipay": "dictionary/audio/ipay/a/an_anak.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/an_anak.mp3"
     }
   },
   {
@@ -432,12 +951,47 @@
     "en": [
       "make feather"
     ],
-    "source": "T",
     "original": "anaiɭan",
     "audio": {
       "slug": "anailxan",
       "ipay": "dictionary/audio/ipay/a/anailxan.mp3",
       "hokkien": "dictionary/audio/hokkien/a/anailxan.mp3"
+    }
+  },
+  {
+    "id": "2397",
+    "basay": "anak",
+    "category": "04",
+    "zh": [
+      "孩子",
+      "子女",
+      "利息"
+    ],
+    "en": [
+      "child, offspring; son, daughter; interest on a loan 183"
+    ],
+    "original": "aNak",
+    "audio": {
+      "slug": "anak",
+      "ipay": "dictionary/audio/ipay/a/anak.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/anak.mp3"
+    }
+  },
+  {
+    "id": "2399",
+    "basay": "anay",
+    "category": "07",
+    "zh": [
+      "白蟻"
+    ],
+    "en": [
+      "insect of the order Isoptera: termite, white ant 234"
+    ],
+    "original": "aNay",
+    "audio": {
+      "slug": "anay",
+      "ipay": "dictionary/audio/ipay/a/anay.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/anay.mp3"
     }
   },
   {
@@ -450,12 +1004,28 @@
     "en": [
       "malaria"
     ],
-    "source": "M",
     "original": "aneŋan (M)",
     "audio": {
       "slug": "anenxan",
       "ipay": "dictionary/audio/ipay/a/anenxan.mp3",
       "hokkien": "dictionary/audio/hokkien/a/anenxan.mp3"
+    }
+  },
+  {
+    "id": "2400",
+    "basay": "angay",
+    "category": "34",
+    "zh": [
+      "出發（？）"
+    ],
+    "en": [
+      "departure (?) 9146"
+    ],
+    "original": "aŋay",
+    "audio": {
+      "slug": "anxay",
+      "ipay": "dictionary/audio/ipay/a/anxay.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/anxay.mp3"
     }
   },
   {
@@ -468,7 +1038,6 @@
     "en": [
       "then"
     ],
-    "source": "S",
     "original": "ani (S), anu",
     "audio": {
       "slug": "ani",
@@ -489,7 +1058,6 @@
     "en": [
       "heart"
     ],
-    "source": "B",
     "original": "anəm",
     "audio": {
       "slug": "anoxm",
@@ -510,7 +1078,6 @@
     "en": [
       "six"
     ],
-    "source": "B",
     "original": "anəm",
     "audio": {
       "slug": "anoxm",
@@ -531,7 +1098,6 @@
     "en": [
       "liver"
     ],
-    "source": "B",
     "original": "anəm",
     "audio": {
       "slug": "anoxm",
@@ -549,7 +1115,6 @@
     "en": [
       "heart"
     ],
-    "source": "M",
     "original": "anəm (M)",
     "audio": {
       "slug": "anoxm",
@@ -570,7 +1135,6 @@
     "en": [
       "rib"
     ],
-    "source": "B",
     "original": "anəm a tolal'",
     "audio": {
       "slug": "anoxm_a_tolalx",
@@ -591,7 +1155,6 @@
     "en": [
       "worry"
     ],
-    "source": "B",
     "original": "anəm lebosan",
     "audio": {
       "slug": "anoxm_lebosan",
@@ -609,12 +1172,29 @@
     "en": [
       "then"
     ],
-    "source": "T",
     "original": "ani (S), anu",
     "audio": {
       "slug": "anu",
       "ipay": "dictionary/audio/ipay/a/anu.mp3",
       "hokkien": "dictionary/audio/hokkien/a/anu.mp3"
+    }
+  },
+  {
+    "id": "2401",
+    "basay": "apa",
+    "category": "25",
+    "zh": [
+      "背負",
+      "背在背上"
+    ],
+    "en": [
+      "carry on the back 6553"
+    ],
+    "original": "apa₂",
+    "audio": {
+      "slug": "apa",
+      "ipay": "dictionary/audio/ipay/a/apa.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/apa.mp3"
     }
   },
   {
@@ -627,7 +1207,6 @@
     "en": [
       "make wings"
     ],
-    "source": "T",
     "original": "apakuzan",
     "audio": {
       "slug": "apakuzan",
@@ -645,7 +1224,6 @@
     "en": [
       "help"
     ],
-    "source": "T",
     "original": "apanmu",
     "audio": {
       "slug": "apanmu",
@@ -666,7 +1244,6 @@
     "en": [
       "chopstick"
     ],
-    "source": "B",
     "original": "apel'",
     "audio": {
       "slug": "apelx",
@@ -684,7 +1261,6 @@
     "en": [
       "chopsticks"
     ],
-    "source": "M",
     "original": "apet (M)",
     "audio": {
       "slug": "apet",
@@ -702,12 +1278,98 @@
     "en": [
       "deer"
     ],
-    "source": "T",
     "original": "apən, apun",
     "audio": {
       "slug": "apoxn",
       "ipay": "dictionary/audio/ipay/a/apoxn.mp3",
       "hokkien": "dictionary/audio/hokkien/a/apoxn.mp3"
+    }
+  },
+  {
+    "id": "2402",
+    "basay": "apu",
+    "category": "04",
+    "zh": [
+      "祖孫（互稱）"
+    ],
+    "en": [
+      "grandparent/grandchild (reciprocal) 273"
+    ],
+    "original": "apu",
+    "audio": {
+      "slug": "apu",
+      "ipay": "dictionary/audio/ipay/a/apu.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/apu.mp3"
+    }
+  },
+  {
+    "id": "2403",
+    "basay": "apuR",
+    "category": "27",
+    "zh": [
+      "嚼食檳榔"
+    ],
+    "en": [
+      "betel chew 272"
+    ],
+    "original": "apuR",
+    "audio": {
+      "slug": "apur",
+      "ipay": "dictionary/audio/ipay/a/apur.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/apur.mp3"
+    }
+  },
+  {
+    "id": "2404",
+    "basay": "aRi",
+    "category": "23",
+    "zh": [
+      "來",
+      "朝說話者來",
+      "走吧"
+    ],
+    "en": [
+      "come; toward the speaker; let’s go! 297"
+    ],
+    "original": "aRi",
+    "audio": {
+      "slug": "ari",
+      "ipay": "dictionary/audio/ipay/a/ari.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ari.mp3"
+    }
+  },
+  {
+    "id": "2405",
+    "basay": "asa",
+    "category": "01",
+    "zh": [
+      "一個"
+    ],
+    "en": [
+      "one 305"
+    ],
+    "original": "asa₁",
+    "audio": {
+      "slug": "asa",
+      "ipay": "dictionary/audio/ipay/a/asa.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/asa.mp3"
+    }
+  },
+  {
+    "id": "2406",
+    "basay": "asang",
+    "category": "12",
+    "zh": [
+      "村莊"
+    ],
+    "en": [
+      "village 7961"
+    ],
+    "original": "asaŋ₃",
+    "audio": {
+      "slug": "asanx",
+      "ipay": "dictionary/audio/ipay/a/asanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/asanx.mp3"
     }
   },
   {
@@ -720,12 +1382,29 @@
     "en": [
       "don't"
     ],
-    "source": "T",
     "original": "asi",
     "audio": {
       "slug": "asi",
       "ipay": "dictionary/audio/ipay/a/asi.mp3",
       "hokkien": "dictionary/audio/hokkien/a/asi.mp3"
+    }
+  },
+  {
+    "id": "2408",
+    "basay": "asik",
+    "category": "25",
+    "zh": [
+      "掃地",
+      "清除垃圾"
+    ],
+    "en": [
+      "to sweep, remove trash 12771"
+    ],
+    "original": "aSik",
+    "audio": {
+      "slug": "asik",
+      "ipay": "dictionary/audio/ipay/a/asik.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/asik.mp3"
     }
   },
   {
@@ -738,12 +1417,98 @@
     "en": [
       "make rice balls"
     ],
-    "source": "T",
     "original": "asmayan",
     "audio": {
       "slug": "asmayan",
       "ipay": "dictionary/audio/ipay/a/asmayan.mp3",
       "hokkien": "dictionary/audio/hokkien/a/asmayan.mp3"
+    }
+  },
+  {
+    "id": "2407",
+    "basay": "asu",
+    "category": "07",
+    "zh": [
+      "狗"
+    ],
+    "en": [
+      "dog 320"
+    ],
+    "original": "asu₁",
+    "audio": {
+      "slug": "asu",
+      "ipay": "dictionary/audio/ipay/a/asu.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/asu.mp3"
+    }
+  },
+  {
+    "id": "2409",
+    "basay": "ata",
+    "category": "36",
+    "zh": [
+      "第一人稱複數包括所有格代詞「我們的」"
+    ],
+    "en": [
+      "1pl. incl. possessive pronoun: our 333"
+    ],
+    "original": "ata",
+    "audio": {
+      "slug": "ata",
+      "ipay": "dictionary/audio/ipay/a/ata.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/ata.mp3"
+    }
+  },
+  {
+    "id": "2368",
+    "basay": "atab",
+    "category": "09",
+    "zh": [
+      "蓋子",
+      "覆蓋物"
+    ],
+    "en": [
+      "a cover 25"
+    ],
+    "original": "aCab",
+    "audio": {
+      "slug": "atab",
+      "ipay": "dictionary/audio/ipay/a/atab.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/atab.mp3"
+    }
+  },
+  {
+    "id": "2369",
+    "basay": "atas",
+    "category": "32",
+    "zh": [
+      "高的",
+      "高聳的"
+    ],
+    "en": [
+      "high, tall 26"
+    ],
+    "original": "aCas",
+    "audio": {
+      "slug": "atas",
+      "ipay": "dictionary/audio/ipay/a/atas.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/atas.mp3"
+    }
+  },
+  {
+    "id": "2370",
+    "basay": "atay",
+    "category": "24",
+    "zh": [
+      "死亡"
+    ],
+    "en": [
+      "death 33"
+    ],
+    "original": "aCay",
+    "audio": {
+      "slug": "atay",
+      "ipay": "dictionary/audio/ipay/a/atay.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/atay.mp3"
     }
   },
   {
@@ -759,7 +1524,6 @@
     "en": [
       "fish (to) with rod"
     ],
-    "source": "B",
     "original": "atsa baute",
     "audio": {
       "slug": "atsa_baute",
@@ -780,7 +1544,6 @@
     "en": [
       "fetch (to)"
     ],
-    "source": "B",
     "original": "atsap",
     "audio": {
       "slug": "atsap",
@@ -801,12 +1564,28 @@
     "en": [
       "this"
     ],
-    "source": "B",
     "original": "atsou",
     "audio": {
       "slug": "atsou",
       "ipay": "dictionary/audio/ipay/a/atsou.mp3",
       "hokkien": "dictionary/audio/hokkien/a/atsou.mp3"
+    }
+  },
+  {
+    "id": "2410",
+    "basay": "atuR",
+    "category": "12",
+    "zh": [
+      "石牆"
+    ],
+    "en": [
+      "stone wall 12104"
+    ],
+    "original": "atuR",
+    "audio": {
+      "slug": "atur",
+      "ipay": "dictionary/audio/ipay/a/atur.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/atur.mp3"
     }
   },
   {
@@ -819,7 +1598,6 @@
     "en": [
       "sacrifice(pig)"
     ],
-    "source": "M",
     "original": "atuvanan (M)",
     "audio": {
       "slug": "atuvanan",
@@ -837,8 +1615,25 @@
     "en": [
       "come"
     ],
-    "source": "S",
     "original": "au (S)",
+    "audio": {
+      "slug": "au",
+      "ipay": "dictionary/audio/ipay/a/au.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/au.mp3"
+    }
+  },
+  {
+    "id": "2411",
+    "basay": "au",
+    "category": "34",
+    "zh": [
+      "是",
+      "對"
+    ],
+    "en": [
+      "yes 351"
+    ],
+    "original": "au₂",
     "audio": {
       "slug": "au",
       "ipay": "dictionary/audio/ipay/a/au.mp3",
@@ -858,7 +1653,6 @@
     "en": [
       "go (to)"
     ],
-    "source": "B",
     "original": "aui",
     "audio": {
       "slug": "aui",
@@ -879,7 +1673,6 @@
     "en": [
       "go"
     ],
-    "source": "B",
     "original": "aui na",
     "audio": {
       "slug": "aui_na",
@@ -897,7 +1690,6 @@
     "en": [
       "go"
     ],
-    "source": "M",
     "original": "auit na (M)",
     "audio": {
       "slug": "auit_na",
@@ -915,7 +1707,6 @@
     "en": [
       "hurry"
     ],
-    "source": "T",
     "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
     "audio": {
       "slug": "aukalxina",
@@ -933,7 +1724,6 @@
     "en": [
       "hurry"
     ],
-    "source": "T",
     "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
     "audio": {
       "slug": "aukalxinalxina",
@@ -951,7 +1741,6 @@
     "en": [
       "hurry"
     ],
-    "source": "S",
     "original": "aukaɭina, aukaɭinaɭina, aukanina (S)",
     "audio": {
       "slug": "aukanina",
@@ -972,7 +1761,6 @@
     "en": [
       "why"
     ],
-    "source": "B",
     "original": "aukmua",
     "audio": {
       "slug": "aukmua",
@@ -990,7 +1778,6 @@
     "en": [
       "depart, leave"
     ],
-    "source": "T",
     "original": "auni",
     "audio": {
       "slug": "auni",
@@ -1008,7 +1795,6 @@
     "en": [
       "pound rice"
     ],
-    "source": "T",
     "original": "avlas",
     "audio": {
       "slug": "avlas",
@@ -1026,7 +1812,6 @@
     "en": [
       "ash"
     ],
-    "source": "M",
     "original": "avu (M)",
     "audio": {
       "slug": "avu",
@@ -1044,12 +1829,46 @@
     "en": [
       "go"
     ],
-    "source": "T",
     "original": "awi",
     "audio": {
       "slug": "awi",
       "ipay": "dictionary/audio/ipay/a/awi.mp3",
       "hokkien": "dictionary/audio/hokkien/a/awi.mp3"
+    }
+  },
+  {
+    "id": "2412",
+    "basay": "aya",
+    "category": "36",
+    "zh": [
+      "表示惱怒",
+      "驚訝等的感嘆詞"
+    ],
+    "en": [
+      "exclamation of annoyance, surprise, etc. 369"
+    ],
+    "original": "aya₁",
+    "audio": {
+      "slug": "aya",
+      "ipay": "dictionary/audio/ipay/a/aya.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aya.mp3"
+    }
+  },
+  {
+    "id": "2413",
+    "basay": "aya",
+    "category": "34",
+    "zh": [
+      "詞義未詳"
+    ],
+    "en": [
+      "(gloss uncertain) 370"
+    ],
+    "original": "aya₂",
+    "audio": {
+      "slug": "aya",
+      "ipay": "dictionary/audio/ipay/a/aya.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aya.mp3"
     }
   },
   {
@@ -1062,7 +1881,6 @@
     "en": [
       "cultivate"
     ],
-    "source": "T",
     "original": "ayam",
     "audio": {
       "slug": "ayam",
@@ -1080,12 +1898,63 @@
     "en": [
       "bring"
     ],
-    "source": "T",
     "original": "azasan, mazas",
     "audio": {
       "slug": "azasan",
       "ipay": "dictionary/audio/ipay/a/azasan.mp3",
       "hokkien": "dictionary/audio/hokkien/a/azasan.mp3"
+    }
+  },
+  {
+    "id": "3300",
+    "basay": "ñamuR",
+    "category": "11",
+    "zh": [
+      "露水"
+    ],
+    "en": [
+      "dew 6885"
+    ],
+    "original": "ñamuR",
+    "audio": {
+      "slug": "amur",
+      "ipay": "dictionary/audio/ipay/a/amur.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/amur.mp3"
+    }
+  },
+  {
+    "id": "3299",
+    "basay": "ñamñam",
+    "category": "34",
+    "zh": [
+      "美味（？）"
+    ],
+    "en": [
+      "tasty, delicious (?) 6044"
+    ],
+    "original": "ñamñam",
+    "audio": {
+      "slug": "am_am",
+      "ipay": "dictionary/audio/ipay/a/am_am.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/am_am.mp3"
+    }
+  },
+  {
+    "id": "3301",
+    "basay": "ñawñaw",
+    "category": "25",
+    "zh": [
+      "沖洗",
+      "清洗"
+    ],
+    "en": [
+      "rinse, wash 6049"
+    ],
+    "original": "ñawñaw",
+    "audio": {
+      "slug": "aw_aw",
+      "ipay": "dictionary/audio/ipay/a/aw_aw.mp3",
+      "hokkien": "dictionary/audio/hokkien/a/aw_aw.mp3"
     }
   }
 ]

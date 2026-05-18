@@ -1,0 +1,474 @@
+[
+  {
+    "id": "2786",
+    "basay": "g<um>arut",
+    "category": "06",
+    "zh": [
+      "梳理（頭髮）"
+    ],
+    "en": [
+      "to comb 8583"
+    ],
+    "original": "g<um>aruC",
+    "audio": {
+      "slug": "g_um_arut",
+      "ipay": "dictionary/audio/ipay/g/g_um_arut.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/g_um_arut.mp3"
+    }
+  },
+  {
+    "id": "2769",
+    "basay": "garang",
+    "category": "34",
+    "zh": [
+      "激烈的（如食慾或脾氣）"
+    ],
+    "en": [
+      "fierce, intense, as of appetite or temper 8842"
+    ],
+    "original": "garaŋ₁",
+    "audio": {
+      "slug": "garanx",
+      "ipay": "dictionary/audio/ipay/g/garanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/garanx.mp3"
+    }
+  },
+  {
+    "id": "2771",
+    "basay": "gaRang",
+    "category": "07",
+    "zh": [
+      "小型可食淡水螃蟹"
+    ],
+    "en": [
+      "small edible freshwater crab 3069"
+    ],
+    "original": "gaRaŋ",
+    "audio": {
+      "slug": "garanx",
+      "ipay": "dictionary/audio/ipay/g/garanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/garanx.mp3"
+    }
+  },
+  {
+    "id": "2770",
+    "basay": "garut",
+    "category": "34",
+    "zh": [
+      "梳子"
+    ],
+    "en": [
+      "comb 8580"
+    ],
+    "original": "garuC",
+    "audio": {
+      "slug": "garut",
+      "ipay": "dictionary/audio/ipay/g/garut.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/garut.mp3"
+    }
+  },
+  {
+    "id": "2768",
+    "basay": "gatel",
+    "category": "28",
+    "zh": [
+      "癢",
+      "發癢"
+    ],
+    "en": [
+      "itch, feel itchy 7150"
+    ],
+    "original": "gaCel",
+    "audio": {
+      "slug": "gatel",
+      "ipay": "dictionary/audio/ipay/g/gatel.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gatel.mp3"
+    }
+  },
+  {
+    "id": "2772",
+    "basay": "gayang",
+    "category": "09",
+    "zh": [
+      "獵矛"
+    ],
+    "en": [
+      "hunting spear 7611"
+    ],
+    "original": "gayaŋ",
+    "audio": {
+      "slug": "gayanx",
+      "ipay": "dictionary/audio/ipay/g/gayanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gayanx.mp3"
+    }
+  },
+  {
+    "id": "2774",
+    "basay": "gemel",
+    "category": "25",
+    "zh": [
+      "拿在手中",
+      "握住",
+      "抓住"
+    ],
+    "en": [
+      "take in the hand, clasp, grasp 2489"
+    ],
+    "original": "gemel",
+    "audio": {
+      "slug": "gemel",
+      "ipay": "dictionary/audio/ipay/g/gemel.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gemel.mp3"
+    }
+  },
+  {
+    "id": "2775",
+    "basay": "gemgem",
+    "category": "06",
+    "zh": [
+      "拳頭",
+      "握拳"
+    ],
+    "en": [
+      "fist; hold in the fist 7612"
+    ],
+    "original": "gemgem",
+    "audio": {
+      "slug": "gemgem",
+      "ipay": "dictionary/audio/ipay/g/gemgem.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gemgem.mp3"
+    }
+  },
+  {
+    "id": "2776",
+    "basay": "geret",
+    "category": "07",
+    "zh": [
+      "割動物喉嚨"
+    ],
+    "en": [
+      "slit an animal's throat 2500"
+    ],
+    "original": "gereC",
+    "audio": {
+      "slug": "geret",
+      "ipay": "dictionary/audio/ipay/g/geret.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/geret.mp3"
+    }
+  },
+  {
+    "id": "2777",
+    "basay": "gerger",
+    "category": "34",
+    "zh": [
+      "發抖",
+      "顫抖"
+    ],
+    "en": [
+      "shake, shiver, tremble 2501"
+    ],
+    "original": "gerger₁",
+    "audio": {
+      "slug": "gerger",
+      "ipay": "dictionary/audio/ipay/g/gerger.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gerger.mp3"
+    }
+  },
+  {
+    "id": "2778",
+    "basay": "gerit",
+    "category": "27",
+    "zh": [
+      "撕裂聲",
+      "咬嚼聲等"
+    ],
+    "en": [
+      "sound of ripping, gnawing, etc. 2503"
+    ],
+    "original": "geriC",
+    "audio": {
+      "slug": "gerit",
+      "ipay": "dictionary/audio/ipay/g/gerit.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gerit.mp3"
+    }
+  },
+  {
+    "id": "2773",
+    "basay": "getel",
+    "category": "25",
+    "zh": [
+      "捏"
+    ],
+    "en": [
+      "to pinch 9002"
+    ],
+    "original": "geCel",
+    "audio": {
+      "slug": "getel",
+      "ipay": "dictionary/audio/ipay/g/getel.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/getel.mp3"
+    }
+  },
+  {
+    "id": "2779",
+    "basay": "getil",
+    "category": "25",
+    "zh": [
+      "捏"
+    ],
+    "en": [
+      "to pinch 9004"
+    ],
+    "original": "getil",
+    "audio": {
+      "slug": "getil",
+      "ipay": "dictionary/audio/ipay/g/getil.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/getil.mp3"
+    }
+  },
+  {
+    "id": "2780",
+    "basay": "gingging",
+    "category": "32",
+    "zh": [
+      "寒冷",
+      "顫抖"
+    ],
+    "en": [
+      "cold, shivering 8237"
+    ],
+    "original": "giŋgiŋ",
+    "audio": {
+      "slug": "ginxginx",
+      "ipay": "dictionary/audio/ipay/g/ginxginx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/ginxginx.mp3"
+    }
+  },
+  {
+    "id": "2781",
+    "basay": "giRing",
+    "category": "23",
+    "zh": [
+      "鈴響聲"
+    ],
+    "en": [
+      "ringing sound 2519"
+    ],
+    "original": "giRiŋ",
+    "audio": {
+      "slug": "girinx",
+      "ipay": "dictionary/audio/ipay/g/girinx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/girinx.mp3"
+    }
+  },
+  {
+    "id": "2782",
+    "basay": "gisgis",
+    "category": "25",
+    "zh": [
+      "摩擦",
+      "刮擦"
+    ],
+    "en": [
+      "rub, scrape against 2520"
+    ],
+    "original": "gisgis₁",
+    "audio": {
+      "slug": "gisgis",
+      "ipay": "dictionary/audio/ipay/g/gisgis.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gisgis.mp3"
+    }
+  },
+  {
+    "id": "2787",
+    "basay": "gumun",
+    "category": "06",
+    "zh": [
+      "體毛"
+    ],
+    "en": [
+      "body hair 8876"
+    ],
+    "original": "gumuN",
+    "audio": {
+      "slug": "gumun",
+      "ipay": "dictionary/audio/ipay/g/gumun.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gumun.mp3"
+    }
+  },
+  {
+    "id": "2785",
+    "basay": "gunggung",
+    "category": "23",
+    "zh": [
+      "深沉的轟鳴聲"
+    ],
+    "en": [
+      "deep resounding sound 2537"
+    ],
+    "original": "guŋguŋ",
+    "audio": {
+      "slug": "gunxgunx",
+      "ipay": "dictionary/audio/ipay/g/gunxgunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gunxgunx.mp3"
+    }
+  },
+  {
+    "id": "2788",
+    "basay": "gurgur",
+    "category": "11",
+    "zh": [
+      "水沸騰聲"
+    ],
+    "en": [
+      "sound of boiling water 2526"
+    ],
+    "original": "gurgur₁",
+    "audio": {
+      "slug": "gurgur",
+      "ipay": "dictionary/audio/ipay/g/gurgur.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gurgur.mp3"
+    }
+  },
+  {
+    "id": "2789",
+    "basay": "guris",
+    "category": "18",
+    "zh": [
+      "線",
+      "刻線"
+    ],
+    "en": [
+      "line; scratch a line 8265"
+    ],
+    "original": "guris",
+    "audio": {
+      "slug": "guris",
+      "ipay": "dictionary/audio/ipay/g/guris.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/guris.mp3"
+    }
+  },
+  {
+    "id": "2790",
+    "basay": "guRita",
+    "category": "07",
+    "zh": [
+      "章魚"
+    ],
+    "en": [
+      "octopus 7148"
+    ],
+    "original": "guRiCa",
+    "audio": {
+      "slug": "gurita",
+      "ipay": "dictionary/audio/ipay/g/gurita.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gurita.mp3"
+    }
+  },
+  {
+    "id": "2793",
+    "basay": "gusam",
+    "category": "28",
+    "zh": [
+      "一種口腔真菌病：鵝口瘡"
+    ],
+    "en": [
+      "a fungal disease of the oral tract: thrush 7489"
+    ],
+    "original": "guSam",
+    "audio": {
+      "slug": "gusam",
+      "ipay": "dictionary/audio/ipay/g/gusam.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gusam.mp3"
+    }
+  },
+  {
+    "id": "2791",
+    "basay": "gusgus",
+    "category": "25",
+    "zh": [
+      "刮",
+      "擦",
+      "搔"
+    ],
+    "en": [
+      "to scrape, scratch, rub 2531"
+    ],
+    "original": "gusgus",
+    "audio": {
+      "slug": "gusgus",
+      "ipay": "dictionary/audio/ipay/g/gusgus.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gusgus.mp3"
+    }
+  },
+  {
+    "id": "2792",
+    "basay": "gusi",
+    "category": "06",
+    "zh": [
+      "牙齦"
+    ],
+    "en": [
+      "gums 2532"
+    ],
+    "original": "gusi",
+    "audio": {
+      "slug": "gusi",
+      "ipay": "dictionary/audio/ipay/g/gusi.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gusi.mp3"
+    }
+  },
+  {
+    "id": "2783",
+    "basay": "gutgut",
+    "category": "25",
+    "zh": [
+      "拔",
+      "拉出"
+    ],
+    "en": [
+      "pluck, pull out 2523"
+    ],
+    "original": "guCguC₁",
+    "audio": {
+      "slug": "gutgut",
+      "ipay": "dictionary/audio/ipay/g/gutgut.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gutgut.mp3"
+    }
+  },
+  {
+    "id": "2784",
+    "basay": "gutgut",
+    "category": "25",
+    "zh": [
+      "抓癢"
+    ],
+    "en": [
+      "to scratch, as an itch 12717"
+    ],
+    "original": "guCguC₂",
+    "audio": {
+      "slug": "gutgut",
+      "ipay": "dictionary/audio/ipay/g/gutgut.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gutgut.mp3"
+    }
+  },
+  {
+    "id": "2794",
+    "basay": "gutgut",
+    "category": "06",
+    "zh": [
+      "門牙",
+      "切齒"
+    ],
+    "en": [
+      "front teeth, incisors 2524"
+    ],
+    "original": "gutgut₁",
+    "audio": {
+      "slug": "gutgut",
+      "ipay": "dictionary/audio/ipay/g/gutgut.mp3",
+      "hokkien": "dictionary/audio/hokkien/g/gutgut.mp3"
+    }
+  }
+]

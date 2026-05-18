@@ -1,5 +1,24 @@
 [
   {
+    "id": "2656",
+    "basay": "-tu",
+    "category": "02",
+    "zh": [
+      "第二人稱複數指示詞與時空指涉：「那個」",
+      "「那裡」",
+      "「那時」"
+    ],
+    "en": [
+      "2pl deixis and spatio-temporal reference: that; there, then 2168"
+    ],
+    "original": "-Cu",
+    "audio": {
+      "slug": "tu",
+      "ipay": "dictionary/audio/ipay/t/tu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tu.mp3"
+    }
+  },
+  {
     "id": "0923",
     "basay": "t-um-atan'a",
     "category": "23",
@@ -12,12 +31,362 @@
     "en": [
       "scornful laugh"
     ],
-    "source": "B",
     "original": "t-um-ataŋa",
     "audio": {
       "slug": "t_um_atanxa",
       "ipay": "dictionary/audio/ipay/t/t_um_atanxa.mp3",
       "hokkien": "dictionary/audio/hokkien/t/t_um_atanxa.mp3"
+    }
+  },
+  {
+    "id": "2648",
+    "basay": "t<in>akaw",
+    "category": "24",
+    "zh": [
+      "被偷之物",
+      "贓物",
+      "（被動過去）被偷了"
+    ],
+    "en": [
+      "what is stolen, stolen goods; was stolen (past tense of direct passive) 1948"
+    ],
+    "original": "C<in>akaw",
+    "audio": {
+      "slug": "t_in_akaw",
+      "ipay": "dictionary/audio/ipay/t/t_in_akaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_akaw.mp3"
+    }
+  },
+  {
+    "id": "2649",
+    "basay": "t<in>alis",
+    "category": "18",
+    "zh": [
+      "被編成繩的物品",
+      "製成繩索的東西"
+    ],
+    "en": [
+      "was made into rope; what was made into rope 1965"
+    ],
+    "original": "C<in>aliS",
+    "audio": {
+      "slug": "t_in_alis",
+      "ipay": "dictionary/audio/ipay/t/t_in_alis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_alis.mp3"
+    }
+  },
+  {
+    "id": "2650",
+    "basay": "t<in>apa",
+    "category": "07",
+    "zh": [
+      "燻魚或燻肉"
+    ],
+    "en": [
+      "smoked fish or meat 1986"
+    ],
+    "original": "C<in>apa",
+    "audio": {
+      "slug": "t_in_apa",
+      "ipay": "dictionary/audio/ipay/t/t_in_apa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_apa.mp3"
+    }
+  },
+  {
+    "id": "2651",
+    "basay": "t<in>aqi",
+    "category": "32",
+    "zh": [
+      "小腸"
+    ],
+    "en": [
+      "small intestine 2006"
+    ],
+    "original": "C<in>aqi",
+    "audio": {
+      "slug": "t_in_aqi",
+      "ipay": "dictionary/audio/ipay/t/t_in_aqi.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_aqi.mp3"
+    }
+  },
+  {
+    "id": "2652",
+    "basay": "t<in>aqis",
+    "category": "18",
+    "zh": [
+      "縫製品",
+      "縫紉製成的物件"
+    ],
+    "en": [
+      "work produced by sewing or stitching 2003"
+    ],
+    "original": "C<in>aqiS",
+    "audio": {
+      "slug": "t_in_aqis",
+      "ipay": "dictionary/audio/ipay/t/t_in_aqis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_aqis.mp3"
+    }
+  },
+  {
+    "id": "2653",
+    "basay": "t<in>unuh",
+    "category": "27",
+    "zh": [
+      "被烤（被動語態）"
+    ],
+    "en": [
+      "be roasted (by someone) 2125"
+    ],
+    "original": "C<in>uNuh",
+    "audio": {
+      "slug": "t_in_unuh",
+      "ipay": "dictionary/audio/ipay/t/t_in_unuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_in_unuh.mp3"
+    }
+  },
+  {
+    "id": "2662",
+    "basay": "t<um>abu",
+    "category": "25",
+    "zh": [
+      "包裹",
+      "纏裹"
+    ],
+    "en": [
+      "to wrap 6636"
+    ],
+    "original": "C<um>abu",
+    "audio": {
+      "slug": "t_um_abu",
+      "ipay": "dictionary/audio/ipay/t/t_um_abu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_abu.mp3"
+    }
+  },
+  {
+    "id": "2663",
+    "basay": "t<um>aki",
+    "category": "32",
+    "zh": [
+      "排便",
+      "大便"
+    ],
+    "en": [
+      "defecate 1957"
+    ],
+    "original": "C<um>aki",
+    "audio": {
+      "slug": "t_um_aki",
+      "ipay": "dictionary/audio/ipay/t/t_um_aki.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_aki.mp3"
+    }
+  },
+  {
+    "id": "2664",
+    "basay": "t<um>alis",
+    "category": "09",
+    "zh": [
+      "用繩子綁",
+      "繫緊"
+    ],
+    "en": [
+      "to tie with rope, fasten with rope 1967"
+    ],
+    "original": "C<um>aliS",
+    "audio": {
+      "slug": "t_um_alis",
+      "ipay": "dictionary/audio/ipay/t/t_um_alis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_alis.mp3"
+    }
+  },
+  {
+    "id": "2665",
+    "basay": "t<um>angis",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "哀悼"
+    ],
+    "en": [
+      "to weep, cry, mourn 7773"
+    ],
+    "original": "C<um>aŋis",
+    "audio": {
+      "slug": "t_um_anxis",
+      "ipay": "dictionary/audio/ipay/t/t_um_anxis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_anxis.mp3"
+    }
+  },
+  {
+    "id": "2666",
+    "basay": "t<um>apu",
+    "category": "25",
+    "zh": [
+      "掃除",
+      "打掃"
+    ],
+    "en": [
+      "to sweep 9609"
+    ],
+    "original": "C<um>apu",
+    "audio": {
+      "slug": "t_um_apu",
+      "ipay": "dictionary/audio/ipay/t/t_um_apu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_apu.mp3"
+    }
+  },
+  {
+    "id": "2667",
+    "basay": "t<um>aqi",
+    "category": "25",
+    "zh": [
+      "排便"
+    ],
+    "en": [
+      "to defecate 2008"
+    ],
+    "original": "C<um>aqi",
+    "audio": {
+      "slug": "t_um_aqi",
+      "ipay": "dictionary/audio/ipay/t/t_um_aqi.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_aqi.mp3"
+    }
+  },
+  {
+    "id": "2668",
+    "basay": "t<um>aqis",
+    "category": "18",
+    "zh": [
+      "縫紉"
+    ],
+    "en": [
+      "to sew 2002"
+    ],
+    "original": "C<um>aqiS",
+    "audio": {
+      "slug": "t_um_aqis",
+      "ipay": "dictionary/audio/ipay/t/t_um_aqis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_aqis.mp3"
+    }
+  },
+  {
+    "id": "2672",
+    "basay": "t<um>ubuq",
+    "category": "32",
+    "zh": [
+      "發芽",
+      "生長"
+    ],
+    "en": [
+      "to sprout, to grow 2108"
+    ],
+    "original": "C<um>ubuq",
+    "audio": {
+      "slug": "t_um_ubuq",
+      "ipay": "dictionary/audio/ipay/t/t_um_ubuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_ubuq.mp3"
+    }
+  },
+  {
+    "id": "2673",
+    "basay": "t<um>ugtug",
+    "category": "06",
+    "zh": [
+      "頭部撞擊",
+      "撞頭"
+    ],
+    "en": [
+      "knock or bump the head 7933"
+    ],
+    "original": "C<um>ugCug",
+    "audio": {
+      "slug": "t_um_ugtug",
+      "ipay": "dictionary/audio/ipay/t/t_um_ugtug.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_ugtug.mp3"
+    }
+  },
+  {
+    "id": "2674",
+    "basay": "t<um>unuh",
+    "category": "35",
+    "zh": [
+      "烘烤（不及物）"
+    ],
+    "en": [
+      "to roast (intr.) 2127"
+    ],
+    "original": "C<um>uNuh",
+    "audio": {
+      "slug": "t_um_unuh",
+      "ipay": "dictionary/audio/ipay/t/t_um_unuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_unuh.mp3"
+    }
+  },
+  {
+    "id": "2675",
+    "basay": "t<um>usuR",
+    "category": "25",
+    "zh": [
+      "串珠等"
+    ],
+    "en": [
+      "to string beads, etc. 2153"
+    ],
+    "original": "C<um>uSuR",
+    "audio": {
+      "slug": "t_um_usur",
+      "ipay": "dictionary/audio/ipay/t/t_um_usur.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/t_um_usur.mp3"
+    }
+  },
+  {
+    "id": "2591",
+    "basay": "ta-tapuh",
+    "category": "34",
+    "zh": [
+      "掃帚"
+    ],
+    "en": [
+      "broom 6563"
+    ],
+    "original": "Ca-Capuh",
+    "audio": {
+      "slug": "ta_tapuh",
+      "ipay": "dictionary/audio/ipay/t/ta_tapuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/ta_tapuh.mp3"
+    }
+  },
+  {
+    "id": "2592",
+    "basay": "ta-taqis",
+    "category": "18",
+    "zh": [
+      "縫紉用線（？）"
+    ],
+    "en": [
+      "thread used for sewing (?) 1999"
+    ],
+    "original": "Ca-CaqiS",
+    "audio": {
+      "slug": "ta_taqis",
+      "ipay": "dictionary/audio/ipay/t/ta_taqis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/ta_taqis.mp3"
+    }
+  },
+  {
+    "id": "2594",
+    "basay": "ta-tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2025"
+    ],
+    "original": "Ca-Cawa",
+    "audio": {
+      "slug": "ta_tawa",
+      "ipay": "dictionary/audio/ipay/t/ta_tawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/ta_tawa.mp3"
     }
   },
   {
@@ -33,12 +402,30 @@
     "en": [
       "tobacco"
     ],
-    "source": "B",
     "original": "tabaku",
     "audio": {
       "slug": "tabaku",
       "ipay": "dictionary/audio/ipay/t/tabaku.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tabaku.mp3"
+    }
+  },
+  {
+    "id": "2589",
+    "basay": "tabtab",
+    "category": "25",
+    "zh": [
+      "拍擊",
+      "敲打",
+      "砍劈"
+    ],
+    "en": [
+      "clap, beat, hack 1935"
+    ],
+    "original": "CabCab",
+    "audio": {
+      "slug": "tabtab",
+      "ipay": "dictionary/audio/ipay/t/tabtab.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tabtab.mp3"
     }
   },
   {
@@ -54,8 +441,25 @@
     "en": [
       "cut trees"
     ],
-    "source": "B",
     "original": "tabu",
+    "audio": {
+      "slug": "tabu",
+      "ipay": "dictionary/audio/ipay/t/tabu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tabu.mp3"
+    }
+  },
+  {
+    "id": "2590",
+    "basay": "tabu",
+    "category": "25",
+    "zh": [
+      "包裹",
+      "包起來"
+    ],
+    "en": [
+      "to wrap 6635"
+    ],
+    "original": "Cabu",
     "audio": {
       "slug": "tabu",
       "ipay": "dictionary/audio/ipay/t/tabu.mp3",
@@ -76,7 +480,6 @@
     "en": [
       "dump. cast away"
     ],
-    "source": "B",
     "original": "tabǝl'",
     "audio": {
       "slug": "tab_lx",
@@ -97,7 +500,6 @@
     "en": [
       "faeces"
     ],
-    "source": "B",
     "original": "tae, tomae",
     "audio": {
       "slug": "tae",
@@ -115,7 +517,6 @@
     "en": [
       "cottage, hut"
     ],
-    "source": "T",
     "original": "matael (M), tael",
     "audio": {
       "slug": "tael",
@@ -136,7 +537,6 @@
     "en": [
       "mud"
     ],
-    "source": "B",
     "original": "taitai (?)",
     "audio": {
       "slug": "taitai",
@@ -154,7 +554,6 @@
     "en": [
       "I will"
     ],
-    "source": "T",
     "original": "tak pay",
     "audio": {
       "slug": "tak_pay",
@@ -175,12 +574,63 @@
     "en": [
       "bench"
     ],
-    "source": "B",
     "original": "takan",
     "audio": {
       "slug": "takan",
       "ipay": "dictionary/audio/ipay/t/takan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/takan.mp3"
+    }
+  },
+  {
+    "id": "2595",
+    "basay": "takaw",
+    "category": "34",
+    "zh": [
+      "偷竊"
+    ],
+    "en": [
+      "steal 1937"
+    ],
+    "original": "Cakaw",
+    "audio": {
+      "slug": "takaw",
+      "ipay": "dictionary/audio/ipay/t/takaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/takaw.mp3"
+    }
+  },
+  {
+    "id": "2596",
+    "basay": "takaw-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 1950"
+    ],
+    "original": "Cakaw-an",
+    "audio": {
+      "slug": "takaw_an",
+      "ipay": "dictionary/audio/ipay/t/takaw_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/takaw_an.mp3"
+    }
+  },
+  {
+    "id": "2597",
+    "basay": "taki",
+    "category": "09",
+    "zh": [
+      "排泄物",
+      "糞便"
+    ],
+    "en": [
+      "feces, excreta 1955"
+    ],
+    "original": "Caki",
+    "audio": {
+      "slug": "taki",
+      "ipay": "dictionary/audio/ipay/t/taki.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taki.mp3"
     }
   },
   {
@@ -198,7 +648,6 @@
     "en": [
       "cut. chop. chaff"
     ],
-    "source": "B",
     "original": "taktak",
     "audio": {
       "slug": "taktak",
@@ -216,7 +665,6 @@
     "en": [
       "chaff"
     ],
-    "source": "M",
     "original": "taktak (M)",
     "audio": {
       "slug": "taktak",
@@ -238,7 +686,6 @@
     "en": [
       "cover (to). put the lid on"
     ],
-    "source": "B",
     "original": "takup > tsumakup",
     "audio": {
       "slug": "takup_tsumakup",
@@ -260,7 +707,6 @@
     "en": [
       "cover (to). put the lid on"
     ],
-    "source": "B",
     "original": "takup> panukup",
     "audio": {
       "slug": "takup_panukup",
@@ -271,14 +717,13 @@
   {
     "id": "2031",
     "basay": "tal'aan",
-    "category": "06",
+    "category": "25",
     "zh": [
       "用手接"
     ],
     "en": [
       "receive"
     ],
-    "source": "M",
     "original": "taɭaan (M)",
     "audio": {
       "slug": "talxaan",
@@ -296,7 +741,6 @@
     "en": [
       "fish basket"
     ],
-    "source": "M",
     "original": "taɭese (M)",
     "audio": {
       "slug": "talxese",
@@ -309,7 +753,7 @@
     "basay": "talahitakke",
     "category": "05",
     "zh": [
-      "奎恩"
+      "蕩婦"
     ],
     "ja": [
       "アバズレ女"
@@ -317,7 +761,6 @@
     "en": [
       "quean"
     ],
-    "source": "B",
     "original": "talahitakke",
     "audio": {
       "slug": "talahitakke",
@@ -338,7 +781,6 @@
     "en": [
       "doctor"
     ],
-    "source": "B",
     "original": "talainatte",
     "audio": {
       "slug": "talainatte",
@@ -356,7 +798,6 @@
     "en": [
       "doctor"
     ],
-    "source": "M",
     "original": "talainatte (M)",
     "audio": {
       "slug": "talainatte",
@@ -379,7 +820,6 @@
     "en": [
       "cut. chop. chaff"
     ],
-    "source": "B",
     "original": "talaktak",
     "audio": {
       "slug": "talaktak",
@@ -397,12 +837,62 @@
     "en": [
       "taro, potato"
     ],
-    "source": "M",
     "original": "tale (M)",
     "audio": {
       "slug": "tale",
       "ipay": "dictionary/audio/ipay/t/tale.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tale.mp3"
+    }
+  },
+  {
+    "id": "2598",
+    "basay": "tali",
+    "category": "08",
+    "zh": [
+      "芋頭（栽培種，Colocasia esculenta）"
+    ],
+    "en": [
+      "cultivated taro: Colocasia esculenta 6621"
+    ],
+    "original": "Cali",
+    "audio": {
+      "slug": "tali",
+      "ipay": "dictionary/audio/ipay/t/tali.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tali.mp3"
+    }
+  },
+  {
+    "id": "2599",
+    "basay": "talinga",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "en": [
+      "ear 1973"
+    ],
+    "original": "Caliŋa",
+    "audio": {
+      "slug": "talinxa",
+      "ipay": "dictionary/audio/ipay/t/talinxa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/talinxa.mp3"
+    }
+  },
+  {
+    "id": "2600",
+    "basay": "talinga nu kasiw",
+    "category": "08",
+    "zh": [
+      "木耳（一種生於樹幹上的半圓形食用菌）"
+    ],
+    "en": [
+      "wood ear, semicircular edible fungus which grows on tree trunks 1975"
+    ],
+    "original": "Caliŋa nu kaSiw",
+    "audio": {
+      "slug": "talinxa_nu_kasiw",
+      "ipay": "dictionary/audio/ipay/t/talinxa_nu_kasiw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/talinxa_nu_kasiw.mp3"
     }
   },
   {
@@ -415,12 +905,31 @@
     "en": [
       "center"
     ],
-    "source": "M",
     "original": "talinunuan (M)",
     "audio": {
       "slug": "talinunuan",
       "ipay": "dictionary/audio/ipay/t/talinunuan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/talinunuan.mp3"
+    }
+  },
+  {
+    "id": "2601",
+    "basay": "talis",
+    "category": "18",
+    "zh": [
+      "繩子",
+      "細繩",
+      "線",
+      "繩索"
+    ],
+    "en": [
+      "rope, cord, twine, string 1959"
+    ],
+    "original": "CaliS",
+    "audio": {
+      "slug": "talis",
+      "ipay": "dictionary/audio/ipay/t/talis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/talis.mp3"
     }
   },
   {
@@ -436,7 +945,6 @@
     "en": [
       "wet (to get wet because of rain)"
     ],
-    "source": "B",
     "original": "talisusu",
     "audio": {
       "slug": "talisusu",
@@ -457,7 +965,6 @@
     "en": [
       "tears"
     ],
-    "source": "B",
     "original": "talisusu",
     "audio": {
       "slug": "talisusu",
@@ -478,7 +985,6 @@
     "en": [
       "pour (to)"
     ],
-    "source": "B",
     "original": "talisusu",
     "audio": {
       "slug": "talisusu",
@@ -499,7 +1005,6 @@
     "en": [
       "hide"
     ],
-    "source": "B",
     "original": "talo",
     "audio": {
       "slug": "talo",
@@ -517,7 +1022,6 @@
     "en": [
       "hide"
     ],
-    "source": "M",
     "original": "talo(M)",
     "audio": {
       "slug": "talo",
@@ -538,7 +1042,6 @@
     "en": [
       "salty"
     ],
-    "source": "B",
     "original": "taləm",
     "audio": {
       "slug": "taloxm",
@@ -559,7 +1062,6 @@
     "en": [
       "salt water"
     ],
-    "source": "B",
     "original": "taləm",
     "audio": {
       "slug": "taloxm",
@@ -577,7 +1079,6 @@
     "en": [
       "salty, salt water"
     ],
-    "source": "M",
     "original": "taləm (M)",
     "audio": {
       "slug": "taloxm",
@@ -598,7 +1099,6 @@
     "en": [
       "salted fish"
     ],
-    "source": "B",
     "original": "taləm a baute",
     "audio": {
       "slug": "taloxm_a_baute",
@@ -620,12 +1120,29 @@
     "en": [
       "swing, trapeze"
     ],
-    "source": "B",
     "original": "talukitin",
     "audio": {
       "slug": "talukitin",
       "ipay": "dictionary/audio/ipay/t/talukitin.mp3",
       "hokkien": "dictionary/audio/hokkien/t/talukitin.mp3"
+    }
+  },
+  {
+    "id": "2602",
+    "basay": "talun",
+    "category": "15",
+    "zh": [
+      "休耕地",
+      "次生林"
+    ],
+    "en": [
+      "fallow land; secondary forest 1977"
+    ],
+    "original": "CaluN",
+    "audio": {
+      "slug": "talun",
+      "ipay": "dictionary/audio/ipay/t/talun.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/talun.mp3"
     }
   },
   {
@@ -638,7 +1155,6 @@
     "en": [
       "we will"
     ],
-    "source": "T",
     "original": "tam pay",
     "audio": {
       "slug": "tam_pay",
@@ -659,7 +1175,6 @@
     "en": [
       "father"
     ],
-    "source": "B",
     "original": "tama",
     "audio": {
       "slug": "tama",
@@ -677,7 +1192,6 @@
     "en": [
       "father (reference),uncle"
     ],
-    "source": "T",
     "original": "tama",
     "audio": {
       "slug": "tama",
@@ -698,7 +1212,6 @@
     "en": [
       "uncle"
     ],
-    "source": "B",
     "original": "tama suani",
     "audio": {
       "slug": "tama_suani",
@@ -716,7 +1229,6 @@
     "en": [
       "recover completely"
     ],
-    "source": "T",
     "original": "tamaan",
     "audio": {
       "slug": "tamaan",
@@ -734,7 +1246,6 @@
     "en": [
       "take a gun"
     ],
-    "source": "T",
     "original": "tamipapitsaan",
     "audio": {
       "slug": "tamipapitsaan",
@@ -755,7 +1266,6 @@
     "en": [
       "side-dish"
     ],
-    "source": "B",
     "original": "tamun",
     "audio": {
       "slug": "tamun",
@@ -773,7 +1283,6 @@
     "en": [
       "side dish"
     ],
-    "source": "T",
     "original": "tamun",
     "audio": {
       "slug": "tamun",
@@ -794,7 +1303,6 @@
     "en": [
       "coffin"
     ],
-    "source": "B",
     "original": "tamuŋau",
     "audio": {
       "slug": "tamunxau",
@@ -815,7 +1323,6 @@
     "en": [
       "finger"
     ],
-    "source": "B",
     "original": "tamus",
     "audio": {
       "slug": "tamus",
@@ -833,7 +1340,6 @@
     "en": [
       "fìnger"
     ],
-    "source": "M",
     "original": "tamus (M)",
     "audio": {
       "slug": "tamus",
@@ -854,7 +1360,6 @@
     "en": [
       "open"
     ],
-    "source": "B",
     "original": "taŋa",
     "audio": {
       "slug": "tanxa",
@@ -875,7 +1380,6 @@
     "en": [
       "open"
     ],
-    "source": "B",
     "original": "taŋa",
     "audio": {
       "slug": "tanxa",
@@ -896,7 +1400,6 @@
     "en": [
       "lock (to) < open"
     ],
-    "source": "B",
     "original": "taŋa",
     "audio": {
       "slug": "tanxa",
@@ -914,7 +1417,6 @@
     "en": [
       "corpse"
     ],
-    "source": "S",
     "original": "taŋa (S)",
     "audio": {
       "slug": "tanxa",
@@ -932,7 +1434,6 @@
     "en": [
       "dig up"
     ],
-    "source": "T",
     "original": "taŋa. tŋai",
     "audio": {
       "slug": "tanxa_tnxai",
@@ -953,7 +1454,6 @@
     "en": [
       "laugh"
     ],
-    "source": "B",
     "original": "taŋataŋa",
     "audio": {
       "slug": "tanxatanxa",
@@ -971,7 +1471,6 @@
     "en": [
       "laughing, joke (to)"
     ],
-    "source": "T",
     "original": "taŋtaŋa",
     "audio": {
       "slug": "tanxtanxa",
@@ -992,7 +1491,6 @@
     "en": [
       "departed"
     ],
-    "source": "B",
     "original": "tanaŋ-na",
     "audio": {
       "slug": "tananx_na",
@@ -1010,12 +1508,117 @@
     "en": [
       "lizard, insects"
     ],
-    "source": "M",
     "original": "tanas (M)",
     "audio": {
       "slug": "tanas",
       "ipay": "dictionary/audio/ipay/t/tanas.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tanas.mp3"
+    }
+  },
+  {
+    "id": "2603",
+    "basay": "tanem",
+    "category": "25",
+    "zh": [
+      "墳墓",
+      "埋葬"
+    ],
+    "en": [
+      "grave; to bury 7437"
+    ],
+    "original": "CaNem",
+    "audio": {
+      "slug": "tanem",
+      "ipay": "dictionary/audio/ipay/t/tanem.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanem.mp3"
+    }
+  },
+  {
+    "id": "2604",
+    "basay": "tanem-en",
+    "category": "15",
+    "zh": [
+      "所埋之物或所種之物"
+    ],
+    "en": [
+      "what is buried or planted 7451"
+    ],
+    "original": "CaNem-en",
+    "audio": {
+      "slug": "tanem_en",
+      "ipay": "dictionary/audio/ipay/t/tanem_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanem_en.mp3"
+    }
+  },
+  {
+    "id": "2606",
+    "basay": "tangelaj",
+    "category": "08",
+    "zh": [
+      "象草",
+      "五節芒（Themeda gigantea）"
+    ],
+    "en": [
+      "elephant grass, miscanthus grass: Themeda gigantea 10710"
+    ],
+    "original": "Caŋelaj",
+    "audio": {
+      "slug": "tanxelaj",
+      "ipay": "dictionary/audio/ipay/t/tanxelaj.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanxelaj.mp3"
+    }
+  },
+  {
+    "id": "2607",
+    "basay": "tangila",
+    "category": "06",
+    "zh": [
+      "耳朵"
+    ],
+    "en": [
+      "ear 2037"
+    ],
+    "original": "Caŋila",
+    "audio": {
+      "slug": "tanxila",
+      "ipay": "dictionary/audio/ipay/t/tanxila.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanxila.mp3"
+    }
+  },
+  {
+    "id": "2608",
+    "basay": "tangis",
+    "category": "23",
+    "zh": [
+      "哭泣",
+      "哀悼",
+      "懇求"
+    ],
+    "en": [
+      "weep, cry; mourn; to beseech 2039"
+    ],
+    "original": "Caŋis",
+    "audio": {
+      "slug": "tanxis",
+      "ipay": "dictionary/audio/ipay/t/tanxis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanxis.mp3"
+    }
+  },
+  {
+    "id": "2609",
+    "basay": "tangis-an",
+    "category": "05",
+    "zh": [
+      "為某事或某人而哭"
+    ],
+    "en": [
+      "to cry over something or someone 7774"
+    ],
+    "original": "Caŋis-an",
+    "audio": {
+      "slug": "tanxis_an",
+      "ipay": "dictionary/audio/ipay/t/tanxis_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanxis_an.mp3"
     }
   },
   {
@@ -1031,7 +1634,6 @@
     "en": [
       "no desire"
     ],
-    "source": "B",
     "original": "tanha",
     "audio": {
       "slug": "tanha",
@@ -1049,12 +1651,81 @@
     "en": [
       "bury, cemetery, tomb"
     ],
-    "source": "T",
     "original": "tanəm, tanman, tatanəm",
     "audio": {
       "slug": "tanoxm",
       "ipay": "dictionary/audio/ipay/t/tanoxm.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tanoxm.mp3"
+    }
+  },
+  {
+    "id": "2605",
+    "basay": "tanum",
+    "category": "11",
+    "zh": [
+      "提水",
+      "挑水"
+    ],
+    "en": [
+      "carry water 7454"
+    ],
+    "original": "CaNum",
+    "audio": {
+      "slug": "tanum",
+      "ipay": "dictionary/audio/ipay/t/tanum.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tanum.mp3"
+    }
+  },
+  {
+    "id": "2610",
+    "basay": "tapa",
+    "category": "07",
+    "zh": [
+      "燻魚或燻肉（保存用）"
+    ],
+    "en": [
+      "to smoke fish or meat for preservation 1981"
+    ],
+    "original": "Capa",
+    "audio": {
+      "slug": "tapa",
+      "ipay": "dictionary/audio/ipay/t/tapa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tapa.mp3"
+    }
+  },
+  {
+    "id": "2611",
+    "basay": "tapang",
+    "category": "34",
+    "zh": [
+      "補丁"
+    ],
+    "en": [
+      "a patch, as on clothing 1988"
+    ],
+    "original": "Capaŋ",
+    "audio": {
+      "slug": "tapanx",
+      "ipay": "dictionary/audio/ipay/t/tapanx.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tapanx.mp3"
+    }
+  },
+  {
+    "id": "2612",
+    "basay": "tapel",
+    "category": "25",
+    "zh": [
+      "補丁",
+      "補綴"
+    ],
+    "en": [
+      "a patch; to patch 1990"
+    ],
+    "original": "Capel",
+    "audio": {
+      "slug": "tapel",
+      "ipay": "dictionary/audio/ipay/t/tapel.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tapel.mp3"
     }
   },
   {
@@ -1070,7 +1741,6 @@
     "en": [
       "mend open seam"
     ],
-    "source": "B",
     "original": "tapjeŋ",
     "audio": {
       "slug": "tapjenx",
@@ -1091,35 +1761,11 @@
     "en": [
       "sand"
     ],
-    "source": "B",
     "original": "tapəl'",
     "audio": {
       "slug": "tapoxlx",
       "ipay": "dictionary/audio/ipay/t/tapoxlx.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tapoxlx.mp3"
-    }
-  },
-  {
-    "id": "0956",
-    "basay": "tapo'lᵒ | tapo't",
-    "category": "10",
-    "zh": [
-      "土壤",
-      "礫石"
-    ],
-    "ja": [
-      "土",
-      "砂"
-    ],
-    "en": [
-      "soill, gravel"
-    ],
-    "source": "B",
-    "original": "tapəlᵒ, tapət",
-    "audio": {
-      "slug": "tapoxl",
-      "ipay": "dictionary/audio/ipay/t/tapoxl.mp3",
-      "hokkien": "dictionary/audio/hokkien/t/tapoxl.mp3"
     }
   },
   {
@@ -1135,7 +1781,6 @@
     "en": [
       "spit (to)"
     ],
-    "source": "B",
     "original": "tapəs",
     "audio": {
       "slug": "tapoxs",
@@ -1153,7 +1798,6 @@
     "en": [
       "spit (to), spit"
     ],
-    "source": "M",
     "original": "tapəs (M)",
     "audio": {
       "slug": "tapoxs",
@@ -1174,12 +1818,50 @@
     "en": [
       "portion out (to)"
     ],
-    "source": "B",
     "original": "tapəse",
     "audio": {
       "slug": "tapoxse",
       "ipay": "dictionary/audio/ipay/t/tapoxse.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tapoxse.mp3"
+    }
+  },
+  {
+    "id": "0956",
+    "basay": "tapo't | tapo'lᵒ",
+    "category": "10",
+    "zh": [
+      "土壤",
+      "礫石"
+    ],
+    "ja": [
+      "土",
+      "砂"
+    ],
+    "en": [
+      "soill, gravel"
+    ],
+    "original": "tapəlᵒ, tapət",
+    "audio": {
+      "slug": "tapoxt",
+      "ipay": "dictionary/audio/ipay/t/tapoxt.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tapoxt.mp3"
+    }
+  },
+  {
+    "id": "2613",
+    "basay": "tapuh",
+    "category": "34",
+    "zh": [
+      "掃（地）"
+    ],
+    "en": [
+      "sweep 6562"
+    ],
+    "original": "Capuh",
+    "audio": {
+      "slug": "tapuh",
+      "ipay": "dictionary/audio/ipay/t/tapuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tapuh.mp3"
     }
   },
   {
@@ -1195,7 +1877,6 @@
     "en": [
       "spit"
     ],
-    "source": "B",
     "original": "taputse, tapəs,tappəsse",
     "audio": {
       "slug": "taputse",
@@ -1213,12 +1894,63 @@
     "en": [
       "branch, therefore"
     ],
-    "source": "T",
     "original": "taqan",
     "audio": {
       "slug": "taqan",
       "ipay": "dictionary/audio/ipay/t/taqan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/taqan.mp3"
+    }
+  },
+  {
+    "id": "2614",
+    "basay": "taqi",
+    "category": "09",
+    "zh": [
+      "排泄物",
+      "糞便"
+    ],
+    "en": [
+      "feces, excrement 2004"
+    ],
+    "original": "Caqi",
+    "audio": {
+      "slug": "taqi",
+      "ipay": "dictionary/audio/ipay/t/taqi.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taqi.mp3"
+    }
+  },
+  {
+    "id": "2615",
+    "basay": "taqis",
+    "category": "18",
+    "zh": [
+      "縫紉"
+    ],
+    "en": [
+      "to sew 1997"
+    ],
+    "original": "CaqiS",
+    "audio": {
+      "slug": "taqis",
+      "ipay": "dictionary/audio/ipay/t/taqis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taqis.mp3"
+    }
+  },
+  {
+    "id": "2616",
+    "basay": "taqis-an",
+    "category": "18",
+    "zh": [
+      "縫紉的場所"
+    ],
+    "en": [
+      "place of sewing 2000"
+    ],
+    "original": "CaqiS-an",
+    "audio": {
+      "slug": "taqis_an",
+      "ipay": "dictionary/audio/ipay/t/taqis_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taqis_an.mp3"
     }
   },
   {
@@ -1231,7 +1963,6 @@
     "en": [
       "mouniain, top"
     ],
-    "source": "T",
     "original": "taqəl",
     "audio": {
       "slug": "taqoxl",
@@ -1249,12 +1980,47 @@
     "en": [
       "yarn"
     ],
-    "source": "M",
     "original": "taqəl (M)",
     "audio": {
       "slug": "taqoxl",
       "ipay": "dictionary/audio/ipay/t/taqoxl.mp3",
       "hokkien": "dictionary/audio/hokkien/t/taqoxl.mp3"
+    }
+  },
+  {
+    "id": "2617",
+    "basay": "taqu",
+    "category": "24",
+    "zh": [
+      "會",
+      "能夠",
+      "擅長"
+    ],
+    "en": [
+      "to know how, be able to, be skilled at 7838"
+    ],
+    "original": "Caqu",
+    "audio": {
+      "slug": "taqu",
+      "ipay": "dictionary/audio/ipay/t/taqu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taqu.mp3"
+    }
+  },
+  {
+    "id": "2618",
+    "basay": "taqu-an",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 7843"
+    ],
+    "original": "Caqu-an",
+    "audio": {
+      "slug": "taqu_an",
+      "ipay": "dictionary/audio/ipay/t/taqu_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/taqu_an.mp3"
     }
   },
   {
@@ -1267,7 +2033,6 @@
     "en": [
       "chicken"
     ],
-    "source": "S",
     "original": "tarakok (S)",
     "audio": {
       "slug": "tarakok",
@@ -1288,7 +2053,6 @@
     "en": [
       "answer"
     ],
-    "source": "B",
     "original": "taram",
     "audio": {
       "slug": "taram",
@@ -1309,7 +2073,6 @@
     "en": [
       "fish basket"
     ],
-    "source": "B",
     "original": "tarisi",
     "audio": {
       "slug": "tarisi",
@@ -1331,7 +2094,6 @@
     "en": [
       "ornamental hairpin"
     ],
-    "source": "B",
     "original": "tarukitin",
     "audio": {
       "slug": "tarukitin",
@@ -1349,7 +2111,6 @@
     "en": [
       "transplant rice"
     ],
-    "source": "T",
     "original": "patazuq (S), taruq, taruqa, tazuk",
     "audio": {
       "slug": "taruq",
@@ -1367,7 +2128,6 @@
     "en": [
       "transplant rice"
     ],
-    "source": "T",
     "original": "patazuq (S), taruq, taruqa, tazuk",
     "audio": {
       "slug": "taruqa",
@@ -1388,7 +2148,6 @@
     "en": [
       "age, <How old are you?>"
     ],
-    "source": "B",
     "original": "tasau, <pina tasau isu>",
     "audio": {
       "slug": "tasau",
@@ -1410,12 +2169,29 @@
     "en": [
       "year, age"
     ],
-    "source": "B",
     "original": "tasau, tatasau",
     "audio": {
       "slug": "tasau",
       "ipay": "dictionary/audio/ipay/t/tasau.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tasau.mp3"
+    }
+  },
+  {
+    "id": "2619",
+    "basay": "tasaw",
+    "category": "11",
+    "zh": [
+      "戶外",
+      "露天"
+    ],
+    "en": [
+      "open-air; outdoors 2011"
+    ],
+    "original": "CaSaw",
+    "audio": {
+      "slug": "tasaw",
+      "ipay": "dictionary/audio/ipay/t/tasaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tasaw.mp3"
     }
   },
   {
@@ -1431,7 +2207,6 @@
     "en": [
       "salt"
     ],
-    "source": "B",
     "original": "tasse",
     "audio": {
       "slug": "tasse",
@@ -1452,7 +2227,6 @@
     "en": [
       "salt"
     ],
-    "source": "B",
     "original": "tasse",
     "audio": {
       "slug": "tasse",
@@ -1473,7 +2247,6 @@
     "en": [
       "fall"
     ],
-    "source": "B",
     "original": "tata",
     "audio": {
       "slug": "tata",
@@ -1494,7 +2267,6 @@
     "en": [
       "fall (to)"
     ],
-    "source": "B",
     "original": "tata",
     "audio": {
       "slug": "tata",
@@ -1512,7 +2284,6 @@
     "en": [
       "drop, fall"
     ],
-    "source": "T",
     "original": "tata, tatatan",
     "audio": {
       "slug": "tata",
@@ -1533,7 +2304,6 @@
     "en": [
       "deer"
     ],
-    "source": "B",
     "original": "tatak, tatakke",
     "audio": {
       "slug": "tatak",
@@ -1551,7 +2321,6 @@
     "en": [
       "hoe"
     ],
-    "source": "T",
     "original": "tatakka",
     "audio": {
       "slug": "tatakka",
@@ -1572,12 +2341,28 @@
     "en": [
       "next year"
     ],
-    "source": "B",
     "original": "tatasawai",
     "audio": {
       "slug": "tatasawai",
       "ipay": "dictionary/audio/ipay/t/tatasawai.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tatasawai.mp3"
+    }
+  },
+  {
+    "id": "2593",
+    "basay": "tataw",
+    "category": "06",
+    "zh": [
+      "瞳孔"
+    ],
+    "en": [
+      "pupil of the eye 1936"
+    ],
+    "original": "CaCaw",
+    "audio": {
+      "slug": "tataw",
+      "ipay": "dictionary/audio/ipay/t/tataw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tataw.mp3"
     }
   },
   {
@@ -1595,7 +2380,6 @@
     "en": [
       "belt, wear (to)"
     ],
-    "source": "B",
     "original": "tatisib",
     "audio": {
       "slug": "tatisib",
@@ -1619,7 +2403,6 @@
     "en": [
       "totter. unstable"
     ],
-    "source": "B",
     "original": "tatisin",
     "audio": {
       "slug": "tatisin",
@@ -1641,7 +2424,6 @@
     "en": [
       "collide. hit"
     ],
-    "source": "B",
     "original": "tatoŋ-pet",
     "audio": {
       "slug": "tatonx_pet",
@@ -1663,7 +2445,6 @@
     "en": [
       "hit against. run against"
     ],
-    "source": "B",
     "original": "tatoŋpel'",
     "audio": {
       "slug": "tatonxpelx",
@@ -1684,7 +2465,6 @@
     "en": [
       "stumble (to)"
     ],
-    "source": "B",
     "original": "tatoŋpet",
     "audio": {
       "slug": "tatonxpet",
@@ -1702,7 +2482,6 @@
     "en": [
       "yesterday"
     ],
-    "source": "T",
     "original": "tatvan, tavan (M)",
     "audio": {
       "slug": "tatvan",
@@ -1723,12 +2502,63 @@
     "en": [
       "human being"
     ],
-    "source": "B",
     "original": "tau",
     "audio": {
       "slug": "tau",
       "ipay": "dictionary/audio/ipay/t/tau.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tau.mp3"
+    }
+  },
+  {
+    "id": "2620",
+    "basay": "tau",
+    "category": "05",
+    "zh": [
+      "人",
+      "人類"
+    ],
+    "en": [
+      "person, human being 2014"
+    ],
+    "original": "Cau",
+    "audio": {
+      "slug": "tau",
+      "ipay": "dictionary/audio/ipay/t/tau.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tau.mp3"
+    }
+  },
+  {
+    "id": "2622",
+    "basay": "tau nu mata",
+    "category": "06",
+    "zh": [
+      "瞳孔（直譯：「眼中之人」）"
+    ],
+    "en": [
+      "pupil of the eye (‘person of the eye’) 8614"
+    ],
+    "original": "Cau nu maCa",
+    "audio": {
+      "slug": "tau_nu_mata",
+      "ipay": "dictionary/audio/ipay/t/tau_nu_mata.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tau_nu_mata.mp3"
+    }
+  },
+  {
+    "id": "2621",
+    "basay": "tau tau",
+    "category": "35",
+    "zh": [
+      "詞義不明"
+    ],
+    "en": [
+      "(gloss uncertain) 2021"
+    ],
+    "original": "Cau Cau",
+    "audio": {
+      "slug": "tau_tau",
+      "ipay": "dictionary/audio/ipay/t/tau_tau.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tau_tau.mp3"
     }
   },
   {
@@ -1744,7 +2574,6 @@
     "en": [
       "guest"
     ],
-    "source": "B",
     "original": "tau-tau",
     "audio": {
       "slug": "tau_tau",
@@ -1765,7 +2594,6 @@
     "en": [
       "not want"
     ],
-    "source": "B",
     "original": "tauha. <tauha koman>",
     "audio": {
       "slug": "tauha",
@@ -1783,7 +2611,6 @@
     "en": [
       "morning"
     ],
-    "source": "T",
     "original": "taval, tavaɭtavaɭ",
     "audio": {
       "slug": "taval",
@@ -1801,7 +2628,6 @@
     "en": [
       "yesterday"
     ],
-    "source": "M",
     "original": "tatvan, tavan (M)",
     "audio": {
       "slug": "tavan",
@@ -1819,7 +2645,6 @@
     "en": [
       "throw"
     ],
-    "source": "T",
     "original": "tavli",
     "audio": {
       "slug": "tavli",
@@ -1837,7 +2662,6 @@
     "en": [
       "lose"
     ],
-    "source": "M",
     "original": "pqamiamia, tavəl (M)",
     "audio": {
       "slug": "tavoxl",
@@ -1858,7 +2682,6 @@
     "en": [
       "throw away"
     ],
-    "source": "B",
     "original": "tavəl'",
     "audio": {
       "slug": "tavoxlx",
@@ -1876,7 +2699,6 @@
     "en": [
       "chop, cut"
     ],
-    "source": "T",
     "original": "tavotavo",
     "audio": {
       "slug": "tavotavo",
@@ -1885,21 +2707,55 @@
     }
   },
   {
+    "id": "2623",
+    "basay": "tawa",
+    "category": "25",
+    "zh": [
+      "笑"
+    ],
+    "en": [
+      "to laugh 2023"
+    ],
+    "original": "Cawa",
+    "audio": {
+      "slug": "tawa",
+      "ipay": "dictionary/audio/ipay/t/tawa.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tawa.mp3"
+    }
+  },
+  {
     "id": "2058",
     "basay": "tawan",
-    "category": "05",
+    "category": "25",
     "zh": [
       "請客•招待"
     ],
     "en": [
       "entertain"
     ],
-    "source": "T",
     "original": "tawan",
     "audio": {
       "slug": "tawan",
       "ipay": "dictionary/audio/ipay/t/tawan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tawan.mp3"
+    }
+  },
+  {
+    "id": "2624",
+    "basay": "tawin",
+    "category": "13",
+    "zh": [
+      "年",
+      "歲"
+    ],
+    "en": [
+      "year 6564"
+    ],
+    "original": "CawiN",
+    "audio": {
+      "slug": "tawin",
+      "ipay": "dictionary/audio/ipay/t/tawin.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tawin.mp3"
     }
   },
   {
@@ -1912,7 +2768,6 @@
     "en": [
       "button"
     ],
-    "source": "M",
     "original": "tawiz (M)",
     "audio": {
       "slug": "tawiz",
@@ -1930,7 +2785,6 @@
     "en": [
       "look"
     ],
-    "source": "S",
     "original": "tayta (S)",
     "audio": {
       "slug": "tayta",
@@ -1948,12 +2802,28 @@
     "en": [
       "store (to)"
     ],
-    "source": "M",
     "original": "taɮi mau (M)",
     "audio": {
       "slug": "tazxi_mau",
       "ipay": "dictionary/audio/ipay/t/tazxi_mau.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tazxi_mau.mp3"
+    }
+  },
+  {
+    "id": "2625",
+    "basay": "tazem",
+    "category": "32",
+    "zh": [
+      "鋒利（指刀刃等）"
+    ],
+    "en": [
+      "sharp (of point or blade) 2032"
+    ],
+    "original": "Cazem",
+    "audio": {
+      "slug": "tazem",
+      "ipay": "dictionary/audio/ipay/t/tazem.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tazem.mp3"
     }
   },
   {
@@ -1966,7 +2836,6 @@
     "en": [
       "here"
     ],
-    "source": "S",
     "original": "tazian (S), zaay, zala",
     "audio": {
       "slug": "tazian",
@@ -1984,7 +2853,6 @@
     "en": [
       "transplant rice"
     ],
-    "source": "T",
     "original": "patazuq (S), taruq, taruqa, tazuk",
     "audio": {
       "slug": "tazuk",
@@ -2002,12 +2870,65 @@
     "en": [
       "soul"
     ],
-    "source": "M",
     "original": "tazusa tao (M)",
     "audio": {
       "slug": "tazusa_tao",
       "ipay": "dictionary/audio/ipay/t/tazusa_tao.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tazusa_tao.mp3"
+    }
+  },
+  {
+    "id": "2626",
+    "basay": "tebak",
+    "category": "34",
+    "zh": [
+      "撞擊"
+    ],
+    "en": [
+      "smack against 2048"
+    ],
+    "original": "Cebak",
+    "audio": {
+      "slug": "tebak",
+      "ipay": "dictionary/audio/ipay/t/tebak.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebak.mp3"
+    }
+  },
+  {
+    "id": "2627",
+    "basay": "tebej",
+    "category": "11",
+    "zh": [
+      "泉水",
+      "湧泉"
+    ],
+    "en": [
+      "spring of water, spring water 12122"
+    ],
+    "original": "Cebej",
+    "audio": {
+      "slug": "tebej",
+      "ipay": "dictionary/audio/ipay/t/tebej.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebej.mp3"
+    }
+  },
+  {
+    "id": "2628",
+    "basay": "tebiq",
+    "category": "25",
+    "zh": [
+      "裂開",
+      "分裂",
+      "斷裂"
+    ],
+    "en": [
+      "split, divide, break off 6538"
+    ],
+    "original": "Cebiq",
+    "audio": {
+      "slug": "tebiq",
+      "ipay": "dictionary/audio/ipay/t/tebiq.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebiq.mp3"
     }
   },
   {
@@ -2025,7 +2946,6 @@
     "en": [
       "south, east"
     ],
-    "source": "B",
     "original": "tebol'",
     "audio": {
       "slug": "tebolx",
@@ -2034,21 +2954,144 @@
     }
   },
   {
+    "id": "2629",
+    "basay": "tebuj",
+    "category": "11",
+    "zh": [
+      "天然湧泉",
+      "淡水泉源"
+    ],
+    "en": [
+      "natural spring, fresh water spring 2050"
+    ],
+    "original": "Cebuj",
+    "audio": {
+      "slug": "tebuj",
+      "ipay": "dictionary/audio/ipay/t/tebuj.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebuj.mp3"
+    }
+  },
+  {
+    "id": "2630",
+    "basay": "tebuk",
+    "category": "23",
+    "zh": [
+      "重擊聲",
+      "咚咚聲"
+    ],
+    "en": [
+      "thud 2052"
+    ],
+    "original": "Cebuk",
+    "audio": {
+      "slug": "tebuk",
+      "ipay": "dictionary/audio/ipay/t/tebuk.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebuk.mp3"
+    }
+  },
+  {
+    "id": "2631",
+    "basay": "tebun",
+    "category": "11",
+    "zh": [
+      "煙"
+    ],
+    "en": [
+      "smoke 6637"
+    ],
+    "original": "CebuN",
+    "audio": {
+      "slug": "tebun",
+      "ipay": "dictionary/audio/ipay/t/tebun.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebun.mp3"
+    }
+  },
+  {
+    "id": "2632",
+    "basay": "tebung",
+    "category": "25",
+    "zh": [
+      "相遇",
+      "會合"
+    ],
+    "en": [
+      "to meet, come together 7116"
+    ],
+    "original": "Cebuŋ",
+    "audio": {
+      "slug": "tebunx",
+      "ipay": "dictionary/audio/ipay/t/tebunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebunx.mp3"
+    }
+  },
+  {
+    "id": "2633",
+    "basay": "tebus",
+    "category": "34",
+    "zh": [
+      "甘蔗（Saccharum officinarum）"
+    ],
+    "en": [
+      "sugarcane: Saccharum officinarum 2054"
+    ],
+    "original": "CebuS",
+    "audio": {
+      "slug": "tebus",
+      "ipay": "dictionary/audio/ipay/t/tebus.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tebus.mp3"
+    }
+  },
+  {
     "id": "2064",
     "basay": "teen",
-    "category": "06",
+    "category": "14",
     "zh": [
       "相反的，背面"
     ],
     "en": [
       "reverse, back"
     ],
-    "source": "M",
     "original": "teen (M)",
     "audio": {
       "slug": "teen",
       "ipay": "dictionary/audio/ipay/t/teen.mp3",
       "hokkien": "dictionary/audio/hokkien/t/teen.mp3"
+    }
+  },
+  {
+    "id": "2634",
+    "basay": "tegteg",
+    "category": "25",
+    "zh": [
+      "敲打",
+      "拍擊"
+    ],
+    "en": [
+      "beat, pound, hit 2056"
+    ],
+    "original": "CegCeg",
+    "audio": {
+      "slug": "tegteg",
+      "ipay": "dictionary/audio/ipay/t/tegteg.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tegteg.mp3"
+    }
+  },
+  {
+    "id": "2635",
+    "basay": "tegteg",
+    "category": "32",
+    "zh": [
+      "擊打",
+      "重擊"
+    ],
+    "en": [
+      "to beat, pound on 5459"
+    ],
+    "original": "CegCeg",
+    "audio": {
+      "slug": "tegteg",
+      "ipay": "dictionary/audio/ipay/t/tegteg.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tegteg.mp3"
     }
   },
   {
@@ -2064,12 +3107,64 @@
     "en": [
       "walking stick"
     ],
-    "source": "B",
     "original": "tehol'",
     "audio": {
       "slug": "teholx",
       "ipay": "dictionary/audio/ipay/t/teholx.mp3",
       "hokkien": "dictionary/audio/hokkien/t/teholx.mp3"
+    }
+  },
+  {
+    "id": "2637",
+    "basay": "teked",
+    "category": "24",
+    "zh": [
+      "休息",
+      "暫停工作或活動"
+    ],
+    "en": [
+      "to rest, take a break from work or other activity 11688"
+    ],
+    "original": "Ceked",
+    "audio": {
+      "slug": "teked",
+      "ipay": "dictionary/audio/ipay/t/teked.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/teked.mp3"
+    }
+  },
+  {
+    "id": "2638",
+    "basay": "tekes",
+    "category": "08",
+    "zh": [
+      "一種非常細的竹子"
+    ],
+    "en": [
+      "kind of very slender bamboo 6622"
+    ],
+    "original": "CekeS",
+    "audio": {
+      "slug": "tekes",
+      "ipay": "dictionary/audio/ipay/t/tekes.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tekes.mp3"
+    }
+  },
+  {
+    "id": "2636",
+    "basay": "tektek",
+    "category": "18",
+    "zh": [
+      "穿透",
+      "刺入"
+    ],
+    "en": [
+      "pierce, penetrate 2059"
+    ],
+    "original": "CekCek",
+    "audio": {
+      "slug": "tektek",
+      "ipay": "dictionary/audio/ipay/t/tektek.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tektek.mp3"
     }
   },
   {
@@ -2082,7 +3177,6 @@
     "en": [
       "eggs of fish"
     ],
-    "source": "M",
     "original": "teɭoɭu vautu (M)",
     "audio": {
       "slug": "telxolxu_vautu",
@@ -2100,12 +3194,29 @@
     "en": [
       "omen bird"
     ],
-    "source": "M",
     "original": "sisiŋ, teɭotsa (M)",
     "audio": {
       "slug": "telxotsa",
       "ipay": "dictionary/audio/ipay/t/telxotsa.mp3",
       "hokkien": "dictionary/audio/hokkien/t/telxotsa.mp3"
+    }
+  },
+  {
+    "id": "2639",
+    "basay": "telaq",
+    "category": "18",
+    "zh": [
+      "裂縫",
+      "裂痕"
+    ],
+    "en": [
+      "crack, split, fissure 2063"
+    ],
+    "original": "Celaq",
+    "audio": {
+      "slug": "telaq",
+      "ipay": "dictionary/audio/ipay/t/telaq.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/telaq.mp3"
     }
   },
   {
@@ -2121,7 +3232,6 @@
     "en": [
       "egg"
     ],
-    "source": "B",
     "original": "telod'",
     "audio": {
       "slug": "telodx",
@@ -2142,7 +3252,6 @@
     "en": [
       "fortune telling bird"
     ],
-    "source": "B",
     "original": "telotsa",
     "audio": {
       "slug": "telotsa",
@@ -2151,9 +3260,63 @@
     }
   },
   {
+    "id": "2640",
+    "basay": "teltel",
+    "category": "25",
+    "zh": [
+      "敲打",
+      "拍打"
+    ],
+    "en": [
+      "beat, pound 2065"
+    ],
+    "original": "CelCel",
+    "audio": {
+      "slug": "teltel",
+      "ipay": "dictionary/audio/ipay/t/teltel.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/teltel.mp3"
+    }
+  },
+  {
+    "id": "2641",
+    "basay": "teme-temel",
+    "category": "10",
+    "zh": [
+      "荒地"
+    ],
+    "en": [
+      "uncultivated land 6566"
+    ],
+    "original": "Ceme-Cemel",
+    "audio": {
+      "slug": "teme_temel",
+      "ipay": "dictionary/audio/ipay/t/teme_temel.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/teme_temel.mp3"
+    }
+  },
+  {
+    "id": "2642",
+    "basay": "temel",
+    "category": "08",
+    "zh": [
+      "草",
+      "草藥",
+      "藥物"
+    ],
+    "en": [
+      "grass, herbs; medicine 6565"
+    ],
+    "original": "Cemel",
+    "audio": {
+      "slug": "temel",
+      "ipay": "dictionary/audio/ipay/t/temel.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/temel.mp3"
+    }
+  },
+  {
     "id": "0985",
     "basay": "ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "後退"
     ],
@@ -2163,7 +3326,6 @@
     "en": [
       "back"
     ],
-    "source": "B",
     "original": "ten",
     "audio": {
       "slug": "ten",
@@ -2174,7 +3336,7 @@
   {
     "id": "0986",
     "basay": "ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "後退"
     ],
@@ -2184,7 +3346,6 @@
     "en": [
       "back"
     ],
-    "source": "B",
     "original": "ten",
     "audio": {
       "slug": "ten",
@@ -2205,7 +3366,6 @@
     "en": [
       "noon"
     ],
-    "source": "B",
     "original": "teŋ",
     "audio": {
       "slug": "tenx",
@@ -2216,7 +3376,7 @@
   {
     "id": "0987",
     "basay": "ten. | mita ten",
-    "category": "06",
+    "category": "14",
     "zh": [
       "落後",
       "後退"
@@ -2227,7 +3387,6 @@
     "en": [
       "backward. back"
     ],
-    "source": "B",
     "original": "ten. <mita ten>",
     "audio": {
       "slug": "ten",
@@ -2248,7 +3407,6 @@
     "en": [
       "intestines"
     ],
-    "source": "B",
     "original": "tenai",
     "audio": {
       "slug": "tenai",
@@ -2270,7 +3428,6 @@
     "en": [
       "bamboo, bamboo fence"
     ],
-    "source": "B",
     "original": "tenajen",
     "audio": {
       "slug": "tenajen",
@@ -2279,16 +3436,69 @@
     }
   },
   {
+    "id": "2643",
+    "basay": "tenek",
+    "category": "34",
+    "zh": [
+      "荊棘",
+      "刺"
+    ],
+    "en": [
+      "thorn 2069"
+    ],
+    "original": "Cenek",
+    "audio": {
+      "slug": "tenek",
+      "ipay": "dictionary/audio/ipay/t/tenek.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tenek.mp3"
+    }
+  },
+  {
+    "id": "2644",
+    "basay": "teRab",
+    "category": "34",
+    "zh": [
+      "打嗝"
+    ],
+    "en": [
+      "a belch 2072"
+    ],
+    "original": "CeRab",
+    "audio": {
+      "slug": "terab",
+      "ipay": "dictionary/audio/ipay/t/terab.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/terab.mp3"
+    }
+  },
+  {
+    "id": "2645",
+    "basay": "tesek",
+    "category": "18",
+    "zh": [
+      "插入",
+      "穿刺",
+      "貫穿"
+    ],
+    "en": [
+      "insert, pierce, penetrate 2077"
+    ],
+    "original": "Cesek",
+    "audio": {
+      "slug": "tesek",
+      "ipay": "dictionary/audio/ipay/t/tesek.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tesek.mp3"
+    }
+  },
+  {
     "id": "2066",
     "basay": "teten | tumeten",
-    "category": "06",
+    "category": "25",
     "zh": [
       "背，扛"
     ],
     "en": [
       "carry on back"
     ],
-    "source": "T",
     "original": "teten， tumeten",
     "audio": {
       "slug": "teten",
@@ -2309,7 +3519,6 @@
     "en": [
       "palanquin"
     ],
-    "source": "B",
     "original": "tetenan",
     "audio": {
       "slug": "tetenan",
@@ -2327,7 +3536,6 @@
     "en": [
       "palankeen, sedan"
     ],
-    "source": "M",
     "original": "tetenan < teten (M)",
     "audio": {
       "slug": "tetenan_teten",
@@ -2348,7 +3556,6 @@
     "en": [
       "fall"
     ],
-    "source": "B",
     "original": "tettet, liŋate(?)",
     "audio": {
       "slug": "tettet",
@@ -2366,7 +3573,6 @@
     "en": [
       "belly"
     ],
-    "source": "T",
     "original": "tian",
     "audio": {
       "slug": "tian",
@@ -2384,7 +3590,6 @@
     "en": [
       "us (inclusive)"
     ],
-    "source": "T",
     "original": "tianan",
     "audio": {
       "slug": "tianan",
@@ -2405,12 +3610,30 @@
     "en": [
       "too good to do"
     ],
-    "source": "B",
     "original": "tibasa",
     "audio": {
       "slug": "tibasa",
       "ipay": "dictionary/audio/ipay/t/tibasa.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tibasa.mp3"
+    }
+  },
+  {
+    "id": "2646",
+    "basay": "tidu",
+    "category": "21",
+    "zh": [
+      "湯匙",
+      "勺子",
+      "舀子"
+    ],
+    "en": [
+      "spoon, ladle, dipper 2083"
+    ],
+    "original": "Cidu",
+    "audio": {
+      "slug": "tidu",
+      "ipay": "dictionary/audio/ipay/t/tidu.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tidu.mp3"
     }
   },
   {
@@ -2426,7 +3649,6 @@
     "en": [
       "tile (on the roof)"
     ],
-    "source": "B",
     "original": "tiha",
     "audio": {
       "slug": "tiha",
@@ -2444,7 +3666,6 @@
     "en": [
       "candle, set fire"
     ],
-    "source": "M",
     "original": "tiik (M)(< Taiwanese)",
     "audio": {
       "slug": "tiik",
@@ -2466,7 +3687,6 @@
     "en": [
       "belly. abdomen"
     ],
-    "source": "B",
     "original": "tijan",
     "audio": {
       "slug": "tijan",
@@ -2487,7 +3707,6 @@
     "en": [
       "belly"
     ],
-    "source": "B",
     "original": "tijan, tjɛn",
     "audio": {
       "slug": "tijan",
@@ -2508,7 +3727,6 @@
     "en": [
       "belly"
     ],
-    "source": "B",
     "original": "tijen",
     "audio": {
       "slug": "tijen",
@@ -2526,12 +3744,29 @@
     "en": [
       "entrap"
     ],
-    "source": "T",
     "original": "tikas, tumikas (M)",
     "audio": {
       "slug": "tikas",
       "ipay": "dictionary/audio/ipay/t/tikas.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tikas.mp3"
+    }
+  },
+  {
+    "id": "2647",
+    "basay": "tikel",
+    "category": "25",
+    "zh": [
+      "返回",
+      "回去"
+    ],
+    "en": [
+      "return, go back 2088"
+    ],
+    "original": "Cikel",
+    "audio": {
+      "slug": "tikel",
+      "ipay": "dictionary/audio/ipay/t/tikel.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tikel.mp3"
     }
   },
   {
@@ -2547,7 +3782,6 @@
     "en": [
       "stump (1)"
     ],
-    "source": "B",
     "original": "tilawakke, <jaku tilawakke>",
     "audio": {
       "slug": "tilawakke",
@@ -2558,7 +3792,7 @@
   {
     "id": "1000",
     "basay": "tili",
-    "category": "05",
+    "category": "19",
     "zh": [
       "老婦人",
       "編織姿勢"
@@ -2569,7 +3803,6 @@
     "en": [
       "old woman. posture of weaving"
     ],
-    "source": "B",
     "original": "tili",
     "audio": {
       "slug": "tili",
@@ -2590,7 +3823,6 @@
     "en": [
       "trot"
     ],
-    "source": "B",
     "original": "tiliptilip",
     "audio": {
       "slug": "tiliptilip",
@@ -2601,7 +3833,7 @@
   {
     "id": "1002",
     "basay": "tiliptip",
-    "category": "05",
+    "category": "19",
     "zh": [
       "男子舞蹈",
       "跳躍"
@@ -2612,7 +3844,6 @@
     "en": [
       "dance (man). jump"
     ],
-    "source": "B",
     "original": "tiliptip",
     "audio": {
       "slug": "tiliptip",
@@ -2634,7 +3865,6 @@
     "en": [
       "leak (to)"
     ],
-    "source": "B",
     "original": "tiliptip",
     "audio": {
       "slug": "tiliptip",
@@ -2652,7 +3882,6 @@
     "en": [
       "search"
     ],
-    "source": "S",
     "original": "timalmal (S)",
     "audio": {
       "slug": "timalmal",
@@ -2673,7 +3902,6 @@
     "en": [
       "leftover food"
     ],
-    "source": "B",
     "original": "timase sumai",
     "audio": {
       "slug": "timase_sumai",
@@ -2695,7 +3923,6 @@
     "en": [
       "remain. left over"
     ],
-    "source": "B",
     "original": "timasse",
     "audio": {
       "slug": "timasse",
@@ -2713,7 +3940,6 @@
     "en": [
       "1 (obl)"
     ],
-    "source": "T",
     "original": "timayku",
     "audio": {
       "slug": "timayku",
@@ -2731,7 +3957,6 @@
     "en": [
       "you (OBL)"
     ],
-    "source": "T",
     "original": "timaysu",
     "audio": {
       "slug": "timaysu",
@@ -2749,7 +3974,6 @@
     "en": [
       "flea"
     ],
-    "source": "M",
     "original": "timɭa (M)",
     "audio": {
       "slug": "timlxa",
@@ -2767,7 +3991,6 @@
     "en": [
       "you (pl)"
     ],
-    "source": "T",
     "original": "timu",
     "audio": {
       "slug": "timu",
@@ -2789,7 +4012,6 @@
     "en": [
       "neck. throat"
     ],
-    "source": "B",
     "original": "tiŋ-nan",
     "audio": {
       "slug": "tinx_nan",
@@ -2807,7 +4029,6 @@
     "en": [
       "mother (reference)"
     ],
-    "source": "T",
     "original": "tina",
     "audio": {
       "slug": "tina",
@@ -2828,7 +4049,6 @@
     "en": [
       "mother"
     ],
-    "source": "B",
     "original": "tina (palatalize セズ)",
     "audio": {
       "slug": "tina",
@@ -2849,7 +4069,6 @@
     "en": [
       "rice cake"
     ],
-    "source": "B",
     "original": "tinalikke",
     "audio": {
       "slug": "tinalikke",
@@ -2860,7 +4079,7 @@
   {
     "id": "1008",
     "basay": "tinaune",
-    "category": "05",
+    "category": "06",
     "zh": [
       "陰道"
     ],
@@ -2870,12 +4089,28 @@
     "en": [
       "vagina"
     ],
-    "source": "B",
     "original": "tinaune",
     "audio": {
       "slug": "tinaune",
       "ipay": "dictionary/audio/ipay/t/tinaune.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tinaune.mp3"
+    }
+  },
+  {
+    "id": "2654",
+    "basay": "tingas",
+    "category": "06",
+    "zh": [
+      "卡在牙縫中的食物殘渣"
+    ],
+    "en": [
+      "food particles caught between the teeth 2098"
+    ],
+    "original": "CiŋaS",
+    "audio": {
+      "slug": "tinxas",
+      "ipay": "dictionary/audio/ipay/t/tinxas.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tinxas.mp3"
     }
   },
   {
@@ -2888,7 +4123,6 @@
     "en": [
       "spinal cord"
     ],
-    "source": "M",
     "original": "tinəs (M)",
     "audio": {
       "slug": "tinoxs",
@@ -2897,16 +4131,32 @@
     }
   },
   {
+    "id": "2655",
+    "basay": "tiqaw",
+    "category": "15",
+    "zh": [
+      "一種魚"
+    ],
+    "en": [
+      "fish sp. 2094"
+    ],
+    "original": "Ciqaw",
+    "audio": {
+      "slug": "tiqaw",
+      "ipay": "dictionary/audio/ipay/t/tiqaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tiqaw.mp3"
+    }
+  },
+  {
     "id": "2081",
     "basay": "tiqul",
-    "category": "06",
+    "category": "09",
     "zh": [
       "手杖"
     ],
     "en": [
       "stick (S)"
     ],
-    "source": "T",
     "original": "tiqul",
     "audio": {
       "slug": "tiqul",
@@ -2924,7 +4174,6 @@
     "en": [
       "half"
     ],
-    "source": "T",
     "original": "tisin",
     "audio": {
       "slug": "tisin",
@@ -2942,7 +4191,6 @@
     "en": [
       "across the river"
     ],
-    "source": "M",
     "original": "tisin (M)",
     "audio": {
       "slug": "tisin",
@@ -2964,7 +4212,6 @@
     "en": [
       "belt"
     ],
-    "source": "B",
     "original": "tisup",
     "audio": {
       "slug": "tisup",
@@ -2982,7 +4229,6 @@
     "en": [
       "loincloth"
     ],
-    "source": "M",
     "original": "tivai (M)",
     "audio": {
       "slug": "tivai",
@@ -3003,7 +4249,6 @@
     "en": [
       "who"
     ],
-    "source": "B",
     "original": "tjajatsoa",
     "audio": {
       "slug": "tjajatsoa",
@@ -3021,7 +4266,6 @@
     "en": [
       "dance"
     ],
-    "source": "T",
     "original": "tlail",
     "audio": {
       "slug": "tlail",
@@ -3039,7 +4283,6 @@
     "en": [
       "make rice cake"
     ],
-    "source": "T",
     "original": "tmalik",
     "audio": {
       "slug": "tmalik",
@@ -3057,7 +4300,6 @@
     "en": [
       "roast"
     ],
-    "source": "T",
     "original": "tmaqa, tmaq, tməqa",
     "audio": {
       "slug": "tmaqa",
@@ -3075,7 +4317,6 @@
     "en": [
       "seed"
     ],
-    "source": "M",
     "original": "tmaqsam (M)",
     "audio": {
       "slug": "tmaqsam",
@@ -3093,7 +4334,6 @@
     "en": [
       "throw"
     ],
-    "source": "T",
     "original": "tmavəli",
     "audio": {
       "slug": "tmavoxli",
@@ -3111,7 +4351,6 @@
     "en": [
       "storm"
     ],
-    "source": "M",
     "original": "tmawal (M)",
     "audio": {
       "slug": "tmawal",
@@ -3129,7 +4368,6 @@
     "en": [
       "cook glutinous rice"
     ],
-    "source": "T",
     "original": "tmuzun",
     "audio": {
       "slug": "tmuzun",
@@ -3147,7 +4385,6 @@
     "en": [
       "bamboo"
     ],
-    "source": "M",
     "original": "tnajan (M), tnayan",
     "audio": {
       "slug": "tnajan",
@@ -3165,7 +4402,6 @@
     "en": [
       "bamboo"
     ],
-    "source": "T",
     "original": "tnajan (M), tnayan",
     "audio": {
       "slug": "tnayan",
@@ -3189,7 +4425,6 @@
     "en": [
       "sap. soup"
     ],
-    "source": "B",
     "original": "tənasse",
     "audio": {
       "slug": "toxnasse",
@@ -3207,7 +4442,6 @@
     "en": [
       "earth, soil, gravel"
     ],
-    "source": "T",
     "original": "təpəl",
     "audio": {
       "slug": "toxpoxl",
@@ -3228,7 +4462,6 @@
     "en": [
       "tomorrow"
     ],
-    "source": "B",
     "original": "toban",
     "audio": {
       "slug": "toban",
@@ -3249,7 +4482,6 @@
     "en": [
       "iron"
     ],
-    "source": "B",
     "original": "toktogan",
     "audio": {
       "slug": "toktogan",
@@ -3270,7 +4502,6 @@
     "en": [
       "hit (to)"
     ],
-    "source": "B",
     "original": "toktok",
     "audio": {
       "slug": "toktok",
@@ -3288,7 +4519,6 @@
     "en": [
       "noise"
     ],
-    "source": "M",
     "original": "toɭus (M)",
     "audio": {
       "slug": "tolxus",
@@ -3306,7 +4536,6 @@
     "en": [
       "bone"
     ],
-    "source": "M",
     "original": "tolan (M)",
     "audio": {
       "slug": "tolan",
@@ -3327,7 +4556,6 @@
     "en": [
       "bone"
     ],
-    "source": "B",
     "original": "tolan, tolal",
     "audio": {
       "slug": "tolan",
@@ -3348,7 +4576,6 @@
     "en": [
       "drum"
     ],
-    "source": "B",
     "original": "toloŋtoŋ",
     "audio": {
       "slug": "tolonxtonx",
@@ -3369,7 +4596,6 @@
     "en": [
       "deaf."
     ],
-    "source": "B",
     "original": "toluse",
     "audio": {
       "slug": "toluse",
@@ -3390,7 +4616,6 @@
     "en": [
       "noisily (to speak)"
     ],
-    "source": "B",
     "original": "tolusse",
     "audio": {
       "slug": "tolusse",
@@ -3411,7 +4636,6 @@
     "en": [
       "bear (animal)"
     ],
-    "source": "B",
     "original": "tomai",
     "audio": {
       "slug": "tomai",
@@ -3433,7 +4657,6 @@
     "en": [
       "weep. cry"
     ],
-    "source": "B",
     "original": "tomaŋetse",
     "audio": {
       "slug": "tomanxetse",
@@ -3455,7 +4678,6 @@
     "en": [
       "cry, tears"
     ],
-    "source": "B",
     "original": "tomaŋetse",
     "audio": {
       "slug": "tomanxetse",
@@ -3476,7 +4698,6 @@
     "en": [
       "ax"
     ],
-    "source": "B",
     "original": "toptop (?)",
     "audio": {
       "slug": "toptop",
@@ -3497,7 +4718,6 @@
     "en": [
       "chicken, cock"
     ],
-    "source": "B",
     "original": "tor-hok",
     "audio": {
       "slug": "tor_hok",
@@ -3519,7 +4739,6 @@
     "en": [
       "wanton woman/man"
     ],
-    "source": "B",
     "original": "toraŋ",
     "audio": {
       "slug": "toranx",
@@ -3537,7 +4756,6 @@
     "en": [
       "helpless"
     ],
-    "source": "T",
     "original": "tosaipola",
     "audio": {
       "slug": "tosaipola",
@@ -3558,7 +4776,6 @@
     "en": [
       "ditch"
     ],
-    "source": "B",
     "original": "totolan",
     "audio": {
       "slug": "totolan",
@@ -3576,7 +4793,6 @@
     "en": [
       "leak (to)"
     ],
-    "source": "M",
     "original": "tozo (M)",
     "audio": {
       "slug": "tozo",
@@ -3594,7 +4810,6 @@
     "en": [
       "paper"
     ],
-    "source": "M",
     "original": "tpurukka (M)",
     "audio": {
       "slug": "tpurukka",
@@ -3612,7 +4827,6 @@
     "en": [
       "ancient"
     ],
-    "source": "S",
     "original": "tɮai, trai (S), trayazay",
     "audio": {
       "slug": "trai",
@@ -3630,7 +4844,6 @@
     "en": [
       "ancient"
     ],
-    "source": "T",
     "original": "tɮai, trai (S), trayazay",
     "audio": {
       "slug": "trayazay",
@@ -3648,7 +4861,6 @@
     "en": [
       "meat"
     ],
-    "source": "M",
     "original": "trena (M)",
     "audio": {
       "slug": "trena",
@@ -3666,7 +4878,6 @@
     "en": [
       "bamboo basket"
     ],
-    "source": "M",
     "original": "trese (M)",
     "audio": {
       "slug": "trese",
@@ -3687,7 +4898,6 @@
     "en": [
       "field"
     ],
-    "source": "B",
     "original": "tʃepotʃepo",
     "audio": {
       "slug": "tsxepotsxepo",
@@ -3708,7 +4918,6 @@
     "en": [
       "lick"
     ],
-    "source": "B",
     "original": "tʃilatʃilakke",
     "audio": {
       "slug": "tsxilatsxilakke",
@@ -3721,7 +4930,7 @@
     "basay": "ts'imaija",
     "category": "06",
     "zh": [
-      "鰭"
+      "鰭（形狀似手）"
     ],
     "ja": [
       "ヒレ (手ニ似タル)"
@@ -3729,7 +4938,6 @@
     "en": [
       "fin"
     ],
-    "source": "B",
     "original": "tʃimaija",
     "audio": {
       "slug": "tsximaija",
@@ -3751,7 +4959,6 @@
     "en": [
       "flea"
     ],
-    "source": "B",
     "original": "tʃimtsa",
     "audio": {
       "slug": "tsximtsa",
@@ -3772,7 +4979,6 @@
     "en": [
       "kiss"
     ],
-    "source": "B",
     "original": "tʃip-tʃippe",
     "audio": {
       "slug": "tsxip_tsxippe",
@@ -3793,7 +4999,6 @@
     "en": [
       "understand"
     ],
-    "source": "B",
     "original": "tʃipaŋ",
     "audio": {
       "slug": "tsxipanx",
@@ -3804,7 +5009,7 @@
   {
     "id": "1061",
     "basay": "ts'ipan'",
-    "category": "06",
+    "category": "24",
     "zh": [
       "無知的，不熟練的"
     ],
@@ -3815,7 +5020,6 @@
     "en": [
       "ignorant, unskillful"
     ],
-    "source": "B",
     "original": "tʃipaŋ",
     "audio": {
       "slug": "tsxipanx",
@@ -3836,7 +5040,6 @@
     "en": [
       "forget"
     ],
-    "source": "B",
     "original": "tʃipaŋ na",
     "audio": {
       "slug": "tsxipanx_na",
@@ -3858,7 +5061,6 @@
     "en": [
       "ignorant"
     ],
-    "source": "B",
     "original": "tʃipaŋ unu-unu",
     "audio": {
       "slug": "tsxipanx_unu_unu",
@@ -3879,7 +5081,6 @@
     "en": [
       "spear"
     ],
-    "source": "B",
     "original": "tʃiul'",
     "audio": {
       "slug": "tsxiulx",
@@ -3900,7 +5101,6 @@
     "en": [
       "one"
     ],
-    "source": "B",
     "original": "tsa",
     "audio": {
       "slug": "tsa",
@@ -3921,7 +5121,6 @@
     "en": [
       "one-hundred"
     ],
-    "source": "B",
     "original": "tsa latsebo",
     "audio": {
       "slug": "tsa_latsebo",
@@ -3939,7 +5138,6 @@
     "en": [
       "day after tomorrow"
     ],
-    "source": "M",
     "original": "tsa u ɮian (M)",
     "audio": {
       "slug": "tsa_u_zxian",
@@ -3957,7 +5155,6 @@
     "en": [
       "one (person, animal, month)"
     ],
-    "source": "T",
     "original": "tsa, uttsa, utsa",
     "audio": {
       "slug": "tsa",
@@ -3975,7 +5172,6 @@
     "en": [
       "who"
     ],
-    "source": "M",
     "original": "tsaai (M), tsay",
     "audio": {
       "slug": "tsaai",
@@ -3996,7 +5192,6 @@
     "en": [
       "this month"
     ],
-    "source": "B",
     "original": "tsabutsan",
     "audio": {
       "slug": "tsabutsan",
@@ -4017,7 +5212,6 @@
     "en": [
       "spade"
     ],
-    "source": "B",
     "original": "tsahu",
     "audio": {
       "slug": "tsahu",
@@ -4038,7 +5232,6 @@
     "en": [
       "who"
     ],
-    "source": "B",
     "original": "tsaikaila",
     "audio": {
       "slug": "tsaikaila",
@@ -4056,7 +5249,6 @@
     "en": [
       "return"
     ],
-    "source": "T",
     "original": "tsakay",
     "audio": {
       "slug": "tsakay",
@@ -4077,7 +5269,6 @@
     "en": [
       "dirt"
     ],
-    "source": "B",
     "original": "tsaki",
     "audio": {
       "slug": "tsaki",
@@ -4095,7 +5286,6 @@
     "en": [
       "rust (to)"
     ],
-    "source": "M",
     "original": "tsaki (M)",
     "audio": {
       "slug": "tsaki",
@@ -4116,7 +5306,6 @@
     "en": [
       "cat"
     ],
-    "source": "B",
     "original": "tsaku",
     "audio": {
       "slug": "tsaku",
@@ -4137,7 +5326,6 @@
     "en": [
       "dig"
     ],
-    "source": "B",
     "original": "tsaku",
     "audio": {
       "slug": "tsaku",
@@ -4155,7 +5343,6 @@
     "en": [
       "anus"
     ],
-    "source": "M",
     "original": "tsakulan (M)",
     "audio": {
       "slug": "tsakulan",
@@ -4176,7 +5363,6 @@
     "en": [
       "wear bamboo hat (to)"
     ],
-    "source": "B",
     "original": "tsakup > tsumakup",
     "audio": {
       "slug": "tsakup_tsumakup",
@@ -4198,7 +5384,6 @@
     "en": [
       "roof (to). roof"
     ],
-    "source": "B",
     "original": "tsakup, tsumakup",
     "audio": {
       "slug": "tsakup",
@@ -4219,7 +5404,6 @@
     "en": [
       "blood"
     ],
-    "source": "B",
     "original": "tsala, <babui a tsala>",
     "audio": {
       "slug": "tsala",
@@ -4240,7 +5424,6 @@
     "en": [
       "one night"
     ],
-    "source": "B",
     "original": "tsalabe",
     "audio": {
       "slug": "tsalabe",
@@ -4261,7 +5444,6 @@
     "en": [
       "yesterday (1) went to the river."
     ],
-    "source": "B",
     "original": "tsalabe, <tsalabe aui ŋapan>",
     "audio": {
       "slug": "tsalabe",
@@ -4282,7 +5464,6 @@
     "en": [
       "bracelet"
     ],
-    "source": "B",
     "original": "tsalin",
     "audio": {
       "slug": "tsalin",
@@ -4293,14 +5474,13 @@
   {
     "id": "2153",
     "basay": "tsanul",
-    "category": "06",
+    "category": "10",
     "zh": [
       "河口"
     ],
     "en": [
       "mouth of river"
     ],
-    "source": "T",
     "original": "tsanul",
     "audio": {
       "slug": "tsanul",
@@ -4322,7 +5502,6 @@
     "en": [
       "pile up (to)"
     ],
-    "source": "B",
     "original": "tsapa",
     "audio": {
       "slug": "tsapa",
@@ -4333,7 +5512,7 @@
   {
     "id": "1041",
     "basay": "tsapa",
-    "category": "06",
+    "category": "25",
     "zh": [
       "扛在肩上"
     ],
@@ -4343,7 +5522,6 @@
     "en": [
       "carry on shoulder (to)"
     ],
-    "source": "B",
     "original": "tsapa",
     "audio": {
       "slug": "tsapa",
@@ -4364,7 +5542,6 @@
     "en": [
       "trousers"
     ],
-    "source": "B",
     "original": "tsapa",
     "audio": {
       "slug": "tsapa",
@@ -4382,7 +5559,6 @@
     "en": [
       "hold in one's arms"
     ],
-    "source": "T",
     "original": "tsapa",
     "audio": {
       "slug": "tsapa",
@@ -4400,7 +5576,6 @@
     "en": [
       "approach"
     ],
-    "source": "T",
     "original": "tsapəɮ, tsapətsapəɮ, tsapriatawan",
     "audio": {
       "slug": "tsapoxzx",
@@ -4418,7 +5593,6 @@
     "en": [
       "next"
     ],
-    "source": "T",
     "original": "tsaprisi",
     "audio": {
       "slug": "tsaprisi",
@@ -4436,7 +5610,6 @@
     "en": [
       "smelly, liar"
     ],
-    "source": "M",
     "original": "tsaqoŋqoŋa (M)",
     "audio": {
       "slug": "tsaqonxqonxa",
@@ -4454,7 +5627,6 @@
     "en": [
       "roof"
     ],
-    "source": "M",
     "original": "tsaquy(M)",
     "audio": {
       "slug": "tsaquy",
@@ -4475,7 +5647,6 @@
     "en": [
       "insert flower (to)"
     ],
-    "source": "B",
     "original": "tsaru",
     "audio": {
       "slug": "tsaru",
@@ -4496,7 +5667,6 @@
     "en": [
       "wave"
     ],
-    "source": "B",
     "original": "tsatʃin",
     "audio": {
       "slug": "tsatsxin",
@@ -4517,7 +5687,6 @@
     "en": [
       "road"
     ],
-    "source": "B",
     "original": "tsatsan",
     "audio": {
       "slug": "tsatsan",
@@ -4539,7 +5708,6 @@
     "en": [
       "road, stairway"
     ],
-    "source": "B",
     "original": "tsatsan",
     "audio": {
       "slug": "tsatsan",
@@ -4557,7 +5725,6 @@
     "en": [
       "road"
     ],
-    "source": "M",
     "original": "tsatsan (M)",
     "audio": {
       "slug": "tsatsan",
@@ -4568,14 +5735,13 @@
   {
     "id": "2160",
     "basay": "tsatsaq(o')",
-    "category": "06",
+    "category": "07",
     "zh": [
       "紅狗 (應指黃紅紅狗)"
     ],
     "en": [
       "red dog"
     ],
-    "source": "M",
     "original": "tsatsaq(ə) (M)",
     "audio": {
       "slug": "tsatsaq_ox",
@@ -4593,7 +5759,6 @@
     "en": [
       "fear"
     ],
-    "source": "S",
     "original": "tsatsaw (S)",
     "audio": {
       "slug": "tsatsaw",
@@ -4604,14 +5769,13 @@
   {
     "id": "2162",
     "basay": "tsatsawe",
-    "category": "06",
+    "category": "25",
     "zh": [
       "伸手勾"
     ],
     "en": [
       "reach out"
     ],
-    "source": "T",
     "original": "tsatsawe",
     "audio": {
       "slug": "tsatsawe",
@@ -4629,7 +5793,6 @@
     "en": [
       "sea, ocean, wave"
     ],
-    "source": "T",
     "original": "tsatsin",
     "audio": {
       "slug": "tsatsin",
@@ -4650,7 +5813,6 @@
     "en": [
       "weigh (to)"
     ],
-    "source": "B",
     "original": "tsatsui",
     "audio": {
       "slug": "tsatsui",
@@ -4661,14 +5823,13 @@
   {
     "id": "2165",
     "basay": "tsatsujan",
-    "category": "01",
+    "category": "14",
     "zh": [
       "平衡"
     ],
     "en": [
       "balance"
     ],
-    "source": "M",
     "original": "tsatsujan (M)",
     "audio": {
       "slug": "tsatsujan",
@@ -4689,7 +5850,6 @@
     "en": [
       "balance"
     ],
-    "source": "B",
     "original": "tsatsujen < ian",
     "audio": {
       "slug": "tsatsujen_ian",
@@ -4707,7 +5867,6 @@
     "en": [
       "soon"
     ],
-    "source": "T",
     "original": "tsatsuk",
     "audio": {
       "slug": "tsatsuk",
@@ -4725,7 +5884,6 @@
     "en": [
       "sickle"
     ],
-    "source": "V",
     "original": "tsauki (< Taiwanese) (M)",
     "audio": {
       "slug": "tsauki",
@@ -4746,7 +5904,6 @@
     "en": [
       "head for (to)"
     ],
-    "source": "B",
     "original": "tsawa (?), tsowa",
     "audio": {
       "slug": "tsawa",
@@ -4764,7 +5921,6 @@
     "en": [
       "who"
     ],
-    "source": "T",
     "original": "tsaai (M), tsay",
     "audio": {
       "slug": "tsay",
@@ -4785,7 +5941,6 @@
     "en": [
       "yesterday"
     ],
-    "source": "B",
     "original": "tselap",
     "audio": {
       "slug": "tselap",
@@ -4803,7 +5958,6 @@
     "en": [
       "sun"
     ],
-    "source": "M",
     "original": "tsenal (M)",
     "audio": {
       "slug": "tsenal",
@@ -4824,7 +5978,6 @@
     "en": [
       "sun"
     ],
-    "source": "B",
     "original": "tsenal'、 tseniat",
     "audio": {
       "slug": "tsenalx_tseniat",
@@ -4842,7 +5995,6 @@
     "en": [
       "day"
     ],
-    "source": "T",
     "original": "tsian",
     "audio": {
       "slug": "tsian",
@@ -4860,7 +6012,6 @@
     "en": [
       "stab, stick"
     ],
-    "source": "M",
     "original": "tsikka (M)",
     "audio": {
       "slug": "tsikka",
@@ -4878,7 +6029,6 @@
     "en": [
       "tear (to)"
     ],
-    "source": "T",
     "original": "tsilitsilian",
     "audio": {
       "slug": "tsilitsilian",
@@ -4899,7 +6049,6 @@
     "en": [
       "arm"
     ],
-    "source": "B",
     "original": "tsima",
     "audio": {
       "slug": "tsima",
@@ -4917,7 +6066,6 @@
     "en": [
       "hand"
     ],
-    "source": "T",
     "original": "tsima",
     "audio": {
       "slug": "tsima",
@@ -4935,7 +6083,6 @@
     "en": [
       "very"
     ],
-    "source": "S",
     "original": "tsinpalaa (S)",
     "audio": {
       "slug": "tsinpalaa",
@@ -4953,7 +6100,6 @@
     "en": [
       "forget"
     ],
-    "source": "M",
     "original": "tsipaŋ > marqatsipaŋ (M)",
     "audio": {
       "slug": "tsipanx_marqatsipanx",
@@ -4971,7 +6117,6 @@
     "en": [
       "thunderbolt"
     ],
-    "source": "M",
     "original": "tsitsap (M)",
     "audio": {
       "slug": "tsitsap",
@@ -4989,7 +6134,6 @@
     "en": [
       "thread"
     ],
-    "source": "M",
     "original": "tsitsən (M)",
     "audio": {
       "slug": "tsitsoxn",
@@ -5007,7 +6151,6 @@
     "en": [
       "breast"
     ],
-    "source": "M",
     "original": "tsitsu (M)",
     "audio": {
       "slug": "tsitsu",
@@ -5025,7 +6168,6 @@
     "en": [
       "dirt"
     ],
-    "source": "M",
     "original": "tsjaki (M)",
     "audio": {
       "slug": "tsjaki",
@@ -5043,7 +6185,6 @@
     "en": [
       "many"
     ],
-    "source": "S",
     "original": "tsjamuaza (S)",
     "audio": {
       "slug": "tsjamuaza",
@@ -5064,7 +6205,6 @@
     "en": [
       "wave"
     ],
-    "source": "B",
     "original": "tsjatsjin",
     "audio": {
       "slug": "tsjatsjin",
@@ -5085,7 +6225,6 @@
     "en": [
       "tomb"
     ],
-    "source": "B",
     "original": "tsjepotsjepo",
     "audio": {
       "slug": "tsjepotsjepo",
@@ -5106,7 +6245,6 @@
     "en": [
       "five"
     ],
-    "source": "B",
     "original": "tsjima",
     "audio": {
       "slug": "tsjima",
@@ -5128,7 +6266,6 @@
     "en": [
       "breast. milk"
     ],
-    "source": "B",
     "original": "tsjitsu",
     "audio": {
       "slug": "tsjitsu",
@@ -5149,7 +6286,6 @@
     "en": [
       "bow (& arrow)"
     ],
-    "source": "B",
     "original": "tsju: wuDº",
     "audio": {
       "slug": "tsju_wud",
@@ -5171,7 +6307,6 @@
     "en": [
       "stab, stick"
     ],
-    "source": "B",
     "original": "tska",
     "audio": {
       "slug": "tska",
@@ -5192,7 +6327,6 @@
     "en": [
       "stick (to)"
     ],
-    "source": "B",
     "original": "tsəkka",
     "audio": {
       "slug": "tsoxkka",
@@ -5210,7 +6344,6 @@
     "en": [
       "chop"
     ],
-    "source": "T",
     "original": "tsəktsək. tsumaktsak",
     "audio": {
       "slug": "tsoxktsoxk_tsumaktsak",
@@ -5221,7 +6354,7 @@
   {
     "id": "1053",
     "basay": "tso'n'-tso'n'",
-    "category": "06",
+    "category": "28",
     "zh": [
       "頭痛"
     ],
@@ -5231,7 +6364,6 @@
     "en": [
       "headache"
     ],
-    "source": "B",
     "original": "tsəŋ-tsəŋ",
     "audio": {
       "slug": "tsoxnx_tsoxnx",
@@ -5252,7 +6384,6 @@
     "en": [
       "three"
     ],
-    "source": "B",
     "original": "tsu",
     "audio": {
       "slug": "tsu",
@@ -5273,7 +6404,6 @@
     "en": [
       "two days after tomorrow"
     ],
-    "source": "B",
     "original": "tsu lijen",
     "audio": {
       "slug": "tsu_lijen",
@@ -5291,7 +6421,6 @@
     "en": [
       "wear"
     ],
-    "source": "M",
     "original": "tsuaqai (M)",
     "audio": {
       "slug": "tsuaqai",
@@ -5309,7 +6438,6 @@
     "en": [
       "this, that"
     ],
-    "source": "T",
     "original": "tsuay. tsumuay",
     "audio": {
       "slug": "tsuay_tsumuay",
@@ -5327,7 +6455,6 @@
     "en": [
       "urine"
     ],
-    "source": "M",
     "original": "tsubu (M)",
     "audio": {
       "slug": "tsubu",
@@ -5348,7 +6475,6 @@
     "en": [
       "key"
     ],
-    "source": "B",
     "original": "tsuktsuk",
     "audio": {
       "slug": "tsuktsuk",
@@ -5366,7 +6492,6 @@
     "en": [
       "key, lock"
     ],
-    "source": "M",
     "original": "tsuktsuk (M)",
     "audio": {
       "slug": "tsuktsuk",
@@ -5384,7 +6509,6 @@
     "en": [
       "order"
     ],
-    "source": "T",
     "original": "tsuɭuŋ",
     "audio": {
       "slug": "tsulxunx",
@@ -5395,7 +6519,7 @@
   {
     "id": "1075",
     "basay": "tsulaD' | -t",
-    "category": "06",
+    "category": "24",
     "zh": [
       "信"
     ],
@@ -5405,7 +6529,6 @@
     "en": [
       "letter"
     ],
-    "source": "B",
     "original": "tsulaD', -t (?)",
     "audio": {
       "slug": "tsuladx",
@@ -5423,7 +6546,6 @@
     "en": [
       "work"
     ],
-    "source": "T",
     "original": "tsulaktsakay",
     "audio": {
       "slug": "tsulaktsakay",
@@ -5441,7 +6563,6 @@
     "en": [
       "promise, letter"
     ],
-    "source": "M",
     "original": "tsulal (M)",
     "audio": {
       "slug": "tsulal",
@@ -5463,7 +6584,6 @@
     "en": [
       "letter, write (to)"
     ],
-    "source": "B",
     "original": "tsulat",
     "audio": {
       "slug": "tsulat",
@@ -5484,7 +6604,6 @@
     "en": [
       "dig"
     ],
-    "source": "B",
     "original": "tsumahu",
     "audio": {
       "slug": "tsumahu",
@@ -5502,7 +6621,6 @@
     "en": [
       "walk"
     ],
-    "source": "M",
     "original": "tsumakai (M)",
     "audio": {
       "slug": "tsumakai",
@@ -5523,7 +6641,6 @@
     "en": [
       "arrive"
     ],
-    "source": "B",
     "original": "tsumakai na",
     "audio": {
       "slug": "tsumakai_na",
@@ -5544,7 +6661,6 @@
     "en": [
       "walk (you)"
     ],
-    "source": "B",
     "original": "tsumakatsakai, <isu tsumakatsakai>",
     "audio": {
       "slug": "tsumakatsakai",
@@ -5565,7 +6681,6 @@
     "en": [
       "morning sickness"
     ],
-    "source": "B",
     "original": "tsumakau",
     "audio": {
       "slug": "tsumakau",
@@ -5583,7 +6698,6 @@
     "en": [
       "chop"
     ],
-    "source": "T",
     "original": "tsumaktsak",
     "audio": {
       "slug": "tsumaktsak",
@@ -5601,7 +6715,6 @@
     "en": [
       "walk around"
     ],
-    "source": "T",
     "original": "tsumaktsakay",
     "audio": {
       "slug": "tsumaktsakay",
@@ -5619,7 +6732,6 @@
     "en": [
       "comet"
     ],
-    "source": "M",
     "original": "tsumaktsdkai na burtlan (M)",
     "audio": {
       "slug": "tsumaktsdkai_na_burtlan",
@@ -5637,7 +6749,6 @@
     "en": [
       "dawn"
     ],
-    "source": "T",
     "original": "tsumaɭappa",
     "audio": {
       "slug": "tsumalxappa",
@@ -5655,7 +6766,6 @@
     "en": [
       "write a letter"
     ],
-    "source": "M",
     "original": "tsumalal (M)",
     "audio": {
       "slug": "tsumalal",
@@ -5673,7 +6783,6 @@
     "en": [
       "pinch (to)"
     ],
-    "source": "M",
     "original": "tsumapepet (M)",
     "audio": {
       "slug": "tsumapepet",
@@ -5691,7 +6800,6 @@
     "en": [
       "fill up the crevice"
     ],
-    "source": "M",
     "original": "tsumaptsap (M)",
     "audio": {
       "slug": "tsumaptsap",
@@ -5709,7 +6817,6 @@
     "en": [
       "anxious"
     ],
-    "source": "T",
     "original": "tsumatnaq",
     "audio": {
       "slug": "tsumatnaq",
@@ -5727,7 +6834,6 @@
     "en": [
       "weigh"
     ],
-    "source": "M",
     "original": "tsumatsui (M)",
     "audio": {
       "slug": "tsumatsui",
@@ -5745,7 +6851,6 @@
     "en": [
       "stumping"
     ],
-    "source": "M",
     "original": "tsumawakk(ə)(M)",
     "audio": {
       "slug": "tsumawakk_ox",
@@ -5763,7 +6868,6 @@
     "en": [
       "worry, doubt"
     ],
-    "source": "T",
     "original": "tsumay",
     "audio": {
       "slug": "tsumay",
@@ -5781,7 +6885,6 @@
     "en": [
       "lick"
     ],
-    "source": "M",
     "original": "tsumilam (M)",
     "audio": {
       "slug": "tsumilam",
@@ -5799,7 +6902,6 @@
     "en": [
       "ugly"
     ],
-    "source": "M",
     "original": "tsuminam (M)",
     "audio": {
       "slug": "tsuminam",
@@ -5817,7 +6919,6 @@
     "en": [
       "cry"
     ],
-    "source": "S",
     "original": "tsumisin (S)",
     "audio": {
       "slug": "tsumisin",
@@ -5835,7 +6936,6 @@
     "en": [
       "speculate"
     ],
-    "source": "T",
     "original": "tsumiunata",
     "audio": {
       "slug": "tsumiunata",
@@ -5856,7 +6956,6 @@
     "en": [
       "write (to)"
     ],
-    "source": "B",
     "original": "tsumulat",
     "audio": {
       "slug": "tsumulat",
@@ -5877,7 +6976,6 @@
     "en": [
       "smoke tobacco (to)"
     ],
-    "source": "B",
     "original": "tsumupa",
     "audio": {
       "slug": "tsumupa",
@@ -5898,7 +6996,6 @@
     "en": [
       "smoke tobacco"
     ],
-    "source": "B",
     "original": "tsumupa",
     "audio": {
       "slug": "tsumupa",
@@ -5916,7 +7013,6 @@
     "en": [
       "burn, broil"
     ],
-    "source": "M",
     "original": "tutsik (M), tsumutsikka (M)",
     "audio": {
       "slug": "tsumutsikka",
@@ -5934,7 +7030,6 @@
     "en": [
       "call, riverside"
     ],
-    "source": "T",
     "original": "tsuŋan",
     "audio": {
       "slug": "tsunxan",
@@ -5952,7 +7047,6 @@
     "en": [
       "split"
     ],
-    "source": "T",
     "original": "tsuppe",
     "audio": {
       "slug": "tsuppe",
@@ -5974,7 +7068,6 @@
     "en": [
       "suck (to)"
     ],
-    "source": "B",
     "original": "tsuptsup",
     "audio": {
       "slug": "tsuptsup",
@@ -5992,7 +7085,6 @@
     "en": [
       "leu of deer"
     ],
-    "source": "T",
     "original": "tsupu",
     "audio": {
       "slug": "tsupu",
@@ -6010,7 +7102,6 @@
     "en": [
       "trousers"
     ],
-    "source": "M",
     "original": "tsurukun (M)",
     "audio": {
       "slug": "tsurukun",
@@ -6028,7 +7119,6 @@
     "en": [
       "rin"
     ],
-    "source": "M",
     "original": "tsutsuvaqqa (M)",
     "audio": {
       "slug": "tsutsuvaqqa",
@@ -6046,7 +7136,6 @@
     "en": [
       "order"
     ],
-    "source": "T",
     "original": "tsuɮuŋ",
     "audio": {
       "slug": "tsuzxunx",
@@ -6064,7 +7153,6 @@
     "en": [
       "throw to"
     ],
-    "source": "T",
     "original": "tsuzuan",
     "audio": {
       "slug": "tsuzuan",
@@ -6075,14 +7163,13 @@
   {
     "id": "2211",
     "basay": "tsyulin'",
-    "category": "06",
+    "category": "09",
     "zh": [
       "橡皮"
     ],
     "en": [
       "rubber"
     ],
-    "source": "T",
     "original": "tsyuliŋ",
     "audio": {
       "slug": "tsyulinx",
@@ -6100,7 +7187,6 @@
     "en": [
       "cough"
     ],
-    "source": "M",
     "original": "tuava (M)",
     "audio": {
       "slug": "tuava",
@@ -6121,12 +7207,62 @@
     "en": [
       "needle"
     ],
-    "source": "B",
     "original": "tubu",
     "audio": {
       "slug": "tubu",
       "ipay": "dictionary/audio/ipay/t/tubu.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tubu.mp3"
+    }
+  },
+  {
+    "id": "2657",
+    "basay": "tubuq",
+    "category": "08",
+    "zh": [
+      "植物幼芽"
+    ],
+    "en": [
+      "plant sprout 2106"
+    ],
+    "original": "Cubuq",
+    "audio": {
+      "slug": "tubuq",
+      "ipay": "dictionary/audio/ipay/t/tubuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tubuq.mp3"
+    }
+  },
+  {
+    "id": "2658",
+    "basay": "tugtug",
+    "category": "09",
+    "zh": [
+      "撞擊某物"
+    ],
+    "en": [
+      "hit something against something else 2113"
+    ],
+    "original": "CugCug₁",
+    "audio": {
+      "slug": "tugtug",
+      "ipay": "dictionary/audio/ipay/t/tugtug.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tugtug.mp3"
+    }
+  },
+  {
+    "id": "2659",
+    "basay": "tugtug",
+    "category": "06",
+    "zh": [
+      "頭部碰撞"
+    ],
+    "en": [
+      "knock or bump the head 7931"
+    ],
+    "original": "CugCug₂",
+    "audio": {
+      "slug": "tugtug",
+      "ipay": "dictionary/audio/ipay/t/tugtug.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tugtug.mp3"
     }
   },
   {
@@ -6139,7 +7275,6 @@
     "en": [
       "earth worm"
     ],
-    "source": "V",
     "original": "tukin (< Taiwanese) (M)",
     "audio": {
       "slug": "tukin",
@@ -6157,7 +7292,6 @@
     "en": [
       "shoulder"
     ],
-    "source": "M",
     "original": "tukuaz (M)",
     "audio": {
       "slug": "tukuaz",
@@ -6166,16 +7300,33 @@
     }
   },
   {
+    "id": "2660",
+    "basay": "tukul",
+    "category": "06",
+    "zh": [
+      "蜷縮",
+      "低頭"
+    ],
+    "en": [
+      "huddle, bow the head 5706"
+    ],
+    "original": "Cukul",
+    "audio": {
+      "slug": "tukul",
+      "ipay": "dictionary/audio/ipay/t/tukul.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tukul.mp3"
+    }
+  },
+  {
     "id": "2109",
     "basay": "tul'ian",
-    "category": "06",
+    "category": "19",
     "zh": [
       "鼻笛"
     ],
     "en": [
       "nose flute"
     ],
-    "source": "T",
     "original": "tuɭian",
     "audio": {
       "slug": "tulxian",
@@ -6186,14 +7337,13 @@
   {
     "id": "2110",
     "basay": "tul'nian. tumul'ani",
-    "category": "06",
+    "category": "19",
     "zh": [
       "吹鼻笛"
     ],
     "en": [
       "play nose flute"
     ],
-    "source": "T",
     "original": "tuɭnian. tumuɭani",
     "audio": {
       "slug": "tulxnian_tumulxani",
@@ -6211,7 +7361,6 @@
     "en": [
       "get close"
     ],
-    "source": "T",
     "original": "tuɭpi",
     "audio": {
       "slug": "tulxpi",
@@ -6229,12 +7378,28 @@
     "en": [
       "bone"
     ],
-    "source": "T",
     "original": "tulan",
     "audio": {
       "slug": "tulan",
       "ipay": "dictionary/audio/ipay/t/tulan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tulan.mp3"
+    }
+  },
+  {
+    "id": "2661",
+    "basay": "tuli",
+    "category": "34",
+    "zh": [
+      "聾"
+    ],
+    "en": [
+      "deaf 6917"
+    ],
+    "original": "Culi",
+    "audio": {
+      "slug": "tuli",
+      "ipay": "dictionary/audio/ipay/t/tuli.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tuli.mp3"
     }
   },
   {
@@ -6250,7 +7415,6 @@
     "en": [
       "thumb"
     ],
-    "source": "B",
     "original": "tulis a utsu",
     "audio": {
       "slug": "tulis_a_utsu",
@@ -6272,7 +7436,6 @@
     "en": [
       "toe. finger"
     ],
-    "source": "B",
     "original": "tulisse",
     "audio": {
       "slug": "tulisse",
@@ -6293,7 +7456,6 @@
     "en": [
       "drum"
     ],
-    "source": "B",
     "original": "tuluŋtuŋ",
     "audio": {
       "slug": "tulunxtunx",
@@ -6311,7 +7473,6 @@
     "en": [
       "taste (to)"
     ],
-    "source": "M",
     "original": "tumalam (M)",
     "audio": {
       "slug": "tumalam",
@@ -6322,7 +7483,7 @@
   {
     "id": "1089",
     "basay": "tuman",
-    "category": "05",
+    "category": "14",
     "zh": [
       "村莊名稱"
     ],
@@ -6332,7 +7493,6 @@
     "en": [
       "name of a village"
     ],
-    "source": "B",
     "original": "tuman",
     "audio": {
       "slug": "tuman",
@@ -6353,7 +7513,6 @@
     "en": [
       "downstream"
     ],
-    "source": "B",
     "original": "tuman",
     "audio": {
       "slug": "tuman",
@@ -6374,7 +7533,6 @@
     "en": [
       "worship"
     ],
-    "source": "B",
     "original": "tuman",
     "audio": {
       "slug": "tuman",
@@ -6392,7 +7550,6 @@
     "en": [
       "name of a village"
     ],
-    "source": "M",
     "original": "tuman (M)",
     "audio": {
       "slug": "tuman",
@@ -6413,7 +7570,6 @@
     "en": [
       "worship (to)"
     ],
-    "source": "B",
     "original": "tuman u samiai",
     "audio": {
       "slug": "tuman_u_samiai",
@@ -6431,7 +7587,6 @@
     "en": [
       "cry"
     ],
-    "source": "T",
     "original": "tumaŋits",
     "audio": {
       "slug": "tumanxits",
@@ -6449,7 +7604,6 @@
     "en": [
       "leave behind"
     ],
-    "source": "T",
     "original": "tumanan",
     "audio": {
       "slug": "tumanan",
@@ -6467,7 +7621,6 @@
     "en": [
       "sympathize"
     ],
-    "source": "T",
     "original": "tumasa",
     "audio": {
       "slug": "tumasa",
@@ -6485,7 +7638,6 @@
     "en": [
       "cut trees, wrap"
     ],
-    "source": "T",
     "original": "tumavu",
     "audio": {
       "slug": "tumavu",
@@ -6503,12 +7655,64 @@
     "en": [
       "to ship cargo"
     ],
-    "source": "T",
     "original": "tumavuli",
     "audio": {
       "slug": "tumavuli",
       "ipay": "dictionary/audio/ipay/t/tumavuli.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tumavuli.mp3"
+    }
+  },
+  {
+    "id": "2669",
+    "basay": "tumay",
+    "category": "22",
+    "zh": [
+      "台灣黑熊"
+    ],
+    "en": [
+      "Formosan black bear 6567"
+    ],
+    "original": "Cumay",
+    "audio": {
+      "slug": "tumay",
+      "ipay": "dictionary/audio/ipay/t/tumay.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tumay.mp3"
+    }
+  },
+  {
+    "id": "2670",
+    "basay": "tumek",
+    "category": "34",
+    "zh": [
+      "磨碎",
+      "壓碎"
+    ],
+    "en": [
+      "pulverize; crumble 2118"
+    ],
+    "original": "Cumek",
+    "audio": {
+      "slug": "tumek",
+      "ipay": "dictionary/audio/ipay/t/tumek.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tumek.mp3"
+    }
+  },
+  {
+    "id": "2671",
+    "basay": "tumes",
+    "category": "06",
+    "zh": [
+      "體虱",
+      "衣虱"
+    ],
+    "en": [
+      "clothes louse; body louse 2119"
+    ],
+    "original": "CumeS",
+    "audio": {
+      "slug": "tumes",
+      "ipay": "dictionary/audio/ipay/t/tumes.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tumes.mp3"
     }
   },
   {
@@ -6521,7 +7725,6 @@
     "en": [
       "entrap"
     ],
-    "source": "M",
     "original": "tikas, tumikas (M)",
     "audio": {
       "slug": "tumikas",
@@ -6539,7 +7742,6 @@
     "en": [
       "kick"
     ],
-    "source": "M",
     "original": "tumikzon (M)",
     "audio": {
       "slug": "tumikzon",
@@ -6557,7 +7759,6 @@
     "en": [
       "cloth"
     ],
-    "source": "T",
     "original": "lawa (M), tuminun",
     "audio": {
       "slug": "tuminun",
@@ -6575,7 +7776,6 @@
     "en": [
       "bleed"
     ],
-    "source": "T",
     "original": "tumitsa",
     "audio": {
       "slug": "tumitsa",
@@ -6593,7 +7793,6 @@
     "en": [
       "bite"
     ],
-    "source": "T",
     "original": "klatan, mqalat (M), tumozo",
     "audio": {
       "slug": "tumozo",
@@ -6614,7 +7813,6 @@
     "en": [
       "walk with a cane (to)"
     ],
-    "source": "B",
     "original": "tumuhol'",
     "audio": {
       "slug": "tumuholx",
@@ -6637,7 +7835,6 @@
     "en": [
       "support (to). lean on a stick"
     ],
-    "source": "B",
     "original": "tumuhul'",
     "audio": {
       "slug": "tumuhulx",
@@ -6655,7 +7852,6 @@
     "en": [
       "hall"
     ],
-    "source": "T",
     "original": "tumunaw",
     "audio": {
       "slug": "tumunaw",
@@ -6673,7 +7869,6 @@
     "en": [
       "kiss"
     ],
-    "source": "M",
     "original": "tumunu (M)",
     "audio": {
       "slug": "tumunu",
@@ -6694,7 +7889,6 @@
     "en": [
       "bamboo shoot"
     ],
-    "source": "B",
     "original": "tumusun",
     "audio": {
       "slug": "tumusun",
@@ -6715,7 +7909,6 @@
     "en": [
       "bud (to)"
     ],
-    "source": "B",
     "original": "tumusun",
     "audio": {
       "slug": "tumusun",
@@ -6733,7 +7926,6 @@
     "en": [
       "pour"
     ],
-    "source": "M",
     "original": "tumutoɭo (M)",
     "audio": {
       "slug": "tumutolxo",
@@ -6751,7 +7943,6 @@
     "en": [
       "pluck"
     ],
-    "source": "T",
     "original": "tumutus",
     "audio": {
       "slug": "tumutus",
@@ -6769,7 +7960,6 @@
     "en": [
       "worship"
     ],
-    "source": "M",
     "original": "tumuvan (M)",
     "audio": {
       "slug": "tumuvan",
@@ -6787,7 +7977,6 @@
     "en": [
       "arrive, reach"
     ],
-    "source": "T",
     "original": "tumuɮus, tumuzus",
     "audio": {
       "slug": "tumuzxus",
@@ -6805,7 +7994,6 @@
     "en": [
       "ask"
     ],
-    "source": "T",
     "original": "tumuzu",
     "audio": {
       "slug": "tumuzu",
@@ -6823,12 +8011,62 @@
     "en": [
       "coffin ."
     ],
-    "source": "M",
     "original": "tuŋuran (M)",
     "audio": {
       "slug": "tunxuran",
       "ipay": "dictionary/audio/ipay/t/tunxuran.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tunxuran.mp3"
+    }
+  },
+  {
+    "id": "2678",
+    "basay": "tungtung",
+    "category": "23",
+    "zh": [
+      "發出轟隆聲"
+    ],
+    "en": [
+      "make a booming sound 10559"
+    ],
+    "original": "CuŋCuŋ",
+    "audio": {
+      "slug": "tunxtunx",
+      "ipay": "dictionary/audio/ipay/t/tunxtunx.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tunxtunx.mp3"
+    }
+  },
+  {
+    "id": "2676",
+    "basay": "tunuh",
+    "category": "11",
+    "zh": [
+      "火上烤食物"
+    ],
+    "en": [
+      "roast food over a fire 2122"
+    ],
+    "original": "CuNuh",
+    "audio": {
+      "slug": "tunuh",
+      "ipay": "dictionary/audio/ipay/t/tunuh.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tunuh.mp3"
+    }
+  },
+  {
+    "id": "2677",
+    "basay": "tunuh-an",
+    "category": "27",
+    "zh": [
+      "烘烤"
+    ],
+    "en": [
+      "to roast 2129"
+    ],
+    "original": "CuNuh-an",
+    "audio": {
+      "slug": "tunuh_an",
+      "ipay": "dictionary/audio/ipay/t/tunuh_an.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tunuh_an.mp3"
     }
   },
   {
@@ -6841,7 +8079,6 @@
     "en": [
       "glutinous rice"
     ],
-    "source": "T",
     "original": "tunuzun",
     "audio": {
       "slug": "tunuzun",
@@ -6859,7 +8096,6 @@
     "en": [
       "fall, drop ."
     ],
-    "source": "T",
     "original": "tupiq",
     "audio": {
       "slug": "tupiq",
@@ -6877,7 +8113,6 @@
     "en": [
       "chop"
     ],
-    "source": "T",
     "original": "tupuqan",
     "audio": {
       "slug": "tupuqan",
@@ -6895,12 +8130,29 @@
     "en": [
       "idle"
     ],
-    "source": "M",
     "original": "mvaɭa, tupus (M)",
     "audio": {
       "slug": "tupus",
       "ipay": "dictionary/audio/ipay/t/tupus.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tupus.mp3"
+    }
+  },
+  {
+    "id": "2679",
+    "basay": "tuqelan",
+    "category": "06",
+    "zh": [
+      "髁骨",
+      "魚類以外動物的骨頭"
+    ],
+    "en": [
+      "condylar bone; bone of fauna exclusive of fish 2143"
+    ],
+    "original": "CuqelaN",
+    "audio": {
+      "slug": "tuqelan",
+      "ipay": "dictionary/audio/ipay/t/tuqelan.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tuqelan.mp3"
     }
   },
   {
@@ -6913,7 +8165,6 @@
     "en": [
       "turn around"
     ],
-    "source": "T",
     "original": "tuqinilan",
     "audio": {
       "slug": "tuqinilan",
@@ -6931,12 +8182,80 @@
     "en": [
       "chicken"
     ],
-    "source": "T",
     "original": "tuquqa",
     "audio": {
       "slug": "tuquqa",
       "ipay": "dictionary/audio/ipay/t/tuquqa.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tuquqa.mp3"
+    }
+  },
+  {
+    "id": "2680",
+    "basay": "tuquR",
+    "category": "08",
+    "zh": [
+      "樹種：瑪瑙樹（Bischofia javanica）"
+    ],
+    "en": [
+      "a tree: Bischofia javanica 12726"
+    ],
+    "original": "CuquR",
+    "audio": {
+      "slug": "tuqur",
+      "ipay": "dictionary/audio/ipay/t/tuqur.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tuqur.mp3"
+    }
+  },
+  {
+    "id": "2681",
+    "basay": "turis",
+    "category": "18",
+    "zh": [
+      "刻線"
+    ],
+    "en": [
+      "scratch a line 2146"
+    ],
+    "original": "Curis",
+    "audio": {
+      "slug": "turis",
+      "ipay": "dictionary/audio/ipay/t/turis.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/turis.mp3"
+    }
+  },
+  {
+    "id": "2682",
+    "basay": "tusuR",
+    "category": "34",
+    "zh": [
+      "串聯（如珠子）"
+    ],
+    "en": [
+      "string together, as beads 2149"
+    ],
+    "original": "CuSuR",
+    "audio": {
+      "slug": "tusur",
+      "ipay": "dictionary/audio/ipay/t/tusur.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tusur.mp3"
+    }
+  },
+  {
+    "id": "2683",
+    "basay": "tusuR-en",
+    "category": "18",
+    "zh": [
+      "被串起來",
+      "被穿起來"
+    ],
+    "en": [
+      "be strung, be skewered 2152"
+    ],
+    "original": "CuSuR-en",
+    "audio": {
+      "slug": "tusur_en",
+      "ipay": "dictionary/audio/ipay/t/tusur_en.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tusur_en.mp3"
     }
   },
   {
@@ -6949,7 +8268,6 @@
     "en": [
       "burn, broil"
     ],
-    "source": "M",
     "original": "tutsik (M), tsumutsikka (M)",
     "audio": {
       "slug": "tutsik",
@@ -6967,7 +8285,6 @@
     "en": [
       "pour"
     ],
-    "source": "T",
     "original": "tutu",
     "audio": {
       "slug": "tutu",
@@ -6978,14 +8295,13 @@
   {
     "id": "2135",
     "basay": "tutus",
-    "category": "06",
+    "category": "32",
     "zh": [
       "禿頭的"
     ],
     "en": [
       "bald"
     ],
-    "source": "M",
     "original": "tutus (M)",
     "audio": {
       "slug": "tutus",
@@ -7003,7 +8319,6 @@
     "en": [
       "force, compel"
     ],
-    "source": "T",
     "original": "tututuan",
     "audio": {
       "slug": "tututuan",
@@ -7021,7 +8336,6 @@
     "en": [
       "mausoleum"
     ],
-    "source": "M",
     "original": "tuvanan u sumiai (M)",
     "audio": {
       "slug": "tuvanan_u_sumiai",
@@ -7039,7 +8353,6 @@
     "en": [
       "last until the next day"
     ],
-    "source": "T",
     "original": "tuvanania",
     "audio": {
       "slug": "tuvanania",
@@ -7057,7 +8370,6 @@
     "en": [
       "next day"
     ],
-    "source": "T",
     "original": "tuvania",
     "audio": {
       "slug": "tuvania",
@@ -7075,7 +8387,6 @@
     "en": [
       "next morning"
     ],
-    "source": "M",
     "original": "tuvanumtaval (M)",
     "audio": {
       "slug": "tuvanumtaval",
@@ -7093,7 +8404,6 @@
     "en": [
       "needle"
     ],
-    "source": "M",
     "original": "tuvu (M)",
     "audio": {
       "slug": "tuvu",
@@ -7111,7 +8421,6 @@
     "en": [
       "sew"
     ],
-    "source": "T",
     "original": "tuvu, tuvutuvu",
     "audio": {
       "slug": "tuvu",
@@ -7129,12 +8438,28 @@
     "en": [
       "say, tell"
     ],
-    "source": "T",
     "original": "tuzuan, tuzuk",
     "audio": {
       "slug": "tuzuan",
       "ipay": "dictionary/audio/ipay/t/tuzuan.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tuzuan.mp3"
+    }
+  },
+  {
+    "id": "2684",
+    "basay": "tuzuq",
+    "category": "06",
+    "zh": [
+      "食指"
+    ],
+    "en": [
+      "index finger 10560"
+    ],
+    "original": "Cuzuq",
+    "audio": {
+      "slug": "tuzuq",
+      "ipay": "dictionary/audio/ipay/t/tuzuq.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tuzuq.mp3"
     }
   },
   {
@@ -7147,7 +8472,6 @@
     "en": [
       "tobacco"
     ],
-    "source": "M",
     "original": "tvaku (M)",
     "audio": {
       "slug": "tvaku",
@@ -7165,7 +8489,6 @@
     "en": [
       "tomorrow"
     ],
-    "source": "M",
     "original": "tvan (M)",
     "audio": {
       "slug": "tvan",
@@ -7183,7 +8506,6 @@
     "en": [
       "ancient"
     ],
-    "source": "T",
     "original": "tɮai, trai (S), trayazay",
     "audio": {
       "slug": "tzxai",
