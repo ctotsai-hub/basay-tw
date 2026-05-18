@@ -9,6 +9,7 @@
     "en": [
       "imperative suffix 3033"
     ],
+    "source": "PAN",
     "original": "-i₁",
     "audio": {
       "slug": "i",
@@ -26,6 +27,7 @@
     "en": [
       "his, her, their (GEN)"
     ],
+    "source": "T",
     "original": "-ia",
     "audio": {
       "slug": "ia",
@@ -43,6 +45,7 @@
     "en": [
       "your (GEN)"
     ],
+    "source": "T",
     "original": "-imu",
     "audio": {
       "slug": "imu",
@@ -60,6 +63,7 @@
     "en": [
       "your (SG, GEN)"
     ],
+    "source": "T",
     "original": "-isu",
     "audio": {
       "slug": "isu",
@@ -77,6 +81,7 @@
     "en": [
       "our (GÊN)"
     ],
+    "source": "T",
     "original": "-ita",
     "audio": {
       "slug": "ita",
@@ -94,6 +99,7 @@
     "en": [
       "perfective marker 2934"
     ],
+    "source": "PAN",
     "original": "<in>",
     "audio": {
       "slug": "in",
@@ -112,6 +118,7 @@
     "en": [
       "exclamation of wonder, disgust, etc. 3029"
     ],
+    "source": "PAN",
     "original": "i₁",
     "audio": {
       "slug": "i",
@@ -129,6 +136,7 @@
     "en": [
       "generic marker of location in space or time 3030"
     ],
+    "source": "PAN",
     "original": "i₂",
     "audio": {
       "slug": "i",
@@ -146,6 +154,7 @@
     "en": [
       "personal article 3031"
     ],
+    "source": "PAN",
     "original": "i₃",
     "audio": {
       "slug": "i",
@@ -164,6 +173,7 @@
     "en": [
       "above, on top 28"
     ],
+    "source": "PAN",
     "original": "i aCas",
     "audio": {
       "slug": "i_atas",
@@ -181,6 +191,7 @@
     "en": [
       "above, on top of 430"
     ],
+    "source": "PAN",
     "original": "i babaw",
     "audio": {
       "slug": "i_babaw",
@@ -198,6 +209,7 @@
     "en": [
       "1sg., I, me 11661"
     ],
+    "source": "PAN",
     "original": "i-aku",
     "audio": {
       "slug": "i_aku",
@@ -215,6 +227,7 @@
     "en": [
       "1pl.ex oblique 12091"
     ],
+    "source": "PAN",
     "original": "i-amen",
     "audio": {
       "slug": "i_amen",
@@ -232,6 +245,7 @@
     "en": [
       "1pl. excl. nominative, we 9703"
     ],
+    "source": "PAN",
     "original": "i-ami",
     "audio": {
       "slug": "i_ami",
@@ -249,6 +263,7 @@
     "en": [
       "2sg., you 9766"
     ],
+    "source": "PAN",
     "original": "i-kaSu",
     "audio": {
       "slug": "i_kasu",
@@ -267,6 +282,7 @@
     "en": [
       "this, here 3679"
     ],
+    "source": "PAN",
     "original": "i-ni",
     "audio": {
       "slug": "i_ni",
@@ -284,6 +300,7 @@
     "en": [
       "place which is unknown or cannot be remembered: where? 3700"
     ],
+    "source": "PAN",
     "original": "i-nu",
     "audio": {
       "slug": "i_nu",
@@ -302,6 +319,7 @@
     "en": [
       "1p deixis and spatial reference: this; here 5635"
     ],
+    "source": "PAN",
     "original": "i-ti",
     "audio": {
       "slug": "i_ti",
@@ -319,6 +337,7 @@
     "en": [
       "that (2p) 2172"
     ],
+    "source": "PAN",
     "original": "i-Cu",
     "audio": {
       "slug": "i_tu",
@@ -338,6 +357,7 @@
     "en": [
       "3sg. personal pronoun: he, she; him, her, it 2785"
     ],
+    "source": "PAN",
     "original": "ia₁",
     "audio": {
       "slug": "ia",
@@ -356,6 +376,7 @@
     "en": [
       "this; here 3680"
     ],
+    "source": "PAN",
     "original": "ia-ni",
     "audio": {
       "slug": "ia_ni",
@@ -373,6 +394,7 @@
     "en": [
       "heaven"
     ],
+    "source": "S",
     "original": "Ian (S)",
     "audio": {
       "slug": "ian",
@@ -391,6 +413,7 @@
     "en": [
       "dwell, reside, live in a place 2775"
     ],
+    "source": "PAN",
     "original": "ian₂",
     "audio": {
       "slug": "ian",
@@ -412,6 +435,7 @@
     "en": [
       "spill over"
     ],
+    "source": "B",
     "original": "Iapoŋpoŋ",
     "audio": {
       "slug": "iaponxponx",
@@ -429,6 +453,7 @@
     "en": [
       "go out"
     ],
+    "source": "M",
     "original": "iasiŋas (M)",
     "audio": {
       "slug": "iasinxas",
@@ -446,6 +471,7 @@
     "en": [
       "night"
     ],
+    "source": "T",
     "original": "Iavi, leania",
     "audio": {
       "slug": "iavi",
@@ -465,6 +491,7 @@
     "en": [
       "companion, close relative, other one 2792"
     ],
+    "source": "PAN",
     "original": "ibaS",
     "audio": {
       "slug": "ibas",
@@ -482,6 +509,7 @@
     "en": [
       "affine of Ego's generation 2814"
     ],
+    "source": "PAN",
     "original": "idas₁",
     "audio": {
       "slug": "idas",
@@ -500,6 +528,7 @@
     "en": [
       "tree, wood, stick"
     ],
+    "source": "T",
     "original": "Iesaw",
     "audio": {
       "slug": "iesaw",
@@ -517,6 +546,7 @@
     "en": [
       "when? 2827"
     ],
+    "source": "PAN",
     "original": "ijan",
     "audio": {
       "slug": "ijan",
@@ -534,6 +564,7 @@
     "en": [
       "to follow 2839"
     ],
+    "source": "PAN",
     "original": "ikuD",
     "audio": {
       "slug": "ikud",
@@ -551,6 +582,7 @@
     "en": [
       "to sit 10690"
     ],
+    "source": "PAN",
     "original": "ikud",
     "audio": {
       "slug": "ikud",
@@ -568,6 +600,7 @@
     "en": [
       "tail 2840"
     ],
+    "source": "PAN",
     "original": "ikuR",
     "audio": {
       "slug": "ikur",
@@ -585,6 +618,7 @@
     "en": [
       "discard"
     ],
+    "source": "T",
     "original": "iɭapus",
     "audio": {
       "slug": "ilxapus",
@@ -602,6 +636,7 @@
     "en": [
       "neck"
     ],
+    "source": "T",
     "original": "ilaqəzan",
     "audio": {
       "slug": "ilaqoxzan",
@@ -619,6 +654,7 @@
     "en": [
       "river channel 2865"
     ],
+    "source": "PAN",
     "original": "iluR₂",
     "audio": {
       "slug": "ilur",
@@ -636,6 +672,7 @@
     "en": [
       "who? 6624"
     ],
+    "source": "PAN",
     "original": "ima",
     "audio": {
       "slug": "ima",
@@ -653,6 +690,7 @@
     "en": [
       "drink 12644"
     ],
+    "source": "PAN",
     "original": "imah",
     "audio": {
       "slug": "imah",
@@ -670,6 +708,7 @@
     "en": [
       "you (OBL)"
     ],
+    "source": "T",
     "original": "imuanan",
     "audio": {
       "slug": "imuanan",
@@ -688,6 +727,7 @@
     "en": [
       "that which has been taken; was taken by 104"
     ],
+    "source": "PAN",
     "original": "in-alap",
     "audio": {
       "slug": "in_alap",
@@ -706,6 +746,7 @@
     "en": [
       "mother, mother's sister 2887"
     ],
+    "source": "PAN",
     "original": "ina",
     "audio": {
       "slug": "ina",
@@ -723,6 +764,7 @@
     "en": [
       "thin (of material objects) 5341"
     ],
+    "source": "PAN",
     "original": "iŋ(e)pis",
     "audio": {
       "slug": "inx_e_pis",
@@ -740,6 +782,7 @@
     "en": [
       "wooden rice mortar 3060"
     ],
+    "source": "PAN",
     "original": "iŋsuŋ",
     "audio": {
       "slug": "inxsunx",
@@ -758,6 +801,7 @@
     "en": [
       "negative marker: no, not 6638"
     ],
+    "source": "PAN",
     "original": "ini",
     "audio": {
       "slug": "ini",
@@ -775,6 +819,7 @@
     "en": [
       "where? 2930"
     ],
+    "source": "PAN",
     "original": "inu",
     "audio": {
       "slug": "inu",
@@ -792,6 +837,7 @@
     "en": [
       "where"
     ],
+    "source": "T",
     "original": "inu, inuna",
     "audio": {
       "slug": "inu",
@@ -810,6 +856,7 @@
     "en": [
       "mother, mother's sister (address, vocative) 2896"
     ],
+    "source": "PAN",
     "original": "iná-q",
     "audio": {
       "slug": "in_q",
@@ -829,6 +876,7 @@
     "en": [
       "near, come near; edge, border 2941"
     ],
+    "source": "PAN",
     "original": "ipit",
     "audio": {
       "slug": "ipit",
@@ -846,6 +894,7 @@
     "en": [
       "endure, put up with"
     ],
+    "source": "M",
     "original": "ipzi (M), sul",
     "audio": {
       "slug": "ipzi",
@@ -863,6 +912,7 @@
     "en": [
       "thresh with the feet (as rice) 2956"
     ],
+    "source": "PAN",
     "original": "iRik",
     "audio": {
       "slug": "irik",
@@ -880,6 +930,7 @@
     "en": [
       "one 2965"
     ],
+    "source": "PAN",
     "original": "isa₁",
     "audio": {
       "slug": "isa",
@@ -899,6 +950,7 @@
     "en": [
       "distributive; one-by-one, one at a time 2969"
     ],
+    "source": "PAN",
     "original": "isa isa",
     "audio": {
       "slug": "isa_isa",
@@ -916,6 +968,7 @@
     "en": [
       "the remaining one 2968"
     ],
+    "source": "PAN",
     "original": "isa-ŋa",
     "audio": {
       "slug": "isa_nxa",
@@ -933,6 +986,7 @@
     "en": [
       "waist"
     ],
+    "source": "T",
     "original": "isavutan",
     "audio": {
       "slug": "isavutan",
@@ -950,6 +1004,7 @@
     "en": [
       "sweet wine"
     ],
+    "source": "S",
     "original": "ise (S)",
     "audio": {
       "slug": "ise",
@@ -968,6 +1023,7 @@
     "en": [
       "urine, urinate 2978"
     ],
+    "source": "PAN",
     "original": "iSeq",
     "audio": {
       "slug": "iseq",
@@ -991,6 +1047,7 @@
     "en": [
       "flesh (of humans, animals, fruits, tubers); contents; blade of a knife; inhabitants, residents 2985"
     ],
+    "source": "PAN",
     "original": "isi₅",
     "audio": {
       "slug": "isi",
@@ -1008,6 +1065,7 @@
     "en": [
       "doctor"
     ],
+    "source": "V",
     "original": "isiŋ (< Taiwanese)",
     "audio": {
       "slug": "isinx",
@@ -1026,6 +1084,7 @@
     "en": [
       "urine, urinate 2980"
     ],
+    "source": "PAN",
     "original": "iSiq",
     "audio": {
       "slug": "isiq",
@@ -1046,6 +1105,7 @@
     "en": [
       "your"
     ],
+    "source": "B",
     "original": "isu",
     "audio": {
       "slug": "isu",
@@ -1066,6 +1126,7 @@
     "en": [
       "you"
     ],
+    "source": "B",
     "original": "isu",
     "audio": {
       "slug": "isu",
@@ -1083,6 +1144,7 @@
     "en": [
       "2sg. personal pronoun: you 2999"
     ],
+    "source": "PAN",
     "original": "iSu",
     "audio": {
       "slug": "isu",
@@ -1103,6 +1165,7 @@
     "en": [
       "medicine"
     ],
+    "source": "B",
     "original": "isu, <isu kuman u laŋ>",
     "audio": {
       "slug": "isu",
@@ -1120,6 +1183,7 @@
     "en": [
       "you (SG, OBL)"
     ],
+    "source": "T",
     "original": "isuanan",
     "audio": {
       "slug": "isuanan",
@@ -1137,6 +1201,7 @@
     "en": [
       "stay"
     ],
+    "source": "T",
     "original": "ita",
     "audio": {
       "slug": "ita",
@@ -1154,6 +1219,7 @@
     "en": [
       "we (incl.) 3004"
     ],
+    "source": "PAN",
     "original": "ita₁",
     "audio": {
       "slug": "ita",
@@ -1171,6 +1237,7 @@
     "en": [
       "1p plural absolute possessive pronoun: ours (incl.) 3008"
     ],
+    "source": "PAN",
     "original": "iten",
     "audio": {
       "slug": "iten",
@@ -1188,6 +1255,7 @@
     "en": [
       "we (incl.) 7699"
     ],
+    "source": "PAN",
     "original": "iten₃",
     "audio": {
       "slug": "iten",
@@ -1205,6 +1273,7 @@
     "en": [
       "below, down"
     ],
+    "source": "T",
     "original": "ituman, tuman",
     "audio": {
       "slug": "ituman",
@@ -1225,6 +1294,7 @@
     "en": [
       "I"
     ],
+    "source": "B",
     "original": "iu",
     "audio": {
       "slug": "iu",
@@ -1242,6 +1312,7 @@
     "en": [
       "medicine, drug"
     ],
+    "source": "V",
     "original": "iu (< Taiwanese)",
     "audio": {
       "slug": "iu",
@@ -1259,6 +1330,7 @@
     "en": [
       "citrus fruit (both orange and pomelo?) 7372"
     ],
+    "source": "PAN",
     "original": "iuk",
     "audio": {
       "slug": "iuk",
@@ -1276,6 +1348,7 @@
     "en": [
       "above"
     ],
+    "source": "T",
     "original": "ivavaŋ",
     "audio": {
       "slug": "ivavanx",
@@ -1293,6 +1366,7 @@
     "en": [
       "drag"
     ],
+    "source": "T",
     "original": "Ivilvisan",
     "audio": {
       "slug": "ivilvisan",
@@ -1310,6 +1384,7 @@
     "en": [
       "get here ."
     ],
+    "source": "T",
     "original": "izaay",
     "audio": {
       "slug": "izaay",
@@ -1327,6 +1402,7 @@
     "en": [
       "hang"
     ],
+    "source": "T",
     "original": "izawitian",
     "audio": {
       "slug": "izawitian",
@@ -1344,6 +1420,7 @@
     "en": [
       "body"
     ],
+    "source": "T",
     "original": "izip",
     "audio": {
       "slug": "izip",

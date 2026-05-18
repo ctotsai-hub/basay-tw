@@ -9,6 +9,7 @@
     "en": [
       "wine"
     ],
+    "source": "T",
     "original": "ɭaaq",
     "audio": {
       "slug": "lxaaq",
@@ -26,6 +27,7 @@
     "en": [
       "wander"
     ],
+    "source": "T",
     "original": "ɭainiaɭmaɭin, ɭaman (S)",
     "audio": {
       "slug": "lxainialxmalxin",
@@ -43,6 +45,7 @@
     "en": [
       "path of rice field"
     ],
+    "source": "T",
     "original": "ɭairuruna, rurun",
     "audio": {
       "slug": "lxairuruna",
@@ -60,6 +63,7 @@
     "en": [
       "sail, put out to sea"
     ],
+    "source": "M",
     "original": "ɭajaɭ vawa (M), yawale",
     "audio": {
       "slug": "lxajalx_vawa",
@@ -77,6 +81,7 @@
     "en": [
       "neck,throat"
     ],
+    "source": "M",
     "original": "ɭak(w)zaan (M)",
     "audio": {
       "slug": "lxak_w_zaan",
@@ -94,6 +99,7 @@
     "en": [
       "bowl, basin"
     ],
+    "source": "M",
     "original": "ɭakop (M)",
     "audio": {
       "slug": "lxakop",
@@ -113,6 +119,7 @@
     "en": [
       "nodding of tlie head"
     ],
+    "source": "M",
     "original": "ɭakuku (M)",
     "audio": {
       "slug": "lxakuku",
@@ -130,6 +137,7 @@
     "en": [
       "cicada, earth worm"
     ],
+    "source": "M",
     "original": "ɭaɭai (M)",
     "audio": {
       "slug": "lxalxai",
@@ -147,6 +155,7 @@
     "en": [
       "on your own"
     ],
+    "source": "T",
     "original": "ɭaɭauku",
     "audio": {
       "slug": "lxalxauku",
@@ -164,6 +173,7 @@
     "en": [
       "oyster, clam"
     ],
+    "source": "T",
     "original": "ɭama",
     "audio": {
       "slug": "lxama",
@@ -181,6 +191,7 @@
     "en": [
       "wander"
     ],
+    "source": "S",
     "original": "ɭainiaɭmaɭin, ɭaman (S)",
     "audio": {
       "slug": "lxaman",
@@ -198,6 +209,7 @@
     "en": [
       "straw"
     ],
+    "source": "M",
     "original": "ɭame (M)",
     "audio": {
       "slug": "lxame",
@@ -215,6 +227,7 @@
     "en": [
       "mix"
     ],
+    "source": "M",
     "original": "ɭamsan (M)",
     "audio": {
       "slug": "lxamsan",
@@ -232,6 +245,7 @@
     "en": [
       "beg"
     ],
+    "source": "T",
     "original": "ɭapunu, pabɭa, pabuɭa (S)",
     "audio": {
       "slug": "lxapunu",
@@ -249,6 +263,7 @@
     "en": [
       "people"
     ],
+    "source": "T",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "lxaqi",
@@ -266,6 +281,7 @@
     "en": [
       "sweep"
     ],
+    "source": "T",
     "original": "ɭasɭasiq",
     "audio": {
       "slug": "lxaslxasiq",
@@ -283,6 +299,7 @@
     "en": [
       "tail"
     ],
+    "source": "M",
     "original": "ɭeqol (M)",
     "audio": {
       "slug": "lxeqol",
@@ -300,6 +317,7 @@
     "en": [
       "agates (golden, long, thin)"
     ],
+    "source": "T",
     "original": "ɭikiɭikka",
     "audio": {
       "slug": "lxikilxikka",
@@ -317,6 +335,7 @@
     "en": [
       "eel"
     ],
+    "source": "M",
     "original": "ɭiŋai (M)",
     "audio": {
       "slug": "lxinxai",
@@ -334,6 +353,7 @@
     "en": [
       "whirl of hair on the head"
     ],
+    "source": "M",
     "original": "ɭisusan (M)",
     "audio": {
       "slug": "lxisusan",
@@ -351,6 +371,7 @@
     "en": [
       "measure, scale"
     ],
+    "source": "M",
     "original": "ɭoqol (M)",
     "audio": {
       "slug": "lxoqol",
@@ -369,6 +390,7 @@
     "en": [
       "to dive, swim under water 11646"
     ],
+    "source": "PAN",
     "original": "l<um>edep",
     "audio": {
       "slug": "l_um_edep",
@@ -387,6 +409,7 @@
     "en": [
       "to bury, place in a pit or hole 7314"
     ],
+    "source": "PAN",
     "original": "l<um>ubaŋ",
     "audio": {
       "slug": "l_um_ubanx",
@@ -404,6 +427,7 @@
     "en": [
       "to spit 11782"
     ],
+    "source": "PAN",
     "original": "l<um>udaq",
     "audio": {
       "slug": "l_um_udaq",
@@ -421,6 +445,7 @@
     "en": [
       "curved, bowed 3390"
     ],
+    "source": "PAN",
     "original": "la(n)tuk",
     "audio": {
       "slug": "la_n_tuk",
@@ -439,6 +464,7 @@
     "en": [
       "five (in counting people) 7390"
     ],
+    "source": "PAN",
     "original": "la-lima",
     "audio": {
       "slug": "la_lima",
@@ -460,6 +486,7 @@
     "en": [
       "cogon grass"
     ],
+    "source": "B",
     "original": "la?ese",
     "audio": {
       "slug": "la_ese",
@@ -480,6 +507,7 @@
     "en": [
       "resemble (not)"
     ],
+    "source": "B",
     "original": "labasse",
     "audio": {
       "slug": "labasse",
@@ -500,6 +528,7 @@
     "en": [
       "ten"
     ],
+    "source": "B",
     "original": "labatan",
     "audio": {
       "slug": "labatan",
@@ -517,6 +546,7 @@
     "en": [
       "rat 8172"
     ],
+    "source": "PAN",
     "original": "labaw₁",
     "audio": {
       "slug": "labaw",
@@ -537,6 +567,7 @@
     "en": [
       "night"
     ],
+    "source": "B",
     "original": "labe",
     "audio": {
       "slug": "labe",
@@ -557,6 +588,7 @@
     "en": [
       "next morning"
     ],
+    "source": "B",
     "original": "labe-labe",
     "audio": {
       "slug": "labe_labe",
@@ -580,6 +612,7 @@
     "en": [
       "morning. next morning"
     ],
+    "source": "B",
     "original": "labe-labe, <labe-labe sumai>",
     "audio": {
       "slug": "labe_labe",
@@ -600,6 +633,7 @@
     "en": [
       "night falls"
     ],
+    "source": "B",
     "original": "labenaita",
     "audio": {
       "slug": "labenaita",
@@ -621,6 +655,7 @@
     "en": [
       "evening. get evening"
     ],
+    "source": "B",
     "original": "labenaita",
     "audio": {
       "slug": "labenaita",
@@ -639,6 +674,7 @@
     "en": [
       "roam freely, of domesticated animals that are untethered 11771"
     ],
+    "source": "PAN",
     "original": "labeR₂",
     "audio": {
       "slug": "laber",
@@ -656,6 +692,7 @@
     "en": [
       "excess, surplus 8759"
     ],
+    "source": "PAN",
     "original": "labiq",
     "audio": {
       "slug": "labiq",
@@ -676,6 +713,7 @@
     "en": [
       "inside in the house"
     ],
+    "source": "B",
     "original": "labu",
     "audio": {
       "slug": "labu",
@@ -696,6 +734,7 @@
     "en": [
       "inside"
     ],
+    "source": "B",
     "original": "labu",
     "audio": {
       "slug": "labu",
@@ -718,6 +757,7 @@
     "en": [
       "boi. boil over"
     ],
+    "source": "B",
     "original": "labuŋbuŋ",
     "audio": {
       "slug": "labunxbunx",
@@ -735,6 +775,7 @@
     "en": [
       "cogon grass"
     ],
+    "source": "M",
     "original": "laes (M)",
     "audio": {
       "slug": "laes",
@@ -755,6 +796,7 @@
     "en": [
       "cogongrass"
     ],
+    "source": "B",
     "original": "laese",
     "audio": {
       "slug": "laese",
@@ -775,6 +817,7 @@
     "en": [
       "roap (??), rope"
     ],
+    "source": "B",
     "original": "laetse",
     "audio": {
       "slug": "laetse",
@@ -795,6 +838,7 @@
     "en": [
       "throat"
     ],
+    "source": "B",
     "original": "laha",
     "audio": {
       "slug": "laha",
@@ -815,6 +859,7 @@
     "en": [
       "throat"
     ],
+    "source": "B",
     "original": "laha",
     "audio": {
       "slug": "laha",
@@ -836,6 +881,7 @@
     "en": [
       "if, perhaps"
     ],
+    "source": "B",
     "original": "lahai",
     "audio": {
       "slug": "lahai",
@@ -856,6 +902,7 @@
     "en": [
       "cough"
     ],
+    "source": "B",
     "original": "lahe",
     "audio": {
       "slug": "lahe",
@@ -876,6 +923,7 @@
     "en": [
       "cough"
     ],
+    "source": "B",
     "original": "lahe",
     "audio": {
       "slug": "lahe",
@@ -896,6 +944,7 @@
     "en": [
       "your dog, others' dog"
     ],
+    "source": "B",
     "original": "lahete uatsu",
     "audio": {
       "slug": "lahete_uatsu",
@@ -917,6 +966,7 @@
     "en": [
       "coarse"
     ],
+    "source": "B",
     "original": "lahihite",
     "audio": {
       "slug": "lahihite",
@@ -939,6 +989,7 @@
       "support (to)",
       "embrace"
     ],
+    "source": "B",
     "original": "laho",
     "audio": {
       "slug": "laho",
@@ -959,6 +1010,7 @@
     "en": [
       "hold with hand"
     ],
+    "source": "B",
     "original": "laho",
     "audio": {
       "slug": "laho",
@@ -977,6 +1029,7 @@
     "en": [
       "downstream, toward the sea 7039"
     ],
+    "source": "PAN",
     "original": "lahud",
     "audio": {
       "slug": "lahud",
@@ -995,6 +1048,7 @@
     "en": [
       "steam, vapor 8156"
     ],
+    "source": "PAN",
     "original": "lahuN",
     "audio": {
       "slug": "lahun",
@@ -1015,6 +1069,7 @@
     "en": [
       "die (to)"
     ],
+    "source": "B",
     "original": "laila, malaila. manalau",
     "audio": {
       "slug": "laila",
@@ -1035,6 +1090,7 @@
     "en": [
       "kill pigs"
     ],
+    "source": "B",
     "original": "laila. <pakalaila babui>",
     "audio": {
       "slug": "laila",
@@ -1052,6 +1108,7 @@
     "en": [
       "cheek"
     ],
+    "source": "M",
     "original": "laisa (M)",
     "audio": {
       "slug": "laisa",
@@ -1072,6 +1129,7 @@
     "en": [
       "cheek"
     ],
+    "source": "B",
     "original": "laise",
     "audio": {
       "slug": "laise",
@@ -1092,6 +1150,7 @@
     "en": [
       "face"
     ],
+    "source": "B",
     "original": "laise",
     "audio": {
       "slug": "laise",
@@ -1112,6 +1171,7 @@
     "en": [
       "search"
     ],
+    "source": "B",
     "original": "laittse",
     "audio": {
       "slug": "laittse",
@@ -1130,6 +1190,7 @@
     "en": [
       "familiar with, accustomed to 7492"
     ],
+    "source": "PAN",
     "original": "lajam",
     "audio": {
       "slug": "lajam",
@@ -1147,6 +1208,7 @@
     "en": [
       "pan"
     ],
+    "source": "M",
     "original": "lajan (M)",
     "audio": {
       "slug": "lajan",
@@ -1167,6 +1229,7 @@
     "en": [
       "railing of the bed"
     ],
+    "source": "B",
     "original": "lakal a nituŋul",
     "audio": {
       "slug": "lakal_a_nitunxul",
@@ -1187,6 +1250,7 @@
     "en": [
       "bed"
     ],
+    "source": "B",
     "original": "lakal'",
     "audio": {
       "slug": "lakalx",
@@ -1207,6 +1271,7 @@
     "en": [
       "bed"
     ],
+    "source": "B",
     "original": "lakar <lilakar>",
     "audio": {
       "slug": "lakar",
@@ -1225,6 +1290,7 @@
     "en": [
       "walk, take a step 11755"
     ],
+    "source": "PAN",
     "original": "lakat₂",
     "audio": {
       "slug": "lakat",
@@ -1245,6 +1311,7 @@
     "en": [
       "sleeping"
     ],
+    "source": "B",
     "original": "lakau",
     "audio": {
       "slug": "lakau",
@@ -1265,6 +1332,7 @@
     "en": [
       "snore"
     ],
+    "source": "B",
     "original": "lakau",
     "audio": {
       "slug": "lakau",
@@ -1287,6 +1355,7 @@
     "en": [
       "wrinkle, economize"
     ],
+    "source": "B",
     "original": "lakikite",
     "audio": {
       "slug": "lakikite",
@@ -1309,6 +1378,7 @@
     "en": [
       "curly hair. wretched hovel"
     ],
+    "source": "B",
     "original": "lakikitte",
     "audio": {
       "slug": "lakikitte",
@@ -1329,6 +1399,7 @@
     "en": [
       "dirty"
     ],
+    "source": "B",
     "original": "lakoŋkoŋ",
     "audio": {
       "slug": "lakonxkonx",
@@ -1349,6 +1420,7 @@
     "en": [
       "slovenly man"
     ],
+    "source": "B",
     "original": "lakonko",
     "audio": {
       "slug": "lakonko",
@@ -1366,6 +1438,7 @@
     "en": [
       "leave"
     ],
+    "source": "T",
     "original": "laktiw, naktiw",
     "audio": {
       "slug": "laktiw",
@@ -1387,6 +1460,7 @@
     "en": [
       "bowl, basin"
     ],
+    "source": "B",
     "original": "lakub",
     "audio": {
       "slug": "lakub",
@@ -1407,6 +1481,7 @@
     "en": [
       "cauldron"
     ],
+    "source": "B",
     "original": "lakup",
     "audio": {
       "slug": "lakup",
@@ -1424,6 +1499,7 @@
     "en": [
       "cover, wrapping 7872"
     ],
+    "source": "PAN",
     "original": "lakup",
     "audio": {
       "slug": "lakup",
@@ -1444,6 +1520,7 @@
     "en": [
       "pupil"
     ],
+    "source": "B",
     "original": "lalase",
     "audio": {
       "slug": "lalase",
@@ -1464,6 +1541,7 @@
     "en": [
       "die (to)"
     ],
+    "source": "B",
     "original": "lalau, malalau",
     "audio": {
       "slug": "lalau",
@@ -1481,6 +1559,7 @@
     "en": [
       "machete"
     ],
+    "source": "T",
     "original": "lalaw",
     "audio": {
       "slug": "lalaw",
@@ -1498,6 +1577,7 @@
     "en": [
       "cicada 11727"
     ],
+    "source": "PAN",
     "original": "lalay",
     "audio": {
       "slug": "lalay",
@@ -1519,6 +1599,7 @@
     "en": [
       "evening"
     ],
+    "source": "B",
     "original": "laLen",
     "audio": {
       "slug": "lalen",
@@ -1539,6 +1620,7 @@
     "en": [
       "running"
     ],
+    "source": "B",
     "original": "laLeo",
     "audio": {
       "slug": "laleo",
@@ -1559,6 +1641,7 @@
     "en": [
       "retreat"
     ],
+    "source": "B",
     "original": "laLeo",
     "audio": {
       "slug": "laleo",
@@ -1579,6 +1662,7 @@
     "en": [
       "run (to)"
     ],
+    "source": "B",
     "original": "laleo",
     "audio": {
       "slug": "laleo",
@@ -1599,6 +1683,7 @@
     "en": [
       "fountain"
     ],
+    "source": "B",
     "original": "lalibuŋbuŋ",
     "audio": {
       "slug": "lalibunxbunx",
@@ -1619,6 +1704,7 @@
     "en": [
       "coitus"
     ],
+    "source": "B",
     "original": "lalihitin",
     "audio": {
       "slug": "lalihitin",
@@ -1639,6 +1725,7 @@
     "en": [
       "noise (to make)"
     ],
+    "source": "B",
     "original": "lalihowahowa",
     "audio": {
       "slug": "lalihowahowa",
@@ -1660,6 +1747,7 @@
     "en": [
       "languid. weary"
     ],
+    "source": "B",
     "original": "lalisilisi",
     "audio": {
       "slug": "lalisilisi",
@@ -1680,6 +1768,7 @@
     "en": [
       "collide (to)"
     ],
+    "source": "B",
     "original": "lalitompet. tatoŋpet",
     "audio": {
       "slug": "lalitompet_tatonxpet",
@@ -1700,6 +1789,7 @@
     "en": [
       "comet"
     ],
+    "source": "B",
     "original": "laliu na liuse",
     "audio": {
       "slug": "laliu_na_liuse",
@@ -1717,6 +1807,7 @@
     "en": [
       "escape, run away"
     ],
+    "source": "T",
     "original": "laliw, lalaliw",
     "audio": {
       "slug": "laliw",
@@ -1737,6 +1828,7 @@
     "en": [
       "hole"
     ],
+    "source": "B",
     "original": "laloŋ",
     "audio": {
       "slug": "lalonx",
@@ -1754,6 +1846,7 @@
     "en": [
       "people"
     ],
+    "source": "T",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "lalqait",
@@ -1774,6 +1867,7 @@
     "en": [
       "beggar"
     ],
+    "source": "B",
     "original": "lalusse",
     "audio": {
       "slug": "lalusse",
@@ -1794,6 +1888,7 @@
     "en": [
       "beggar"
     ],
+    "source": "B",
     "original": "lalusse, lalussa",
     "audio": {
       "slug": "lalusse",
@@ -1812,6 +1907,7 @@
     "en": [
       "old, former 3343"
     ],
+    "source": "PAN",
     "original": "lama₂",
     "audio": {
       "slug": "lama",
@@ -1832,6 +1928,7 @@
     "en": [
       "straw"
     ],
+    "source": "B",
     "original": "lame",
     "audio": {
       "slug": "lame",
@@ -1849,6 +1946,7 @@
     "en": [
       "root"
     ],
+    "source": "M",
     "original": "lamet (M)",
     "audio": {
       "slug": "lamet",
@@ -1866,6 +1964,7 @@
     "en": [
       "impetuous 3347"
     ],
+    "source": "PAN",
     "original": "lamlam₁",
     "audio": {
       "slug": "lamlam",
@@ -1886,6 +1985,7 @@
     "en": [
       "meet"
     ],
+    "source": "B",
     "original": "lamən (?),namal' (?),namat (??)",
     "audio": {
       "slug": "lamoxn",
@@ -1903,6 +2003,7 @@
     "en": [
       "villager"
     ],
+    "source": "T",
     "original": "lamuan",
     "audio": {
       "slug": "lamuan",
@@ -1920,6 +2021,7 @@
     "en": [
       "villages"
     ],
+    "source": "T",
     "original": "lamulamu",
     "audio": {
       "slug": "lamulamu",
@@ -1941,6 +2043,7 @@
     "en": [
       "liquor. <I drink liquor. >"
     ],
+    "source": "B",
     "original": "laŋ < jaku kuman laŋ>",
     "audio": {
       "slug": "lanx",
@@ -1962,6 +2065,7 @@
     "en": [
       "dry as bones"
     ],
+    "source": "B",
     "original": "laŋ-pete",
     "audio": {
       "slug": "lanx_pete",
@@ -1979,6 +2083,7 @@
     "en": [
       "gold"
     ],
+    "source": "T",
     "original": "laŋas, ɭuŋaŋas",
     "audio": {
       "slug": "lanxas",
@@ -1996,6 +2101,7 @@
     "en": [
       "wealthy, rich"
     ],
+    "source": "T",
     "original": "aŋaɭi, aŋale (S), aŋari, laŋaza",
     "audio": {
       "slug": "lanxaza",
@@ -2013,6 +2119,7 @@
     "en": [
       "rich, wealthy"
     ],
+    "source": "T",
     "original": "laŋaza",
     "audio": {
       "slug": "lanxaza",
@@ -2033,6 +2140,7 @@
     "en": [
       "roast"
     ],
+    "source": "B",
     "original": "laŋpete",
     "audio": {
       "slug": "lanxpete",
@@ -2050,6 +2158,7 @@
     "en": [
       "unpleasant odor 3395"
     ],
+    "source": "PAN",
     "original": "laŋ(e)si",
     "audio": {
       "slug": "lanx_e_si",
@@ -2068,6 +2177,7 @@
     "en": [
       "housefly 7573"
     ],
+    "source": "PAN",
     "original": "laŋaw",
     "audio": {
       "slug": "lanxaw",
@@ -2085,6 +2195,7 @@
     "en": [
       "infested with flies, covered with flies 7576"
     ],
+    "source": "PAN",
     "original": "laŋaw-en",
     "audio": {
       "slug": "lanxaw_en",
@@ -2102,6 +2213,7 @@
     "en": [
       "sky 7528"
     ],
+    "source": "PAN",
     "original": "laŋiC",
     "audio": {
       "slug": "lanxit",
@@ -2120,6 +2232,7 @@
     "en": [
       "vertigo 3393"
     ],
+    "source": "PAN",
     "original": "laŋu",
     "audio": {
       "slug": "lanxu",
@@ -2141,6 +2254,7 @@
     "en": [
       "cottage. hut"
     ],
+    "source": "B",
     "original": "lapai, salapai",
     "audio": {
       "slug": "lapai",
@@ -2164,6 +2278,7 @@
     "en": [
       "twig. bow. seed of fruits (??)"
     ],
+    "source": "B",
     "original": "lapak",
     "audio": {
       "slug": "lapak",
@@ -2181,6 +2296,7 @@
     "en": [
       "to cut up, butcher, slaughter an animal 11425"
     ],
+    "source": "PAN",
     "original": "lapaq",
     "audio": {
       "slug": "lapaq",
@@ -2202,6 +2318,7 @@
     "en": [
       "wrestle. quarrel"
     ],
+    "source": "B",
     "original": "lapatapatai",
     "audio": {
       "slug": "lapatapatai",
@@ -2222,6 +2339,7 @@
     "en": [
       "embrace"
     ],
+    "source": "B",
     "original": "lapatse",
     "audio": {
       "slug": "lapatse",
@@ -2242,6 +2360,7 @@
     "en": [
       "break off"
     ],
+    "source": "B",
     "original": "lapete",
     "audio": {
       "slug": "lapete",
@@ -2262,6 +2381,7 @@
     "en": [
       "near"
     ],
+    "source": "B",
     "original": "lapilapiŋ",
     "audio": {
       "slug": "lapilapinx",
@@ -2282,6 +2402,7 @@
     "en": [
       "near"
     ],
+    "source": "B",
     "original": "lapiŋ",
     "audio": {
       "slug": "lapinx",
@@ -2299,6 +2420,7 @@
     "en": [
       "flying squirrel 6643"
     ],
+    "source": "PAN",
     "original": "lapis",
     "audio": {
       "slug": "lapis",
@@ -2319,6 +2441,7 @@
     "en": [
       "body"
     ],
+    "source": "B",
     "original": "lapite",
     "audio": {
       "slug": "lapite",
@@ -2339,6 +2462,7 @@
     "en": [
       "body"
     ],
+    "source": "B",
     "original": "lapite",
     "audio": {
       "slug": "lapite",
@@ -2358,6 +2482,7 @@
     "en": [
       "loose (as of clothing) 3356"
     ],
+    "source": "PAN",
     "original": "laplap",
     "audio": {
       "slug": "laplap",
@@ -2378,6 +2503,7 @@
     "en": [
       "afterbirth"
     ],
+    "source": "B",
     "original": "lapən",
     "audio": {
       "slug": "lapoxn",
@@ -2395,6 +2521,7 @@
     "en": [
       "house"
     ],
+    "source": "T",
     "original": "lappaw",
     "audio": {
       "slug": "lappaw",
@@ -2415,6 +2542,7 @@
     "en": [
       "bury (to)"
     ],
+    "source": "B",
     "original": "lapuŋ",
     "audio": {
       "slug": "lapunx",
@@ -2432,6 +2560,7 @@
     "en": [
       "toog tree"
     ],
+    "source": "T",
     "original": "lapuŋ",
     "audio": {
       "slug": "lapunx",
@@ -2451,6 +2580,7 @@
     "en": [
       "untie (a knot), undress, remove clothes 12739"
     ],
+    "source": "PAN",
     "original": "lapus",
     "audio": {
       "slug": "lapus",
@@ -2472,6 +2602,7 @@
     "en": [
       "embrace. hold"
     ],
+    "source": "B",
     "original": "laputse",
     "audio": {
       "slug": "laputse",
@@ -2493,6 +2624,7 @@
     "en": [
       "embrace (to).hold"
     ],
+    "source": "B",
     "original": "lapǝl'",
     "audio": {
       "slug": "lap_lx",
@@ -2510,6 +2642,7 @@
     "en": [
       "human being"
     ],
+    "source": "M",
     "original": "laqaita (M)",
     "audio": {
       "slug": "laqaita",
@@ -2527,6 +2660,7 @@
     "en": [
       "get"
     ],
+    "source": "S",
     "original": "laqan (S)",
     "audio": {
       "slug": "laqan",
@@ -2544,6 +2678,7 @@
     "en": [
       "people"
     ],
+    "source": "T",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "laqi",
@@ -2561,6 +2696,7 @@
     "en": [
       "people"
     ],
+    "source": "T",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "laqit",
@@ -2578,6 +2714,7 @@
     "en": [
       "people"
     ],
+    "source": "T",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "laqqox",
@@ -2595,6 +2732,7 @@
     "en": [
       "people"
     ],
+    "source": "S",
     "original": "lalqait, laqi, laqit, laqqə, laqqəlaqi (S), ɭaqi",
     "audio": {
       "slug": "laqqoxlaqi",
@@ -2612,6 +2750,7 @@
     "en": [
       "other place"
     ],
+    "source": "S",
     "original": "laqse (S)",
     "audio": {
       "slug": "laqse",
@@ -2629,6 +2768,7 @@
     "en": [
       "earthen bowl"
     ],
+    "source": "S",
     "original": "laqup (S)",
     "audio": {
       "slug": "laqup",
@@ -2646,6 +2786,7 @@
     "en": [
       "to forbid 3360"
     ],
+    "source": "PAN",
     "original": "laRaŋ",
     "audio": {
       "slug": "laranx",
@@ -2667,6 +2808,7 @@
     "en": [
       "soi. earth"
     ],
+    "source": "B",
     "original": "lariŋ",
     "audio": {
       "slug": "larinx",
@@ -2688,6 +2830,7 @@
     "en": [
       "shrine. mausoleum"
     ],
+    "source": "B",
     "original": "laripuroŋ",
     "audio": {
       "slug": "laripuronx",
@@ -2708,6 +2851,7 @@
     "en": [
       "tired (to get)"
     ],
+    "source": "B",
     "original": "larisirisi",
     "audio": {
       "slug": "larisirisi",
@@ -2727,6 +2871,7 @@
     "en": [
       "run, run away, flee, escape 3361"
     ],
+    "source": "PAN",
     "original": "laRiw",
     "audio": {
       "slug": "lariw",
@@ -2747,6 +2892,7 @@
     "en": [
       "feed of pigs"
     ],
+    "source": "B",
     "original": "laru",
     "audio": {
       "slug": "laru",
@@ -2767,6 +2913,7 @@
     "en": [
       "vegetables of pigs"
     ],
+    "source": "B",
     "original": "lasai",
     "audio": {
       "slug": "lasai",
@@ -2784,6 +2931,7 @@
     "en": [
       "broom"
     ],
+    "source": "M",
     "original": "laseq. mlaseq (M)",
     "audio": {
       "slug": "laseq_mlaseq",
@@ -2806,6 +2954,7 @@
     "en": [
       "eager (always)"
     ],
+    "source": "B",
     "original": "lasu",
     "audio": {
       "slug": "lasu",
@@ -2824,6 +2973,7 @@
     "en": [
       "hot; blistered by heat 11527"
     ],
+    "source": "PAN",
     "original": "lasuq₁",
     "audio": {
       "slug": "lasuq",
@@ -2844,6 +2994,7 @@
     "en": [
       "dwarf"
     ],
+    "source": "B",
     "original": "lata",
     "audio": {
       "slug": "lata",
@@ -2864,6 +3015,7 @@
     "en": [
       "short"
     ],
+    "source": "B",
     "original": "latana",
     "audio": {
       "slug": "latana",
@@ -2882,6 +3034,7 @@
     "en": [
       "stinging nettle: Laportea spp. 7166"
     ],
+    "source": "PAN",
     "original": "laCeŋ",
     "audio": {
       "slug": "latenx",
@@ -2899,6 +3052,7 @@
     "en": [
       "beads, glass ball"
     ],
+    "source": "M",
     "original": "latəŋ (M)",
     "audio": {
       "slug": "latoxnx",
@@ -2919,6 +3073,7 @@
     "en": [
       "fat"
     ],
+    "source": "B",
     "original": "lau",
     "audio": {
       "slug": "lau",
@@ -2940,6 +3095,7 @@
     "en": [
       "loose. big"
     ],
+    "source": "B",
     "original": "lau",
     "audio": {
       "slug": "lau",
@@ -2960,6 +3116,7 @@
     "en": [
       "bamboo basket"
     ],
+    "source": "B",
     "original": "lau a sikam",
     "audio": {
       "slug": "lau_a_sikam",
@@ -2980,6 +3137,7 @@
     "en": [
       "oldest son"
     ],
+    "source": "B",
     "original": "lau, wanakke lau",
     "audio": {
       "slug": "lau",
@@ -3000,6 +3158,7 @@
     "en": [
       "big"
     ],
+    "source": "B",
     "original": "lau. <lau a tau>",
     "audio": {
       "slug": "lau",
@@ -3017,6 +3176,7 @@
     "en": [
       "upland"
     ],
+    "source": "T",
     "original": "lavavaŋ",
     "audio": {
       "slug": "lavavanx",
@@ -3034,6 +3194,7 @@
     "en": [
       "evening, get evening"
     ],
+    "source": "T",
     "original": "lave, lave na (M)",
     "audio": {
       "slug": "lave",
@@ -3051,6 +3212,7 @@
     "en": [
       "evening, get evening"
     ],
+    "source": "M",
     "original": "lave, lave na (M)",
     "audio": {
       "slug": "lave_na",
@@ -3068,6 +3230,7 @@
     "en": [
       "all night"
     ],
+    "source": "M",
     "original": "lavelave (M)",
     "audio": {
       "slug": "lavelave",
@@ -3088,6 +3251,7 @@
     "en": [
       "louse, bird louse"
     ],
+    "source": "B",
     "original": "lawa",
     "audio": {
       "slug": "lawa",
@@ -3105,6 +3269,7 @@
     "en": [
       "cloth"
     ],
+    "source": "M",
     "original": "lawa (M), tuminun",
     "audio": {
       "slug": "lawa",
@@ -3122,6 +3287,7 @@
     "en": [
       "wide 3373"
     ],
+    "source": "PAN",
     "original": "lawa₁",
     "audio": {
       "slug": "lawa",
@@ -3142,6 +3308,7 @@
     "en": [
       "stumping"
     ],
+    "source": "B",
     "original": "lawakke",
     "audio": {
       "slug": "lawakke",
@@ -3160,6 +3327,7 @@
     "en": [
       "spider; spiderweb 8177"
     ],
+    "source": "PAN",
     "original": "lawaq₂",
     "audio": {
       "slug": "lawaq",
@@ -3177,6 +3345,7 @@
     "en": [
       "flying squirrel 6583"
     ],
+    "source": "PAN",
     "original": "lawaR",
     "audio": {
       "slug": "lawar",
@@ -3194,6 +3363,7 @@
     "en": [
       "wide, broad 3371"
     ],
+    "source": "PAN",
     "original": "lawas₁",
     "audio": {
       "slug": "lawas",
@@ -3212,6 +3382,7 @@
     "en": [
       "internode of bamboo; section of something 11643"
     ],
+    "source": "PAN",
     "original": "lawas₃",
     "audio": {
       "slug": "lawas",
@@ -3230,6 +3401,7 @@
     "en": [
       "thread, yarn 11785"
     ],
+    "source": "PAN",
     "original": "laway",
     "audio": {
       "slug": "laway",
@@ -3247,6 +3419,7 @@
     "en": [
       "to fly 3378"
     ],
+    "source": "PAN",
     "original": "layap",
     "audio": {
       "slug": "layap",
@@ -3264,6 +3437,7 @@
     "en": [
       "sail 7409"
     ],
+    "source": "PAN",
     "original": "layaR",
     "audio": {
       "slug": "layar",
@@ -3282,6 +3456,7 @@
     "en": [
       "wither, wilt 7111"
     ],
+    "source": "PAN",
     "original": "layu",
     "audio": {
       "slug": "layu",
@@ -3299,6 +3474,7 @@
     "en": [
       "to bury 7171"
     ],
+    "source": "PAN",
     "original": "lebeŋ₁",
     "audio": {
       "slug": "lebenx",
@@ -3318,6 +3494,7 @@
     "en": [
       "foggy, misty, overcast, gloomy, of weather preceding rain 7256"
     ],
+    "source": "PAN",
     "original": "lebleb₁",
     "audio": {
       "slug": "lebleb",
@@ -3338,6 +3515,7 @@
     "en": [
       "trash"
     ],
+    "source": "B",
     "original": "lebos",
     "audio": {
       "slug": "lebos",
@@ -3358,6 +3536,7 @@
     "en": [
       "root"
     ],
+    "source": "B",
     "original": "lebosse",
     "audio": {
       "slug": "lebosse",
@@ -3378,6 +3557,7 @@
     "en": [
       "grass"
     ],
+    "source": "B",
     "original": "lebosse",
     "audio": {
       "slug": "lebosse",
@@ -3398,6 +3578,7 @@
     "en": [
       "grass"
     ],
+    "source": "B",
     "original": "lebosse",
     "audio": {
       "slug": "lebosse",
@@ -3415,6 +3596,7 @@
     "en": [
       "grass"
     ],
+    "source": "T",
     "original": "lebus",
     "audio": {
       "slug": "lebus",
@@ -3433,6 +3615,7 @@
     "en": [
       "to dive, swim under water 11645"
     ],
+    "source": "PAN",
     "original": "ledep",
     "audio": {
       "slug": "ledep",
@@ -3450,6 +3633,7 @@
     "en": [
       "to rub the eyes 11647"
     ],
+    "source": "PAN",
     "original": "ledled",
     "audio": {
       "slug": "ledled",
@@ -3468,6 +3652,7 @@
     "en": [
       "open, uncover 3452"
     ],
+    "source": "PAN",
     "original": "lekab",
     "audio": {
       "slug": "lekab",
@@ -3491,6 +3676,7 @@
     "en": [
       "curly, winding (river / road)"
     ],
+    "source": "B",
     "original": "lekolkotte",
     "audio": {
       "slug": "lekolkotte",
@@ -3509,6 +3695,7 @@
     "en": [
       "bend; bending part, joint 10897"
     ],
+    "source": "PAN",
     "original": "lekuq₁",
     "audio": {
       "slug": "lekuq",
@@ -3526,6 +3713,7 @@
     "en": [
       "file"
     ],
+    "source": "M",
     "original": "lele(M)",
     "audio": {
       "slug": "lele",
@@ -3543,6 +3731,7 @@
     "en": [
       "forest"
     ],
+    "source": "T",
     "original": "lelesaw",
     "audio": {
       "slug": "lelesaw",
@@ -3563,6 +3752,7 @@
     "en": [
       "bathe"
     ],
+    "source": "B",
     "original": "lelotse",
     "audio": {
       "slug": "lelotse",
@@ -3580,6 +3770,7 @@
     "en": [
       "soft 3412"
     ],
+    "source": "PAN",
     "original": "lemek₁",
     "audio": {
       "slug": "lemek",
@@ -3597,6 +3788,7 @@
     "en": [
       "dark, of weather; overcast 3418"
     ],
+    "source": "PAN",
     "original": "lemlem",
     "audio": {
       "slug": "lemlem",
@@ -3617,6 +3809,7 @@
     "en": [
       "rainbow"
     ],
+    "source": "B",
     "original": "Len saŋajau",
     "audio": {
       "slug": "len_sanxajau",
@@ -3638,6 +3831,7 @@
     "en": [
       "morning. get morning"
     ],
+    "source": "B",
     "original": "Lennaita",
     "audio": {
       "slug": "lennaita",
@@ -3655,6 +3849,7 @@
     "en": [
       "hut 3423"
     ],
+    "source": "PAN",
     "original": "lepaw₁",
     "audio": {
       "slug": "lepaw",
@@ -3672,6 +3867,7 @@
     "en": [
       "forest"
     ],
+    "source": "M",
     "original": "lesamu tuma (M)",
     "audio": {
       "slug": "lesamu_tuma",
@@ -3693,6 +3889,7 @@
     "en": [
       "tree, wood"
     ],
+    "source": "B",
     "original": "lesau",
     "audio": {
       "slug": "lesau",
@@ -3713,6 +3910,7 @@
     "en": [
       "ivy"
     ],
+    "source": "B",
     "original": "lesau wawai",
     "audio": {
       "slug": "lesau_wawai",
@@ -3733,6 +3931,7 @@
     "en": [
       "grass"
     ],
+    "source": "B",
     "original": "lesosse",
     "audio": {
       "slug": "lesosse",
@@ -3751,6 +3950,7 @@
     "en": [
       "fly off, of solid bits or water droplets 3404"
     ],
+    "source": "PAN",
     "original": "lecik",
     "audio": {
       "slug": "letik",
@@ -3769,6 +3969,7 @@
     "en": [
       "submerge, disappear under water 3438"
     ],
+    "source": "PAN",
     "original": "lezep",
     "audio": {
       "slug": "lezep",
@@ -3789,6 +3990,7 @@
     "en": [
       "where to"
     ],
+    "source": "B",
     "original": "li ainu",
     "audio": {
       "slug": "li_ainu",
@@ -3809,6 +4011,7 @@
     "en": [
       "on bed"
     ],
+    "source": "B",
     "original": "li lakar",
     "audio": {
       "slug": "li_lakar",
@@ -3829,6 +4032,7 @@
     "en": [
       "here"
     ],
+    "source": "B",
     "original": "li tsaila",
     "audio": {
       "slug": "li_tsaila",
@@ -3850,6 +4054,7 @@
     "en": [
       "to offing. abroad"
     ],
+    "source": "B",
     "original": "li wale-wale",
     "audio": {
       "slug": "li_wale_wale",
@@ -3870,6 +4075,7 @@
     "en": [
       "buy"
     ],
+    "source": "B",
     "original": "liatsa",
     "audio": {
       "slug": "liatsa",
@@ -3891,6 +4097,7 @@
     "en": [
       "fishing net"
     ],
+    "source": "B",
     "original": "liatsan",
     "audio": {
       "slug": "liatsan",
@@ -3908,6 +4115,7 @@
     "en": [
       "tongue 11663"
     ],
+    "source": "PAN",
     "original": "lidam",
     "audio": {
       "slug": "lidam",
@@ -3927,6 +4135,7 @@
     "en": [
       "shelter, cover, protection; shade 9153"
     ],
+    "source": "PAN",
     "original": "liduŋ",
     "audio": {
       "slug": "lidunx",
@@ -3947,6 +4156,7 @@
     "en": [
       "sun"
     ],
+    "source": "B",
     "original": "lien",
     "audio": {
       "slug": "lien",
@@ -3968,6 +4178,7 @@
     "en": [
       "run away. escape"
     ],
+    "source": "B",
     "original": "lihul' lales",
     "audio": {
       "slug": "lihulx_lales",
@@ -3985,6 +4196,7 @@
     "en": [
       "cook rice"
     ],
+    "source": "T",
     "original": "likan. mlikan. milikkan",
     "audio": {
       "slug": "likan_mlikan_milikkan",
@@ -4002,6 +4214,7 @@
     "en": [
       "lightning 7276"
     ],
+    "source": "PAN",
     "original": "likaC",
     "audio": {
       "slug": "likat",
@@ -4022,6 +4235,7 @@
     "en": [
       "threshold"
     ],
+    "source": "B",
     "original": "likatan",
     "audio": {
       "slug": "likatan",
@@ -4041,6 +4255,7 @@
     "en": [
       "curve, bend, winding 7531"
     ],
+    "source": "PAN",
     "original": "likaw",
     "audio": {
       "slug": "likaw",
@@ -4058,6 +4273,7 @@
     "en": [
       "mosquito 6584"
     ],
+    "source": "PAN",
     "original": "likeS",
     "audio": {
       "slug": "likes",
@@ -4075,6 +4291,7 @@
     "en": [
       "(gloss uncertain) 7540"
     ],
+    "source": "PAN",
     "original": "liku-likud",
     "audio": {
       "slug": "liku_likud",
@@ -4092,6 +4309,7 @@
     "en": [
       "(gloss uncertain) 7541"
     ],
+    "source": "PAN",
     "original": "liku-likud-an",
     "audio": {
       "slug": "liku_likud_an",
@@ -4109,6 +4327,7 @@
     "en": [
       "back 7535"
     ],
+    "source": "PAN",
     "original": "likud",
     "audio": {
       "slug": "likud",
@@ -4126,6 +4345,7 @@
     "en": [
       "back area, place at the back? 7539"
     ],
+    "source": "PAN",
     "original": "likud-an",
     "audio": {
       "slug": "likud_an",
@@ -4146,6 +4366,7 @@
     "en": [
       "tongue"
     ],
+    "source": "B",
     "original": "lilam",
     "audio": {
       "slug": "lilam",
@@ -4163,6 +4384,7 @@
     "en": [
       "tongue"
     ],
+    "source": "M",
     "original": "lilam (M)",
     "audio": {
       "slug": "lilam",
@@ -4183,6 +4405,7 @@
     "en": [
       "sleepy"
     ],
+    "source": "B",
     "original": "lilanaulakau",
     "audio": {
       "slug": "lilanaulakau",
@@ -4203,6 +4426,7 @@
     "en": [
       "sour"
     ],
+    "source": "B",
     "original": "liləm",
     "audio": {
       "slug": "liloxm",
@@ -4220,6 +4444,7 @@
     "en": [
       "bitter, hot"
     ],
+    "source": "M",
     "original": "liləm (M)",
     "audio": {
       "slug": "liloxm",
@@ -4245,6 +4470,7 @@
     "en": [
       "bitter. hot. sour. ginger"
     ],
+    "source": "B",
     "original": "lilum",
     "audio": {
       "slug": "lilum",
@@ -4262,6 +4488,7 @@
     "en": [
       "five 7384"
     ],
+    "source": "PAN",
     "original": "lima",
     "audio": {
       "slug": "lima",
@@ -4283,6 +4510,7 @@
     "en": [
       "round, round silver coin"
     ],
+    "source": "B",
     "original": "limtsu",
     "audio": {
       "slug": "limtsu",
@@ -4303,6 +4531,7 @@
     "en": [
       "sloven, sluttish"
     ],
+    "source": "B",
     "original": "limuŋasse",
     "audio": {
       "slug": "limunxasse",
@@ -4323,6 +4552,7 @@
     "en": [
       "relatives"
     ],
+    "source": "B",
     "original": "linamunan",
     "audio": {
       "slug": "linamunan",
@@ -4343,6 +4573,7 @@
     "en": [
       "sleepy"
     ],
+    "source": "B",
     "original": "linanaulakau",
     "audio": {
       "slug": "linanaulakau",
@@ -4360,6 +4591,7 @@
     "en": [
       "shadow 3486"
     ],
+    "source": "PAN",
     "original": "liŋaw₁",
     "audio": {
       "slug": "linxaw",
@@ -4377,6 +4609,7 @@
     "en": [
       "calm, tranquil, of the surface of water 3475"
     ],
+    "source": "PAN",
     "original": "liNuŋ",
     "audio": {
       "slug": "linunx",
@@ -4394,6 +4627,7 @@
     "en": [
       "earthquake 3472"
     ],
+    "source": "PAN",
     "original": "linuR",
     "audio": {
       "slug": "linur",
@@ -4412,6 +4646,7 @@
     "en": [
       "to pass, pass by 11541"
     ],
+    "source": "PAN",
     "original": "lipas",
     "audio": {
       "slug": "lipas",
@@ -4429,6 +4664,7 @@
     "en": [
       "tooth 7105"
     ],
+    "source": "PAN",
     "original": "lipen",
     "audio": {
       "slug": "lipen",
@@ -4447,6 +4683,7 @@
     "en": [
       "to fold, fold over 9031"
     ],
+    "source": "PAN",
     "original": "lipet",
     "audio": {
       "slug": "lipet",
@@ -4467,6 +4704,7 @@
     "en": [
       "longan"
     ],
+    "source": "B",
     "original": "lipuluke (?), ripurukke",
     "audio": {
       "slug": "lipuluke",
@@ -4487,6 +4725,7 @@
     "en": [
       "ridgepole"
     ],
+    "source": "B",
     "original": "lipuluŋ",
     "audio": {
       "slug": "lipulunx",
@@ -4507,6 +4746,7 @@
     "en": [
       "gather"
     ],
+    "source": "B",
     "original": "lipupu",
     "audio": {
       "slug": "lipupu",
@@ -4524,6 +4764,7 @@
     "en": [
       "disappear behind something that envelops or blocks the view 11546"
     ],
+    "source": "PAN",
     "original": "lipuC",
     "audio": {
       "slug": "liput",
@@ -4544,6 +4785,7 @@
     "en": [
       "pomelo"
     ],
+    "source": "B",
     "original": "lipute",
     "audio": {
       "slug": "lipute",
@@ -4561,6 +4803,7 @@
     "en": [
       "neck 7356"
     ],
+    "source": "PAN",
     "original": "liqeR",
     "audio": {
       "slug": "liqer",
@@ -4578,6 +4821,7 @@
     "en": [
       "nit, egg of a hair louse 7817"
     ],
+    "source": "PAN",
     "original": "liseqeS",
     "audio": {
       "slug": "liseqes",
@@ -4598,6 +4842,7 @@
     "en": [
       "tail"
     ],
+    "source": "B",
     "original": "lisus",
     "audio": {
       "slug": "lisus",
@@ -4618,6 +4863,7 @@
     "en": [
       "soft place on the crown of the head"
     ],
+    "source": "B",
     "original": "lisusse",
     "audio": {
       "slug": "lisusse",
@@ -4640,6 +4886,7 @@
     "en": [
       "roll (to). yarn"
     ],
+    "source": "B",
     "original": "litelitte",
     "audio": {
       "slug": "litelitte",
@@ -4660,6 +4907,7 @@
     "en": [
       "yarn"
     ],
+    "source": "B",
     "original": "litelitte",
     "audio": {
       "slug": "litelitte",
@@ -4681,6 +4929,7 @@
     "en": [
       "across the river. old village"
     ],
+    "source": "B",
     "original": "litisin",
     "audio": {
       "slug": "litisin",
@@ -4699,6 +4948,7 @@
     "en": [
       "wind around, bind by winding around 11460"
     ],
+    "source": "PAN",
     "original": "litlit",
     "audio": {
       "slug": "litlit",
@@ -4719,6 +4969,7 @@
     "en": [
       "dry"
     ],
+    "source": "B",
     "original": "litsaŋ",
     "audio": {
       "slug": "litsanx",
@@ -4739,6 +4990,7 @@
     "en": [
       "thirsty"
     ],
+    "source": "B",
     "original": "litsaŋ",
     "audio": {
       "slug": "litsanx",
@@ -4759,6 +5011,7 @@
     "en": [
       "there"
     ],
+    "source": "B",
     "original": "litsoa, atsoa",
     "audio": {
       "slug": "litsoa",
@@ -4779,6 +5032,7 @@
     "en": [
       "sword"
     ],
+    "source": "B",
     "original": "liun",
     "audio": {
       "slug": "liun",
@@ -4797,6 +5051,7 @@
     "en": [
       "circumambulate, circumvent 3481"
     ],
+    "source": "PAN",
     "original": "liuS",
     "audio": {
       "slug": "lius",
@@ -4817,6 +5072,7 @@
     "en": [
       "star"
     ],
+    "source": "B",
     "original": "liuse",
     "audio": {
       "slug": "liuse",
@@ -4837,6 +5093,7 @@
     "en": [
       "stars"
     ],
+    "source": "B",
     "original": "liuse (?)",
     "audio": {
       "slug": "liuse",
@@ -4854,6 +5111,7 @@
     "en": [
       "behead"
     ],
+    "source": "T",
     "original": "liwtsuan",
     "audio": {
       "slug": "liwtsuan",
@@ -4871,6 +5129,7 @@
     "en": [
       "ambush"
     ],
+    "source": "T",
     "original": "ləvəŋan",
     "audio": {
       "slug": "loxvoxnxan",
@@ -4892,6 +5151,7 @@
     "en": [
       "measure. scale"
     ],
+    "source": "B",
     "original": "lohot",
     "audio": {
       "slug": "lohot",
@@ -4912,6 +5172,7 @@
     "en": [
       "hole"
     ],
+    "source": "B",
     "original": "loloŋ",
     "audio": {
       "slug": "lolonx",
@@ -4932,6 +5193,7 @@
     "en": [
       "open the mouth (to)"
     ],
+    "source": "B",
     "original": "loŋaŋa",
     "audio": {
       "slug": "lonxanxa",
@@ -4952,6 +5214,7 @@
     "en": [
       "bald"
     ],
+    "source": "B",
     "original": "lotalotatse",
     "audio": {
       "slug": "lotalotatse",
@@ -4973,6 +5236,7 @@
     "en": [
       "fierce. ferocious"
     ],
+    "source": "B",
     "original": "lotinaune",
     "audio": {
       "slug": "lotinaune",
@@ -4993,6 +5257,7 @@
     "en": [
       "monkey"
     ],
+    "source": "B",
     "original": "lotoŋ",
     "audio": {
       "slug": "lotonx",
@@ -5013,6 +5278,7 @@
     "en": [
       "meat"
     ],
+    "source": "B",
     "original": "lsji",
     "audio": {
       "slug": "lsji",
@@ -5033,6 +5299,7 @@
     "en": [
       "chieftain"
     ],
+    "source": "B",
     "original": "lu-utsu",
     "audio": {
       "slug": "lu_utsu",
@@ -5055,6 +5322,7 @@
     "en": [
       "possess. exist"
     ],
+    "source": "B",
     "original": "luai",
     "audio": {
       "slug": "luai",
@@ -5072,6 +5340,7 @@
     "en": [
       "burial pit 7311"
     ],
+    "source": "PAN",
     "original": "lubaŋ₁",
     "audio": {
       "slug": "lubanx",
@@ -5093,6 +5362,7 @@
     "en": [
       "ghost, anito"
     ],
+    "source": "B",
     "original": "lubeloa, beloa",
     "audio": {
       "slug": "lubeloa",
@@ -5111,6 +5381,7 @@
     "en": [
       "bag, sack 12818"
     ],
+    "source": "PAN",
     "original": "lubuk₃",
     "audio": {
       "slug": "lubuk",
@@ -5128,6 +5399,7 @@
     "en": [
       "saliva 11788"
     ],
+    "source": "PAN",
     "original": "ludaq",
     "audio": {
       "slug": "ludaq",
@@ -5145,6 +5417,7 @@
     "en": [
       "ripe 3531"
     ],
+    "source": "PAN",
     "original": "luem",
     "audio": {
       "slug": "luem",
@@ -5166,6 +5439,7 @@
     "en": [
       "friend"
     ],
+    "source": "B",
     "original": "luhul'",
     "audio": {
       "slug": "luhulx",
@@ -5189,6 +5463,7 @@
     "en": [
       "idle. lazy. tired"
     ],
+    "source": "B",
     "original": "lukasse, malukasse",
     "audio": {
       "slug": "lukasse",
@@ -5206,6 +5481,7 @@
     "en": [
       "Formosan clouded leopard 6585"
     ],
+    "source": "PAN",
     "original": "lukeNaw",
     "audio": {
       "slug": "lukenaw",
@@ -5226,6 +5502,7 @@
     "en": [
       "thrust with spear (to)"
     ],
+    "source": "B",
     "original": "luklukke",
     "audio": {
       "slug": "luklukke",
@@ -5243,6 +5520,7 @@
     "en": [
       "parasitic plant sp. 3518"
     ],
+    "source": "PAN",
     "original": "lukuC",
     "audio": {
       "slug": "lukut",
@@ -5260,6 +5538,7 @@
     "en": [
       "pupil"
     ],
+    "source": "M",
     "original": "lulu mata (M)",
     "audio": {
       "slug": "lulu_mata",
@@ -5278,6 +5557,7 @@
     "en": [
       "shin 7542"
     ],
+    "source": "PAN",
     "original": "luluj",
     "audio": {
       "slug": "luluj",
@@ -5295,6 +5575,7 @@
     "en": [
       "to roll up, as a mat 7543"
     ],
+    "source": "PAN",
     "original": "luluN",
     "audio": {
       "slug": "lulun",
@@ -5315,6 +5596,7 @@
     "en": [
       "hermit crab"
     ],
+    "source": "B",
     "original": "lumana",
     "audio": {
       "slug": "lumana",
@@ -5332,6 +5614,7 @@
     "en": [
       "cloud 11953"
     ],
+    "source": "PAN",
     "original": "luNuŋ",
     "audio": {
       "slug": "lununx",
@@ -5352,6 +5635,7 @@
     "en": [
       "seashell (a kind of)"
     ],
+    "source": "B",
     "original": "lupaise",
     "audio": {
       "slug": "lupaise",
@@ -5369,6 +5653,7 @@
     "en": [
       "peach 7229"
     ],
+    "source": "PAN",
     "original": "lupas₁",
     "audio": {
       "slug": "lupas",
@@ -5386,6 +5671,7 @@
     "en": [
       "spit, spit out 3533"
     ],
+    "source": "PAN",
     "original": "lupaS",
     "audio": {
       "slug": "lupas",
@@ -5406,6 +5692,7 @@
     "en": [
       "smoke tobacco (to)"
     ],
+    "source": "B",
     "original": "luplup",
     "audio": {
       "slug": "luplup",
@@ -5426,6 +5713,7 @@
     "en": [
       "shoes"
     ],
+    "source": "B",
     "original": "luppu",
     "audio": {
       "slug": "luppu",
@@ -5446,6 +5734,7 @@
     "en": [
       "shoes"
     ],
+    "source": "B",
     "original": "lupu",
     "audio": {
       "slug": "lupu",
@@ -5467,6 +5756,7 @@
     "en": [
       "bag. sack"
     ],
+    "source": "B",
     "original": "lupu",
     "audio": {
       "slug": "lupu",
@@ -5487,6 +5777,7 @@
     "en": [
       "shoes"
     ],
+    "source": "B",
     "original": "lupu",
     "audio": {
       "slug": "lupu",
@@ -5507,6 +5798,7 @@
     "en": [
       "two"
     ],
+    "source": "B",
     "original": "lusa",
     "audio": {
       "slug": "lusa",
@@ -5524,6 +5816,7 @@
     "en": [
       "two (nonhuman)"
     ],
+    "source": "S",
     "original": "lusa (S), zusa",
     "audio": {
       "slug": "lusa",
@@ -5544,6 +5837,7 @@
     "en": [
       "next month"
     ],
+    "source": "B",
     "original": "lusa butsan",
     "audio": {
       "slug": "lusa_butsan",
@@ -5564,6 +5858,7 @@
     "en": [
       "two days"
     ],
+    "source": "B",
     "original": "lusa lien",
     "audio": {
       "slug": "lusa_lien",
@@ -5584,6 +5879,7 @@
     "en": [
       "day after tomorrow"
     ],
+    "source": "B",
     "original": "lusa lijen/Len",
     "audio": {
       "slug": "lusa_lijen_len",
@@ -5604,6 +5900,7 @@
     "en": [
       "year after next"
     ],
+    "source": "B",
     "original": "lusa tatasawai",
     "audio": {
       "slug": "lusa_tatasawai",
@@ -5624,6 +5921,7 @@
     "en": [
       "day before yesterday"
     ],
+    "source": "B",
     "original": "lusa tselap",
     "audio": {
       "slug": "lusa_tselap",
@@ -5641,6 +5939,7 @@
     "en": [
       "tears 7667"
     ],
+    "source": "PAN",
     "original": "luSeq",
     "audio": {
       "slug": "luseq",
@@ -5659,6 +5958,7 @@
     "en": [
       "weak, exhausted 11589"
     ],
+    "source": "PAN",
     "original": "lutay",
     "audio": {
       "slug": "lutay",
@@ -5679,6 +5979,7 @@
     "en": [
       "untie"
     ],
+    "source": "B",
     "original": "lutsusse",
     "audio": {
       "slug": "lutsusse",
@@ -5696,6 +5997,7 @@
     "en": [
       "the Formosan hare: Lepus sinensis formosus 6586"
     ],
+    "source": "PAN",
     "original": "lutuk₁",
     "audio": {
       "slug": "lutuk",
@@ -5713,6 +6015,7 @@
     "en": [
       "the Formosan rock monkey: Macaca cyclopis 6845"
     ],
+    "source": "PAN",
     "original": "luCuŋ",
     "audio": {
       "slug": "lutunx",
@@ -5733,6 +6036,7 @@
     "en": [
       "exist"
     ],
+    "source": "B",
     "original": "luvai",
     "audio": {
       "slug": "luvai",
@@ -5750,6 +6054,7 @@
     "en": [
       "purse"
     ],
+    "source": "M",
     "original": "luvus u pila (M)",
     "audio": {
       "slug": "luvus_u_pila",
@@ -5772,6 +6077,7 @@
     "en": [
       "heaven. day-time. noon"
     ],
+    "source": "B",
     "original": "Lɛn, Lan",
     "audio": {
       "slug": "l_n",

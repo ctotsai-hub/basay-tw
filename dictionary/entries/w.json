@@ -9,6 +9,7 @@
     "en": [
       "horn"
     ],
+    "source": "M",
     "original": "waki (M)",
     "audio": {
       "slug": "waki",
@@ -29,6 +30,7 @@
     "en": [
       "overseas"
     ],
+    "source": "B",
     "original": "wale-wale",
     "audio": {
       "slug": "wale_wale",
@@ -46,6 +48,7 @@
     "en": [
       "child"
     ],
+    "source": "T",
     "original": "wanak, wanake, wanaq (S)",
     "audio": {
       "slug": "wanak",
@@ -63,6 +66,7 @@
     "en": [
       "child"
     ],
+    "source": "T",
     "original": "wanak, wanake, wanaq (S)",
     "audio": {
       "slug": "wanake",
@@ -80,6 +84,7 @@
     "en": [
       "child"
     ],
+    "source": "S",
     "original": "wanak, wanake, wanaq (S)",
     "audio": {
       "slug": "wanaq",
@@ -97,6 +102,7 @@
     "en": [
       "alright, good, only"
     ],
+    "source": "T",
     "original": "wanay ⑸",
     "audio": {
       "slug": "wanay",
@@ -114,6 +120,7 @@
     "en": [
       "finish"
     ],
+    "source": "T",
     "original": "wanja",
     "audio": {
       "slug": "wanja",
@@ -134,6 +141,7 @@
     "en": [
       "sugar"
     ],
+    "source": "B",
     "original": "wanəŋ",
     "audio": {
       "slug": "wanoxnx",
@@ -154,6 +162,7 @@
     "en": [
       "sugar"
     ],
+    "source": "B",
     "original": "wanuŋ",
     "audio": {
       "slug": "wanunx",
@@ -171,6 +180,7 @@
     "en": [
       "sugar"
     ],
+    "source": "M",
     "original": "wanuŋ (M)",
     "audio": {
       "slug": "wanunx",
@@ -191,6 +201,7 @@
     "en": [
       "eight"
     ],
+    "source": "B",
     "original": "wasu",
     "audio": {
       "slug": "wasu",
@@ -208,6 +219,7 @@
     "en": [
       "before long"
     ],
+    "source": "T",
     "original": "watsikam",
     "audio": {
       "slug": "watsikam",
@@ -225,6 +237,7 @@
     "en": [
       "dog"
     ],
+    "source": "M",
     "original": "watsu (M)",
     "audio": {
       "slug": "watsu",
@@ -242,6 +255,7 @@
     "en": [
       "finish, end"
     ],
+    "source": "M",
     "original": "watsuaina (M), watsuay",
     "audio": {
       "slug": "watsuaina",
@@ -259,6 +273,7 @@
     "en": [
       "delicious"
     ],
+    "source": "T",
     "original": "watsuay",
     "audio": {
       "slug": "watsuay",
@@ -276,6 +291,7 @@
     "en": [
       "finish, end"
     ],
+    "source": "T",
     "original": "watsuaina (M), watsuay",
     "audio": {
       "slug": "watsuay",
@@ -296,6 +312,7 @@
     "en": [
       "insects"
     ],
+    "source": "B",
     "original": "wawai",
     "audio": {
       "slug": "wawai",
@@ -316,6 +333,7 @@
     "en": [
       "rattan"
     ],
+    "source": "B",
     "original": "wawai",
     "audio": {
       "slug": "wawai",
@@ -336,6 +354,7 @@
     "en": [
       "firefly"
     ],
+    "source": "B",
     "original": "wawai pasibsib",
     "audio": {
       "slug": "wawai_pasibsib",
@@ -356,6 +375,7 @@
     "en": [
       "worm"
     ],
+    "source": "B",
     "original": "wawai satska",
     "audio": {
       "slug": "wawai_satska",

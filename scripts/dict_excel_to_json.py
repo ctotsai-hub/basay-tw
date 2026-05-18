@@ -152,9 +152,17 @@ def format_id(raw: Any) -> str:
 def map_columns(header: tuple) -> dict[str, Any]:
     """Map our logical field names to column indices.
     Returns dict: {logical_name: column_index}.
-    Handles the duplicated 'pos' column by position: first -> 'category',
-    second -> 'source'.
+
+    Recognized aliases:
+      - 1st 'pos' -> 'category';  2nd 'pos' -> 'source' (legacy duplicate-pos layout)
+      - 'source', 'souce' (typo), 'variety', 'src', '出處', '出处' -> 'source'
+      - 'original_entry', 'ipa' -> 'original'
+      - 'remarks', 'note', 'notes', '備考' -> 'remark'
     """
+    SOURCE_ALIASES   = {"source", "souce", "variety", "src", "出處", "出处"}
+    ORIGINAL_ALIASES = {"original_entry", "original", "ipa", "原表記"}
+    REMARK_ALIASES   = {"remark", "remarks", "note", "notes", "備考", "備註"}
+
     seen_pos: list[int] = []
     col_map: dict[str, int] = {}
     for i, name in enumerate(header):
@@ -164,15 +172,19 @@ def map_columns(header: tuple) -> dict[str, Any]:
         if key == "pos":
             seen_pos.append(i)
             continue
-        # Common aliases.
-        if key == "original_entry":
+        if key in SOURCE_ALIASES:
+            key = "source"
+        elif key in ORIGINAL_ALIASES:
             key = "original"
+        elif key in REMARK_ALIASES:
+            key = "remark"
         col_map[key] = i
 
+    # Fallback for legacy "duplicate pos" layout
     if len(seen_pos) >= 1:
-        col_map["category"] = seen_pos[0]
+        col_map.setdefault("category", seen_pos[0])
     if len(seen_pos) >= 2:
-        col_map["source"] = seen_pos[1]
+        col_map.setdefault("source", seen_pos[1])
     return col_map
 
 

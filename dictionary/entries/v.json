@@ -9,6 +9,7 @@
     "en": [
       "ditch"
     ],
+    "source": "M",
     "original": "vaaŋ (M)",
     "audio": {
       "slug": "vaanx",
@@ -26,6 +27,7 @@
     "en": [
       "wind"
     ],
+    "source": "S",
     "original": "vaɭi (S)，vaisi (S)",
     "audio": {
       "slug": "vaisi",
@@ -43,6 +45,7 @@
     "en": [
       "strong"
     ],
+    "source": "M",
     "original": "vakət (M)",
     "audio": {
       "slug": "vakoxt",
@@ -60,6 +63,7 @@
     "en": [
       "enough"
     ],
+    "source": "M",
     "original": "vakut (M)",
     "audio": {
       "slug": "vakut",
@@ -77,6 +81,7 @@
     "en": [
       "old man"
     ],
+    "source": "T",
     "original": "vakvaki",
     "audio": {
       "slug": "vakvaki",
@@ -94,6 +99,7 @@
     "en": [
       "wind"
     ],
+    "source": "S",
     "original": "vaɭi (S)，vaisi (S)",
     "audio": {
       "slug": "valxi",
@@ -111,6 +117,7 @@
     "en": [
       "seaweed"
     ],
+    "source": "M",
     "original": "vaɭiu (M)",
     "audio": {
       "slug": "valxiu",
@@ -128,6 +135,7 @@
     "en": [
       "drop into"
     ],
+    "source": "T",
     "original": "vaɭsi",
     "audio": {
       "slug": "valxsi",
@@ -148,6 +156,7 @@
     "en": [
       "give"
     ],
+    "source": "B",
     "original": "valai",
     "audio": {
       "slug": "valai",
@@ -165,6 +174,7 @@
     "en": [
       "door"
     ],
+    "source": "T",
     "original": "valat",
     "audio": {
       "slug": "valat",
@@ -182,6 +192,7 @@
     "en": [
       "shut the door"
     ],
+    "source": "M",
     "original": "valata (M)",
     "audio": {
       "slug": "valata",
@@ -199,6 +210,7 @@
     "en": [
       "long (time)"
     ],
+    "source": "T",
     "original": "valuvaiuŋ",
     "audio": {
       "slug": "valuvaiunx",
@@ -216,6 +228,7 @@
     "en": [
       "canoe"
     ],
+    "source": "M",
     "original": "vaŋka (M)",
     "audio": {
       "slug": "vanxka",
@@ -233,6 +246,7 @@
     "en": [
       "smell good"
     ],
+    "source": "T",
     "original": "vaŋsiss (S, M)",
     "audio": {
       "slug": "vanxsiss_s",
@@ -250,6 +264,7 @@
     "en": [
       "name of a village"
     ],
+    "source": "M",
     "original": "vaŋun (M)",
     "audio": {
       "slug": "vanxun",
@@ -267,6 +282,7 @@
     "en": [
       "field, land"
     ],
+    "source": "T",
     "original": "vanaŋ",
     "audio": {
       "slug": "vananx",
@@ -284,6 +300,7 @@
     "en": [
       "torn"
     ],
+    "source": "M",
     "original": "vanet (M)",
     "audio": {
       "slug": "vanet",
@@ -301,6 +318,7 @@
     "en": [
       "body hair"
     ],
+    "source": "M",
     "original": "vano (M)",
     "audio": {
       "slug": "vano",
@@ -318,6 +336,7 @@
     "en": [
       "feather"
     ],
+    "source": "S",
     "original": "vanəl (S)",
     "audio": {
       "slug": "vanoxl",
@@ -335,6 +354,7 @@
     "en": [
       "treasure"
     ],
+    "source": "S",
     "original": "vanuŋ (S)",
     "audio": {
       "slug": "vanunx",
@@ -352,6 +372,7 @@
     "en": [
       "iron"
     ],
+    "source": "M",
     "original": "varis (M)",
     "audio": {
       "slug": "varis",
@@ -369,6 +390,7 @@
     "en": [
       "sneeze"
     ],
+    "source": "M",
     "original": "vasiŋ (M)",
     "audio": {
       "slug": "vasinx",
@@ -386,6 +408,7 @@
     "en": [
       "throw away"
     ],
+    "source": "T",
     "original": "vasiw",
     "audio": {
       "slug": "vasiw",
@@ -403,6 +426,7 @@
     "en": [
       "egret"
     ],
+    "source": "M",
     "original": "manuq (S), vate (M)",
     "audio": {
       "slug": "vate",
@@ -420,6 +444,7 @@
     "en": [
       "white"
     ],
+    "source": "M",
     "original": "vate (M)",
     "audio": {
       "slug": "vate",
@@ -437,6 +462,7 @@
     "en": [
       "ship"
     ],
+    "source": "M",
     "original": "vatsal (M)",
     "audio": {
       "slug": "vatsal",
@@ -457,6 +483,7 @@
     "en": [
       "today"
     ],
+    "source": "B",
     "original": "vatsi",
     "audio": {
       "slug": "vatsi",
@@ -474,6 +501,7 @@
     "en": [
       "sell"
     ],
+    "source": "M",
     "original": "vatsiu (M)",
     "audio": {
       "slug": "vatsiu",
@@ -491,6 +519,7 @@
     "en": [
       "smoke"
     ],
+    "source": "M",
     "original": "vatsəŋ (M)",
     "audio": {
       "slug": "vatsoxnx",
@@ -508,6 +537,7 @@
     "en": [
       "dominate"
     ],
+    "source": "T",
     "original": "vatsun",
     "audio": {
       "slug": "vatsun",
@@ -525,6 +555,7 @@
     "en": [
       "stone"
     ],
+    "source": "T",
     "original": "vatu",
     "audio": {
       "slug": "vatu",
@@ -542,6 +573,7 @@
     "en": [
       "cut"
     ],
+    "source": "T",
     "original": "vatuk",
     "audio": {
       "slug": "vatuk",
@@ -559,6 +591,7 @@
     "en": [
       "fish"
     ],
+    "source": "T",
     "original": "vaut",
     "audio": {
       "slug": "vaut",
@@ -576,6 +609,7 @@
     "en": [
       "salted fish"
     ],
+    "source": "M",
     "original": "vautu mtaləm (M)",
     "audio": {
       "slug": "vautu_mtaloxm",
@@ -593,6 +627,7 @@
     "en": [
       "dry farm land (potato)"
     ],
+    "source": "M",
     "original": "vauvi (M)",
     "audio": {
       "slug": "vauvi",
@@ -610,6 +645,7 @@
     "en": [
       "carry on back"
     ],
+    "source": "T",
     "original": "vavaan",
     "audio": {
       "slug": "vavaan",
@@ -627,6 +663,7 @@
     "en": [
       "name of a village"
     ],
+    "source": "M",
     "original": "vavaŋ (M)",
     "audio": {
       "slug": "vavanx",
@@ -644,6 +681,7 @@
     "en": [
       "boat"
     ],
+    "source": "T",
     "original": "vawa",
     "audio": {
       "slug": "vawa",
@@ -661,6 +699,7 @@
     "en": [
       "ancestor"
     ],
+    "source": "T",
     "original": "vayvalan",
     "audio": {
       "slug": "vayvalan",
@@ -678,6 +717,7 @@
     "en": [
       "beak"
     ],
+    "source": "M",
     "original": "vcqail (M)",
     "audio": {
       "slug": "vcqail",
@@ -695,6 +735,7 @@
     "en": [
       "bolt, bear of the door"
     ],
+    "source": "M",
     "original": "vesəl (M)",
     "audio": {
       "slug": "vesoxl",
@@ -712,6 +753,7 @@
     "en": [
       "cut open, split"
     ],
+    "source": "S",
     "original": "viate (S)",
     "audio": {
       "slug": "viate",
@@ -729,6 +771,7 @@
     "en": [
       "bend, curve"
     ],
+    "source": "M",
     "original": "viau (M)",
     "audio": {
       "slug": "viau",
@@ -746,6 +789,7 @@
     "en": [
       "calculate"
     ],
+    "source": "M",
     "original": "vilaŋ (M)",
     "audio": {
       "slug": "vilanx",
@@ -763,6 +807,7 @@
     "en": [
       "girl, woman, wile"
     ],
+    "source": "T",
     "original": "vinay",
     "audio": {
       "slug": "vinay",
@@ -780,6 +825,7 @@
     "en": [
       "latch"
     ],
+    "source": "T",
     "original": "vislan",
     "audio": {
       "slug": "vislan",
@@ -797,6 +843,7 @@
     "en": [
       "cradle"
     ],
+    "source": "M",
     "original": "visun (M)",
     "audio": {
       "slug": "visun",
@@ -814,6 +861,7 @@
     "en": [
       "prop up"
     ],
+    "source": "T",
     "original": "vivis",
     "audio": {
       "slug": "vivis",
@@ -831,6 +879,7 @@
     "en": [
       "pinched by stones"
     ],
+    "source": "T",
     "original": "vivittu",
     "audio": {
       "slug": "vivittu",
@@ -848,6 +897,7 @@
     "en": [
       "swing, shake"
     ],
+    "source": "T",
     "original": "viwviwta",
     "audio": {
       "slug": "viwviwta",
@@ -865,6 +915,7 @@
     "en": [
       "cover with earth"
     ],
+    "source": "T",
     "original": "vkasan",
     "audio": {
       "slug": "vkasan",
@@ -882,6 +933,7 @@
     "en": [
       "give, return"
     ],
+    "source": "M",
     "original": "vɭajanimau < vlaj (M)",
     "audio": {
       "slug": "vlxajanimau_vlaj",
@@ -899,6 +951,7 @@
     "en": [
       "firefly"
     ],
+    "source": "M",
     "original": "vɭaɭowan (M)",
     "audio": {
       "slug": "vlxalxowan",
@@ -916,6 +969,7 @@
     "en": [
       "dung beetle"
     ],
+    "source": "T",
     "original": "vɭaɭuan",
     "audio": {
       "slug": "vlxalxuan",
@@ -933,6 +987,7 @@
     "en": [
       "clean"
     ],
+    "source": "M",
     "original": "vɭaməs tsaŋas uqu (?) (M)",
     "audio": {
       "slug": "vlxamoxs_tsanxas_uqu",
@@ -950,6 +1005,7 @@
     "en": [
       "unstable, totter"
     ],
+    "source": "M",
     "original": "vlailain (M)",
     "audio": {
       "slug": "vlailain",
@@ -967,6 +1023,7 @@
     "en": [
       "embrace, hold"
     ],
+    "source": "M",
     "original": "vlaqu (M)",
     "audio": {
       "slug": "vlaqu",
@@ -984,6 +1041,7 @@
     "en": [
       "receive plenty"
     ],
+    "source": "T",
     "original": "vlavlayan",
     "audio": {
       "slug": "vlavlayan",
@@ -1001,6 +1059,7 @@
     "en": [
       "give"
     ],
+    "source": "T",
     "original": "vlay",
     "audio": {
       "slug": "vlay",
@@ -1018,6 +1077,7 @@
     "en": [
       "suitable"
     ],
+    "source": "T",
     "original": "vluŋusan",
     "audio": {
       "slug": "vlunxusan",
@@ -1035,6 +1095,7 @@
     "en": [
       "come down"
     ],
+    "source": "T",
     "original": "vədk",
     "audio": {
       "slug": "voxdk",
@@ -1052,6 +1113,7 @@
     "en": [
       "untie"
     ],
+    "source": "T",
     "original": "vəqaan",
     "audio": {
       "slug": "voxqaan",
@@ -1069,6 +1131,7 @@
     "en": [
       "bloom (to)"
     ],
+    "source": "M",
     "original": "vojeq (M)",
     "audio": {
       "slug": "vojeq",
@@ -1086,6 +1149,7 @@
     "en": [
       "ear"
     ],
+    "source": "M",
     "original": "voɭoan (M)",
     "audio": {
       "slug": "volxoan",
@@ -1103,6 +1167,7 @@
     "en": [
       "under"
     ],
+    "source": "M",
     "original": "voŋoɭo (M)",
     "audio": {
       "slug": "vonxolxo",
@@ -1120,6 +1185,7 @@
     "en": [
       "testicle"
     ],
+    "source": "M",
     "original": "votol (M)",
     "audio": {
       "slug": "votol",
@@ -1137,6 +1203,7 @@
     "en": [
       "hot water"
     ],
+    "source": "M",
     "original": "votse (M)",
     "audio": {
       "slug": "votse",
@@ -1154,6 +1221,7 @@
     "en": [
       "bring home"
     ],
+    "source": "M",
     "original": "vozno (M)",
     "audio": {
       "slug": "vozno",
@@ -1171,6 +1239,7 @@
     "en": [
       "break, destroy"
     ],
+    "source": "M",
     "original": "vuiŋ (M), vuiŋan",
     "audio": {
       "slug": "vuinx",
@@ -1188,6 +1257,7 @@
     "en": [
       "break, destroy"
     ],
+    "source": "T",
     "original": "vuiŋ (M), vuiŋan",
     "audio": {
       "slug": "vuinxan",
@@ -1205,6 +1275,7 @@
     "en": [
       "open, untie"
     ],
+    "source": "T",
     "original": "vukan, vuqqaŋ,vuyaqan",
     "audio": {
       "slug": "vukan",
@@ -1222,6 +1293,7 @@
     "en": [
       "radish"
     ],
+    "source": "M",
     "original": "vuɭu (M)",
     "audio": {
       "slug": "vulxu",
@@ -1239,6 +1311,7 @@
     "en": [
       "warm"
     ],
+    "source": "T",
     "original": "vuɭvuɭ",
     "audio": {
       "slug": "vulxvulx",
@@ -1256,6 +1329,7 @@
     "en": [
       "give"
     ],
+    "source": "M",
     "original": "vulai (M)",
     "audio": {
       "slug": "vulai",
@@ -1273,6 +1347,7 @@
     "en": [
       "rice"
     ],
+    "source": "M",
     "original": "vulats (M)",
     "audio": {
       "slug": "vulats",
@@ -1290,6 +1365,7 @@
     "en": [
       "idler, lazy bones"
     ],
+    "source": "T",
     "original": "vuqaɭus, vuqaqəs",
     "audio": {
       "slug": "vuqalxus",
@@ -1307,6 +1383,7 @@
     "en": [
       "pig's feet"
     ],
+    "source": "T",
     "original": "vuqutta",
     "audio": {
       "slug": "vuqutta",
@@ -1324,6 +1401,7 @@
     "en": [
       "stars"
     ],
+    "source": "M",
     "original": "vurtlan (M)",
     "audio": {
       "slug": "vurtlan",
@@ -1341,6 +1419,7 @@
     "en": [
       "roast"
     ],
+    "source": "M",
     "original": "vurvur (M)",
     "audio": {
       "slug": "vurvur",
@@ -1358,6 +1437,7 @@
     "en": [
       "drunk"
     ],
+    "source": "M",
     "original": "vusuk (M)",
     "audio": {
       "slug": "vusuk",
@@ -1375,6 +1455,7 @@
     "en": [
       "moon"
     ],
+    "source": "M",
     "original": "vutsan (M)",
     "audio": {
       "slug": "vutsan",
@@ -1392,6 +1473,7 @@
     "en": [
       "next month"
     ],
+    "source": "M",
     "original": "vutsan u utsa (M)",
     "audio": {
       "slug": "vutsan_u_utsa",
@@ -1409,6 +1491,7 @@
     "en": [
       "this month"
     ],
+    "source": "M",
     "original": "vutsanaɭai (M)",
     "audio": {
       "slug": "vutsanalxai",
@@ -1426,6 +1509,7 @@
     "en": [
       "warm water"
     ],
+    "source": "T",
     "original": "vutse, butse",
     "audio": {
       "slug": "vutse",
@@ -1443,6 +1527,7 @@
     "en": [
       "Taiwanese"
     ],
+    "source": "M",
     "original": "vutsuts (M)",
     "audio": {
       "slug": "vutsuts",
@@ -1460,6 +1545,7 @@
     "en": [
       "Chinese"
     ],
+    "source": "T",
     "original": "vutsutsa",
     "audio": {
       "slug": "vutsutsa",
@@ -1477,6 +1563,7 @@
     "en": [
       "cat"
     ],
+    "source": "M",
     "original": "vutun (M)",
     "audio": {
       "slug": "vutun",
@@ -1494,6 +1581,7 @@
     "en": [
       "fountain"
     ],
+    "source": "M",
     "original": "vutvutta (M)",
     "audio": {
       "slug": "vutvutta",
@@ -1511,6 +1599,7 @@
     "en": [
       "accomplishment"
     ],
+    "source": "M",
     "original": "vuut (M)",
     "audio": {
       "slug": "vuut",

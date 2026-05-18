@@ -14,6 +14,7 @@
     "en": [
       "reparation. give"
     ],
+    "source": "B",
     "original": "pabalai",
     "audio": {
       "slug": "pabalai",
@@ -31,6 +32,7 @@
     "en": [
       "beg"
     ],
+    "source": "T",
     "original": "ɭapunu, pabɭa, pabuɭa (S)",
     "audio": {
       "slug": "pablxa",
@@ -48,6 +50,7 @@
     "en": [
       "beg"
     ],
+    "source": "S",
     "original": "ɭapunu, pabɭa, pabuɭa (S)",
     "audio": {
       "slug": "pabulxa",
@@ -68,6 +71,7 @@
     "en": [
       "bring out"
     ],
+    "source": "B",
     "original": "pabusutse",
     "audio": {
       "slug": "pabusutse",
@@ -89,6 +93,7 @@
     "en": [
       "scatter"
     ],
+    "source": "B",
     "original": "pahiuhiu",
     "audio": {
       "slug": "pahiuhiu",
@@ -106,6 +111,7 @@
     "en": [
       "toward north"
     ],
+    "source": "T",
     "original": "paiamis",
     "audio": {
       "slug": "paiamis",
@@ -123,6 +129,7 @@
     "en": [
       "fan"
     ],
+    "source": "M",
     "original": "pail (M)",
     "audio": {
       "slug": "pail",
@@ -143,6 +150,7 @@
     "en": [
       "mirror"
     ],
+    "source": "B",
     "original": "painjuwan",
     "audio": {
       "slug": "painjuwan",
@@ -163,6 +171,7 @@
     "en": [
       "glass"
     ],
+    "source": "B",
     "original": "painjuwan",
     "audio": {
       "slug": "painjuwan",
@@ -180,6 +189,7 @@
     "en": [
       "toward below"
     ],
+    "source": "T",
     "original": "paiəman",
     "audio": {
       "slug": "paioxman",
@@ -200,6 +210,7 @@
     "en": [
       "beckon, to fan"
     ],
+    "source": "B",
     "original": "paipail'",
     "audio": {
       "slug": "paipailx",
@@ -217,6 +228,7 @@
     "en": [
       "inside, in the house"
     ],
+    "source": "S",
     "original": "paipana (S), pana (M)",
     "audio": {
       "slug": "paipana",
@@ -237,6 +249,7 @@
     "en": [
       "fan"
     ],
+    "source": "B",
     "original": "pait",
     "audio": {
       "slug": "pait",
@@ -254,6 +267,7 @@
     "en": [
       "toward sea"
     ],
+    "source": "T",
     "original": "paitsatsiŋ",
     "audio": {
       "slug": "paitsatsinx",
@@ -271,6 +285,7 @@
     "en": [
       "toward river side"
     ],
+    "source": "T",
     "original": "paitsuŋan",
     "audio": {
       "slug": "paitsunxan",
@@ -288,6 +303,7 @@
     "en": [
       "downstream"
     ],
+    "source": "M",
     "original": "paituman (M)",
     "audio": {
       "slug": "paituman",
@@ -305,6 +321,7 @@
     "en": [
       "toward above, upstream"
     ],
+    "source": "T",
     "original": "paivavaŋ",
     "audio": {
       "slug": "paivavanx",
@@ -325,6 +342,7 @@
     "en": [
       "forget"
     ],
+    "source": "B",
     "original": "pajana",
     "audio": {
       "slug": "pajana",
@@ -345,6 +363,7 @@
     "en": [
       "lose"
     ],
+    "source": "B",
     "original": "pajana",
     "audio": {
       "slug": "pajana",
@@ -365,6 +384,7 @@
     "en": [
       "hot (weather)"
     ],
+    "source": "B",
     "original": "paju",
     "audio": {
       "slug": "paju",
@@ -385,6 +405,7 @@
     "en": [
       "help (to)"
     ],
+    "source": "B",
     "original": "pakaitattse",
     "audio": {
       "slug": "pakaitattse",
@@ -405,6 +426,7 @@
     "en": [
       "lull to sleep(to)"
     ],
+    "source": "B",
     "original": "pakalakau < lakau",
     "audio": {
       "slug": "pakalakau_lakau",
@@ -425,6 +447,7 @@
     "en": [
       "knock to death"
     ],
+    "source": "B",
     "original": "pakalalau",
     "audio": {
       "slug": "pakalalau",
@@ -446,6 +469,7 @@
     "en": [
       "sacrifice. (pig)"
     ],
+    "source": "B",
     "original": "pakalela babui",
     "audio": {
       "slug": "pakalela_babui",
@@ -466,6 +490,7 @@
     "en": [
       "feed"
     ],
+    "source": "B",
     "original": "pakan",
     "audio": {
       "slug": "pakan",
@@ -486,6 +511,7 @@
     "en": [
       "raise, bring up"
     ],
+    "source": "B",
     "original": "pakan",
     "audio": {
       "slug": "pakan",
@@ -508,6 +534,7 @@
     "en": [
       "spider"
     ],
+    "source": "B",
     "original": "pakau",
     "audio": {
       "slug": "pakau",
@@ -528,6 +555,7 @@
     "en": [
       "place (to)"
     ],
+    "source": "B",
     "original": "pakeŋ",
     "audio": {
       "slug": "pakenx",
@@ -548,6 +576,7 @@
     "en": [
       "purse"
     ],
+    "source": "B",
     "original": "pakijen u pira",
     "audio": {
       "slug": "pakijen_u_pira",
@@ -568,6 +597,7 @@
     "en": [
       "seed container"
     ],
+    "source": "B",
     "original": "pakijen u sabak",
     "audio": {
       "slug": "pakijen_u_sabak",
@@ -588,6 +618,7 @@
     "en": [
       "death by hanging"
     ],
+    "source": "B",
     "original": "pakitin",
     "audio": {
       "slug": "pakitin",
@@ -608,6 +639,7 @@
     "en": [
       "entrap (to) < hang"
     ],
+    "source": "B",
     "original": "pakitiu < kitiu",
     "audio": {
       "slug": "pakitiu_kitiu",
@@ -628,6 +660,7 @@
     "en": [
       "knock with fist"
     ],
+    "source": "B",
     "original": "pakjak",
     "audio": {
       "slug": "pakjak",
@@ -648,6 +681,7 @@
     "en": [
       "vessel"
     ],
+    "source": "B",
     "original": "pakjen",
     "audio": {
       "slug": "pakjen",
@@ -668,6 +702,7 @@
     "en": [
       "steel (for striking sparks from flint)"
     ],
+    "source": "B",
     "original": "pakkeŋ",
     "audio": {
       "slug": "pakkenx",
@@ -685,6 +720,7 @@
     "en": [
       "dislike"
     ],
+    "source": "T",
     "original": "pakɭavut",
     "audio": {
       "slug": "paklxavut",
@@ -702,6 +738,7 @@
     "en": [
       "prosperous, much"
     ],
+    "source": "T",
     "original": "pakman",
     "audio": {
       "slug": "pakman",
@@ -723,6 +760,7 @@
     "en": [
       "conduct water (to). let water flow"
     ],
+    "source": "B",
     "original": "pakuali nanəm",
     "audio": {
       "slug": "pakuali_nanoxm",
@@ -740,6 +778,7 @@
     "en": [
       "gentle, quiet"
     ],
+    "source": "M",
     "original": "paɭakun (M), simunaŋ",
     "audio": {
       "slug": "palxakun",
@@ -757,6 +796,7 @@
     "en": [
       "regrettable"
     ],
+    "source": "M",
     "original": "paɭanpussa (M)",
     "audio": {
       "slug": "palxanpussa",
@@ -774,6 +814,7 @@
     "en": [
       "sweep"
     ],
+    "source": "T",
     "original": "paɭasiq, paɭasiqqa",
     "audio": {
       "slug": "palxasiq",
@@ -791,6 +832,7 @@
     "en": [
       "wasteful"
     ],
+    "source": "M",
     "original": "paɭaupus (M)",
     "audio": {
       "slug": "palxaupus",
@@ -808,6 +850,7 @@
     "en": [
       "miscanthus"
     ],
+    "source": "T",
     "original": "paɭaw",
     "audio": {
       "slug": "palxaw",
@@ -825,6 +868,7 @@
     "en": [
       "corsican weed"
     ],
+    "source": "M",
     "original": "paɭisi tsatsin (M)",
     "audio": {
       "slug": "palxisi_tsatsin",
@@ -842,6 +886,7 @@
     "en": [
       "just like this"
     ],
+    "source": "T",
     "original": "paɭmaŋ",
     "audio": {
       "slug": "palxmanx",
@@ -859,6 +904,7 @@
     "en": [
       "unable, may not"
     ],
+    "source": "T",
     "original": "paɭmaŋa",
     "audio": {
       "slug": "palxmanxa",
@@ -879,6 +925,7 @@
     "en": [
       "sea"
     ],
+    "source": "B",
     "original": "palabuŋ",
     "audio": {
       "slug": "palabunx",
@@ -899,6 +946,7 @@
     "en": [
       "sea, ocean"
     ],
+    "source": "B",
     "original": "palabuŋ",
     "audio": {
       "slug": "palabunx",
@@ -919,6 +967,7 @@
     "en": [
       "sea"
     ],
+    "source": "B",
     "original": "palabuŋ",
     "audio": {
       "slug": "palabunx",
@@ -939,6 +988,7 @@
     "en": [
       "search"
     ],
+    "source": "B",
     "original": "palailajitse",
     "audio": {
       "slug": "palailajitse",
@@ -959,6 +1009,7 @@
     "en": [
       "taste (to)"
     ],
+    "source": "B",
     "original": "palamlam",
     "audio": {
       "slug": "palamlam",
@@ -979,6 +1030,7 @@
     "en": [
       "pot"
     ],
+    "source": "B",
     "original": "palaŋpaŋ",
     "audio": {
       "slug": "palanxpanx",
@@ -999,6 +1051,7 @@
     "en": [
       "water jar"
     ],
+    "source": "B",
     "original": "palaŋpaŋ",
     "audio": {
       "slug": "palanxpanx",
@@ -1016,6 +1069,7 @@
     "en": [
       "good person"
     ],
+    "source": "S",
     "original": "palaqunna (S)",
     "audio": {
       "slug": "palaqunna",
@@ -1036,6 +1090,7 @@
     "en": [
       "send a letter"
     ],
+    "source": "B",
     "original": "palase",
     "audio": {
       "slug": "palase",
@@ -1056,6 +1111,7 @@
     "en": [
       "white powder"
     ],
+    "source": "B",
     "original": "palasse",
     "audio": {
       "slug": "palasse",
@@ -1076,6 +1132,7 @@
     "en": [
       "plow (to)"
     ],
+    "source": "B",
     "original": "palatake",
     "audio": {
       "slug": "palatake",
@@ -1096,6 +1153,7 @@
     "en": [
       "liquor jar"
     ],
+    "source": "B",
     "original": "palato",
     "audio": {
       "slug": "palato",
@@ -1116,6 +1174,7 @@
     "en": [
       "migrate (to)"
     ],
+    "source": "B",
     "original": "palitsawa",
     "audio": {
       "slug": "palitsawa",
@@ -1136,6 +1195,7 @@
     "en": [
       "row to and fro"
     ],
+    "source": "B",
     "original": "paliualiu",
     "audio": {
       "slug": "paliualiu",
@@ -1156,6 +1216,7 @@
     "en": [
       "bolt, bar of the door"
     ],
+    "source": "B",
     "original": "paloloŋ",
     "audio": {
       "slug": "palolonx",
@@ -1176,6 +1237,7 @@
     "en": [
       "bowl (small)"
     ],
+    "source": "B",
     "original": "palsuwan",
     "audio": {
       "slug": "palsuwan",
@@ -1193,6 +1255,7 @@
     "en": [
       "friend"
     ],
+    "source": "T",
     "original": "palu",
     "audio": {
       "slug": "palu",
@@ -1213,6 +1276,7 @@
     "en": [
       "gamble (to)"
     ],
+    "source": "B",
     "original": "palubli",
     "audio": {
       "slug": "palubli",
@@ -1235,6 +1299,7 @@
     "en": [
       "upside down. gambling"
     ],
+    "source": "B",
     "original": "palubli. paDbi",
     "audio": {
       "slug": "palubli_padbi",
@@ -1255,6 +1320,7 @@
     "en": [
       "plant (to)"
     ],
+    "source": "B",
     "original": "paluma",
     "audio": {
       "slug": "paluma",
@@ -1277,6 +1343,7 @@
     "en": [
       "plant (to). field"
     ],
+    "source": "B",
     "original": "paluma",
     "audio": {
       "slug": "paluma",
@@ -1297,6 +1364,7 @@
     "en": [
       "sieve (to)"
     ],
+    "source": "B",
     "original": "paLutsun",
     "audio": {
       "slug": "palutsun",
@@ -1314,6 +1382,7 @@
     "en": [
       "not yet"
     ],
+    "source": "S",
     "original": "pama (S)",
     "audio": {
       "slug": "pama",
@@ -1334,6 +1403,7 @@
     "en": [
       "choose"
     ],
+    "source": "B",
     "original": "pametse",
     "audio": {
       "slug": "pametse",
@@ -1351,6 +1421,7 @@
     "en": [
       "finally"
     ],
+    "source": "S",
     "original": "paməŋ (S)",
     "audio": {
       "slug": "pamoxnx",
@@ -1371,6 +1442,7 @@
     "en": [
       "lake"
     ],
+    "source": "B",
     "original": "paŋpaŋ",
     "audio": {
       "slug": "panxpanx",
@@ -1392,6 +1464,7 @@
     "en": [
       "pond"
     ],
+    "source": "B",
     "original": "paŋpaŋ",
     "audio": {
       "slug": "panxpanx",
@@ -1409,6 +1482,7 @@
     "en": [
       "push, set aside"
     ],
+    "source": "M",
     "original": "paŋtsa (M)",
     "audio": {
       "slug": "panxtsa",
@@ -1426,6 +1500,7 @@
     "en": [
       "throw away"
     ],
+    "source": "T",
     "original": "paŋtsay",
     "audio": {
       "slug": "panxtsay",
@@ -1446,6 +1521,7 @@
     "en": [
       "throw (to)"
     ],
+    "source": "B",
     "original": "pana",
     "audio": {
       "slug": "pana",
@@ -1463,6 +1539,7 @@
     "en": [
       "inside, in the house"
     ],
+    "source": "M",
     "original": "paipana (S), pana (M)",
     "audio": {
       "slug": "pana",
@@ -1480,6 +1557,7 @@
     "en": [
       "rice plant"
     ],
+    "source": "S",
     "original": "panay(S)",
     "audio": {
       "slug": "panay",
@@ -1500,6 +1578,7 @@
     "en": [
       "peep into (to), look into"
     ],
+    "source": "B",
     "original": "panette",
     "audio": {
       "slug": "panette",
@@ -1517,6 +1596,7 @@
     "en": [
       "bow and arrow"
     ],
+    "source": "T",
     "original": "pani",
     "audio": {
       "slug": "pani",
@@ -1537,6 +1617,7 @@
     "en": [
       "trample down (to)"
     ],
+    "source": "B",
     "original": "panippe",
     "audio": {
       "slug": "panippe",
@@ -1557,6 +1638,7 @@
     "en": [
       "kick (to)"
     ],
+    "source": "B",
     "original": "panippe",
     "audio": {
       "slug": "panippe",
@@ -1574,6 +1656,7 @@
     "en": [
       "glass"
     ],
+    "source": "M",
     "original": "panjuan (M)",
     "audio": {
       "slug": "panjuan",
@@ -1594,6 +1677,7 @@
     "en": [
       "doll"
     ],
+    "source": "B",
     "original": "pantiti",
     "audio": {
       "slug": "pantiti",
@@ -1614,6 +1698,7 @@
     "en": [
       "bowl"
     ],
+    "source": "B",
     "original": "pantʃawan",
     "audio": {
       "slug": "pantsxawan",
@@ -1634,6 +1719,7 @@
     "en": [
       "bowl (big)"
     ],
+    "source": "B",
     "original": "pantʃawan",
     "audio": {
       "slug": "pantsxawan",
@@ -1651,6 +1737,7 @@
     "en": [
       "definitely"
     ],
+    "source": "T",
     "original": "paoɭatta",
     "audio": {
       "slug": "paolxatta",
@@ -1668,6 +1755,7 @@
     "en": [
       "gun, rifle"
     ],
+    "source": "M",
     "original": "papitsa (M), papitsaan",
     "audio": {
       "slug": "papitsa",
@@ -1685,6 +1773,7 @@
     "en": [
       "gun, rifle"
     ],
+    "source": "T",
     "original": "papitsa (M), papitsaan",
     "audio": {
       "slug": "papitsaan",
@@ -1705,6 +1794,7 @@
     "en": [
       "gun"
     ],
+    "source": "B",
     "original": "papitsan",
     "audio": {
       "slug": "papitsan",
@@ -1722,6 +1812,7 @@
     "en": [
       "probably"
     ],
+    "source": "T",
     "original": "paqni",
     "audio": {
       "slug": "paqni",
@@ -1736,6 +1827,7 @@
     "ja": [
       "(台) lokoktsai"
     ],
+    "source": "B",
     "original": "parakan",
     "audio": {
       "slug": "parakan",
@@ -1753,6 +1845,7 @@
     "en": [
       "listen"
     ],
+    "source": "M",
     "original": "pareŋ (M)",
     "audio": {
       "slug": "parenx",
@@ -1773,6 +1866,7 @@
     "en": [
       "shell"
     ],
+    "source": "B",
     "original": "paretoto",
     "audio": {
       "slug": "paretoto",
@@ -1790,6 +1884,7 @@
     "en": [
       "fool around"
     ],
+    "source": "T",
     "original": "pari",
     "audio": {
       "slug": "pari",
@@ -1807,6 +1902,7 @@
     "en": [
       "handle"
     ],
+    "source": "M",
     "original": "parin (M)",
     "audio": {
       "slug": "parin",
@@ -1824,6 +1920,7 @@
     "en": [
       "wait"
     ],
+    "source": "T",
     "original": "paripari",
     "audio": {
       "slug": "paripari",
@@ -1841,6 +1938,7 @@
     "en": [
       "threshold"
     ],
+    "source": "M",
     "original": "parkatan (M)",
     "audio": {
       "slug": "parkatan",
@@ -1858,6 +1956,7 @@
     "en": [
       "at any rate"
     ],
+    "source": "T",
     "original": "parmarmaŋ",
     "audio": {
       "slug": "parmarmanx",
@@ -1878,6 +1977,7 @@
     "en": [
       "seed"
     ],
+    "source": "B",
     "original": "paruma",
     "audio": {
       "slug": "paruma",
@@ -1899,6 +1999,7 @@
     "en": [
       "store (to)"
     ],
+    "source": "B",
     "original": "paʃarabu",
     "audio": {
       "slug": "pasxarabu",
@@ -1916,6 +2017,7 @@
     "en": [
       "assistant"
     ],
+    "source": "M",
     "original": "pasaɭewai (M)",
     "audio": {
       "slug": "pasalxewai",
@@ -1933,6 +2035,7 @@
     "en": [
       "pack, prepare"
     ],
+    "source": "T",
     "original": "pasaya",
     "audio": {
       "slug": "pasaya",
@@ -1953,6 +2056,7 @@
     "en": [
       "order (to put in)"
     ],
+    "source": "B",
     "original": "pasepǝsepən> masepən",
     "audio": {
       "slug": "pasep_sepoxn_masepoxn",
@@ -1973,6 +2077,7 @@
     "en": [
       "marry"
     ],
+    "source": "B",
     "original": "pasetsau",
     "audio": {
       "slug": "pasetsau",
@@ -1994,6 +2099,7 @@
     "en": [
       "marry"
     ],
+    "source": "B",
     "original": "pasetsawa",
     "audio": {
       "slug": "pasetsawa",
@@ -2011,6 +2117,7 @@
     "en": [
       "perhaps"
     ],
+    "source": "T",
     "original": "pasi",
     "audio": {
       "slug": "pasi",
@@ -2032,6 +2139,7 @@
     "en": [
       "set aside (to). push"
     ],
+    "source": "B",
     "original": "pasiabiri",
     "audio": {
       "slug": "pasiabiri",
@@ -2049,6 +2157,7 @@
     "en": [
       "try"
     ],
+    "source": "M",
     "original": "pasika (M)",
     "audio": {
       "slug": "pasika",
@@ -2069,6 +2178,7 @@
     "en": [
       "take off the upper garment (to)"
     ],
+    "source": "B",
     "original": "pasikulaŋ",
     "audio": {
       "slug": "pasikulanx",
@@ -2086,6 +2196,7 @@
     "en": [
       "order(put in)"
     ],
+    "source": "M",
     "original": "pasipən (M)",
     "audio": {
       "slug": "pasipoxn",
@@ -2103,6 +2214,7 @@
     "en": [
       "listen to an omen bird"
     ],
+    "source": "T",
     "original": "pasisin, psisin",
     "audio": {
       "slug": "pasisin",
@@ -2123,6 +2235,7 @@
     "en": [
       "put in disorder (to)"
     ],
+    "source": "B",
     "original": "pasiusiu",
     "audio": {
       "slug": "pasiusiu",
@@ -2143,6 +2256,7 @@
     "en": [
       "exchange"
     ],
+    "source": "B",
     "original": "pasuise",
     "audio": {
       "slug": "pasuise",
@@ -2164,6 +2278,7 @@
     "en": [
       "representation, agency"
     ],
+    "source": "B",
     "original": "pasuise. <pasuiseŋanan>",
     "audio": {
       "slug": "pasuise",
@@ -2181,6 +2296,7 @@
     "en": [
       "take out"
     ],
+    "source": "S",
     "original": "pasusul (S)",
     "audio": {
       "slug": "pasusul",
@@ -2201,6 +2317,7 @@
     "en": [
       "eager to have"
     ],
+    "source": "B",
     "original": "pasusul'",
     "audio": {
       "slug": "pasusulx",
@@ -2221,6 +2338,7 @@
     "en": [
       "try"
     ],
+    "source": "B",
     "original": "pasǝkka",
     "audio": {
       "slug": "pas_kka",
@@ -2241,6 +2359,7 @@
     "en": [
       "strike (to)"
     ],
+    "source": "B",
     "original": "patai",
     "audio": {
       "slug": "patai",
@@ -2258,6 +2377,7 @@
     "en": [
       "daybreak"
     ],
+    "source": "T",
     "original": "patal",
     "audio": {
       "slug": "patal",
@@ -2278,6 +2398,7 @@
     "en": [
       "receive by the hand"
     ],
+    "source": "B",
     "original": "patala",
     "audio": {
       "slug": "patala",
@@ -2300,6 +2421,7 @@
     "en": [
       "seedling. rice-planting"
     ],
+    "source": "B",
     "original": "patalukke",
     "audio": {
       "slug": "patalukke",
@@ -2320,6 +2442,7 @@
     "en": [
       "paddy field"
     ],
+    "source": "B",
     "original": "patalukke",
     "audio": {
       "slug": "patalukke",
@@ -2340,6 +2463,7 @@
     "en": [
       "question (to)"
     ],
+    "source": "B",
     "original": "pataŋ",
     "audio": {
       "slug": "patanx",
@@ -2360,6 +2484,7 @@
     "en": [
       "lucky"
     ],
+    "source": "B",
     "original": "pataŋataŋa jakuwan",
     "audio": {
       "slug": "patanxatanxa_jakuwan",
@@ -2381,6 +2506,7 @@
     "en": [
       "bring home. wickedness"
     ],
+    "source": "B",
     "original": "patarikul'",
     "audio": {
       "slug": "patarikulx",
@@ -2398,6 +2524,7 @@
     "en": [
       "laugh"
     ],
+    "source": "S",
     "original": "patawa (S)",
     "audio": {
       "slug": "patawa",
@@ -2415,6 +2542,7 @@
     "en": [
       "transplant rice"
     ],
+    "source": "S",
     "original": "patazuq (S), taruq, taruqa, tazuk",
     "audio": {
       "slug": "patazuq",
@@ -2435,6 +2563,7 @@
     "en": [
       "ask (to)"
     ],
+    "source": "B",
     "original": "pateŋ",
     "audio": {
       "slug": "patenx",
@@ -2458,6 +2587,7 @@
     "en": [
       "fire (to set).candle"
     ],
+    "source": "B",
     "original": "patiinhui",
     "audio": {
       "slug": "patiinhui",
@@ -2478,6 +2608,7 @@
     "en": [
       "knead"
     ],
+    "source": "B",
     "original": "patitittse",
     "audio": {
       "slug": "patitittse",
@@ -2499,6 +2630,7 @@
     "en": [
       "wring (to)"
     ],
+    "source": "B",
     "original": "patitse",
     "audio": {
       "slug": "patitse",
@@ -2519,6 +2651,7 @@
     "en": [
       "wind (to)"
     ],
+    "source": "B",
     "original": "patitse",
     "audio": {
       "slug": "patitse",
@@ -2541,6 +2674,7 @@
     "en": [
       "fire (to set), burning"
     ],
+    "source": "B",
     "original": "patəmke",
     "audio": {
       "slug": "patoxmke",
@@ -2558,6 +2692,7 @@
     "en": [
       "question (to)"
     ],
+    "source": "M",
     "original": "patozo (M)",
     "audio": {
       "slug": "patozo",
@@ -2575,6 +2710,7 @@
     "en": [
       "press"
     ],
+    "source": "T",
     "original": "patpatəzan",
     "audio": {
       "slug": "patpatoxzan",
@@ -2596,6 +2732,7 @@
     "en": [
       "bedquilt). futon"
     ],
+    "source": "B",
     "original": "patʃibun",
     "audio": {
       "slug": "patsxibun",
@@ -2617,6 +2754,7 @@
     "en": [
       "mat. futon"
     ],
+    "source": "B",
     "original": "patʃibun",
     "audio": {
       "slug": "patsxibun",
@@ -2634,6 +2772,7 @@
     "en": [
       "return"
     ],
+    "source": "T",
     "original": "patsakay",
     "audio": {
       "slug": "patsakay",
@@ -2651,6 +2790,7 @@
     "en": [
       "raise"
     ],
+    "source": "M",
     "original": "patsakəm (M)",
     "audio": {
       "slug": "patsakoxm",
@@ -2671,6 +2811,7 @@
     "en": [
       "war"
     ],
+    "source": "B",
     "original": "patsaŋan",
     "audio": {
       "slug": "patsanxan",
@@ -2692,6 +2833,7 @@
     "en": [
       "thrust (to)"
     ],
+    "source": "B",
     "original": "patsuktsuk",
     "audio": {
       "slug": "patsuktsuk",
@@ -2709,6 +2851,7 @@
     "en": [
       "enter"
     ],
+    "source": "T",
     "original": "patuqal",
     "audio": {
       "slug": "patuqal",
@@ -2726,6 +2869,7 @@
     "en": [
       "ask"
     ],
+    "source": "T",
     "original": "patuzu",
     "audio": {
       "slug": "patuzu",
@@ -2746,6 +2890,7 @@
     "en": [
       "pursue (to)"
     ],
+    "source": "B",
     "original": "pautʃotsel'",
     "audio": {
       "slug": "pautsxotselx",
@@ -2766,6 +2911,7 @@
     "en": [
       "run after"
     ],
+    "source": "B",
     "original": "pautsek",
     "audio": {
       "slug": "pautsek",
@@ -2788,6 +2934,7 @@
     "en": [
       "go together. follow"
     ],
+    "source": "B",
     "original": "pautsjotsjet",
     "audio": {
       "slug": "pautsjotsjet",
@@ -2808,6 +2955,7 @@
     "en": [
       "competition"
     ],
+    "source": "B",
     "original": "pautsotʃe、",
     "audio": {
       "slug": "pautsotsxe",
@@ -2828,6 +2976,7 @@
     "en": [
       "distribute (to)"
     ],
+    "source": "B",
     "original": "pavalai",
     "audio": {
       "slug": "pavalai",
@@ -2845,6 +2994,7 @@
     "en": [
       "beggar"
     ],
+    "source": "M",
     "original": "pavɭavɭa (M)",
     "audio": {
       "slug": "pavlxavlxa",
@@ -2862,6 +3012,7 @@
     "en": [
       "hear"
     ],
+    "source": "T",
     "original": "pavuŋ",
     "audio": {
       "slug": "pavunx",
@@ -2882,6 +3033,7 @@
     "en": [
       "split one's hair (to)"
     ],
+    "source": "B",
     "original": "pawala",
     "audio": {
       "slug": "pawala",
@@ -2902,6 +3054,7 @@
     "en": [
       "dry in the sun (to)"
     ],
+    "source": "B",
     "original": "paware",
     "audio": {
       "slug": "paware",
@@ -2919,6 +3072,7 @@
     "en": [
       "future"
     ],
+    "source": "T",
     "original": "pay",
     "audio": {
       "slug": "pay",
@@ -2937,6 +3091,7 @@
     "en": [
       "sole"
     ],
+    "source": "M",
     "original": "paɮqatan (M)",
     "audio": {
       "slug": "pazxqatan",
@@ -2954,6 +3109,7 @@
     "en": [
       "honor (to)"
     ],
+    "source": "M",
     "original": "pazakun (M)",
     "audio": {
       "slug": "pazakun",
@@ -2971,6 +3127,7 @@
     "en": [
       "make someone see"
     ],
+    "source": "T",
     "original": "pazal",
     "audio": {
       "slug": "pazal",
@@ -2988,6 +3145,7 @@
     "en": [
       "pearl agates"
     ],
+    "source": "T",
     "original": "paziun",
     "audio": {
       "slug": "paziun",
@@ -3005,6 +3163,7 @@
     "en": [
       "wash"
     ],
+    "source": "T",
     "original": "pelutse",
     "audio": {
       "slug": "pelutse",
@@ -3022,6 +3181,7 @@
     "en": [
       "lame"
     ],
+    "source": "M",
     "original": "peros (M)",
     "audio": {
       "slug": "peros",
@@ -3042,6 +3202,7 @@
     "en": [
       "dish"
     ],
+    "source": "B",
     "original": "piadᵒ",
     "audio": {
       "slug": "piad",
@@ -3062,6 +3223,7 @@
     "en": [
       "silver"
     ],
+    "source": "B",
     "original": "pila",
     "audio": {
       "slug": "pila",
@@ -3082,6 +3244,7 @@
     "en": [
       "silver"
     ],
+    "source": "B",
     "original": "pila",
     "audio": {
       "slug": "pila",
@@ -3099,6 +3262,7 @@
     "en": [
       "silver"
     ],
+    "source": "M",
     "original": "btsawan, pila (M)",
     "audio": {
       "slug": "pila",
@@ -3116,6 +3280,7 @@
     "en": [
       "naked"
     ],
+    "source": "T",
     "original": "pilaŋlaŋ",
     "audio": {
       "slug": "pilanxlanx",
@@ -3138,6 +3303,7 @@
     "en": [
       "honor (to). treat"
     ],
+    "source": "B",
     "original": "piŋajan",
     "audio": {
       "slug": "pinxajan",
@@ -3158,6 +3324,7 @@
     "en": [
       "treat (to)"
     ],
+    "source": "B",
     "original": "piŋajan",
     "audio": {
       "slug": "pinxajan",
@@ -3179,6 +3346,7 @@
     "en": [
       "how many"
     ],
+    "source": "B",
     "original": "pina",
     "audio": {
       "slug": "pina",
@@ -3196,6 +3364,7 @@
     "en": [
       "how many"
     ],
+    "source": "T",
     "original": "pina",
     "audio": {
       "slug": "pina",
@@ -3216,6 +3385,7 @@
     "en": [
       "how many, how much"
     ],
+    "source": "B",
     "original": "pina. <pina tau>, <pinatan>",
     "audio": {
       "slug": "pina",
@@ -3236,6 +3406,7 @@
     "en": [
       "chat"
     ],
+    "source": "B",
     "original": "pinaute bosaŋ",
     "audio": {
       "slug": "pinaute_bosanx",
@@ -3257,6 +3428,7 @@
     "en": [
       "jewel"
     ],
+    "source": "B",
     "original": "pinitʃima",
     "audio": {
       "slug": "pinitsxima",
@@ -3277,6 +3449,7 @@
     "en": [
       "silver coin"
     ],
+    "source": "B",
     "original": "pira",
     "audio": {
       "slug": "pira",
@@ -3294,6 +3467,7 @@
     "en": [
       "eaves"
     ],
+    "source": "T",
     "original": "pisipsi",
     "audio": {
       "slug": "pisipsi",
@@ -3314,6 +3488,7 @@
     "en": [
       "lame"
     ],
+    "source": "B",
     "original": "pitsuke",
     "audio": {
       "slug": "pitsuke",
@@ -3334,6 +3509,7 @@
     "en": [
       "seven"
     ],
+    "source": "B",
     "original": "pitu",
     "audio": {
       "slug": "pitu",
@@ -3351,6 +3527,7 @@
     "en": [
       "keep"
     ],
+    "source": "T",
     "original": "piza",
     "audio": {
       "slug": "piza",
@@ -3371,6 +3548,7 @@
     "en": [
       "dish"
     ],
+    "source": "B",
     "original": "pjel'",
     "audio": {
       "slug": "pjelx",
@@ -3388,6 +3566,7 @@
     "en": [
       "offer a sacrifice"
     ],
+    "source": "T",
     "original": "pkanan",
     "audio": {
       "slug": "pkanan",
@@ -3405,6 +3584,7 @@
     "en": [
       "bottle"
     ],
+    "source": "M",
     "original": "pɭasqo (M)",
     "audio": {
       "slug": "plxasqo",
@@ -3422,6 +3602,7 @@
     "en": [
       "upside down"
     ],
+    "source": "M",
     "original": "ploptsemau (M)",
     "audio": {
       "slug": "ploptsemau",
@@ -3439,6 +3620,7 @@
     "en": [
       "wanton (woman)"
     ],
+    "source": "M",
     "original": "pnam ɮawa (M)",
     "audio": {
       "slug": "pnam_zxawa",
@@ -3456,6 +3638,7 @@
     "en": [
       "liver"
     ],
+    "source": "M",
     "original": "pnazugitan (M)",
     "audio": {
       "slug": "pnazugitan",
@@ -3473,6 +3656,7 @@
     "en": [
       "attach, stick"
     ],
+    "source": "T",
     "original": "pəzməzməkan",
     "audio": {
       "slug": "poxzmoxzmoxkan",
@@ -3493,6 +3677,7 @@
     "en": [
       "spinal cord"
     ],
+    "source": "B",
     "original": "poete",
     "audio": {
       "slug": "poete",
@@ -3513,6 +3698,7 @@
     "en": [
       "knee"
     ],
+    "source": "B",
     "original": "poho",
     "audio": {
       "slug": "poho",
@@ -3530,6 +3716,7 @@
     "en": [
       "earthern teapot"
     ],
+    "source": "M",
     "original": "poɭoqonanuman (M)",
     "audio": {
       "slug": "polxoqonanuman",
@@ -3547,6 +3734,7 @@
     "en": [
       "filled (to be)"
     ],
+    "source": "M",
     "original": "ponel (M)",
     "audio": {
       "slug": "ponel",
@@ -3567,6 +3755,7 @@
     "en": [
       "filled (to be)"
     ],
+    "source": "B",
     "original": "ponel'",
     "audio": {
       "slug": "ponelx",
@@ -3587,6 +3776,7 @@
     "en": [
       "high tide"
     ],
+    "source": "B",
     "original": "ponel' na",
     "audio": {
       "slug": "ponelx_na",
@@ -3604,6 +3794,7 @@
     "en": [
       "fire (to set)"
     ],
+    "source": "M",
     "original": "posete (M)",
     "audio": {
       "slug": "posete",
@@ -3621,6 +3812,7 @@
     "en": [
       "lose"
     ],
+    "source": "T",
     "original": "pqamiamia, tavəl (M)",
     "audio": {
       "slug": "pqamiamia",
@@ -3638,6 +3830,7 @@
     "en": [
       "bend (to)"
     ],
+    "source": "M",
     "original": "prequt (M)",
     "audio": {
       "slug": "prequt",
@@ -3658,6 +3851,7 @@
     "en": [
       "tie (to)"
     ],
+    "source": "M",
     "original": "preteunau (M)",
     "audio": {
       "slug": "preteunau",
@@ -3675,6 +3869,7 @@
     "en": [
       "plant (to)"
     ],
+    "source": "T",
     "original": "pruma",
     "audio": {
       "slug": "pruma",
@@ -3692,6 +3887,7 @@
     "en": [
       "winter"
     ],
+    "source": "M",
     "original": "psenul (M)",
     "audio": {
       "slug": "psenul",
@@ -3709,6 +3905,7 @@
     "en": [
       "try"
     ],
+    "source": "T",
     "original": "psika",
     "audio": {
       "slug": "psika",
@@ -3726,6 +3923,7 @@
     "en": [
       "full"
     ],
+    "source": "T",
     "original": "psuin",
     "audio": {
       "slug": "psuin",
@@ -3743,6 +3941,7 @@
     "en": [
       "scornful laugh"
     ],
+    "source": "T",
     "original": "mtaŋtaŋa (M), ptaŋa",
     "audio": {
       "slug": "ptanxa",
@@ -3760,6 +3959,7 @@
     "en": [
       "warm"
     ],
+    "source": "T",
     "original": "ptse",
     "audio": {
       "slug": "ptse",
@@ -3777,6 +3977,7 @@
     "en": [
       "reparation"
     ],
+    "source": "M",
     "original": "ptsewai (M)",
     "audio": {
       "slug": "ptsewai",
@@ -3794,6 +3995,7 @@
     "en": [
       "taboo"
     ],
+    "source": "M",
     "original": "ptsinan (M)",
     "audio": {
       "slug": "ptsinan",
@@ -3811,6 +4013,7 @@
     "en": [
       "exchange"
     ],
+    "source": "M",
     "original": "ptsjewai (M)",
     "audio": {
       "slug": "ptsjewai",
@@ -3828,6 +4031,7 @@
     "en": [
       "peanut"
     ],
+    "source": "M",
     "original": "pukal (M)",
     "audio": {
       "slug": "pukal",
@@ -3845,6 +4049,7 @@
     "en": [
       "place (to)"
     ],
+    "source": "M",
     "original": "pukatiu (M)",
     "audio": {
       "slug": "pukatiu",
@@ -3865,6 +4070,7 @@
     "en": [
       "peanut"
     ],
+    "source": "B",
     "original": "pukke",
     "audio": {
       "slug": "pukke",
@@ -3886,6 +4092,7 @@
     "en": [
       "hit (to). hammer"
     ],
+    "source": "B",
     "original": "pukon",
     "audio": {
       "slug": "pukon",
@@ -3906,6 +4113,7 @@
     "en": [
       "hit"
     ],
+    "source": "B",
     "original": "pukun",
     "audio": {
       "slug": "pukun",
@@ -3923,6 +4131,7 @@
     "en": [
       "whip"
     ],
+    "source": "M",
     "original": "pukun (M)",
     "audio": {
       "slug": "pukun",
@@ -3943,6 +4152,7 @@
     "en": [
       "anus"
     ],
+    "source": "B",
     "original": "pul'",
     "audio": {
       "slug": "pulx",
@@ -3964,6 +4174,7 @@
     "en": [
       "reverse. backside"
     ],
+    "source": "B",
     "original": "pul'",
     "audio": {
       "slug": "pulx",
@@ -3984,6 +4195,7 @@
     "en": [
       "bottom of the bowl"
     ],
+    "source": "B",
     "original": "pul*",
     "audio": {
       "slug": "pul",
@@ -4001,6 +4213,7 @@
     "en": [
       "stand"
     ],
+    "source": "T",
     "original": "pulilian",
     "audio": {
       "slug": "pulilian",
@@ -4021,6 +4234,7 @@
     "en": [
       "rotten"
     ],
+    "source": "B",
     "original": "pulu",
     "audio": {
       "slug": "pulu",
@@ -4043,6 +4257,7 @@
     "en": [
       "earthern, teapot. pipkin"
     ],
+    "source": "B",
     "original": "puluke",
     "audio": {
       "slug": "puluke",
@@ -4063,6 +4278,7 @@
     "en": [
       "bottle"
     ],
+    "source": "B",
     "original": "pulukke",
     "audio": {
       "slug": "pulukke",
@@ -4085,6 +4301,7 @@
     "en": [
       "smelly, liar"
     ],
+    "source": "B",
     "original": "pulupulu",
     "audio": {
       "slug": "pulupulu",
@@ -4105,6 +4322,7 @@
     "en": [
       "rotten"
     ],
+    "source": "B",
     "original": "pulupulu",
     "audio": {
       "slug": "pulupulu",
@@ -4127,6 +4345,7 @@
     "en": [
       "hood. legging (gaiters)"
     ],
+    "source": "B",
     "original": "puŋpuŋ",
     "audio": {
       "slug": "punxpunx",
@@ -4147,6 +4366,7 @@
     "en": [
       "navel"
     ],
+    "source": "B",
     "original": "puna",
     "audio": {
       "slug": "puna",
@@ -4167,6 +4387,7 @@
     "en": [
       "navel"
     ],
+    "source": "B",
     "original": "puna",
     "audio": {
       "slug": "puna",
@@ -4184,6 +4405,7 @@
     "en": [
       "rotten tree"
     ],
+    "source": "T",
     "original": "punaŋuy",
     "audio": {
       "slug": "punanxuy",
@@ -4201,6 +4423,7 @@
     "en": [
       "enough"
     ],
+    "source": "T",
     "original": "puncl",
     "audio": {
       "slug": "puncl",
@@ -4221,6 +4444,7 @@
     "en": [
       "back"
     ],
+    "source": "B",
     "original": "punod'",
     "audio": {
       "slug": "punodx",
@@ -4244,6 +4468,7 @@
     "en": [
       "dirty soi. dust, trash"
     ],
+    "source": "B",
     "original": "punuŋ",
     "audio": {
       "slug": "pununx",
@@ -4261,6 +4486,7 @@
     "en": [
       "baby"
     ],
+    "source": "M",
     "original": "purkaitasa (M)",
     "audio": {
       "slug": "purkaitasa",
@@ -4278,6 +4504,7 @@
     "en": [
       "fire (to make)"
     ],
+    "source": "M",
     "original": "purqan u zamal (M)",
     "audio": {
       "slug": "purqan_u_zamal",
@@ -4295,6 +4522,7 @@
     "en": [
       "mountain tribes"
     ],
+    "source": "M",
     "original": "pursarum (M)",
     "audio": {
       "slug": "pursarum",
@@ -4312,6 +4540,7 @@
     "en": [
       "milk (to), hold"
     ],
+    "source": "M",
     "original": "purtsa (M)",
     "audio": {
       "slug": "purtsa",
@@ -4329,6 +4558,7 @@
     "en": [
       "thick"
     ],
+    "source": "M",
     "original": "purtta (M)",
     "audio": {
       "slug": "purtta",
@@ -4349,6 +4579,7 @@
     "en": [
       "muontain tribes"
     ],
+    "source": "B",
     "original": "purusalum",
     "audio": {
       "slug": "purusalum",
@@ -4366,6 +4597,7 @@
     "en": [
       "unable"
     ],
+    "source": "S",
     "original": "pusanta (S)",
     "audio": {
       "slug": "pusanta",
@@ -4383,6 +4615,7 @@
     "en": [
       "savages"
     ],
+    "source": "T",
     "original": "pusa|um",
     "audio": {
       "slug": "pusa",
@@ -4403,6 +4636,7 @@
     "en": [
       "prostitute"
     ],
+    "source": "B",
     "original": "puta",
     "audio": {
       "slug": "puta",
@@ -4420,6 +4654,7 @@
     "en": [
       "axe"
     ],
+    "source": "T",
     "original": "putaw",
     "audio": {
       "slug": "putaw",
@@ -4437,6 +4672,7 @@
     "en": [
       "hit (to)"
     ],
+    "source": "M",
     "original": "putaɮ (M)",
     "audio": {
       "slug": "putazx",
@@ -4457,6 +4693,7 @@
     "en": [
       "banana"
     ],
+    "source": "B",
     "original": "puti",
     "audio": {
       "slug": "puti",
@@ -4477,6 +4714,7 @@
     "en": [
       "banana"
     ],
+    "source": "B",
     "original": "puti",
     "audio": {
       "slug": "puti",
@@ -4494,6 +4732,7 @@
     "en": [
       "banana"
     ],
+    "source": "M",
     "original": "puti (M)",
     "audio": {
       "slug": "puti",
@@ -4511,6 +4750,7 @@
     "en": [
       "dragonfly"
     ],
+    "source": "M",
     "original": "putit (M)",
     "audio": {
       "slug": "putit",
@@ -4528,6 +4768,7 @@
     "en": [
       "trample down"
     ],
+    "source": "M",
     "original": "putivqan (M)",
     "audio": {
       "slug": "putivqan",
@@ -4548,6 +4789,7 @@
     "en": [
       "liquor offering"
     ],
+    "source": "B",
     "original": "putsaŋ",
     "audio": {
       "slug": "putsanx",
@@ -4565,6 +4807,7 @@
     "en": [
       "pillow, bench"
     ],
+    "source": "M",
     "original": "putsu (M)",
     "audio": {
       "slug": "putsu",
@@ -4582,6 +4825,7 @@
     "en": [
       "kill a pig, butcher"
     ],
+    "source": "T",
     "original": "puvavuy, pvavuy, pwavavuy",
     "audio": {
       "slug": "puvavuy",
@@ -4599,6 +4843,7 @@
     "en": [
       "put"
     ],
+    "source": "T",
     "original": "pzayan",
     "audio": {
       "slug": "pzayan",

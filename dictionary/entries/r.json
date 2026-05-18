@@ -9,6 +9,7 @@
     "en": [
       "liquor"
     ],
+    "source": "M",
     "original": "raaq(ə) (M)",
     "audio": {
       "slug": "raaq_ox",
@@ -26,6 +27,7 @@
     "en": [
       "liquor"
     ],
+    "source": "M",
     "original": "raaq(ə) (M)",
     "audio": {
       "slug": "raaq_ox",
@@ -46,6 +48,7 @@
     "en": [
       "roof (??) / roop (??)"
     ],
+    "source": "B",
     "original": "rabel'",
     "audio": {
       "slug": "rabelx",
@@ -68,6 +71,7 @@
     "en": [
       "curl (to). miserly.stingy"
     ],
+    "source": "B",
     "original": "rakit",
     "audio": {
       "slug": "rakit",
@@ -89,6 +93,7 @@
     "en": [
       "oyster. clam"
     ],
+    "source": "B",
     "original": "ram/lam",
     "audio": {
       "slug": "ram_lam",
@@ -110,6 +115,7 @@
     "en": [
       "broken, die out (to) (fire)"
     ],
+    "source": "B",
     "original": "rapetse",
     "audio": {
       "slug": "rapetse",
@@ -131,6 +137,7 @@
     "en": [
       "rob (to). snatch away"
     ],
+    "source": "B",
     "original": "rebokke",
     "audio": {
       "slug": "rebokke",
@@ -148,6 +155,7 @@
     "en": [
       "fool"
     ],
+    "source": "M",
     "original": "remazok (M)",
     "audio": {
       "slug": "remazok",
@@ -165,6 +173,7 @@
     "en": [
       "fool"
     ],
+    "source": "M",
     "original": "remazok (M)",
     "audio": {
       "slug": "remazok",
@@ -182,6 +191,7 @@
     "en": [
       "wind (to)"
     ],
+    "source": "T",
     "original": "mrepot (M), repotan",
     "audio": {
       "slug": "repotan",
@@ -203,6 +213,7 @@
     "en": [
       "edge"
     ],
+    "source": "B",
     "original": "ri pipisse",
     "audio": {
       "slug": "ri_pipisse",
@@ -223,6 +234,7 @@
     "en": [
       "stay inside the house (to)"
     ],
+    "source": "B",
     "original": "rimotsomotso",
     "audio": {
       "slug": "rimotsomotso",
@@ -243,6 +255,7 @@
     "en": [
       "center"
     ],
+    "source": "B",
     "original": "rirabu",
     "audio": {
       "slug": "rirabu",
@@ -263,6 +276,7 @@
     "en": [
       "pepper"
     ],
+    "source": "B",
     "original": "rirum",
     "audio": {
       "slug": "rirum",
@@ -284,6 +298,7 @@
     "en": [
       "here, near"
     ],
+    "source": "B",
     "original": "ritsaila",
     "audio": {
       "slug": "ritsaila",
@@ -304,6 +319,7 @@
     "en": [
       "heavy"
     ],
+    "source": "B",
     "original": "ritsuŋ",
     "audio": {
       "slug": "ritsunx",
@@ -322,6 +338,7 @@
     "en": [
       "knead"
     ],
+    "source": "M",
     "original": "romuɭ (M)",
     "audio": {
       "slug": "romulx",
@@ -340,6 +357,7 @@
     "en": [
       "knead"
     ],
+    "source": "M",
     "original": "romuɭ (M)",
     "audio": {
       "slug": "romulx",
@@ -357,6 +375,7 @@
     "en": [
       "netbag"
     ],
+    "source": "M",
     "original": "rubos (M)",
     "audio": {
       "slug": "rubos",
@@ -374,6 +393,7 @@
     "en": [
       "netbag"
     ],
+    "source": "M",
     "original": "rubos (M)",
     "audio": {
       "slug": "rubos",
@@ -394,6 +414,7 @@
     "en": [
       "pestle"
     ],
+    "source": "B",
     "original": "rugrukke",
     "audio": {
       "slug": "rugrukke",
@@ -411,6 +432,7 @@
     "en": [
       "wrinkle"
     ],
+    "source": "M",
     "original": "rupurup (M)",
     "audio": {
       "slug": "rupurup",
@@ -428,6 +450,7 @@
     "en": [
       "wrinkle"
     ],
+    "source": "M",
     "original": "rupurup (M)",
     "audio": {
       "slug": "rupurup",
@@ -445,6 +468,7 @@
     "en": [
       "rain coar (straw)"
     ],
+    "source": "M",
     "original": "ruqappa (M)",
     "audio": {
       "slug": "ruqappa",
@@ -462,6 +486,7 @@
     "en": [
       "rain coar (straw)"
     ],
+    "source": "M",
     "original": "ruqappa (M)",
     "audio": {
       "slug": "ruqappa",
@@ -484,6 +509,7 @@
     "en": [
       "taro, potato"
     ],
+    "source": "B",
     "original": "rutaretare",
     "audio": {
       "slug": "rutaretare",
@@ -501,6 +527,7 @@
     "en": [
       "hole"
     ],
+    "source": "M",
     "original": "ruvu (M)",
     "audio": {
       "slug": "ruvu",
@@ -518,6 +545,7 @@
     "en": [
       "hole"
     ],
+    "source": "M",
     "original": "ruvu (M)",
     "audio": {
       "slug": "ruvu",

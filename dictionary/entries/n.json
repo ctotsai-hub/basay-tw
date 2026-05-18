@@ -10,6 +10,7 @@
     "en": [
       "distal spatio-temporal deixis: that, there; then 3655"
     ],
+    "source": "PAN",
     "original": "-na",
     "audio": {
       "slug": "na",
@@ -28,6 +29,7 @@
     "en": [
       "proximal spatio-temporal deixis: this, here; now 3677"
     ],
+    "source": "PAN",
     "original": "-ni",
     "audio": {
       "slug": "ni",
@@ -45,6 +47,7 @@
     "en": [
       "marker of uncertainty 3687"
     ],
+    "source": "PAN",
     "original": "-nu₁",
     "audio": {
       "slug": "nu",
@@ -62,6 +65,7 @@
     "en": [
       "2sg possessor and non-subject agent 8790"
     ],
+    "source": "PAN",
     "original": "-nu₂",
     "audio": {
       "slug": "nu",
@@ -79,6 +83,7 @@
     "en": [
       "your (GEN>"
     ],
+    "source": "S",
     "original": "-numi (S)",
     "audio": {
       "slug": "numi",
@@ -96,6 +101,7 @@
     "en": [
       "rice cake"
     ],
+    "source": "M",
     "original": "naɭik (S)> naɭikka (M)",
     "audio": {
       "slug": "nalxikka",
@@ -117,6 +123,7 @@
     "en": [
       "outside. garden"
     ],
+    "source": "B",
     "original": "ŋajau",
     "audio": {
       "slug": "nxajau",
@@ -137,6 +144,7 @@
     "en": [
       "chin (lower)"
     ],
+    "source": "B",
     "original": "ŋalau",
     "audio": {
       "slug": "nxalau",
@@ -158,6 +166,7 @@
     "en": [
       "lips. jaw"
     ],
+    "source": "B",
     "original": "ŋalau, ŋarau",
     "audio": {
       "slug": "nxalau",
@@ -178,6 +187,7 @@
     "en": [
       "mouth"
     ],
+    "source": "B",
     "original": "ŋaŋa",
     "audio": {
       "slug": "nxanxa",
@@ -199,6 +209,7 @@
     "en": [
       "beak. bill"
     ],
+    "source": "B",
     "original": "ŋaŋaja",
     "audio": {
       "slug": "nxanxaja",
@@ -219,6 +230,7 @@
     "en": [
       "name"
     ],
+    "source": "B",
     "original": "ŋanan",
     "audio": {
       "slug": "nxanan",
@@ -239,6 +251,7 @@
     "en": [
       "echo"
     ],
+    "source": "B",
     "original": "ŋanan",
     "audio": {
       "slug": "nxanan",
@@ -260,6 +273,7 @@
     "en": [
       "river, stream"
     ],
+    "source": "B",
     "original": "ŋapan",
     "audio": {
       "slug": "nxapan",
@@ -280,6 +294,7 @@
     "en": [
       "mustache"
     ],
+    "source": "B",
     "original": "ŋarau a bukəs",
     "audio": {
       "slug": "nxarau_a_bukoxs",
@@ -300,6 +315,7 @@
     "en": [
       "spit"
     ],
+    "source": "B",
     "original": "ŋatsai",
     "audio": {
       "slug": "nxatsai",
@@ -317,6 +333,7 @@
     "en": [
       "saliva, spit"
     ],
+    "source": "M",
     "original": "ŋatsdi (M)",
     "audio": {
       "slug": "nxatsdi",
@@ -337,6 +354,7 @@
     "en": [
       "rice harvest"
     ],
+    "source": "B",
     "original": "ŋatu",
     "audio": {
       "slug": "nxatu",
@@ -354,6 +372,7 @@
     "en": [
       "in front of"
     ],
+    "source": "T",
     "original": "ŋayaw",
     "audio": {
       "slug": "nxayaw",
@@ -371,6 +390,7 @@
     "en": [
       "stone god"
     ],
+    "source": "T",
     "original": "ŋazi",
     "audio": {
       "slug": "nxazi",
@@ -388,6 +408,7 @@
     "en": [
       "chin (lower)"
     ],
+    "source": "M",
     "original": "ŋazui (M)",
     "audio": {
       "slug": "nxazui",
@@ -405,6 +426,7 @@
     "en": [
       "too"
     ],
+    "source": "T",
     "original": "ŋkia, ŋkiia",
     "audio": {
       "slug": "nxkia",
@@ -425,6 +447,7 @@
     "en": [
       "mountain"
     ],
+    "source": "B",
     "original": "ŋonon",
     "audio": {
       "slug": "nxonon",
@@ -445,6 +468,7 @@
     "en": [
       "forest"
     ],
+    "source": "B",
     "original": "ŋonon",
     "audio": {
       "slug": "nxonon",
@@ -462,6 +486,7 @@
     "en": [
       "nose"
     ],
+    "source": "M",
     "original": "ŋorŋor (M)",
     "audio": {
       "slug": "nxornxor",
@@ -482,6 +507,7 @@
     "en": [
       "nose"
     ],
+    "source": "B",
     "original": "ŋutsutsje",
     "audio": {
       "slug": "nxutsutsje",
@@ -499,6 +525,7 @@
     "en": [
       "bow of the ship"
     ],
+    "source": "M",
     "original": "ŋuzus (M)",
     "audio": {
       "slug": "nxuzus",
@@ -516,6 +543,7 @@
     "en": [
       "cape"
     ],
+    "source": "T",
     "original": "ŋuzus, ŋuzus taqəl (M)",
     "audio": {
       "slug": "nxuzus",
@@ -533,6 +561,7 @@
     "en": [
       "cape"
     ],
+    "source": "M",
     "original": "ŋuzus, ŋuzus taqəl (M)",
     "audio": {
       "slug": "nxuzus_taqoxl",
@@ -550,6 +579,7 @@
     "en": [
       "1pl. excl. genitive, our 9707"
     ],
+    "source": "PAN",
     "original": "n-ami",
     "audio": {
       "slug": "n_ami",
@@ -567,6 +597,7 @@
     "en": [
       "2pl. genitive, your, by you 9711"
     ],
+    "source": "PAN",
     "original": "n-amu",
     "audio": {
       "slug": "n_amu",
@@ -584,6 +615,7 @@
     "en": [
       "1st pers. incl. genitive; our 7698"
     ],
+    "source": "PAN",
     "original": "n-ita",
     "audio": {
       "slug": "n_ita",
@@ -601,6 +633,7 @@
     "en": [
       "to swim 8382"
     ],
+    "source": "PAN",
     "original": "N<um>aŋuy",
     "audio": {
       "slug": "n_um_anxuy",
@@ -618,6 +651,7 @@
     "en": [
       "aspect marker"
     ],
+    "source": "T",
     "original": "na",
     "audio": {
       "slug": "na",
@@ -635,6 +669,7 @@
     "en": [
       "linker marking emphatic attribution 3654"
     ],
+    "source": "PAN",
     "original": "na₂",
     "audio": {
       "slug": "na",
@@ -652,6 +687,7 @@
     "en": [
       "genitive of plural personal names 8693"
     ],
+    "source": "PAN",
     "original": "na₃",
     "audio": {
       "slug": "na",
@@ -669,6 +705,7 @@
     "en": [
       "conjunction: and 3652"
     ],
+    "source": "PAN",
     "original": "Na₁",
     "audio": {
       "slug": "na",
@@ -686,6 +723,7 @@
     "en": [
       "already 8754"
     ],
+    "source": "PAN",
     "original": "Na₂",
     "audio": {
       "slug": "na",
@@ -703,6 +741,7 @@
     "en": [
       "mother (address)"
     ],
+    "source": "T",
     "original": "na, na:na,. nai, nawie",
     "audio": {
       "slug": "na",
@@ -720,6 +759,7 @@
     "en": [
       "what(?) 3703"
     ],
+    "source": "PAN",
     "original": "na-nu",
     "audio": {
       "slug": "na_nu",
@@ -742,6 +782,7 @@
     "en": [
       "already (preterium)"
     ],
+    "source": "B",
     "original": "na. <kuman na>",
     "audio": {
       "slug": "na",
@@ -762,6 +803,7 @@
     "en": [
       "fire"
     ],
+    "source": "B",
     "original": "na:maD*",
     "audio": {
       "slug": "na_mad",
@@ -780,6 +822,7 @@
     "en": [
       "breakers, surf, waves 3639"
     ],
+    "source": "PAN",
     "original": "Nabek",
     "audio": {
       "slug": "nabek",
@@ -798,6 +841,7 @@
     "en": [
       "accustomed to, familiar with; tame 3641"
     ],
+    "source": "PAN",
     "original": "najam",
     "audio": {
       "slug": "najam",
@@ -815,6 +859,7 @@
     "en": [
       "rice cake"
     ],
+    "source": "S",
     "original": "naɭik (S)> naɭikka (M)",
     "audio": {
       "slug": "nalxik",
@@ -832,6 +877,7 @@
     "en": [
       "come"
     ],
+    "source": "S",
     "original": "naɭiɭi (S)",
     "audio": {
       "slug": "nalxilxi",
@@ -849,6 +895,7 @@
     "en": [
       "cicada 3644"
     ],
+    "source": "PAN",
     "original": "Nali",
     "audio": {
       "slug": "nali",
@@ -869,6 +916,7 @@
     "en": [
       "fire"
     ],
+    "source": "B",
     "original": "namaD'",
     "audio": {
       "slug": "namadx",
@@ -886,6 +934,7 @@
     "en": [
       "iron (metal) 7307"
     ],
+    "source": "PAN",
     "original": "Namat",
     "audio": {
       "slug": "namat",
@@ -906,6 +955,7 @@
     "en": [
       "lightning"
     ],
+    "source": "B",
     "original": "nameD",
     "audio": {
       "slug": "named",
@@ -926,6 +976,7 @@
     "en": [
       "thunderbolt"
     ],
+    "source": "B",
     "original": "namel', nameD*",
     "audio": {
       "slug": "namelx",
@@ -943,6 +994,7 @@
     "en": [
       "we"
     ],
+    "source": "T",
     "original": "nami, yami",
     "audio": {
       "slug": "nami",
@@ -965,6 +1017,7 @@
     "en": [
       "crack, gap"
     ],
+    "source": "B",
     "original": "naŋaja, laŋa",
     "audio": {
       "slug": "nanxaja",
@@ -985,6 +1038,7 @@
     "en": [
       "rich"
     ],
+    "source": "B",
     "original": "naŋala > manaŋala",
     "audio": {
       "slug": "nanxala_mananxala",
@@ -1002,6 +1056,7 @@
     "en": [
       "name"
     ],
+    "source": "M",
     "original": "naŋan (M)",
     "audio": {
       "slug": "nanxan",
@@ -1022,6 +1077,7 @@
     "en": [
       "tongue (??) movement of tongue (??)"
     ],
+    "source": "B",
     "original": "naŋanaŋat'",
     "audio": {
       "slug": "nanxananxatx",
@@ -1039,6 +1095,7 @@
     "en": [
       "swim"
     ],
+    "source": "M",
     "original": "naŋui (M)",
     "audio": {
       "slug": "nanxui",
@@ -1056,6 +1113,7 @@
     "en": [
       "pus 7221"
     ],
+    "source": "PAN",
     "original": "naNaq",
     "audio": {
       "slug": "nanaq",
@@ -1073,6 +1131,7 @@
     "en": [
       "to swim 8380"
     ],
+    "source": "PAN",
     "original": "Naŋuy",
     "audio": {
       "slug": "nanxuy",
@@ -1093,6 +1152,7 @@
     "en": [
       "water"
     ],
+    "source": "B",
     "original": "nanom",
     "audio": {
       "slug": "nanom",
@@ -1113,6 +1173,7 @@
     "en": [
       "swim"
     ],
+    "source": "B",
     "original": "nanui",
     "audio": {
       "slug": "nanui",
@@ -1133,6 +1194,7 @@
     "en": [
       "tomb"
     ],
+    "source": "B",
     "original": "napuŋ. ninapuŋan. ninapuŋ",
     "audio": {
       "slug": "napunx_ninapunxan_ninapunx",
@@ -1150,6 +1212,7 @@
     "en": [
       "boundary between adjacent rice fields 7230"
     ],
+    "source": "PAN",
     "original": "Naqeji",
     "audio": {
       "slug": "naqeji",
@@ -1167,6 +1230,7 @@
     "en": [
       "to wait 72"
     ],
+    "source": "PAN",
     "original": "naRa",
     "audio": {
       "slug": "nara",
@@ -1184,6 +1248,7 @@
     "en": [
       "outside, garden"
     ],
+    "source": "M",
     "original": "nasan (M)",
     "audio": {
       "slug": "nasan",
@@ -1201,6 +1266,7 @@
     "en": [
       "relatives"
     ],
+    "source": "M",
     "original": "nasoani (M)",
     "audio": {
       "slug": "nasoani",
@@ -1218,6 +1284,7 @@
     "en": [
       "cook by boiling 8110"
     ],
+    "source": "PAN",
     "original": "Nasu",
     "audio": {
       "slug": "nasu",
@@ -1235,6 +1302,7 @@
     "en": [
       "cook by boiling 3650"
     ],
+    "source": "PAN",
     "original": "nasuk",
     "audio": {
       "slug": "nasuk",
@@ -1252,6 +1320,7 @@
     "en": [
       "outside 7286"
     ],
+    "source": "PAN",
     "original": "NataD",
     "audio": {
       "slug": "natad",
@@ -1269,6 +1338,7 @@
     "en": [
       "vegetables 7284"
     ],
+    "source": "PAN",
     "original": "NaCeŋ",
     "audio": {
       "slug": "natenx",
@@ -1290,6 +1360,7 @@
     "en": [
       "beads, glass.ball"
     ],
+    "source": "B",
     "original": "natəŋ",
     "audio": {
       "slug": "natoxnx",
@@ -1310,6 +1381,7 @@
     "en": [
       "light (in weight)"
     ],
+    "source": "B",
     "original": "natsaŋ",
     "audio": {
       "slug": "natsanx",
@@ -1331,6 +1403,7 @@
     "en": [
       "light, so, so far"
     ],
+    "source": "B",
     "original": "natsaŋ",
     "audio": {
       "slug": "natsanx",
@@ -1348,6 +1421,7 @@
     "en": [
       "light (in weight)"
     ],
+    "source": "M",
     "original": "munatsaŋ (M), natsaŋ (M)",
     "audio": {
       "slug": "natsanx",
@@ -1365,6 +1439,7 @@
     "en": [
       "wanton (man)"
     ],
+    "source": "M",
     "original": "natswan (M)",
     "audio": {
       "slug": "natswan",
@@ -1382,6 +1457,7 @@
     "en": [
       "pity"
     ],
+    "source": "T",
     "original": "nawaika",
     "audio": {
       "slug": "nawaika",
@@ -1399,6 +1475,7 @@
     "en": [
       "deictic particle: this 6644"
     ],
+    "source": "PAN",
     "original": "nay",
     "audio": {
       "slug": "nay",
@@ -1416,6 +1493,7 @@
     "en": [
       "a plant: Sambucus formosana 12731"
     ],
+    "source": "PAN",
     "original": "Nayad",
     "audio": {
       "slug": "nayad",
@@ -1433,6 +1511,7 @@
     "en": [
       "what’s up"
     ],
+    "source": "S",
     "original": "nazaunii (S)",
     "audio": {
       "slug": "nazaunii",
@@ -1450,6 +1529,7 @@
     "en": [
       "if"
     ],
+    "source": "S",
     "original": "ne (S)",
     "audio": {
       "slug": "ne",
@@ -1467,6 +1547,7 @@
     "en": [
       "what thing? 7324"
     ],
+    "source": "PAN",
     "original": "nema",
     "audio": {
       "slug": "nema",
@@ -1487,6 +1568,7 @@
     "en": [
       "brick"
     ],
+    "source": "B",
     "original": "nemal' a batu",
     "audio": {
       "slug": "nemalx_a_batu",
@@ -1507,6 +1589,7 @@
     "en": [
       "red dog"
     ],
+    "source": "B",
     "original": "nemen uatsu",
     "audio": {
       "slug": "nemen_uatsu",
@@ -1524,6 +1607,7 @@
     "en": [
       "think 3662"
     ],
+    "source": "PAN",
     "original": "nemnem",
     "audio": {
       "slug": "nemnem",
@@ -1544,6 +1628,7 @@
     "en": [
       "betel nut"
     ],
+    "source": "B",
     "original": "neməŋ",
     "audio": {
       "slug": "nemoxnx",
@@ -1564,6 +1649,7 @@
     "en": [
       "Europeans"
     ],
+    "source": "B",
     "original": "neməŋ basai",
     "audio": {
       "slug": "nemoxnx_basai",
@@ -1584,6 +1670,7 @@
     "en": [
       "bend (to)"
     ],
+    "source": "B",
     "original": "nenause, lawatse (?)",
     "audio": {
       "slug": "nenause",
@@ -1602,6 +1689,7 @@
     "en": [
       "look, see 3666"
     ],
+    "source": "PAN",
     "original": "Neŋ",
     "audio": {
       "slug": "nenx",
@@ -1620,6 +1708,7 @@
     "en": [
       "stare, look fixedly 3664"
     ],
+    "source": "PAN",
     "original": "NeŋNeŋ",
     "audio": {
       "slug": "nenxnenx",
@@ -1640,6 +1729,7 @@
     "en": [
       "testicle"
     ],
+    "source": "B",
     "original": "netel'",
     "audio": {
       "slug": "netelx",
@@ -1660,6 +1750,7 @@
     "en": [
       "testicle"
     ],
+    "source": "B",
     "original": "netel'",
     "audio": {
       "slug": "netelx",
@@ -1677,6 +1768,7 @@
     "en": [
       "bite off the surface of something 6040"
     ],
+    "source": "PAN",
     "original": "ŋabŋab",
     "audio": {
       "slug": "nxabnxab",
@@ -1694,6 +1786,7 @@
     "en": [
       "name 7493"
     ],
+    "source": "PAN",
     "original": "ŋajan",
     "audio": {
       "slug": "nxajan",
@@ -1712,6 +1805,7 @@
     "en": [
       "saliva, drivel 10991"
     ],
+    "source": "PAN",
     "original": "ŋajay",
     "audio": {
       "slug": "nxajay",
@@ -1729,6 +1823,7 @@
     "en": [
       "to chew, masticate 8764"
     ],
+    "source": "PAN",
     "original": "ŋalŋal",
     "audio": {
       "slug": "nxalnxal",
@@ -1746,6 +1841,7 @@
     "en": [
       "open the mouth 7984"
     ],
+    "source": "PAN",
     "original": "ŋaŋa₂",
     "audio": {
       "slug": "nxanxa",
@@ -1764,6 +1860,7 @@
     "en": [
       "sound produced by an animal; unintelligible muttering of a person 8594"
     ],
+    "source": "PAN",
     "original": "ŋawŋaw",
     "audio": {
       "slug": "nxawnxaw",
@@ -1781,6 +1878,7 @@
     "en": [
       "headhunting 6526"
     ],
+    "source": "PAN",
     "original": "ŋayaw",
     "audio": {
       "slug": "nxayaw",
@@ -1798,6 +1896,7 @@
     "en": [
       "growl 8546"
     ],
+    "source": "PAN",
     "original": "ŋerŋer",
     "audio": {
       "slug": "nxernxer",
@@ -1815,6 +1914,7 @@
     "en": [
       "to pant, be out of breath 8555"
     ],
+    "source": "PAN",
     "original": "ŋesŋes",
     "audio": {
       "slug": "nxesnxes",
@@ -1832,6 +1932,7 @@
     "en": [
       "gnash the teeth 8147"
     ],
+    "source": "PAN",
     "original": "ŋeCŋeC",
     "audio": {
       "slug": "nxetnxet",
@@ -1849,6 +1950,7 @@
     "en": [
       "gnaw, nibble 8556"
     ],
+    "source": "PAN",
     "original": "ŋetŋet",
     "audio": {
       "slug": "nxetnxet",
@@ -1866,6 +1968,7 @@
     "en": [
       "toothless 8564"
     ],
+    "source": "PAN",
     "original": "ŋidaw",
     "audio": {
       "slug": "nxidaw",
@@ -1883,6 +1986,7 @@
     "en": [
       "painful sensation in teeth, as from eating something sour 7503"
     ],
+    "source": "PAN",
     "original": "ŋilu",
     "audio": {
       "slug": "nxilu",
@@ -1900,6 +2004,7 @@
     "en": [
       "tooth 7138"
     ],
+    "source": "PAN",
     "original": "ŋipen",
     "audio": {
       "slug": "nxipen",
@@ -1917,6 +2022,7 @@
     "en": [
       "beard 6683"
     ],
+    "source": "PAN",
     "original": "ŋiSŋiS",
     "audio": {
       "slug": "nxisnxis",
@@ -1934,6 +2040,7 @@
     "en": [
       "show annoyance or irritation 8595"
     ],
+    "source": "PAN",
     "original": "ŋiCŋiC",
     "audio": {
       "slug": "nxitnxit",
@@ -1951,6 +2058,7 @@
     "en": [
       "gnaw 6070"
     ],
+    "source": "PAN",
     "original": "ŋitŋit₁",
     "audio": {
       "slug": "nxitnxit",
@@ -1968,6 +2076,7 @@
     "en": [
       "to snore, growl, grunt 8598"
     ],
+    "source": "PAN",
     "original": "ŋusŋus",
     "audio": {
       "slug": "nxusnxus",
@@ -1985,6 +2094,7 @@
     "en": [
       "nosebleed 6589"
     ],
+    "source": "PAN",
     "original": "ŋuSuN",
     "audio": {
       "slug": "nxusun",
@@ -2003,6 +2113,7 @@
     "en": [
       "nasal area; snout 7553"
     ],
+    "source": "PAN",
     "original": "ŋusuq",
     "audio": {
       "slug": "nxusuq",
@@ -2020,6 +2131,7 @@
     "en": [
       "nasal mucus 6674"
     ],
+    "source": "PAN",
     "original": "ŋuSuR",
     "audio": {
       "slug": "nxusur",
@@ -2039,6 +2151,7 @@
     "en": [
       "genitive case marker for singular personal names and pronouns; marker of possession, part-to-whole relationships, and agency of a non-actor voice verb 8781"
     ],
+    "source": "PAN",
     "original": "ni",
     "audio": {
       "slug": "ni",
@@ -2056,6 +2169,7 @@
     "en": [
       "3sg. agent/possessor 385"
     ],
+    "source": "PAN",
     "original": "ni-a",
     "audio": {
       "slug": "ni_a",
@@ -2073,6 +2187,7 @@
     "en": [
       "3sg. genitive, his, her 12619"
     ],
+    "source": "PAN",
     "original": "ni-ia",
     "audio": {
       "slug": "ni_ia",
@@ -2090,6 +2205,7 @@
     "en": [
       "whose? 8840"
     ],
+    "source": "PAN",
     "original": "ni-ima",
     "audio": {
       "slug": "ni_ima",
@@ -2107,6 +2223,7 @@
     "en": [
       "catch"
     ],
+    "source": "T",
     "original": "niaɭa",
     "audio": {
       "slug": "nialxa",
@@ -2124,6 +2241,7 @@
     "en": [
       "what"
     ],
+    "source": "S",
     "original": "niana (S)",
     "audio": {
       "slug": "niana",
@@ -2144,6 +2262,7 @@
     "en": [
       "bear (animal)"
     ],
+    "source": "B",
     "original": "nianai",
     "audio": {
       "slug": "nianai",
@@ -2161,6 +2280,7 @@
     "en": [
       "six people"
     ],
+    "source": "T",
     "original": "nianəm",
     "audio": {
       "slug": "nianoxm",
@@ -2178,6 +2298,7 @@
     "en": [
       "three people"
     ],
+    "source": "T",
     "original": "niatsu",
     "audio": {
       "slug": "niatsu",
@@ -2195,6 +2316,7 @@
     "en": [
       "two people"
     ],
+    "source": "T",
     "original": "niazusa",
     "audio": {
       "slug": "niazusa",
@@ -2212,6 +2334,7 @@
     "en": [
       "lair, den of an animal 6588"
     ],
+    "source": "PAN",
     "original": "Nibu",
     "audio": {
       "slug": "nibu",
@@ -2230,6 +2353,7 @@
     "en": [
       "rock shelter, cave under a rock 7123"
     ],
+    "source": "PAN",
     "original": "Nihib",
     "audio": {
       "slug": "nihib",
@@ -2247,6 +2371,7 @@
     "en": [
       "revive, alive"
     ],
+    "source": "T",
     "original": "niiuits",
     "audio": {
       "slug": "niiuits",
@@ -2264,6 +2389,7 @@
     "en": [
       "bailer in a canoe 8539"
     ],
+    "source": "PAN",
     "original": "nimas",
     "audio": {
       "slug": "nimas",
@@ -2284,6 +2410,7 @@
     "en": [
       "listen"
     ],
+    "source": "B",
     "original": "niŋal', manŋgal'. maniŋad'",
     "audio": {
       "slug": "ninxalx",
@@ -2301,6 +2428,7 @@
     "en": [
       "shadow"
     ],
+    "source": "M",
     "original": "niŋu (M)",
     "audio": {
       "slug": "ninxu",
@@ -2322,6 +2450,7 @@
     "en": [
       "intimate"
     ],
+    "source": "B",
     "original": "ninamunan",
     "audio": {
       "slug": "ninamunan",
@@ -2342,6 +2471,7 @@
     "en": [
       "cemetery"
     ],
+    "source": "B",
     "original": "ninaupuŋ",
     "audio": {
       "slug": "ninaupunx",
@@ -2359,6 +2489,7 @@
     "en": [
       "tooth 7136"
     ],
+    "source": "PAN",
     "original": "nipen",
     "audio": {
       "slug": "nipen",
@@ -2376,6 +2507,7 @@
     "en": [
       "thinness (of materials) 8860"
     ],
+    "source": "PAN",
     "original": "Nipis",
     "audio": {
       "slug": "nipis",
@@ -2396,6 +2528,7 @@
     "en": [
       "cape"
     ],
+    "source": "B",
     "original": "nippe",
     "audio": {
       "slug": "nippe",
@@ -2414,6 +2547,7 @@
     "en": [
       "breath; to breathe 7967"
     ],
+    "source": "PAN",
     "original": "NiSawa",
     "audio": {
       "slug": "nisawa",
@@ -2431,6 +2565,7 @@
     "en": [
       "type of soil, clay 12782"
     ],
+    "source": "PAN",
     "original": "Nitaq",
     "audio": {
       "slug": "nitaq",
@@ -2448,6 +2583,7 @@
     "en": [
       "sap of a tree or plant 3674"
     ],
+    "source": "PAN",
     "original": "Niteq",
     "audio": {
       "slug": "niteq",
@@ -2465,6 +2601,7 @@
     "en": [
       "dry"
     ],
+    "source": "M",
     "original": "nitsaŋ (M)",
     "audio": {
       "slug": "nitsanx",
@@ -2486,6 +2623,7 @@
     "en": [
       "callosity. corn"
     ],
+    "source": "B",
     "original": "nitsau a mata",
     "audio": {
       "slug": "nitsau_a_mata",
@@ -2506,6 +2644,7 @@
     "en": [
       "simlar, just like"
     ],
+    "source": "B",
     "original": "nitsawa",
     "audio": {
       "slug": "nitsawa",
@@ -2527,6 +2666,7 @@
     "en": [
       "stoop, give birth to"
     ],
+    "source": "B",
     "original": "nituŋuD'",
     "audio": {
       "slug": "nitunxudx",
@@ -2547,6 +2687,7 @@
     "en": [
       "sit (to)"
     ],
+    "source": "B",
     "original": "nituŋul', <nituŋul u takan>",
     "audio": {
       "slug": "nitunxulx",
@@ -2565,6 +2706,7 @@
     "en": [
       "thinness, slenderness 7050"
     ],
+    "source": "PAN",
     "original": "Niwaŋ",
     "audio": {
       "slug": "niwanx",
@@ -2582,6 +2724,7 @@
     "en": [
       "split one's hair"
     ],
+    "source": "M",
     "original": "njaŋuzinan (M)",
     "audio": {
       "slug": "njanxuzinan",
@@ -2602,6 +2745,7 @@
     "en": [
       "fish (to)"
     ],
+    "source": "B",
     "original": "njatsan baute",
     "audio": {
       "slug": "njatsan_baute",
@@ -2619,6 +2763,7 @@
     "en": [
       "question marker"
     ],
+    "source": "T",
     "original": "nu",
     "audio": {
       "slug": "nu",
@@ -2637,6 +2782,7 @@
     "en": [
       "if, when (in future) 3715"
     ],
+    "source": "PAN",
     "original": "nu₁",
     "audio": {
       "slug": "nu",
@@ -2654,6 +2800,7 @@
     "en": [
       "genitive case marker for common nouns (cf. *na, *ni) 8802"
     ],
+    "source": "PAN",
     "original": "nu₃",
     "audio": {
       "slug": "nu",
@@ -2671,6 +2818,7 @@
     "en": [
       "future marker with words for days 11638"
     ],
+    "source": "PAN",
     "original": "nu-",
     "audio": {
       "slug": "nu",
@@ -2688,6 +2836,7 @@
     "en": [
       "to make hemp yarn 12666"
     ],
+    "source": "PAN",
     "original": "nuka",
     "audio": {
       "slug": "nuka",
@@ -2705,6 +2854,7 @@
     "en": [
       "wound 3707"
     ],
+    "source": "PAN",
     "original": "Nuka",
     "audio": {
       "slug": "nuka",
@@ -2722,6 +2872,7 @@
     "en": [
       "foot-binding"
     ],
+    "source": "M",
     "original": "nukanan (M)",
     "audio": {
       "slug": "nukanan",
@@ -2739,6 +2890,7 @@
     "en": [
       "deserve"
     ],
+    "source": "T",
     "original": "nuɭatsuŋ",
     "audio": {
       "slug": "nulxatsunx",
@@ -2759,6 +2911,7 @@
     "en": [
       "bad"
     ],
+    "source": "B",
     "original": "nulate",
     "audio": {
       "slug": "nulate",
@@ -2776,6 +2929,7 @@
     "en": [
       "how? 12730"
     ],
+    "source": "PAN",
     "original": "numa",
     "audio": {
       "slug": "numa",
@@ -2796,6 +2950,7 @@
     "en": [
       "see (to)"
     ],
+    "source": "B",
     "original": "numaD'",
     "audio": {
       "slug": "numadx",
@@ -2817,6 +2972,7 @@
     "en": [
       "die. see"
     ],
+    "source": "B",
     "original": "numaD'. <jaku numaD'>",
     "audio": {
       "slug": "numadx",
@@ -2837,6 +2993,7 @@
     "en": [
       "forward, front"
     ],
+    "source": "B",
     "original": "numaD'. <mita numaD'>",
     "audio": {
       "slug": "numadx",
@@ -2857,6 +3014,7 @@
     "en": [
       "true"
     ],
+    "source": "B",
     "original": "numakən",
     "audio": {
       "slug": "numakoxn",
@@ -2874,6 +3032,7 @@
     "en": [
       "(??)"
     ],
+    "source": "B",
     "original": "numal lasse >numalasse",
     "audio": {
       "slug": "numal_lasse_numalasse",
@@ -2891,6 +3050,7 @@
     "en": [
       "bamboo shoot"
     ],
+    "source": "M",
     "original": "nunai (M)",
     "audio": {
       "slug": "nunai",
@@ -2908,6 +3068,7 @@
     "en": [
       "half"
     ],
+    "source": "T",
     "original": "nunuan",
     "audio": {
       "slug": "nunuan",
@@ -2925,6 +3086,7 @@
     "en": [
       "female breast 7789"
     ],
+    "source": "PAN",
     "original": "nunuh",
     "audio": {
       "slug": "nunuh",
@@ -2945,6 +3107,7 @@
     "en": [
       "vigorous"
     ],
+    "source": "B",
     "original": "nununuŋusse",
     "audio": {
       "slug": "nunununxusse",
@@ -2965,6 +3128,7 @@
     "en": [
       "netbag"
     ],
+    "source": "B",
     "original": "nupuŋ",
     "audio": {
       "slug": "nupunx",
@@ -2982,6 +3146,7 @@
     "en": [
       "bone marrow 7124"
     ],
+    "source": "PAN",
     "original": "NuqeS",
     "audio": {
       "slug": "nuqes",
@@ -2999,6 +3164,7 @@
     "en": [
       "gamble (to)"
     ],
+    "source": "M",
     "original": "nurvi (M)",
     "audio": {
       "slug": "nurvi",
@@ -3016,6 +3182,7 @@
     "en": [
       "rice mortar 3539"
     ],
+    "source": "PAN",
     "original": "Nusuŋ",
     "audio": {
       "slug": "nusunx",
@@ -3036,6 +3203,7 @@
     "en": [
       "dried cuttlefish"
     ],
+    "source": "B",
     "original": "nusunuse",
     "audio": {
       "slug": "nusunuse",
@@ -3057,6 +3225,7 @@
     "en": [
       "octopus. squid"
     ],
+    "source": "B",
     "original": "nutse",
     "audio": {
       "slug": "nutse",
@@ -3075,6 +3244,7 @@
     "en": [
       "join two things to give added length (rope, bamboo, etc.) 7188"
     ],
+    "source": "PAN",
     "original": "Nutud",
     "audio": {
       "slug": "nutud",
@@ -3092,6 +3262,7 @@
     "en": [
       "Indian corn"
     ],
+    "source": "M",
     "original": "nuvasai (M)",
     "audio": {
       "slug": "nuvasai",
@@ -3109,6 +3280,7 @@
     "en": [
       "rice cookies"
     ],
+    "source": "S",
     "original": "nuzuŋ (S)",
     "audio": {
       "slug": "nuzunx",
