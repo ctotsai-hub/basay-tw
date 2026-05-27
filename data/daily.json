@@ -78,8 +78,9 @@
     "usage": "那是什麼東西？"
   },
   "2026-05-17": {
-    "word": "luai kawase nay lamulamu.",
-    "gloss": "exist language MOD.DEP  RED-viliage",
-    "usage": "語言因社群而存在，"
+    "word": "na makila sakusa Basay a kawase",
+    "gloss": "Now, everyone say Basay LIG langage",
+    "usage": "各位來說巴賽語",
+    "tts": "n:a, m:akila s:akusa, [[b:a,s,ai,=]], a, k:awase"
   }
 }
