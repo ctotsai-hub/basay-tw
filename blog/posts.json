@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "slug": "blog260529",
+      "title": "Ipay（吳林氏伊排）AI 上色照與文化復原",
+      "subtitle": "",
+      "date": "2026-05-29",
+      "reading_time": "約 8 分鐘",
+      "tags": [
+        "相片",
+        "Ipay"
+      ],
+      "tags_special": [],
+      "dialect": "",
+      "excerpt": "因為有老人家當年留下的珍貴語音檔案，才能在 90 年後的今天，成功復元巴賽語（Basay）的音韻系統。由衷感謝 Ipay 氏與淺井惠倫等先賢的奉獻 🙏"
+    },
+    {
       "slug": "blog260515",
       "title": "巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記",
       "subtitle": "",
