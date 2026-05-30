@@ -2,7 +2,7 @@
   {
     "id": "0589",
     "basay": "pabalai",
-    "category": "25",
+    "category": "24",
     "zh": [
       "賠償",
       "給"
@@ -61,7 +61,7 @@
   {
     "id": "0590",
     "basay": "pabusutse",
-    "category": "25",
+    "category": "20",
     "zh": [
       "帶出來"
     ],
@@ -82,7 +82,7 @@
   {
     "id": "0591",
     "basay": "pahiuhiu",
-    "category": "08",
+    "category": "14",
     "zh": [
       "分散"
     ],
@@ -353,9 +353,9 @@
   {
     "id": "0597",
     "basay": "pajana",
-    "category": "25",
+    "category": "24",
     "zh": [
-      "失去"
+      "遺失"
     ],
     "ja": [
       "紛失スル"
@@ -395,7 +395,7 @@
   {
     "id": "0599",
     "basay": "pakaitattse",
-    "category": "25",
+    "category": "24",
     "zh": [
       "幫助"
     ],
@@ -416,7 +416,7 @@
   {
     "id": "0600",
     "basay": "pakalakau < lakau",
-    "category": "25",
+    "category": "28",
     "zh": [
       "催眠"
     ],
@@ -458,7 +458,7 @@
   {
     "id": "0602",
     "basay": "pakalela babui",
-    "category": "07",
+    "category": "19",
     "zh": [
       "獻祭",
       "豬祭品"
@@ -501,7 +501,7 @@
   {
     "id": "0604",
     "basay": "pakan",
-    "category": "14",
+    "category": "24",
     "zh": [
       "舉起，撫養"
     ],
@@ -547,7 +547,7 @@
     "basay": "paken'",
     "category": "25",
     "zh": [
-      "地方"
+      "置放"
     ],
     "ja": [
       "置く"
@@ -587,7 +587,7 @@
   {
     "id": "0608",
     "basay": "pakijen u sabak",
-    "category": "08",
+    "category": "15",
     "zh": [
       "種子容器"
     ],
@@ -629,7 +629,7 @@
   {
     "id": "0610",
     "basay": "pakitiu < kitiu",
-    "category": "25",
+    "category": "15",
     "zh": [
       "誘捕掛"
     ],
@@ -673,7 +673,7 @@
     "basay": "pakjen",
     "category": "09",
     "zh": [
-      "血管"
+      "容器"
     ],
     "ja": [
       "容器"
@@ -692,9 +692,9 @@
   {
     "id": "0613",
     "basay": "pakken'",
-    "category": "11",
+    "category": "09",
     "zh": [
-      "火鐮鋼"
+      "鋼（用於用燧石打火）"
     ],
     "ja": [
       "火打金"
@@ -713,7 +713,7 @@
   {
     "id": "1710",
     "basay": "pakl'avut",
-    "category": "34",
+    "category": "29",
     "zh": [
       "厭煩"
     ],
@@ -731,7 +731,7 @@
   {
     "id": "1711",
     "basay": "pakman",
-    "category": "34",
+    "category": "24",
     "zh": [
       "興盛•充分"
     ],
@@ -771,7 +771,7 @@
   {
     "id": "1714",
     "basay": "pal'akun",
-    "category": "32",
+    "category": "29",
     "zh": [
       "温和的"
     ],
@@ -807,7 +807,7 @@
   {
     "id": "1717",
     "basay": "pal'asiq | pal'asiqqa",
-    "category": "34",
+    "category": "25",
     "zh": [
       "打掃"
     ],
@@ -825,7 +825,7 @@
   {
     "id": "1718",
     "basay": "pal'aupus",
-    "category": "35",
+    "category": "24",
     "zh": [
       "浪費的"
     ],
@@ -843,7 +843,7 @@
   {
     "id": "1719",
     "basay": "pal'aw",
-    "category": "08",
+    "category": "15",
     "zh": [
       "芒草"
     ],
@@ -978,7 +978,7 @@
   {
     "id": "0618",
     "basay": "palailajitse",
-    "category": "25",
+    "category": "15",
     "zh": [
       "搜尋"
     ],
@@ -999,7 +999,7 @@
   {
     "id": "0619",
     "basay": "palamlam",
-    "category": "28",
+    "category": "27",
     "zh": [
       "品嚐"
     ],
@@ -1041,7 +1041,7 @@
   {
     "id": "0621",
     "basay": "palan'pan'",
-    "category": "11",
+    "category": "09",
     "zh": [
       "水罐"
     ],
@@ -1164,7 +1164,7 @@
   {
     "id": "0625",
     "basay": "palitsawa",
-    "category": "25",
+    "category": "20",
     "zh": [
       "遷移"
     ],
@@ -1185,9 +1185,9 @@
   {
     "id": "0626",
     "basay": "paliualiu",
-    "category": "25",
+    "category": "20",
     "zh": [
-      "來回劃行"
+      "這裡那裡划船"
     ],
     "ja": [
       "アチラヤコチラヲコグ"
@@ -1266,7 +1266,7 @@
   {
     "id": "0628",
     "basay": "palubli",
-    "category": "25",
+    "category": "24",
     "zh": [
       "賭博"
     ],
@@ -1287,7 +1287,7 @@
   {
     "id": "0629",
     "basay": "palubli. paDbi",
-    "category": "14",
+    "category": "24",
     "zh": [
       "倒掛",
       "賭博"
@@ -1354,9 +1354,9 @@
   {
     "id": "0632",
     "basay": "paLutsun",
-    "category": "25",
+    "category": "27",
     "zh": [
-      "篩"
+      "（古井）轉動"
     ],
     "ja": [
       "(フル井ニテ）まわす"
@@ -1414,7 +1414,7 @@
   {
     "id": "1725",
     "basay": "pamo'n'",
-    "category": "34",
+    "category": "01",
     "zh": [
       "總算"
     ],
@@ -1550,7 +1550,7 @@
   {
     "id": "1726",
     "basay": "panay",
-    "category": "08",
+    "category": "15",
     "zh": [
       "稻"
     ],
@@ -1730,7 +1730,7 @@
   {
     "id": "1731",
     "basay": "paol'atta",
-    "category": "34",
+    "category": "02",
     "zh": [
       "必定"
     ],
@@ -1805,7 +1805,7 @@
   {
     "id": "1734",
     "basay": "paqni",
-    "category": "32",
+    "category": "01",
     "zh": [
       "大概"
     ],
@@ -1824,7 +1824,7 @@
     "id": "0644",
     "basay": "parakan",
     "category": "34",
-    "ja": [
+    "zh": [
       "(台) lokoktsai"
     ],
     "source": "B",
@@ -1877,7 +1877,7 @@
   {
     "id": "1736",
     "basay": "pari",
-    "category": "34",
+    "category": "25",
     "zh": [
       "玩"
     ],
@@ -1913,7 +1913,7 @@
   {
     "id": "1738",
     "basay": "paripari",
-    "category": "34",
+    "category": "13",
     "zh": [
       "等"
     ],
@@ -2010,7 +2010,7 @@
   {
     "id": "1741",
     "basay": "pasal'ewai",
-    "category": "34",
+    "category": "05",
     "zh": [
       "助理"
     ],
@@ -2168,7 +2168,7 @@
   {
     "id": "0653",
     "basay": "pasikulan'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "脫掉上衣"
     ],
@@ -2207,7 +2207,7 @@
   {
     "id": "1746",
     "basay": "pasisin | psisin",
-    "category": "07",
+    "category": "19",
     "zh": [
       "聽占卜烏"
     ],
@@ -2227,7 +2227,7 @@
     "basay": "pasiusiu",
     "category": "25",
     "zh": [
-      "混亂"
+      "弄亂"
     ],
     "ja": [
       "散ラカス"
@@ -2351,7 +2351,7 @@
     "basay": "patai",
     "category": "25",
     "zh": [
-      "罷工"
+      "打"
     ],
     "ja": [
       "打ツ"
@@ -2370,7 +2370,7 @@
   {
     "id": "1748",
     "basay": "patal",
-    "category": "11",
+    "category": "13",
     "zh": [
       "天亮"
     ],
@@ -2409,7 +2409,7 @@
   {
     "id": "0660",
     "basay": "patalukke",
-    "category": "08",
+    "category": "15",
     "zh": [
       "幼苗",
       "水稻種植"
@@ -2432,7 +2432,7 @@
   {
     "id": "0661",
     "basay": "patalukke",
-    "category": "10",
+    "category": "15",
     "zh": [
       "稻田"
     ],
@@ -2453,9 +2453,9 @@
   {
     "id": "0666",
     "basay": "patan'",
-    "category": "25",
+    "category": "28",
     "zh": [
-      "問題"
+      "問"
     ],
     "ja": [
       "問ネル"
@@ -2474,7 +2474,7 @@
   {
     "id": "0662",
     "basay": "patan'atan'a jakuwan",
-    "category": "32",
+    "category": "19",
     "zh": [
       "幸運的"
     ],
@@ -2495,13 +2495,13 @@
   {
     "id": "0663",
     "basay": "patarikul'",
-    "category": "25",
+    "category": "20",
     "zh": [
       "帶回家",
-      "邪惡"
+      "左右上下表裏相反=回家"
     ],
     "ja": [
-      "持ｯテル,サカシマニ"
+      "持ｯテ帰る,サカシマニ"
     ],
     "en": [
       "bring home. wickedness"
@@ -2535,7 +2535,7 @@
   {
     "id": "1750",
     "basay": "patazuq",
-    "category": "08",
+    "category": "15",
     "zh": [
       "插秧"
     ],
@@ -2553,7 +2553,7 @@
   {
     "id": "0667",
     "basay": "paten'",
-    "category": "25",
+    "category": "28",
     "zh": [
       "問"
     ],
@@ -2574,7 +2574,7 @@
   {
     "id": "0668",
     "basay": "patiinhui",
-    "category": "11",
+    "category": "27",
     "zh": [
       "點火",
       "蠟燭"
@@ -2662,7 +2662,7 @@
   {
     "id": "0665",
     "basay": "pato'mke",
-    "category": "11",
+    "category": "27",
     "zh": [
       "點火",
       "燒傷"
@@ -2703,7 +2703,7 @@
   {
     "id": "1755",
     "basay": "patpato'zan",
-    "category": "34",
+    "category": "18",
     "zh": [
       "壓住"
     ],
@@ -2822,7 +2822,7 @@
   {
     "id": "0675",
     "basay": "patsuktsuk",
-    "category": "14",
+    "category": "25",
     "zh": [
       "推力"
     ],
@@ -2844,7 +2844,7 @@
   {
     "id": "1756",
     "basay": "patuqal",
-    "category": "34",
+    "category": "14",
     "zh": [
       "進入"
     ],
@@ -2862,7 +2862,7 @@
   {
     "id": "1757",
     "basay": "patuzu",
-    "category": "34",
+    "category": "28",
     "zh": [
       "問"
     ],
@@ -2880,7 +2880,7 @@
   {
     "id": "0679",
     "basay": "pauts'otsel'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "追求"
     ],
@@ -2944,8 +2944,8 @@
   },
   {
     "id": "0680",
-    "basay": "pautsots'e、",
-    "category": "07",
+    "basay": "pautsots'e",
+    "category": "24",
     "zh": [
       "競賽"
     ],
@@ -2968,7 +2968,7 @@
     "basay": "pavalai",
     "category": "25",
     "zh": [
-      "散佈"
+      "分配"
     ],
     "ja": [
       "分配スル"
@@ -3044,7 +3044,7 @@
   {
     "id": "0683",
     "basay": "paware",
-    "category": "11",
+    "category": "27",
     "zh": [
       "在陽光下曬乾"
     ],
@@ -3065,7 +3065,7 @@
   {
     "id": "1762",
     "basay": "pay",
-    "category": "34",
+    "category": "29",
     "zh": [
       "將要"
     ],
@@ -3083,7 +3083,7 @@
   {
     "id": "1723",
     "basay": "paz'qatan",
-    "category": "06",
+    "category": "07",
     "zh": [
       "甲殼（亀",
       "蟹〉"
@@ -3138,7 +3138,7 @@
   {
     "id": "1765",
     "basay": "paziun",
-    "category": "34",
+    "category": "09",
     "zh": [
       "圓珠"
     ],
@@ -3174,7 +3174,7 @@
   {
     "id": "1767",
     "basay": "peros",
-    "category": "32",
+    "category": "28",
     "zh": [
       "跛腳的"
     ],
@@ -3273,7 +3273,7 @@
   {
     "id": "1769",
     "basay": "pilan'lan'",
-    "category": "22",
+    "category": "06",
     "zh": [
       "赤裸"
     ],
@@ -3291,7 +3291,7 @@
   {
     "id": "0690",
     "basay": "pin'ajan",
-    "category": "25",
+    "category": "24",
     "zh": [
       "榮譽",
       "對待"
@@ -3314,7 +3314,7 @@
   {
     "id": "0691",
     "basay": "pin'ajan",
-    "category": "25",
+    "category": "24",
     "zh": [
       "對待"
     ],
@@ -3520,7 +3520,7 @@
   {
     "id": "1772",
     "basay": "piza",
-    "category": "34",
+    "category": "01",
     "zh": [
       "保留"
     ],
@@ -3595,7 +3595,7 @@
   {
     "id": "1775",
     "basay": "ploptsemau",
-    "category": "14",
+    "category": "28",
     "zh": [
       "顛倒"
     ],
@@ -3709,7 +3709,7 @@
   {
     "id": "1778",
     "basay": "pol'oqonanuman",
-    "category": "10",
+    "category": "09",
     "zh": [
       "土瓶"
     ],
@@ -3787,7 +3787,7 @@
   {
     "id": "1780",
     "basay": "posete",
-    "category": "11",
+    "category": "27",
     "zh": [
       "起火"
     ],
@@ -3862,7 +3862,7 @@
   {
     "id": "1785",
     "basay": "pruma",
-    "category": "08",
+    "category": "15",
     "zh": [
       "種"
     ],
@@ -3880,7 +3880,7 @@
   {
     "id": "1786",
     "basay": "psenul",
-    "category": "11",
+    "category": "13",
     "zh": [
       "冬天"
     ],
@@ -3916,7 +3916,7 @@
   {
     "id": "1788",
     "basay": "psuin",
-    "category": "34",
+    "category": "28",
     "zh": [
       "飽"
     ],
@@ -3952,7 +3952,7 @@
   {
     "id": "1789",
     "basay": "ptse",
-    "category": "34",
+    "category": "32",
     "zh": [
       "暧和"
     ],
@@ -3970,7 +3970,7 @@
   {
     "id": "1790",
     "basay": "ptsewai",
-    "category": "34",
+    "category": "24",
     "zh": [
       "賠償"
     ],
@@ -4060,7 +4060,7 @@
   {
     "id": "0701",
     "basay": "pukke",
-    "category": "14",
+    "category": "08",
     "zh": [
       "花生"
     ],
@@ -4081,7 +4081,7 @@
   {
     "id": "0702",
     "basay": "pukon",
-    "category": "25",
+    "category": "18",
     "zh": [
       "打",
       "槌"
@@ -4103,7 +4103,7 @@
   {
     "id": "0703",
     "basay": "pukun",
-    "category": "25",
+    "category": "18",
     "zh": [
       "打"
     ],
@@ -4124,7 +4124,7 @@
   {
     "id": "1795",
     "basay": "pukun",
-    "category": "09",
+    "category": "25",
     "zh": [
       "抽打"
     ],
@@ -4165,7 +4165,7 @@
     "basay": "pul'",
     "category": "14",
     "zh": [
-      "撤銷",
+      "反向",
       "背面"
     ],
     "ja": [
@@ -4245,7 +4245,7 @@
   {
     "id": "0707",
     "basay": "puluke",
-    "category": "10",
+    "category": "09",
     "zh": [
       "土器",
       "茶壺",
@@ -4434,7 +4434,7 @@
   {
     "id": "0715",
     "basay": "punod'",
-    "category": "25",
+    "category": "14",
     "zh": [
       "後退"
     ],
@@ -4497,7 +4497,7 @@
   {
     "id": "1800",
     "basay": "purqan u zamal",
-    "category": "11",
+    "category": "27",
     "zh": [
       "起火"
     ],
@@ -4608,7 +4608,7 @@
   {
     "id": "1804",
     "basay": "pusa|um",
-    "category": "34",
+    "category": "05",
     "zh": [
       "生番"
     ],
@@ -4761,7 +4761,7 @@
   {
     "id": "1810",
     "basay": "putivqan",
-    "category": "14",
+    "category": "28",
     "zh": [
       "踩，踐踏"
     ],
@@ -4779,7 +4779,7 @@
   {
     "id": "0721",
     "basay": "putsan'",
-    "category": "27",
+    "category": "19",
     "zh": [
       "供酒"
     ],
@@ -4818,7 +4818,7 @@
   {
     "id": "1812",
     "basay": "puvavuy | pvavuy | pwavavuy",
-    "category": "07",
+    "category": "19",
     "zh": [
       "殺豬"
     ],
@@ -4836,7 +4836,7 @@
   {
     "id": "1813",
     "basay": "pzayan",
-    "category": "34",
+    "category": "25",
     "zh": [
       "放置"
     ],

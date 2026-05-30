@@ -75,7 +75,7 @@
   {
     "id": "1150",
     "basay": "-ay",
-    "category": "34",
+    "category": "36",
     "zh": [
       "未來"
     ],
@@ -147,7 +147,7 @@
   {
     "id": "2388",
     "basay": "a(lR)im",
-    "category": "34",
+    "category": "28",
     "zh": [
       "胰臟",
       "脾臟"
@@ -341,7 +341,7 @@
   {
     "id": "2376",
     "basay": "ai",
-    "category": "25",
+    "category": "20",
     "zh": [
       "來"
     ],
@@ -438,7 +438,7 @@
   {
     "id": "2378",
     "basay": "aken",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱單數賓格"
     ],
@@ -475,7 +475,7 @@
   {
     "id": "2380",
     "basay": "aku",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱單數主格",
       "我"
@@ -720,7 +720,7 @@
   {
     "id": "2386",
     "basay": "alikas",
-    "category": "34",
+    "category": "13",
     "zh": [
       "快速的",
       "迅速的"
@@ -739,7 +739,7 @@
   {
     "id": "2387",
     "basay": "alim",
-    "category": "28",
+    "category": "29",
     "zh": [
       "忘記"
     ],
@@ -811,7 +811,7 @@
   {
     "id": "2392",
     "basay": "amen",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱複數排他賓格"
     ],
@@ -829,7 +829,7 @@
   {
     "id": "2393",
     "basay": "ami",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱複數排他主格代詞「我們」"
     ],
@@ -889,7 +889,7 @@
   {
     "id": "1124",
     "basay": "amo'no'n",
-    "category": "14",
+    "category": "28",
     "zh": [
       "醒來"
     ],
@@ -907,7 +907,7 @@
   {
     "id": "2395",
     "basay": "amu",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第二人稱複數主格代詞「你們」"
     ],
@@ -925,7 +925,7 @@
   {
     "id": "1131",
     "basay": "an'al'i",
-    "category": "32",
+    "category": "24",
     "zh": [
       "富裕的,有錢的"
     ],
@@ -943,7 +943,7 @@
   {
     "id": "1132",
     "basay": "an'ale",
-    "category": "32",
+    "category": "24",
     "zh": [
       "富裕的,有錢的"
     ],
@@ -961,7 +961,7 @@
   {
     "id": "1133",
     "basay": "an'ari",
-    "category": "32",
+    "category": "24",
     "zh": [
       "富裕的,有錢的"
     ],
@@ -1071,7 +1071,7 @@
   {
     "id": "2400",
     "basay": "angay",
-    "category": "34",
+    "category": "20",
     "zh": [
       "出發（？）"
     ],
@@ -1285,7 +1285,7 @@
   {
     "id": "1136",
     "basay": "apanmu",
-    "category": "34",
+    "category": "24",
     "zh": [
       "幫忙"
     ],
@@ -1489,7 +1489,7 @@
   {
     "id": "1139",
     "basay": "asmayan",
-    "category": "08",
+    "category": "27",
     "zh": [
       "做飯糰"
     ],
@@ -1620,7 +1620,7 @@
   {
     "id": "0016",
     "basay": "atsap",
-    "category": "25",
+    "category": "20",
     "zh": [
       "拿來"
     ],
@@ -1680,7 +1680,7 @@
   {
     "id": "1140",
     "basay": "atuvanan",
-    "category": "07",
+    "category": "19",
     "zh": [
       "獻祭(豬)"
     ],
@@ -1698,7 +1698,7 @@
   {
     "id": "1141",
     "basay": "au",
-    "category": "25",
+    "category": "20",
     "zh": [
       "來"
     ],
@@ -1716,7 +1716,7 @@
   {
     "id": "2411",
     "basay": "au",
-    "category": "34",
+    "category": "36",
     "zh": [
       "是",
       "對"
@@ -1735,7 +1735,7 @@
   {
     "id": "0018",
     "basay": "aui",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -1756,7 +1756,7 @@
   {
     "id": "0019",
     "basay": "aui na",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -1777,7 +1777,7 @@
   {
     "id": "1142",
     "basay": "auit na",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -1795,7 +1795,7 @@
   {
     "id": "1143",
     "basay": "aukal'ina",
-    "category": "34",
+    "category": "13",
     "zh": [
       "趕快"
     ],
@@ -1813,7 +1813,7 @@
   {
     "id": "1144",
     "basay": "aukal'inal'ina",
-    "category": "34",
+    "category": "13",
     "zh": [
       "趕快"
     ],
@@ -1831,7 +1831,7 @@
   {
     "id": "1145",
     "basay": "aukanina",
-    "category": "34",
+    "category": "13",
     "zh": [
       "趕快"
     ],
@@ -1888,7 +1888,7 @@
   {
     "id": "1147",
     "basay": "avlas",
-    "category": "08",
+    "category": "27",
     "zh": [
       "搗米"
     ],
@@ -1924,7 +1924,7 @@
   {
     "id": "1149",
     "basay": "awi",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -1961,7 +1961,7 @@
   {
     "id": "2413",
     "basay": "aya",
-    "category": "34",
+    "category": "36",
     "zh": [
       "詞義未詳"
     ],
@@ -1979,7 +1979,7 @@
   {
     "id": "1151",
     "basay": "ayam",
-    "category": "08",
+    "category": "15",
     "zh": [
       "耕種"
     ],
@@ -2033,7 +2033,7 @@
   {
     "id": "3299",
     "basay": "ñamñam",
-    "category": "34",
+    "category": "32",
     "zh": [
       "美味（？）"
     ],
@@ -2051,7 +2051,7 @@
   {
     "id": "3301",
     "basay": "ñawñaw",
-    "category": "25",
+    "category": "27",
     "zh": [
       "沖洗",
       "清洗"

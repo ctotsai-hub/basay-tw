@@ -45,7 +45,7 @@
   {
     "id": "0123",
     "basay": "habe",
-    "category": "08",
+    "category": "24",
     "zh": [
       "糧食"
     ],
@@ -131,7 +131,7 @@
   {
     "id": "0127",
     "basay": "habitte",
-    "category": "08",
+    "category": "15",
     "zh": [
       "水稻收割"
     ],
@@ -196,7 +196,7 @@
   {
     "id": "0130",
     "basay": "hahai makuwatau",
-    "category": "29",
+    "category": "19",
     "zh": [
       "不祥之兆"
     ],
@@ -219,7 +219,7 @@
     "basay": "hahoe kuman",
     "category": "32",
     "zh": [
-      "令人厭惡的"
+      "味道很糟"
     ],
     "ja": [
       "マツイ"
@@ -238,7 +238,7 @@
   {
     "id": "0133",
     "basay": "hahoi a Len",
-    "category": "11",
+    "category": "10",
     "zh": [
       "北"
     ],
@@ -407,7 +407,7 @@
   {
     "id": "0140",
     "basay": "halanasse",
-    "category": "32",
+    "category": "13",
     "zh": [
       "慢慢地"
     ],
@@ -516,7 +516,8 @@
     "basay": "halinahin'",
     "category": "25",
     "zh": [
-      "蹣跚"
+      "蹣跚",
+      "搖搖晃晃"
     ],
     "ja": [
       "グラグラスル"
@@ -681,7 +682,7 @@
   {
     "id": "0152",
     "basay": "hananase",
-    "category": "32",
+    "category": "13",
     "zh": [
       "慢慢地"
     ],
@@ -744,7 +745,7 @@
   {
     "id": "2795",
     "basay": "hangut",
-    "category": "28",
+    "category": "32",
     "zh": [
       "氣味",
       "臭味"
@@ -763,7 +764,7 @@
   {
     "id": "0155",
     "basay": "hanisse",
-    "category": "08",
+    "category": "25",
     "zh": [
       "爬行"
     ],
@@ -786,6 +787,9 @@
     "id": "0156",
     "basay": "hapo'd'",
     "category": "34",
+    "zh": [
+      "(台) choki"
+    ],
     "ja": [
       "(台) choki"
     ],
@@ -802,7 +806,7 @@
     "basay": "hapo'tte",
     "category": "18",
     "zh": [
-      "堅持"
+      "黏著，黏附"
     ],
     "ja": [
       "粘着スル",
@@ -843,9 +847,9 @@
   {
     "id": "0159",
     "basay": "haputtse",
-    "category": "25",
+    "category": "18",
     "zh": [
-      "黏附，束縛"
+      "黏附，打結"
     ],
     "ja": [
       "クッツク",
@@ -865,7 +869,7 @@
   {
     "id": "0160",
     "basay": "harate",
-    "category": "25",
+    "category": "28",
     "zh": [
       "咬"
     ],
@@ -886,7 +890,7 @@
   {
     "id": "0161",
     "basay": "haratte",
-    "category": "25",
+    "category": "28",
     "zh": [
       "咬"
     ],
@@ -928,7 +932,7 @@
   {
     "id": "0163",
     "basay": "harits'i",
-    "category": "08",
+    "category": "15",
     "zh": [
       "輾米"
     ],
@@ -1014,7 +1018,7 @@
   {
     "id": "0167",
     "basay": "haron",
-    "category": "32",
+    "category": "24",
     "zh": [
       "貧窮的"
     ],
@@ -1077,7 +1081,7 @@
   {
     "id": "0170",
     "basay": "hatal'",
-    "category": "35",
+    "category": "32",
     "zh": [
       "骯髒的"
     ],
@@ -1098,7 +1102,7 @@
   {
     "id": "0171",
     "basay": "hatat",
-    "category": "35",
+    "category": "32",
     "zh": [
       "不修邊幅",
       "淘氣"
@@ -1120,7 +1124,7 @@
   {
     "id": "0172",
     "basay": "hatop",
-    "category": "22",
+    "category": "28",
     "zh": [
       "出紅疹"
     ],
@@ -1204,7 +1208,7 @@
   {
     "id": "0176",
     "basay": "hauite",
-    "category": "25",
+    "category": "28",
     "zh": [
       "招手"
     ],
@@ -1331,7 +1335,7 @@
   {
     "id": "2796",
     "basay": "hesek",
-    "category": "08",
+    "category": "12",
     "zh": [
       "打樁",
       "插木樁"
@@ -1350,7 +1354,7 @@
   {
     "id": "0182",
     "basay": "hetel'",
-    "category": "21",
+    "category": "27",
     "zh": [
       "抱著餵奶"
     ],
@@ -1392,7 +1396,7 @@
   {
     "id": "0184",
     "basay": "heton'oton'osse",
-    "category": "25",
+    "category": "19",
     "zh": [
       "離婚"
     ],
@@ -1458,7 +1462,7 @@
     "basay": "hilhitse",
     "category": "25",
     "zh": [
-      "文件"
+      "鑢"
     ],
     "ja": [
       "鑢"
@@ -1545,7 +1549,7 @@
   {
     "id": "2797",
     "basay": "hisep",
-    "category": "34",
+    "category": "28",
     "zh": [
       "吸",
       "吸入"
@@ -1591,7 +1595,7 @@
       "低的"
     ],
     "ja": [
-      "アミ (onur)"
+      "低キ"
     ],
     "en": [
       "low"
@@ -1609,10 +1613,10 @@
     "basay": "hmtil'",
     "category": "32",
     "zh": [
-      "醒"
+      "醒來"
     ],
     "ja": [
-      "低キ"
+      "醒める"
     ],
     "en": [
       "awake (to)"
@@ -1628,9 +1632,9 @@
   {
     "id": "0194",
     "basay": "hmtit",
-    "category": "25",
+    "category": "28",
     "zh": [
-      "??"
+      "醒來"
     ],
     "ja": [
       "醒メル"
@@ -1668,6 +1672,28 @@
     }
   },
   {
+    "id": "3324",
+    "basay": "hmunote",
+    "category": "29",
+    "zh": [
+      "真令人失望。"
+    ],
+    "ja": [
+      "イマイマシイ",
+      "残念"
+    ],
+    "en": [
+      "regreat"
+    ],
+    "source": "B",
+    "original": "hmunote",
+    "audio": {
+      "slug": "hmunote",
+      "ipay": "dictionary/audio/ipay/h/hmunote.mp3",
+      "hokkien": "dictionary/audio/hokkien/h/hmunote.mp3"
+    }
+  },
+  {
     "id": "2798",
     "basay": "hukaq",
     "category": "25",
@@ -1694,8 +1720,7 @@
       "昂貴的"
     ],
     "ja": [
-      "イマイマシイ",
-      "残念"
+      "高価"
     ],
     "en": [
       "expensive"
@@ -1774,7 +1799,7 @@
   {
     "id": "2799",
     "basay": "hulhul",
-    "category": "07",
+    "category": "23",
     "zh": [
       "（狗）吠叫"
     ],
@@ -1792,9 +1817,9 @@
   {
     "id": "0200",
     "basay": "hum-note | hm-nutte",
-    "category": "25",
+    "category": "28",
     "zh": [
-      "醒"
+      "醒來"
     ],
     "ja": [
       "起ル"
@@ -1856,7 +1881,7 @@
   {
     "id": "1854",
     "basay": "hya",
-    "category": "34",
+    "category": "12",
     "zh": [
       "磚塊"
     ],

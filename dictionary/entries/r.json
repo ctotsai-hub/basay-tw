@@ -40,7 +40,7 @@
     "basay": "rabel'",
     "category": "12",
     "zh": [
-      "屋頂/屋頂"
+      "屋頂/屋頂(??)"
     ],
     "ja": [
       "(??)"
@@ -59,10 +59,10 @@
   {
     "id": "0723",
     "basay": "rakit",
-    "category": "25",
+    "category": "18",
     "zh": [
       "捲曲",
-      "吝嗇的"
+      "吝嗇的(?)"
     ],
     "ja": [
       "編み",
@@ -104,7 +104,7 @@
   {
     "id": "0725",
     "basay": "rapetse",
-    "category": "11",
+    "category": "27",
     "zh": [
       "折斷",
       "熄滅（火）"
@@ -148,7 +148,7 @@
   {
     "id": "1882",
     "basay": "remazok",
-    "category": "34",
+    "category": "29",
     "zh": [
       "玩弄，戲弄"
     ],
@@ -166,7 +166,7 @@
   {
     "id": "2011",
     "basay": "remazok",
-    "category": "34",
+    "category": "29",
     "zh": [
       "玩弄，戲弄"
     ],
@@ -202,7 +202,7 @@
   {
     "id": "0727",
     "basay": "ri pipisse",
-    "category": "09",
+    "category": "14",
     "zh": [
       "邊緣"
     ],
@@ -461,7 +461,7 @@
   {
     "id": "1886",
     "basay": "ruqappa",
-    "category": "08",
+    "category": "15",
     "zh": [
       "雨衣"
     ],
@@ -479,7 +479,7 @@
   {
     "id": "2015",
     "basay": "ruqappa",
-    "category": "08",
+    "category": "15",
     "zh": [
       "雨衣"
     ],

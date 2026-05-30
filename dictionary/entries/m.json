@@ -2,7 +2,7 @@
   {
     "id": "3222",
     "basay": "-matek",
-    "category": "10",
+    "category": "07",
     "zh": [
       "水蛭（山區）"
     ],
@@ -75,7 +75,7 @@
   {
     "id": "3236",
     "basay": "m<in>atay",
-    "category": "34",
+    "category": "19",
     "zh": [
       "墓地（？）"
     ],
@@ -166,7 +166,7 @@
   {
     "id": "3134",
     "basay": "ma-anak",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -184,7 +184,7 @@
   {
     "id": "3131",
     "basay": "ma-atay",
-    "category": "11",
+    "category": "28",
     "zh": [
       "死亡",
       "死去",
@@ -223,7 +223,7 @@
   {
     "id": "3135",
     "basay": "ma-bajaq",
-    "category": "28",
+    "category": "29",
     "zh": [
       "知道",
       "理解"
@@ -278,7 +278,7 @@
   {
     "id": "3137",
     "basay": "ma-bañaw",
-    "category": "25",
+    "category": "27",
     "zh": [
       "洗身體"
     ],
@@ -334,7 +334,7 @@
   {
     "id": "3143",
     "basay": "ma-bunuR",
-    "category": "25",
+    "category": "32",
     "zh": [
       "腫脹",
       "膨脹"
@@ -353,7 +353,7 @@
   {
     "id": "3144",
     "basay": "ma-buRaw",
-    "category": "34",
+    "category": "25",
     "zh": [
       "被趕走"
     ],
@@ -371,7 +371,7 @@
   {
     "id": "3145",
     "basay": "ma-busuk",
-    "category": "34",
+    "category": "28",
     "zh": [
       "醉了",
       "醉酒的"
@@ -390,7 +390,7 @@
   {
     "id": "3142",
     "basay": "ma-buta",
-    "category": "34",
+    "category": "28",
     "zh": [
       "失明的"
     ],
@@ -408,7 +408,7 @@
   {
     "id": "3152",
     "basay": "ma-dajam",
-    "category": "25",
+    "category": "24",
     "zh": [
       "馴服的",
       "習慣的"
@@ -427,7 +427,7 @@
   {
     "id": "3153",
     "basay": "ma-dajem",
-    "category": "34",
+    "category": "28",
     "zh": [
       "發寒",
       "瘧疾寒顫"
@@ -464,7 +464,7 @@
   {
     "id": "3155",
     "basay": "ma-dalis",
-    "category": "34",
+    "category": "32",
     "zh": [
       "光滑的",
       "滑溜的"
@@ -522,7 +522,7 @@
   {
     "id": "3158",
     "basay": "ma-hemis",
-    "category": "34",
+    "category": "32",
     "zh": [
       "甜的"
     ],
@@ -558,7 +558,7 @@
   {
     "id": "3164",
     "basay": "ma-kaRat",
-    "category": "25",
+    "category": "28",
     "zh": [
       "被咬"
     ],
@@ -576,7 +576,7 @@
   {
     "id": "3167",
     "basay": "ma-keseR",
-    "category": "34",
+    "category": "32",
     "zh": [
       "強壯",
       "有力",
@@ -596,7 +596,7 @@
   {
     "id": "3168",
     "basay": "ma-kiRim",
-    "category": "34",
+    "category": "25",
     "zh": [
       "發現？"
     ],
@@ -652,7 +652,7 @@
   {
     "id": "3169",
     "basay": "ma-kutu",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -670,7 +670,7 @@
   {
     "id": "3172",
     "basay": "ma-langu",
-    "category": "34",
+    "category": "28",
     "zh": [
       "暈眩的",
       "醉的"
@@ -689,7 +689,7 @@
   {
     "id": "3173",
     "basay": "ma-laRiw",
-    "category": "25",
+    "category": "20",
     "zh": [
       "跑",
       "逃跑",
@@ -839,7 +839,7 @@
   {
     "id": "3185",
     "basay": "ma-nuka",
-    "category": "34",
+    "category": "28",
     "zh": [
       "受傷的"
     ],
@@ -857,7 +857,7 @@
   {
     "id": "3187",
     "basay": "ma-paqit",
-    "category": "34",
+    "category": "32",
     "zh": [
       "苦的"
     ],
@@ -875,7 +875,7 @@
   {
     "id": "3188",
     "basay": "ma-piliq",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -893,7 +893,7 @@
   {
     "id": "3189",
     "basay": "ma-pinay",
-    "category": "34",
+    "category": "28",
     "zh": [
       "跛的",
       "有殘疾的"
@@ -912,7 +912,7 @@
   {
     "id": "3190",
     "basay": "ma-pizpiz",
-    "category": "25",
+    "category": "14",
     "zh": [
       "密集的",
       "排列緊密的"
@@ -931,7 +931,7 @@
   {
     "id": "3191",
     "basay": "ma-pukaw",
-    "category": "34",
+    "category": "28",
     "zh": [
       "模糊的（視力）"
     ],
@@ -1042,7 +1042,7 @@
   {
     "id": "3198",
     "basay": "ma-qetaq",
-    "category": "08",
+    "category": "12",
     "zh": [
       "生的",
       "青的（果實）",
@@ -1136,7 +1136,7 @@
   {
     "id": "3210",
     "basay": "ma-sateD",
-    "category": "34",
+    "category": "20",
     "zh": [
       "陪伴",
       "護送"
@@ -1155,7 +1155,7 @@
   {
     "id": "3211",
     "basay": "ma-sepat",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1173,7 +1173,7 @@
   {
     "id": "3212",
     "basay": "ma-seRet",
-    "category": "34",
+    "category": "32",
     "zh": [
       "緊的",
       "牢固的"
@@ -1232,7 +1232,7 @@
   {
     "id": "3215",
     "basay": "ma-suab",
-    "category": "25",
+    "category": "28",
     "zh": [
       "打呵欠"
     ],
@@ -1250,7 +1250,7 @@
   {
     "id": "3216",
     "basay": "ma-suaw",
-    "category": "25",
+    "category": "28",
     "zh": [
       "打呵欠"
     ],
@@ -1286,7 +1286,7 @@
   {
     "id": "3147",
     "basay": "ma-takaw",
-    "category": "25",
+    "category": "24",
     "zh": [
       "偷竊"
     ],
@@ -1379,7 +1379,7 @@
   {
     "id": "3149",
     "basay": "ma-taqu",
-    "category": "25",
+    "category": "24",
     "zh": [
       "能幹",
       "有知識",
@@ -1399,7 +1399,7 @@
   {
     "id": "3150",
     "basay": "ma-tawa",
-    "category": "25",
+    "category": "28",
     "zh": [
       "笑"
     ],
@@ -1417,7 +1417,7 @@
   {
     "id": "3223",
     "basay": "ma-telu",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1435,7 +1435,7 @@
   {
     "id": "3224",
     "basay": "ma-tuduR",
-    "category": "25",
+    "category": "28",
     "zh": [
       "睡覺"
     ],
@@ -1489,7 +1489,7 @@
   {
     "id": "3226",
     "basay": "ma-tuqas",
-    "category": "32",
+    "category": "05",
     "zh": [
       "年老的（人）"
     ],
@@ -1507,7 +1507,7 @@
   {
     "id": "3227",
     "basay": "ma-tuqas tuqas",
-    "category": "13",
+    "category": "32",
     "zh": [
       "年長的",
       "資深的"
@@ -1526,7 +1526,7 @@
   {
     "id": "3228",
     "basay": "ma-ulaw",
-    "category": "34",
+    "category": "29",
     "zh": [
       "恍惚的",
       "迷糊的"
@@ -1545,7 +1545,7 @@
   {
     "id": "1400",
     "basay": "maan",
-    "category": "34",
+    "category": "13",
     "zh": [
       "完成"
     ],
@@ -1662,7 +1662,7 @@
   {
     "id": "0426",
     "basay": "maija-sjali n'onon",
-    "category": "10",
+    "category": "20",
     "zh": [
       "不去山"
     ],
@@ -1703,7 +1703,7 @@
     "basay": "mailatse",
     "category": "28",
     "zh": [
-      "活"
+      "活的"
     ],
     "ja": [
       "活キテオル人, アミ(mi-to.oh)"
@@ -1722,7 +1722,7 @@
   {
     "id": "1406",
     "basay": "maiqvatin'",
-    "category": "32",
+    "category": "28",
     "zh": [
       "生病"
     ],
@@ -1758,7 +1758,7 @@
   {
     "id": "0428",
     "basay": "maitattse",
-    "category": "25",
+    "category": "19",
     "zh": [
       "再活一次"
     ],
@@ -1863,7 +1863,7 @@
   {
     "id": "0433",
     "basay": "maju | maju nananem | maju koman(i)",
-    "category": "27",
+    "category": "35",
     "zh": [
       "不是"
     ],
@@ -1938,7 +1938,7 @@
   {
     "id": "3163",
     "basay": "maka-pitu",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1992,7 +1992,7 @@
   {
     "id": "1408",
     "basay": "makawas",
-    "category": "25",
+    "category": "28",
     "zh": [
       "說"
     ],
@@ -2010,7 +2010,7 @@
   {
     "id": "1410",
     "basay": "makay",
-    "category": "25",
+    "category": "20",
     "zh": [
       "回來"
     ],
@@ -2028,7 +2028,7 @@
   {
     "id": "0434",
     "basay": "maken'",
-    "category": "32",
+    "category": "24",
     "zh": [
       "誠實的",
       "真的"
@@ -2094,7 +2094,7 @@
   {
     "id": "1413",
     "basay": "makin'",
-    "category": "11",
+    "category": "27",
     "zh": [
       "打火石"
     ],
@@ -2112,7 +2112,7 @@
   {
     "id": "1414",
     "basay": "makl'i",
-    "category": "09",
+    "category": "32",
     "zh": [
       "彎曲"
     ],
@@ -2220,7 +2220,7 @@
   {
     "id": "1418",
     "basay": "maktsatsian",
-    "category": "11",
+    "category": "13",
     "zh": [
       "一整天"
     ],
@@ -2373,7 +2373,7 @@
   {
     "id": "1426",
     "basay": "mal'al'au",
-    "category": "24",
+    "category": "28",
     "zh": [
       "死亡"
     ],
@@ -2445,7 +2445,7 @@
   {
     "id": "1430",
     "basay": "mal'i | mamali | naqi",
-    "category": "25",
+    "category": "20",
     "zh": [
       "來"
     ],
@@ -2499,7 +2499,7 @@
   {
     "id": "1433",
     "basay": "mal'ual'o",
-    "category": "07",
+    "category": "15",
     "zh": [
       "豬飼料"
     ],
@@ -2595,7 +2595,7 @@
   {
     "id": "0442",
     "basay": "malauise",
-    "category": "32",
+    "category": "24",
     "zh": [
       "著名的"
     ],
@@ -2679,7 +2679,7 @@
   {
     "id": "3176",
     "basay": "maliqi",
-    "category": "34",
+    "category": "28",
     "zh": [
       "懷孕的"
     ],
@@ -2814,7 +2814,7 @@
   {
     "id": "0449",
     "basay": "malukasse",
-    "category": "32",
+    "category": "29",
     "zh": [
       "懶惰",
       "無精打采"
@@ -2837,7 +2837,7 @@
   {
     "id": "0450",
     "basay": "malulu",
-    "category": "07",
+    "category": "23",
     "zh": [
       "狗吠"
     ],
@@ -2979,7 +2979,7 @@
   {
     "id": "1436",
     "basay": "mamatiwi",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -3019,7 +3019,7 @@
   {
     "id": "1438",
     "basay": "mamis",
-    "category": "06",
+    "category": "28",
     "zh": [
       "嘴饞"
     ],
@@ -3055,7 +3055,7 @@
   {
     "id": "1439",
     "basay": "mamtsun'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "捲起"
     ],
@@ -3172,7 +3172,7 @@
   {
     "id": "0474",
     "basay": "man'un",
-    "category": "13",
+    "category": "32",
     "zh": [
       "新鮮的，新的"
     ],
@@ -3402,7 +3402,7 @@
   {
     "id": "0463",
     "basay": "manatse",
-    "category": "14",
+    "category": "24",
     "zh": [
       "預兆"
     ],
@@ -3582,7 +3582,7 @@
   {
     "id": "0476",
     "basay": "maninakana",
-    "category": "25",
+    "category": "20",
     "zh": [
       "再來一次"
     ],
@@ -3642,7 +3642,7 @@
   {
     "id": "0477",
     "basay": "manu paju-i",
-    "category": "25",
+    "category": "11",
     "zh": [
       "夏天",
       "避暑"
@@ -3760,7 +3760,7 @@
   {
     "id": "0480",
     "basay": "manutasse",
-    "category": "35",
+    "category": "32",
     "zh": [
       "淘氣"
     ],
@@ -3817,7 +3817,7 @@
   {
     "id": "1451",
     "basay": "mapol'on'",
-    "category": "08",
+    "category": "28",
     "zh": [
       "天花"
     ],
@@ -3837,7 +3837,7 @@
     "basay": "maportos",
     "category": "27",
     "zh": [
-      "腫脹"
+      "腫脹・沸騰"
     ],
     "en": [
       "swelling, boil"
@@ -3889,7 +3889,7 @@
   {
     "id": "3197",
     "basay": "maqaw",
-    "category": "07",
+    "category": "08",
     "zh": [
       "植物：山雞椒（Litsea cubeba）"
     ],
@@ -4001,7 +4001,7 @@
   {
     "id": "1459",
     "basay": "maqtu",
-    "category": "34",
+    "category": "20",
     "zh": [
       "到達"
     ],
@@ -4091,7 +4091,7 @@
   {
     "id": "3206",
     "basay": "maR-luseq",
-    "category": "25",
+    "category": "28",
     "zh": [
       "流淚",
       "哭泣"
@@ -4219,7 +4219,7 @@
   {
     "id": "3208",
     "basay": "mas",
-    "category": "34",
+    "category": "36",
     "zh": [
       "和",
       "與"
@@ -4259,7 +4259,7 @@
   {
     "id": "1463",
     "basay": "masan'",
-    "category": "11",
+    "category": "13",
     "zh": [
       "昔日"
     ],
@@ -4397,7 +4397,7 @@
   {
     "id": "0487",
     "basay": "masianum",
-    "category": "32",
+    "category": "24",
     "zh": [
       "偉大的"
     ],
@@ -4504,7 +4504,7 @@
   {
     "id": "0492",
     "basay": "masossot",
-    "category": "11",
+    "category": "34",
     "zh": [
       "溺水身亡"
     ],
@@ -4526,7 +4526,7 @@
   {
     "id": "1467",
     "basay": "masua",
-    "category": "14",
+    "category": "28",
     "zh": [
       "起來"
     ],
@@ -4818,7 +4818,7 @@
     "basay": "matan'atan'a",
     "category": "29",
     "zh": [
-      "麾"
+      "快樂的"
     ],
     "ja": [
       "喜ブ"
@@ -4855,7 +4855,7 @@
   {
     "id": "1477",
     "basay": "matara",
-    "category": "28",
+    "category": "20",
     "zh": [
       "見面"
     ],
@@ -4891,7 +4891,7 @@
   {
     "id": "1480",
     "basay": "matay",
-    "category": "24",
+    "category": "28",
     "zh": [
       "死"
     ],
@@ -4927,7 +4927,7 @@
   {
     "id": "1484",
     "basay": "mati | matiw",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -4945,7 +4945,7 @@
   {
     "id": "1485",
     "basay": "matik",
-    "category": "34",
+    "category": "18",
     "zh": [
       "刺繡"
     ],
@@ -4963,7 +4963,7 @@
   {
     "id": "0499",
     "basay": "matittse",
-    "category": "25",
+    "category": "32",
     "zh": [
       "捏緊,僵硬"
     ],
@@ -5003,7 +5003,7 @@
   {
     "id": "1487",
     "basay": "matno'k",
-    "category": "11",
+    "category": "13",
     "zh": [
       "決定日子"
     ],
@@ -5021,7 +5021,7 @@
   {
     "id": "1482",
     "basay": "mato'kto'k",
-    "category": "08",
+    "category": "25",
     "zh": [
       "插花"
     ],
@@ -5156,7 +5156,7 @@
   {
     "id": "1489",
     "basay": "matsin",
-    "category": "14",
+    "category": "28",
     "zh": [
       "醒來"
     ],
@@ -5257,7 +5257,7 @@
   {
     "id": "0506",
     "basay": "matsubun'",
-    "category": "25",
+    "category": "32",
     "zh": [
       "傾倒",
       "坍塌"
@@ -5279,7 +5279,7 @@
   {
     "id": "0507",
     "basay": "matsubun'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "跳"
     ],
@@ -5337,7 +5337,7 @@
   {
     "id": "1494",
     "basay": "maumatay",
-    "category": "34",
+    "category": "19",
     "zh": [
       "復活，復甦"
     ],
@@ -5373,7 +5373,7 @@
   {
     "id": "1496",
     "basay": "mautut",
-    "category": "25",
+    "category": "20",
     "zh": [
       "一起去"
     ],
@@ -5391,7 +5391,7 @@
   {
     "id": "1497",
     "basay": "mavalats",
-    "category": "08",
+    "category": "27",
     "zh": [
       "捣米"
     ],
@@ -5427,7 +5427,7 @@
   {
     "id": "1499",
     "basay": "maw",
-    "category": "34",
+    "category": "29",
     "zh": [
       "感嘆詞"
     ],
@@ -5463,7 +5463,7 @@
   {
     "id": "1434",
     "basay": "maz'ukas",
-    "category": "11",
+    "category": "13",
     "zh": [
       "空閒的"
     ],
@@ -5481,7 +5481,7 @@
   {
     "id": "1501",
     "basay": "mazinup",
-    "category": "25",
+    "category": "20",
     "zh": [
       "一起去"
     ],
@@ -5499,7 +5499,7 @@
   {
     "id": "1502",
     "basay": "maziwziwun",
-    "category": "09",
+    "category": "32",
     "zh": [
       "搖晃"
     ],
@@ -5517,7 +5517,7 @@
   {
     "id": "1503",
     "basay": "melebus",
-    "category": "08",
+    "category": "32",
     "zh": [
       "草長高"
     ],
@@ -5535,7 +5535,7 @@
   {
     "id": "1504",
     "basay": "meme",
-    "category": "10",
+    "category": "07",
     "zh": [
       "山羊"
     ],
@@ -5553,7 +5553,7 @@
   {
     "id": "1506",
     "basay": "men'ajel'.",
-    "category": "34",
+    "category": "07",
     "zh": [
       "鰭"
     ],
@@ -5594,7 +5594,7 @@
   {
     "id": "1505",
     "basay": "menaz'",
-    "category": "25",
+    "category": "28",
     "zh": [
       "醒過來"
     ],
@@ -5648,7 +5648,7 @@
   {
     "id": "3231",
     "basay": "mesmes",
-    "category": "34",
+    "category": "25",
     "zh": [
       "抓緊",
       "握緊",
@@ -5740,7 +5740,7 @@
   {
     "id": "1512",
     "basay": "mezozo",
-    "category": "32",
+    "category": "28",
     "zh": [
       "打瞌睡"
     ],
@@ -5776,7 +5776,7 @@
   {
     "id": "3234",
     "basay": "mi-da-dusa",
-    "category": "25",
+    "category": "24",
     "zh": [
       "與人一起做某事",
       "共同執行動作"
@@ -5903,7 +5903,7 @@
   {
     "id": "1522",
     "basay": "mianu",
-    "category": "32",
+    "category": "24",
     "zh": [
       "偉大的"
     ],
@@ -5957,7 +5957,7 @@
   {
     "id": "1526",
     "basay": "miatakvunai",
-    "category": "14",
+    "category": "29",
     "zh": [
       "後悔"
     ],
@@ -5975,7 +5975,7 @@
   {
     "id": "1527",
     "basay": "miip",
-    "category": "14",
+    "category": "28",
     "zh": [
       "睡覺，躺下"
     ],
@@ -6065,7 +6065,7 @@
   {
     "id": "1533",
     "basay": "mikutu",
-    "category": "34",
+    "category": "07",
     "zh": [
       "帶蝨子"
     ],
@@ -6083,7 +6083,7 @@
   {
     "id": "1534",
     "basay": "mikuva",
-    "category": "10",
+    "category": "24",
     "zh": [
       "有田地"
     ],
@@ -6119,7 +6119,7 @@
   {
     "id": "1535",
     "basay": "milalan'",
-    "category": "22",
+    "category": "06",
     "zh": [
       "赤裸"
     ],
@@ -6155,7 +6155,7 @@
   {
     "id": "1538",
     "basay": "mimso'l",
-    "category": "34",
+    "category": "14",
     "zh": [
       "分散"
     ],
@@ -6254,7 +6254,7 @@
   {
     "id": "1540",
     "basay": "mipusal'um",
-    "category": "34",
+    "category": "05",
     "zh": [
       "有生番"
     ],
@@ -6272,7 +6272,7 @@
   {
     "id": "1541",
     "basay": "miqinaz",
-    "category": "14",
+    "category": "28",
     "zh": [
       "叫醒"
     ],
@@ -6362,7 +6362,7 @@
   {
     "id": "1545",
     "basay": "misumai",
-    "category": "34",
+    "category": "27",
     "zh": [
       "午餐"
     ],
@@ -6401,7 +6401,7 @@
   {
     "id": "1546",
     "basay": "mitai",
-    "category": "34",
+    "category": "28",
     "zh": [
       "有糞便"
     ],
@@ -6419,7 +6419,7 @@
   {
     "id": "1547",
     "basay": "mitamun",
-    "category": "09",
+    "category": "27",
     "zh": [
       "帶菜"
     ],
@@ -6437,7 +6437,7 @@
   {
     "id": "1549",
     "basay": "mitimats",
-    "category": "34",
+    "category": "27",
     "zh": [
       "剩菜"
     ],
@@ -6473,7 +6473,7 @@
   {
     "id": "1553",
     "basay": "mitsitsin'",
-    "category": "25",
+    "category": "28",
     "zh": [
       "轉頭看"
     ],
@@ -6509,7 +6509,7 @@
   {
     "id": "1554",
     "basay": "mitsuku . tsuku",
-    "category": "08",
+    "category": "15",
     "zh": [
       "戴斗笠"
     ],
@@ -6527,7 +6527,7 @@
   {
     "id": "1551",
     "basay": "mitut",
-    "category": "11",
+    "category": "28",
     "zh": [
       "放屁"
     ],
@@ -6545,7 +6545,7 @@
   {
     "id": "1555",
     "basay": "mivanan'",
-    "category": "10",
+    "category": "24",
     "zh": [
       "有土地"
     ],
@@ -6563,7 +6563,7 @@
   {
     "id": "1556",
     "basay": "mivukiata",
-    "category": "34",
+    "category": "08",
     "zh": [
       "鈴響"
     ],
@@ -6581,7 +6581,7 @@
   {
     "id": "1557",
     "basay": "miwanaqqa",
-    "category": "32",
+    "category": "28",
     "zh": [
       "生小孩"
     ],
@@ -6635,7 +6635,7 @@
   {
     "id": "1560",
     "basay": "mkits | mukits",
-    "category": "14",
+    "category": "28",
     "zh": [
       "醒來"
     ],
@@ -6689,7 +6689,7 @@
   {
     "id": "1566",
     "basay": "ml'aputoi",
-    "category": "24",
+    "category": "29",
     "zh": [
       "做夢"
     ],
@@ -6707,7 +6707,7 @@
   {
     "id": "1567",
     "basay": "ml'aqo",
-    "category": "34",
+    "category": "25",
     "zh": [
       "支撐"
     ],
@@ -6725,7 +6725,7 @@
   {
     "id": "1568",
     "basay": "ml'asic|",
-    "category": "34",
+    "category": "25",
     "zh": [
       "打掃"
     ],
@@ -6743,7 +6743,7 @@
   {
     "id": "1569",
     "basay": "ml'atu",
-    "category": "34",
+    "category": "01",
     "zh": [
       "分配"
     ],
@@ -6797,7 +6797,7 @@
   {
     "id": "1572",
     "basay": "ml'avut",
-    "category": "34",
+    "category": "29",
     "zh": [
       "厭煩"
     ],
@@ -6815,7 +6815,7 @@
   {
     "id": "1573",
     "basay": "ml'emazok",
-    "category": "34",
+    "category": "29",
     "zh": [
       "玩弄，戲弄"
     ],
@@ -6833,7 +6833,7 @@
   {
     "id": "1574",
     "basay": "ml'enan'",
-    "category": "09",
+    "category": "21",
     "zh": [
       "菜"
     ],
@@ -6869,7 +6869,7 @@
   {
     "id": "1578",
     "basay": "ml'il'in'",
-    "category": "13",
+    "category": "19",
     "zh": [
       "新年祭袓"
     ],
@@ -7031,7 +7031,7 @@
   {
     "id": "1563",
     "basay": "mlaselas",
-    "category": "34",
+    "category": "32",
     "zh": [
       "平滑的•平坦的"
     ],
@@ -7067,7 +7067,7 @@
   {
     "id": "1595",
     "basay": "mn'ava",
-    "category": "34",
+    "category": "29",
     "zh": [
       "妒忌的"
     ],
@@ -7085,7 +7085,7 @@
   {
     "id": "1596",
     "basay": "mn'ol'al'",
-    "category": "32",
+    "category": "28",
     "zh": [
       "沈默寡言的.啞的"
     ],
@@ -7121,7 +7121,7 @@
   {
     "id": "1587",
     "basay": "mnal'utui",
-    "category": "14",
+    "category": "28",
     "zh": [
       "腸•内藏"
     ],
@@ -7157,7 +7157,7 @@
   {
     "id": "1589",
     "basay": "mnaquy",
-    "category": "29",
+    "category": "20",
     "zh": [
       "通知"
     ],
@@ -7301,7 +7301,7 @@
   {
     "id": "1515",
     "basay": "mo'so'k",
-    "category": "34",
+    "category": "20",
     "zh": [
       "抵達"
     ],
@@ -7355,7 +7355,7 @@
   {
     "id": "0513",
     "basay": "moali",
-    "category": "25",
+    "category": "20",
     "zh": [
       "來"
     ],
@@ -7376,7 +7376,7 @@
   {
     "id": "1598",
     "basay": "moano'm",
-    "category": "34",
+    "category": "13",
     "zh": [
       "仍然，還在"
     ],
@@ -7412,7 +7412,7 @@
   {
     "id": "1600",
     "basay": "mol'el'",
-    "category": "32",
+    "category": "29",
     "zh": [
       "瘋狂的"
     ],
@@ -7648,7 +7648,7 @@
   {
     "id": "1607",
     "basay": "mrilo'n'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "捲起"
     ],
@@ -7684,7 +7684,7 @@
   {
     "id": "1609",
     "basay": "mrteqa zanum",
-    "category": "24",
+    "category": "28",
     "zh": [
       "溺死"
     ],
@@ -7702,7 +7702,7 @@
   {
     "id": "1610",
     "basay": "mruma",
-    "category": "08",
+    "category": "15",
     "zh": [
       "種植"
     ],
@@ -7738,7 +7738,7 @@
   {
     "id": "1612",
     "basay": "msaiz",
-    "category": "34",
+    "category": "24",
     "zh": [
       "便宜"
     ],
@@ -7756,7 +7756,7 @@
   {
     "id": "1613",
     "basay": "msal'jn | musal'in",
-    "category": "34",
+    "category": "20",
     "zh": [
       "流動"
     ],
@@ -7810,7 +7810,7 @@
   {
     "id": "1615",
     "basay": "mso'k",
-    "category": "34",
+    "category": "20",
     "zh": [
       "抵達"
     ],
@@ -7846,7 +7846,7 @@
   {
     "id": "1618",
     "basay": "msupa",
-    "category": "32",
+    "category": "24",
     "zh": [
       "貧窮"
     ],
@@ -7864,7 +7864,7 @@
   {
     "id": "1619",
     "basay": "msupo'l",
-    "category": "10",
+    "category": "29",
     "zh": [
       "知道"
     ],
@@ -7918,7 +7918,7 @@
   {
     "id": "1623",
     "basay": "mtian",
-    "category": "34",
+    "category": "28",
     "zh": [
       "懷孕"
     ],
@@ -7954,7 +7954,7 @@
   {
     "id": "1626",
     "basay": "mtsan'atsa",
-    "category": "34",
+    "category": "29",
     "zh": [
       "爭論，爭執"
     ],
@@ -8080,7 +8080,7 @@
   {
     "id": "1632",
     "basay": "muazin'",
-    "category": "14",
+    "category": "25",
     "zh": [
       "帶東西"
     ],
@@ -8135,7 +8135,7 @@
   {
     "id": "3240",
     "basay": "mujing-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -8207,7 +8207,7 @@
   {
     "id": "1638",
     "basay": "mul'ata",
-    "category": "34",
+    "category": "29",
     "zh": [
       "調情"
     ],
@@ -8225,7 +8225,7 @@
   {
     "id": "1244",
     "basay": "mul'ul'its",
-    "category": "32",
+    "category": "05",
     "zh": [
       "小偷"
     ],
@@ -8261,7 +8261,7 @@
   {
     "id": "3241",
     "basay": "mula",
-    "category": "08",
+    "category": "15",
     "zh": [
       "種植"
     ],
@@ -8318,7 +8318,7 @@
   {
     "id": "3242",
     "basay": "mulmul",
-    "category": "25",
+    "category": "27",
     "zh": [
       "含住並吸吮"
     ],
@@ -8336,7 +8336,7 @@
   {
     "id": "0521",
     "basay": "mulu",
-    "category": "22",
+    "category": "05",
     "zh": [
       "嬰兒"
     ],
@@ -8357,7 +8357,7 @@
   {
     "id": "3243",
     "basay": "mumu",
-    "category": "34",
+    "category": "07",
     "zh": [
       "台灣盲鼴（Talpa micrura insularis）"
     ],
@@ -8393,7 +8393,7 @@
   {
     "id": "1641",
     "basay": "munainail'",
-    "category": "07",
+    "category": "34",
     "zh": [
       "飛"
     ],
@@ -8434,7 +8434,7 @@
     "basay": "munan'in",
     "category": "11",
     "zh": [
-      "萊姆"
+      "石灰"
     ],
     "ja": [
       "石灰"
@@ -8513,7 +8513,7 @@
   {
     "id": "3244",
     "basay": "muRmuR",
-    "category": "25",
+    "category": "27",
     "zh": [
       "漱口",
       "漱喉"
@@ -8532,7 +8532,7 @@
   {
     "id": "1644",
     "basay": "murpun",
-    "category": "34",
+    "category": "13",
     "zh": [
       "完成"
     ],
@@ -8568,7 +8568,7 @@
   {
     "id": "1646",
     "basay": "murtav",
-    "category": "11",
+    "category": "24",
     "zh": [
       "聊天"
     ],
@@ -8789,23 +8789,23 @@
   },
   {
     "id": "0528",
-    "basay": "mututte. matul' na makila sjali n'onon",
-    "category": "10",
+    "basay": "mututte. matul'",
+    "category": "28",
     "zh": [
-      "放屁我們去山吧"
+      "放屁"
     ],
     "ja": [
       "屁, アミ(ma?tot) サア 皆サン山へ行カウ"
     ],
     "en": [
-      "fart let's go to the mountain"
+      "fart"
     ],
     "source": "B",
-    "original": "mututte. matul' na makila sjali ŋonon",
+    "original": "mututte.",
     "audio": {
-      "slug": "mututte_matulx_na_makila_sjali_nxonon",
-      "ipay": "dictionary/audio/ipay/m/mututte_matulx_na_makila_sjali_nxonon.mp3",
-      "hokkien": "dictionary/audio/hokkien/m/mututte_matulx_na_makila_sjali_nxonon.mp3"
+      "slug": "mututte_matulx",
+      "ipay": "dictionary/audio/ipay/m/mututte_matulx.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mututte_matulx.mp3"
     }
   },
   {
@@ -8847,7 +8847,7 @@
   {
     "id": "1658",
     "basay": "mval'a",
-    "category": "11",
+    "category": "13",
     "zh": [
       "空閒的"
     ],

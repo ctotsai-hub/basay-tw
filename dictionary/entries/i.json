@@ -220,7 +220,7 @@
   {
     "id": "2809",
     "basay": "i-amen",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱複數排他賓格"
     ],
@@ -238,7 +238,7 @@
   {
     "id": "2810",
     "basay": "i-ami",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱複數排他主格：我們"
     ],
@@ -387,7 +387,7 @@
   {
     "id": "1329",
     "basay": "Ian",
-    "category": "11",
+    "category": "19",
     "zh": [
       "天堂"
     ],
@@ -446,7 +446,7 @@
   {
     "id": "1187",
     "basay": "iasin'as",
-    "category": "12",
+    "category": "20",
     "zh": [
       "出門"
     ],
@@ -557,7 +557,7 @@
   {
     "id": "2818",
     "basay": "ikuD",
-    "category": "25",
+    "category": "20",
     "zh": [
       "跟隨"
     ],
@@ -593,7 +593,7 @@
   {
     "id": "2820",
     "basay": "ikuR",
-    "category": "34",
+    "category": "32",
     "zh": [
       "尾巴"
     ],
@@ -775,7 +775,7 @@
   {
     "id": "2833",
     "basay": "ingsung",
-    "category": "08",
+    "category": "27",
     "zh": [
       "木製舂米臼"
     ],
@@ -887,7 +887,7 @@
   {
     "id": "1172",
     "basay": "ipzi",
-    "category": "14",
+    "category": "29",
     "zh": [
       "忍耐，忍受"
     ],
@@ -979,7 +979,7 @@
   {
     "id": "1174",
     "basay": "isavutan",
-    "category": "34",
+    "category": "06",
     "zh": [
       "腰部"
     ],
@@ -1015,7 +1015,7 @@
   {
     "id": "2840",
     "basay": "iseq",
-    "category": "32",
+    "category": "28",
     "zh": [
       "小便",
       "尿尿"
@@ -1076,7 +1076,7 @@
   {
     "id": "2841",
     "basay": "isiq",
-    "category": "32",
+    "category": "28",
     "zh": [
       "小便",
       "尿尿"
@@ -1395,7 +1395,7 @@
   {
     "id": "1185",
     "basay": "izawitian",
-    "category": "34",
+    "category": "25",
     "zh": [
       "掛"
     ],

@@ -2,7 +2,7 @@
   {
     "id": "2212",
     "basay": "u",
-    "category": "34",
+    "category": "36",
     "zh": [
       "斜格"
     ],
@@ -41,7 +41,7 @@
   {
     "id": "2213",
     "basay": "uai",
-    "category": "08",
+    "category": "12",
     "zh": [
       "藤"
     ],
@@ -103,7 +103,7 @@
     "basay": "ul",
     "category": "07",
     "zh": [
-      "ee",
+      "鰻魚",
       "蛇"
     ],
     "ja": [
@@ -160,7 +160,7 @@
   {
     "id": "2215",
     "basay": "uman",
-    "category": "34",
+    "category": "13",
     "zh": [
       "再"
     ],
@@ -178,7 +178,7 @@
   {
     "id": "1987",
     "basay": "umay",
-    "category": "08",
+    "category": "21",
     "zh": [
       "飯"
     ],
@@ -273,7 +273,7 @@
     "basay": "unuunu",
     "category": "09",
     "zh": [
-      "商品"
+      "物"
     ],
     "ja": [
       "品物,荷物"
@@ -292,7 +292,7 @@
   {
     "id": "2219",
     "basay": "usupi",
-    "category": "11",
+    "category": "27",
     "zh": [
       "滅火"
     ],
@@ -310,7 +310,7 @@
   {
     "id": "1104",
     "basay": "uta",
-    "category": "27",
+    "category": "28",
     "zh": [
       "嘔吐"
     ],
@@ -515,7 +515,7 @@
   {
     "id": "2229",
     "basay": "uzuay",
-    "category": "25",
+    "category": "24",
     "zh": [
       "存在"
     ],

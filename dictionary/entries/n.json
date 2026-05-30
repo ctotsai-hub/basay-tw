@@ -40,7 +40,7 @@
   {
     "id": "3267",
     "basay": "-nu",
-    "category": "35",
+    "category": "36",
     "zh": [
       "不確定標記"
     ],
@@ -94,7 +94,7 @@
   {
     "id": "1663",
     "basay": "> nal'ikka",
-    "category": "08",
+    "category": "21",
     "zh": [
       "麻糬"
     ],
@@ -115,7 +115,7 @@
     "category": "12",
     "zh": [
       "外部",
-      "花園"
+      "庭園"
     ],
     "ja": [
       "屋外, 庭"
@@ -241,7 +241,7 @@
   {
     "id": "0554",
     "basay": "n'anan",
-    "category": "10",
+    "category": "23",
     "zh": [
       "迴音"
     ],
@@ -344,7 +344,7 @@
   {
     "id": "0560",
     "basay": "n'atu",
-    "category": "08",
+    "category": "15",
     "zh": [
       "水稻收穫"
     ],
@@ -419,7 +419,7 @@
   {
     "id": "1695",
     "basay": "n'kia | n'kiia",
-    "category": "34",
+    "category": "36",
     "zh": [
       "也"
     ],
@@ -572,7 +572,7 @@
   {
     "id": "3249",
     "basay": "n-ami",
-    "category": "36",
+    "category": "02",
     "zh": [
       "我們的（1人稱複數排除型所有格）"
     ],
@@ -590,7 +590,7 @@
   {
     "id": "3250",
     "basay": "n-amu",
-    "category": "36",
+    "category": "02",
     "zh": [
       "你們的（2人稱複數所有格）"
     ],
@@ -608,7 +608,7 @@
   {
     "id": "3265",
     "basay": "n-ita",
-    "category": "36",
+    "category": "02",
     "zh": [
       "我們的（1人稱包括型所有格）"
     ],
@@ -644,7 +644,7 @@
   {
     "id": "1660",
     "basay": "na",
-    "category": "34",
+    "category": "36",
     "zh": [
       "了"
     ],
@@ -680,7 +680,7 @@
   {
     "id": "3247",
     "basay": "na",
-    "category": "36",
+    "category": "02",
     "zh": [
       "複數人名的所有格標記"
     ],
@@ -716,7 +716,7 @@
   {
     "id": "3275",
     "basay": "na",
-    "category": "34",
+    "category": "36",
     "zh": [
       "已經"
     ],
@@ -770,7 +770,7 @@
   {
     "id": "0529",
     "basay": "na. | kuman na",
-    "category": "27",
+    "category": "13",
     "zh": [
       "已經"
     ],
@@ -814,7 +814,7 @@
   {
     "id": "3276",
     "basay": "nabek",
-    "category": "08",
+    "category": "11",
     "zh": [
       "海浪",
       "浪花"
@@ -852,7 +852,7 @@
   {
     "id": "1662",
     "basay": "nal'ik",
-    "category": "08",
+    "category": "21",
     "zh": [
       "麻糬"
     ],
@@ -870,7 +870,7 @@
   {
     "id": "1664",
     "basay": "nal'il'i",
-    "category": "25",
+    "category": "20",
     "zh": [
       "來"
     ],
@@ -888,7 +888,7 @@
   {
     "id": "3278",
     "basay": "nali",
-    "category": "34",
+    "category": "07",
     "zh": [
       "蟬"
     ],
@@ -927,7 +927,7 @@
   {
     "id": "3279",
     "basay": "namat",
-    "category": "34",
+    "category": "09",
     "zh": [
       "鐵（金屬）"
     ],
@@ -1028,7 +1028,7 @@
   {
     "id": "0535",
     "basay": "nan'ala > manan'ala",
-    "category": "32",
+    "category": "24",
     "zh": [
       "富有的"
     ],
@@ -1106,7 +1106,7 @@
   {
     "id": "3252",
     "basay": "nanaq",
-    "category": "34",
+    "category": "32",
     "zh": [
       "膿"
     ],
@@ -1223,7 +1223,7 @@
   {
     "id": "3253",
     "basay": "naRa",
-    "category": "25",
+    "category": "20",
     "zh": [
       "等待"
     ],
@@ -1295,7 +1295,7 @@
   {
     "id": "3254",
     "basay": "nasuk",
-    "category": "11",
+    "category": "27",
     "zh": [
       "用水煮"
     ],
@@ -1331,7 +1331,7 @@
   {
     "id": "3277",
     "basay": "nateng",
-    "category": "34",
+    "category": "15",
     "zh": [
       "蔬菜"
     ],
@@ -1392,9 +1392,9 @@
   {
     "id": "0542",
     "basay": "natsan'",
-    "category": "14",
+    "category": "32",
     "zh": [
-      "光，所以，到目前為止"
+      "軽，到目前為止"
     ],
     "ja": [
       "ソレ程",
@@ -1761,7 +1761,7 @@
   {
     "id": "3302",
     "basay": "ngabngab",
-    "category": "34",
+    "category": "25",
     "zh": [
       "咬掉表面"
     ],
@@ -1852,7 +1852,7 @@
   {
     "id": "3307",
     "basay": "ngawngaw",
-    "category": "35",
+    "category": "23",
     "zh": [
       "動物發出的聲音",
       "人類無法理解的嘟囔聲"
@@ -1871,7 +1871,7 @@
   {
     "id": "3308",
     "basay": "ngayaw",
-    "category": "34",
+    "category": "19",
     "zh": [
       "獵首"
     ],
@@ -1907,7 +1907,7 @@
   {
     "id": "3311",
     "basay": "ngesnges",
-    "category": "25",
+    "category": "28",
     "zh": [
       "喘氣，呼吸急促"
     ],
@@ -1961,7 +1961,7 @@
   {
     "id": "3314",
     "basay": "ngidaw",
-    "category": "35",
+    "category": "32",
     "zh": [
       "無牙的"
     ],
@@ -2015,7 +2015,7 @@
   {
     "id": "3317",
     "basay": "ngisngis",
-    "category": "34",
+    "category": "28",
     "zh": [
       "鬍鬚"
     ],
@@ -2033,7 +2033,7 @@
   {
     "id": "3313",
     "basay": "ngitngit",
-    "category": "35",
+    "category": "29",
     "zh": [
       "顯示惱怒或不耐煩"
     ],
@@ -2051,7 +2051,7 @@
   {
     "id": "3318",
     "basay": "ngitngit",
-    "category": "34",
+    "category": "28",
     "zh": [
       "啃咬"
     ],
@@ -2180,7 +2180,7 @@
   {
     "id": "3261",
     "basay": "ni-ia",
-    "category": "36",
+    "category": "02",
     "zh": [
       "他／她的（所有格）"
     ],
@@ -2382,7 +2382,7 @@
   {
     "id": "3263",
     "basay": "nimas",
-    "category": "08",
+    "category": "15",
     "zh": [
       "獨木舟用舀水器"
     ],
@@ -2461,7 +2461,7 @@
   {
     "id": "0566",
     "basay": "ninaupun'",
-    "category": "14",
+    "category": "19",
     "zh": [
       "公墓"
     ],
@@ -2539,7 +2539,7 @@
   {
     "id": "3290",
     "basay": "nisawa",
-    "category": "25",
+    "category": "28",
     "zh": [
       "呼吸",
       "呼吸動作"
@@ -2576,7 +2576,7 @@
   {
     "id": "3292",
     "basay": "niteq",
-    "category": "08",
+    "category": "21",
     "zh": [
       "樹液或植物汁液"
     ],
@@ -2612,7 +2612,7 @@
   {
     "id": "0569",
     "basay": "nitsau a mata",
-    "category": "08",
+    "category": "24",
     "zh": [
       "冷酷無情",
       "玉米"
@@ -2634,7 +2634,7 @@
   {
     "id": "0570",
     "basay": "nitsawa",
-    "category": "29",
+    "category": "24",
     "zh": [
       "類似，就像"
     ],
@@ -2655,9 +2655,9 @@
   {
     "id": "0571",
     "basay": "nitun'uD'",
-    "category": "25",
+    "category": "28",
     "zh": [
-      "彎腰，生出"
+      "彎腰，出産"
     ],
     "ja": [
       "カガム",
@@ -2677,7 +2677,7 @@
   {
     "id": "0572",
     "basay": "nitun'ul' | nitun'ul u takan",
-    "category": "25",
+    "category": "28",
     "zh": [
       "坐"
     ],
@@ -2756,7 +2756,7 @@
   {
     "id": "1682",
     "basay": "nu",
-    "category": "34",
+    "category": "36",
     "zh": [
       "嗎"
     ],
@@ -2847,7 +2847,7 @@
   {
     "id": "3294",
     "basay": "nuka",
-    "category": "06",
+    "category": "28",
     "zh": [
       "傷口"
     ],
@@ -2883,7 +2883,7 @@
   {
     "id": "1684",
     "basay": "nul'atsun'",
-    "category": "34",
+    "category": "29",
     "zh": [
       "活該"
     ],
@@ -2901,7 +2901,7 @@
   {
     "id": "0520",
     "basay": "nulate",
-    "category": "35",
+    "category": "32",
     "zh": [
       "壞的"
     ],
@@ -3004,7 +3004,7 @@
   {
     "id": "0577",
     "basay": "numako'n",
-    "category": "32",
+    "category": "24",
     "zh": [
       "真的"
     ],
@@ -3026,6 +3026,9 @@
     "id": "0578",
     "basay": "numal lasse >numalasse",
     "category": "34",
+    "zh": [
+      "シメツル"
+    ],
     "ja": [
       "シメツル"
     ],
@@ -3175,7 +3178,7 @@
   {
     "id": "3297",
     "basay": "nusung",
-    "category": "34",
+    "category": "15",
     "zh": [
       "擂米臼"
     ],
@@ -3193,7 +3196,7 @@
   {
     "id": "0581",
     "basay": "nusunuse",
-    "category": "07",
+    "category": "21",
     "zh": [
       "墨魚乾"
     ],
@@ -3273,7 +3276,7 @@
   {
     "id": "1690",
     "basay": "nuzun'",
-    "category": "08",
+    "category": "21",
     "zh": [
       "糯米餅"
     ],

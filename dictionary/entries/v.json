@@ -239,7 +239,7 @@
   {
     "id": "2247",
     "basay": "van'siss (S | M)",
-    "category": "28",
+    "category": "32",
     "zh": [
       "香"
     ],
@@ -347,7 +347,7 @@
   {
     "id": "2245",
     "basay": "vanun'",
-    "category": "34",
+    "category": "09",
     "zh": [
       "寶物"
     ],
@@ -473,7 +473,7 @@
   {
     "id": "1107",
     "basay": "vatsi",
-    "category": "11",
+    "category": "13",
     "zh": [
       "今天"
     ],
@@ -494,7 +494,7 @@
   {
     "id": "2255",
     "basay": "vatsiu",
-    "category": "25",
+    "category": "24",
     "zh": [
       "賣"
     ],
@@ -514,7 +514,7 @@
     "basay": "vatso'n'",
     "category": "11",
     "zh": [
-      "抽煙"
+      "冒煙"
     ],
     "en": [
       "smoke"
@@ -530,7 +530,7 @@
   {
     "id": "2256",
     "basay": "vatsun",
-    "category": "34",
+    "category": "24",
     "zh": [
       "支配"
     ],
@@ -602,7 +602,7 @@
   {
     "id": "2260",
     "basay": "vautu mtalo'm",
-    "category": "07",
+    "category": "21",
     "zh": [
       "鹹魚"
     ],
@@ -620,7 +620,7 @@
   {
     "id": "2261",
     "basay": "vauvi",
-    "category": "08",
+    "category": "15",
     "zh": [
       "早田，早地（甘薯地）"
     ],
@@ -764,7 +764,7 @@
   {
     "id": "2271",
     "basay": "viau",
-    "category": "25",
+    "category": "14",
     "zh": [
       "彎曲"
     ],
@@ -782,7 +782,7 @@
   {
     "id": "2272",
     "basay": "vilan'",
-    "category": "25",
+    "category": "01",
     "zh": [
       "計算"
     ],
@@ -890,7 +890,7 @@
   {
     "id": "2278",
     "basay": "viwviwta",
-    "category": "09",
+    "category": "32",
     "zh": [
       "動搖"
     ],
@@ -926,7 +926,7 @@
   {
     "id": "2284",
     "basay": "vl'ajanimau < vlaj",
-    "category": "25",
+    "category": "24",
     "zh": [
       "歸還"
     ],
@@ -962,7 +962,7 @@
   {
     "id": "2286",
     "basay": "vl'al'uan",
-    "category": "09",
+    "category": "07",
     "zh": [
       "糞金龜(蜣螂)"
     ],
@@ -998,7 +998,7 @@
   {
     "id": "2280",
     "basay": "vlailain",
-    "category": "34",
+    "category": "32",
     "zh": [
       "動搖，搖晃"
     ],
@@ -1034,7 +1034,7 @@
   {
     "id": "2282",
     "basay": "vlavlayan",
-    "category": "34",
+    "category": "24",
     "zh": [
       "得到很多"
     ],
@@ -1052,7 +1052,7 @@
   {
     "id": "2283",
     "basay": "vlay",
-    "category": "25",
+    "category": "24",
     "zh": [
       "給"
     ],
@@ -1070,7 +1070,7 @@
   {
     "id": "2288",
     "basay": "vlun'usan",
-    "category": "29",
+    "category": "32",
     "zh": [
       "適合，剛好"
     ],
@@ -1124,7 +1124,7 @@
   {
     "id": "2289",
     "basay": "vojeq",
-    "category": "08",
+    "category": "11",
     "zh": [
       "開花"
     ],
@@ -1304,7 +1304,7 @@
   {
     "id": "2301",
     "basay": "vul'vul'",
-    "category": "34",
+    "category": "32",
     "zh": [
       "暖和"
     ],
@@ -1322,7 +1322,7 @@
   {
     "id": "2298",
     "basay": "vulai",
-    "category": "25",
+    "category": "24",
     "zh": [
       "給"
     ],
@@ -1340,7 +1340,7 @@
   {
     "id": "2299",
     "basay": "vulats",
-    "category": "08",
+    "category": "21",
     "zh": [
       "飯"
     ],
@@ -1358,7 +1358,7 @@
   {
     "id": "2302",
     "basay": "vuqal'us | vuqaqo's",
-    "category": "07",
+    "category": "24",
     "zh": [
       "懶惰蟲"
     ],
@@ -1376,7 +1376,7 @@
   {
     "id": "2303",
     "basay": "vuqutta",
-    "category": "07",
+    "category": "21",
     "zh": [
       "豬腳"
     ],
@@ -1466,7 +1466,7 @@
   {
     "id": "2310",
     "basay": "vutsan u utsa",
-    "category": "11",
+    "category": "13",
     "zh": [
       "下個月"
     ],
@@ -1484,7 +1484,7 @@
   {
     "id": "2311",
     "basay": "vutsanal'ai",
-    "category": "02",
+    "category": "13",
     "zh": [
       "這個月"
     ],
@@ -1574,7 +1574,7 @@
   {
     "id": "2308",
     "basay": "vutvutta",
-    "category": "34",
+    "category": "11",
     "zh": [
       "噴泉"
     ],
@@ -1592,7 +1592,7 @@
   {
     "id": "2315",
     "basay": "vuut",
-    "category": "34",
+    "category": "24",
     "zh": [
       "成就，成績"
     ],

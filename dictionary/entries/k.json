@@ -20,7 +20,7 @@
   {
     "id": "2884",
     "basay": "k-aku",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第一人稱單數賓格：給我，對我"
     ],
@@ -56,7 +56,7 @@
   {
     "id": "2895",
     "basay": "k-amu",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第二人稱複數主格：你們"
     ],
@@ -111,7 +111,7 @@
   {
     "id": "2910",
     "basay": "k<ar>uskus",
-    "category": "09",
+    "category": "25",
     "zh": [
       "刮掉表面物"
     ],
@@ -129,7 +129,7 @@
   {
     "id": "2975",
     "basay": "k<in>a-tau-an",
-    "category": "36",
+    "category": "32",
     "zh": [
       "天性",
       "性格"
@@ -204,7 +204,7 @@
   {
     "id": "2980",
     "basay": "k<in>aRat-an",
-    "category": "07",
+    "category": "15",
     "zh": [
       "動物咬傷的痕跡"
     ],
@@ -277,7 +277,7 @@
   {
     "id": "3015",
     "basay": "k<um>ahus",
-    "category": "34",
+    "category": "25",
     "zh": [
       "挖掘",
       "掘出（如塊莖）"
@@ -296,7 +296,7 @@
   {
     "id": "3016",
     "basay": "k<um>ali",
-    "category": "25",
+    "category": "28",
     "zh": [
       "咬"
     ],
@@ -314,7 +314,7 @@
   {
     "id": "3017",
     "basay": "k<um>aRat",
-    "category": "25",
+    "category": "28",
     "zh": [
       "抓癢"
     ],
@@ -332,7 +332,7 @@
   {
     "id": "3018",
     "basay": "k<um>aRaw",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -404,7 +404,7 @@
   {
     "id": "3021",
     "basay": "k<um>eRet",
-    "category": "25",
+    "category": "06",
     "zh": [
       "陰毛"
     ],
@@ -422,7 +422,7 @@
   {
     "id": "3023",
     "basay": "k<um>etun",
-    "category": "34",
+    "category": "25",
     "zh": [
       "尋找"
     ],
@@ -476,7 +476,7 @@
   {
     "id": "3028",
     "basay": "k<um>uja",
-    "category": "34",
+    "category": "11",
     "zh": [
       "耙",
       "耙土"
@@ -514,7 +514,7 @@
   {
     "id": "3030",
     "basay": "k<um>uskus",
-    "category": "10",
+    "category": "07",
     "zh": [
       "台灣山鷓鴣"
     ],
@@ -532,7 +532,7 @@
   {
     "id": "3027",
     "basay": "k<um>utu",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -586,7 +586,7 @@
   {
     "id": "2855",
     "basay": "ka",
-    "category": "36",
+    "category": "02",
     "zh": [
       "複數人名的賓格標記"
     ],
@@ -640,7 +640,7 @@
   {
     "id": "2856",
     "basay": "ka-",
-    "category": "34",
+    "category": "36",
     "zh": [
       "品質的抽象名詞構詞詞綴"
     ],
@@ -676,7 +676,7 @@
   {
     "id": "2849",
     "basay": "ka- -an",
-    "category": "34",
+    "category": "36",
     "zh": [
       "表示地點的名詞構詞詞綴"
     ],
@@ -694,7 +694,7 @@
   {
     "id": "2850",
     "basay": "ka- -an",
-    "category": "34",
+    "category": "36",
     "zh": [
       "抽象名詞構詞詞綴（常由動詞轉成）"
     ],
@@ -748,7 +748,7 @@
   {
     "id": "2859",
     "basay": "ka-bajaq",
-    "category": "28",
+    "category": "29",
     "zh": [
       "知道",
       "理解"
@@ -823,7 +823,7 @@
   {
     "id": "2882",
     "basay": "ka-kalih",
-    "category": "08",
+    "category": "15",
     "zh": [
       "掘土棒",
       "挖根工具"
@@ -842,7 +842,7 @@
   {
     "id": "2885",
     "basay": "ka-kuRi",
-    "category": "34",
+    "category": "09",
     "zh": [
       "耙子"
     ],
@@ -879,7 +879,7 @@
   {
     "id": "2901",
     "basay": "ka-pajay-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -897,7 +897,7 @@
   {
     "id": "2902",
     "basay": "ka-piliq-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -933,7 +933,7 @@
   {
     "id": "2907",
     "basay": "ka-qudip-an",
-    "category": "32",
+    "category": "27",
     "zh": [
       "生計"
     ],
@@ -951,7 +951,7 @@
   {
     "id": "2912",
     "basay": "ka-Rabi-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -987,7 +987,7 @@
   {
     "id": "2864",
     "basay": "ka-tasaw-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1005,7 +1005,7 @@
   {
     "id": "2865",
     "basay": "ka-tau-an",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1023,7 +1023,7 @@
   {
     "id": "2926",
     "basay": "ka-telu",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -1216,7 +1216,7 @@
   {
     "id": "2862",
     "basay": "kabit",
-    "category": "34",
+    "category": "09",
     "zh": [
       "鉤子"
     ],
@@ -1345,7 +1345,7 @@
   {
     "id": "2873",
     "basay": "kahus",
-    "category": "34",
+    "category": "25",
     "zh": [
       "撈取"
     ],
@@ -1400,7 +1400,7 @@
   {
     "id": "1189",
     "basay": "kail",
-    "category": "07",
+    "category": "21",
     "zh": [
       "鹹魚"
     ],
@@ -1436,9 +1436,9 @@
   {
     "id": "0212",
     "basay": "kaitattse",
-    "category": "25",
+    "category": "28",
     "zh": [
-      "居住"
+      "活着"
     ],
     "ja": [
       "生キル"
@@ -1576,7 +1576,7 @@
   {
     "id": "2878",
     "basay": "kakatu",
-    "category": "34",
+    "category": "07",
     "zh": [
       "蜘蛛"
     ],
@@ -1594,7 +1594,7 @@
   {
     "id": "1192",
     "basay": "kakitut",
-    "category": "34",
+    "category": "01",
     "zh": [
       "一點"
     ],
@@ -1702,7 +1702,7 @@
   {
     "id": "1198",
     "basay": "kal'nas",
-    "category": "32",
+    "category": "13",
     "zh": [
       "慢慢的"
     ],
@@ -1816,7 +1816,7 @@
   {
     "id": "2887",
     "basay": "kalaw",
-    "category": "34",
+    "category": "28",
     "zh": [
       "眉毛"
     ],
@@ -1890,7 +1890,7 @@
   {
     "id": "0217",
     "basay": "kalimikimi",
-    "category": "25",
+    "category": "28",
     "zh": [
       "眨眼"
     ],
@@ -1932,9 +1932,9 @@
   {
     "id": "0219",
     "basay": "kalu",
-    "category": "25",
+    "category": "20",
     "zh": [
-      "保釋"
+      "舀出"
     ],
     "ja": [
       "汲出ス"
@@ -2079,7 +2079,7 @@
   {
     "id": "1207",
     "basay": "kame",
-    "category": "25",
+    "category": "20",
     "zh": [
       "回來"
     ],
@@ -2115,7 +2115,7 @@
   {
     "id": "2896",
     "basay": "kamu-yu",
-    "category": "36",
+    "category": "02",
     "zh": [
       "第二人稱複數主格：你們"
     ],
@@ -2406,7 +2406,7 @@
   {
     "id": "1213",
     "basay": "kapinatasau",
-    "category": "11",
+    "category": "19",
     "zh": [
       "新年節日"
     ],
@@ -2442,7 +2442,7 @@
   {
     "id": "2905",
     "basay": "kapkap",
-    "category": "22",
+    "category": "25",
     "zh": [
       "摸索",
       "在黑暗中尋找"
@@ -2544,7 +2544,7 @@
   {
     "id": "1215",
     "basay": "kapuan",
-    "category": "34",
+    "category": "29",
     "zh": [
       "非常想"
     ],
@@ -2604,7 +2604,7 @@
   {
     "id": "2913",
     "basay": "kaRat",
-    "category": "25",
+    "category": "28",
     "zh": [
       "咬"
     ],
@@ -2622,7 +2622,7 @@
   {
     "id": "2914",
     "basay": "kaRat-i",
-    "category": "34",
+    "category": "28",
     "zh": [
       "咬吧！（命令）"
     ],
@@ -2640,7 +2640,7 @@
   {
     "id": "2915",
     "basay": "kaRaw",
-    "category": "25",
+    "category": "28",
     "zh": [
       "抓癢"
     ],
@@ -2698,7 +2698,7 @@
   {
     "id": "2908",
     "basay": "karkar",
-    "category": "07",
+    "category": "15",
     "zh": [
       "雞扒土",
       "刨土（如雞）"
@@ -2717,7 +2717,7 @@
   {
     "id": "1216",
     "basay": "karpan",
-    "category": "34",
+    "category": "12",
     "zh": [
       "籬笆"
     ],
@@ -2846,7 +2846,7 @@
   {
     "id": "2919",
     "basay": "kasi-kasiw",
-    "category": "08",
+    "category": "32",
     "zh": [
       "樹林繁茂的"
     ],
@@ -2901,7 +2901,7 @@
   {
     "id": "2921",
     "basay": "kasiw-en",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -2919,7 +2919,7 @@
   {
     "id": "2922",
     "basay": "kaskas",
-    "category": "07",
+    "category": "15",
     "zh": [
       "雞扒土找食物"
     ],
@@ -3009,7 +3009,7 @@
   {
     "id": "2925",
     "basay": "katawa",
-    "category": "34",
+    "category": "08",
     "zh": [
       "蓖麻"
     ],
@@ -3045,7 +3045,7 @@
   {
     "id": "1223",
     "basay": "kati | katiwan | mamatiwi",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -3063,7 +3063,7 @@
   {
     "id": "0233",
     "basay": "katipai sali n'onon",
-    "category": "10",
+    "category": "20",
     "zh": [
       "我們去山吧"
     ],
@@ -3084,7 +3084,7 @@
   {
     "id": "0234",
     "basay": "katiu",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -3105,7 +3105,7 @@
   {
     "id": "0235",
     "basay": "katiu",
-    "category": "25",
+    "category": "20",
     "zh": [
       "去"
     ],
@@ -3181,7 +3181,7 @@
   {
     "id": "2929",
     "basay": "kaus",
-    "category": "07",
+    "category": "15",
     "zh": [
       "撈取（如用魚網）"
     ],
@@ -3217,7 +3217,7 @@
   {
     "id": "1225",
     "basay": "kautuni",
-    "category": "34",
+    "category": "12",
     "zh": [
       "進入"
     ],
@@ -3346,7 +3346,7 @@
   {
     "id": "2931",
     "basay": "kawas",
-    "category": "11",
+    "category": "13",
     "zh": [
       "年",
       "季節",
@@ -3404,7 +3404,7 @@
   {
     "id": "2934",
     "basay": "kawayan",
-    "category": "08",
+    "category": "12",
     "zh": [
       "竹子（可能是刺竹 Bambusa spinosa）"
     ],
@@ -3422,7 +3422,7 @@
   {
     "id": "2935",
     "basay": "kawil",
-    "category": "07",
+    "category": "15",
     "zh": [
       "魚鉤"
     ],
@@ -3440,7 +3440,7 @@
   {
     "id": "2937",
     "basay": "kawit",
-    "category": "34",
+    "category": "09",
     "zh": [
       "鉤子"
     ],
@@ -3476,7 +3476,7 @@
   {
     "id": "1232",
     "basay": "kay",
-    "category": "34",
+    "category": "36",
     "zh": [
       "將"
     ],
@@ -3494,7 +3494,7 @@
   {
     "id": "1233",
     "basay": "kayanu",
-    "category": "08",
+    "category": "24",
     "zh": [
       "如果"
     ],
@@ -3584,7 +3584,7 @@
   {
     "id": "2940",
     "basay": "kebkeb",
-    "category": "25",
+    "category": "28",
     "zh": [
       "趴著",
       "臉朝下躺"
@@ -3640,7 +3640,7 @@
   {
     "id": "2944",
     "basay": "kelem",
-    "category": "35",
+    "category": "32",
     "zh": [
       "陰暗",
       "天色昏沉",
@@ -3696,7 +3696,7 @@
   {
     "id": "2947",
     "basay": "kena",
-    "category": "35",
+    "category": "32",
     "zh": [
       "被困住",
       "陷入陷阱",
@@ -3756,7 +3756,7 @@
   {
     "id": "2951",
     "basay": "keRan",
-    "category": "34",
+    "category": "28",
     "zh": [
       "結痂"
     ],
@@ -3829,7 +3829,7 @@
   {
     "id": "2954",
     "basay": "keRet",
-    "category": "32",
+    "category": "15",
     "zh": [
       "割軟物或細物",
       "收割作物"
@@ -3866,7 +3866,7 @@
   {
     "id": "2950",
     "basay": "keriq",
-    "category": "07",
+    "category": "23",
     "zh": [
       "猴子叫聲"
     ],
@@ -3903,7 +3903,7 @@
   {
     "id": "2957",
     "basay": "keRkeR",
-    "category": "34",
+    "category": "28",
     "zh": [
       "搖晃",
       "顫抖"
@@ -3940,7 +3940,7 @@
   {
     "id": "2959",
     "basay": "keseR",
-    "category": "34",
+    "category": "28",
     "zh": [
       "力氣",
       "體力",
@@ -3980,7 +3980,7 @@
   {
     "id": "2961",
     "basay": "ketil",
-    "category": "34",
+    "category": "25",
     "zh": [
       "掐掉"
     ],
@@ -4054,7 +4054,7 @@
   {
     "id": "2966",
     "basay": "ki",
-    "category": "36",
+    "category": "02",
     "zh": [
       "人名的斜格標記"
     ],
@@ -4092,7 +4092,7 @@
   {
     "id": "2969",
     "basay": "ki-tunuh",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -4165,7 +4165,7 @@
   {
     "id": "2967",
     "basay": "kiaw",
-    "category": "07",
+    "category": "23",
     "zh": [
       "鳥的啾叫聲"
     ],
@@ -4183,7 +4183,7 @@
   {
     "id": "2970",
     "basay": "kidiq",
-    "category": "25",
+    "category": "28",
     "zh": [
       "搔癢"
     ],
@@ -4201,7 +4201,7 @@
   {
     "id": "2972",
     "basay": "kikuR",
-    "category": "34",
+    "category": "32",
     "zh": [
       "尾巴"
     ],
@@ -4219,7 +4219,7 @@
   {
     "id": "1243",
     "basay": "kil'ul'its",
-    "category": "32",
+    "category": "05",
     "zh": [
       "小偷"
     ],
@@ -4259,7 +4259,7 @@
   {
     "id": "2974",
     "basay": "kilung",
-    "category": "10",
+    "category": "11",
     "zh": [
       "彎曲",
       "海灣"
@@ -4368,7 +4368,7 @@
   {
     "id": "0237",
     "basay": "kinijan malause",
-    "category": "12",
+    "category": "19",
     "zh": [
       "陵"
     ],
@@ -4429,7 +4429,7 @@
   {
     "id": "2984",
     "basay": "kiRim",
-    "category": "28",
+    "category": "25",
     "zh": [
       "尋找",
       "搜尋"
@@ -4685,7 +4685,7 @@
   {
     "id": "2993",
     "basay": "kita-en",
-    "category": "35",
+    "category": "34",
     "zh": [
       "詞義不明"
     ],
@@ -4836,7 +4836,7 @@
   {
     "id": "1258",
     "basay": "kizanum",
-    "category": "11",
+    "category": "27",
     "zh": [
       "取水"
     ],
@@ -4854,7 +4854,7 @@
   {
     "id": "1259",
     "basay": "kizaya",
-    "category": "08",
+    "category": "14",
     "zh": [
       "花蓮"
     ],
@@ -4962,7 +4962,7 @@
   {
     "id": "1268",
     "basay": "kmal'itsi",
-    "category": "08",
+    "category": "15",
     "zh": [
       "磨稻穀"
     ],
@@ -4998,7 +4998,7 @@
   {
     "id": "1267",
     "basay": "kmalusa",
-    "category": "34",
+    "category": "25",
     "zh": [
       "採"
     ],
@@ -5106,7 +5106,7 @@
   {
     "id": "1275",
     "basay": "knal'ian",
-    "category": "34",
+    "category": "01",
     "zh": [
       "還有"
     ],
@@ -5160,7 +5160,7 @@
   {
     "id": "1277",
     "basay": "knapo'l",
-    "category": "08",
+    "category": "15",
     "zh": [
       "米槺"
     ],
@@ -5214,7 +5214,7 @@
   {
     "id": "1281",
     "basay": "knatsawan",
-    "category": "34",
+    "category": "05",
     "zh": [
       "情婦"
     ],
@@ -5268,7 +5268,7 @@
   {
     "id": "0241",
     "basay": "kokoi",
-    "category": "22",
+    "category": "19",
     "zh": [
       "蒸年糕"
     ],
@@ -5314,7 +5314,7 @@
     "basay": "kolalawakke. | jaku lawakke",
     "category": "25",
     "zh": [
-      "樹樁"
+      "絆倒"
     ],
     "ja": [
       "つまづく】"
@@ -5369,7 +5369,7 @@
   {
     "id": "1285",
     "basay": "kriavan",
-    "category": "32",
+    "category": "09",
     "zh": [
       "瑪瑙（大）"
     ],
@@ -5387,7 +5387,7 @@
   {
     "id": "1286",
     "basay": "ktsawan",
-    "category": "14",
+    "category": "28",
     "zh": [
       "東張西望,眺望"
     ],
@@ -5461,7 +5461,7 @@
   {
     "id": "1288",
     "basay": "kuaku",
-    "category": "11",
+    "category": "09",
     "zh": [
       "煙斗"
     ],
@@ -5675,10 +5675,9 @@
   {
     "id": "2999",
     "basay": "kuaw",
-    "category": "07",
+    "category": "23",
     "zh": [
-      "捲起",
-      "蜷縮"
+      "一種鳥和其叫聲"
     ],
     "en": [
       "kind of bird and the sound of its call 3258"
@@ -5694,7 +5693,7 @@
   {
     "id": "0248",
     "basay": "kuba",
-    "category": "10",
+    "category": "15",
     "zh": [
       "稻田"
     ],
@@ -5979,7 +5978,7 @@
   {
     "id": "3012",
     "basay": "kulit",
-    "category": "34",
+    "category": "20",
     "zh": [
       "攜帶",
       "帶來"
@@ -6097,7 +6096,7 @@
   {
     "id": "0254",
     "basay": "kuman | isu kuman",
-    "category": "25",
+    "category": "27",
     "zh": [
       "吃（你）"
     ],
@@ -6118,7 +6117,7 @@
   {
     "id": "0255",
     "basay": "kuman | jaku kuman",
-    "category": "25",
+    "category": "27",
     "zh": [
       "吃（我）"
     ],
@@ -6157,7 +6156,7 @@
   {
     "id": "3022",
     "basay": "kumes",
-    "category": "25",
+    "category": "27",
     "zh": [
       "劈柴"
     ],
@@ -6193,7 +6192,7 @@
   {
     "id": "1300",
     "basay": "kumua",
-    "category": "34",
+    "category": "24",
     "zh": [
       "像"
     ],
@@ -6247,7 +6246,7 @@
   {
     "id": "1301",
     "basay": "kunamkaman",
-    "category": "34",
+    "category": "28",
     "zh": [
       "痘疤，麻子"
     ],
@@ -6363,7 +6362,7 @@
   {
     "id": "1305",
     "basay": "kupa | kupan | mupa | mupan | supupa | upan | uppa",
-    "category": "29",
+    "category": "35",
     "zh": [
       "不要"
     ],
@@ -6399,7 +6398,7 @@
   {
     "id": "3033",
     "basay": "kupit",
-    "category": "25",
+    "category": "28",
     "zh": [
       "金錢癬"
     ],
@@ -6438,7 +6437,7 @@
   {
     "id": "1307",
     "basay": "kupua",
-    "category": "34",
+    "category": "12",
     "zh": [
       "棉被"
     ],
@@ -6589,7 +6588,7 @@
   {
     "id": "3036",
     "basay": "kurkur",
-    "category": "34",
+    "category": "09",
     "zh": [
       "耙子"
     ],
@@ -6647,10 +6646,9 @@
   {
     "id": "0262",
     "basay": "kusakusa",
-    "category": "24",
+    "category": "29",
     "zh": [
-      "談論未來",
-      "預計"
+      "談（未來）（想像/思考）"
     ],
     "ja": [
       "話ス (future) (豫想ヲスル)"
@@ -6669,7 +6667,7 @@
   {
     "id": "3039",
     "basay": "kuskus",
-    "category": "34",
+    "category": "32",
     "zh": [
       "刮擦"
     ],
@@ -6724,7 +6722,7 @@
   {
     "id": "3000",
     "basay": "kutkut",
-    "category": "06",
+    "category": "07",
     "zh": [
       "頭蝨"
     ],
