@@ -4,11 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記 — 研究筆記 | basay.tw</title>
-<meta name="description" content="Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
+
+
+<meta name="description" content="起點：商業 TTS 不支援南島語系 Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
 <link rel="canonical" href="https://basay.tw/blog/blog260515/">
 <meta property="og:type" content="article">
 <meta property="og:title" content="巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記">
-<meta property="og:description" content="Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
+<meta property="og:description" content="起點：商業 TTS 不支援南島語系 Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
 <meta property="og:url" content="https://basay.tw/blog/blog260515/">
 <meta property="og:site_name" content="basay.tw 研究筆記">
 <meta property="og:locale" content="zh_TW">
@@ -22,7 +24,7 @@
 <meta property="article:tag" content="語言復振">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="巴賽語語音合成（TTS）開發和 basay.tw 架設奮鬥記">
-<meta name="twitter:description" content="Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
+<meta name="twitter:description" content="起點：商業 TTS 不支援南島語系 Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。">
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;600;900&family=Noto+Sans+TC:wght@300;400;500&family=Noto+Serif:ital,wght@0,400;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root {
@@ -34,6 +36,7 @@
 body { background:var(--bg); color:var(--ink); font-family:'Noto Serif TC',serif; font-size:16px; line-height:1.9; }
 
 header { border-bottom:1px solid var(--border); background:var(--bg); position:sticky; top:0; z-index:100; }
+h2, h3, h4 { scroll-margin-top: 72px; }
 .nav-inner { max-width:1100px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:56px; }
 .site-logo { font-family:'Noto Serif TC',serif; font-weight:900; font-size:1rem; color:var(--ink); text-decoration:none; letter-spacing:0.05em; }
 .site-logo span { color:var(--accent); font-size:0.75em; display:block; font-weight:300; letter-spacing:0.15em; }
@@ -162,59 +165,41 @@ footer a:hover { color:var(--accent); }
     </div>
 
     <article class="article-body">
-<h2 id="tts">起點：商業 TTS 不支援南島語系</h2>
-<p>Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。</p>
-<hr />
-<h2 id="_1">開發歷程</h2>
-<h3 id="ffmpeg">❌ 第一次嘗試：FFmpeg 音素合成</h3>
-<p>以逐一拼接音素 wav 檔的方式進行合成——失敗。音節間的銜接過於生硬，無法產生自然語流。</p>
-<hr />
-<h3 id="espeak-profile">🔧 第二次嘗試：改造 eSpeak 現有語言 Profile</h3>
-<p>利用 eSpeak 既有的語言設定加以改造，雛形完成。然而發現兩個根本性問題：</p>
-<ol>
-<li><strong>發音規則受限</strong>：仍被原有語言的音韻邏輯所束縛。</li>
-<li><strong>母音明顯失真</strong>：合成音與歷史錄音中的母音音質差距顯著。</li>
-</ol>
-<hr />
-<h3 id="_2">🎯 突破口：解析歷史音檔，復元母音</h3>
-<p>解析珍貴的歷史錄音，成功重建巴賽語母音。將其置入 eSpeak 後，才深刻體會到一件事：</p>
-<blockquote>
-<p><strong>母音音檔的品質，決定了一個語言合成正確性的 80% 以上。</strong></p>
-</blockquote>
+<p>起點：商業 TTS 不支援南島語系
+Google、Amazon 等主流語音合成服務均不支援南島語系語言，巴賽語自然也不在其中。要讓已滅絕的巴賽語「開口說話」，只能自己動手。</p>
+<p>開發歷程
+❌ 第一次嘗試：FFmpeg 音素合成
+以逐一拼接音素 wav 檔的方式進行合成——失敗。音節間的銜接過於生硬，無法產生自然語流。</p>
+<p>🔧 第二次嘗試：改造 eSpeak 現有語言 Profile
+利用 eSpeak 既有的語言設定加以改造，雛形完成。然而發現兩個根本性問題：</p>
+<p>發音規則受限：仍被原有語言的音韻邏輯所束縛。
+母音明顯失真：合成音與歷史錄音中的母音音質差距顯著。</p>
+<p>🎯 突破口：解析歷史音檔，復元母音
+解析珍貴的歷史錄音，成功重建巴賽語母音。將其置入 eSpeak 後，才深刻體會到一件事：</p>
+<p>母音音檔的品質，決定了一個語言合成正確性的 80% 以上。</p>
 <p>這是整個開發過程中最關鍵的發現。</p>
-<hr />
-<h3 id="_3">🔊 子音系統調整：依據南島語系一般知見</h3>
-<p>根據南島語系的語音學通則，重新調整子音發音規則。</p>
-<p><strong>里程碑達成：PC 本地版巴賽語語音合成器完成。</strong></p>
-<hr />
-<h3 id="_4">📱 安卓移植：接近完成，暫時擱置</h3>
-<p>嘗試將 PC 本地版移植為 Android 應用程式（App），目前已接近完成。但在手邊的 Motorola 入門機上音效不佳，無其他裝置可供測試，暫時保留，尚未於 Google Play Store 公開發布。</p>
-<hr />
-<h3 id="basaytw">🌐 basay.tw 網站上線</h3>
-<p>利用 <a href="https://github.com/">GitHub Pages</a> 架設 <a href="https://basay.tw">basay.tw</a>。網站上的每個例句皆可點選播放音檔，讓讀者直接聆聽巴賽語發音。</p>
-<hr />
-<h3 id="ttshuggingface">☁️ 雲端 TTS：HuggingFace 整合</h3>
-<p>將 PC 本地版巴賽語語音合成移植至 <a href="https://huggingface.co">HuggingFace</a>，建立網頁版：</p>
-<p>👉 <a href="https://inkuei-basaytts.hf.space">https://inkuei-basaytts.hf.space</a></p>
-<p>並與 basay.tw 整合——讀者現在可以直接輸入任意巴賽語文字，令其即時發音。</p>
-<blockquote>
+<p>🔊 子音系統調整：依據南島語系一般知見
+根據南島語系的語音學通則，重新調整子音發音規則。
+里程碑達成：PC 本地版巴賽語語音合成器完成。</p>
+<p>📱 安卓移植：接近完成，暫時擱置
+嘗試將 PC 本地版移植為 Android 應用程式（App），目前已接近完成。但在手邊的 Motorola 入門機上音效不佳，無其他裝置可供測試，暫時保留，尚未於 Google Play Store 公開發布。</p>
+<p>🌐 basay.tw 網站上線
+利用 GitHub Pages 架設 basay.tw。網站上的每個例句皆可點選播放音檔，讓讀者直接聆聽巴賽語發音。</p>
+<p>☁️ 雲端 TTS：HuggingFace 整合
+將 PC 本地版巴賽語語音合成移植至 HuggingFace，建立網頁版：
+👉 https://inkuei-basaytts.hf.space
+並與 basay.tw 整合——讀者現在可以直接輸入任意巴賽語文字，令其即時發音。</p>
 <p>這對語言學習非常有幫助。我現在每天都在用，單字記得比以前快，對文法的理解也更加融會貫通。</p>
-</blockquote>
-<hr />
-<h3 id="_5">📲 行動化更新：從手機即可更新「本日的巴賽語」</h3>
-<p>basay.tw 的「<strong>本日的巴賽語 Daily Basay</strong>」欄目，原本只能從 PC 端更新，十分不便。重新改造 <a href="https://inkuei-basaytts.hf.space">inkuei-basaytts.hf.space</a> 的架構後，現在已可直接從手機進行更新。</p>
-<hr />
-<h3 id="_6">📝 新增「研究筆記」部落格</h3>
-<p>basay.tw 增設「<strong>研究筆記</strong>」部落格，記錄巴賽語復原研究的點滴——</p>
-<ul>
-<li>音韻分析</li>
-<li>文法考察</li>
-<li>語音合成工程</li>
-<li>田野的聲音</li>
-</ul>
-<hr />
-<h2 id="_7">今日的巴賽語</h2>
-<p><strong>Kisaizi a kawase a Basay</strong>（巴賽語復振）</p>
+<p>📲 行動化更新：從手機即可更新「本日的巴賽語」
+basay.tw 的「本日的巴賽語 Daily Basay」欄目，原本只能從 PC 端更新，十分不便。重新改造 inkuei-basaytts.hf.space 的架構後，現在已可直接從手機進行更新。</p>
+<p>📝 新增「研究筆記」部落格
+basay.tw 增設「研究筆記」部落格，記錄巴賽語復原研究的點滴——</p>
+<p>音韻分析
+文法考察
+語音合成工程
+田野的聲音</p>
+<p>今日的巴賽語
+Kisaizi a kawase a Basay（巴賽語復振）</p>
 
       <div class="article-footer">
         <div class="license">
@@ -244,37 +229,6 @@ footer a:hover { color:var(--accent); }
       </ul>
     </div>
 
-    
-    <div class="toc-box">
-      <div class="toc-label">目次</div>
-      <ul class="toc-list">
-        
-        <li><a href="#起點-商業-tts-不支援南島語系">起點：商業 TTS 不支援南島語系</a></li>
-        
-        <li><a href="#開發歷程">開發歷程</a></li>
-        
-        <li><a href="#第一次嘗試-ffmpeg-音素合成" class="sub">❌ 第一次嘗試：FFmpeg 音素合成</a></li>
-        
-        <li><a href="#第二次嘗試-改造-espeak-現有語言-profile" class="sub">🔧 第二次嘗試：改造 eSpeak 現有語言 Profile</a></li>
-        
-        <li><a href="#突破口-解析歷史音檔-復元母音" class="sub">🎯 突破口：解析歷史音檔，復元母音</a></li>
-        
-        <li><a href="#子音系統調整-依據南島語系一般知見" class="sub">🔊 子音系統調整：依據南島語系一般知見</a></li>
-        
-        <li><a href="#安卓移植-接近完成-暫時擱置" class="sub">📱 安卓移植：接近完成，暫時擱置</a></li>
-        
-        <li><a href="#basay-tw-網站上線" class="sub">🌐 basay.tw 網站上線</a></li>
-        
-        <li><a href="#雲端-tts-huggingface-整合" class="sub">☁️ 雲端 TTS：HuggingFace 整合</a></li>
-        
-        <li><a href="#行動化更新-從手機即可更新-本日的巴賽語" class="sub">📲 行動化更新：從手機即可更新「本日的巴賽語」</a></li>
-        
-        <li><a href="#新增-研究筆記-部落格" class="sub">📝 新增「研究筆記」部落格</a></li>
-        
-        <li><a href="#今日的巴賽語">今日的巴賽語</a></li>
-        
-      </ul>
-    </div>
     
 
     <div class="aside-tts">
