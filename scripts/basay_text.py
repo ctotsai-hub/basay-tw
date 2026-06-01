@@ -1,22 +1,29 @@
 #!/usr/bin/env python3
 """
-basay_text.py — 表記から slug と TTS テキストを派生する（v3 / 2026-04-27）
+basay_text.py — 表記から slug と TTS テキストを派生する（v3.2 / 2026-05-31 unified）
 
-仕様サマリ:
+HF Space と GitHub `scripts/` の共通版。両者の機能を統合：
+
+  ・接尾辞 longest-match (A/B/C 三層) ＋ 辞書(D) を 4 番目の層として参加
+      A: -an -ay -ai -au -na -,            (2026/05/16: -i, -a 削除)
+      B: -ku -ik -su -is -ta -it -mi -am -mu -im -ia -ja  (-ia/-ja は C から移動)
+      C: -aku -isu -ita -ami -imu -ija -eja               (-ija/-eja を追加整理)
+      D: WORD_REWRITE_OVERRIDES (data/word_rewrites.tsv) — 完全一致のみ採用
+  ・D fallback: A/B/C どれも一致しない時、末尾 1〜3 文字を仮想接尾辞として
+      剥がし、残りが D にあれば採用（D 未登録なら絶対に剥がさない）
+  ・空白入り D target: top-level の bare full match のときに再トークン化
+  ・音韻ルール: 母音 + b → 母音 + pb （TTS 専用、slug 不変）
+
   ・slug: ŋ/Ŋ/ʔ/'/' → x、ə → e、ɨ → i、英数字以外 → "_"、両端 strip
-  ・TTS:
-      ⑧ ' / ' / ʔ → x（直前文字に粘着）
+  ・TTS 補足:
+      ⑧ ' / ' / ʔ → x（直前子音の複製）
       ① 各ワード最初の子音単位の直後に :
       ② 語中の連続子音（粘着 x の後ろは除く）の間に :
       ④ - を : に置換
       ⑤ 語末接尾辞: 直前の母音の前に :、文末以外は , を付加
       ⑥ 語中接尾辞: 前後に :
-      ⑦ 助詞 u/ta/nu/i/a の後（文末除く）に ,
+      ⑦ 助詞 u/ta/nu/i/a/na の後（文末除く）に ,
       ⑨ 2 音節語は [[...,=]] 形式で出力
-  ・接尾辞 longest-match (内側へ反復):
-      A: -an -ay -ai -au -na -a -i -,
-      B: -ku -ik -su -is -ta -it -mi -am -mu -im -ija
-      C: -aku -isu -ita -ami -imu -ia -ja
 """
 import re
 import sys
@@ -72,21 +79,6 @@ def load_word_rewrites(path=WORD_REWRITE_PATH):
 WORD_REWRITE_OVERRIDES = load_word_rewrites()
 
 
-def _apply_word_rewrites(text):
-    """Token-level literal override using word_rewrites.tsv.
-    Each whitespace-delimited token is looked up case-insensitively.
-    If the target itself contains whitespace, the result is naturally
-    re-tokenized when re-joined with space.
-    """
-    if not text or not WORD_REWRITE_OVERRIDES:
-        return text
-    out = []
-    for tok in text.split():
-        override = WORD_REWRITE_OVERRIDES.get(tok.lower())
-        out.append(override if override is not None else tok)
-    return ' '.join(out)
-
-
 _NG_AS_APOS_RE = re.compile(r'([nN])[gG]')
 
 
@@ -119,10 +111,12 @@ DIGRAPHS = (
 )
 APOSTROPHES = ("'", '’', 'ʔ')
 
+# 2026/05/16: 'A' から 'i','a' 取り消し、'B' に 'ia','ja' 移動、
+# 'C' から 'ia','ja' を取り、'ija','eja' を追加
 SUFFIX_GROUPS = {
-    'A': ['an', 'ay', 'ai', 'au', 'na', 'i', 'a', ','],
-    'B': ['ku', 'ik', 'su', 'is', 'ta', 'it', 'mi', 'am', 'mu', 'im', 'ija'],
-    'C': ['aku', 'isu', 'ita', 'ami', 'imu', 'ia', 'ja'],
+    'A': ['an', 'ay', 'ai', 'au', 'na', ','],
+    'B': ['ku', 'ik', 'su', 'is', 'ta', 'it', 'mi', 'am', 'mu', 'im', 'ia', 'ja'],
+    'C': ['aku', 'isu', 'ita', 'ami', 'imu', 'ija', 'eja'],
 }
 ALL_SUFFIXES_SORTED = sorted(
     set(SUFFIX_GROUPS['A'] + SUFFIX_GROUPS['B'] + SUFFIX_GROUPS['C']),
@@ -230,20 +224,72 @@ def _count_units_for_chars(units, n_chars):
     return None if total != n_chars else len(units)
 
 
+def _count_consonant_units(units):
+    return sum(1 for u in units if u != '-' and not _is_vowel_unit(u))
+
+
 def _segment_word(units):
+    """A/B/C 三層 longest-match に加え、辞書(D)を 4 番目の層として参加させる.
+
+    各反復で:
+      1) 残り bare 全体が WORD_REWRITE_OVERRIDES に完全一致 → target に置換、
+         書き換えを 1 回適用したフラグを立てて続行（無限ループ防止）
+      2) A/B/C 接尾辞剥がし → 適用、次反復へ
+      3) A/B/C どれにも一致しない時、末尾 1〜3 文字を仮想接尾辞として
+         剥がしてみて、残りが D に登録されていれば採用する（D fallback）
+      4) 全部失敗 → 終了
+
+    安全 break（全子音残り）の手前で次反復の D 救済可能性を peek し、
+    D 登録があれば剥がしを続ける（例：vks→vuks）。
+    target に空白が含まれる場合は _process_token 側で再トークン化する
+    （top-level の full bare match のときのみ発生）。
+    """
     suffix_chunks = []
     remaining = units[:]
+    rewrite_applied = False
     while True:
         alpha = _alpha_lower(remaining)
+        # --- Tier D: 完全一致 ---
+        if not rewrite_applied and alpha in WORD_REWRITE_OVERRIDES:
+            target = WORD_REWRITE_OVERRIDES[alpha]
+            if ' ' not in target:
+                # 音韻ルールは _process_token 側でも適用されるが、
+                # D target にも一応適用しておく（V+b → V+pb 等の保険）
+                target = _apply_phonological_rules(target)
+                remaining = _parse_units(target)
+                rewrite_applied = True
+                continue
+            # 空白入り target はここでは扱わず通常処理へフォールスルー
+        # --- Tier A/B/C: longest-match suffix stripping ---
         result = _strip_one_end_suffix(alpha)
         if result is None:
-            break
+            # --- D fallback: A/B/C 不一致時、末尾 1〜3 文字を仮想接尾辞として
+            # 剥がし、残りが D にあれば採用。D 未登録なら絶対に剥がさない。
+            matched_fallback = False
+            for k in (1, 2, 3):
+                cnt_fb = _count_units_for_chars(remaining, k)
+                if cnt_fb is None or cnt_fb == 0 or cnt_fb >= len(remaining):
+                    continue
+                cand_alpha = _alpha_lower(remaining[:-cnt_fb])
+                if cand_alpha in WORD_REWRITE_OVERRIDES:
+                    suffix_chunks.append(remaining[-cnt_fb:])
+                    remaining = remaining[:-cnt_fb]
+                    matched_fallback = True
+                    break
+            if not matched_fallback:
+                break
+            continue
         _, suf = result
         cnt = _count_units_for_chars(remaining, len(suf))
         if cnt is None or cnt == 0 or cnt >= len(remaining):
             break
+        next_remaining = remaining[:-cnt]
+        # 安全：全子音残りなら通常 break、ただし D が救済可能なら続行
+        if _count_syllables(next_remaining) == 0 and _count_consonant_units(next_remaining) > 1:
+            if _alpha_lower(next_remaining) not in WORD_REWRITE_OVERRIDES:
+                break
         suffix_chunks.append(remaining[-cnt:])
-        remaining = remaining[:-cnt]
+        remaining = next_remaining
     segments = [(remaining, 'stem')]
     if suffix_chunks:
         suffix_chunks.reverse()
@@ -374,7 +420,7 @@ _TRAIL_PUNCT_RE = re.compile(r"[^A-Za-zəɨŋŊ'’ʔ\-]+$")
 _LEAD_PUNCT_RE = re.compile(r"^[^A-Za-zəɨŋŊ'’ʔ\-]+")
 
 
-def _process_token(token, is_final):
+def _process_token(token, is_final, _depth=0):
     if not token:
         return token
     lead = ''
@@ -391,10 +437,33 @@ def _process_token(token, is_final):
     if not bare:
         return token
 
-    units = _parse_units(bare)
+    # --- top-level D lookup with space-target handling ---
+    # bare 全体が D ヒット & target に空白あり → 複数トークンに分割再帰
+    full_match = WORD_REWRITE_OVERRIDES.get(bare.lower())
+    if full_match and ' ' in full_match and _depth < 3:
+        sub_tokens = full_match.split()
+        n = len(sub_tokens)
+        rendered_pieces = []
+        for i, sub in enumerate(sub_tokens):
+            this_lead = lead if i == 0 else ''
+            this_trail = trail if i == n - 1 else ''
+            sub_is_final = is_final and (i == n - 1)
+            piece = _process_token(this_lead + sub + this_trail,
+                                   is_final=sub_is_final, _depth=_depth + 1)
+            rendered_pieces.append(piece)
+        return ' '.join(rendered_pieces)
+
+    tts_bare = full_match if full_match else bare
+    # 音韻ルール（tts_bare に対して、後段の解析前に適用）
+    tts_bare = _apply_phonological_rules(tts_bare)
+    units = _parse_units(tts_bare)
     segments = _segment_word(units)
-    if _count_syllables(units) == 2:
-        rendered = _format_2syl_brackets(units)
+    # 2 音節判定は D 書き換え後の stem ＋ 剥がした接尾辞で再構築
+    units_after = []
+    for seg_units, _kind in segments:
+        units_after.extend(seg_units)
+    if _count_syllables(units_after) == 2:
+        rendered = _format_2syl_brackets(units_after)
     else:
         rendered = _process_segments(segments)
 
@@ -438,12 +507,8 @@ def tts_text(display, manual=None):
         return manual
     if not display or not display.strip():
         return ''
-    # 適用順:
-    #   1. word_rewrites（個別語の literal override、HF Space と同じテーブル）
-    #   2. 音韻ルール（一般パターン、母音 + b → 母音 + pb 等）
-    # slug にはどちらの変換も反映させない（tts_text の中だけで使う）
-    display = _apply_word_rewrites(display)
-    display = _apply_phonological_rules(display)
+    # 注：D（word_rewrites）と音韻ルールは _process_token 内で適用される。
+    #     ここでは単純にトークン化して各トークンを処理するだけ。
     tokens = display.split()
     n = len(tokens)
     out = []
@@ -474,7 +539,7 @@ TEST_CASES = [
     ("lusa",      "lusa",      "[[l:u,s,a,=]]"),
     ("zanum",     "zanum",     "[[z:a,n,u,m,=]]"),
     ("batu",      "batu",      "[[b:a,t,u,=]]"),
-    ("abu",       "abu",       "[[a,b,u,=]]"),
+    ("abu",       "abu",       "[[a,p:b,u,=]]"),  # V+b → V+pb 適用
     ("paman",     "paman",     "[[p:a,m,a,n,=]]"),
     ("kuman",     "kuman",     "[[k:u,m,a,n,=]]"),
     ("paslin",    "paslin",    "[[p:a,s:l,i,n,=]]"),
@@ -489,6 +554,14 @@ TEST_CASES = [
     ("Makawas ita mau Basay",
      "makawas_ita_mau_basay",
      "m:akawas [[i,t,a,=]], m:au, [[b:a,s,ai,=]]"),
+    # === v3.1: D-as-4th-tier longest-match + 音韻 V+b ===
+    ("lave",            "lave",            "[[l:a,p:v,e,=]]"),
+    ("vkas",            "vkas",            "[[v:u,k,a,s,=]]"),
+    ("vkasan",          "vkasan",          "v:ukas:an"),
+    ("wanak",           "wanak",           "[[u,a,n,a,k,=]]"),
+    ("wanakka",         "wanakka",         "uanak:k:a"),  # D fallback: -a 仮想剥がし
+    ("knaul\'ijan",      "knaulxijan",      "kn:au [[l:l:i,j,a,n,=]]"),
+    ("kubaban",         "kubaban",         "k:up:bap:b:an"),  # V+b 2 か所
 ]
 
 
