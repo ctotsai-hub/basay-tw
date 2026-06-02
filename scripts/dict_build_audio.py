@@ -45,6 +45,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
@@ -70,12 +72,27 @@ VOICE_MAP = {
 LOUDNORM_FILTER = "loudnorm=I=-16:TP=-1.5:LRA=11:linear=true"
 
 
+def parse_id_ranges(spec: str) -> set[int]:
+    """"1-10,23,25-38,100" → {1,2,...,10,23,25,...,38,100}"""
+    ids: set[int] = set()
+    for part in spec.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        if "-" in part:
+            lo, hi = part.split("-", 1)
+            ids.update(range(int(lo), int(hi) + 1))
+        else:
+            ids.add(int(part))
+    return ids
+
+
 # --------------------------------------------------------------------------- #
 # Helpers
 # --------------------------------------------------------------------------- #
 
 def check_tools() -> None:
-    for tool in ("espeak-ng", "ffmpeg"):
+    for tool in ("ffmpeg",):  # espeak-ng は Space API を使用
         if shutil.which(tool) is None:
             sys.exit(
                 f"ERROR: {tool} not found on PATH.\n"
@@ -83,11 +100,27 @@ def check_tools() -> None:
             )
 
 
-def synth_wav(text: str, voice: str, out_wav: Path) -> None:
-    """eSpeak-NG → raw WAV."""
+def make_client():
+    """gradio_client.Client を生成して返す（スレッドごとに1つ作成）。"""
+    from gradio_client import Client
+    return Client("inkuei/basaytts", verbose=False)
+
+
+def synth_wav(text: str, voice: str, out_wav: Path, client=None) -> None:
+    """Space API (inkuei/basaytts) → raw WAV.
+    text には basay_text.derive()["tts"] 済みの文字列を渡す。
+    Space 側では tts_override として受け取り、二重変換を防ぐ。
+    client を渡すと再利用する（並列処理時はスレッドローカルで管理）。
+    """
     out_wav.parent.mkdir(parents=True, exist_ok=True)
-    cmd = ["espeak-ng", "-v", voice, text, "-w", str(out_wav)]
-    subprocess.run(cmd, check=True, capture_output=True)
+    voice_short = voice.split("+")[0]  # "bsy+f1" → "bsy"
+    c = client or make_client()
+    result = c.predict(
+        tts_text=text,
+        voice_short=voice_short,
+        api_name="/synth_wav",
+    )
+    shutil.copy(result, out_wav)
 
 
 def normalize_wav(wav: Path) -> None:
@@ -140,7 +173,7 @@ def _mp3_path(variant: str, slug: str) -> Path:
 
 def generate_one(
     display: str, variant: str, voice: str, slug: str,
-    bitrate: str, tmpdir: Path, dry_run: bool,
+    bitrate: str, tmpdir: Path, dry_run: bool, client=None,
 ) -> tuple[bool, str]:
     """Generate a single MP3. Returns (ok, message)."""
     mp3 = _mp3_path(variant, slug)
@@ -154,7 +187,7 @@ def generate_one(
         primary = _primary(display)
         tts_text = basay_text.derive(primary)["tts"]
         wav = tmpdir / f"{slug}_{variant}.wav"
-        synth_wav(tts_text, voice, wav)
+        synth_wav(tts_text, voice, wav, client=client)
         normalize_wav(wav)
         wav_to_mp3(wav, mp3, bitrate=bitrate)
         try:
@@ -197,6 +230,8 @@ def main() -> int:
                         help="Show what would be generated, write nothing")
     parser.add_argument("--limit", type=int, default=0,
                         help="Stop after N generations (useful for testing)")
+    parser.add_argument("--workers", type=int, default=4,
+                        help="並列ワーカー数（デフォルト: 4）。Space の負荷に応じて調整")
     parser.add_argument("--slug", nargs="+", metavar="SLUG", default=None,
                         help="Only (re)generate audio for these specific slugs. "
                              "Combine with --force to overwrite existing MP3s. "
@@ -205,6 +240,10 @@ def main() -> int:
                         help="Same as --slug but accepts basay text; the script "
                              "derives slug from each. Useful for ad-hoc updates. "
                              "Example: --basay \"hihol'\" \"kul-apba\"")
+    parser.add_argument("--ID", metavar="RANGES", default=None,
+                        help="ID 範囲指定（例: 1-10,23,25-38,100）。"
+                             "dictionary.json の id フィールドと照合する。"
+                             "--slug / --basay と併用可。")
     args = parser.parse_args()
 
     if not args.dry_run:
@@ -225,13 +264,22 @@ def main() -> int:
     entries = load_entries()
     variants = [args.only] if args.only else list(VOICE_MAP.keys())
 
-    # Build filter set from --slug / --basay (intersection semantics for clarity)
+    # Build filter set from --slug / --basay / --ID
     slug_filter: set[str] | None = None
     if args.slug:
         slug_filter = set(args.slug)
     if args.basay:
         derived = {basay_text.derive(_primary(b))["slug"] for b in args.basay}
         slug_filter = (slug_filter | derived) if slug_filter else derived
+    if args.ID:
+        id_set = parse_id_ranges(args.ID)
+        id_slugs = {
+            basay_text.derive(_primary(e["basay"]))["slug"]
+            for e in entries
+            if e.get("id") and int(e["id"]) in id_set
+        }
+        slug_filter = (slug_filter | id_slugs) if slug_filter else id_slugs
+        print(f"--ID resolved to {len(id_slugs)} slug(s)")
     if slug_filter:
         print(f"Filtering by {len(slug_filter)} slug(s): {sorted(slug_filter)}")
 
@@ -260,6 +308,16 @@ def main() -> int:
                 continue
             plan.append((display, slug, variant, VOICE_MAP[variant]))
 
+    # 同一 slug+variant が複数エントリーに存在する場合を除去
+    seen_keys: set[tuple[str, str]] = set()
+    deduped: list[tuple[str, str, str, str]] = []
+    for item in plan:
+        key = (item[1], item[2])  # (slug, variant)
+        if key not in seen_keys:
+            seen_keys.add(key)
+            deduped.append(item)
+    plan = deduped
+
     print(f"{len(entries)} entries; planned {len(plan)} generations, "
           f"{skipped} already present.")
 
@@ -275,15 +333,37 @@ def main() -> int:
         return 0
 
     failures: list[str] = []
+    workers = min(args.workers, len(plan)) if plan else 1
+    print(f"  workers={workers}")
+    counter_lock = threading.Lock()
+    counter = [0]
+
+    _tls = threading.local()
+
+    def _get_client():
+        if not hasattr(_tls, "client"):
+            _tls.client = make_client()
+        return _tls.client
+
+    def _run(item):
+        display, slug, variant, voice = item
+        c = _get_client()
+        ok, msg = generate_one(display, variant, voice, slug,
+                               args.bitrate, tmpdir, dry_run=False, client=c)
+        with counter_lock:
+            counter[0] += 1
+            tag = "✓" if ok else "✗"
+            print(f"  [{counter[0]}/{len(plan)}] {tag} {msg}", flush=True)
+        return ok, msg
+
     with tempfile.TemporaryDirectory(prefix="basay_dict_audio_") as td:
         tmpdir = Path(td)
-        for i, (display, slug, variant, voice) in enumerate(plan, start=1):
-            ok, msg = generate_one(display, variant, voice, slug,
-                                   args.bitrate, tmpdir, dry_run=False)
-            tag = "✓" if ok else "✗"
-            print(f"  [{i}/{len(plan)}] {tag} {msg}")
-            if not ok:
-                failures.append(msg)
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = [executor.submit(_run, item) for item in plan]
+            for future in as_completed(futures):
+                ok, msg = future.result()
+                if not ok:
+                    failures.append(msg)
 
     print()
     print(f"Done. {len(plan) - len(failures)} generated, "
