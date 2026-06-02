@@ -27,6 +27,8 @@
     S:   "Trobiawan-s",
     V:   "台語",
     PAN: "南島祖語 (Proto-Austronesian)",
+    L:   "外來語 (Loanword)",   // ← 追加
+    N:   "新造語 (Neologism)",  // ← 追加
   };
 
   let DATA = [];
