@@ -13,6 +13,8 @@
   const input      = document.getElementById("dict-query");
   const langSel    = document.getElementById("dict-lang");
   const catSel     = document.getElementById("dict-category");
+  const sourceSel  = document.getElementById("dict-source");
+  const idInput    = document.getElementById("dict-id");
   const results    = document.getElementById("dict-results");
   const statusEl   = document.getElementById("dict-status");
   if (!form || !results) return;
@@ -95,25 +97,45 @@
       `<p class="dict-empty" style="${isErr ? "color:#c86d4a" : ""}">${msg}</p>`;
   }
 
+  // カタカナ→ひらがな変換（U+30A1–U+30F6 → U+3041–U+3096）
+  function toHira(s) {
+    return s.replace(/[ァ-ヶ]/g, (c) =>
+      String.fromCharCode(c.charCodeAt(0) - 0x60)
+    );
+  }
+
+  // 日本語を含む文字列の正規化（小文字化＋カタカナ→ひらがな）
+  function normalizeJa(s) {
+    return toHira(s.toLowerCase());
+  }
+
   function matches(entry, q, field) {
     if (!q) return true;
-    const needle = q.toLowerCase().trim();
-    if (!needle) return true;
+    const raw = q.trim();
+    if (!raw) return true;
 
     if (field === "basay") {
+      const needle = raw.toLowerCase();
       return entry.basay && entry.basay.toLowerCase().includes(needle);
     }
+    if (field === "ja") {
+      const needle = normalizeJa(raw);
+      return (entry.ja || []).some((s) => normalizeJa(String(s)).includes(needle));
+    }
     if (field === "any") {
-      const hay = [
+      const needleLo  = raw.toLowerCase();
+      const needleJa  = normalizeJa(raw);
+      const hayLo = [
         entry.basay,
         entry.original,
         ...(entry.zh || []),
-        ...(entry.ja || []),
         ...(entry.en || []),
         entry.remark,
       ].filter(Boolean).join(" ").toLowerCase();
-      return hay.includes(needle);
+      const hayJa = (entry.ja || []).map((s) => normalizeJa(String(s))).join(" ");
+      return hayLo.includes(needleLo) || hayJa.includes(needleJa);
     }
+    const needle = raw.toLowerCase();
     const list = entry[field] || [];
     return list.some((s) => String(s).toLowerCase().includes(needle));
   }
@@ -192,14 +214,18 @@
   }
 
   function runSearch() {
-    const q = (input.value || "").trim();
-    const field = langSel ? langSel.value : "any";
-    const cat = catSel ? catSel.value : "";
+    const q      = (input.value || "").trim();
+    const field  = langSel   ? langSel.value   : "any";
+    const cat    = catSel    ? catSel.value    : "";
+    const source = sourceSel ? sourceSel.value : "";
+    const idQ    = idInput   ? idInput.value.trim() : "";
 
     let hits = DATA;
-    if (cat) hits = hits.filter((e) => e.category === cat);
-    if (q)   hits = hits.filter((e) => matches(e, q, field));
-    if (!q && !cat) {
+    if (cat)    hits = hits.filter((e) => e.category === cat);
+    if (source) hits = hits.filter((e) => e.source   === source);
+    if (idQ)    hits = hits.filter((e) => e.id && e.id.includes(idQ));
+    if (q)      hits = hits.filter((e) => matches(e, q, field));
+    if (!q && !cat && !source && !idQ) {
       renderHint("請輸入關鍵字或選擇類別。");
       setStatus("");
       return;
@@ -222,8 +248,9 @@
     runSearch();
   });
 
-  if (catSel) {
-    catSel.addEventListener("change", async () => {
+  const autoSearchSelects = [catSel, sourceSel].filter(Boolean);
+  for (const sel of autoSearchSelects) {
+    sel.addEventListener("change", async () => {
       await load();
       if (!loaded) return;
       runSearch();
