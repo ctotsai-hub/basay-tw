@@ -7,7 +7,7 @@ For every dictionary entry, ensure an MP3 file exists under
     dictionary/audio/hokkien/<slug>.mp3   (Hokkien TTS, voice: bsystd)
 
 Pipeline (per missing variant):
-    espeak-ng → WAV → ffmpeg loudnorm (-16 LUFS) → ffmpeg MP3 64k mono
+    HF Space API (inkuei/basaytts) → WAV → ffmpeg loudnorm (-16 LUFS) → ffmpeg MP3 64k mono
 
 Only the MP3 is committed to git; intermediate WAVs are written to a temp dir.
 Existing MP3 files are skipped unless --force is given.
@@ -23,11 +23,14 @@ USAGE
   python scripts/dict_build_audio.py --only ipay             # one voice only
   python scripts/dict_build_audio.py --bitrate 48k           # smaller files
   python scripts/dict_build_audio.py --dry-run               # plan, don't run
+  python scripts/dict_build_audio.py --id 417-419,523        # specific IDs
+  python scripts/dict_build_audio.py --basay "vanan'" "labatan" --force
+  python scripts/dict_build_audio.py --slug ranum vatu siya --force
 
 REQUIRES
 --------
-  - espeak-ng on PATH (with custom Basay/Hokkien voices configured)
   - ffmpeg on PATH
+  - gradio_client (pip install gradio_client)
   - scripts/basay_text.py importable (uses derive() for slug + TTS text)
 
 NOTE ON DISK USAGE
@@ -73,7 +76,14 @@ LOUDNORM_FILTER = "loudnorm=I=-16:TP=-1.5:LRA=11:linear=true"
 
 
 def parse_id_ranges(spec: str) -> set[int]:
-    """"1-10,23,25-38,100" → {1,2,...,10,23,25,...,38,100}"""
+    """ID 範囲を集合にする。
+
+    例:
+      "1-10,23,25-38,100" → {1,2,...,10,23,25,...,38,100}
+      "0417, 0419"        → {417, 419}   （前後空白とゼロパディングを許容）
+
+    不正な入力は ValueError を投げる。
+    """
     ids: set[int] = set()
     for part in spec.split(","):
         part = part.strip()
@@ -81,6 +91,9 @@ def parse_id_ranges(spec: str) -> set[int]:
             continue
         if "-" in part:
             lo, hi = part.split("-", 1)
+            lo, hi = lo.strip(), hi.strip()
+            if not lo or not hi:
+                raise ValueError(f"不正な範囲指定: {part!r}")
             ids.update(range(int(lo), int(hi) + 1))
         else:
             ids.add(int(part))
@@ -240,10 +253,11 @@ def main() -> int:
                         help="Same as --slug but accepts basay text; the script "
                              "derives slug from each. Useful for ad-hoc updates. "
                              "Example: --basay \"hihol'\" \"kul-apba\"")
-    parser.add_argument("--ID", metavar="RANGES", default=None,
+    parser.add_argument("--ID", "--id", dest="id_ranges", metavar="RANGES", default=None,
                         help="ID 範囲指定（例: 1-10,23,25-38,100）。"
                              "dictionary.json の id フィールドと照合する。"
-                             "--slug / --basay と併用可。")
+                             "--slug / --basay と併用可。"
+                             "大文字 --ID / 小文字 --id どちらも同じ。")
     args = parser.parse_args()
 
     if not args.dry_run:
@@ -264,22 +278,34 @@ def main() -> int:
     entries = load_entries()
     variants = [args.only] if args.only else list(VOICE_MAP.keys())
 
-    # Build filter set from --slug / --basay / --ID
+    # Build filter set from --slug / --basay / --id(--ID)
     slug_filter: set[str] | None = None
     if args.slug:
         slug_filter = set(args.slug)
     if args.basay:
         derived = {basay_text.derive(_primary(b))["slug"] for b in args.basay}
         slug_filter = (slug_filter | derived) if slug_filter else derived
-    if args.ID:
-        id_set = parse_id_ranges(args.ID)
-        id_slugs = {
-            basay_text.derive(_primary(e["basay"]))["slug"]
-            for e in entries
-            if e.get("id") and int(e["id"]) in id_set
-        }
+    if args.id_ranges:
+        id_set = parse_id_ranges(args.id_ranges)
+        id_slugs: set[str] = set()
+        skipped_non_numeric = 0
+        for e in entries:
+            eid = e.get("id", "")
+            if not eid:
+                continue
+            try:
+                if int(eid) in id_set:
+                    primary = _primary(e.get("basay", ""))
+                    if primary:
+                        id_slugs.add(basay_text.derive(primary)["slug"])
+            except (ValueError, TypeError):
+                # "0417a" のような非数値 ID をスキップ
+                skipped_non_numeric += 1
+                continue
         slug_filter = (slug_filter | id_slugs) if slug_filter else id_slugs
-        print(f"--ID resolved to {len(id_slugs)} slug(s)")
+        print(f"--id resolved to {len(id_slugs)} slug(s)"
+              + (f" (skipped {skipped_non_numeric} non-numeric IDs)"
+                 if skipped_non_numeric else ""))
     if slug_filter:
         print(f"Filtering by {len(slug_filter)} slug(s): {sorted(slug_filter)}")
 

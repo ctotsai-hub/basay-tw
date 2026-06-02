@@ -2978,7 +2978,7 @@
   },
   {
     "id": "1436",
-    "basay": "mamatiwi",
+    "basay": "mamatiu",
     "category": "20",
     "zh": [
       "去"
@@ -2989,9 +2989,9 @@
     "source": "T",
     "original": "mamatiwi",
     "audio": {
-      "slug": "mamatiwi",
-      "ipay": "dictionary/audio/ipay/m/mamatiwi.mp3",
-      "hokkien": "dictionary/audio/hokkien/m/mamatiwi.mp3"
+      "slug": "mamatiu",
+      "ipay": "dictionary/audio/ipay/m/mamatiu.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mamatiu.mp3"
     }
   },
   {
@@ -3982,13 +3982,15 @@
   {
     "id": "1458",
     "basay": "maqsumanta",
-    "category": "04",
+    "category": "20",
     "zh": [
-      "兄",
-      "姊"
+      "巡回"
+    ],
+    "ja": [
+      "巡る"
     ],
     "en": [
-      "elder sibling"
+      "going around"
     ],
     "source": "S",
     "original": "maqsumanta (S)",
@@ -4643,7 +4645,7 @@
   },
   {
     "id": "0495",
-    "basay": "mata numalᵒ | numaz'",
+    "basay": "mata numal' | numaz'",
     "category": "28",
     "zh": [
       "看到"
@@ -4657,9 +4659,9 @@
     "source": "B",
     "original": "mata numalᵒ (numaDᵒ)",
     "audio": {
-      "slug": "mata_numal",
-      "ipay": "dictionary/audio/ipay/m/mata_numal.mp3",
-      "hokkien": "dictionary/audio/hokkien/m/mata_numal.mp3"
+      "slug": "mata_numalx",
+      "ipay": "dictionary/audio/ipay/m/mata_numalx.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/mata_numalx.mp3"
     }
   },
   {
