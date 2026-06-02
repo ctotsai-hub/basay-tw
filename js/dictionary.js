@@ -97,16 +97,16 @@
       `<p class="dict-empty" style="${isErr ? "color:#c86d4a" : ""}">${msg}</p>`;
   }
 
-  // カタカナ→ひらがな変換（U+30A1–U+30F6 → U+3041–U+3096）
+  // カタカナ→ひらがな変換（U+30A1–U+30F6）
   function toHira(s) {
-    return s.replace(/[ァ-ヶ]/g, (c) =>
+    return String(s).replace(/[ァ-ヶ]/g, (c) =>
       String.fromCharCode(c.charCodeAt(0) - 0x60)
     );
   }
 
-  // 日本語を含む文字列の正規化（小文字化＋カタカナ→ひらがな）
-  function normalizeJa(s) {
-    return toHira(s.toLowerCase());
+  // 正規化：小文字化 ＋ カタカナ→ひらがな（日本語・混合テキスト全般に適用）
+  function norm(s) {
+    return toHira(String(s).toLowerCase());
   }
 
   function matches(entry, q, field) {
@@ -115,29 +115,33 @@
     if (!raw) return true;
 
     if (field === "basay") {
-      const needle = raw.toLowerCase();
-      return entry.basay && entry.basay.toLowerCase().includes(needle);
+      return entry.basay && entry.basay.toLowerCase().includes(raw.toLowerCase());
     }
     if (field === "ja") {
-      const needle = normalizeJa(raw);
-      return (entry.ja || []).some((s) => normalizeJa(String(s)).includes(needle));
+      const needle = norm(raw);
+      return (entry.ja || []).some((s) => norm(s).includes(needle));
     }
     if (field === "any") {
-      const needleLo  = raw.toLowerCase();
-      const needleJa  = normalizeJa(raw);
+      // 非日本語フィールド：通常小文字比較
+      const needleLo = raw.toLowerCase();
       const hayLo = [
-        entry.basay,
-        entry.original,
-        ...(entry.zh || []),
-        ...(entry.en || []),
-        entry.remark,
+        entry.basay, entry.original,
+        ...(entry.zh || []), ...(entry.en || []),
       ].filter(Boolean).join(" ").toLowerCase();
-      const hayJa = (entry.ja || []).map((s) => normalizeJa(String(s))).join(" ");
-      return hayLo.includes(needleLo) || hayJa.includes(needleJa);
+
+      // 日本語フィールド＋remark：カナ正規化して比較
+      const needleN = norm(raw);
+      const hayN = [
+        ...(entry.ja || []),
+        entry.remark,
+      ].filter(Boolean).map(norm).join(" ");
+
+      return hayLo.includes(needleLo) || hayN.includes(needleN);
     }
-    const needle = raw.toLowerCase();
+    // zh / en などフィールド指定の場合
+    const needle = norm(raw);
     const list = entry[field] || [];
-    return list.some((s) => String(s).toLowerCase().includes(needle));
+    return list.some((s) => norm(s).includes(needle));
   }
 
   function escapeHtml(s) {
@@ -215,21 +219,23 @@
 
   function runSearch() {
     const q      = (input.value || "").trim();
-    const field  = langSel   ? langSel.value   : "any";
-    const cat    = catSel    ? catSel.value    : "";
-    const source = sourceSel ? sourceSel.value : "";
-    const idQ    = idInput   ? idInput.value.trim() : "";
+    const field  = langSel   ? langSel.value        : "any";
+    const cat    = catSel    ? catSel.value          : "";
+    const source = sourceSel ? sourceSel.value.trim(): "";
+    const idQ    = idInput   ? idInput.value.trim()  : "";
 
-    let hits = DATA;
-    if (cat)    hits = hits.filter((e) => e.category === cat);
-    if (source) hits = hits.filter((e) => e.source   === source);
-    if (idQ)    hits = hits.filter((e) => e.id && e.id.includes(idQ));
-    if (q)      hits = hits.filter((e) => matches(e, q, field));
+    // 何も入力されていない場合はヒントを表示して終了
     if (!q && !cat && !source && !idQ) {
       renderHint("請輸入關鍵字或選擇類別。");
       setStatus("");
       return;
     }
+
+    let hits = DATA;
+    if (cat)    hits = hits.filter((e) => e.category === cat);
+    if (source) hits = hits.filter((e) => (e.source || "").trim() === source);
+    if (idQ)    hits = hits.filter((e) => e.id != null && String(e.id).includes(idQ));
+    if (q)      hits = hits.filter((e) => matches(e, q, field));
 
     const total = hits.length;
     const shown = hits.slice(0, RESULT_LIMIT);
@@ -248,12 +254,26 @@
     runSearch();
   });
 
+  // セレクト変更時に自動検索
   const autoSearchSelects = [catSel, sourceSel].filter(Boolean);
   for (const sel of autoSearchSelects) {
     sel.addEventListener("change", async () => {
       await load();
       if (!loaded) return;
       runSearch();
+    });
+  }
+
+  // ID入力欄：入力後500msでオートサーチ（Enterでも可）
+  if (idInput) {
+    let idTimer = null;
+    idInput.addEventListener("input", async () => {
+      clearTimeout(idTimer);
+      idTimer = setTimeout(async () => {
+        await load();
+        if (!loaded) return;
+        runSearch();
+      }, 500);
     });
   }
 
