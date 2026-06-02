@@ -56,6 +56,17 @@
     <select id="dict-category" aria-label="篩選類別">
       <option value="">所有類別</option>
     </select>
+    <select id="dict-source" aria-label="篩選出處">
+      <option value="">所有出處</option>
+      <option value="B">B — Basay</option>
+      <option value="T">T — Trobiawan</option>
+      <option value="M">M — Trobiawan-m</option>
+      <option value="S">S — Trobiawan-s</option>
+      <option value="V">V — 台語</option>
+      <option value="PAN">PAN — 南島祖語</option>
+    </select>
+    <input type="text" id="dict-id" placeholder="ID（例：0001）"
+           aria-label="詞條 ID" maxlength="10" style="width:7em">
     <button type="submit">搜尋</button>
   </form>
 
@@ -70,7 +81,8 @@
   <ul>
     <li>搜尋為 <strong>部分字串比對</strong>（不分大小寫）。</li>
     <li>選擇「全部欄位」會同時搜尋四個語言欄位。</li>
-    <li>類別篩選可與關鍵字搜尋疊加（例如：只在「06身體部位」中搜尋「mata」）。</li>
+    <li>日文搜尋時，<strong>平假名・片假名不作區分</strong>（例：「うみ」と「ウミ」は同一視）。</li>
+    <li>類別・出處・ID の各フィルターはキーワード検索と組み合わせて使用可能。</li>
     <li>▶️ 圖示為合成語音播放。<strong>ipay</strong> 為巴賽語發音、<strong>hok</strong>
         為以台語語音模型唸出同一拼寫的對照音。</li>
     <li>同一拼寫但意義不同的詞條（同形異義）會列出多筆。</li>
