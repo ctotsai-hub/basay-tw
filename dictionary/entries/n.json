@@ -792,7 +792,7 @@
   },
   {
     "id": "0530",
-    "basay": "na:maD*",
+    "basay": "na:maz'",
     "category": "11",
     "zh": [
       "火"
@@ -806,9 +806,9 @@
     "source": "B",
     "original": "na:maD*",
     "audio": {
-      "slug": "na_mad",
-      "ipay": "dictionary/audio/ipay/n/na_mad.mp3",
-      "hokkien": "dictionary/audio/hokkien/n/na_mad.mp3"
+      "slug": "na_mazx",
+      "ipay": "dictionary/audio/ipay/n/na_mazx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/na_mazx.mp3"
     }
   },
   {
@@ -904,27 +904,6 @@
     }
   },
   {
-    "id": "0531",
-    "basay": "namaD'",
-    "category": "11",
-    "zh": [
-      "火"
-    ],
-    "ja": [
-      "火"
-    ],
-    "en": [
-      "fire"
-    ],
-    "source": "B",
-    "original": "namaD'",
-    "audio": {
-      "slug": "namadx",
-      "ipay": "dictionary/audio/ipay/n/namadx.mp3",
-      "hokkien": "dictionary/audio/hokkien/n/namadx.mp3"
-    }
-  },
-  {
     "id": "3279",
     "basay": "namat",
     "category": "09",
@@ -943,8 +922,29 @@
     }
   },
   {
+    "id": "0531",
+    "basay": "namaz'",
+    "category": "11",
+    "zh": [
+      "火"
+    ],
+    "ja": [
+      "火"
+    ],
+    "en": [
+      "fire"
+    ],
+    "source": "B",
+    "original": "namaD'",
+    "audio": {
+      "slug": "namazx",
+      "ipay": "dictionary/audio/ipay/n/namazx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/namazx.mp3"
+    }
+  },
+  {
     "id": "0532",
-    "basay": "nameD",
+    "basay": "namaz'",
     "category": "11",
     "zh": [
       "閃電"
@@ -958,9 +958,9 @@
     "source": "B",
     "original": "nameD",
     "audio": {
-      "slug": "named",
-      "ipay": "dictionary/audio/ipay/n/named.mp3",
-      "hokkien": "dictionary/audio/hokkien/n/named.mp3"
+      "slug": "namazx",
+      "ipay": "dictionary/audio/ipay/n/namazx.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/namazx.mp3"
     }
   },
   {

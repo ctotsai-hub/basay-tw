@@ -7526,7 +7526,7 @@
       "放屁"
     ],
     "ja": [
-      "屁, アミ(ma?tot) サア 皆サン山へ行カウ"
+      "屁, アミ(ma?tot)"
     ],
     "en": [
       "fart"
@@ -7550,7 +7550,7 @@
   },
   {
     "id": "0530",
-    "basay": "na:maD*",
+    "basay": "na:maz'",
     "category": "11",
     "zh": [
       "火"
@@ -7564,7 +7564,7 @@
   },
   {
     "id": "0531",
-    "basay": "namaD'",
+    "basay": "namaz'",
     "category": "11",
     "zh": [
       "火"
@@ -7578,7 +7578,7 @@
   },
   {
     "id": "0532",
-    "basay": "nameD",
+    "basay": "namaz'",
     "category": "11",
     "zh": [
       "閃電"
