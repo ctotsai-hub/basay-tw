@@ -193,8 +193,7 @@ def read_workbook(xlsx_path: Path) -> tuple[list[dict[str, Any]], dict[str, str]
     if not xlsx_path.exists():
         sys.exit(f"ERROR: input file not found: {xlsx_path}")
 
-    wb = openpyxl.load_workbook(xlsx_path, data_only=True, read_only=True,
-                                keep_vba=xlsx_path.suffix.lower() == ".xlsm")
+    wb = openpyxl.load_workbook(xlsx_path, keep_vba=xlsx_path.suffix.lower() == ".xlsm")
 
     # Auto-select the main sheet.
     sheet_name = "basay_dictionary" if "basay_dictionary" in wb.sheetnames else wb.sheetnames[0]
