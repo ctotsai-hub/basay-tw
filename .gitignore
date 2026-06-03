@@ -21,3 +21,4 @@ dictionary/source/basay_dictionary.bak-*.xlsm
 
 # Excel auto-backup files
 dictionary/source/basay_dictionary.bak-*.xlsm
+.venv/
