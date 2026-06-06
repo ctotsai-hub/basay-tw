@@ -88,6 +88,13 @@ def _split_cjk_segments(text):
 # Use in the app layer to dispatch Chinese segments to a Chinese TTS engine
 # (e.g. espeak-ng -v cmn) while Basay segments go to espeak -v bsy.
 ZH_SEGMENT_RE = re.compile(r'\[ZH:([^\]]*)\]')
+#: Regex matching ``[EN:…]`` markers (from parenthesized tokens like ``(maker)``).
+EN_SEGMENT_RE = re.compile(r'\[EN:([^\]]*)\]')
+
+# Tokens wrapped in parentheses are treated as English text:
+#   (ID)    -> [EN:ID]   -> synthesised with eSpeak -v en
+#   (便利)  -> [ZH:便利] -> parentheses stripped, processed as Chinese
+_ENGLISH_PAREN_RE = re.compile(r'^\(([^()]+)\)$')
 
 
 # --- word_rewrites.tsv (HF Space と同じ仕組み) -----------------------
@@ -473,6 +480,10 @@ _TRAIL_PUNCT_RE = re.compile(r"[^A-Za-zəɨŋŊ'’ʔ\-]+$")
 _LEAD_PUNCT_RE = re.compile(r"^[^A-Za-zəɨŋŊ'’ʔ\-]+")
 
 
+# Dots between ASCII/Basay letters (e.g. basay.tw).  Stripping prevents
+# '.' from entering _parse_units() as a spurious phoneme unit.
+_INTERNAL_DOT_RE = re.compile(r'(?<=[A-Za-zəɨŋŊ])\.(?=[A-Za-zəɨŋŊ])')
+
 def _process_token(token, is_final, _depth=0):
     if not token:
         return token
@@ -480,6 +491,18 @@ def _process_token(token, is_final, _depth=0):
     # Tokens containing CJK characters are split into sub-segments:
     # CJK chunks -> [ZH:...] markers, Basay chunks -> normal pipeline.
     # Only at _depth==0 to avoid double-wrapping in recursive D-rewrite calls.
+    # --- (parenthesized) → English TTS ---
+    # At top level, (content) tokens are read with an English voice.
+    # If content is CJK the parens are stripped and normal CJK processing runs.
+    if _depth == 0:
+        m_paren = _ENGLISH_PAREN_RE.match(token)
+        if m_paren:
+            content = m_paren.group(1).strip()
+            if content:
+                if any(_is_cjk_char(ch) for ch in content):
+                    return _process_token(content, is_final=is_final, _depth=0)
+                return '[EN:' + content + ']'
+
     if _depth == 0 and any(_is_cjk_char(ch) for ch in token):
         segs = _split_cjk_segments(token)
         if len(segs) == 1 and segs[0][1]:
@@ -491,7 +514,15 @@ def _process_token(token, is_final, _depth=0):
                 parts.append('[ZH:' + chunk + ']')
             else:
                 this_final = is_final and (idx == n_segs - 1)
-                parts.append(_process_token(chunk, is_final=this_final, _depth=_depth + 1))
+                processed = _process_token(chunk, is_final=this_final, _depth=_depth + 1)
+                # Absorb pure-punctuation segments into an adjacent ZH marker so
+                # that edge-tts handles sentence-final marks naturally:
+                # e.g. [ZH:便利] + '.' -> [ZH:便利.]
+                if (parts and parts[-1].startswith('[ZH:')
+                        and not re.search(r'[A-Za-z\[]', processed)):
+                    parts[-1] = parts[-1][:-1] + processed + ']'
+                else:
+                    parts.append(processed)
         return ''.join(parts)
 
     lead = ''
@@ -506,7 +537,33 @@ def _process_token(token, is_final, _depth=0):
         trail = m.group(0)
         bare = bare[:-len(trail)]
     if not bare:
+        # Whole token was punctuation / digits / symbols (bare stripped to empty).
+        rewrite_key = token.strip().lower()
+        if rewrite_key and rewrite_key in WORD_REWRITE_OVERRIDES:
+            # Exact match (e.g. '1'→tsa, '10'→labatan).
+            target = WORD_REWRITE_OVERRIDES[rewrite_key]
+            return _process_token(target, is_final=is_final, _depth=_depth + 1)
+        # Digit-by-digit expansion for multi-digit numbers not in the dictionary.
+        # '1874' → tsa wasu pitu so'pat  (each digit looked up individually)
+        if rewrite_key and rewrite_key.isdigit() and len(rewrite_key) > 1:
+            digit_words = [WORD_REWRITE_OVERRIDES[d]
+                           for d in rewrite_key if d in WORD_REWRITE_OVERRIDES]
+            if digit_words:
+                n_dw = len(digit_words)
+                rendered = []
+                for i_dw, word in enumerate(digit_words):
+                    sub_final = is_final and (i_dw == n_dw - 1)
+                    rendered.append(
+                        _process_token(word, is_final=sub_final, _depth=_depth + 1)
+                    )
+                return ' '.join(rendered)
         return token
+
+    # Strip dots between letters (basay.tw -> basaytw) to prevent
+    # '.' from entering _parse_units() and corrupting eSpeak notation.
+    bare = _INTERNAL_DOT_RE.sub('', bare)
+    if not bare:
+        return lead + trail
 
     # --- top-level D lookup with space-target handling ---
     # bare 全体が D ヒット & target に空白あり → 複数トークンに分割再帰
@@ -605,16 +662,19 @@ def tts_segments(display, manual=None):
         return []
     result = []
     pos = 0
-    for m in ZH_SEGMENT_RE.finditer(raw):
+    _ph = re.compile(r'[A-Za-z\[]')  # phonetic content marker
+    _any_marker = re.compile(r'\[(ZH|EN):([^\]]*)\]')
+    for m in _any_marker.finditer(raw):
         before = raw[pos:m.start()].strip()
-        if before:
+        if before and _ph.search(before):
             result.append((before, 'bsy'))
-        zh_text = m.group(1)
-        if zh_text:
-            result.append((zh_text, 'zh'))
+        lang_tag = m.group(1).lower()  # 'zh' or 'en'
+        content = m.group(2)
+        if content:
+            result.append((content, lang_tag))
         pos = m.end()
     tail = raw[pos:].strip()
-    if tail:
+    if tail and _ph.search(tail):
         result.append((tail, 'bsy'))
     return result
 
