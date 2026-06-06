@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-basay_text.py — 表記から slug と TTS テキストを派生する（v3.2 / 2026-05-31 unified）
+basay_text.py — 表記から slug と TTS テキストを派生する（v3.3 / 2026-06-06 CJK support）
 
 HF Space と GitHub `scripts/` の共通版。両者の機能を統合：
 
@@ -35,6 +35,59 @@ SPECIAL_CHAR_MAP = {
     "'": 'x', '’': 'x',
     'ə': 'e', 'ɨ': 'i',
 }
+
+
+# ---------------------------------------------------------------------------
+# CJK (Traditional / Simplified Chinese) character support
+# ---------------------------------------------------------------------------
+
+def _is_cjk_char(ch):
+    """Return True if ch is a CJK ideograph or related character.
+
+    Covered Unicode ranges:
+      U+4E00-U+9FFF  CJK Unified Ideographs (main block)
+      U+3400-U+4DBF  CJK Extension A
+      U+F900-U+FAFF  CJK Compatibility Ideographs
+      U+3000-U+303F  CJK Symbols and Punctuation
+      U+FF01-U+FFEE  Fullwidth forms
+      U+20000-U+2A6DF  CJK Extension B (wide Python builds)
+    """
+    cp = ord(ch)
+    return (
+        0x4E00 <= cp <= 0x9FFF
+        or 0x3400 <= cp <= 0x4DBF
+        or 0xF900 <= cp <= 0xFAFF
+        or 0x3000 <= cp <= 0x303F
+        or 0xFF01 <= cp <= 0xFFEE
+        or 0x20000 <= cp <= 0x2A6DF
+    )
+
+
+def _split_cjk_segments(text):
+    """Split text into (chunk, is_cjk) pairs (adjacent same-type chars merged)."""
+    if not text:
+        return []
+    segments = []
+    buf = []
+    cur_cjk = _is_cjk_char(text[0])
+    for ch in text:
+        is_cjk = _is_cjk_char(ch)
+        if is_cjk != cur_cjk:
+            if buf:
+                segments.append((''.join(buf), cur_cjk))
+            buf = [ch]
+            cur_cjk = is_cjk
+        else:
+            buf.append(ch)
+    if buf:
+        segments.append((''.join(buf), cur_cjk))
+    return segments
+
+
+# Regex matching [ZH:...] markers embedded in tts_text() output.
+# Use in the app layer to dispatch Chinese segments to a Chinese TTS engine
+# (e.g. espeak-ng -v cmn) while Basay segments go to espeak -v bsy.
+ZH_SEGMENT_RE = re.compile(r'\[ZH:([^\]]*)\]')
 
 
 # --- word_rewrites.tsv (HF Space と同じ仕組み) -----------------------
@@ -423,6 +476,24 @@ _LEAD_PUNCT_RE = re.compile(r"^[^A-Za-zəɨŋŊ'’ʔ\-]+")
 def _process_token(token, is_final, _depth=0):
     if not token:
         return token
+    # --- CJK fast path ---
+    # Tokens containing CJK characters are split into sub-segments:
+    # CJK chunks -> [ZH:...] markers, Basay chunks -> normal pipeline.
+    # Only at _depth==0 to avoid double-wrapping in recursive D-rewrite calls.
+    if _depth == 0 and any(_is_cjk_char(ch) for ch in token):
+        segs = _split_cjk_segments(token)
+        if len(segs) == 1 and segs[0][1]:
+            return '[ZH:' + token + ']'
+        n_segs = len(segs)
+        parts = []
+        for idx, (chunk, is_cjk) in enumerate(segs):
+            if is_cjk:
+                parts.append('[ZH:' + chunk + ']')
+            else:
+                this_final = is_final and (idx == n_segs - 1)
+                parts.append(_process_token(chunk, is_final=this_final, _depth=_depth + 1))
+        return ''.join(parts)
+
     lead = ''
     bare = token
     m = _LEAD_PUNCT_RE.match(bare)
@@ -517,6 +588,37 @@ def tts_text(display, manual=None):
     return ' '.join(out)
 
 
+def tts_segments(display, manual=None):
+    """Return TTS output as a list of (text, lang) tuples.
+
+    lang is 'bsy' (Basay, for eSpeak -v bsy) or 'zh' (Chinese, for a
+    Mandarin TTS engine such as espeak-ng -v cmn or OpenAI TTS).
+
+    Example:
+        for text, lang in tts_segments("Basay 巴賽語 ita"):
+            audio = espeak_bsy(text) if lang == 'bsy' else chinese_tts(text)
+    """
+    if manual is not None and manual != '':
+        return [(manual, 'bsy')]
+    raw = tts_text(display)
+    if not raw:
+        return []
+    result = []
+    pos = 0
+    for m in ZH_SEGMENT_RE.finditer(raw):
+        before = raw[pos:m.start()].strip()
+        if before:
+            result.append((before, 'bsy'))
+        zh_text = m.group(1)
+        if zh_text:
+            result.append((zh_text, 'zh'))
+        pos = m.end()
+    tail = raw[pos:].strip()
+    if tail:
+        result.append((tail, 'bsy'))
+    return result
+
+
 def derive(display, slug_override=None, tts_override=None):
     return {
         'display': display,
@@ -562,6 +664,14 @@ TEST_CASES = [
     ("wanakka",         "wanakka",         "uanak:k:a"),  # D fallback: -a 仮想剥がし
     ("knaul\'ijan",      "knaulxijan",      "kn:au [[l:l:i,j,a,n,=]]"),
     ("kubaban",         "kubaban",         "k:up:bap:b:an"),  # V+b 2 か所
+    # === v3.3: CJK mixed-text -> [ZH:...] markers ===
+    ("巴賽語",          "",                "[ZH:巴賽語]"),
+    ("Basay 巴賽語 ita",
+     "basay_ita",
+     "[[b:a,s,ai,=]], [ZH:巴賽語] [[i,t,a,=]]"),
+    ("ita 你好 Basay 再見",
+     "ita_basay",
+     "[[i,t,a,=]], [ZH:你好] [[b:a,s,ai,=]], [ZH:再見]"),
 ]
 
 
