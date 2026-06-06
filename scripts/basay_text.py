@@ -94,7 +94,10 @@ EN_SEGMENT_RE = re.compile(r'\[EN:([^\]]*)\]')
 # Tokens wrapped in parentheses are treated as English text:
 #   (ID)    -> [EN:ID]   -> synthesised with eSpeak -v en
 #   (便利)  -> [ZH:便利] -> parentheses stripped, processed as Chinese
+# Single-token form matched inside _process_token:
 _ENGLISH_PAREN_RE = re.compile(r'^\(([^()]+)\)$')
+# Multi-word form detected in tts_text() BEFORE tokenizing (e.g. "(a, b, c)"):
+_PAREN_PHRASE_RE = re.compile(r'\(([^()]+)\)')
 
 
 # --- word_rewrites.tsv (HF Space と同じ仕組み) -----------------------
@@ -487,6 +490,11 @@ _INTERNAL_DOT_RE = re.compile(r'(?<=[A-Za-zəɨŋŊ])\.(?=[A-Za-zəɨŋŊ])')
 def _process_token(token, is_final, _depth=0):
     if not token:
         return token
+    # Pass pre-built [EN:...] / [ZH:...] markers through unchanged.
+    # These are produced by _expand_paren_phrases() or the CJK fast path and
+    # must not be re-processed by the Basay phoneme pipeline.
+    if token.startswith('[EN:') or token.startswith('[ZH:'):
+        return token
     # --- CJK fast path ---
     # Tokens containing CJK characters are split into sub-segments:
     # CJK chunks -> [ZH:...] markers, Basay chunks -> normal pipeline.
@@ -630,14 +638,46 @@ def _apply_phonological_rules(text):
     return text
 
 
+def _expand_paren_phrases(text):
+    """Pre-tokenization pass: replace (multi word phrases) with [EN:...] markers.
+
+    This runs before display.split() so that parenthesised expressions that
+    contain internal spaces — e.g. "(english, japanese, chinese)" — are kept
+    together as a single [EN:...] block rather than being chopped into separate
+    tokens by the whitespace split.
+
+    CJK-only content has its parentheses stripped (no [EN:] wrapper) so that
+    normal CJK processing applies.
+    """
+    def _replace(m):
+        content = m.group(1).strip()
+        if not content:
+            return ''
+        if any(_is_cjk_char(ch) for ch in content):
+            return content  # strip parens, let normal pipeline handle it
+        return '[EN:' + content + ']'
+    return _PAREN_PHRASE_RE.sub(_replace, text)
+
+
 def tts_text(display, manual=None):
     if manual is not None and manual != '':
         return manual
     if not display or not display.strip():
         return ''
+    # Pre-expand (parenthesised phrases) → [EN:...] before tokenizing so that
+    # multi-word expressions like "(english, japanese)" survive the split().
+    display = _expand_paren_phrases(display)
     # 注：D（word_rewrites）と音韻ルールは _process_token 内で適用される。
-    #     ここでは単純にトークン化して各トークンを処理するだけ。
-    tokens = display.split()
+    # Tokenize: split on marker boundaries FIRST, then on whitespace for the
+    # remaining text.  Plain split() or \S+ would break [EN:multi word] markers
+    # on their internal spaces; re.split with a capturing group preserves them.
+    _MARKER_RE = re.compile(r'(\[(?:EN|ZH):[^\]]*\])')
+    tokens = []
+    for part in _MARKER_RE.split(display):
+        if _MARKER_RE.fullmatch(part):
+            tokens.append(part)          # keep marker atomic
+        else:
+            tokens.extend(part.split())  # split surrounding text on whitespace
     n = len(tokens)
     out = []
     for i, tok in enumerate(tokens):
