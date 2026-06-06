@@ -6870,27 +6870,6 @@
     }
   },
   {
-    "id": "1075",
-    "basay": "tsulaD' | -t",
-    "category": "24",
-    "zh": [
-      "信"
-    ],
-    "ja": [
-      "手紙】, 字"
-    ],
-    "en": [
-      "letter"
-    ],
-    "source": "B",
-    "original": "tsulaD', -t (?)",
-    "audio": {
-      "slug": "tsuladx",
-      "ipay": "dictionary/audio/ipay/t/tsuladx.mp3",
-      "hokkien": "dictionary/audio/hokkien/t/tsuladx.mp3"
-    }
-  },
-  {
     "id": "2183",
     "basay": "tsulaktsakay",
     "category": "24",
@@ -6924,6 +6903,27 @@
       "slug": "tsulal",
       "ipay": "dictionary/audio/ipay/t/tsulal.mp3",
       "hokkien": "dictionary/audio/hokkien/t/tsulal.mp3"
+    }
+  },
+  {
+    "id": "1075",
+    "basay": "tsulat",
+    "category": "24",
+    "zh": [
+      "信"
+    ],
+    "ja": [
+      "手紙】, 字"
+    ],
+    "en": [
+      "letter"
+    ],
+    "source": "B",
+    "original": "tsulaD', -t (?)",
+    "audio": {
+      "slug": "tsulat",
+      "ipay": "dictionary/audio/ipay/t/tsulat.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tsulat.mp3"
     }
   },
   {

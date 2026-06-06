@@ -1226,7 +1226,7 @@
   {
     "id": "0087",
     "basay": "bitin",
-    "category": "06",
+    "category": "09",
     "zh": [
       "耳環"
     ],
@@ -15350,7 +15350,7 @@
   },
   {
     "id": "1075",
-    "basay": "tsulaD' | -t",
+    "basay": "tsulat",
     "category": "24",
     "zh": [
       "信"
@@ -15663,7 +15663,7 @@
   },
   {
     "id": "1097",
-    "basay": "u:lᵒ | u:dᵒ",
+    "basay": "u:z'",
     "category": "07",
     "zh": [
       "蛇"
@@ -15677,7 +15677,7 @@
   },
   {
     "id": "1098",
-    "basay": "uːts",
+    "basay": "u:ts",
     "category": "08",
     "zh": [
       "甘蔗"
@@ -30596,7 +30596,7 @@
   },
   {
     "id": "2443",
-    "basay": "bañaw",
+    "basay": "ban'aw",
     "category": "19",
     "zh": [
       "洗身體"
@@ -38579,7 +38579,7 @@
   },
   {
     "id": "3137",
-    "basay": "ma-bañaw",
+    "basay": "ma-ban'aw",
     "category": "27",
     "zh": [
       "洗身體"
@@ -40452,7 +40452,7 @@
   },
   {
     "id": "3301",
-    "basay": "ñawñaw",
+    "basay": "n'awn'aw",
     "category": "27",
     "zh": [
       "沖洗",

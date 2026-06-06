@@ -1828,7 +1828,7 @@
   {
     "id": "0087",
     "basay": "bitin",
-    "category": "06",
+    "category": "09",
     "zh": [
       "耳環"
     ],
@@ -22868,7 +22868,7 @@
   },
   {
     "id": "1075",
-    "basay": "tsulaD' | -t",
+    "basay": "tsulat",
     "category": "24",
     "zh": [
       "信"
@@ -22882,9 +22882,9 @@
     "source": "B",
     "original": "tsulaD', -t (?)",
     "audio": {
-      "slug": "tsuladx",
-      "ipay": "dictionary/audio/ipay/t/tsuladx.mp3",
-      "hokkien": "dictionary/audio/hokkien/t/tsuladx.mp3"
+      "slug": "tsulat",
+      "ipay": "dictionary/audio/ipay/t/tsulat.mp3",
+      "hokkien": "dictionary/audio/hokkien/t/tsulat.mp3"
     }
   },
   {
@@ -23335,7 +23335,7 @@
   },
   {
     "id": "1097",
-    "basay": "u:lᵒ | u:dᵒ",
+    "basay": "u:z'",
     "category": "07",
     "zh": [
       "蛇"
@@ -23349,14 +23349,14 @@
     "source": "B",
     "original": "u:lᵒ , u:dᵒ",
     "audio": {
-      "slug": "u_l",
-      "ipay": "dictionary/audio/ipay/u/u_l.mp3",
-      "hokkien": "dictionary/audio/hokkien/u/u_l.mp3"
+      "slug": "u_zx",
+      "ipay": "dictionary/audio/ipay/u/u_zx.mp3",
+      "hokkien": "dictionary/audio/hokkien/u/u_zx.mp3"
     }
   },
   {
     "id": "1098",
-    "basay": "uːts",
+    "basay": "u:ts",
     "category": "08",
     "zh": [
       "甘蔗"
@@ -47690,7 +47690,7 @@
   },
   {
     "id": "2443",
-    "basay": "bañaw",
+    "basay": "ban'aw",
     "category": "19",
     "zh": [
       "洗身體"
@@ -47701,9 +47701,9 @@
     "source": "PAN",
     "original": "bañaw",
     "audio": {
-      "slug": "ba_aw",
-      "ipay": "dictionary/audio/ipay/b/ba_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/b/ba_aw.mp3"
+      "slug": "banxaw",
+      "ipay": "dictionary/audio/ipay/b/banxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxaw.mp3"
     }
   },
   {
@@ -60531,7 +60531,7 @@
   },
   {
     "id": "3137",
-    "basay": "ma-bañaw",
+    "basay": "ma-ban'aw",
     "category": "27",
     "zh": [
       "洗身體"
@@ -60542,9 +60542,9 @@
     "source": "PAN",
     "original": "ma-bañaw",
     "audio": {
-      "slug": "ma_ba_aw",
-      "ipay": "dictionary/audio/ipay/m/ma_ba_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/m/ma_ba_aw.mp3"
+      "slug": "ma_banxaw",
+      "ipay": "dictionary/audio/ipay/m/ma_banxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_banxaw.mp3"
     }
   },
   {
@@ -63552,7 +63552,7 @@
   },
   {
     "id": "3301",
-    "basay": "ñawñaw",
+    "basay": "n'awn'aw",
     "category": "27",
     "zh": [
       "沖洗",
@@ -63564,9 +63564,9 @@
     "source": "PAN",
     "original": "ñawñaw",
     "audio": {
-      "slug": "aw_aw",
-      "ipay": "dictionary/audio/ipay/a/aw_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/a/aw_aw.mp3"
+      "slug": "nxawnxaw",
+      "ipay": "dictionary/audio/ipay/n/nxawnxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/n/nxawnxaw.mp3"
     }
   },
   {

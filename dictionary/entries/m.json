@@ -258,6 +258,24 @@
     }
   },
   {
+    "id": "3137",
+    "basay": "ma-ban'aw",
+    "category": "27",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 757"
+    ],
+    "source": "PAN",
+    "original": "ma-bañaw",
+    "audio": {
+      "slug": "ma_banxaw",
+      "ipay": "dictionary/audio/ipay/m/ma_banxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/m/ma_banxaw.mp3"
+    }
+  },
+  {
     "id": "3138",
     "basay": "ma-basaw",
     "category": "32",
@@ -273,24 +291,6 @@
       "slug": "ma_basaw",
       "ipay": "dictionary/audio/ipay/m/ma_basaw.mp3",
       "hokkien": "dictionary/audio/hokkien/m/ma_basaw.mp3"
-    }
-  },
-  {
-    "id": "3137",
-    "basay": "ma-bañaw",
-    "category": "27",
-    "zh": [
-      "洗身體"
-    ],
-    "en": [
-      "wash the body 757"
-    ],
-    "source": "PAN",
-    "original": "ma-bañaw",
-    "audio": {
-      "slug": "ma_ba_aw",
-      "ipay": "dictionary/audio/ipay/m/ma_ba_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/m/ma_ba_aw.mp3"
     }
   },
   {

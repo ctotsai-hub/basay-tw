@@ -2047,24 +2047,5 @@
       "ipay": "dictionary/audio/ipay/a/am_am.mp3",
       "hokkien": "dictionary/audio/hokkien/a/am_am.mp3"
     }
-  },
-  {
-    "id": "3301",
-    "basay": "ñawñaw",
-    "category": "27",
-    "zh": [
-      "沖洗",
-      "清洗"
-    ],
-    "en": [
-      "rinse, wash 6049"
-    ],
-    "source": "PAN",
-    "original": "ñawñaw",
-    "audio": {
-      "slug": "aw_aw",
-      "ipay": "dictionary/audio/ipay/a/aw_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/a/aw_aw.mp3"
-    }
   }
 ]

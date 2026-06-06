@@ -18,8 +18,29 @@
     }
   },
   {
+    "id": "1098",
+    "basay": "u:ts",
+    "category": "08",
+    "zh": [
+      "甘蔗"
+    ],
+    "ja": [
+      "砂糖黍"
+    ],
+    "en": [
+      "sugar-cane"
+    ],
+    "source": "B",
+    "original": "uːts",
+    "audio": {
+      "slug": "u_ts",
+      "ipay": "dictionary/audio/ipay/u/u_ts.mp3",
+      "hokkien": "dictionary/audio/hokkien/u/u_ts.mp3"
+    }
+  },
+  {
     "id": "1097",
-    "basay": "u:lᵒ | u:dᵒ",
+    "basay": "u:z'",
     "category": "07",
     "zh": [
       "蛇"
@@ -33,9 +54,9 @@
     "source": "B",
     "original": "u:lᵒ , u:dᵒ",
     "audio": {
-      "slug": "u_l",
-      "ipay": "dictionary/audio/ipay/u/u_l.mp3",
-      "hokkien": "dictionary/audio/hokkien/u/u_l.mp3"
+      "slug": "u_zx",
+      "ipay": "dictionary/audio/ipay/u/u_zx.mp3",
+      "hokkien": "dictionary/audio/hokkien/u/u_zx.mp3"
     }
   },
   {
@@ -528,27 +549,6 @@
       "slug": "uzuay",
       "ipay": "dictionary/audio/ipay/u/uzuay.mp3",
       "hokkien": "dictionary/audio/hokkien/u/uzuay.mp3"
-    }
-  },
-  {
-    "id": "1098",
-    "basay": "uːts",
-    "category": "08",
-    "zh": [
-      "甘蔗"
-    ],
-    "ja": [
-      "砂糖黍"
-    ],
-    "en": [
-      "sugar-cane"
-    ],
-    "source": "B",
-    "original": "uːts",
-    "audio": {
-      "slug": "u_ts",
-      "ipay": "dictionary/audio/ipay/u/u_ts.mp3",
-      "hokkien": "dictionary/audio/hokkien/u/u_ts.mp3"
     }
   }
 ]

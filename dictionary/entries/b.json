@@ -1239,6 +1239,24 @@
     }
   },
   {
+    "id": "2443",
+    "basay": "ban'aw",
+    "category": "19",
+    "zh": [
+      "洗身體"
+    ],
+    "en": [
+      "wash the body 754"
+    ],
+    "source": "PAN",
+    "original": "bañaw",
+    "audio": {
+      "slug": "banxaw",
+      "ipay": "dictionary/audio/ipay/b/banxaw.mp3",
+      "hokkien": "dictionary/audio/hokkien/b/banxaw.mp3"
+    }
+  },
+  {
     "id": "0055",
     "basay": "ban'ka",
     "category": "20",
@@ -2455,24 +2473,6 @@
     }
   },
   {
-    "id": "2443",
-    "basay": "bañaw",
-    "category": "19",
-    "zh": [
-      "洗身體"
-    ],
-    "en": [
-      "wash the body 754"
-    ],
-    "source": "PAN",
-    "original": "bañaw",
-    "audio": {
-      "slug": "ba_aw",
-      "ipay": "dictionary/audio/ipay/b/ba_aw.mp3",
-      "hokkien": "dictionary/audio/hokkien/b/ba_aw.mp3"
-    }
-  },
-  {
     "id": "0074",
     "basay": "bebete",
     "category": "15",
@@ -3671,7 +3671,7 @@
   {
     "id": "0087",
     "basay": "bitin",
-    "category": "06",
+    "category": "09",
     "zh": [
       "耳環"
     ],
