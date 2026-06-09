@@ -2,58 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://basay.tw/</loc>
-    <lastmod>2026-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://basay.tw/about/</loc>
-    <lastmod>2026-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://basay.tw/blog/</loc>
-    <lastmod>2026-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://basay.tw/dictionary/</loc>
-    <lastmod>2026-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://basay.tw/education/</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-06-09</lastmod>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://basay.tw/grammar/</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://basay.tw/education/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://basay.tw/research/</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://basay.tw/research/2026-04-basay-acoustic/</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://basay.tw/hf-space-tts/</loc>
-    <lastmod>2026-06-04</lastmod>
+    <loc>https://basay.tw/dictionary/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://basay.tw/blog/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://basay.tw/blog/blog260604/</loc>
     <lastmod>2026-06-04</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://basay.tw/blog/blog260531/</loc>
     <lastmod>2026-05-31</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://basay.tw/blog/blog260529/</loc>
     <lastmod>2026-05-29</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://basay.tw/blog/blog260515/</loc>
     <lastmod>2026-05-15</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://basay.tw/blog/lalaleona/</loc>
     <lastmod>2026-04-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://basay.tw/about/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>
