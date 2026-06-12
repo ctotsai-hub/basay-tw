@@ -1,6 +1,19 @@
 {
   "posts": [
     {
+      "slug": "blog260612",
+      "title": "聖德太子之歌與巴賽語（Basay）對譯",
+      "subtitle": "——《日本書紀》推古天皇二十一年（613年）條",
+      "date": "2026-06-12",
+      "reading_time": "約 8 分鐘",
+      "tags": [
+        "万葉集"
+      ],
+      "tags_special": [],
+      "dialect": "",
+      "excerpt": "——《日本書紀》推古天皇二十一年（613年）條"
+    },
+    {
       "slug": "blog260604",
       "title": "「辭典檢索」在 basay.tw 上路了！",
       "subtitle": "",
