@@ -330,6 +330,10 @@ def main() -> int:
     ap.add_argument("--no-search-index", action="store_true")
     ap.add_argument("--no-export", action="store_true",
                     help="Skip auto-running dict_export_research.py after JSON generation")
+    ap.add_argument("--commit", action="store_true",
+                    help="Auto git add -A and git commit after all files are generated")
+    ap.add_argument("--message", "-m", default="",
+                    help="Commit message (used with --commit). Defaults to auto-generated.")
     args = ap.parse_args()
 
     print(f"Reading {args.input} ...")
@@ -394,6 +398,24 @@ def main() -> int:
                       f"(code {result.returncode})", file=sys.stderr)
         else:
             print(f"  (skipping export: {export_script} not found)", file=sys.stderr)
+
+    # Auto git commit.
+    if args.commit:
+        from datetime import datetime
+        msg = args.message or (
+            f"Update dictionary ({len(entries)} entries, "
+            f"{audio_count} with audio) [{datetime.now().strftime('%Y-%m-%d')}]"
+        )
+        print(f"\nCommitting ...")
+        subprocess.run(["git", "add", "-A"], cwd=str(REPO_ROOT), check=True)
+        result = subprocess.run(
+            ["git", "commit", "-m", msg],
+            cwd=str(REPO_ROOT),
+        )
+        if result.returncode == 0:
+            print(f"  committed: {msg}")
+        else:
+            print("  nothing to commit (working tree clean)")
 
     return 0
 
