@@ -67,13 +67,52 @@ JSON には **番号のみ** を保存し、サイト表示時に `categories.js
 
 これで `dictionary.json` のサイズが約 60 KB（gzip 後 12 KB 弱）節約できる。
 
+## AI研究者向けエクスポート
+
+```
+data/
+├── basay_dict.jsonl     ← 全エントリ1行1JSON（研究・学習用）
+└── basay_dict.parquet   ← Parquet形式（snappy圧縮、列指向）
+```
+
+**フラット化スキーマ**：
+
+| フィールド       | 型                   | 説明                                      |
+|-----------------|----------------------|-------------------------------------------|
+| `id`            | str                  | 4桁ゼロパディング                          |
+| `basay`         | str                  | 巴賽語ローマ字                             |
+| `category`      | str                  | カテゴリ番号（"29" など）                  |
+| `category_label`| str                  | カテゴリ全文（"29情緒思維（精神性）"）      |
+| `zh` / `ja` / `en` | list[str] / str  | 訳語（JSONL: 配列、Parquet: `\|` 区切り）  |
+| `source`        | str                  | B/T/M/S/V/PAN                             |
+| `original`      | str                  | 原表記（IPA寄り）                          |
+| `remark`        | str                  | 例文・補足                                 |
+| `audio_slug`    | str                  | MP3ファイル名のstem                        |
+| `audio_ipay`    | str                  | 巴賽語TTS音声パス（空文字＝未生成）         |
+| `audio_hokkien` | str                  | 台語TTS音声パス（空文字＝未生成）           |
+
+```bash
+# 手動実行
+python scripts/dict_export_research.py
+
+# オプション
+python scripts/dict_export_research.py --jsonl-only    # Parquet不要な場合
+python scripts/dict_export_research.py --parquet-only
+python scripts/dict_export_research.py --output-dir /path/to/out
+
+# dict_excel_to_json.py 実行時に自動でエクスポートされる（抑制するには --no-export）
+python scripts/dict_excel_to_json.py --no-export
+```
+
+依存：`pyarrow`（Parquet出力のみ）。`pip install pyarrow`
+
 ## ワークフロー
 
 ### 通常の編集（Excel → JSON → サイト配信）
 
 ```bash
 # 1. dictionary/source/basay_dictionary.xlsm を編集
-# 2. JSON 生成
+# 2. JSON 生成（＋自動でJSONL/Parquetエクスポート）
 python scripts/dict_excel_to_json.py
 
 # 3. 検証

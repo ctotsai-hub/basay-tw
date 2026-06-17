@@ -12091,7 +12091,7 @@
       "タコ,イオノ目"
     ],
     "en": [
-      "callosity. corn"
+      "callosity, corn"
     ],
     "source": "B",
     "original": "nitsau a mata",
@@ -25212,7 +25212,7 @@
   },
   {
     "id": "1198",
-    "basay": "kal'nas",
+    "basay": "kal'anas",
     "category": "13",
     "zh": [
       "慢慢的"
@@ -25221,12 +25221,7 @@
       "slowly"
     ],
     "source": "T",
-    "original": "kaɭnas",
-    "audio": {
-      "slug": "kalxnas",
-      "ipay": "dictionary/audio/ipay/k/kalxnas.mp3",
-      "hokkien": "dictionary/audio/hokkien/k/kalxnas.mp3"
-    }
+    "original": "kaɭnas"
   },
   {
     "id": "1199",
@@ -38107,12 +38102,12 @@
   {
     "id": "1913",
     "basay": "saqon'a",
-    "category": "13",
+    "category": "29",
     "zh": [
-      "傳說"
+      "告状"
     ],
     "en": [
-      "tell tale"
+      "taletelling"
     ],
     "source": "M",
     "original": "saqoŋa (M)",

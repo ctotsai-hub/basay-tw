@@ -29,6 +29,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 from typing import Any
@@ -327,6 +328,8 @@ def main() -> int:
     ap.add_argument("--input", "-i", type=Path, default=DEFAULT_INPUT)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-search-index", action="store_true")
+    ap.add_argument("--no-export", action="store_true",
+                    help="Skip auto-running dict_export_research.py after JSON generation")
     args = ap.parse_args()
 
     print(f"Reading {args.input} ...")
@@ -376,6 +379,22 @@ def main() -> int:
     print(f"       {SITE_JSON}")
     if not args.no_search_index:
         print(f"       {SEARCH_INDEX}")
+
+    # Auto-export JSONL + Parquet for AI researchers.
+    if not args.no_export:
+        export_script = SCRIPT_DIR / "dict_export_research.py"
+        if export_script.exists():
+            print(f"\nRunning research export ...")
+            result = subprocess.run(
+                [sys.executable, str(export_script)],
+                cwd=str(REPO_ROOT),
+            )
+            if result.returncode != 0:
+                print("  ! dict_export_research.py exited with error "
+                      f"(code {result.returncode})", file=sys.stderr)
+        else:
+            print(f"  (skipping export: {export_script} not found)", file=sys.stderr)
+
     return 0
 
 

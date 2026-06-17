@@ -1682,6 +1682,19 @@
     }
   },
   {
+    "id": "1198",
+    "basay": "kal'anas",
+    "category": "13",
+    "zh": [
+      "慢慢的"
+    ],
+    "en": [
+      "slowly"
+    ],
+    "source": "T",
+    "original": "kaɭnas"
+  },
+  {
     "id": "1197",
     "basay": "kal'itsun'",
     "category": "09",
@@ -1697,24 +1710,6 @@
       "slug": "kalxitsunx",
       "ipay": "dictionary/audio/ipay/k/kalxitsunx.mp3",
       "hokkien": "dictionary/audio/hokkien/k/kalxitsunx.mp3"
-    }
-  },
-  {
-    "id": "1198",
-    "basay": "kal'nas",
-    "category": "13",
-    "zh": [
-      "慢慢的"
-    ],
-    "en": [
-      "slowly"
-    ],
-    "source": "T",
-    "original": "kaɭnas",
-    "audio": {
-      "slug": "kalxnas",
-      "ipay": "dictionary/audio/ipay/k/kalxnas.mp3",
-      "hokkien": "dictionary/audio/hokkien/k/kalxnas.mp3"
     }
   },
   {
