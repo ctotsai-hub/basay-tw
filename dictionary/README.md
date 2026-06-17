@@ -1,12 +1,21 @@
+**巴賽語（Trobiawan方言）復興のための言語科技專案**
+
+## 專案簡介
+
+**basay.tw** 是致力於復興台灣北部**巴賽語（Basay）**——特別是Trobiawan方言——的開源語言復興平台。
+
+
 # 辭典資料 / Dictionary Data
 
-Notion から GitHub への移行に伴い、辭典資料は本ディレクトリで管理する。
+- 李壬癸教授《**Texts of the Trobiawan Dialect of Basay**》（2014）
+- 土田 滋教授《**台灣・平埔族の言語資料の整理と分析**》（1991）
+本專案主要以以上兩部重要著作及淺井惠倫音檔為基礎進行重建。
 
 ## ディレクトリ構成
 
 ```
 dictionary/
-├── source/
+├── source/                       ← ローカルのみ（.gitignore 除外）
 │   └── basay_dictionary.xlsm     ← 編集用マスター（マクロ有効Excel）
 ├── entries/                      ← 自動生成：頭文字ごとに分割した JSON
 │   ├── a.json … z.json           ← 21ファイル（実データ）
@@ -19,7 +28,9 @@ dictionary/
 
 data/
 ├── dictionary.json               ← 自動生成：サイト配信用（マージ済み・1ファイル）
-└── search-index.json             ← 自動生成：検索用の軽量インデックス
+├── search-index.json             ← 自動生成：検索用の軽量インデックス
+├── basay_dict.jsonl              ← 自動生成：AI研究者向け（1行1エントリ）
+└── basay_dict.parquet            ← 自動生成：AI研究者向け（列指向・snappy圧縮）
 ```
 
 ## Excel 列構成
@@ -198,3 +209,16 @@ slug collision 'bolo': distinct basay forms ['bolo', 'bolo | bolobolo']
 - **頭文字バケット（Plan B）**：4桁IDなのでバケット内の追加・削除でも diff が安定
 - **同形異義語（homograph）**：同じ basay の別 ID エントリは音声 MP3 を共有
 - **異形（variants）**：`basay = "X | Y"` 形式は単一エントリ。音声は X（主形）の slug を使う
+
+## 引用方式
+
+本專案または資料を使用する場合は、以下のように引用してください：
+
+```bibtex
+@misc{basay-tw,
+  title = {basay.tw — 凱達格蘭 · 巴賽語— 從記憶到再生},
+  author = {蔡永桂},
+  year = {2026},
+  note = {基於淺井惠倫1936-1937年錄音},
+  url = {https://basay.tw}
+}
