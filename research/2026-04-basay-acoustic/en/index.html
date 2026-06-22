@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reconstructing Basay Vowel Acoustics from Asai Erin's Archival Recordings — basay.tw</title>
+<meta name="description" content="The first formant-measurement-based acoustic reconstruction of the Basay vowel system, using Praat and eSpeak-NG. Tsai Yung-kuei (2026).">
+<meta name="author" content="蔡永桂 Yung-kuei Tsai">
+<meta name="citation_title" content="Reconstructing Basay Vowel Acoustics from Asai Erin's Archival Recordings: Praat Formant Measurement and eSpeak-NG Synthesis for an Extinct Language">
+<meta name="citation_author" content="Tsai, Yung-kuei">
+<meta name="citation_publication_date" content="2026/04">
+<meta name="citation_pdf_url" content="https://basay.tw/research/papers/basay_acoustic_reconstruction_en260420.pdf">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../css/style.css">
+<link rel="canonical" href="https://basay.tw/research/2026-04-basay-acoustic/en/">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://basay.tw/research/2026-04-basay-acoustic/">
+<link rel="alternate" hreflang="ja" href="https://basay.tw/research/2026-04-basay-acoustic/ja/">
+<link rel="alternate" hreflang="en" href="https://basay.tw/research/2026-04-basay-acoustic/en/">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="brand">
+      <a href="../../../"><span class="brand-main">凱達格蘭 · 巴賽語</span></a>
+      <span class="brand-sub">Ketagalan · Basay — 從記憶到再生</span>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="../../../">首頁</a></li>
+        <li><a href="../../../grammar/">文法</a></li>
+        <li><a href="../../../education/">教育推進</a></li>
+        <li><a href="../../" class="active">研究成果</a></li>
+        <li><a href="../../../blog/">研究筆記</a></li>
+        <li><a href="https://inkuei-basaytts.hf.space/">語音合成</a></li>
+        <li><a href="../../../dictionary/">辭典</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+
+  <p class="breadcrumb"><a href="../../../">Home</a> / <a href="../../">Research</a> / This article</p>
+
+  <div class="lang-switcher">
+    <a href="../">中文</a>
+    <a href="../ja/">日本語</a>
+    <span class="current">English</span>
+  </div>
+
+  <h1>Reconstructing Basay Vowel Acoustics from Asai Erin's Archival Recordings</h1>
+  <p class="section-intro" style="font-style:italic; font-size:1.08rem;">
+    — Praat Formant Measurement and eSpeak-NG Synthesis for an Extinct Language —
+  </p>
+
+  <div class="paper-meta">
+    <div><strong>Author</strong>: Tsai Yung-kuei (蔡永桂)</div>
+    <div><strong>Date</strong>: April 2026</div>
+    <div><strong>Type</strong>: Original research (acoustic phonology / language documentation)</div>
+    <div><strong>License</strong>: CC BY 4.0　<strong>Citation ID</strong>: basay.tw/research/2026-04-basay-acoustic/</div>
+    <div class="download-row">
+      <a class="download-btn"
+         href="https://basay.tw/research/papers/basay_acoustic_reconstruction_en260420.pdf"
+         target="_blank" rel="noopener">📄 Download PDF (full text)</a>
+    </div>
+  </div>
+
+  <!-- Abstract -->
+  <div class="abstract-box">
+    <h2>Abstract</h2>
+    <p>
+      This paper presents the first formant-measurement-based acoustic reconstruction of the Basay (Basai) vowel system, an extinct Formosan Austronesian language of northeastern Taiwan. Formant frequencies F1, F2, and F3 for six vowels were measured directly from archival audio recorded by Japanese linguist Asai Erin (ca. 1936) from a Trobiawan (哆囉美遠) dialect speaker, using the Praat acoustic analysis software. The recordings, originally held at the Museum of Anthropology, National Taiwan University, were obtained via the Tokyo University of Foreign Studies Language Archive. The measured formant values were implemented as a working speech synthesizer by reverse-engineering the SPECTSQ2 binary format of eSpeak-NG 1.52 and developing Python tooling. Comparison with previously used transcription-based phoneme approximations reveals substantial differences — notably /o/ (F1: +80.5%) and /a/ (F2: +30.5%) — demonstrating that transcription-based resynthesis cannot reliably represent the acoustic properties documented in the original recordings. The synthesized vowels were validated by spectrogram analysis, and the methodology provides a replicable framework for evidence-based acoustic reconstruction of extinct languages.
+    </p>
+    <div class="keywords">
+      <strong>Keywords:</strong> Basay, Formosan, acoustic phonology, formant measurement, Praat, eSpeak-NG, archival recordings, extinct language documentation
+    </div>
+  </div>
+
+  <!-- Citation -->
+  <div class="cite-block">
+    <h3>📚 Cite this article</h3>
+    <p style="font-family:var(--font-sans); font-size:0.92rem; margin-bottom:.4em;"><strong>APA:</strong></p>
+    <pre>Tsai, Y.-K. (2026). Reconstructing Basay vowel acoustics from Asai Erin's archival recordings: Praat formant measurement and eSpeak-NG synthesis for an extinct language. basay.tw. https://basay.tw/research/2026-04-basay-acoustic/</pre>
+    <p style="font-family:var(--font-sans); font-size:0.92rem; margin:.8em 0 .4em;"><strong>BibTeX:</strong></p>
+    <pre>@misc{tsai2026basay,
+  author = {Tsai, Yung-kuei and 蔡永桂},
+  title  = {Reconstructing {Basay} Vowel Acoustics from {Asai Erin}'s Archival Recordings},
+  year   = {2026},
+  month  = {4},
+  url    = {https://basay.tw/research/2026-04-basay-acoustic/},
+  note   = {Praat formant measurement and eSpeak-NG synthesis for an extinct language}
+}</pre>
+  </div>
+
+  <hr>
+
+  <!-- Body -->
+  <h2>1. Introduction</h2>
+
+  <p>Basay (also spelled Basai) is an extinct Austronesian language historically spoken along the northeastern coast of Taiwan, in the area of present-day Taipei, Keelung, and the Yilan Plain. Linguistically, Basay belongs to the Formosan branch of the Austronesian family and is most closely related to Kavalan, the two languages constituting the only members of the Northeast Formosan subgroup. The last fluent native speakers of Basay were documented in the 1930s by Japanese linguist Asai Erin (Asai 1937), whose field notes and phonograph recordings constitute the primary — and irreplaceable — documentation of the language.</p>
+
+  <p>Since Asai's documentation, subsequent research — including the foundational studies by Li Paul Jen-kuei (Li 1993, 1999, 2001) and the comparative reconstruction by Tseng Li-yang (Tseng 2022) — has focused primarily on phonological transcription, grammatical analysis, and lexical reconstruction. These contributions are invaluable; however, none have made full use of the most fundamental resource in Asai's archival recordings: the acoustic signal itself. To our knowledge, no prior work has extracted formant measurements directly from these recordings, leaving the acoustic properties of Basay vowels unquantified.</p>
+
+  <p>This study fills that gap. We use Praat acoustic analysis software to measure F1, F2, and F3 formant frequencies directly from Asai's recordings of a Trobiawan (哆囉美遠) dialect speaker. These empirically grounded values are then implemented as a working text-to-speech synthesizer by reverse-engineering the SPECTSQ2 binary format of the eSpeak-NG 1.52 engine and developing Python tooling. The result is the first phonetically grounded acoustic model of Basay vowels.</p>
+
+  <p>This study also demonstrates the inadequacy of the previous approach — selecting eSpeak phoneme files by transcription symbol similarity — by comparing those files' formant values against our measured targets. The differences are acoustically substantial, indicating that transcription-based approximation is not a substitute for measurement-based reconstruction.</p>
+
+  <h2>2. Background and Prior Work</h2>
+
+  <h3>2.1 Asai Erin's Recordings</h3>
+  <p>The primary acoustic resource for this study is a set of phonograph recordings made by Asai Erin during fieldwork in Taiwan (ca. 1936). The recordings document speakers of the Trobiawan (哆囉美遠) dialect of Basay from the Yilan region. The original recordings are housed at the Museum of Anthropology, National Taiwan University; copies were obtained for this study via the Tokyo University of Foreign Studies Language Archive. The recordings include narrative texts, among them "Story of Ngazi (3)" and "Story of Mutravai (1)".</p>
+
+  <p>The Trobiawan dialect represents one of the two documented dialect areas of Basay. Asai (1937) notes that his primary Trobiawan informant, Mutravai, also spoke Kavalan, and the possibility of some phonetic transfer cannot be excluded. This language contact situation is acknowledged as a limitation on the representativeness of the acoustic data, but it does not diminish the recordings' importance as the only existing acoustic record of Basay speech.</p>
+
+  <h3>2.2 Prior Language Documentation</h3>
+  <p>Asai Erin's 1937 field notes provide the primary transcription record of Basay phonology. Li Paul Jen-kuei (1999) provides the most comprehensive phonological analysis to date, identifying approximately 15 consonant phonemes and a vowel system of 4–6 vowels. Tseng Li-yang (2022), in a comparison of Basay and Kavalan, proposes a reconstruction of Proto-Northeast Formosan with four vowels (*i, *u, *ə, *a) and four diphthongs.</p>
+
+  <p>None of these studies attempted acoustic formant measurement of the vowels. This study provides such measurements directly from the archival recordings, rather than relying on inference from transcription.</p>
+
+  <h3>2.3 eSpeak-NG and Formant Synthesis</h3>
+  <p>eSpeak-NG is an open-source text-to-speech engine using a Klatt-based formant synthesizer. Vowel quality is specified via binary files in the SPECTSQ2 format, which encodes spectral frames containing formant frequency, bandwidth, and amplitude parameters. The synthesis engine reads formant values directly from these binary files (<code>peaks[1]</code>, <code>peaks[2]</code>, <code>peaks[3]</code> for F1, F2, F3 respectively), permitting formant specification at Hz-level precision. For this study, Python tooling was developed to generate SPECTSQ2-format files directly from measured formant values, enabling a reproducible, platform-independent synthesis pipeline.</p>
+
+  <h2>3. Methods</h2>
+
+  <h3>3.1 Acoustic Measurement</h3>
+  <p>Formant frequencies were measured using Praat (Boersma &amp; Weenink) from Asai's archival recordings of the Trobiawan dialect, specifically the narrative texts "Story of Ngazi (3)" and "Story of Mutravai (1)". Steady-state portions of vowel tokens were identified in spectrogram view, and F1, F2, F3 values were extracted at the midpoint of each token using Praat's formant tracker. The resulting measurements represent the acoustic realization of Basay vowels as produced by the Trobiawan dialect speaker recorded by Asai around 1936. A third recording, "Story of Mutravai (4)", was used separately for methodological development of an automated vowel classification procedure; it did not contribute to the formant values implemented in the synthesizer.</p>
+
+  <p>To assess the reliability of formant measurements and examine the potential influence of recording noise, an additional fourth recording was analyzed: "Story of Saturai (1)", a sung recording from which 9,991 analysis frames were extracted. Across the three sources — the two prose narratives used for implementation and the sung recording — coefficients of variation (CV) for F2 were below 10% for all six vowels (range: 1.9–6.0%), and below 5% for F1 for four vowels (/e/, /a/, /o/, /ə/). The two vowels with higher F1 CVs (/i/: 16.3%; /u/: 12.2%) had fewer tokens in the prose recordings (N=40 and N=174 respectively), suggesting statistical sampling effects rather than acoustic measurement error. These results indicate that formant measurements are robust across recording sessions and speech styles, and that 1930s recording noise does not materially affect the measurements.</p>
+
+  <p>Bandwidth estimates (B1, B2, B3) were set according to standard modal phonation norms consistent with the measured formant configuration, as bandwidth information cannot be reliably extracted from the archival recording quality. Measured formant values and bandwidth estimates are given in Table 1.</p>
+
+  <p style="font-family:var(--font-sans); font-size:0.94rem; color:var(--color-drift); margin-top:1.4em;">
+    <strong>Table 1.</strong> Basay vowel formant frequencies (Trobiawan dialect). F1–F3 measured using Praat from Asai's archival recordings (ca. 1936). Bandwidths (B1–B3) are standard modal phonation estimates.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Vowel (IPA)</th>
+        <th>F1 (Hz)</th>
+        <th>F2 (Hz)</th>
+        <th>F3 (Hz)</th>
+        <th>B1 (Hz)</th>
+        <th>B2 (Hz)</th>
+        <th>B3 (Hz)</th>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay">/i/</td><td>269</td><td>1696</td><td>2128</td><td>60</td><td>80</td><td>120</td><td>Measured</td></tr>
+      <tr><td class="basay">/e/</td><td>639</td><td>1701</td><td>2245</td><td>70</td><td>90</td><td>120</td><td>Measured</td></tr>
+      <tr><td class="basay">/ə/ (central)</td><td>858</td><td>1703</td><td>2180</td><td>100</td><td>100</td><td>120</td><td>Measured</td></tr>
+      <tr><td class="basay">/a/</td><td>1064</td><td>1671</td><td>2185</td><td>120</td><td>110</td><td>130</td><td>Measured</td></tr>
+      <tr><td class="basay">/o/</td><td>805</td><td>1191</td><td>1949</td><td>80</td><td>100</td><td>130</td><td>Measured</td></tr>
+      <tr><td class="basay">/u/</td><td>381</td><td>1219</td><td>1910</td><td>60</td><td>90</td><td>130</td><td>Measured</td></tr>
+    </tbody>
+  </table>
+
+  <h3>3.2 Reverse Engineering the SPECTSQ2 Format</h3>
+  <p>The SPECTSQ2 binary format was reverse-engineered by analyzing the eSpeak-NG source code (<code>spect.cpp</code>, <code>spect.h</code>, <code>synthesize.h</code>) and cross-referencing hex dumps of existing vowel files. Key findings include:</p>
+
+  <ul>
+    <li>The file header uses the magic signature <code>SPECTSQ2</code> (0x53504543 + 0x54535132), followed by a little-endian length-prefixed name string.</li>
+    <li>Floating-point values (time, F0, length, dx) are stored in <strong>80-bit extended precision</strong> (10 bytes each), not standard IEEE 754 64-bit double.</li>
+    <li>F1, F2, F3 are encoded in <code>peaks[1]</code>, <code>peaks[2]</code>, <code>peaks[3]</code> respectively; <code>peaks[0]</code> encodes the F0 region.</li>
+    <li><code>KLATT_Kopen</code> (<code>klatt_param[]</code> index 5) must be set to 50 to ensure clean voiced modal synthesis without frication noise.</li>
+  </ul>
+
+  <h3>3.3 Binary File Generation</h3>
+  <p>SPECTSQ2 files for the six Basay vowels were generated by a Python script (<code>gen_basay_vowels_v8.py</code>), patching existing eSpeak-NG vowel files as templates. The patching procedure: (1) replaces <code>peaks[1–3].pkfreq</code> and <code>formants[1–3].freq</code> with the measured F1–F3 values; (2) zeros <code>peaks[0].pkheight</code> and <code>peaks[4–8].pkheight</code> to suppress non-formant spectral components; (3) zeros the harmonic spectrum array (<code>spect[]</code>) to eliminate spectral coloring inherited from the template vowel. The <code>KLATT_Kopen</code> value and other synthesis parameters are preserved from the template to ensure clean voiced output.</p>
+
+  <h2>4. Results</h2>
+
+  <h3>4.1 Comparison with Prior Transcription Approximations</h3>
+  <p>Prior to this acoustic measurement, Basay vowels in eSpeak had been approximated using existing phoneme files selected by transcription symbol similarity (e.g., /i/ → <code>i_fnt</code>, /o/ → <code>o_mid</code>). Table 2 compares the formant values of these approximation files against the values measured from Asai's recordings.</p>
+
+  <p style="font-family:var(--font-sans); font-size:0.94rem; color:var(--color-drift); margin-top:1.4em;">
+    <strong>Table 2.</strong> Comparison of prior transcription approximations vs. measured values from Asai's archival recordings. *<code>i_fnt</code> uses the older SPECTSEQ format, which lacks key-frame height data.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Vowel</th><th>Parameter</th><th>Prior approx. (Hz)</th><th>Measured (Hz)</th><th>Difference (Hz)</th><th>Difference (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay" rowspan="3">/i/</td><td>F1</td><td>~0 *</td><td>269</td><td>—</td><td>—</td></tr>
+      <tr><td>F2</td><td>~0 *</td><td>1696</td><td>—</td><td>—</td></tr>
+      <tr><td>F3</td><td>~0 *</td><td>2128</td><td>—</td><td>—</td></tr>
+
+      <tr><td class="basay" rowspan="3">/e/</td><td>F1</td><td>584</td><td>639</td><td>+55</td><td>+9.4%</td></tr>
+      <tr><td>F2</td><td>1820</td><td>1701</td><td>−119</td><td>−6.5%</td></tr>
+      <tr><td>F3</td><td>2560</td><td>2245</td><td>−315</td><td>−12.3%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/ə/</td><td>F1</td><td>581</td><td>858</td><td>+277</td><td>+47.7%</td></tr>
+      <tr><td>F2</td><td>1653</td><td>1703</td><td>+50</td><td>+3.0%</td></tr>
+      <tr><td>F3</td><td>2477</td><td>2180</td><td>−297</td><td>−12.0%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/a/</td><td>F1</td><td>872</td><td>1064</td><td>+192</td><td>+22.0%</td></tr>
+      <tr><td>F2</td><td>1280</td><td>1671</td><td>+391</td><td>+30.5%</td></tr>
+      <tr><td>F3</td><td>2660</td><td>2185</td><td>−475</td><td>−17.9%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/o/</td><td>F1</td><td>446</td><td>805</td><td>+359</td><td>+80.5%</td></tr>
+      <tr><td>F2</td><td>883</td><td>1191</td><td>+308</td><td>+34.9%</td></tr>
+      <tr><td>F3</td><td>2485</td><td>1949</td><td>−536</td><td>−21.6%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/u/</td><td>F1</td><td>371</td><td>381</td><td>+10</td><td>+2.7%</td></tr>
+      <tr><td>F2</td><td>1276</td><td>1219</td><td>−57</td><td>−4.5%</td></tr>
+      <tr><td>F3</td><td>2308</td><td>1910</td><td>−398</td><td>−17.2%</td></tr>
+    </tbody>
+  </table>
+
+  <p>The largest discrepancy is for /o/ (F1: +80.5%, F2: +34.9%), followed by /ə/ (F1: +47.7%) and /a/ (F2: +30.5%). The 359 Hz F1 gap for /o/ is acoustically significant: the approximation file placed this vowel in the mid-vowel range (446 Hz), while the measured value (805 Hz) identifies it as a higher mid-back vowel. F3 values for back vowels (/o/, /u/) were systematically overestimated by 400–536 Hz in prior approximations, a consequence of using front-vowel templates.</p>
+
+  <p>The case of /i/ is most extreme: the previously used approximation file (<code>i_fnt</code>) employs the older SPECTSEQ format, which lacks key-frame height data, leaving this vowel acoustically undefined prior to this reconstruction. The current implementation of /i/ in the Basay synthesizer is based entirely on measured values from Asai's recordings (F1: 269 Hz, F2: 1696 Hz, F3: 2128 Hz), with no valid prior approximation to compare against. This further illustrates the fundamental inadequacy of the transcription-approximation approach: for /i/ — typologically the most canonical and cross-linguistically most stable high front vowel — the previous method was unable to produce any usable acoustic output at all.</p>
+
+  <h3>4.2 Spectrogram Validation</h3>
+  <p>Synthesized vowels were validated by spectrogram analysis using SoX. Spectrograms confirm that F1 ordering follows the expected typological hierarchy: F1(/a/) &gt; F1(/o/) &gt; F1(/e/) &gt; F1(/u/) &gt; F1(/i/), consistent with the universal vowel height dimension. The front-back contrast is also correctly represented: /i/, /e/, /ə/ have F2 values clustered near 1700 Hz, while /o/ and /u/ cluster near 1200 Hz, consistent with the measured values and the expected back-vowel character of /o/ and /u/.</p>
+
+  <p>All synthesized vowels show residual broadband noise above 4 kHz; analysis indicates this is a property of the Klatt synthesis engine's voicing model rather than a problem with formant specification, and does not affect the acoustic validity of the F1–F3 implementation.</p>
+
+  <h2>5. Discussion</h2>
+
+  <p>The core contribution of this study is methodological: we demonstrate that acoustic measurement from archival recordings — even recordings of limited quality — yields formant values that differ substantially and systematically from transcription-based approximations. The discrepancies documented in Table 2 are not random variation; they reflect specific structural failures of the approximation approach: using <code>i_fnt</code> for /i/ produced a file with no usable formant data; using <code>o_mid</code> for /o/ underestimated F1 by 359 Hz, misrepresenting vowel height; using front-vowel templates for /o/ and /u/ systematically overestimated F3 by 400–536 Hz.</p>
+
+  <p>None of these failures would have been detectable without returning to the original recordings. This study demonstrates that Asai's archival recordings — though not collected for acoustic phonological purposes — contain signal quality sufficient for Praat-based formant extraction. This finding has implications beyond Basay: it suggests that archival recordings of other extinct Formosan languages, where they exist, may be similarly amenable to acoustic measurement.</p>
+
+  <p>Several limitations apply to the measurements in this study. First, the recorded speaker (Trobiawan dialect) also spoke Kavalan, and phonetic transfer cannot be entirely excluded. Second, the exact recording date (ca. 1936) remains uncertain. Third, bandwidth values were not measured from the recordings but estimated from standard modal phonation norms. Future work should attempt direct bandwidth measurement, and where suitable recordings can be identified, compare Trobiawan formant values with those of the Xinzhe (新社) dialect.</p>
+
+  <p>To assess measurement reliability, three independent recordings were analyzed: the two prose narratives used for formant implementation (Story of Ngazi (3) and Story of Mutravai (1)) and an additional song recording (Story of Saturai (1), N=9,991 frames). Coefficients of variation across the three sources were below 10% for F2 for all six vowels (range: 1.9–6.0%), and below 5% for F1 for four vowels (/e/, /a/, /o/, /ə/). The two vowels with higher F1 variation (/i/: 16.3%, /u/: 12.2%) had fewer tokens in the prose recordings (N=40 and N=174 respectively), suggesting that this variation likely stems from statistical sampling error rather than recording noise. These results indicate that formant measurements are robust across recording contexts and speech styles, and that recording noise does not significantly affect the measurements.</p>
+
+  <p>Another parameter not yet implemented is lexical stress. Stress position in Basay cannot be determined from the available recordings with sufficient confidence: the archival audio does not allow reliable identification of stressed syllables by acoustic correlates such as F0 rise, duration, or amplitude. Preliminary observation suggests a pattern of final stress in disyllables and penultimate stress in trisyllables, consistent with common Austronesian stress templates, but this remains a hypothesis rather than an empirically confirmed rule. The current implementation uses eSpeak-NG's default stress assignment. Source code inspection confirms that the <code>stressrule</code> parameter is not implemented in eSpeak-NG 1.52's language configuration, so stress assignment cannot be controlled through the lang file alone. Once more reliable acoustic evidence becomes available — ideally through systematic measurement of duration and F0 across multiple tokens of the same words in the archival recordings — this parameter should be revised.</p>
+
+  <p>The eSpeak-NG implementation described in this paper is fully reproducible. The Python generation tooling, SPECTSQ2 format documentation, and formant target values are available to the research community, and the synthesizer can be updated as new acoustic evidence emerges.</p>
+
+  <p>One particularly noteworthy finding of this study concerns the near-merger of /ə/ with /a/ and /o/ in both measured formant values and synthesized output. The F2 values of all six vowels are systematically compressed into a narrow posterior range (F2: 1191–1703 Hz), with /a/, /o/, and /ə/ especially close. This compression is consistent with at least three mutually reinforcing factors. First, phonatory drift in elderly speakers is well documented, including retraction of front and central vowels, pharyngeal expansion, and reduced labial constriction — all of which reduce the F2 range of the vowel space. Second, the recorded speaker also spoke Kavalan, whose reconstructed vowel inventory (*i, *u, *ə, *a) does not include a distinct /o/ or /e/, potentially weakening the phonemic contrast between /ə/ and adjacent vowels in this speaker. Third, Tseng's (2022) reconstruction of Proto-Basay includes only four vowels (*i, *u, *ə, *a), suggesting that Basay /e/ and /o/ may represent later expansion or contact borrowing with correspondingly weaker phonemic entrenchment. The perceptual near-merger of /ə/ with /a/ and /o/ in the synthesized vowels may therefore faithfully represent a genuine weakening of phonemic contrasts in the original recordings, rather than a limitation of the synthesis method. This observation itself constitutes a phonological finding: these archival recordings preserve acoustic evidence of vowel space compression, consistent with phenomena documented in the phonetics of terminal speakers of other extinct and endangered languages.</p>
+
+  <h2>6. Conclusion</h2>
+  <p>This study presents the first acoustic reconstruction of the Basay vowel system based on direct formant measurement from Asai Erin's archival recordings (ca. 1936, Trobiawan dialect, obtained via the Tokyo University of Foreign Studies). Formant frequencies F1, F2, and F3 for six vowels were extracted using Praat and implemented in eSpeak-NG 1.52 via a reverse-engineered binary format and Python synthesis tooling. Comparison with prior transcription approximations reveals substantial differences that would not have been identifiable without returning to the original recordings. The resulting synthesizer constitutes the first phonetically grounded acoustic model of Basay, and the methodology provides a replicable template for evidence-based acoustic reconstruction of other extinct languages with surviving archival recordings.</p>
+
+  <h2>References</h2>
+  <ul style="font-family:var(--font-sans); font-size:0.95rem; line-height:1.7;">
+    <li>Asai, Erin (淺井惠倫). 1937. Basay field notes. [Recordings ca. 1936, Trobiawan dialect.] Originally held at the Museum of Anthropology, National Taiwan University; copy at the Tokyo University of Foreign Studies Language Archive.</li>
+    <li>Boersma, Paul &amp; David Weenink. Praat: doing phonetics by computer. <a href="https://www.praat.org" target="_blank" rel="noopener">www.praat.org</a></li>
+    <li>Li, Paul Jen-kuei (李壬癸). 1993. New data on three extinct Formosan languages. <em>Bulletin of the Institute of History and Philology, Academia Sinica</em> 63(2): 301–323.</li>
+    <li>Li, Paul Jen-kuei (李壬癸). 1999. Some problems in Basay. In E. Zeitoun &amp; P.J.K. Li (eds.), <em>Selected Papers from the Eighth International Conference on Austronesian Linguistics</em>, 635–664. Taipei: Academia Sinica.</li>
+    <li>Li, Paul Jen-kuei (李壬癸). 2001. The linguistic status of Basay. <em>Language and Linguistics</em> 2(2): 155–171.</li>
+    <li>Tseng, Li-yang (曾立洋). 2022. Reconstruction of Northeast Formosan. Master's thesis.</li>
+    <li>Dunn, Reece H. et al. eSpeak-NG. <a href="https://github.com/espeak-ng/espeak-ng" target="_blank" rel="noopener">github.com/espeak-ng/espeak-ng</a></li>
+  </ul>
+
+  <hr>
+
+  <p style="text-align:center; margin-top:2rem;">
+    <a class="download-btn"
+       href="https://basay.tw/research/papers/basay_acoustic_reconstruction_en260420.pdf"
+       target="_blank" rel="noopener"
+       style="display:inline-block; background:var(--color-deep); color:var(--color-mist); padding:.6em 1.6em; border-radius:var(--radius); border-bottom:0; font-family:var(--font-sans); letter-spacing:0.05em;">📄 Download PDF (full text)</a>
+
+    <a href="../../">← Back to Research</a>
+  </p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="tagline">"Every measurement is an act of listening."</div>
+  <div>© 2026 basay.tw · Copyright retained by the author; licensed under CC BY 4.0 ｜ <a href="../../../">Home</a></div>
+</footer>
+
+<script src="../../../js/main.js"></script>
+</body>
+</html>

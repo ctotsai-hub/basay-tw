@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>浅井恵倫アーカイブ録音からのバサイ語母音音響特性の再構築 — basay.tw</title>
+<meta name="description" content="Praatフォルマント測定とeSpeak-NG合成による消滅言語音声の再現。蔡永桂（2026）。">
+<meta name="author" content="蔡永桂 Yung-kuei Tsai">
+<meta name="citation_title" content="浅井恵倫アーカイブ録音からのバサイ語母音音響特性の再構築：Praatフォルマント測定とeSpeak-NG合成による消滅言語音声の再現">
+<meta name="citation_author" content="蔡永桂">
+<meta name="citation_publication_date" content="2026/04">
+<meta name="citation_pdf_url" content="https://basay.tw/research/papers/basay_acoustic_reconstruction_ja260420.pdf">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../css/style.css">
+<link rel="canonical" href="https://basay.tw/research/2026-04-basay-acoustic/ja/">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://basay.tw/research/2026-04-basay-acoustic/">
+<link rel="alternate" hreflang="ja" href="https://basay.tw/research/2026-04-basay-acoustic/ja/">
+<link rel="alternate" hreflang="en" href="https://basay.tw/research/2026-04-basay-acoustic/en/">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <div class="brand">
+      <a href="../../../"><span class="brand-main">凱達格蘭 · 巴賽語</span></a>
+      <span class="brand-sub">Ketagalan · Basay — 從記憶到再生</span>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="../../../">首頁</a></li>
+        <li><a href="../../../grammar/">文法</a></li>
+        <li><a href="../../../education/">教育推進</a></li>
+        <li><a href="../../" class="active">研究成果</a></li>
+        <li><a href="../../../blog/">研究筆記</a></li>
+        <li><a href="https://inkuei-basaytts.hf.space/">語音合成</a></li>
+        <li><a href="../../../dictionary/">辭典</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+
+  <p class="breadcrumb"><a href="../../../">ホーム</a> / <a href="../../">研究成果</a> / 本文</p>
+
+  <div class="lang-switcher">
+    <a href="../">中文</a>
+    <span class="current">日本語</span>
+    <a href="../en/">English</a>
+  </div>
+
+  <h1>浅井恵倫アーカイブ録音からのバサイ語母音音響特性の再構築</h1>
+  <p class="section-intro" style="font-style:italic; font-size:1.08rem;">
+    — Praatフォルマント測定とeSpeak-NG合成による消滅言語音声の再現 —
+  </p>
+
+  <div class="paper-meta">
+    <div><strong>著者</strong>：蔡永桂（Tsai Yung-kuei）</div>
+    <div><strong>日付</strong>：2026年4月</div>
+    <div><strong>種別</strong>：原著研究（音響音韻論／言語記録）</div>
+    <div><strong>ライセンス</strong>：CC BY 4.0　<strong>引用識別子</strong>：basay.tw/research/2026-04-basay-acoustic/</div>
+    <div class="download-row">
+      <a class="download-btn"
+         href="https://basay.tw/research/papers/basay_acoustic_reconstruction_ja260420.pdf"
+         target="_blank" rel="noopener">📄 PDFをダウンロード（全文）</a>
+    </div>
+  </div>
+
+  <!-- 要旨 -->
+  <div class="abstract-box">
+    <h2>要旨</h2>
+    <p>
+      本稿は、台湾北東部の消滅したオーストロネシア語族フォルモサン諸語に属するバサイ語（Basay/Basai）の母音体系について、フォルマント測定に基づく初めての音響再構築を提示する。6母音のフォルマント周波数（F1・F2・F3）は、日本人言語学者・浅井恵倫が1936年頃にドロミエン（哆囉美遠、Trobiawan）方言話者から録音したアーカイブ音声から、Praat音響分析ソフトウェアを用いて直接測定した。録音は国立台湾大学人類学博物館に所蔵されており、東京外国語大学言語アーカイブ（TUFS Language Archive）を通じて入手した。測定されたフォルマント値は、eSpeak-NG 1.52のSPECTSQ2バイナリ形式をリバースエンジニアリングし、Pythonツールを開発することで、動作する音声合成器として実装した。従来の転写記号類似性に基づく音素ファイル近似と比較すると、差異は顕著であり――特に/o/（F1：+80.5%）および/a/（F2：+30.5%）――転写ベースの再合成が元の録音に記録された音響特性を信頼性をもって再現できないことが示された。合成母音はスペクトログラム分析により検証され、本研究の方法論は音響証拠に基づく消滅言語再構築の汎用的な枠組みとして位置づけられる。
+    </p>
+    <div class="keywords">
+      <strong>キーワード：</strong>バサイ語、フォルモサン語族、音響音韻論、フォルマント測定、Praat、eSpeak-NG、アーカイブ録音、消滅言語記録
+    </div>
+  </div>
+
+  <!-- 引用形式 -->
+  <div class="cite-block">
+    <h3>📚 本稿の引用 / Cite this article</h3>
+    <p style="font-family:var(--font-sans); font-size:0.92rem; margin-bottom:.4em;"><strong>APA：</strong></p>
+    <pre>蔡永桂 (2026). 浅井恵倫アーカイブ録音からのバサイ語母音音響特性の再構築：Praatフォルマント測定とeSpeak-NG合成による消滅言語音声の再現. basay.tw. https://basay.tw/research/2026-04-basay-acoustic/</pre>
+    <p style="font-family:var(--font-sans); font-size:0.92rem; margin:.8em 0 .4em;"><strong>BibTeX：</strong></p>
+    <pre>@misc{tsai2026basay,
+  author = {蔡永桂 and Tsai, Yung-kuei},
+  title  = {浅井恵倫アーカイブ録音からの{バサイ}語母音音響特性の再構築},
+  year   = {2026},
+  month  = {4},
+  url    = {https://basay.tw/research/2026-04-basay-acoustic/},
+  note   = {Praatフォルマント測定とeSpeak-NG合成による消滅言語音声の再現}
+}</pre>
+  </div>
+
+  <hr>
+
+  <!-- 本文 -->
+  <h2>一、はじめに</h2>
+
+  <p>バサイ語（Basay、Basaiとも表記）は、台湾北東部沿岸――現在の台北・基隆・宜蘭平野一帯――に歴史的に分布していた消滅したオーストロネシア語族の言語である。言語的には、バサイ語はオーストロネシア語族フォルモサン語派に属し、カバラン語（Kavalan）と最も近い関係にある。両言語は北東フォルモサン語支の唯一の構成員である。バサイ語の最後の流暢な母語話者は1930年代に日本人言語学者・浅井恵倫によって記録されており（Asai 1937）、その野帳および蓄音機録音は、この言語の一次的かつ代替不可能な記録資料となっている。</p>
+
+  <p>浅井の記録以来、後続の研究――李壬癸（Li 1993, 1999, 2001）の基礎的研究、および曾立洋（Tseng 2022）の比較再構築研究を含む――は主として音韻転写・文法分析・語彙再構築に焦点を当ててきた。これらの成果は極めて重要であるが、いずれも浅井のアーカイブ録音に内在する最も根本的な資源――音響信号そのもの――を十分に活用していない。管見の限り、これらの録音から直接フォルマント測定を行った先行研究は存在せず、バサイ語母音の音響特性は数値化されないまま残されていた。</p>
+
+  <p>本研究はこの空白を埋めるものである。Praat音響分析ソフトウェアを用いて、ドロミエン（Trobiawan）方言話者の録音から直接F1・F2・F3フォルマント周波数を測定した。これらの実証的な数値は、eSpeak-NG 1.52エンジンのSPECTSQ2バイナリ形式をリバースエンジニアリングし、Pythonツールを開発することで、動作するテキスト音声合成器として実装した。その成果は、バサイ語母音の初めての音声学的根拠に基づく音響モデルである。</p>
+
+  <p>本研究はまた、従来のアプローチ――転写記号類似性によるeSpeak音素ファイル選択――の不十分さを、それらのファイルのフォルマント値と本研究の実測目標値とを比較することによって実証する。差異は音響的に顕著であり、転写ベースの近似は測定ベースの再構築の代替とはなり得ないことを示す。</p>
+
+  <h2>二、背景と先行研究</h2>
+
+  <h3>2.1 浅井恵倫の録音</h3>
+  <p>本研究の一次音響資料は、浅井恵倫が台湾でのフィールドワーク（1936年頃）中に録音した蓄音機録音群である。録音には宜蘭地域のバサイ語ドロミエン（哆囉美遠、Trobiawan）方言話者の音声が記録されている。原音盤は国立台湾大学人類学博物館に所蔵されており、本研究では東京外国語大学言語アーカイブ（TUFS Language Archive）を通じて複製を入手した。録音内容には「ガジの話（3）」「Mutravaiの話（1）」などの叙述テキストが含まれる。</p>
+
+  <p>ドロミエン方言はバサイ語の記録された二方言区のうちの一つを代表する。浅井（1937）によれば、主要なドロミエン方言インフォーマントのMutravaiはカバラン語も話しており、若干の音声転移の可能性は排除できない。この言語接触状況は音響データの代表性に関する限界として認識されるが、これらの録音がバサイ語音声の現存する唯一の音響記録であるという重要性を減じるものではない。</p>
+
+  <h3>2.2 先行言語記録</h3>
+  <p>浅井恵倫の1937年野帳は、バサイ語音韻論の一次転写記録である。李壬癸（1999）は現在最も包括的な音韻分析を提供しており、約15の子音音素と4〜6母音の母音体系を確認している。曾立洋（2022）はバサイ語とカバラン語の比較に基づき、4母音（*i・*u・*ə・*a）と4重母音を有する原北東フォルモサン語の再構築を提示している。</p>
+
+  <p>これらの研究はいずれも母音フォルマントの音響測定を試みていない。本研究は転写からの推論に依存せず、アーカイブ録音から直接こうした測定値を提供する。</p>
+
+  <h3>2.3 eSpeak-NGとフォルマント合成</h3>
+  <p>eSpeak-NGはKlattモデルに基づくフォルマント合成器を用いたオープンソースのテキスト音声合成エンジンである。母音音質はSPECTSQ2形式のバイナリファイルで指定され、フォルマント周波数・帯域幅・振幅パラメータを含むスペクトルフレームが符号化される。合成エンジンはこれらのバイナリファイルから直接フォルマント値を読み取り（<code>peaks[1]</code>・<code>peaks[2]</code>・<code>peaks[3]</code>がそれぞれF1・F2・F3に対応）、Hz単位の精度でフォルマント指定が可能である。本研究では、測定されたフォルマント値からSPECTSQ2形式ファイルを直接生成するPythonスクリプトを開発し、再現可能でプラットフォームに依存しない合成パイプラインを実現した。</p>
+
+  <h2>三、方法</h2>
+
+  <h3>3.1 音響測定</h3>
+  <p>フォルマント周波数はPraat（Boersma &amp; Weenink）を用いて浅井のアーカイブ録音から測定した。分析対象はドロミエン方言録音のうち叙述テキスト「ガジの話（3）」および「Mutravaiの話（1）」である。スペクトログラム表示で母音トークンの定常部分を同定し、各トークンの中間点においてPraatのフォルマント追跡器でF1・F2・F3値を抽出した。得られた測定値は浅井が1936年頃に録音したドロミエン方言話者によるバサイ語母音の音響実現を表す。第3の録音「Mutravaiの話（4）」は自動母音分類手続きの方法論開発に別途使用したが、合成器に実装されたフォルマント値への寄与はない。</p>
+
+  <p>フォルマント測定の信頼性を評価し録音雑音の潜在的影響を検討するため、追加の第4録音「Saturai（1）」（歌唱録音）を分析し、9,991の分析フレームを抽出した。実装に使用した2つの散文叙述と歌唱録音の3つのソースにわたって、F2の変動係数（CV）は全6母音で10%未満（範囲：1.9〜6.0%）、F1のCVは4母音（/e/・/a/・/o/・/ə/）で5%未満であった。F1のCVが高かった2母音（/i/：16.3%、/u/：12.2%）は散文録音でのトークン数が少なく（それぞれN=40およびN=174）、音響測定誤差ではなく統計的サンプリング効果によるものと考えられる。これらの結果は、フォルマント測定が異なる録音セッションおよび発話スタイルにわたって頑健であり、1930年代の録音雑音が測定値に実質的な影響を与えないことを示す。</p>
+
+  <p>帯域幅推定値（B1・B2・B3）は、測定されたフォルマント配置と整合する標準的な弛緩発声規範に従って設定した。アーカイブ録音の音質からは帯域幅情報を信頼性をもって抽出できないためである。測定フォルマント値と帯域幅推定値を表1に示す。</p>
+
+  <p style="font-family:var(--font-sans); font-size:0.94rem; color:var(--color-drift); margin-top:1.4em;">
+    <strong>表1.</strong> バサイ語母音フォルマント周波数（ドロミエン方言）。F1–F3は浅井アーカイブ録音（1936年頃）からPraatを用いて測定。帯域幅（B1–B3）は標準的な弛緩発声推定値。
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>母音（IPA）</th>
+        <th>F1 (Hz)</th>
+        <th>F2 (Hz)</th>
+        <th>F3 (Hz)</th>
+        <th>B1 (Hz)</th>
+        <th>B2 (Hz)</th>
+        <th>B3 (Hz)</th>
+        <th>出典</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay">/i/</td><td>269</td><td>1696</td><td>2128</td><td>60</td><td>80</td><td>120</td><td>実測値</td></tr>
+      <tr><td class="basay">/e/</td><td>639</td><td>1701</td><td>2245</td><td>70</td><td>90</td><td>120</td><td>実測値</td></tr>
+      <tr><td class="basay">/ə/（中舌母音）</td><td>858</td><td>1703</td><td>2180</td><td>100</td><td>100</td><td>120</td><td>実測値</td></tr>
+      <tr><td class="basay">/a/</td><td>1064</td><td>1671</td><td>2185</td><td>120</td><td>110</td><td>130</td><td>実測値</td></tr>
+      <tr><td class="basay">/o/</td><td>805</td><td>1191</td><td>1949</td><td>80</td><td>100</td><td>130</td><td>実測値</td></tr>
+      <tr><td class="basay">/u/</td><td>381</td><td>1219</td><td>1910</td><td>60</td><td>90</td><td>130</td><td>実測値</td></tr>
+    </tbody>
+  </table>
+
+  <h3>3.2 SPECTSQ2形式のリバースエンジニアリング</h3>
+  <p>SPECTSQ2バイナリ形式は、eSpeak-NGソースコード（<code>spect.cpp</code>・<code>spect.h</code>・<code>synthesize.h</code>）の解析と既存母音ファイルの16進ダンプとの照合によりリバースエンジニアリングした。主要な知見は以下の通りである：</p>
+
+  <ul>
+    <li>ファイルヘッダはマジックシグネチャ<code>SPECTSQ2</code>（0x53504543 + 0x54535132）を使用し、リトルエンディアンの長さプレフィックス付き名前文字列が続く。</li>
+    <li>浮動小数点値（時間・F0・長さ・dx）は標準的なIEEE 754 64ビット倍精度ではなく、<strong>80ビット拡張精度</strong>（各10バイト）で格納される。</li>
+    <li>F1・F2・F3はそれぞれ<code>peaks[1]</code>・<code>peaks[2]</code>・<code>peaks[3]</code>に符号化され、<code>peaks[0]</code>はF0領域を符号化する。</li>
+    <li><code>KLATT_Kopen</code>（<code>klatt_param[]</code>インデックス5）は50に設定しなければ、摩擦雑音のない有声弛緩発声合成が得られない。</li>
+  </ul>
+
+  <h3>3.3 バイナリファイルの生成</h3>
+  <p>6つのバサイ語母音のSPECTSQ2ファイルは、既存のeSpeak-NG母音ファイルをテンプレートとしてパッチするPythonスクリプト（<code>gen_basay_vowels_v8.py</code>）により生成した。パッチ手順は：（1）<code>peaks[1–3].pkfreq</code>および<code>formants[1–3].freq</code>を測定F1–F3値に置換；（2）<code>peaks[0].pkheight</code>および<code>peaks[4–8].pkheight</code>をゼロにして非フォルマントスペクトル成分を抑制；（3）調波スペクトル配列（<code>spect[]</code>）をゼロにしてテンプレート母音から継承されるスペクトル着色効果を除去。<code>KLATT_Kopen</code>値およびその他の合成パラメータはテンプレートから保持し、クリーンな有声出力を確保する。</p>
+
+  <h2>四、結果</h2>
+
+  <h3>4.1 従来の転写近似値との比較</h3>
+  <p>今回の音響測定以前、eSpeak中のバサイ語母音は転写記号類似性により選択された既存音素ファイルで近似されていた（例：/i/ → <code>i_fnt</code>、/o/ → <code>o_mid</code>）。表2はこれらの近似ファイルのフォルマント値と浅井録音から測定した値を比較する。</p>
+
+  <p style="font-family:var(--font-sans); font-size:0.94rem; color:var(--color-drift); margin-top:1.4em;">
+    <strong>表2.</strong> 従来の転写近似値と浅井アーカイブ録音実測値の比較。*<code>i_fnt</code>は旧SPECTSEQ形式を使用しており、キーフレーム高さデータを持たない。
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>母音</th><th>パラメータ</th><th>従来近似値 (Hz)</th><th>実測値 (Hz)</th><th>差 (Hz)</th><th>差 (%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="basay" rowspan="3">/i/</td><td>F1</td><td>~0 *</td><td>269</td><td>—</td><td>—</td></tr>
+      <tr><td>F2</td><td>~0 *</td><td>1696</td><td>—</td><td>—</td></tr>
+      <tr><td>F3</td><td>~0 *</td><td>2128</td><td>—</td><td>—</td></tr>
+
+      <tr><td class="basay" rowspan="3">/e/</td><td>F1</td><td>584</td><td>639</td><td>+55</td><td>+9.4%</td></tr>
+      <tr><td>F2</td><td>1820</td><td>1701</td><td>−119</td><td>−6.5%</td></tr>
+      <tr><td>F3</td><td>2560</td><td>2245</td><td>−315</td><td>−12.3%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/ə/</td><td>F1</td><td>581</td><td>858</td><td>+277</td><td>+47.7%</td></tr>
+      <tr><td>F2</td><td>1653</td><td>1703</td><td>+50</td><td>+3.0%</td></tr>
+      <tr><td>F3</td><td>2477</td><td>2180</td><td>−297</td><td>−12.0%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/a/</td><td>F1</td><td>872</td><td>1064</td><td>+192</td><td>+22.0%</td></tr>
+      <tr><td>F2</td><td>1280</td><td>1671</td><td>+391</td><td>+30.5%</td></tr>
+      <tr><td>F3</td><td>2660</td><td>2185</td><td>−475</td><td>−17.9%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/o/</td><td>F1</td><td>446</td><td>805</td><td>+359</td><td>+80.5%</td></tr>
+      <tr><td>F2</td><td>883</td><td>1191</td><td>+308</td><td>+34.9%</td></tr>
+      <tr><td>F3</td><td>2485</td><td>1949</td><td>−536</td><td>−21.6%</td></tr>
+
+      <tr><td class="basay" rowspan="3">/u/</td><td>F1</td><td>371</td><td>381</td><td>+10</td><td>+2.7%</td></tr>
+      <tr><td>F2</td><td>1276</td><td>1219</td><td>−57</td><td>−4.5%</td></tr>
+      <tr><td>F3</td><td>2308</td><td>1910</td><td>−398</td><td>−17.2%</td></tr>
+    </tbody>
+  </table>
+
+  <p>差異が最も顕著なのは/o/（F1：+80.5%、F2：+34.9%）であり、次いで/ə/（F1：+47.7%）および/a/（F2：+30.5%）である。/o/のF1差359 Hzは音響的に重要な意味を持つ：近似ファイルはこの母音を中母音域（446 Hz）に置いていたが、実測値（805 Hz）はより高い中後舌母音として識別する。後舌母音（/o/・/u/）のF3値は従来近似で400〜536 Hz系統的に過大評価されており、前舌母音テンプレートを誤用した結果である。</p>
+
+  <p>/i/の場合は最も極端である：従来使用されていた近似ファイル（<code>i_fnt</code>）は旧SPECTSEQ形式を採用しており、キーフレーム高さデータが含まれず、今回の再構築以前はこの母音が実質的に音響的未定義の状態にあった。バサイ語合成器における/i/の現在の実装は、浅井録音の実測値（F1：269 Hz、F2：1696 Hz、F3：2128 Hz）に完全に基づいており、比較すべき有効な先行近似値は存在しない。この事実は転写近似アプローチの根本的な不十分さをさらに浮き彫りにする：類型論的に最も典型的で通言語的に最も安定した高前舌母音である/i/に対してすら、従来の手法は使用可能な音響出力を生成できなかった。</p>
+
+  <h3>4.2 スペクトログラムによる検証</h3>
+  <p>合成母音はSoXを用いたスペクトログラム分析により検証した。スペクトログラムはF1の順序が期待される類型論的階層に従うことを確認する：F1(/a/) &gt; F1(/o/) &gt; F1(/e/) &gt; F1(/u/) &gt; F1(/i/)、これは普遍的な母音高さ次元と一致する。前後対立も正しく表現されており、/i/・/e/・/ə/のF2は1700 Hz付近に集中し、/o/・/u/のF2は1200 Hz付近に集中しており、実測値および/o/・/u/に期待される後舌母音特性と一致する。</p>
+
+  <p>合成母音はすべて4 kHz以上に残留広帯域雑音を示すが、これはフォルマント指定の問題ではなくKlatt合成エンジンの有声化モデルの特性であり、F1–F3実装の音響的妥当性には影響しない。</p>
+
+  <h2>五、考察</h2>
+
+  <p>本研究の中核的貢献は方法論的なものである：アーカイブ録音からの音響測定――たとえ音質の限られた録音であっても――が、転写ベース近似とは実質的かつ系統的に異なるフォルマント値をもたらすことを実証した。表2に記録された差異はランダムな変動ではなく、近似アプローチの特定の構造的欠陥を反映している：/i/に対して<code>i_fnt</code>を使用すると有効なフォルマントデータのないファイルが生成される；/o/に対して<code>o_mid</code>を使用するとF1が359 Hz過小評価され母音高さが誤表現される；/o/と/u/に前舌母音テンプレートを使用するとF3が400〜536 Hz系統的に過大評価される。</p>
+
+  <p>これらの欠陥は元の録音に立ち返ることなしには発見できなかったものである。本研究は、浅井のアーカイブ録音が音響音韻論的目的のために収集されたものではないにもかかわらず、Praatによるフォルマント抽出に十分な信号品質を有することを実証する。この発見はバサイ語を超えた意義を持つ：他の消滅フォルモサン語族言語のアーカイブ録音が存在する場合、それらも同様に音響測定に適している可能性を示唆する。</p>
+
+  <p>本研究の測定にはいくつかの限界がある。第一に、録音された話者（ドロミエン方言）はカバラン語も話しており、音声転移の可能性を完全に排除できない。第二に、正確な録音日付（1936年頃）は不確かである。第三に、帯域幅値は録音から測定されたのではなく、標準的な弛緩発声規範に基づいて推定された。今後の研究では帯域幅の直接測定を試み、適切な録音が特定できる場合にはドロミエン方言のフォルマント値を新社（Xinzhe）方言と比較すべきである。</p>
+
+  <p>測定信頼性を評価するため、3つの独立した録音を分析した：実装に使用した2つの散文叙述（ガジの話（3）とMutravaiの話（1））および追加の歌唱録音（Saturai（1）、N=9,991フレーム）。3つのソースにわたる変動係数は全6母音のF2で10%未満（範囲：1.9〜6.0%）、4母音（/e/・/a/・/o/・/ə/）のF1で5%未満であった。F1変動が高かった2母音（/i/：16.3%、/u/：12.2%）は散文録音でのトークン数が少なく（それぞれN=40およびN=174）、録音雑音ではなくサンプリング効果によるものと考えられる。これらの結果はフォルマント測定が異なる録音環境および発話スタイルにわたって頑健であることを示す。</p>
+
+  <p>実装されていないパラメータの一つに語彙アクセントがある。バサイ語のアクセント位置は、現存する録音から十分な確信をもって決定できない：アーカイブ音声では、F0上昇・持続時間・振幅などの音響的相関によって強調音節を信頼性をもって特定できない。予備的観察は2音節語での末尾アクセント・3音節語での前末尾アクセントのパターンを示唆し、オーストロネシア語族によく見られるアクセント型と整合するが、これは確認された規則ではなく仮説にとどまる。現在の実装はeSpeak-NGのデフォルトアクセント付与を使用している。ソースコード検査により、eSpeak-NG 1.52の言語設定ファイルでは<code>stressrule</code>パラメータが実装されていないことが確認されており、langファイルのみではアクセント付与を制御できない。より信頼できる音響証拠が得られた時点――理想的にはアーカイブ録音中の同一語彙の複数トークンにわたる持続時間とF0の系統的測定によって――このパラメータは改訂されるべきである。</p>
+
+  <p>本稿で述べたeSpeak-NG実装は完全に再現可能である。Python生成ツール・SPECTSQ2形式ドキュメント・フォルマント目標値は研究コミュニティに公開されており、新たな音響証拠が得られた際に合成器を更新できる。</p>
+
+  <p>特筆すべき知見の一つは、実測フォルマント値および合成出力における/ə/と/a/・/o/の近融合である。6母音のF2値は狭い後方域（1191〜1703 Hz）に系統的に圧縮されており、/a/・/o/・/ə/の3母音のF2は特に近接している。この圧縮現象は、相互に補強する少なくとも3つの要因と整合する。第一に、高齢話者における音韻的ドリフトは十分に記録されており、前舌・中舌母音の後退・咽頭腔の拡大・口唇収縮力の低下などが含まれ、これらはすべて母音空間のF2幅を縮小する。第二に、録音された話者はカバラン語も話していたが、カバラン語の再構築母音目録（*i・*u・*ə・*a）は独立した/o/・/e/を含まないため、この話者において/ə/と隣接母音の音韻対立が弱まっていた可能性がある。第三に、曾立洋（2022）によるバサイ語再構築は4母音（*i・*u・*ə・*a）のみを含んでおり、バサイ語の/e/・/o/が後期拡張または接触借用を表し、音韻的定着度が相応に弱いことを示唆する。したがって、合成母音における/ə/と/a/・/o/の知覚的近融合は、合成手法の限界ではなく、元の録音において音韻対立が実際に弱まっていた状況を忠実に反映している可能性がある。この観察はそれ自体が音韻論的知見を構成する：これらのアーカイブ録音は母音空間収縮過程の音響証拠を保存しており、他の消滅言語および危機言語の末期話者の音声学において記録されてきた現象と一致する。</p>
+
+  <h2>六、結論</h2>
+  <p>本研究は、浅井恵倫アーカイブ録音（1936年頃、ドロミエン方言、東京外国語大学を通じて入手）から直接フォルマント測定を行うことに基づく、バサイ語母音体系の初めての音響再構築を提示した。6母音のフォルマント周波数F1・F2・F3をPraatで抽出し、リバースエンジニアリングされたバイナリ形式とPython合成ツールを通じてeSpeak-NG 1.52に実装した。従来の転写近似との比較は、元の録音に立ち返ることなしには検出できなかった実質的な差異を明らかにした。得られた合成器はバサイ語の初めての音声学的根拠に基づく音響モデルを構成し、本研究の方法論は現存するアーカイブ録音を持つ消滅言語の証拠に基づく音響再構築のための再現可能な雛形を提供する。</p>
+
+  <h2>参考文献</h2>
+  <ul style="font-family:var(--font-sans); font-size:0.95rem; line-height:1.7;">
+    <li>浅井恵倫（Asai, Erin）. 1937. 《バサイ》野帳. 〔録音1936年頃、ドロミエン方言.〕原本：国立台湾大学人類学博物館；複製：東京外国語大学言語アーカイブ.</li>
+    <li>Boersma, Paul &amp; David Weenink. Praat: doing phonetics by computer. <a href="https://www.praat.org" target="_blank" rel="noopener">www.praat.org</a></li>
+    <li>李壬癸（Li, Paul Jen-kuei）. 1993. 三種台湾消滅言語の新資料. 《中央研究院歷史語言研究所集刊》63(2): 301–323.</li>
+    <li>李壬癸（Li, Paul Jen-kuei）. 1999. バサイ語のいくつかの問題. E. Zeitoun &amp; P.J.K. Li（編）、《第8回オーストロネシア語学国際会議選集》、635–664頁. 台北：中央研究院.</li>
+    <li>李壬癸（Li, Paul Jen-kuei）. 2001. バサイ語の言語的地位. 《言語と言語学》2(2): 155–171.</li>
+    <li>曾立洋（Tseng, Li-yang）. 2022. 北東フォルモサン語の再構築. 修士論文.</li>
+    <li>Dunn, Reece H. et al. eSpeak-NG. <a href="https://github.com/espeak-ng/espeak-ng" target="_blank" rel="noopener">github.com/espeak-ng/espeak-ng</a></li>
+  </ul>
+
+  <hr>
+
+  <p style="text-align:center; margin-top:2rem;">
+    <a class="download-btn"
+       href="https://basay.tw/research/papers/basay_acoustic_reconstruction_ja260420.pdf"
+       target="_blank" rel="noopener"
+       style="display:inline-block; background:var(--color-deep); color:var(--color-mist); padding:.6em 1.6em; border-radius:var(--radius); border-bottom:0; font-family:var(--font-sans); letter-spacing:0.05em;">📄 PDFをダウンロード（全文）</a>
+
+    <a href="../../">← 研究成果一覧に戻る</a>
+  </p>
+
+</main>
+
+<footer class="site-footer">
+  <div class="tagline">「一つの測定も、一つの傾聴である。」</div>
+  <div>© 2026 basay.tw · 本篇著作権は著者に帰属、CC BY 4.0にて公開 ｜ <a href="../../../">ホーム</a></div>
+</footer>
+
+<script src="../../../js/main.js"></script>
+</body>
+</html>
