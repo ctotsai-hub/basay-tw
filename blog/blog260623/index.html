@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>巴賽語有486種音節——規模超越日語與普通話 — 研究筆記 | basay.tw</title>
+
+
+<meta name="description" content="新研究上線：《巴賽語音節目錄及其音韻類型學定位》">
+<link rel="canonical" href="https://basay.tw/blog/blog260623/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="巴賽語有486種音節——規模超越日語與普通話">
+<meta property="og:description" content="新研究上線：《巴賽語音節目錄及其音韻類型學定位》">
+<meta property="og:url" content="https://basay.tw/blog/blog260623/">
+<meta property="og:site_name" content="basay.tw 研究筆記">
+<meta property="og:locale" content="zh_TW">
+<meta property="article:published_time" content="2026-06-23">
+<meta property="article:section" content="研究筆記">
+<meta property="article:tag" content="音韻研究">
+<meta property="article:tag" content="音節">
+<meta property="article:tag" content="南島語系">
+<meta property="article:tag" content="語言類型學">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="巴賽語有486種音節——規模超越日語與普通話">
+<meta name="twitter:description" content="新研究上線：《巴賽語音節目錄及其音韻類型學定位》">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;600;900&family=Noto+Sans+TC:wght@300;400;500&family=Noto+Serif:ital,wght@0,400;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#f7f3ec; --bg2:#efe9df; --ink:#1a1610; --ink2:#3a3428; --ink3:#6a6055;
+  --accent:#2a6b5a; --accent2:#c0522a; --gold:#8a6a20;
+  --border:#d4c9b8; --card-bg:#fdfaf5; --tag-bg:#e8e0d0; --code-bg:#1a1610;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:'Noto Serif TC',serif; font-size:16px; line-height:1.9; }
+
+header { border-bottom:1px solid var(--border); background:var(--bg); position:sticky; top:0; z-index:100; }
+h2, h3, h4 { scroll-margin-top: 72px; }
+.nav-inner { max-width:1100px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:56px; }
+.site-logo { font-family:'Noto Serif TC',serif; font-weight:900; font-size:1rem; color:var(--ink); text-decoration:none; letter-spacing:0.05em; }
+.site-logo span { color:var(--accent); font-size:0.75em; display:block; font-weight:300; letter-spacing:0.15em; }
+nav a { font-family:'Noto Sans TC',sans-serif; font-size:0.82rem; color:var(--ink3); text-decoration:none; margin-left:22px; letter-spacing:0.05em; transition:color 0.2s; }
+nav a:hover, nav a.active { color:var(--accent); }
+
+.breadcrumb { max-width:1100px; margin:0 auto; padding:16px 24px 0; font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); display:flex; gap:6px; align-items:center; }
+.breadcrumb a { color:var(--ink3); text-decoration:none; }
+.breadcrumb a:hover { color:var(--accent); }
+.breadcrumb .sep { opacity:0.4; }
+
+.article-header { padding:8px 0 28px; margin-bottom:28px; border-bottom:1px solid var(--border); }
+.article-tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:16px; }
+.atag { font-family:'Noto Sans TC',sans-serif; font-size:0.68rem; letter-spacing:0.12em; padding:2px 10px; border-radius:1px; background:rgba(42,107,90,0.1); color:var(--accent); }
+.atag.red { background:rgba(192,82,42,0.1); color:var(--accent2); }
+.article-title { font-size:clamp(1.6rem,4vw,2.4rem); font-weight:900; line-height:1.25; letter-spacing:-0.01em; margin-bottom:1rem; }
+.article-subtitle { font-size:1rem; font-weight:300; color:var(--ink3); font-family:'Noto Sans TC',sans-serif; margin-bottom:1.5rem; line-height:1.7; }
+.article-meta { display:flex; align-items:center; gap:20px; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); flex-wrap:wrap; }
+.meta-date { font-weight:500; color:var(--ink2); }
+.meta-sep { opacity:0.3; }
+
+.content-wrap { max-width:1100px; margin:0 auto; padding:24px 24px 80px; display:grid; grid-template-columns:1fr 240px; gap:64px; align-items:start; }
+@media (max-width:768px) { .content-wrap { grid-template-columns:1fr; } .article-aside { display:none; } nav { display:none; } }
+.article-main { max-width:680px; }
+
+.article-body { max-width:680px; }
+.article-body h2 { font-size:1.3rem; font-weight:900; margin:2.5rem 0 1rem; padding-top:2rem; border-top:1px solid var(--border); letter-spacing:0.01em; }
+.article-body h2:first-child { margin-top:0; padding-top:0; border-top:none; }
+.article-body h3 { font-size:1.05rem; font-weight:600; margin:1.8rem 0 0.7rem; color:var(--ink2); }
+.article-body p { margin-bottom:1.3rem; font-size:1rem; line-height:2; }
+.article-body a { color:var(--accent); text-decoration:underline; text-underline-offset:3px; }
+.article-body strong { font-weight:600; color:var(--ink); }
+.article-body em { font-style:italic; font-family:'Noto Serif',serif; }
+.article-body ul, .article-body ol { margin:0 0 1.3rem 1.4rem; }
+.article-body li { margin-bottom:0.4rem; line-height:1.9; }
+.article-body img { max-width:100%; height:auto; margin:1.2rem 0; border:1px solid var(--border); border-radius:4px; }
+.basay { font-family:'Noto Serif',serif; font-style:italic; color:var(--accent); font-size:1.05em; }
+.article-body table { width:100%; border:1px solid var(--border); border-radius:4px; overflow:hidden; margin:1.5rem 0; font-family:'Noto Sans TC',sans-serif; font-size:0.85rem; border-collapse:collapse; }
+.article-body th { background:var(--bg2); padding:10px 16px; text-align:left; font-size:0.72rem; letter-spacing:0.1em; color:var(--ink3); border-bottom:1px solid var(--border); }
+.article-body td { padding:10px 16px; border-bottom:1px solid var(--border); }
+.article-body tbody tr:last-child td { border-bottom:none; }
+.article-body blockquote { border-left:3px solid var(--accent); margin:1.5rem 0; padding:12px 20px; background:rgba(42,107,90,0.04); border-radius:0 4px 4px 0; }
+.article-body blockquote p { font-family:'Noto Sans TC',sans-serif; font-size:0.9rem; color:var(--ink2); margin:0; line-height:1.8; }
+.article-body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--code-bg); color:#8fd4a0; padding:1px 6px; border-radius:2px; }
+.article-body pre { background:var(--code-bg); color:#e0e0e0; padding:16px 20px; border-radius:4px; overflow-x:auto; margin:1.3rem 0; font-family:'JetBrains Mono',monospace; font-size:0.82rem; line-height:1.7; }
+.article-body pre code { background:none; color:inherit; padding:0; }
+
+.article-footer { margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border); }
+.article-footer .license { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); line-height:1.8; }
+.share-label { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.2em; color:var(--ink3); margin-top:1.5rem; margin-bottom:8px; }
+.share-btns { display:flex; gap:8px; }
+.share-btn { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border:1px solid var(--border); border-radius:2px; background:none; color:var(--ink3); cursor:pointer; text-decoration:none; transition:all 0.15s; display:inline-block; }
+.share-btn:hover { border-color:var(--accent); color:var(--accent); }
+
+.article-aside { position:sticky; top:72px; }
+.post-info-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:18px 20px; margin-bottom:16px; font-family:'Noto Sans TC',sans-serif; }
+.post-info-label { font-size:0.68rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; padding-bottom:8px; border-bottom:1px solid var(--border); }
+.post-info-list { list-style:none; }
+.post-info-list li { font-size:0.8rem; color:var(--ink2); padding:7px 0; line-height:1.5; display:flex; gap:10px; align-items:baseline; }
+.post-info-list .pi-key { font-size:0.62rem; color:var(--ink3); letter-spacing:0.15em; min-width:52px; flex-shrink:0; }
+.post-info-list .pi-val { color:var(--ink2); }
+.post-info-list .pi-val.accent { color:var(--accent); font-style:italic; font-family:'Noto Serif',serif; }
+
+.toc-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:20px; margin-bottom:20px; }
+.toc-label { font-family:'Noto Sans TC',sans-serif; font-size:0.7rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; }
+.toc-list { list-style:none; }
+.toc-list li { border-top:1px solid var(--border); }
+.toc-list li:first-child { border-top:none; }
+.toc-list a { font-family:'Noto Sans TC',sans-serif; font-size:0.78rem; color:var(--ink3); text-decoration:none; display:block; padding:8px 0; line-height:1.5; transition:color 0.15s; }
+.toc-list a:hover, .toc-list a.active { color:var(--accent); }
+.toc-list .sub { padding-left:12px; font-size:0.72rem; }
+
+.aside-tts { background:rgba(42,107,90,0.06); border:1px solid rgba(42,107,90,0.2); border-radius:4px; padding:16px; text-align:center; }
+.aside-tts p { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); margin-bottom:10px; line-height:1.7; }
+.tts-link { display:inline-block; background:var(--accent); color:white; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border-radius:2px; text-decoration:none; transition:background 0.2s; }
+.tts-link:hover { background:#1e5244; }
+
+footer { border-top:1px solid var(--border); padding:32px 24px; text-align:center; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); }
+footer a { color:var(--ink3); text-decoration:none; }
+footer a:hover { color:var(--accent); }
+
+#reading-progress { position:fixed; top:55px; left:0; height:2px; background:var(--accent); width:0%; z-index:200; transition:width 0.1s; }
+</style>
+</head>
+<body>
+
+<div id="reading-progress"></div>
+
+<header>
+  <div class="nav-inner">
+    <a class="site-logo" href="../../">凱達格蘭・巴賽語<span>Ketagalan · Basay</span></a>
+    <nav>
+      <a href="../../">首頁</a>
+      <a href="../../grammar/">文法</a>
+      <a href="../../education/">教育推進</a>
+      <a href="../../research/">研究成果</a>
+      <a href="../" class="active">研究筆記</a>
+      <a href="https://inkuei-basaytts.hf.space/">語音合成</a>
+      <a href="../../dictionary/">辭典</a>
+    </nav>
+  </div>
+</header>
+
+<div class="breadcrumb">
+  <a href="../../">首頁</a><span class="sep">/</span>
+  <a href="../">研究筆記</a><span class="sep">/</span>
+  <span>巴賽語有486種音節——規模超越日語與普通話</span>
+</div>
+
+<div class="content-wrap">
+  <div class="article-main">
+
+    <div class="article-header">
+      <div class="article-tags">
+        <span class="atag">音韻研究</span><span class="atag">音節</span><span class="atag">南島語系</span><span class="atag">語言類型學</span>
+        
+      </div>
+      <h1 class="article-title">巴賽語有486種音節——規模超越日語與普通話</h1>
+      <p class="article-subtitle">新研究上線：《巴賽語音節目錄及其音韻類型學定位》</p>
+      <div class="article-meta">
+        <span class="meta-date">2026年6月23日</span>
+        <span class="meta-sep">|</span>
+        <span>約 8 分鐘</span>
+        
+      </div>
+    </div>
+
+    <article class="article-body">
+<p>從3,324筆詞典條目中計量提取出486種巴賽語音節——這個數字超過夏威夷語、日語，也超過不計聲調的普通話。新研究告訴你為什麼。</p>
+<h1 id="486">巴賽語有486種音節——規模超越日語與普通話</h1>
+<p>新研究上線：<a href="https://basay.tw/research/2026-06-basay-syllable/">《巴賽語音節目錄及其音韻類型學定位：基於詞典資料的計量分析》</a>（<a href="https://basay.tw/research/2026-06-basay-syllable/ja/">日本語版</a> ｜ <a href="https://basay.tw/research/2026-06-basay-syllable/en/">English</a>）</p>
+<h2 id="_1">這是什麼</h2>
+<p>巴賽語（Basay）詞典資料庫累積至今已有 3,324 筆條目。這次我們做了一件之前沒做過的事：把所有條目的巴賽語形式機械地拆解成音節，數一數到底有多少「種」音節在這個語言裡實際出現過。</p>
+<p>排除掉南島語族原始語（PAN）重建形式之後，剩下 2,364 筆現代記錄詞彙。從中提取出詞頻 2 次以上的音節，總共 <strong>486 種</strong>。</p>
+<h2 id="_2">為什麼這個數字值得注意</h2>
+<p>486 這個數字本身沒有意義，要放進比較裡才看得出輪廓：</p>
+<table>
+<thead>
+<tr>
+<th>語言</th>
+<th>音節種數（約）</th>
+<th>備註</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>夏威夷語</td>
+<td>60 種</td>
+<td>只有 CV / V 結構</td>
+</tr>
+<tr>
+<td>日語</td>
+<td>100 種</td>
+<td>以拍（mora）為單位</td>
+</tr>
+<tr>
+<td>普通話</td>
+<td>400 種</td>
+<td>不計聲調</td>
+</tr>
+<tr>
+<td><strong>巴賽語</strong></td>
+<td><strong>486 種</strong></td>
+<td>詞頻 2 次以上，含輔音叢</td>
+</tr>
+<tr>
+<td>德語</td>
+<td>2,700 種</td>
+<td>允許複雜輔音叢</td>
+</tr>
+<tr>
+<td>英語</td>
+<td>10,000～15,000 種</td>
+<td>詞彙量龐大</td>
+</tr>
+</tbody>
+</table>
+<p>巴賽語的音節規模明顯超過日語和普通話這類偏好簡單 CV 音節的語言，雖然遠不及德語、英語這種允許大量輔音叢的屈折語，但在世界語言中已經算是中上等規模——對於常被想像成「南島語=簡單音節」的刻板印象，這是個值得修正的反例。</p>
+<h2 id="_3">哪裡來的複雜度</h2>
+<p>巴賽語有幾個音韻上相當罕見的音素，是音節數量暴增的主要原因：</p>
+<ul>
+<li><strong>捲舌側面音 ɭ</strong>（正字法 <code>l'</code>）——台灣南島語中罕見</li>
+<li><strong>有聲齒齦側面擦音 ɮ</strong>（正字法 <code>z'</code>）——世界語言中也算稀有音素</li>
+<li><strong>有聲唇齒擦音 v</strong>——台灣南島語分支中少見</li>
+<li><strong>複雜的起始輔音叢</strong>（<code>ml'</code>、<code>kn</code>、<code>tm</code> 等）——跟波里尼西亞語言偏好的單純 CV 音節形成強烈對比</li>
+</ul>
+<p>這些特徵跟 Fenk-Oczlon &amp; Fenk（2021）提出的類型學規律相符：音素目錄越豐富，音節結構往往也越複雜。巴賽語剛好是個清楚的例證。</p>
+<h2 id="_4">延伸閱讀</h2>
+<p>研究全文含完整方法論、起始輔音分布表、與多語言的詳細比較，以及方法論的局限性說明，請見：</p>
+<p>📄 <a href="https://basay.tw/research/2026-06-basay-syllable/">巴賽語音節目錄及其音韻類型學定位</a>（<a href="https://basay.tw/research/papers/basay_syllable_inventory_zh260622.pdf">PDF 下載</a>）</p>
+<p>也提供日文版與英文版：</p>
+<ul>
+<li>🇯🇵 <a href="https://basay.tw/research/2026-06-basay-syllable/ja/">日本語版を読む</a></li>
+<li>🇬🇧 <a href="https://basay.tw/research/2026-06-basay-syllable/en/">Read in English</a></li>
+</ul>
+<hr />
+<p><em>本文採 CC BY-NC-SA 4.0 授權。引用時請標明出處：basay.tw 研究筆記「巴賽語有486種音節——規模超越日語與普通話」（2026年6月23日）</em></p>
+
+      <div class="article-footer">
+        <div class="license">
+          本文採 <strong>CC BY-NC-SA 4.0</strong> 授權。引用時請標明出處：<br>
+          basay.tw 研究筆記「巴賽語有486種音節——規模超越日語與普通話」（2026年6月23日）
+        </div>
+        <div class="share-label">SHARE</div>
+        <div class="share-btns" id="share-btns">
+          <a class="share-btn" id="share-fb" target="_blank" rel="noopener">Facebook</a>
+          <a class="share-btn" id="share-x" target="_blank" rel="noopener">X / Twitter</a>
+          <button class="share-btn" id="share-copy" type="button">複製連結</button>
+        </div>
+      </div>
+
+    </article>
+
+  </div><!-- /article-main -->
+
+  <aside class="article-aside">
+    <div class="post-info-box">
+      <div class="post-info-label">ARTICLE INFO</div>
+      <ul class="post-info-list">
+        <li><span class="pi-key">DATE</span><span class="pi-val">2026年6月23日</span></li>
+        <li><span class="pi-key">READING</span><span class="pi-val">約 8 分鐘</span></li>
+        
+        <li><span class="pi-key">TAGS</span><span class="pi-val">音韻研究 · 音節 · 南島語系 · 語言類型學</span></li>
+      </ul>
+    </div>
+
+    
+    <div class="toc-box">
+      <div class="toc-label">目次</div>
+      <ul class="toc-list">
+        
+        <li><a href="#_1">這是什麼</a></li>
+        
+        <li><a href="#_2">為什麼這個數字值得注意</a></li>
+        
+        <li><a href="#_3">哪裡來的複雜度</a></li>
+        
+        <li><a href="#_4">延伸閱讀</a></li>
+        
+      </ul>
+    </div>
+    
+
+    <div class="aside-tts">
+      <p>巴賽語 TTS で<br>試聴する</p>
+      <a class="tts-link" href="https://inkuei-basaytts.hf.space/" target="_blank" rel="noopener">▶ 語音合成</a>
+    </div>
+  </aside>
+
+</div>
+
+<footer>
+  <p>© 2026 basay.tw ｜ <a href="../../about/">關於</a> ｜ <a href="https://github.com/ctotsai-hub/basay-tw">GitHub</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</p>
+</footer>
+
+<script>
+window.addEventListener('scroll', () => {
+  const doc = document.documentElement;
+  const scrollTop = doc.scrollTop || document.body.scrollTop;
+  const scrollHeight = doc.scrollHeight - doc.clientHeight;
+  const pct = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+  document.getElementById('reading-progress').style.width = pct + '%';
+});
+
+// Share buttons
+(function () {
+  var url = window.location.href;
+  var title = document.title;
+  var fb = document.getElementById('share-fb');
+  var x  = document.getElementById('share-x');
+  var cp = document.getElementById('share-copy');
+  if (fb) fb.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url);
+  if (x)  x.href  = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+  if (cp) {
+    cp.addEventListener('click', async function () {
+      var done = function () {
+        var orig = cp.textContent;
+        cp.textContent = '✓ 已複製';
+        setTimeout(function () { cp.textContent = orig; }, 1800);
+      };
+      try {
+        await navigator.clipboard.writeText(url);
+        done();
+      } catch (e) {
+        var ta = document.createElement('textarea');
+        ta.value = url;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); done(); } catch (_) {}
+        document.body.removeChild(ta);
+      }
+    });
+  }
+})();
+</script>
+</body>
+</html>
