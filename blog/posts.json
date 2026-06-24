@@ -1,6 +1,22 @@
 {
   "posts": [
     {
+      "slug": "blog260624",
+      "title": "用你自己的聲音唸出巴賽語",
+      "subtitle": "inkuei-basaytts.hf.space 新增「聲音複製」功能上線",
+      "date": "2026-06-24",
+      "reading_time": "約 8 分鐘",
+      "tags": [
+        "聲音複製",
+        "seed-vc",
+        "語音合成",
+        "語言復振"
+      ],
+      "tags_special": [],
+      "dialect": "",
+      "excerpt": "inkuei-basaytts.hf.space 新增「聲音複製」功能上線"
+    },
+    {
       "slug": "blog260623",
       "title": "巴賽語有486種音節——規模超越日語與普通話",
       "subtitle": "新研究上線：《巴賽語音節目錄及其音韻類型學定位》",
