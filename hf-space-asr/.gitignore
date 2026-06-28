@@ -1,0 +1,20 @@
+# モデルファイル（HF Spaces で管理）
+whisper-basay-finetuned/
+whisper-basay-finetuned-v2/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# データセット
+dataset/
+
+# バイナリ辞書
+dictionary/*.parquet
+syllable/*.xlsx
+
+# OS
+.DS_Store

@@ -1,0 +1,15 @@
+# eSpeak NG バイナリ（環境依存）
+espeak-ng/
+
+# 音声データキャッシュ
+basay-data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# OS
+.DS_Store

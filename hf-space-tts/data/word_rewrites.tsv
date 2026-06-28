@@ -1,0 +1,28 @@
+# Basay TTS word rewrite dictionary (v3.1 test).
+# Format: source<TAB>target
+# - source matched case-insensitively, after suffix stripping at each iteration
+# - target may contain space → triggers re-tokenization (top-level full-bare match)
+vavan	vapvan
+vlay	vplay
+lave	lapve
+vkas	vukas
+wanak	uanak
+wanakk  uanakk
+valuvaiun'	valpvaiun'
+knaul'ijan	knau l'ijan
+labatan lapbatan
+kul-aba kul-apba
+ab apb
+vanan' banpan'
+tatvan tatpban
+tavan taban
+1 tsa
+2 lusa
+3 tsu
+4 so'pat
+5 tsjima
+6 ano'm
+7 pitu
+8 wasu
+9 siwa
+10 labatan

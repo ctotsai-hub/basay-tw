@@ -1,0 +1,10 @@
+# Basay fine-tuned 補正ルール
+# 形式: 誤認形 → 正規形  （1行1ルール）
+# フレーズはダブルクォートで囲む: "awin na" → auina
+jaku → yaku
+awin na -> auina
+auina -> auina
+vujivu → bumili u
+-ja- -> -ia-
+besau -> lesau
+Unaba-  -> bumaba-

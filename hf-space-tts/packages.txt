@@ -1,0 +1,4 @@
+build-essential
+cmake
+ffmpeg
+libsonic-dev

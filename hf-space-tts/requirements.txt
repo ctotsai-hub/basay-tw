@@ -1,0 +1,28 @@
+requests>=2.31
+markdown>=3.5
+Jinja2>=3.1
+pillow>=10.0
+pillow-heif>=0.13
+edge-tts>=6.1
+
+# ── voice clone dependencies ─────────────────────────────────────────────────
+# torch / torchaudio: install the CUDA 12.1 build on GPU Spaces;
+# CPU-only build installs automatically if no GPU is present.
+torch>=2.2.0
+torchaudio>=2.2.0
+# seed-vc model inference
+transformers>=4.38.0
+librosa>=0.10.0
+soundfile>=0.12.1
+huggingface_hub>=0.21.0
+pyyaml>=6.0
+einops>=0.7.0
+munch>=2.5.0
+# seed-vc uses torchaudio.compliance.kaldi (included in torchaudio)
+# bigvgan requires scipy
+scipy>=1.11.0
+numba>=0.57.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+pydub>=0.25.1
+descript-audio-codec>=1.0.0
