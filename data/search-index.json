@@ -2917,10 +2917,9 @@
   {
     "id": "0206",
     "basay": "jaku",
-    "category": "29",
+    "category": "02",
     "zh": [
-      "令人遺憾的",
-      "可憐"
+      "我"
     ],
     "ja": [
       "惜シイ"
@@ -2932,9 +2931,10 @@
   {
     "id": "0207",
     "basay": "jakumo",
-    "category": "02",
+    "category": "29",
     "zh": [
-      "我們的（排除式）"
+      "令人遺憾的",
+      "可憐"
     ],
     "ja": [
       "我々の】 (Exc.)"
@@ -2948,7 +2948,7 @@
     "basay": "jami uatsu",
     "category": "02",
     "zh": [
-      "我們的狗"
+      "我們（排除式）的狗"
     ],
     "ja": [
       "我々の】<我々の犬>"
@@ -8106,10 +8106,10 @@
   {
     "id": "0569",
     "basay": "nitsau a mata",
-    "category": "24",
+    "category": "28",
     "zh": [
-      "冷酷無情",
-      "玉米"
+      "因摩擦或受壓而導致皮膚變厚",
+      "變硬的部位「老繭」「胼胝 」。帶有中心核的疼痛性「雞眼」。"
     ],
     "ja": [
       "タコ,イオノ目"
@@ -15408,7 +15408,7 @@
   {
     "id": "1079",
     "basay": "tsumakatsakai | isu tsumakatsakai",
-    "category": "25",
+    "category": "20",
     "zh": [
       "走（你）"
     ],
@@ -15422,7 +15422,7 @@
   {
     "id": "1080",
     "basay": "tsumakau",
-    "category": "13",
+    "category": "28",
     "zh": [
       "孕吐"
     ],
@@ -17758,7 +17758,7 @@
   {
     "id": "1282",
     "basay": "knavalaun'",
-    "category": "34",
+    "category": "05",
     "zh": [
       "鄰居"
     ],
@@ -26247,7 +26247,7 @@
     "basay": "tatakka",
     "category": "15",
     "zh": [
-      "闕"
+      "鋤"
     ],
     "en": [
       "hoe"
