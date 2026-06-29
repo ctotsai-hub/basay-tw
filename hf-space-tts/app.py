@@ -1156,7 +1156,7 @@ def synthesize_audio_segments(bsy_voice_id, segments, output, env):
                     chunk_wavs.append(cw)
                 concatenate_wavs(chunk_wavs, seg_wav)
             if seg_wav.exists():
-                _normalize_segment(seg_wav)  # level bsy/zh before concat
+                # _normalize_segment(seg_wav)  # disabled: loudnorm on short segments causes harsh sound
                 seg_wavs.append(seg_wav)
         if seg_wavs:
             concatenate_wavs(seg_wavs, output)
