@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>語音轉文字功能上線— 現在也能聽懂了, 巴賽語 — 研究筆記 | basay.tw</title>
+
+
+<meta name="description" content="**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**">
+<link rel="canonical" href="https://basay.tw/blog/blog260629/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="語音轉文字功能上線— 現在也能聽懂了, 巴賽語">
+<meta property="og:description" content="**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**">
+<meta property="og:url" content="https://basay.tw/blog/blog260629/">
+<meta property="og:site_name" content="basay.tw 研究筆記">
+<meta property="og:locale" content="zh_TW">
+<meta property="article:published_time" content="2026-06-29">
+<meta property="article:section" content="研究筆記">
+<meta property="article:tag" content="語音轉文字">
+<meta property="article:tag" content="ASR">
+<meta property="article:tag" content="Whisper">
+<meta property="article:tag" content="巴賽語">
+<meta property="article:tag" content="南島語系">
+<meta property="article:tag" content="語言復振">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="語音轉文字功能上線— 現在也能聽懂了, 巴賽語">
+<meta name="twitter:description" content="**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@300;400;600;900&family=Noto+Sans+TC:wght@300;400;500&family=Noto+Serif:ital,wght@0,400;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#f7f3ec; --bg2:#efe9df; --ink:#1a1610; --ink2:#3a3428; --ink3:#6a6055;
+  --accent:#2a6b5a; --accent2:#c0522a; --gold:#8a6a20;
+  --border:#d4c9b8; --card-bg:#fdfaf5; --tag-bg:#e8e0d0; --code-bg:#1a1610;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:'Noto Serif TC',serif; font-size:16px; line-height:1.9; }
+
+header { border-bottom:1px solid var(--border); background:var(--bg); position:sticky; top:0; z-index:100; }
+h2, h3, h4 { scroll-margin-top: 72px; }
+.nav-inner { max-width:1100px; margin:0 auto; padding:0 24px; display:flex; align-items:center; justify-content:space-between; height:56px; }
+.site-logo { font-family:'Noto Serif TC',serif; font-weight:900; font-size:1rem; color:var(--ink); text-decoration:none; letter-spacing:0.05em; }
+.site-logo span { color:var(--accent); font-size:0.75em; display:block; font-weight:300; letter-spacing:0.15em; }
+nav a { font-family:'Noto Sans TC',sans-serif; font-size:0.82rem; color:var(--ink3); text-decoration:none; margin-left:22px; letter-spacing:0.05em; transition:color 0.2s; }
+nav a:hover, nav a.active { color:var(--accent); }
+
+.breadcrumb { max-width:1100px; margin:0 auto; padding:16px 24px 0; font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); display:flex; gap:6px; align-items:center; }
+.breadcrumb a { color:var(--ink3); text-decoration:none; }
+.breadcrumb a:hover { color:var(--accent); }
+.breadcrumb .sep { opacity:0.4; }
+
+.article-header { padding:8px 0 28px; margin-bottom:28px; border-bottom:1px solid var(--border); }
+.article-tags { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:16px; }
+.atag { font-family:'Noto Sans TC',sans-serif; font-size:0.68rem; letter-spacing:0.12em; padding:2px 10px; border-radius:1px; background:rgba(42,107,90,0.1); color:var(--accent); }
+.atag.red { background:rgba(192,82,42,0.1); color:var(--accent2); }
+.article-title { font-size:clamp(1.6rem,4vw,2.4rem); font-weight:900; line-height:1.25; letter-spacing:-0.01em; margin-bottom:1rem; }
+.article-subtitle { font-size:1rem; font-weight:300; color:var(--ink3); font-family:'Noto Sans TC',sans-serif; margin-bottom:1.5rem; line-height:1.7; }
+.article-meta { display:flex; align-items:center; gap:20px; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); flex-wrap:wrap; }
+.meta-date { font-weight:500; color:var(--ink2); }
+.meta-sep { opacity:0.3; }
+
+.content-wrap { max-width:1100px; margin:0 auto; padding:24px 24px 80px; display:grid; grid-template-columns:1fr 240px; gap:64px; align-items:start; }
+@media (max-width:768px) { .content-wrap { grid-template-columns:1fr; } .article-aside { display:none; } nav { display:none; } }
+.article-main { max-width:680px; }
+
+.article-body { max-width:680px; }
+.article-body h2 { font-size:1.3rem; font-weight:900; margin:2.5rem 0 1rem; padding-top:2rem; border-top:1px solid var(--border); letter-spacing:0.01em; }
+.article-body h2:first-child { margin-top:0; padding-top:0; border-top:none; }
+.article-body h3 { font-size:1.05rem; font-weight:600; margin:1.8rem 0 0.7rem; color:var(--ink2); }
+.article-body p { margin-bottom:1.3rem; font-size:1rem; line-height:2; }
+.article-body a { color:var(--accent); text-decoration:underline; text-underline-offset:3px; }
+.article-body strong { font-weight:600; color:var(--ink); }
+.article-body em { font-style:italic; font-family:'Noto Serif',serif; }
+.article-body ul, .article-body ol { margin:0 0 1.3rem 1.4rem; }
+.article-body li { margin-bottom:0.4rem; line-height:1.9; }
+.article-body img { max-width:100%; height:auto; margin:1.2rem 0; border:1px solid var(--border); border-radius:4px; }
+.basay { font-family:'Noto Serif',serif; font-style:italic; color:var(--accent); font-size:1.05em; }
+.article-body table { width:100%; border:1px solid var(--border); border-radius:4px; overflow:hidden; margin:1.5rem 0; font-family:'Noto Sans TC',sans-serif; font-size:0.85rem; border-collapse:collapse; }
+.article-body th { background:var(--bg2); padding:10px 16px; text-align:left; font-size:0.72rem; letter-spacing:0.1em; color:var(--ink3); border-bottom:1px solid var(--border); }
+.article-body td { padding:10px 16px; border-bottom:1px solid var(--border); }
+.article-body tbody tr:last-child td { border-bottom:none; }
+.article-body blockquote { border-left:3px solid var(--accent); margin:1.5rem 0; padding:12px 20px; background:rgba(42,107,90,0.04); border-radius:0 4px 4px 0; }
+.article-body blockquote p { font-family:'Noto Sans TC',sans-serif; font-size:0.9rem; color:var(--ink2); margin:0; line-height:1.8; }
+.article-body code { font-family:'JetBrains Mono',monospace; font-size:0.85em; background:var(--code-bg); color:#8fd4a0; padding:1px 6px; border-radius:2px; }
+.article-body pre { background:var(--code-bg); color:#e0e0e0; padding:16px 20px; border-radius:4px; overflow-x:auto; margin:1.3rem 0; font-family:'JetBrains Mono',monospace; font-size:0.82rem; line-height:1.7; }
+.article-body pre code { background:none; color:inherit; padding:0; }
+
+.article-footer { margin-top:3rem; padding-top:2rem; border-top:1px solid var(--border); }
+.article-footer .license { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; color:var(--ink3); line-height:1.8; }
+.share-label { font-family:'Noto Sans TC',sans-serif; font-size:0.72rem; letter-spacing:0.2em; color:var(--ink3); margin-top:1.5rem; margin-bottom:8px; }
+.share-btns { display:flex; gap:8px; }
+.share-btn { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border:1px solid var(--border); border-radius:2px; background:none; color:var(--ink3); cursor:pointer; text-decoration:none; transition:all 0.15s; display:inline-block; }
+.share-btn:hover { border-color:var(--accent); color:var(--accent); }
+
+.article-aside { position:sticky; top:72px; }
+.post-info-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:18px 20px; margin-bottom:16px; font-family:'Noto Sans TC',sans-serif; }
+.post-info-label { font-size:0.68rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; padding-bottom:8px; border-bottom:1px solid var(--border); }
+.post-info-list { list-style:none; }
+.post-info-list li { font-size:0.8rem; color:var(--ink2); padding:7px 0; line-height:1.5; display:flex; gap:10px; align-items:baseline; }
+.post-info-list .pi-key { font-size:0.62rem; color:var(--ink3); letter-spacing:0.15em; min-width:52px; flex-shrink:0; }
+.post-info-list .pi-val { color:var(--ink2); }
+.post-info-list .pi-val.accent { color:var(--accent); font-style:italic; font-family:'Noto Serif',serif; }
+
+.toc-box { background:var(--card-bg); border:1px solid var(--border); border-radius:4px; padding:20px; margin-bottom:20px; }
+.toc-label { font-family:'Noto Sans TC',sans-serif; font-size:0.7rem; letter-spacing:0.25em; color:var(--ink3); margin-bottom:12px; }
+.toc-list { list-style:none; }
+.toc-list li { border-top:1px solid var(--border); }
+.toc-list li:first-child { border-top:none; }
+.toc-list a { font-family:'Noto Sans TC',sans-serif; font-size:0.78rem; color:var(--ink3); text-decoration:none; display:block; padding:8px 0; line-height:1.5; transition:color 0.15s; }
+.toc-list a:hover, .toc-list a.active { color:var(--accent); }
+.toc-list .sub { padding-left:12px; font-size:0.72rem; }
+
+.aside-tts { background:rgba(42,107,90,0.06); border:1px solid rgba(42,107,90,0.2); border-radius:4px; padding:16px; text-align:center; }
+.aside-tts p { font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); margin-bottom:10px; line-height:1.7; }
+.tts-link { display:inline-block; background:var(--accent); color:white; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; padding:6px 16px; border-radius:2px; text-decoration:none; transition:background 0.2s; }
+.tts-link:hover { background:#1e5244; }
+
+footer { border-top:1px solid var(--border); padding:32px 24px; text-align:center; font-family:'Noto Sans TC',sans-serif; font-size:0.75rem; color:var(--ink3); }
+footer a { color:var(--ink3); text-decoration:none; }
+footer a:hover { color:var(--accent); }
+
+#reading-progress { position:fixed; top:55px; left:0; height:2px; background:var(--accent); width:0%; z-index:200; transition:width 0.1s; }
+</style>
+</head>
+<body>
+
+<div id="reading-progress"></div>
+
+<header>
+  <div class="nav-inner">
+    <a class="site-logo" href="../../">凱達格蘭・巴賽語<span>Ketagalan · Basay</span></a>
+    <nav>
+      <a href="../../">首頁</a>
+      <a href="../../grammar/">文法</a>
+      <a href="../../education/">教育推進</a>
+      <a href="../../research/">研究成果</a>
+      <a href="../" class="active">研究筆記</a>
+      <a href="https://inkuei-basaytts.hf.space/">語音合成</a>
+      <a href="../../dictionary/">辭典</a>
+    </nav>
+  </div>
+</header>
+
+<div class="breadcrumb">
+  <a href="../../">首頁</a><span class="sep">/</span>
+  <a href="../">研究筆記</a><span class="sep">/</span>
+  <span>語音轉文字功能上線— 現在也能聽懂了, 巴賽語</span>
+</div>
+
+<div class="content-wrap">
+  <div class="article-main">
+
+    <div class="article-header">
+      <div class="article-tags">
+        <span class="atag">語音轉文字</span><span class="atag">ASR</span><span class="atag">Whisper</span><span class="atag">巴賽語</span><span class="atag">南島語系</span><span class="atag">語言復振</span>
+        
+      </div>
+      <h1 class="article-title">語音轉文字功能上線— 現在也能聽懂了, 巴賽語</h1>
+      <p class="article-subtitle">**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**</p>
+      <div class="article-meta">
+        <span class="meta-date">2026年6月29日</span>
+        <span class="meta-sep">|</span>
+        <span>約 8 分鐘</span>
+        
+      </div>
+    </div>
+
+    <article class="article-body">
+<p>「語音轉文字」功能讓您說岀來的巴賽語，機器能轉成文字！</p>
+<p>這一次，在 <a href="https://inkuei-basaytts.hf.space/">inkuei-basaytts.hf.space</a> 加入了第三個分頁——<strong>語音轉文字（ASR）</strong>。上傳音檔或使用麥克風錄音，系統會自動將音聲轉錄為巴賽語正書法文字。</p>
+<p>![語音轉文字功能上線— 現在也能聽懂了, 巴賽語！　(img1.png)</p>
+<hr />
+<h2 id="asr">為什麼巴賽語 ASR 很難？</h2>
+<p>主流語音辨識服務（Google、OpenAI Whisper 等）的訓練資料幾乎不包含南島語系語言，遑論已消滅的巴賽語。直接送進 Whisper，輸出的要麼是亂碼，要麼是中文或英語的幻覺（hallucination）。</p>
+<p>要讓機器「聽懂」巴賽語，需要解決兩個問題：</p>
+<ol>
+<li><strong>聲學模型</strong>：讓模型認識巴賽語的語音</li>
+<li><strong>後處理</strong>：把模型輸出的近似音序，還原為正確的巴賽語正書法</li>
+</ol>
+<hr />
+<h2 id="fine-tuning">解法：Fine-tuning + 辭典後處理管線</h2>
+<h3 id="tts-whisper">🎙️ 聲學模型：用 TTS 音源訓練 Whisper</h3>
+<p>巴賽語目前沒有公開的人聲語料庫，因此反過來利用本計畫的 TTS 成果——以 eSpeak-NG 合成的巴賽語音檔作為訓練資料，對 <strong>OpenAI Whisper small</strong> 進行 fine-tuning。</p>
+<p>用 TTS 生出來的聲音去訓練 ASR，再用 ASR 去辨識真實人聲——這在某種程度上是在跨越人造與真實之間的鴻溝。效果當然有限，但這是目前在幾乎沒有任何標注語料的情況下，唯一可行的路徑。</p>
+<h3 id="_1">🔧 後處理管線：八道補正</h3>
+<p>Whisper 的輸出往往有系統性偏差（例如把 <code>q</code> 讀成 <code>k</code>、把 <code>j</code> 讀成 <code>y</code>）。為此設計了以下管線，依序對轉錄結果補正：</p>
+<ol>
+<li><strong>UI 補正規則</strong>（可在「進階設定」自訂）</li>
+<li><strong>音素補正</strong>：修正 fine-tuning 模型固有的系統性誤認</li>
+<li><strong>人称代名詞焦点等語素分離</strong>：</li>
+<li><strong>形態素再結合</strong>：過度切分的 token 依辭典照合後重新合併</li>
+<li><strong>語境界回復</strong>：融合 token 以最大匹配切分</li>
+<li><strong>辭典補正</strong>（cutoff 0.88）：各 token 對齊至最近鄰辭典項目</li>
+<li><strong>辭典查詢</strong>：輸出繁體中文・日文・英文對照語義</li>
+<li><strong>音節邊界解析</strong>：以 CV / CVC 形式標示音節結構</li>
+</ol>
+<hr />
+<h2 id="_2">現在能做到什麼</h2>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th>狀態</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>巴賽語音檔 → 正書法文字</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>辭典語義對照（繁中・日・英）</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>音節邊界解析</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>補正規則自訂（進階設定）</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>多語言混合輸入（繁中 + 巴賽語）</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>歷史音源的高精度辨識</td>
+<td>🔄 持續改善中</td>
+</tr>
+</tbody>
+</table>
+<p>自然語流的辨識精度還有進步空間——訓練資料全來自 TTS 合成聲音，與真實人聲之間存在音質落差。這是下一階段的課題。</p>
+<hr />
+<h2 id="_3">三個工具，現在在同一個地方</h2>
+<p><a href="https://inkuei-basaytts.hf.space/">inkuei-basaytts.hf.space</a> 現在整合了三項功能：</p>
+<ul>
+<li><strong>文字轉語音</strong> — 輸入巴賽語正書法，即時合成音聲</li>
+<li><strong>聲音複製</strong> — 用你自己的音色說出巴賽語（seed-vc）</li>
+<li><strong>語音轉文字</strong> — 說出巴賽語，轉錄為正書法文字</li>
+</ul>
+<p>語言復振的迴圈，在技術層面上，正在慢慢閉合。</p>
+<hr />
+<h2 id="_4">原始碼公開</h2>
+<p>本計畫所有程式碼已整合至 GitHub：</p>
+<p>👉 <a href="https://github.com/ctotsai-hub/basay-tw">github.com/ctotsai-hub/basay-tw</a></p>
+<pre><code>basay-tw/
+├── hf-space-asr/   # 語音轉文字（Whisper fine-tuned + 後處理）
+├── hf-space-tts/   # 文字轉語音・聲音複製・語音轉文字 統合 UI
+└── dictionary/     # 3,000+ 語辭典
+</code></pre>
+<p>模型本體（<code>.safetensors</code>）因容量限制僅存放於 Hugging Face，程式碼在 GitHub 完整公開。</p>
+<hr />
+<h2 id="_5">背景：一個人的語言復振</h2>
+<p>本計畫在完全沒有公共資助的情況下，以業餘時間推進。<br />
+eSpeak-NG 音聲定義、basay.tw 的建置、TTS・VC・ASR 三個 Space 的維運——全部使用免費或開源資源。</p>
+<p>如果你覺得這個計畫有意義，最大的支持，就是把它分享出去。</p>
+<hr />
+<p><strong>立即試用</strong></p>
+<p>👉 <a href="https://inkuei-basaytts.hf.space/">inkuei-basaytts.hf.space</a>  — 點選「語音轉文字」分頁即可開始</p>
+<hr />
+<p><em>Kisaizi a kawase a Basay — 大家一起說巴賽語。</em></p>
+<hr />
+<p>本文採 CC BY-NC-SA 4.0 授權。<br />
+引用時請標明出處：basay.tw 研究筆記「語音轉文字功能讓您說岀來的巴賽語，機器能轉成文字！」（2026年6月28日）</p>
+
+      <div class="article-footer">
+        <div class="license">
+          本文採 <strong>CC BY-NC-SA 4.0</strong> 授權。引用時請標明出處：<br>
+          basay.tw 研究筆記「語音轉文字功能上線— 現在也能聽懂了, 巴賽語」（2026年6月29日）
+        </div>
+        <div class="share-label">SHARE</div>
+        <div class="share-btns" id="share-btns">
+          <a class="share-btn" id="share-fb" target="_blank" rel="noopener">Facebook</a>
+          <a class="share-btn" id="share-x" target="_blank" rel="noopener">X / Twitter</a>
+          <button class="share-btn" id="share-copy" type="button">複製連結</button>
+        </div>
+      </div>
+
+    </article>
+
+  </div><!-- /article-main -->
+
+  <aside class="article-aside">
+    <div class="post-info-box">
+      <div class="post-info-label">ARTICLE INFO</div>
+      <ul class="post-info-list">
+        <li><span class="pi-key">DATE</span><span class="pi-val">2026年6月29日</span></li>
+        <li><span class="pi-key">READING</span><span class="pi-val">約 8 分鐘</span></li>
+        
+        <li><span class="pi-key">TAGS</span><span class="pi-val">語音轉文字 · ASR · Whisper · 巴賽語 · 南島語系 · 語言復振</span></li>
+      </ul>
+    </div>
+
+    
+    <div class="toc-box">
+      <div class="toc-label">目次</div>
+      <ul class="toc-list">
+        
+        <li><a href="#asr">為什麼巴賽語 ASR 很難？</a></li>
+        
+        <li><a href="#fine-tuning">解法：Fine-tuning + 辭典後處理管線</a></li>
+        
+        <li><a href="#tts-whisper" class="sub">🎙️ 聲學模型：用 TTS 音源訓練 Whisper</a></li>
+        
+        <li><a href="#_1" class="sub">🔧 後處理管線：八道補正</a></li>
+        
+        <li><a href="#_2">現在能做到什麼</a></li>
+        
+        <li><a href="#_3">三個工具，現在在同一個地方</a></li>
+        
+        <li><a href="#_4">原始碼公開</a></li>
+        
+        <li><a href="#_5">背景：一個人的語言復振</a></li>
+        
+      </ul>
+    </div>
+    
+
+    <div class="aside-tts">
+      <p>巴賽語 TTS で<br>試聴する</p>
+      <a class="tts-link" href="https://inkuei-basaytts.hf.space/" target="_blank" rel="noopener">▶ 語音合成</a>
+    </div>
+  </aside>
+
+</div>
+
+<footer>
+  <p>© 2026 basay.tw ｜ <a href="../../about/">關於</a> ｜ <a href="https://github.com/ctotsai-hub/basay-tw">GitHub</a> ｜ 內容採 CC BY-NC-SA 4.0 授權</p>
+</footer>
+
+<script>
+window.addEventListener('scroll', () => {
+  const doc = document.documentElement;
+  const scrollTop = doc.scrollTop || document.body.scrollTop;
+  const scrollHeight = doc.scrollHeight - doc.clientHeight;
+  const pct = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+  document.getElementById('reading-progress').style.width = pct + '%';
+});
+
+// Share buttons
+(function () {
+  var url = window.location.href;
+  var title = document.title;
+  var fb = document.getElementById('share-fb');
+  var x  = document.getElementById('share-x');
+  var cp = document.getElementById('share-copy');
+  if (fb) fb.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url);
+  if (x)  x.href  = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(url) + '&text=' + encodeURIComponent(title);
+  if (cp) {
+    cp.addEventListener('click', async function () {
+      var done = function () {
+        var orig = cp.textContent;
+        cp.textContent = '✓ 已複製';
+        setTimeout(function () { cp.textContent = orig; }, 1800);
+      };
+      try {
+        await navigator.clipboard.writeText(url);
+        done();
+      } catch (e) {
+        var ta = document.createElement('textarea');
+        ta.value = url;
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { document.execCommand('copy'); done(); } catch (_) {}
+        document.body.removeChild(ta);
+      }
+    });
+  }
+})();
+</script>
+</body>
+</html>
