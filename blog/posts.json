@@ -1,6 +1,24 @@
 {
   "posts": [
     {
+      "slug": "blog260629",
+      "title": "語音轉文字功能上線— 現在也能聽懂了, 巴賽語",
+      "subtitle": "**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**",
+      "date": "2026-06-29",
+      "reading_time": "約 8 分鐘",
+      "tags": [
+        "語音轉文字",
+        "ASR",
+        "Whisper",
+        "巴賽語",
+        "南島語系",
+        "語言復振"
+      ],
+      "tags_special": [],
+      "dialect": "",
+      "excerpt": "**inkuei-basaytts.hf.space 新增「語音轉文字」，以 Whisper fine-tuning + 3,000 詞辭典實現巴賽語 ASR**"
+    },
+    {
       "slug": "blog260624",
       "title": "用你自己的聲音唸出巴賽語",
       "subtitle": "inkuei-basaytts.hf.space 新增「聲音複製」功能上線",
